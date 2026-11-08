@@ -20,27 +20,14 @@
     "The United States would pay for clearing and breaking land for each band and build houses for the chiefs (Article 4), and supply oxen, tools, carpenters, blacksmiths, farm laborers and a physician for ten years (Article 5).",
     "No band had to move until Articles 4 and 6 were carried out, and the Mille Lac Indians, because of their good conduct, would not be compelled to remove so long as they did not molest the persons or property of whites (Article 12)."
   ],
-  "status": "broken",
-  "breaches": [
-    {
-      "kind": "court-ruling",
-      "date": "1913-06-09",
-      "what": "The Supreme Court described the long dispute over the Mille Lac Band's right under Article 12 to stay on its 1855 reservation, and held that the Mille Lac lands not covered by settler entries made before the 1889 Act were disposed of under the general land laws, not for the Indians' benefit but in disregard of their rights. That violated the trust the 1889 Act created and the Indians were entitled to recover. It also held that settler entries made before 1889 were validly patented, and sent the case back for damages to be reassessed.",
-      "whoFoundIt": "United States v. Mille Lac Band of Chippewa Indians, 229 U.S. 498 (1913)",
-      "source": {
-        "title": "United States v. Mille Lac Band of Chippewa Indians in the State of Minnesota, 229 U.S. 498 (1913)",
-        "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep229/usrep229498/usrep229498.pdf",
-        "publisher": "Library of Congress, United States Reports"
-      },
-      "quote": "not for the benefit of the Indians, but in disregard of their rights"
-    }
-  ],
+  "status": "no-breach-found",
+  "breaches": [],
   "landTaken": "Royce areas 453 to 457: the Gull Lake, Mille Lac, Sandy Lake, Rabbit Lake, Pokagomin Lake and Rice Lake reservations of 1855, less small grants to named persons. The Mille Lac tract was a little more than 61,000 acres of four fractional townships and three islands (229 U.S. 498, 499).",
   "compensation": "The treaty paid by extended annuities and the services listed. The Court of Claims had given the Mille Lac claimants a judgment of $827,580.72, which the Supreme Court reversed in 1913 and remanded for reassessment; the final amount was not found in a source opened.",
-  "today": "The Mille Lacs Band reports that on March 4, 2022 a federal district judge held its 1855 reservation boundaries had never been diminished or disestablished, and that on February 12, 2025 the Eighth Circuit dismissed the county's appeal as moot and directed that the ruling be vacated, leaving the boundary question open for a future case.",
+  "today": "In United States v. Mille Lac Band of Chippewa Indians, 229 U.S. 498 (June 9, 1913), the Supreme Court held that Mille Lac lands not covered by settler entries made before the Act of January 14, 1889 were disposed of 'not for the benefit of the Indians, but in disregard of their rights', in violation of the trust that 1889 Act created, and remanded for damages to be reassessed. The Court treated the Article 12 dispute as settled by that Act, and said it was not questioned that this treaty's annuities were paid and Articles IV and VI complied with. The Mille Lacs Band reports that on March 4, 2022 a federal district judge held its 1855 reservation boundaries had never been diminished or disestablished, and that on February 12, 2025 the Eighth Circuit dismissed the county's appeal as moot and directed that the ruling be vacated, leaving the boundary question open for a future case.",
   "plain": {
     "promised": "A new home around Leech Lake for their 1855 reservations, ten more years of annuities, cleared land, houses, tools and workers, and the Mille Lac Band's right to stay so long as they did not molest whites.",
-    "happened": "The Supreme Court held in 1913 that Mille Lac lands were disposed of in disregard of the Indians' rights, violating the trust created by an 1889 Act, so the Band could recover. It did not find Article 12 itself violated.",
+    "happened": "No breach of this treaty itself has been documented yet. In 1913 the Supreme Court found Mille Lac lands were disposed of in disregard of the Indians' rights, but it held that broke the trust of an 1889 Act, not this treaty.",
     "today": "The Court of Claims judgment of $827,580.72 was reversed for reassessment, and the final amount has not been found. The Band reports a 2022 ruling that its 1855 boundaries were intact was later vacated, leaving the question open."
   },
   "nationVoice": [
@@ -78,7 +65,7 @@
     }
   ],
   "openQuestions": [
-    "The 1913 ruling found a breach of the trust created by the Act of January 14, 1889 (25 Stat. 642), which the Mille Lacs accepted and which settled the Article 12 dispute; the Court did not hold that Article 12 itself was violated. An auditor may prefer to count this only for the Nelson Act cession.",
+    "Audit 2026-11-08: removed the 1913 Supreme Court ruling as a breach and the status fell from broken to no-breach-found. The opinion (229 U.S. 498, 503-509) holds the violation was of the trust created by the Act of January 14, 1889, which the Mille Lacs accepted and which the Court read as composing the Article 12 dispute; it says it was 'not questioned' that the 1864 annuities were paid and Articles IV and VI complied with, and it does not hold this treaty violated. The ruling is kept in 'today' and belongs as a breach on the 1889 Nelson Act cession.",
     "The 2022 district court opinion and the 2025 Eighth Circuit opinion were not opened; 'today' is attributed to the Band's newspaper.",
     "The amount finally recovered after the 1913 remand was not found.",
     "Whether the Indian Claims Commission or Court of Claims ruled on Articles 4 to 6 (clearing, houses, tools, staff) was not checked; the Supreme Court said in 1913 that it was not questioned that the annuities were paid and Articles 4 and 6 complied with.",

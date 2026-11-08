@@ -1,0 +1,57 @@
+{
+  "id": "cession-1828-05-06-cherokee-nation-west-of-mississippi-river",
+  "name": "Treaty with the Western Cherokee, 1828",
+  "aka": ["Treaty of Washington, May 6, 1828, with the Cherokee Nation West of the Mississippi"],
+  "signed": "1828-05-06",
+  "proclaimed": "1828-05-28",
+  "citation": "7 Stat. 311",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-western-cherokee-1828-0288",
+  "nations": ["Cherokee Nation West of the Mississippi (the Arkansas Cherokee, or Old Settlers), today part of the Cherokee Nation and the United Keetoowah Band of Cherokee Indians"],
+  "promises": [
+    "The preamble promised the Cherokee a permanent home, theirs forever under the most solemn guarantee of the United States, never to be placed inside the lines or jurisdiction of a Territory or State.",
+    "The United States would possess the Cherokee of seven million acres west of Arkansas and guarantee them forever, and further guaranteed a perpetual outlet west with free and unmolested use of the country west of that tract (Article 2).",
+    "The lines would be run by October 1, 1828 and all white persons removed east of the line and kept out (Article 3).",
+    "Abandoned improvements in Arkansas would be valued and paid for, and the United States would pay $50,000 after removal, $2,000 a year for three years for lost stock, and $8,760 for spoliations (Articles 4 and 5).",
+    "In return the Western Cherokee surrendered their Arkansas lands secured by the treaties of 1817 and 1819, to leave within fourteen months (Article 7)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1961-04-03",
+      "what": "The Indian Claims Commission found that the Cherokee were subject to duress when the United States obtained their cession of the Cherokee Outlet, the 6,022,754.17 acres west of the Arkansas River guaranteed to them as a perpetual outlet by this treaty and later treaties, and awarded $14,789,476.15, the difference between the land's fair market value of $22,585,328.14 and the $7,795,851.99 paid.",
+      "whoFoundIt": "Indian Claims Commission, Cherokee Nation v. United States, Docket 173, opinion and interlocutory order of April 3, 1961 (9 Ind. Cl. Comm. 162), under clause 3 of section 2 of the Indian Claims Commission Act",
+      "source": {
+        "title": "Cherokee Nation v. United States, Docket 173, Opinion of the Commission (April 3, 1961)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/60",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "The Cherokees were subject to duress in obtaining from them a cession of the subject tract"
+    }
+  ],
+  "landTaken": "Under this treaty the Western Cherokee gave up their Arkansas lands secured by the treaties of 1817 and 1819 (Article 7). The Cherokee Outlet guaranteed by Article 2 was ceded under an agreement of December 19, 1891; the Commission found the Outlet contained 8,144,682.91 acres, of which 6,022,754.17 acres west of the Arkansas River had not been set apart for other tribes and were the subject of the claim (Docket 173).",
+  "compensation": "Final judgment for the Cherokee Nation in the adjudicated amount of $14,789,476.15 was entered on September 14, 1961, on a stipulation by which neither side appealed; the Commission noted it had already found the value and the consideration, so the amount was not a compromise of value (Docket 173).",
+  "today": "The Commission's findings trace the seven-million-acre tract and the outlet to Articles 2 and 3 of this treaty, restated in the treaties of 1833 and 1835 and conveyed by patent of December 31, 1835.",
+  "nationVoice": [],
+  "sources": [
+    { "title": "Treaty with the Western Cherokee, 1828 (Kappler, vol. 2, p. 288)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-western-cherokee-1828-0288", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
+    { "title": "Cherokee Nation v. United States, Docket 173, Findings of Fact (April 3, 1961)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/338", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Cherokee Nation v. United States, Docket 173, Opinion of the Commission (April 3, 1961)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/60", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Cherokee Nation v. United States, Docket 173, Opinion of the Commission on the stipulation (September 14, 1961)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/119", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Cherokee Nation v. United States, Docket 173, Final Judgment (September 14, 1961)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/173", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+  ],
+  "openQuestions": [
+    "Kappler page: the OSU Tribal Treaties Database places this treaty at Kappler vol. 2, p. 288, and the Commission's 1961 findings cite it as '2 Kapp. 288'. The HathiTrust seq for that page was not confirmed, so no kappler link is proposed for treaties.json.",
+    "The Outlet guarantee was made by this treaty and repeated in the treaties of 1833 and 1835; the Commission's award runs to the Cherokee Nation as a whole, not only to the Western Cherokee who signed in 1828.",
+    "Royce Area 143 (the Arkansas lands given up here): no Commission or court finding on the price paid for it was found.",
+    "The preamble promise that the home would never be placed inside a Territory or State was not traced against Oklahoma statehood; no finding on it was opened.",
+    "No Cherokee Nation or United Keetoowah Band account of this treaty was found in this pass."
+  ],
+  "plain": {
+    "promised": "A permanent home of seven million acres west of Arkansas, guaranteed forever, a perpetual outlet to the west, removal of white settlers, and payments, in return for the Western Cherokee's Arkansas lands.",
+    "happened": "In 1961 the Indian Claims Commission found the United States obtained the Cherokee Outlet, the land guaranteed as that outlet, under duress, paying $7,795,851.99 for land worth $22,585,328.14.",
+    "today": "Final judgment of $14,789,476.15 was entered for the Cherokee Nation in September 1961."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "kappler-134",
+  "name": "Treaty with the Sauk, 1816 (Sauk of Rock River, St. Louis)",
+  "aka": ["Treaty of St. Louis, 1816", "Treaty with the Sacs of Rock River"],
+  "signed": "1816-05-13",
+  "proclaimed": "1816-12-30",
+  "citation": "7 Stat. 141",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-1816-0126",
+  "nations": ["Sauk (Sacs of Rock River)"],
+  "promises": [
+    "Article 2: the United States to place the Sauk of Rock River on the same footing as before the War of 1812, provided they returned by July 1, 1816 all property taken from American citizens since being notified of the Treaty of Ghent.",
+    "Article 1 (the Sauk side): the Sauk of Rock River confirmed the treaty of St. Louis of November 3, 1804 and all earlier agreements between the Sauk and the United States.",
+    "Article 3: if the property was not returned, the Sauk signers' share of the annuities under the 1804 treaty would be forfeited."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "This treaty gave no new land; it confirmed the 1804 cession (Royce Areas 50 and 51). The Indian Claims Commission's finding on the price paid for that cession belongs to the 1804 treaty (kappler-82), not to this one. No ruling, Act of Congress or government admission that this treaty's own terms were broken was found.",
+  "nationVoice": [
+    {
+      "nation": "Black Hawk (Ma-ka-tai-me-she-kia-kiak), Sauk",
+      "summary": "Black Hawk, who signed this treaty as Black Sparrow Hawk, wrote in his 1833 autobiography that he touched the goose quill to it without being told that it confirmed giving away his village, and that he would never have signed had that been explained.",
+      "url": "https://www.gutenberg.org/ebooks/7097"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Sauk, 1816 (Kappler, vol. 2, p. 126)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-1816-0126",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Autobiography of Ma-ka-tai-me-she-kia-kiak, or Black Hawk (1833)",
+      "url": "https://www.gutenberg.org/ebooks/7097",
+      "publisher": "Project Gutenberg"
+    }
+  ],
+  "openQuestions": [
+    "Black Hawk's account says the treaty's meaning was not explained to the signers. That is a statement about consent, not a breach of a promise in the treaty, so it is recorded in nationVoice and not as a breach. Jordan may decide whether such an account should mark a treaty as contested.",
+    "Whether Article 3 was ever applied (any Sauk annuities forfeited for unreturned property) was not researched.",
+    "No account from the Sac and Fox Nation, the Sac and Fox Nation of Missouri or the Meskwaki Nation about this specific treaty was found.",
+    "treaties.json lists 'Sauk and Fox' and all three Sac and Fox nations; the treaty was made only with the Sauk of Rock River and the adjacent country."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

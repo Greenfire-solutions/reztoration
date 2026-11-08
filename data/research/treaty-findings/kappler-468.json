@@ -1,0 +1,35 @@
+{
+  "id": "kappler-468",
+  "name": "Treaty with the Wyandot, 1836",
+  "aka": ["Wyandot treaty of April 23, 1836"],
+  "signed": "1836-04-23",
+  "citation": "7 Stat. 502",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-wyandot-1836-0460",
+  "nations": ["Wyandot (Wendat) of Ohio, today the Wyandotte Nation"],
+  "promises": [
+    "The Wyandot ceded a five-mile strip on the east end of their Crawford County reservation, a section in Cranberry Swamp and 160 acres (Article 1).",
+    "The land would be surveyed and sold with sixty days' notice, by a register and receiver chosen in line with the chiefs' wishes (Articles 2 and 3).",
+    "From the proceeds, up to $20,000 would go to mills, roads, schools and other public objects under the chiefs' direction, and the rest would be distributed to tribal members like annuities (Article 5).",
+    "The chiefs could have a sale closed if they were not satisfied with the prices (Article 8)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce Areas 211, 212 and 213 in Crawford County, Ohio: the 38,400-acre Five Mile Strip and two marshland tracts of 640 and 160 acres (Dockets 212 and 213, 1976).",
+  "compensation": "The Indian Claims Commission found the fair market value of Areas 211, 212 and 213 on April 23, 1836 was $104,640, and ordered the case to proceed to the consideration paid and offsets (interlocutory order of August 5, 1976). That value finding is not a finding of liability.",
+  "today": "Before the consideration was decided, the Commission certified and transferred Dockets 212 and 213 to the Court of Claims in July 1978, under Public Law 94-465. The outcome there was not traced.",
+  "nationVoice": [],
+  "sources": [
+    { "title": "Treaty with the Wyandot, 1836 (Kappler, vol. 2, p. 460)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-wyandot-1836-0460", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
+    { "title": "Zane et al. on behalf of the Wyandotte Tribe v. United States, Dockets 212 and 213, Opinion of the Commission (August 5, 1976)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2247", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Zane et al. v. United States, Dockets 212 and 213, Interlocutory Order (August 5, 1976)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1385", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Zane et al. v. United States, Dockets 212 and 213, Opinion and Order (February 9, 1977)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2766", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Order Certifying and Transferring Cases to the United States Court of Claims (July 1978), including Dockets 212 and 213", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2035", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+  ],
+  "openQuestions": [
+    "Lead for the next pass: a 1984 Senate Select Committee on Indian Affairs document reportedly concerns distribution of Wyandotte judgment funds including Dockets 212 and 213 in the Claims Court. If the Court of Claims or Claims Court found the 1836 consideration unconscionable, this file should become broken; the judgment was not found or opened.",
+    "The Proclamation date is printed 'May 16, 1836' on the OSU page with a stray separator; it is left out until checked against the Statutes at Large.",
+    "No Wyandotte Nation account of this treaty was found in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

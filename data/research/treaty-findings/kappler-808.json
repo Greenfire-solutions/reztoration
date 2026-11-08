@@ -1,0 +1,55 @@
+{
+  "id": "kappler-808",
+  "name": "Treaty with the Kansa, 1859",
+  "aka": ["Kansa treaty of October 5, 1859"],
+  "signed": "1859-10-05",
+  "ratified": "1860-06-27",
+  "proclaimed": "1860-11-17",
+  "citation": "12 Stat. 1111",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-kansa-tribe-1859-0800",
+  "nations": ["Kanza (Kaw)"],
+  "promises": [
+    "Article 1: a tract nine miles by fourteen in the southwest corner of the Council Grove reservation kept by the tribe and assigned in severalty, with land for the agency and schools.",
+    "Article 2: the retained land to be known as the Kansas reservation, with the federal trade and intercourse laws in force over it.",
+    "Article 3: assigned tracts not to be alienated, leased or disposed of except to the United States or other members of the tribe, and exempt from taxation, levy, sale or forfeiture until Congress provided otherwise.",
+    "Article 4: the rest of the reservation to be sold in parcels of up to 160 acres to the highest bidder for cash on sealed proposals, the proceeds spent on houses, tools, stock and other help to start farming."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "Royce records that the retained reserve and the trust lands were sold under this treaty and Acts of Congress of May 8, 1872, June 23, 1874, July 5, 1876 and March 16, 1880, and that the tribe moved to a new reserve in Indian Territory. In the Kaw accounting claim (Docket 33) the Indian Claims Commission read this treaty in 1952 as the tribe taking on the cost of the farming aid it describes. The Commission's findings that the 1846 cessions were unconscionable belong to the 1846 treaty (kappler-560).",
+  "nationVoice": [
+    {
+      "nation": "Kaw Nation",
+      "summary": "The Nation's Kanza Timeline describes the October 5, 1859 treaty as removing the town of Council Grove from Kanza lands and leaving the tribe with 80,000 acres, and says the Kanza were led to Indian Territory in 1872 under strong protest by the people.",
+      "url": "https://www.kawnation.gov/wp-content/uploads/2024/02/KANZATimeline.pdf"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Kansa, 1859 (Kappler, vol. 2, p. 800)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-kansa-tribe-1859-0800",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "McCauley (Kaw Tribe) v. United States, Docket 33, Opinion of the Commission (May 15, 1952)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/309",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Kanza Timeline",
+      "url": "https://www.kawnation.gov/wp-content/uploads/2024/02/KANZATimeline.pdf",
+      "publisher": "Kaw Nation"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule pp. 822-823",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/822/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json error: scheduleTribes includes 'Western Shoshoni', presentDayTribes the Te-Moak Tribe of Western Shoshone, the states include Nevada, and the Royce areas include 422. On Royce p. 822 the Western Shoshoni row is a separate, undated entry under the same date (a 6-mile-square reserve selected by agent Jarvis at Ruby Valley, Nevada, area 422). It has nothing to do with this Kansa treaty and should be its own entry; treaties.json was not edited.",
+    "Article 4 required sale of the surplus to the highest bidder for cash on sealed proposals. Whether the later Acts (1872 to 1880), which Royce says governed the sales, overrode that term without Kaw consent is the main lead for a deeper pass; the statutes were not opened."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

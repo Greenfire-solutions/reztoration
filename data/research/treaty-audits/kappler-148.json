@@ -1,0 +1,17 @@
+{
+  "id": "kappler-148",
+  "auditedAt": "2026-11-08",
+  "verdict": "downgraded",
+  "checked": [
+    "OSU Kappler text: July 8, 1817, 7 Stat. 156, proclaimed December 26, 1817.",
+    "1835 Treaty of New Echota, Article 13 (OSU): a general settlement of claims for reservations under all former treaties; names the 1817 treaty only to confirm reservations the 1819 treaty put back in Cherokee land. The quote 'as it is only a just fulfillment of former treaty stipulations' is exact.",
+    "Docket 2 opinion of February 19, 1952 (pointer 253) dismissed; Docket 24 opinion of April 3, 1952 (pointer 311); Eastern Band compromise of $1,855,254.50 (pointer 2321)."
+  ],
+  "changes": [
+    "Status changed from broken to no-breach-found: Article 13 does not admit a breach of this treaty or name any 1817 reservee whose reservation was sold or lost; it is a general settlement covering all former treaties. Moved to 'today'.",
+    "plain removed with the breach; the 'For Jordan' open question replaced by the audit note."
+  ],
+  "unverifiable": [
+    "Cherokee Nation history page not re-opened."
+  ]
+}

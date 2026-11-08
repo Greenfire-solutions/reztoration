@@ -1,0 +1,17 @@
+{
+  "id": "cession-1855-11-09-indians-on-coast-of-oregon",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "United States v. Alcea Band of Tillamooks, 329 U.S. 40 (decided November 25, 1946, Cornell LII): reservation created November 9, 1855 'subject to future diminution and almost identical' with the unratified treaty; Tillamooks confined, the other three tribes moved; claims are for the taking 'when they were deprived of their original possessions by the Executive Order of November 9, 1855' (quote exact); taking without consent or compensation; jurisdictional act of 1935 (49 Stat. 801); affirms 103 Ct. Cl. 494; 1865 reduction, 1875 statute approving the 1855 and 1865 orders, and no taking without compensation after the 1894 Act",
+    "Executive Orders Relating to Indian Reserves (GPO 1902) pp. 95-96, Oregon Department of Education copy: McClelland letter of November 8, 1855 ('subject to future curtailment, if found proper', or release should Congress not sanction) and Pierce's order of November 9, 1855",
+    "Royce schedule: Nov. 9, 1855 Executive order, Coast reservation from the mouth of the Tsiltcoos River to a point due east of Cape Lookout",
+    "Confederated Tribes of Siletz Indians, Creating the Coast (Siletz) Reservation: says the temporary-reservation story is false, was used to open lands and to force the 1892 cession of 191,000 acres",
+    "The court ruling names this order; status broken is supported",
+    "Plain lines checked against the file: they add nothing"
+  ],
+  "changes": [],
+  "unverifiable": [
+    "The Royce area number (400 or 479) is a treaties.json question, already in openQuestions"
+  ]
+}

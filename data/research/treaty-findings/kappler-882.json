@@ -1,0 +1,96 @@
+{
+  "id": "kappler-882",
+  "name": "Treaty with the Winnebago, 1865",
+  "aka": [
+    "Treaty of March 8, 1865, with the Winnebago"
+  ],
+  "signed": "1865-03-08",
+  "ratified": "1866-02-13",
+  "proclaimed": "1866-03-28",
+  "citation": "14 Stat. 671",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-winnebago-1865-0874",
+  "nations": [
+    "Ho-Chunk (Winnebago), now the Winnebago Tribe of Nebraska and the Ho-Chunk Nation of Wisconsin"
+  ],
+  "promises": [
+    "Article 1: the Winnebago gave up the Dakota reservation at Usher's Landing on the Missouri River where they had been placed in 1863 (Royce 468).",
+    "Article 2: the United States set apart, as a permanent home, a tract in Nebraska Territory on the Missouri River that the Omaha had ceded for the purpose.",
+    "Article 3: a steam saw-mill with a grist-mill attached; 100 acres broken, fenced and seeded for each band; $2,000 worth of guns, 400 horses, 100 cows, 20 yoke of oxen with wagons and $500 worth of farm tools.",
+    "Article 4: an agency building, school-house, warehouse, houses for the agency staff and a house for each chief.",
+    "Article 5: removal of the tribe and its property to the new home, and subsistence for one year after arrival."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "litigation",
+      "date": "1970-09-03",
+      "what": "In Docket 243 the Winnebago claimed compensation for the Dakota lands (Royce 468) ceded by this treaty and damages from the methods the United States used to remove them. The claim was settled with other Winnebago claims in Dockets 243, 244 and 245 by a compromise final judgment of $4,600,000; the Commission made no finding on this treaty.",
+      "whoFoundIt": "Indian Claims Commission, Winnebago Tribe and Nation v. United States, Dockets 243, 244 and 245, Findings of Fact on Compromise Settlement and Final Judgment, 23 Ind. Cl. Comm. 464 (1970)",
+      "source": {
+        "title": "Winnebago Tribe and Nation of Indians v. United States, Dockets 243, 244, 245, Findings of Fact on Compromise Settlement, September 3, 1970",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1872",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "2026-11-08",
+      "what": "The Winnebago Tribe of Nebraska says its reservation was established by the treaties of 1865 and 1874 and that the General Allotment Act of 1887 cost it about two thirds of the reservation by 1913.",
+      "whoFoundIt": "Winnebago Tribe of Nebraska, tribal history page",
+      "source": {
+        "title": "Winnebago Tribe of Nebraska, history",
+        "url": "https://winnebagotribe.com/?p=67",
+        "publisher": "Winnebago Tribe of Nebraska"
+      },
+      "quote": "The General Allotment Act of 1887 resulted in the loss of about two thirds of the Reservation by 1913."
+    }
+  ],
+  "compensation": "No payment specific to this treaty was traced. The Winnebago claims in Dockets 243, 244 and 245, which included the 1865 Dakota cession and removal damages, were settled together for $4,600,000 (final judgment, September 3, 1970).",
+  "today": "The Winnebago Reservation in Nebraska, set apart by this treaty and enlarged in 1874, remains the home of the Winnebago Tribe of Nebraska.",
+  "nationVoice": [
+    {
+      "nation": "Winnebago Tribe of Nebraska",
+      "summary": "The Tribe's history says it was moved from northeast Iowa to Minnesota to South Dakota before reaching Nebraska, that its reservation rests on the 1865 and 1874 treaties, and that allotment took about two thirds of it by 1913.",
+      "url": "https://winnebagotribe.com/?p=67"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Winnebago, 1865 (Kappler transcription)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-winnebago-1865-0874",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule entry 468",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/834/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Winnebago Tribe and Nation of Indians v. United States, Dockets 243, 244, 245, Findings of Fact on Compromise Settlement, September 3, 1970",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1872",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Winnebago Tribe and Nation of Indians v. United States, Final Judgment, September 3, 1970",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2308",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Winnebago Tribe of Nebraska, history",
+      "url": "https://winnebagotribe.com/?p=67",
+      "publisher": "Winnebago Tribe of Nebraska"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json lists Royce 468, 469 and 470 for this treaty. Royce 468 is the Dakota (Crow Creek) reservation ceded here; 469 and 470 were not read and may be the Nebraska tract the Winnebago received rather than land they gave up. Royce 470 is also listed for cession-1888-07-04-winnebago.",
+    "No court or Commission finding was found that the Article 3 to 5 goods, buildings, mills or subsistence were not delivered; Commissioner of Indian Affairs reports for 1865 to 1868 are the place to look.",
+    "Whether the 1887 allotment and the sales of Winnebago land breached the Article 2 promise of a permanent home has not been tied to a finding; the Ho-Chunk Nation of Wisconsin's account was not sought."
+  ],
+  "plain": {
+    "promised": "The Winnebago gave up their Dakota reservation for a permanent home in Nebraska, with a mill, farmland broken and seeded, livestock, buildings, removal costs and a year of food.",
+    "happened": "No court or claims commission finding on this treaty was found. A Winnebago claim covering the Dakota land and the removal was settled without a finding. The Tribe says allotment took about two thirds of its reservation by 1913.",
+    "today": "The claims were settled together for $4,600,000 in 1970. The Winnebago Tribe of Nebraska still lives on the reservation this treaty set apart."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

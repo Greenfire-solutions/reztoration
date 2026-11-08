@@ -20,7 +20,13 @@
   "status": "no-breach-found",
   "breaches": [],
   "today": "The Indian Claims Commission cites this act (25 Stat. 1013) as extending the general allotment act to the confederated tribes, who it says were by then generally called the Peoria. No Commission finding of a breach under this act was found.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Peoria Tribe of Indians of Oklahoma",
+      "summary": "The Tribe says the Confederated Peoria removed to Indian Territory under the 1867 Omnibus Treaty, that their lands there were subjected to the General Allotment Act, that all tribal land had been allotted by 1893, and that by 1915 the tribe held no tribal land or land in restricted status at all.",
+      "url": "https://web.archive.org/web/20260531224612/https://peoriatribe.com/welcome/history/"
+    }
+  ],
   "sources": [
     {
       "title": "Act of March 2, 1889, ch. 422, 25 Stat. 1013",
@@ -41,6 +47,11 @@
       "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
       "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
       "publisher": "Internet Archive"
+    },
+    {
+      "title": "History (Peoria Tribe of Indians of Oklahoma), Wayback Machine copy of May 31, 2026",
+      "url": "https://web.archive.org/web/20260531224612/https://peoriatribe.com/welcome/history/",
+      "publisher": "Peoria Tribe of Indians of Oklahoma"
     }
   ],
   "openQuestions": [

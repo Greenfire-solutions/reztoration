@@ -1,0 +1,17 @@
+{
+  "id": "kappler-978",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty (OSU): 15 Stat. 531, ratified July 25, 1868, proclaimed August 7, 1868.",
+    "Docket 96 findings (OSU id 163, September 18, 1958): Finding 15 'The patent was never issued', 575,877 acres, November 9, 1870 approval.",
+    "1964 opinion and supplemental findings (OSU ids 734 and 757): 213,044.78 acres allotted, surplus corrected to 362,832.22 acres, $1,090,000 value, $160,000 paid, unconscionable.",
+    "Final judgment (OSU id 1195, August 27, 1968): net $797,508.99.",
+    "Act of May 23, 1872, 17 Stat. 159-160 (govinfo): section 2 Absentee Shawnee allotments in the thirty-mile square tract with no payment to the Potawatomi."
+  ],
+  "changes": [
+    "Surplus acreage corrected from 362,838.22 to 362,832.22 in 'what' and 'compensation' per Supplemental Finding 18 (1964), which corrected the 1958 figure.",
+    "Added 17 Stat. 160 to sources; added an audit line to openQuestions."
+  ],
+  "unverifiable": []
+}

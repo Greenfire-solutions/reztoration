@@ -1,0 +1,51 @@
+{
+  "id": "cession-1875-04-13-blackfoot-blood-gros-ventre-piegan-river",
+  "name": "Executive Order of April 13, 1875 adding land south of the Missouri to the Gros Ventre, Blackfoot and River Crow reservation",
+  "aka": [
+    "Royce cessions 622 and 623"
+  ],
+  "signed": "1875-04-13",
+  "citation": "Executive Order of April 13, 1875",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/880/mode/2up",
+  "nations": [
+    "Amskapi Piikani (Blackfeet Nation; Piegan, Blood and Blackfoot)",
+    "Aaniiih (Gros Ventre), Fort Belknap Indian Community",
+    "Apsáalooke (River Crow), Crow Tribe",
+    "Assiniboine (Nakoda), whom Royce says the government assigned a future home on this reserve"
+  ],
+  "promises": [
+    "This was an addition, not a cession: the President added to the reservation of the Gros Ventre, Piegan, Blood, Blackfoot and River Crow a tract south of the Missouri River. Royce records that the country had belonged partly to the Crow, who ceded their rights on May 7, 1868, and partly to the Assiniboine.",
+    "Royce records that the Assiniboine had ceded their claim by an 1866 treaty that was never ratified, and that the government admitted its effect so far as the land was concerned by assigning them a future home on the Blackfoot reservation."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "Royce records that a portion of the addition was given back to the public domain by Executive Order of July 13, 1880 (see cession-1880-07-13-blackfoot-blood-gros-ventre-piegan-river) and that the remainder was still part of the reserve when he wrote.",
+  "nationVoice": [
+    {
+      "nation": "Blackfeet Nation (Amskapi Piikani)",
+      "summary": "The Nation's own history says that after Lame Bull's Treaty of 1855 more treaties and agreements followed, each taking large parts of its traditional land, made when the people were not equipped to negotiate or even understand them.",
+      "url": "http://web.archive.org/web/20100308002858/http://www.blackfeetnation.com/about-the-blackfeet/our-history.html?showall=1"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule entry 622 and 623 (Executive Order of April 13, 1875)",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/880/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Blackfeet Nation, Our History (Wayback capture of March 8, 2010)",
+      "url": "http://web.archive.org/web/20100308002858/http://www.blackfeetnation.com/about-the-blackfeet/our-history.html?showall=1",
+      "publisher": "Blackfeet Nation"
+    }
+  ],
+  "openQuestions": [
+    "The 1875 order gave land to these tribes, so no promise of its own was found to have been broken. Its loss came later: part by the Executive Order of July 13, 1880, the rest presumably in the agreements ratified May 1, 1888; whether the 1888 cession (ICC Docket 279-A) covered this remainder was not checked on the map.",
+    "The Court of Claims in 1935 credited against the tribes' 1874 loss 'certain other lands' it found had been added to their reservation (as recounted by the ICC in 1952). Whether those were this 1875 addition was not confirmed, because the 1935 opinion (81 Ct. Cl. 101) was not opened.",
+    "Royce notes that '42nd degree' in the order's description should read '47th'. The order itself was read only in Royce's summary.",
+    "treaties.json gives this entry and cession-1880-07-13-blackfoot-blood-gros-ventre-piegan-river the same Royce areas (622, 623). Royce's remarks suggest one area is the part restored in 1880 and the other the part kept; the split was not confirmed.",
+    "No Fort Belknap (Aaniiih and Nakoda) or Fort Peck Assiniboine account of this addition was found."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

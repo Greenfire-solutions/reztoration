@@ -1,11 +1,16 @@
 {
   "id": "cession-1889-10-24-chippewa-of-the-mississippi-and-lake-sup",
   "name": "Grand Portage agreement under the Nelson Act, signed October 24, 1889",
-  "aka": ["Nelson Act cession, Grand Portage band", "Act for the relief and civilization of the Chippewa Indians in the State of Minnesota (Nelson Act)"],
+  "aka": [
+    "Nelson Act cession, Grand Portage band",
+    "Act for the relief and civilization of the Chippewa Indians in the State of Minnesota (Nelson Act)"
+  ],
   "signed": "1889-10-24",
   "citation": "Act of January 14, 1889, ch. 24, 25 Stat. 642; agreement printed in H. R. Ex. Doc. 247, 51st Cong., 1st sess.",
   "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg642.pdf",
-  "nations": ["Grand Portage Band of Lake Superior Chippewa"],
+  "nations": [
+    "Grand Portage Band of Lake Superior Chippewa"
+  ],
   "promises": [
     "Section 1: an Indian already holding an allotment on the reservation not to be deprived of it or disturbed except by his own separate consent; the cession valid only if assented to in writing by two-thirds of the band's male adults.",
     "Section 3: allotments in severalty; any Indian could take his allotment on the reservation where he lived instead of removing to White Earth.",
@@ -25,6 +30,16 @@
         "url": "https://www.doi.gov/node/3522",
         "publisher": "US Department of the Interior"
       }
+    },
+    {
+      "kind": "nation-statement",
+      "what": "The Grand Portage Band states that the Nelson Act of 1889, together with the Dawes Act, allowed speculators to grab large portions of its reservation land.",
+      "whoFoundIt": "Grand Portage Band of Lake Superior Chippewa, Our Heritage page on the Band's website",
+      "source": {
+        "title": "Our Heritage",
+        "url": "https://grandportage.com/index.php/misc/about/our-heritage",
+        "publisher": "Grand Portage Band of Lake Superior Chippewa"
+      }
     }
   ],
   "landTaken": "Royce records that the band ceded to the United States all its title and interest in the Grand Portage reservation (Royce area 339, set apart by the 1854 treaty), and its interest in the part of the Red Lake reservation not needed for allotments. Under the Act, land not allotted was to be sold for the Chippewa fund.",
@@ -35,7 +50,13 @@
     "happened": "The Minnesota Chippewa Tribe, which includes the Grand Portage Band, claimed the sale money was misspent and land and timber sold below full value. No formal finding specific to this cession has been located.",
     "today": "The claims were settled for $20 million in 1999, covering all six member bands. The Bureau of Indian Affairs said in 2012 no fund was left to share out. Whether the settlement money was distributed was not checked."
   },
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Grand Portage Band of Lake Superior Chippewa",
+      "summary": "The Band says the 1854 treaty set aside Grand Portage as one of two small reservations, that the Dawes Act of 1887 and the Nelson Act of 1889 let speculators take large parts of the reservation, and that the tribe has since bought some of that land back.",
+      "url": "https://grandportage.com/index.php/misc/about/our-heritage"
+    }
+  ],
   "sources": [
     {
       "title": "Act of January 14, 1889, ch. 24, 25 Stat. 642 (Nelson Act)",
@@ -61,6 +82,11 @@
       "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 938 and remarks p. 797",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/938/mode/2up",
       "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Our Heritage",
+      "url": "https://grandportage.com/index.php/misc/about/our-heritage",
+      "publisher": "Grand Portage Band of Lake Superior Chippewa"
     }
   ],
   "openQuestions": [
@@ -68,7 +94,7 @@
     "The 1999 settlement is a compromise and is recorded as litigation, not a finding. No court or Commission finding specific to the Grand Portage cession was found.",
     "The agreement itself (H. R. Ex. Doc. 247, 51st Cong., 1st sess.) was not opened; the date and terms are from Royce and the Act.",
     "Whether the Grand Portage band's land was in fact ceded entire, as Royce's wording says, or kept as allotments with only the surplus sold, was not established; the reservation exists today.",
-    "The Grand Portage Band's own account of the Nelson Act was not found in this pass."
+    "Audit 2026-11-08: removed the stale open question saying the Grand Portage Band's own account was not found; the file now cites the Band's Our Heritage page, which was opened and says the Dawes and Nelson Acts allowed speculators to grab up large portions of reservation land."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

@@ -1,17 +1,28 @@
 {
   "id": "cession-1880-03-06-uta",
   "auditedAt": "2026-11-08",
-  "verdict": "corrected",
+  "verdict": "downgraded",
   "checked": [
     "402 U.S. 159, decided April 26, 1971: note 3 quote exact (Brief for Petitioner 5); 1950 consent judgments, 117 Ct. Cl. 433, aggregate over $31 million; 220,000 and 82,000 acres; 15.7 million acre reservation and 3.7 million acre Brunot Cession; White River and Uncompahgre left before 1882.",
     "330 U.S. 169 (1947): Congress, aroused by the massacre, took steps to punish, dispossess and remove the Utes, by the Act of June 15, 1880.",
     "ICC Docket 349 (1965): net judgment of $300,000 on a stipulated compromise, correctly recorded as litigation.",
-    "KSL / Deseret News October 2022: quote exact; Uncompahgre Reservation homelands restoration demand."
+    "KSL / Deseret News October 2022: quote exact; Uncompahgre Reservation homelands restoration demand.",
+    "Second pass 2026-11-08: 402 U.S. 159 note 3 ('not promptly paid', Brief for Petitioner 5) is attached to the sentence on the 1874 Brunot Cession, 18 Stat. 36, not the 1880 agreement. The first pass confirmed the quote but not what it was about.",
+    "Second pass: 402 U.S. 159 note 2, the aggregate of the 1950 settlements exceeded $31 million; majority holds the 1880 Act ceded Royce areas 616 and 617; Southern Ute claim of 220,000 and 82,000 acres held barred, merits not reached.",
+    "Second pass: 330 U.S. 169 (decided February 17, 1947) affirmed against the Utes: no compensable interest in the 1875 executive-order lands, 'the Government has performed all that it promised'. Its account of Congress moving to punish, dispossess and remove the Utes is context, not a finding.",
+    "Second pass: ICC Docket 349 findings and final judgment, February 18, 1965: compromise for $300,000 net of offsets, expressly not an admission. ICC Docket 328 (1966) found Southern Ute land not ceded in 1880, later reversed by 402 U.S. 159. ICC Docket 327 (1962) is the Brunot Cession, Royce Area 566.",
+    "Second pass: KSL / Deseret News quote re-checked exact; the statement was made on Wednesday, October 12, 2022.",
+    "Second pass: cession-1880-09-11-uta.json (same agreement) already omits the admission, treats 330 U.S. 169 as a ruling against the Utes and is contested; consistent, not edited."
   ],
   "changes": [
-    "Removed an open question that contradicted the recorded Ute nation statement."
+    "Removed an open question that contradicted the recorded Ute nation statement.",
+    "Second pass: removed the government-admission breach (note 3 of 402 U.S. 159 concerns the 1874 Brunot Cession).",
+    "Second pass: removed the act-of-congress breach citing 330 U.S. 169; the 1880 Act ratified this agreement and the 1947 case went against the Utes. Moved to today and openQuestions.",
+    "Second pass: status lowered from broken to contested (two litigation breaches and one nation statement remain).",
+    "Second pass: dropped 'annuities' from the promises (no opened source states them); landTaken no longer implies an 1880 acreage; compensation says the $31 million is the aggregate of all 1950 settlements; today adds the 1947 and 1971 rulings against the Utes; plain rewritten to match."
   ],
   "unverifiable": [
-    "21 Stat. 199 itself was not opened; the promises rest on the Supreme Court and ICC descriptions, as the file already says."
+    "21 Stat. 199 itself was not opened; the promises rest on the Supreme Court and ICC descriptions, as the file already says.",
+    "Second pass: the Government's 1971 brief (Brief for Petitioner 5) and 117 Ct. Cl. 433 were not opened; whether the 1880 consideration was paid on time is unknown."
   ]
 }

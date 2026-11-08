@@ -1,0 +1,76 @@
+{
+  "id": "kappler-542",
+  "name": "Treaty with the Wyandot, 1842 (Treaty of Upper Sandusky)",
+  "aka": ["Wyandot treaty of March 17, 1842"],
+  "signed": "1842-03-17",
+  "proclaimed": "1842-10-05",
+  "citation": "11 Stat. 581",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-wyandot-1842-0534",
+  "nations": ["Wendat (Wyandot)"],
+  "promises": [
+    "Article 2: in return for the cession, a tract of 148,000 acres west of the Mississippi, on land owned by the United States and set apart for Indian use.",
+    "Article 3: a perpetual annuity of $17,500 in specie, the first payment in 1842 to speed the move west.",
+    "Article 4: $500 a year forever for a school under the chiefs' direction.",
+    "Article 5: the full value of Wyandot improvements in Ohio and Michigan, appraised by two sworn persons, paid after April 1, 1843.",
+    "Articles 6, 8 and 9: payment of $23,860 in Wyandot debts, a blacksmith and assistant with supplies, and a sub-agent and interpreter to protect Wyandot persons and property."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "government-admission",
+      "date": "1850-04-01",
+      "what": "In the treaty of April 1, 1850, ratified by the Senate and proclaimed by the President, the United States recited that the Wyandot never received the 148,000 acres promised in Article 2 of this treaty and were forced to buy land from the Delaware, and paid $185,000 to settle the claim.",
+      "whoFoundIt": "Treaty with the Wyandot, 1850 (9 Stat. 987), preamble, ratified September 24, 1850 and proclaimed September 30, 1850",
+      "source": {
+        "title": "Treaty with the Wyandot, 1850 (Kappler, vol. 2, p. 587)",
+        "url": "https://treaties.okstate.edu/treaties/treaty-with-the-wyandot-1850-0587",
+        "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+      },
+      "quote": "The said Indians never did receive the said one hundred and forty-eight thousand acres of land from the United States"
+    }
+  ],
+  "landTaken": "The rest of the Grand Reserve at Upper Sandusky in Crawford County, Ohio, about 109,144 acres, and the Wyandot reserve on both sides of the Huron River in Michigan, about 4,996 acres (Royce Areas 259 and 260).",
+  "compensation": "The 1850 treaty paid $185,000 for the Wyandot release of the 148,000 acres, at $1.25 an acre: $100,000 invested at 5 percent and $85,000 paid to the nation. In the Wyandotte claim for its Ohio and Michigan cessions (Dockets 212 and 213) the Indian Claims Commission found in 1976 that Royce Area 259 was worth $510,430 and Royce Area 260 $21,000 on October 5, 1842; it had not decided the consideration or liability when it transferred the case to the Court of Claims in July 1978.",
+  "today": "How the Court of Claims disposed of Dockets 212 and 213 was not found.",
+  "plain": {
+    "promised": "148,000 acres west of the Mississippi, a $17,500 yearly annuity, a school fund, payment for improvements left in Ohio and Michigan, debts paid, and a blacksmith and agent, in return for the last Wyandot land in Ohio and Michigan.",
+    "happened": "In an 1850 treaty the United States itself stated that the Wyandot never received the 148,000 acres and were forced to buy land from the Delaware.",
+    "today": "The 1850 treaty paid $185,000 for the missing land. A Claims Commission case on the value of the Ohio and Michigan land went to the Court of Claims in 1978; its outcome is not recorded here."
+  },
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Wyandot, 1842 (Kappler, vol. 2, p. 534)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-wyandot-1842-0534",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Treaty with the Wyandot, 1850 (Kappler, vol. 2, p. 587)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-wyandot-1850-0587",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Zane et al. (Wyandotte Tribe) v. United States, Dockets 212 and 213, Opinion of the Commission (August 5, 1976)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2247",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Zane et al. (Wyandotte Tribe) v. United States, Dockets 212 and 213, Interlocutory Order (August 5, 1976)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1385",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Order Certifying and Transferring Cases to the Court of Claims, including Dockets 212 and 213 (July 1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2035",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json error: scheduleTribes includes 'Delaware; Wyandot' and presentDayTribes the Delaware Nation, and the Royce areas include 263. The Delaware were not party to this treaty; area 263 is the Delaware land the Wyandot bought by the agreement of December 14, 1843 (its own entry, kappler-1056).",
+    "The Commission cites this treaty as 7 Stat. 607; Kappler gives 11 Stat. 581. The Kappler citation is used here.",
+    "The 1850 settlement paid for the 148,000 acres at $1.25 an acre; whether that made good the Wyandot loss (including what they paid the Delaware) was not researched.",
+    "No account by the Wyandotte Nation about this treaty was found; its website's history pages did not load at the addresses tried."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

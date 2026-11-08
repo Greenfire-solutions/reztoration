@@ -1,12 +1,16 @@
 {
   "id": "kappler-469",
   "name": "Treaty with the Chippewa, 1836 (Swan Creek and Black River bands)",
-  "aka": ["Treaty of Washington, May 9, 1836 (Swan Creek and Black River Chippewa)"],
+  "aka": [
+    "Treaty of Washington, May 9, 1836 (Swan Creek and Black River Chippewa)"
+  ],
   "signed": "1836-05-09",
   "proclaimed": "1836-05-25",
   "citation": "7 Stat. 503",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-1836-0461",
-  "nations": ["Swan Creek and Black River bands of Chippewa (Anishinaabe), Michigan"],
+  "nations": [
+    "Swan Creek and Black River bands of Chippewa (Anishinaabe), Michigan"
+  ],
   "promises": [
     "Article 2: the net proceeds of selling the ceded tracts, after survey, sale and treaty costs, to be paid to the bands: $10,000 in annuities of $1,000 a year for ten years and the rest invested in state stock with the interest paid yearly.",
     "Article 2: the lands to be surveyed and offered for sale at the Detroit land office as soon as practicable after ratification, with a special Treasury account kept of the sales.",
@@ -15,7 +19,7 @@
   ],
   "status": "no-breach-found",
   "breaches": [],
-  "landTaken": "The four reserves made for the bands by the treaty of Detroit (1807) on Lake St. Clair and the St. Clair river (Royce areas 214 to 217, Michigan), which Article 1 estimated at 8,320 acres. Royce notes that the reserves as surveyed in 1810 measured 5,760 acres at Swan creek, 534 acres near Salt creek, 262.7 acres at the river Au Vaseau and 1,200 acres at Black river.",
+  "landTaken": "The four reserves made for the bands by the treaty of Detroit (1807) on Lake St. Clair and the St. Clair river (Royce areas 214 to 217, Michigan), which Article 1 estimated at 8,320 acres. Royce notes that the reserves as surveyed in 1810 measured 5,760 acres at Swan creek, 262.7 acres at the river Au Vaseau and 1,200 acres at Black river, with a fourth tract on Lake St. Clair above Salt creek whose acreage the scanned text does not show clearly.",
   "compensation": "Payment was the net proceeds of the land sales (Article 2) and the 8,320 acres in the west (Article 4). How much the sales brought was not found.",
   "today": "Royce links this treaty to areas 417 and 418 in Kansas, the land located for the bands in the west; by the treaty of July 16, 1859 the Swan Creek and Black River Chippewa and the Munsee (Christian Indians) united as one band, kept up to seven sections of that tract and had the rest sold in trust. The Saginaw Chippewa Indian Tribe of Michigan includes descendants of the Swan Creek and Black River bands (Indian Claims Commission, Docket 13-H, 1953).",
   "nationVoice": [],
@@ -46,7 +50,8 @@
     "Whether the land sales at Detroit were made and the net proceeds paid and invested as Article 2 required was not traced; the Treasury's special account would answer it.",
     "When and where the 8,320 acres promised by Article 4 were located (Royce areas 417 and 418, Kansas) was not confirmed from a primary record.",
     "treaties.json lists the Stockbridge Munsee Community, Wisconsin, and 'Christian Indians or Munsee' for this entry. The Munsee were not party to this treaty; they come in only through the 1859 treaty that united them with these bands in Kansas (kappler-800), and whether the Kansas Munsee are represented by the Stockbridge Munsee Community was not established.",
-    "No account by the Saginaw Chippewa Indian Tribe of this treaty was found in this pass."
+    "No account by the Saginaw Chippewa Indian Tribe of this treaty was found in this pass.",
+    "Audit 2026-11-08: the Salt creek tract's acreage was removed; the Internet Archive text of Royce reads '5.34 a<res', which cannot be read reliably as 534 acres."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

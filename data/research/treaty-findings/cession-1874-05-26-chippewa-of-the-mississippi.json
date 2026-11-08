@@ -1,0 +1,46 @@
+{
+  "id": "cession-1874-05-26-chippewa-of-the-mississippi",
+  "name": "Executive Orders of May 26, 1874 making second additions to the Leech Lake and Lake Winnibigoshish reservations",
+  "aka": [
+    "Royce cessions 567 and 568"
+  ],
+  "signed": "1874-05-26",
+  "citation": "Executive Orders of May 26, 1874",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/874/mode/2up",
+  "nations": [
+    "Pillager and Lake Winnibigoshish bands of Chippewa (Ojibwe), now within the Leech Lake Band of Ojibwe",
+    "Mississippi bands of Chippewa (Ojibwe)"
+  ],
+  "promises": [
+    "These were additions, not cessions: on May 26, 1874 the President set apart a second addition to the Leech Lake reservation (Royce 567) and a second addition to the Lake Winnibigoshish reservation (Royce 568), both from land the Chippewa of the Mississippi had ceded by the treaty of March 19, 1867 (Royce 507)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "Royce records that under the Nelson Act agreement signed August 21, 1889, the Pillager and Lake Winnibigoshish bands ceded to the United States their reservations under the 1855 treaty together with the executive addition made by the order of May 26, 1874. Royce shows the Chippewa, Leech Lake and Winnibigoshish reservations as then limited in area 710.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule entry 567 and 568 (Executive Orders of May 26, 1874)",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/874/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule entry 507 (treaty of March 19, 1867), remarks",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/846/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule entry Nelson Act agreements of 1889, Pillager and Winnibigoshish bands (6)",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/936/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The orders gave land to the bands, so no promise of their own was found to have been broken. The loss came with the August 21, 1889 Nelson Act agreement, which has its own queue entry; the Minnesota Chippewa Tribe's Nelson Act claims (ICC Dockets 19 and 188) were not reopened here.",
+    "Royce's remarks on the 1867 cession were read in the full-text scan; the page number in the link (846) was not checked against the page image.",
+    "treaties.json lists Mille Lacs and White Earth as present-day tribes; the additions were to the Leech Lake and Winnibigoshish reserves, now part of the Leech Lake Band of Ojibwe, which is not listed.",
+    "No Leech Lake Band account of the 1874 additions was looked for beyond Royce; the orders were read only in Royce's summary."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

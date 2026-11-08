@@ -1,0 +1,22 @@
+{
+  "id": "cession-1864-05-05-uta",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Act of May 5, 1864, ch. 77, 13 Stat. 63 (govinfo): sections 1 to 3 as recorded (survey into lots of not more than 80 acres, sale on sealed bids at not less than appraised value, proceeds to improvements, stock and implements, Uinta Valley set apart for permanent settlement and exclusive occupation, $30,000)",
+    "Act of June 18, 1878, ch. 266, 20 Stat. 165 (govinfo): repeals the appraisal and sale provision and directs restoration to the public domain; no provision for the Indians",
+    "Royce schedule pp. 830-831, areas 449 to 452: Spanish Fork, Corn Creek and San Pete reserves made by Agent Hurt in 1856, Deep Creek by Agent Jarvis in 1859; the unratified treaty of June 8, 1865 would have ceded the four reserves, 'containing 291,480 acres, at 62 1/2 cents per acre'; partly repealed by act of June 18, 1878",
+    "ICC Docket 44 Findings of Fact, February 21, 1957 (5 Ind. Cl. Comm. 1, id 255): Findings 3, 5, 6, 11 to 13; Docket 44 Interlocutory Order (id 66); Docket 45 Findings (id 13) on the October 3, 1861 executive order",
+    "ICC Dockets 44 and 45 Final Judgment (id 450): joint stipulation, $7,700,000, signed by officers of the Ute Indian Tribe of the Uintah and Ouray Reservation among others; dated '2 day of June, 1960' in the OCR, index date June 13, 1960",
+    "Kind: the 1960 judgment is a stipulated settlement, correctly litigation",
+    "Act-of-congress breach: the 1878 Act repealed the 1864 sale provision whose proceeds were to be spent for the Indians; the statute says so"
+  ],
+  "changes": [
+    "Promise 1 and plain.promised: 'the Indians did not consent' (unsourced) replaced by 'its text contains no provision for the Indians' consent'",
+    "Claims-commission breach reworded: liability is for lands the plaintiffs might later prove were disposed of or acquired; added Findings 6 and 13",
+    "plain.happened updated to match"
+  ],
+  "unverifiable": [
+    "Whether the Deep Creek reserve lies inside the Commission's Finding 3 area was not plotted, as the file says"
+  ]
+}

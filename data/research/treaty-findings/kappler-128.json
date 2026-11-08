@@ -20,7 +20,13 @@
   "breaches": [],
   "compensation": "No land was ceded by this treaty; it promised a share of the 1804 annuities.",
   "today": "The Sac and Fox claim for the lands ceded in 1804 was heard in Indian Claims Commission Docket 83 (interlocutory order of June 12, 1959 on title). That claim concerns the 1804 treaty and is not recorded as a breach of this 1815 treaty.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Sac and Fox Nation of Missouri in Kansas and Nebraska",
+      "summary": "The Nation says the Treaty of 1815 officially named the Sac and Fox of Missouri a distinct tribe and moved the band from Iowa and Illinois to northeast Missouri, after the 1804 treaty, which Black Hawk did not accept as valid, had ceded Saukenuk, and before the Treaty of 1837 moved the band across the Missouri River into Kansas.",
+      "url": "https://sacandfoxks.com/history/tribe"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Sauk, 1815 (Kappler, vol. 2, p. 120)",
@@ -31,6 +37,11 @@
       "title": "Sac and Fox Tribe of Indians of Oklahoma et al. v. United States, Docket 83, Interlocutory Order (June 12, 1959)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/140",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Tribe History",
+      "url": "https://sacandfoxks.com/history/tribe",
+      "publisher": "Sac and Fox Nation of Missouri in Kansas and Nebraska"
     }
   ],
   "openQuestions": [

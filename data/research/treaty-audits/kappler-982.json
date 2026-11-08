@@ -1,0 +1,15 @@
+{
+  "id": "kappler-982",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty (OSU): 16 Stat. 719, ratified April 8, 1867, proclaimed April 18, 1867; Articles 1, 2, 3 (about two million acres) and 7 match.",
+    "White Earth Reservation Land Settlement Act, 100 Stat. 61 (govinfo): the quoted finding is exact."
+  ],
+  "changes": [
+    "'today' corrected: section 5(d) of the 1986 Act ratifies the reallotment under the 1889 Act of allotments first made under this treaty, so the allotments were not all outside this treaty. Status unchanged; decision for Jordan added to openQuestions."
+  ],
+  "unverifiable": [
+    "ICC Docket 18-T opinion was not re-opened."
+  ]
+}

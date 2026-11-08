@@ -1,0 +1,49 @@
+{
+  "id": "kappler-64",
+  "name": "Treaty with the Choctaw, 1801 (Treaty of Fort Adams)",
+  "aka": [
+    "Treaty of Fort Adams"
+  ],
+  "signed": "1801-12-17",
+  "ratified": "1802-04-30",
+  "proclaimed": "1802-05-04",
+  "citation": "7 Stat. 66",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-choctaw-1801-0056",
+  "nations": [
+    "Chahta (Choctaw), now the Choctaw Nation of Oklahoma, the Mississippi Band of Choctaw Indians and the Jena Band of Choctaw Indians"
+  ],
+  "promises": [
+    "Article 1: peace and friendship, with the Choctaw under the care and protection of the United States.",
+    "Article 2: the Choctaw consented to a wagon road through their lands from the Mississippi Territory settlements to the Chickasaw lands, a highway for both United States citizens and the Choctaw.",
+    "Article 3: the old British line parallel to the Mississippi was to be retraced and marked; the Choctaw quit claim to the land between it and the Mississippi, from the 31st parallel to the Yazoo River; settlers found beyond the line were to be moved within it and their cabins demolished.",
+    "Article 5: in return, goods worth $2,000 at first cost in Philadelphia and three sets of blacksmith's tools."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "Goods worth $2,000 and three sets of blacksmith's tools (Article 5). No Claims Commission decision on this cession was found among the Choctaw dockets searched (16, 39, 51, 52, 55, 56, 103, 249, 269).",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Choctaw, 1801 (Kappler transcription)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-choctaw-1801-0056",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule entry 43 (treaty of December 17, 1801)",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/660/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Choctaw Nation v. United States, Docket 249, Opinion of the Commission, December 6, 1973 (accounting claims; not about this treaty)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2253",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "Whether the United States removed the settlers found on the Choctaw side of the retraced line, as Article 3 provides, and whether the goods and tools were delivered, was not traced; War Department and Indian Office records of 1802 to 1803 are the place to look.",
+    "The Choctaw dockets were searched by title only; a Choctaw claim covering early cessions may sit under another title. The Indian Claims Commission's 1978 Final Report docket list was not checked.",
+    "No account of this treaty by the Choctaw Nation of Oklahoma, the Mississippi Band or the Jena Band was found."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

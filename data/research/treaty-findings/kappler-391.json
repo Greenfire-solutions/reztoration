@@ -36,6 +36,11 @@
       "title": "Seneca-Cayuga Tribe of Oklahoma v. United States, Order Certifying and Transferring Cases to the Court of Claims (1978)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2724",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "A Guide to the Indian Tribes of OK: Seneca (Muriel H. Wright, as published by the Nation)",
+      "url": "https://sctribe.com/node/150",
+      "publisher": "Seneca-Cayuga Nation"
     }
   ],
   "openQuestions": [
@@ -44,7 +49,13 @@
     "No Seneca-Cayuga Nation or Eastern Shawnee Tribe account of this treaty was found.",
     "Which present-day nations succeed the Lewistown band (the queue lists Seneca-Cayuga and Shawnee tribes) was not confirmed from a nation's own source."
   ],
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Seneca-Cayuga Nation",
+      "summary": "The history the Nation publishes on its website (Muriel H. Wright's text from A Guide to the Indian Tribes of Oklahoma) says the Seneca of Sandusky reached the Cowskin River in 1832 after an eight-month removal from Ohio marked by delay and great suffering, and that the treaty made at the Seneca Agency on December 29, 1832 joined them with the Mixed Band of Seneca and Shawnee as the United Nation of Seneca and Shawnees, dividing the tract east of the Neosho between the two groups.",
+      "url": "https://sctribe.com/node/150"
+    }
+  ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"
 }

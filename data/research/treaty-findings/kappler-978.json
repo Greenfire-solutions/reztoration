@@ -24,7 +24,7 @@
     {
       "kind": "claims-commission",
       "date": "1958-09-18",
-      "what": "The Indian Claims Commission found that the United States promised in this treaty to set the reservation apart for the tribe's exclusive use and to issue a patent to the Potawatomi Nation, that the patent was never issued, and that the 1867 treaty was at least a contract to grant title. It held the United States obligated to account to the Citizen Band for the value, as of June 25, 1890, of the 362,838.22 unallotted acres of the 575,877-acre reservation.",
+      "what": "The Indian Claims Commission found that the United States promised in this treaty to set the reservation apart for the tribe's exclusive use and to issue a patent to the Potawatomi Nation, that the patent was never issued, and that the 1867 treaty was at least a contract to grant title. It held the United States obligated to account to the Citizen Band for the value, as of June 25, 1890, of the unallotted part of the 575,877-acre reservation, which it later fixed at 362,832.22 acres (Supplemental Finding 18, 1964).",
       "whoFoundIt": "Indian Claims Commission, Docket 96, findings of fact (Finding 15) and interlocutory order of September 18, 1958, 6 Ind. Cl. Comm. 646",
       "source": {
         "title": "Citizen Band of Potawatomi Indians of Oklahoma v. United States, Docket 96, Findings of Fact (1958), 6 Ind. Cl. Comm. 646",
@@ -46,7 +46,7 @@
     }
   ],
   "landTaken": "Royce area 506, the reservation of 575,877 acres between the Canadian River and its North Fork that the Secretary of the Interior approved on November 9, 1870 (Docket 96, Findings 15 and 16). It was given up by the agreement of June 25, 1890, after allotments of 213,044.78 acres to Citizen Band members.",
-  "compensation": "The Commission found the $160,000 paid in 1890 for the 362,838.22 surplus acres unconscionable against a value of $1,090,000 and, after offsets, entered a net recovery of $797,508.99 on August 27, 1968 (Docket 96).",
+  "compensation": "The Commission found the $160,000 paid in 1890 for the 362,832.22 surplus acres unconscionable against a value of $1,090,000 and, after offsets, entered a net recovery of $797,508.99 on August 27, 1968 (Docket 96).",
   "today": "The Citizen Potawatomi Nation lists its headquarters at Shawnee, Oklahoma (potawatomi.org, checked 2026-11-08).",
   "plain": {
     "promised": "A reservation in Indian Territory up to thirty miles square for the Potawatomi's exclusive use, patented to them once paid for, and never put in a State or Territory without their representation.",
@@ -105,13 +105,19 @@
       "title": "The 1867 Potawatomi treaty, encroachment in Potawatomi land and the move to Indian Territory",
       "url": "https://www.potawatomi.org/blog/2015/03/04/the-1867-potawatomi-treaty-encroachment-in-potawatomi-land-and-the-move-to-indian-territory/",
       "publisher": "Citizen Potawatomi Nation"
+    },
+    {
+      "title": "Act of May 23, 1872, ch. 206, sec. 2, 17 Stat. 160",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-17/pdf/STATUTE-17-Pg160.pdf",
+      "publisher": "U.S. Government Publishing Office"
     }
   ],
   "openQuestions": [
     "treaties.json lists seven Potawatomi nations, including Michigan, Wisconsin and Indiana communities that were not parties to this Kansas treaty; the Absentee Shawnee Tribe, whose people were allotted inside the reservation in 1872 and 1890, is not listed. Treaties.json was not edited.",
     "The Commission's findings say the Potawatomi told officials in 1872 they were willing not to disturb the Absentee Shawnee if their reservation were extended westward by an equal area. Whether that amounted to consent to the 1872 Act, and whether any extension was made, was not found.",
     "Whether the Article 9 coin-versus-currency difference was ever reported and paid was not researched.",
-    "The 1964 interlocutory order's OCR reads the value as $1,092,000 and the difference as $936,000; the findings and opinion of the same day read $1,090,000 and $930,000. The clearer figures are used here."
+    "The 1964 interlocutory order's OCR reads the value as $1,092,000 and the difference as $936,000; the findings and opinion of the same day read $1,090,000 and $930,000. The clearer figures are used here.",
+    "Audit 2026-11-08: surplus acreage corrected from 362,838.22 to 362,832.22 in 'what' and 'compensation'. The 1958 scans read the figure several ways (362,831.22, 362,835.22, 362,838.22); the 1964 opinion (OSU id 734) says the earlier figure 'includes a minor mathematical error' and Supplemental Finding 18 (OSU id 757) states 362,832.22 acres. Added 17 Stat. 160 as a source, since the Absentee Shawnee allotment section of the 1872 Act is on that page."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

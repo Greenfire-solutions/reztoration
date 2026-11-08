@@ -1,0 +1,120 @@
+{
+  "id": "cession-1880-09-11-uta",
+  "name": "Ute assent to the Agreement of March 6, 1880, completed September 11, 1880 (ratified by the Act of June 15, 1880)",
+  "aka": [
+    "Ute Agreement of 1880",
+    "Act of June 15, 1880",
+    "Royce cessions 616 and 617"
+  ],
+  "signed": "1880-03-06",
+  "ratified": "1880-06-15",
+  "citation": "Act of June 15, 1880, 21 Stat. 199",
+  "textUrl": "https://www.law.cornell.edu/supremecourt/text/402/159",
+  "nations": [
+    "Núuchi-u (Ute): White River, Uncompahgre (Tabeguache) and Southern (Muache, Capote, Weeminuche) bands"
+  ],
+  "promises": [
+    "The chiefs agreed to persuade their people to cede to the United States all the territory of the Ute Reservation in Colorado, except land provided for their settlement (21 Stat. 199, as quoted in Justice Douglas's dissent, 1971).",
+    "The Southern Utes were to settle on unoccupied farm land on the La Plata River in Colorado, or nearby in New Mexico if there was not enough (21 Stat. 200, as quoted in the dissent).",
+    "The cession was made on the express condition that the United States survey the land set apart and divide it among the Utes in severalty (21 Stat. 200 to 201, as quoted in the dissent).",
+    "Unallotted land became public land, sold for the financial benefit of the Utes (21 Stat. 203 to 204, as summarized by the Supreme Court majority)."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "litigation",
+      "date": "1965-02-18",
+      "what": "The Uncompahgre Band claimed that the United States never gave it the reservation in Colorado or Utah that the 1880 agreement required, and that it was the only Ute band left without one. The claim was settled for $300,000 after offsets, without a finding on the merits.",
+      "whoFoundIt": "Indian Claims Commission, Ute Indian Tribe (Uncompahgre Band) v. United States, Docket 349 (stipulated settlement, 1965)",
+      "source": {
+        "title": "Ute Indian Tribe (Uncompahgre Band) v. United States, Docket 349, Findings of Fact on the Stipulated Settlement of Claims and Offsets, February 18, 1965, 14 Ind. Cl. Comm. 707",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/710",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1971-04-26",
+      "what": "The Southern Ute Tribe claimed the United States breached its fiduciary duty by giving away 220,000 acres as free homesteads and failing to account for the proceeds of 82,000 acres. The Indian Claims Commission and Court of Claims let the claim proceed, but the Supreme Court held it barred by the 1950 consent judgment, without deciding the merits.",
+      "whoFoundIt": "United States v. Southern Ute Tribe or Band of Indians, 402 U.S. 159 (1971)",
+      "source": {
+        "title": "United States v. Southern Ute Tribe or Band of Indians, 402 U.S. 159 (1971)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/402/159",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "2022-10-13",
+      "what": "The Ute Indian Tribe's Business Committee says its ancestors were moved out of Colorado at gunpoint on a forced march in which some died, and that the President must restore its Uncompahgre Reservation homelands.",
+      "whoFoundIt": "Ute Business Committee, statement of October 2022, as reported by the Deseret News",
+      "source": {
+        "title": "Utah's Ute Indian Tribe blasts Biden's Colorado national monument (Deseret News, October 13, 2022, by Kyle Dunphey)",
+        "url": "https://www.ksl.com/article/50495056/utahs-ute-indian-tribe-blasts-bidens-colorado-national-monument",
+        "publisher": "KSL.com / Deseret News"
+      },
+      "quote": "moved out of Colorado at gunpoint"
+    }
+  ],
+  "landTaken": "The Supreme Court (1971) describes the Ute reservation after the 1874 Brunot Cession as Royce area 616, the northern part held by the White River and Uncompahgre Utes, and area 617, a strip 15 miles wide and 110 miles long held by the Southern Utes, and reads the 1880 Act as ceding all the nonallotted acreage of both. Congress declared area 616 public land by the Act of July 28, 1882.",
+  "compensation": "Court of Claims consent judgments in 1950 settled the Utes' claims for land ceded by the 1880 Act; the Supreme Court says the settlements together exceeded $31 million (402 U.S. 159, note 2). The Uncompahgre Band settled Docket 349 for $300,000 in 1965. Both were settlements, not findings.",
+  "today": "The White River and Uncompahgre Utes left Colorado for Utah before 1882 and live on the Uintah and Ouray Reservation; the Southern Ute stayed on the southern strip (402 U.S. 159). In 1947 the Supreme Court rejected the Confederated Bands' claim to compensation for executive-order lands north of the White River valley, holding that the 1880 Act gave them no compensable interest; that ruling went against the Utes. The Court there described Congress in 1880 as moving to punish the Indians involved in the 1879 White River killings, dispossess the Utes and remove them from Colorado.",
+  "nationVoice": [
+    {
+      "nation": "Ute Indian Tribe of the Uintah and Ouray Reservation",
+      "summary": "The Ute Business Committee said in October 2022 that the United States marched its ancestors out of Colorado at gunpoint and that the President must restore and secure the Uncompahgre Reservation homelands.",
+      "url": "https://www.ksl.com/article/50495056/utahs-ute-indian-tribe-blasts-bidens-colorado-national-monument"
+    }
+  ],
+  "sources": [
+    {
+      "title": "United States v. Southern Ute Tribe or Band of Indians, 402 U.S. 159 (1971)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/402/159",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Confederated Bands of Ute Indians v. United States, 330 U.S. 169 (1947)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/330/169",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Ute Indian Tribe (Uncompahgre Band) v. United States, Docket 349, Findings of Fact on the Stipulated Settlement of Claims and Offsets, February 18, 1965, 14 Ind. Cl. Comm. 707",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/710",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Ute Indian Tribe (Uncompahgre Band) v. United States, Docket 349, Final Judgment, February 18, 1965",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/876",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Southern Ute Tribe or Band of Indians v. United States, Docket 328, Opinion of the Commission, May 6, 1966, 17 Ind. Cl. Comm. 28",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2452",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule entry 616 and 617 (Ute assent completed September 11, 1880)",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/902/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Utah's Ute Indian Tribe blasts Biden's Colorado national monument (Deseret News, October 13, 2022, by Kyle Dunphey)",
+      "url": "https://www.ksl.com/article/50495056/utahs-ute-indian-tribe-blasts-bidens-colorado-national-monument",
+      "publisher": "KSL.com / Deseret News"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json duplicate: this entry and cession-1880-03-06-uta are the same agreement and the same Royce areas (616, 617). Royce lists September 11, 1880 only as the date by which enough Ute signatures were obtained to complete ratification, after the Act of June 15, 1880; Royce says the Ute assented between June 29 and September 11, 1880.",
+    "Error in the related file cession-1880-03-06-uta: it records as a government admission that the stated consideration for the 1880 cession was not promptly paid, citing 402 U.S. 159, note 3. In the opinion, note 3 is attached to the sentence on the 1874 Brunot Cession (18 Stat. 36), not the 1880 cession. That admission is therefore left out of this file; the related file should be re-audited.",
+    "The 1880 Act (21 Stat. 199) was not opened directly; its terms are quoted from the 1971 opinions. Justice Douglas's dissent states that the allotments, a condition of the cession, were not made; a dissent is not a finding, so it is not recorded as a breach.",
+    "The Indian Claims Commission in 1966 (Docket 328) treated 230,547.44 acres of Southern Ute land as taken without consideration; the Supreme Court's 1971 res judicata ruling ended that claim, so the Commission's view is not recorded as a finding.",
+    "No Southern Ute or Ute Mountain Ute account of the 1880 agreement was found in this pass."
+  ],
+  "plain": {
+    "promised": "The Ute bands agreed to give up their Colorado reservation in return for land to settle on, allotted to them in severalty, with the rest sold and the money used for them.",
+    "happened": "No court or claims commission finding of a breach was found. Uncompahgre and Southern Ute claims were settled or barred without a ruling on the merits. The Ute Indian Tribe says its people were marched out of Colorado at gunpoint.",
+    "today": "Settlements in 1950 exceeded $31 million, and the Uncompahgre Band settled for $300,000 in 1965. The Ute Indian Tribe asks that its Uncompahgre Reservation homelands be restored."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

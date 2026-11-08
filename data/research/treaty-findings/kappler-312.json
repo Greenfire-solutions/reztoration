@@ -1,0 +1,51 @@
+{
+  "id": "kappler-312",
+  "name": "Treaty with the Delawares, 1829 (Supplementary article to the treaty of St. Mary's, 1818)",
+  "aka": ["Council Camp on James Fork treaty", "Delaware supplementary article of September 24, 1829"],
+  "signed": "1829-09-24",
+  "proclaimed": "1831-03-24",
+  "citation": "7 Stat. 327",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-delawares-1829-0304",
+  "nations": ["Lenape (Delaware)"],
+  "promises": [
+    "The country in the fork of the Kansas and Missouri rivers, with a ten-mile-wide outlet to the west, to be conveyed and forever secured to the Delaware Nation as its permanent residence.",
+    "The United States pledged its faith to guarantee the Delaware forever the quiet and peaceable possession and undisturbed enjoyment of that country.",
+    "Forty horses for the poor, six wagons and ox teams, farming tools, provisions on the journey and for a year after arrival, and a grist and saw mill within two years.",
+    "An additional permanent annuity of $1,000 for giving up all claim to their land in Missouri.",
+    "Thirty-six sections of the best land relinquished in Missouri to be sold for a fund for the schooling of Delaware children."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The Delaware gave up their Missouri lands (Royce Areas 125, shared with the Shawnee, and 150a) and moved to the Kansas reserve, which the Indian Claims Commission found contained 1,884,160 acres: 924,160 acres of residence land and 960,000 acres of outlet. The Delaware ceded the outlet and most of the reserve by the treaty of May 6, 1854; the Commission's dockets 27-A and 337 dealt with that cession and with the 1818 treaty, using this treaty's grant as part of the 1818 consideration. Royce records that in 1843 the Delaware sold 39 sections of the Kansas reserve to the Wyandot.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Delawares, 1829 (Kappler, vol. 2, p. 304)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-delawares-1829-0304",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Absentee Delaware Tribe of Oklahoma et al. v. United States, Docket 337, Additional Findings of Fact (August 5, 1963)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/677",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Absentee Delaware Tribe of Oklahoma et al. v. United States, Docket 337, Findings of Fact (June 22, 1961)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/579",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule pp. 724-725",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/724/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json error: scheduleTribes lists 'Shawnee nation residing in Missouri' as a party. Only the Delaware signed this treaty; the Shawnee appear because Royce Area 125 (the Cape Girardeau grant) was held jointly with them. presentDayTribes lists the Absentee-Shawnee Tribe and the Shawnee Tribe for the same reason, and leaves out the Delaware Tribe of Indians.",
+    "The Indian Claims Commission gives the Senate ratification as April 29, 1830 in one finding and as a resolution of May 29, 1830 in another; neither date is recorded above.",
+    "Whether the horses, wagons, provisions and mill were provided, whether the 36 school sections were sold for the fund, and whether the guarantee of quiet possession was kept against intruders before 1854 were not researched.",
+    "No account by the Delaware Tribe of Indians or the Delaware Nation about this treaty was found in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

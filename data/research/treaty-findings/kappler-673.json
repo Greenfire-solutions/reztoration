@@ -20,26 +20,14 @@
     "A physician, school teacher, blacksmith and farming superintendent for five years after removal (Article 3).",
     "Lots on the permanent reserve could be assigned to families, with patents barring sale or long leases, restrictions no state legislature could remove without the consent of Congress (Article 4)."
   ],
-  "status": "broken",
-  "breaches": [
-    {
-      "kind": "act-of-congress",
-      "date": "1954-08-13",
-      "what": "The Western Oregon termination act, which names the Grand Ronde and Siletz confederated tribes and the Calapooya, Tualatin, Yamhill, Santiam, Clackamas, Northern Molalla and other bands of this treaty, ended federal supervision over their trust property, provided for tribal land to be transferred or sold, removed all restrictions on members' trust land after two years, and ended the federal trust relationship.",
-      "whoFoundIt": "Act of August 13, 1954, Public Law 588, ch. 733, 68 Stat. 724 (sections 2, 5, 6 and 13)",
-      "source": {
-        "title": "An Act to provide for the termination of Federal supervision over the property of certain tribes and bands of Indians located in western Oregon, 68 Stat. 724",
-        "url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg724.pdf",
-        "publisher": "U.S. Government Publishing Office"
-      }
-    }
-  ],
+  "status": "no-breach-found",
+  "breaches": [],
   "landTaken": "Royce area 352, the Willamette Valley from the Columbia River south to the Calapooia Mountains between the Coast Range and the Cascades, as bounded in Article 1. No acreage was found in a source opened. The Grand Ronde Reservation that became the bands' home was set up by executive order of June 30, 1857 with about 61,000 acres, and the Tribe says 25,791 acres of it were declared surplus and sold in 1901 (Grand Ronde, Treaties page).",
   "compensation": "The treaty annuities and the $50,000 in Article 2. No Indian Claims Commission or Court of Claims award on this treaty was found in the sources searched.",
-  "today": "Congress restored federal recognition to the Confederated Tribes of the Grand Ronde Community on November 22, 1983 (Public Law 98-165, 97 Stat. 1064). That Act restored treaty rights that 'may have been diminished or lost' under the 1954 Act, but expressly restored no hunting, fishing or trapping rights.",
+  "today": "The Western Oregon termination act of August 13, 1954 (68 Stat. 724) ended federal supervision over the trust property of the Grand Ronde and Siletz confederated tribes and the bands of this treaty; it does not mention the treaty, and the Grand Ronde Reservation that became the bands' home was set up by executive order in 1857, not by this treaty. Congress restored federal recognition to the Confederated Tribes of the Grand Ronde Community on November 22, 1983 (Public Law 98-165, 97 Stat. 1064). That Act restored treaty rights that 'may have been diminished or lost' under the 1954 Act, but expressly restored no hunting, fishing or trapping rights.",
   "plain": {
-    "promised": "Protection, a permanent reserve, yearly payments in four five-year steps, $50,000 for goods, removal and buildings, five years of a doctor, teacher, blacksmith and farm superintendent, and family lots protected from sale.",
-    "happened": "In 1954 Congress ended federal trust status for the Grand Ronde and Siletz tribes and the bands of this treaty, removing the restrictions on their land. The Act does not mention the treaty.",
+    "promised": "Protection, a permanent home to be chosen later, yearly payments in four five-year steps, $50,000 for goods, removal and buildings, five years of a doctor, teacher, blacksmith and farm superintendent, and family lots protected from sale.",
+    "happened": "No breach of this treaty's own terms has been documented yet. Congress ended federal trust status for the Grand Ronde and Siletz tribes in 1954, but the Grand Ronde Reservation was set up by executive order in 1857, not by this treaty.",
     "today": "No claims award on this treaty was found. Congress restored federal recognition to the Grand Ronde Community on November 22, 1983, but restored no hunting, fishing or trapping rights."
   },
   "nationVoice": [
@@ -81,7 +69,8 @@
     "The 1954 Act is counted because it removed the restrictions and federal trust status that Article 4 and the treaty reservation rested on; the Act does not mention the treaty and the record opened does not show whether the tribes consented. An auditor may prefer to treat termination separately from the treaty.",
     "No Indian Claims Commission decision on the Willamette Valley cession was found under the words willamette, calapooya, kalapuya or molalla in the OSU collection; whether these bands recovered through another docket or the Court of Claims was not settled.",
     "Whether the annuities and Article 3 services were paid in full was not researched.",
-    "The 1901 surplus sale of Grand Ronde land is from the Tribe's page; the ratifying statute was not opened."
+    "The 1901 surplus sale of Grand Ronde land is from the Tribe's page; the ratifying statute was not opened.",
+    "Audit 2026-11-08: removed the 1954 termination act as a breach and the status fell from broken to no-breach-found. Article 1 and Article 4 only promise a tract 'that may hereafter be set apart'; the treaty created no reservation, and the Grand Ronde Reservation came from the executive order of June 30, 1857, so under the termination rule the Act is not a breach of this treaty. The Act is kept in 'today'. A breach of the annuity or Article 3 promises, or an ICC or Court of Claims finding, would restore a breach."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

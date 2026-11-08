@@ -1,0 +1,21 @@
+{
+  "id": "cession-1865-12-21-indians-on-coast-of-oregon",
+  "auditedAt": "2026-11-08",
+  "verdict": "downgraded",
+  "checked": [
+    "Executive Orders Relating to Indian Reserves (GPO 1902) p. 96, Oregon Department of Education copy: Harlan's letter of December 20, 1865 (Oregon delegation request, Yaquina Bay access, Commissioner's view that the citizens' interest 'is paramount in importance to that of the Indians located in that vicinity', boundaries from 2 miles south of the Siletz agency to the Alsea River) and Johnson's approval of December 21, 1865 throwing the tract open 'to occupancy and use by the citizens as other public land'",
+    "Royce schedule: Dec. 21, 1865 Executive order releasing part of the Siletz reserve",
+    "Act of March 3, 1875, 18 Stat. 446 (LOC Statutes vol. 18): removal authorized, tract from 2 miles south of the Siletz agency north to the Salmon River set apart as a permanent reservation, balance opened, proviso that the Indians not be removed without their consent",
+    "Alcea (1946): 'In 1865 an Executive Order reduced the size of the reservation; in 1875 Congress by statute approved the Executive Orders of 1855 and 1865'; no finding on the 1865 reduction",
+    "Confederated Tribes of Siletz Indians, Executive Order, December 21, 1865: no government agent brought up the ratified treaties; Yaquina and Alsea villages still occupied; Agent Simpson's 1866 report of homesteaders ejecting Indian occupants under threat"
+  ],
+  "changes": [
+    "Status broken -> contested: executive-action breach removed because no finding says the reduction took what a ratified treaty secured; the government record calls the reservation conditional and the Siletz Tribe says it was a treaty reservation",
+    "Harlan quote and the delegation request moved to landTaken",
+    "plain.happened updated to say no court or claims finding on this cut was found"
+  ],
+  "unverifiable": [
+    "The nationVoice summary (not edited) mentions railroad pressure; the word does not appear on the Siletz page opened on 2026-11-08",
+    "Whether any ratified western Oregon treaty secured the Yaquina tract was not traced; that is the question that would decide a breach"
+  ]
+}

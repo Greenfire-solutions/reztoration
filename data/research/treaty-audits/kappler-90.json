@@ -1,0 +1,13 @@
+{
+  "id": "kappler-90",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Treaty (OSU): 7 Stat. 93, proclaimed April 24, 1806; Articles 1 to 4 match the promises.",
+    "Eastern Band compromise (OSU ids 2321 and 1102, September 11, 1972): $1,855,254.50 for treaties of 1785 to 1835, liability compromised by stipulation."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Royce area numbers and the state names in landTaken were not checked against the schedule."
+  ]
+}

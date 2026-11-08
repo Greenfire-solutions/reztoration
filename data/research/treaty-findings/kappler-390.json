@@ -1,0 +1,50 @@
+{
+  "id": "kappler-390",
+  "name": "Treaty with the Piankashaw and Wea, 1832 (Treaty of Castor Hill with the Piankeshaw and Wea)",
+  "aka": ["Castor Hill treaty of October 29, 1832"],
+  "signed": "1832-10-29",
+  "proclaimed": "1833-02-12",
+  "citation": "7 Stat. 410",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-piankashaw-and-wea-1832-0382",
+  "nations": ["Piankeshaw", "Wea"],
+  "promises": [
+    "Article 2: 250 sections west of Missouri, including the Piankeshaw and Wea villages, ceded to the two tribes for their permanent residence.",
+    "Article 3: for the Piankeshaw, $500 a year for five years in cattle, hogs and farm tools, $750 for farming and improvements, and $200 at the signing.",
+    "Article 4: for the Wea, $500 in cattle, hogs and tools and $200 at the signing, help for the Wea still in Indiana to join the tribe, and a year's provisions for them.",
+    "Article 5: a blacksmith's shop for five years, shared with the Kaskaskia and Peoria."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "In the Wea claim for the 1818 cession (Docket 314), the Indian Claims Commission held in 1961 that this treaty's Kansas grant to the Wea was given without consideration, as a gratuity, and in 1963 valued the Wea half of the 250 sections at $24,000 (80,000 acres at 30 cents) and set it off against the Wea award. The Piankeshaw, Wea, Peoria and Kaskaskia ceded most of the Kansas land by the treaty of May 30, 1854 (kappler-644). No ruling, Act of Congress or government admission that this treaty's own terms were broken was found.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Piankashaw and Wea, 1832 (Kappler, vol. 2, p. 382)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-piankashaw-and-wea-1832-0382",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Peoria Tribe of Indians of Oklahoma et al. v. United States, Docket 314, Opinion (April 18, 1961)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/467",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Peoria Tribe of Indians of Oklahoma et al. v. United States, Docket 314, Additional Findings of Fact (July 29, 1963)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/650",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Peoria Tribe of Indians of Oklahoma et al. v. United States, Docket 314, Opinion of the Commission (July 29, 1963)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/829",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json error: this entry and kappler-384 both list all four tribes and the same Royce areas 326 to 328. This treaty was made with the Piankeshaw and Wea only. presentDayTribes lists the Miami Tribe of Oklahoma, which was not a party; the successor is the Peoria Tribe of Indians of Oklahoma.",
+    "Royce Areas 326 to 328 are land granted to the tribes, not ceded by them. What the Piankeshaw and Wea ceded here (any remaining claims in Missouri and Illinois) has no area on the queue entry.",
+    "Whether the payments in goods, the help for the Indiana Wea and the blacksmith's shop were provided was not researched.",
+    "No account by the Peoria Tribe of Indians of Oklahoma about this treaty was found in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

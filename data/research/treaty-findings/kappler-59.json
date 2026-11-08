@@ -1,0 +1,63 @@
+{
+  "id": "kappler-59",
+  "name": "Treaty with the Cherokee, 1798 (First Treaty of Tellico)",
+  "aka": [
+    "Treaty of Tellico (1798)",
+    "Treaty of Tellico Blockhouse"
+  ],
+  "signed": "1798-10-02",
+  "ratified": "1802-04-30",
+  "proclaimed": "1802-05-04",
+  "citation": "7 Stat. 62",
+  "textUrl": "https://tngenweb.org/cessions/17981002.html",
+  "nations": [
+    "Cherokee (Aniyunwiya), now the Cherokee Nation, the Eastern Band of Cherokee Indians and the United Keetoowah Band"
+  ],
+  "promises": [
+    "Article 2: earlier treaties between the United States and the Cherokee stay in full force; Article 3: the Cherokee boundaries stay as before except where this treaty changes them.",
+    "Article 4: the Cherokee ceded a tract running from the Wild-cat Rock on the Tennessee River below Tellico blockhouse to the foot of the Cumberland Mountain and Campbell's line, keeping the islands in the Tennessee River.",
+    "Article 6: goods worth $5,000 on signing and goods worth $1,000 a year in addition to the existing annuity; the United States to continue the guarantee of the remainder of the Cherokee country forever, as in former treaties.",
+    "Article 7: the Kentucky road to be a free road for United States citizens where it crossed Cherokee land; Cherokee hunters could keep hunting on the ceded land until settlement made it improper.",
+    "Article 9: stolen horses not returned within ninety days to be paid for at $60 each."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "The treaty itself paid $5,000 in goods and $1,000 a year in goods (Article 6). No later payment specific to this cession was traced. The Eastern Band of Cherokee Indians settled its one-fifteenth interest in the areas ceded under the Cherokee treaties of 1785 to 1835 for $1,855,254.50 in 1972 (ICC Dockets 282-A to 282-L); whether this 1798 cession was among those twelve dockets was not confirmed.",
+  "today": "The treaty's preamble records that settlers who had moved onto Cherokee land beyond the boundary were removed by United States authority once the line was marked in 1797. Later Cherokee treaties, including those made at Tellico in 1804 and 1805 (listed in Worcester v. Georgia), and the removal era belong to their own entries.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Cherokee, 1798 (text, with ratification and proclamation dates in the page header)",
+      "url": "https://tngenweb.org/cessions/17981002.html",
+      "publisher": "TNGenWeb Project"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule entry 42 (treaty of October 2, 1798)",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/660/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Eastern Band of Cherokee Indians v. United States, Dockets 282-A to 282-L, Findings of Fact on Compromise Settlement, September 11, 1972, 28 Ind. Cl. Comm. 386",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2321",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Eastern Band of Cherokee Indians v. United States, Dockets 282-A to 282-L, Final Award, September 11, 1972",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1102",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Worcester v. Georgia, 31 U.S. 515 (1832)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/31/515",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    }
+  ],
+  "openQuestions": [
+    "The Article 6 guarantee of the remaining Cherokee country forever was later overridden by Georgia's laws of 1829 onward and by removal. In Worcester v. Georgia (1832) the treaty of October 2, 1798 is listed in Worcester's plea among the treaties Georgia's prosecution violated, and the Court held Georgia's acts repugnant to the treaties; the Court's reasoning rests mainly on the Hopewell and Holston treaties, so it is not recorded here as a finding on this treaty. Decision for Jordan whether Worcester should count for the 1798 guarantee.",
+    "Which of the Eastern Band's twelve ICC dockets (282-A to 282-L) covered this cession, and whether the Cherokee Nation itself brought a claim for it, was not established; the Commission's 1959 severance opinion (7 Ind. Cl. Comm. 140) did not load as text.",
+    "Ratification (April 30, 1802) and proclamation (May 4, 1802) dates come from the Oklahoma State University treaty database and the TNGenWeb page header, not from the Statutes at Large page.",
+    "No Cherokee Nation, Eastern Band or United Keetoowah Band account of this treaty was found."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

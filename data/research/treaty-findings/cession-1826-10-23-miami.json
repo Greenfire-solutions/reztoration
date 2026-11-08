@@ -1,0 +1,92 @@
+{
+  "id": "cession-1826-10-23-miami",
+  "name": "Treaty with the Miami, 1826 (Treaty of Mississinewa)",
+  "aka": ["Treaty at the Mississinewa", "Miami treaty of October 23, 1826"],
+  "signed": "1826-10-23",
+  "proclaimed": "1827-01-24",
+  "citation": "7 Stat. 300",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-miami-1826-0278",
+  "nations": ["Myaamia (Miami)"],
+  "promises": [
+    "Article 2: ten reservations kept for the Miami out of the cession, among them 14 sections at Seek's village, 36 sections at Flat Belly's village, 10 sections each at White Raccoon's village, at the mouth of Mud Creek and at the forks of the Wabash, and the five-mile reserve below the Mississinewa.",
+    "Article 4: goods worth $31,040.53 at the signing and $26,259.47 more the next summer; an annuity of $35,000 in 1827 and $30,000 in 1828, then a permanent annuity of $25,000 'as long as they exist together as a tribe'.",
+    "Article 4: wagons and oxen for named chiefs, houses worth up to $600 for nine named people, 200 cattle and 200 hogs, yearly iron, steel and tobacco, and hired labourers for the villages.",
+    "Article 6: $2,000 a year, as long as Congress thought proper, for the poor and infirm and for the education of Miami youth.",
+    "Article 8: the right to hunt on the ceded land so long as it remained the property of the United States."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1978-09-08",
+      "what": "The Indian Claims Commission found that the United States paid the Miami $232,095.00 under this treaty for interests in land with a fair market value of $1,491,242.80, held that consideration unconscionable, and awarded the Miami plaintiffs $1,259,147.80, subject to any gratuitous offsets.",
+      "whoFoundIt": "Indian Claims Commission, Citizen Band of Potawatomi Indians of Oklahoma et al. v. United States, Dockets 128 et al. (Miami Dockets 124-B and 254), Additional Findings of Fact and Order Setting Awards (September 8, 1978), 43 Ind. Cl. Comm. 74",
+      "source": {
+        "title": "Citizen Band of Potawatomi Indians of Oklahoma et al. v. United States, Docket 128 et al., Order Setting Awards (September 8, 1978)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2599",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "so grossly inadequate as to render the consideration unconscionable"
+    }
+  ],
+  "landTaken": "The Commission valued the Miami interests ceded by this treaty as an undivided 70 percent interest in Tract Y-1 of Royce Area 132 and undivided 50 percent interests in tracts of Royce Areas 146, 180 and 181 in northern Indiana.",
+  "compensation": "The Commission awarded $1,259,147.80 to the Miami plaintiffs in Dockets 124-B and 254 on September 8, 1978, subject to gratuitous offsets. Public Law 97-376 (December 21, 1982) says funds were appropriated on July 27, 1979 in satisfaction of the award in Dockets 124-B and 254 before the Court of Claims, and divided them 1398/5,080ths to the Miami Tribe of Oklahoma and 3682/5,080ths to the Miami Indians of Indiana and other Miami descendants.",
+  "today": "With no time left to settle offsets, the Commission certified the case to the Court of Claims on September 29, 1978. Congress provided for the use and distribution of the Miami judgment funds in 1982. The final judgment amount after offsets was not found.",
+  "plain": {
+    "promised": "Ten reservations kept for the Miami in Indiana, goods, a permanent $25,000 annuity while they lived together as a tribe, houses, wagons, livestock, $2,000 a year for the poor and for schooling, and hunting rights on the ceded land.",
+    "happened": "The Indian Claims Commission found in 1978 that the United States paid $232,095.00 for Miami land interests worth $1,491,242.80, and that this price was unconscionable.",
+    "today": "The Commission awarded $1,259,147.80, subject to offsets. Funds were appropriated in 1979 and shared in 1982 between the Miami Tribe of Oklahoma and the Miami of Indiana. The final amount after offsets is not stated."
+  },
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Miami, 1826 (Kappler, vol. 2, p. 278)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-miami-1826-0278",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma et al. v. United States, Docket 128 et al., Additional Findings of Fact, Part 1 (September 8, 1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1089",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma et al. v. United States, Docket 128 et al., Additional Findings of Fact, Part 2 (September 8, 1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2160",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma et al. v. United States, Docket 128 et al., Opinion of the Commission (September 28, 1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1472",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma et al. v. United States, Docket 128 et al., Order Setting Awards (September 8, 1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2599",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma et al. v. United States, Docket 128 et al., Order Certifying and Transferring Cases to the Court of Claims (September 29, 1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2318",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Public Law 97-376, 96 Stat. 1828 (December 21, 1982), Miami Indians judgment funds in dockets 124-B and 254",
+      "url": "https://www.congress.gov/97/statute/STATUTE-96/STATUTE-96-Pg1828.pdf",
+      "publisher": "U.S. Congress"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 716",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/716/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "Mapping: treaties.json shows this treaty with Royce areas 192 to 195, 199 and 255, which are reserves this treaty made, not the cession. The Commission placed the land the Miami ceded here in Royce Areas 132, 146, 180 and 181 (its tracts Y-1 to Y-4). Jordan may want the map to show the cession on those areas; treaties.json was not edited.",
+    "The September 1978 award was interlocutory, subject to gratuitous offsets; the case went to the Court of Claims. The amount finally appropriated on July 27, 1979 was not found.",
+    "The Commission's findings give the Miami cession dates as January 24, 1827 (Areas 146, 180, 181) and February 7, 1827 (Area 132), both after the proclamation of January 24, 1827; why two dates were used was not settled.",
+    "The Article 4 permanent annuity was later commuted under the 1854 Miami treaty (noted in Docket 251 findings, pointer 515); the scan is too garbled to quote the figures, and whether the commutation was fair was not followed.",
+    "No Myaamia account of this treaty was found. The Myaamia Center's database (mc.miamioh.edu/aacimwahkionkonci/event/29) has a record of the treaty and its signers but no narrative; a deeper pass could ask the Myaamia Center or the Miami Tribe of Oklahoma's Cultural Resources Office."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

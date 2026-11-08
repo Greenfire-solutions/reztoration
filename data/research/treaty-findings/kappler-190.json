@@ -1,0 +1,76 @@
+{
+  "id": "kappler-190",
+  "name": "Treaty with the Kickapoo, 1819 (Treaty of Edwardsville)",
+  "aka": ["Kickapoo treaty of July 30, 1819"],
+  "signed": "1819-07-30",
+  "proclaimed": "1821-01-13",
+  "citation": "7 Stat. 200",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-kickapoo-1819-0182",
+  "nations": ["Kickapoo"],
+  "promises": [
+    "Article 5: $2,000 in silver a year for fifteen years, paid at the Kickapoo town on the waters of the Osage River.",
+    "Article 6: $3,000 in merchandise at the signing and a tract in Missouri between the Pomme de Terre and Osage rivers, ceded to the Kickapoo and their heirs forever, not to be sold without the President's consent.",
+    "Article 7: the United States to guarantee the Kickapoo peaceable possession of the Missouri tract and to keep white people from hunting, settling or intruding on it.",
+    "Article 8: two manned boats and a guide for the move from the Illinois River to the new land.",
+    "Article 9: the protection of the United States against all persons."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1978-08-25",
+      "what": "The Indian Claims Commission valued the Kickapoo cession of Royce Area 110 in Illinois and Indiana at $11,833,330 against allowable consideration of $406,200, found the consideration so grossly inadequate as to be unconscionable, and awarded the Kickapoo $11,427,130, subject to offsets.",
+      "whoFoundIt": "Indian Claims Commission, Pottawatomie Tribe et al. v. United States, Docket 15-D et al. (Kickapoo Docket 315), Opinion and Order Setting Awards Subject to Offsets (August 25, 1978), 42 Ind. Cl. Comm. 354",
+      "source": {
+        "title": "Pottawatomie Tribe et al. v. United States, Docket 15-D et al., Order Setting Awards Subject to Offsets (August 25, 1978)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1009",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "Royce Area 110: Kickapoo land southeast of the Wabash and between the Wabash, the Kankakee and Illinois rivers and the Vincennes tract. The Commission valued the Kickapoo interest as of January 13, 1821, as tracts A', B, C, D, E, G and H, several of them shared with other nations.",
+  "compensation": "The Commission counted as consideration the annuities and merchandise of this treaty and of the August 30, 1819 treaty with the Vermilion band, and the 1,868,500-acre Missouri tract given in exchange, which it valued at $373,700. Net allowable consideration was $406,200.",
+  "today": "The award was subject to offsets, and on September 29, 1978 the Commission certified the case to the Court of Claims for lack of time to finish it.",
+  "plain": {
+    "promised": "Fifteen years of $2,000 payments, $3,000 in goods, and a tract in Missouri guaranteed to the Kickapoo forever and protected from white settlers, in return for their Illinois land.",
+    "happened": "The Indian Claims Commission found in 1978 that the Illinois and Indiana land was worth $11,833,330 against $406,200 in allowable payment, and that the price was unconscionable.",
+    "today": "The Commission awarded $11,427,130, subject to offsets, and sent the case to the Court of Claims in 1978. What was finally paid is not confirmed in this file."
+  },
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Kickapoo, 1819 (Kappler, vol. 2, p. 182)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-kickapoo-1819-0182",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Pottawatomie Tribe et al. v. United States, Docket 15-D et al., Opinion of the Commission, Part 2 (August 25, 1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1956",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pottawatomie Tribe et al. v. United States, Docket 15-D et al., Findings of Fact on Value and Consideration, Part 2 (August 25, 1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2085",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pottawatomie Tribe et al. v. United States, Docket 15-D et al., Order Setting Awards Subject to Offsets (August 25, 1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1009",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pottawatomie Tribe et al. v. United States, Docket 15-D et al., Order Certifying and Transferring Cases to the Court of Claims (September 29, 1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/931",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "Royce Area 110 was ceded in part by this treaty and in part by the August 30, 1819 treaty with the Vermilion band (kappler-192); the Commission made one award for the Kickapoo's 1819 cession of Royce Area 110 and counted the payments under both treaties. The same award should not be counted twice on the map.",
+    "treaties.json error: the scheduleTribes of this entry include 'Kickapoo (of the Vermillion)', which belongs to the August 30, 1819 treaty; this July 30 treaty was made with the Kickapoo tribe at Edwardsville. Royce Area 179 (the Missouri tract) was granted by this treaty, not ceded by it, and was ceded later under the treaty of October 24, 1832.",
+    "Search results point to a Court of Claims judgment of January 5, 1979 for $11,427,130 in Docket 315 (Kickapoo Tribe v. United States, 618 F.2d 119, 219 Ct. Cl. 719), but the opinion could not be loaded, so it is not recorded as fact here.",
+    "Whether the Article 7 guarantee of the Missouri tract against white intruders was kept was not researched.",
+    "No account by the Kickapoo Tribe in Kansas, the Kickapoo Tribe of Oklahoma or the Kickapoo Traditional Tribe of Texas about this treaty was found."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

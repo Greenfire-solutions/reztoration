@@ -1,0 +1,20 @@
+{
+  "id": "cession-1873-03-01-chippewa-of-the-mississippi-and-lake-sup",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty with the Chippewa, 1854 (OSU Kappler p. 648): Article 2 third clause, tracts about Lac De Flambeau and on Lac Court Orielles 'each equal in extent to three townships', boundaries to be agreed or fixed under the President; Articles 2 and 3 as recorded",
+    "ICC Docket 18-U Additional Findings (1978, id 2132): seven Article 2 reservations valued at January 10, 1855 and credited as consideration",
+    "Lac Courte Oreilles Band history page (lco-nsn.gov/history, opened 2026-11-08): treaty terms never fully provided, pressure to consolidate at Bad River, chiefs accompanied the 1872 survey, lumber interests, majority of virgin timber removed in 1884-88 for 7-1000ths of one percent per board foot",
+    "Royce remarks on the 1872 Act and the Fond du Lac reserve (refusal to remove, alleged assent called fraudulent)"
+  ],
+  "changes": [
+    "Status no-breach-found -> contested: the file already holds a sourced nation-statement breach, which rule 9 shows as contested",
+    "Removed the stale open question saying the Band's history page was not found",
+    "Wrote the plain summary (rule 15)"
+  ],
+  "unverifiable": [
+    "Lac Courte Oreilles Band v. Federal Power Commission (1975) still not opened, as the file says",
+    "The Act of May 29, 1872 was not opened, as the file says"
+  ]
+}

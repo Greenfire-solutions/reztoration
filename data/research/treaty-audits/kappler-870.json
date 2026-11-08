@@ -1,0 +1,16 @@
+{
+  "id": "kappler-870",
+  "auditedAt": "2026-11-08",
+  "verdict": "downgraded",
+  "checked": [
+    "Treaty (OSU): 13 Stat. 693; promises match Articles 1 to 5 and 12.",
+    "United States v. Mille Lac Band, 229 U.S. 498 (LoC PDF), decided June 9, 1913: quote exact; 61,000 acres and $827,580.72 exact; violation held to be of the trust created by the Act of January 14, 1889; the Court says it was not questioned that the 1864 annuities were paid and Articles IV and VI complied with."
+  ],
+  "changes": [
+    "Removed the 1913 ruling as a breach: it holds the 1889 Act trust violated and treats the Article 12 dispute as composed by that Act, so it does not find this treaty broken. Status broken -> no-breach-found.",
+    "Moved the ruling into 'today'; rewrote plain.happened; replaced the first openQuestions line with the audit reason."
+  ],
+  "unverifiable": [
+    "The 2022 district court and 2025 Eighth Circuit rulings were not opened; 'today' remains attributed to the Band's newspaper."
+  ]
+}

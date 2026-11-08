@@ -19,10 +19,28 @@
     "Land certified to individuals on the new reservation would be exempt from taxation and could not be alienated except as the treaty allowed (Article 7)."
   ],
   "status": "no-breach-found",
-  "breaches": [],
+  "breaches": [
+    {
+      "kind": "nation-statement",
+      "what": "The White Earth Nation states that much of the land base set aside for the Anishinaabeg of White Earth was fraudulently stolen through illegal schemes and abuses that followed the Nelson Act and the Clapp Riders, and that the Nelson Act's cession of four northeastern townships of the reservation is still contested as to its legal validity.",
+      "date": "1889-1917",
+      "whoFoundIt": "White Earth Nation, 'A Brief History of the White Earth Nation' (Andréa Szabo, June 30, 2026), prepared by the Nation for its Pineland Sands study and published on its website",
+      "source": {
+        "title": "A Brief History of the White Earth Nation",
+        "url": "https://www.whiteearth.com/media/pages/divisions/natural-resources/lccmr-pineland-sands-study/4d0f586097-1783712421/report-a-white-earth-nation-history.pdf",
+        "publisher": "White Earth Nation"
+      }
+    }
+  ],
   "compensation": "The consideration in Article 3. No Indian Claims Commission award for this cession was found: the Minnesota Chippewa Tribe dockets opened (18-C, 18-S, 18-T, 18-U and 144) concern the treaties of 1837, 1842, 1847 and 1854; Docket 18-T refers to Article 5 of this treaty only as it changed an annuity under the 1847 treaty.",
-  "today": "Congress settled outstanding allotment title claims on the White Earth Reservation by the White Earth Reservation Land Settlement Act (Public Law 99-264, March 24, 1986, 100 Stat. 61), finding that 'past United States laws and policies have contributed to the uncertainty surrounding the claims'. Those allotments were made under the Act of January 14, 1889 (25 Stat. 642), not this treaty, so the finding is not recorded as a breach of it.",
-  "nationVoice": [],
+  "today": "Congress settled outstanding allotment title claims on the White Earth Reservation by the White Earth Reservation Land Settlement Act (Public Law 99-264, March 24, 1986, 100 Stat. 61), finding that 'past United States laws and policies have contributed to the uncertainty surrounding the claims'. The Act defines the allotments it covers as those granted under the Act of January 14, 1889 (25 Stat. 642) and the Act of February 8, 1887, and in section 5(d) ratifies and confirms the reallotment under the 1889 Act of any allotment first made under this treaty. The finding is not recorded as a breach of this treaty.",
+  "nationVoice": [
+    {
+      "nation": "White Earth Nation (Gaa-waabaabiganikaag)",
+      "summary": "The Nation's history says the 1867 treaty created the White Earth Reservation of about 829,443 acres of prairie, pine and lakes, that the Nelson Act of 1889 and the Clapp Riders of 1904 and 1906 opened it to timber barons and land schemes so that within a few years most of the land had passed out of Anishinaabe hands, and that much of the land base set aside for the people was fraudulently stolen, a wrong the 1986 settlement act only partly addressed.",
+      "url": "https://www.whiteearth.com/media/pages/divisions/natural-resources/lccmr-pineland-sands-study/4d0f586097-1783712421/report-a-white-earth-nation-history.pdf"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Chippewa of the Mississippi, 1867 (Kappler, vol. 2, p. 974)",
@@ -38,13 +56,19 @@
       "title": "White Earth Reservation Land Settlement Act of 1985, Public Law 99-264, 100 Stat. 61",
       "url": "https://www.govinfo.gov/content/pkg/STATUTE-100/pdf/STATUTE-100-Pg61.pdf",
       "publisher": "US Government Publishing Office"
+    },
+    {
+      "title": "A Brief History of the White Earth Nation (Andréa Szabo, June 30, 2026)",
+      "url": "https://www.whiteearth.com/media/pages/divisions/natural-resources/lccmr-pineland-sands-study/4d0f586097-1783712421/report-a-white-earth-nation-history.pdf",
+      "publisher": "White Earth Nation"
     }
   ],
   "openQuestions": [
     "The Clapp amendments of 1904 to 1907, which lifted restrictions on the sale of White Earth allotments by adult mixed-bloods, may have overridden the Article 7 bar on alienation of land certified under this treaty; the statutes were not opened, so no breach is recorded.",
     "Whether the Article 3 schools, mills, physician and agricultural aid were provided for the ten years promised was not checked.",
     "White Earth Nation, Leech Lake and Mille Lacs accounts of the 1867 treaty were not located; the Minnesota Indian Affairs Council page found is a state agency page, not the nation's own.",
-    "Royce cessions 507, 508 and 509 were taken from treaties.json and not checked against the schedule."
+    "Royce cessions 507, 508 and 509 were taken from treaties.json and not checked against the schedule.",
+    "Audit 2026-11-08: 'today' corrected. It said the White Earth allotments were made under the 1889 Act, not this treaty; section 5(d) of the 1986 Act (100 Stat. 61) in fact ratifies the reallotment under the 1889 Act of allotments first made under the Treaty of March 19, 1867. Decision for Jordan: whether that ratification, or the reallotment it confirms, overrode Article 7 rights of the original treaty allottees. No source opened says so, so no breach is recorded and the status stays no-breach-found."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

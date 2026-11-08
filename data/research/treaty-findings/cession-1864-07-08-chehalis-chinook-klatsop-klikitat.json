@@ -1,0 +1,140 @@
+{
+  "id": "cession-1864-07-08-chehalis-chinook-klatsop-klikitat",
+  "name": "Taking of southwestern Washington without a treaty; Chehalis Reservation set apart by order of the Secretary of the Interior, July 8, 1864",
+  "aka": [
+    "Chehalis Reservation order of July 8, 1864",
+    "Royce cession 458"
+  ],
+  "signed": "1864-07-08",
+  "citation": "No treaty or statute; Secretary of the Interior's approval of the Chehalis reserve, July 8, 1864 (Royce, schedule entry 458)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/832/mode/2up",
+  "nations": [
+    "Upper Chehalis and Lower Chehalis (Confederated Tribes of the Chehalis Reservation)",
+    "Chinook",
+    "Clatsop",
+    "Klikitat"
+  ],
+  "promises": [
+    "There was no treaty and so no promise. Royce's schedule records that these tribes claimed the country between the Nisqually and Quinault territory on the north, the Cascade Mountains on the east and the Columbia River on the south, and that the United States took possession of it without any treaty.",
+    "The only provision made was a small reserve: on July 8, 1864 the Secretary of the Interior approved setting aside 4,224.63 acres as a reservation for the Chehalis, per the Indian Claims Commission's findings. A second reserve, at Shoalwater Bay, followed by executive order of September 22, 1866."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1960-03-14",
+      "what": "After the Court of Claims reversed its first dismissal, the Indian Claims Commission held that the Upper Chehalis and Lower Chehalis held Indian title to their lands and that the United States acquired that title on March 3, 1855, the day treaty talks ended, without their consent and without paying for it.",
+      "whoFoundIt": "Indian Claims Commission, Upper Chehalis Tribe, et al. v. United States, Docket 237, 8 Ind. Cl. Comm. 436, Opinion and Interlocutory Order of March 14, 1960",
+      "source": {
+        "title": "Upper Chehalis Tribe, et al. v. United States, Docket 237, Interlocutory Order, March 14, 1960",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/330",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      },
+      "quote": "was acquired by the defendant from said Indians on March 3, 1855, without their consent and without the payment of compensation therefor"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1970-11-04",
+      "what": "For the Lower Band of Chinook and the Clatsop, whose lands lay in parts of present Washington and Oregon, the Commission found the land worth $75,000 at the August 1851 dates of taking and held the $26,307.95 paid for it clearly unconscionable.",
+      "whoFoundIt": "Indian Claims Commission, Chinook Tribe and Bands of Indians v. United States, Docket 234, 24 Ind. Cl. Comm. 56 (1970)",
+      "source": {
+        "title": "Chinook Tribe and Bands of Indians v. United States, Docket 234, Opinion of the Commission, November 4, 1970",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1399",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1963-10-07",
+      "what": "The Chehalis claim was then settled by compromise at 90 cents an acre net for 838,200 acres, and the Commission approved a final judgment of $754,380.00 for the Upper and Lower Chehalis. The tribal meeting voted 94 to 43 to accept.",
+      "whoFoundIt": "Indian Claims Commission, Docket 237, Additional Findings of Fact on compromise settlement, 12 Ind. Cl. Comm. 644 (1963)",
+      "source": {
+        "title": "Upper Chehalis Tribe, et al. v. United States, Docket 237, Additional Findings of Fact, October 7, 1963",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/823",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "2026-11-08",
+      "what": "The Chehalis Tribe says that at the February 1855 treaty council the government proposed moving the Chehalis to a reservation far north of their homeland, no agreement was reached, a treaty was never signed, and its reservation came by executive order in July 1864.",
+      "whoFoundIt": "Confederated Tribes of the Chehalis Reservation, People of the Sands (tribal website)",
+      "source": {
+        "title": "People of the Sands",
+        "url": "https://www.chehalistribe.org/our-story/people-of-the-sands/",
+        "publisher": "Confederated Tribes of the Chehalis Reservation"
+      },
+      "quote": "a treaty was never signed"
+    }
+  ],
+  "landTaken": "The Commission found the Lower Chehalis held Indian title to 517,700 acres and the Upper Chehalis to 320,500 acres, 838,200 acres in all (Docket 237, 1963 findings). The Chinook and Clatsop tract contained 76,639 acres of dry land (Docket 234, 1970).",
+  "compensation": "Chehalis: a compromise final judgment of $754,380.00 (Docket 237, 1963). Lower Band of Chinook and Clatsop: final award of $48,692.05 (Docket 234, November 4, 1970). The Commission also dismissed, in 1956, a claim for 3,753.63 acres of the Chehalis Reservation restored to the public domain in 1886, finding the land had been allotted and patented to Indians living on it; the Court of Claims did not disturb that part.",
+  "today": "The Confederated Tribes of the Chehalis Reservation live on the reservation near Oakville set apart in 1864 and describe themselves as an executive-order tribe, not a treaty tribe.",
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of the Chehalis Reservation",
+      "summary": "The Tribe's own history says the 1855 council on the Chehalis River broke down after three days because the government wanted to move the Chehalis far north of their villages, that no treaty was ever signed, and that its reservation in Upper Chehalis territory was made by executive order in 1864.",
+      "url": "https://www.chehalistribe.org/our-story/people-of-the-sands/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule entry 458",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/832/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Upper Chehalis Tribe, et al. v. United States, Docket 237, Opinion of the Commission, June 25, 1956 (dismissal later reversed)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/352",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Upper Chehalis Tribe, et al. v. United States, Docket 237, Opinion of the Commission, March 14, 1960",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/260",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Upper Chehalis Tribe, et al. v. United States, Docket 237, Interlocutory Order, March 14, 1960",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/330",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Upper Chehalis Tribe, et al. v. United States, Docket 237, Additional Findings of Fact, October 7, 1963",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/823",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Chinook Tribe and Bands of Indians v. United States, Docket 234, Opinion of the Commission, April 16, 1958",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/398",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Chinook Tribe and Bands of Indians v. United States, Docket 234, Opinion of the Commission, November 4, 1970",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1399",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Chinook Tribe and Bands of Indians v. United States, Docket 234, Final Award, November 4, 1970",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1470",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "People of the Sands",
+      "url": "https://www.chehalistribe.org/our-story/people-of-the-sands/",
+      "publisher": "Confederated Tribes of the Chehalis Reservation"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json: this is not a cession agreement. The 1864-07-08 date is the Secretary of the Interior's approval of the Chehalis reserve; Royce says the United States took the territory without any treaty. The ICC dated the Chehalis taking to March 3, 1855.",
+    "treaties.json: Royce's tribe list includes Klatsop (Clatsop), whose lands the ICC placed in Oregon, south of the Columbia; Royce 458's description stops at the Columbia. Whether the Chinook tract valued in Docket 234 falls inside Royce 458 was not checked on the map; the ICC dated that taking to August 1851, tied to the unratified Tansy Point treaties.",
+    "Klikitat lands are not covered here; the Klikitat were party to the 1855 Yakama treaty and their claims were pursued with the Yakama. Not checked.",
+    "No Chinook Indian Nation or Shoalwater Bay Tribe account was opened for this file."
+  ],
+  "plain": {
+    "promised": "Nothing was promised. There was no treaty. The United States took the country north of the Columbia River without one, and in 1864 set aside a small reservation for the Chehalis.",
+    "happened": "The Indian Claims Commission found in 1960 that the United States took Chehalis land in 1855 without consent or payment, and in 1970 that the price paid for Chinook and Clatsop land was unconscionable.",
+    "today": "The Chehalis claim was settled by compromise for $754,380 in 1963; the Chinook and Clatsop were awarded $48,692.05 in 1970. The Chehalis Tribe says a treaty was never signed."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

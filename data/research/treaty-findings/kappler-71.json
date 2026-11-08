@@ -1,0 +1,33 @@
+{
+  "id": "kappler-71",
+  "name": "Treaty with the Choctaw, 1802 (Treaty of Fort Confederation)",
+  "aka": ["1802 Treaty of Fort Confederation", "Provisional convention of October 17, 1802"],
+  "signed": "1802-10-17",
+  "citation": "7 Stat. 73",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-choctaw-1802-0063",
+  "nations": ["Choctaw (Chahta) Nation, today the Choctaw Nation of Oklahoma, the Mississippi Band of Choctaw Indians and the Jena Band of Choctaw Indians"],
+  "promises": [
+    "The old British-Choctaw line between the Chickasawhay and Tombigbee rivers would be retraced and marked, with two Choctaw commissioners attending, fed by the United States and paid one dollar a day (Article 1).",
+    "Once remarked, that line would be the boundary, and the Choctaw released the land south of it between the Chickasawhay and the Tombigbee and Mobile rivers for one dollar (Article 2).",
+    "The chiefs of the upper towns could adjust the old line near the mouth of the Yazoo where it could be done without injury to the nation (Article 3)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce Area 46 in present Alabama and Mississippi, the tract released by Article 2.",
+  "compensation": "The treaty states the consideration for the Article 2 release as one dollar, acknowledged as received.",
+  "today": "No Indian Claims Commission or court ruling on this cession was found. The Choctaw Nation of Oklahoma publishes the treaty text under the name 1802 Treaty of Fort Confederation.",
+  "nationVoice": [
+    { "nation": "Choctaw Nation of Oklahoma", "summary": "The Nation publishes the Kappler text of this treaty as the 1802 Treaty of Fort Confederation, without further commentary in that document.", "url": "https://www.choctawnation.com/wp-content/uploads/2022/03/1802treaty-of-fort-confederation.pdf" }
+  ],
+  "sources": [
+    { "title": "Treaty with the Choctaw, 1802 (Kappler, vol. 2, p. 63)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-choctaw-1802-0063", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
+    { "title": "1802 Treaty of Fort Confederation", "url": "https://www.choctawnation.com/wp-content/uploads/2022/03/1802treaty-of-fort-confederation.pdf", "publisher": "Choctaw Nation of Oklahoma" }
+  ],
+  "openQuestions": [
+    "Kappler prints 'Ratified June 20, 1803. Proclaimed Jan. 20, 1803', a proclamation before the ratification; one date is likely misprinted, so neither is recorded here.",
+    "Thirteen Choctaw decisions in the OSU ICC collection (Dockets 16, 51, 55, 56, 103 and 249) were searched for the 1802 treaty, 7 Stat. 73 and Royce Area 46 with no hit; the Commission's 1978 Final Report docket list was not checked.",
+    "No Choctaw account of what this cession meant to the nation was found beyond the published text."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

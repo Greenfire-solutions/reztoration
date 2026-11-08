@@ -1,0 +1,72 @@
+{
+  "id": "kappler-272",
+  "name": "Treaty with the Creeks, 1826 (Treaty of Washington)",
+  "aka": ["Treaty of Washington, 1826"],
+  "signed": "1826-01-24",
+  "proclaimed": "1826-04-22",
+  "citation": "7 Stat. 286",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-creeks-1826-0264",
+  "nations": ["Mvskoke (Muscogee Creek)"],
+  "promises": [
+    "Article 1: the 1825 Treaty of Indian Springs declared null and void, with every right and claim arising from it cancelled.",
+    "Articles 3 and 4: $217,600 to the chiefs after ratification and an additional perpetual annuity of $20,000.",
+    "Article 13: the United States to guarantee to the Creeks all their country not ceded by this treaty, and to make good any losses caused by the illegal conduct of US citizens in the Creek country.",
+    "Article 11: improvements on the ceded land to be appraised and paid for; Article 12 let the Creeks keep possession of the ceded country until the following January 1.",
+    "Articles 6 to 9: for the followers of William McIntosh who chose to move west, an exploring party, removal costs, a year's subsistence, an agent, a blacksmith and a wheelwright."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "government-admission",
+      "date": "1827-02-05",
+      "what": "President John Quincy Adams told Congress that surveyors employed by Georgia were surveying land inside the Creek territory secured by this treaty, that Georgia's surveys beyond the boundary secured by the treaty were in direct violation of it, and that he had chosen civil prosecution over military removal because the surveyors acted under Georgia's authority.",
+      "whoFoundIt": "President John Quincy Adams, Message to Congress on the Rights of the Creek Indians (February 5, 1827)",
+      "source": {
+        "title": "John Quincy Adams, Message to Congress on the Rights of the Creek Indians (February 5, 1827)",
+        "url": "https://www.presidency.ucsb.edu/documents/message-congress-the-rights-the-creek-indians",
+        "publisher": "The American Presidency Project, UC Santa Barbara"
+      },
+      "quote": "are in direct violation of the supreme law of this land, set forth in a treaty"
+    }
+  ],
+  "landTaken": "All Creek land in Georgia east of the middle of the Chattahoochee, and a further tract west of the river beginning 47 miles below the Creek and Cherokee line near Buzzard's Roost (Royce Areas 127 to 131). A supplemental article of March 31, 1826 enlarged the western tract, according to Royce.",
+  "compensation": "$217,600 and a perpetual annuity of $20,000 under Articles 3 and 4. No Indian Claims Commission decision on this cession was found.",
+  "today": "Royce records that attempts to fix the boundaries of one of the tracts were unsuccessful, and that the country promised to the McIntosh party west of the Mississippi was replaced by the tract assigned to the Creeks by the treaty of February 14, 1833, which says so in its Article 8.",
+  "plain": {
+    "promised": "The 1825 Indian Springs treaty cancelled, payment and a $20,000 yearly annuity for Creek land in Georgia, and a United States guarantee of all the Creek country not ceded.",
+    "happened": "In February 1827 President Adams told Congress that Georgia surveyors were surveying Creek land secured by this treaty. He chose to prosecute in the courts rather than remove them with troops.",
+    "today": "No court or Claims Commission decision on this treaty was found. The Creek country promised in the west was replaced by the 1833 Fort Gibson treaty."
+  },
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Creeks, 1826 (Kappler, vol. 2, p. 264)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-creeks-1826-0264",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "John Quincy Adams, Message to Congress on the Rights of the Creek Indians (February 5, 1827)",
+      "url": "https://www.presidency.ucsb.edu/documents/message-congress-the-rights-the-creek-indians",
+      "publisher": "The American Presidency Project, UC Santa Barbara"
+    },
+    {
+      "title": "Treaty with the Creeks, 1833 (Kappler, vol. 2, p. 388), Article 8",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-creeks-1833-0388",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule pp. 714-715",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/714/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The breach recorded is the President's own statement that Georgia was surveying land the treaty secured; the treaty's Article 13 guarantee is the promise at issue. The intruders acted for a state, and the President said he would prosecute them; whether this should count as the United States breaking its guarantee is for the auditors to confirm.",
+    "treaties.json gap: presentDayTribes is empty for this entry. The Muscogee (Creek) Nation is the obvious successor; whether to add the Poarch Band of Creek Indians and others is for Jordan.",
+    "The remaining Creek land in Georgia was ceded on November 15, 1827 (queue entry cession-1827-11-15-creek); the link between the Georgia surveys and that cession was not researched.",
+    "Whether the Article 11 improvements were paid and the Article 13 losses made good was not researched; no Indian Claims Commission docket on this cession was found in the online collection.",
+    "No account by the Muscogee (Creek) Nation about this treaty was found in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -23,7 +23,7 @@
     {
       "kind": "nation-statement",
       "date": "1892-10-31",
-      "what": "The Confederated Tribes of Siletz Indians say the 1892 'negotiation' was forced: the Secretary had already declared the land surplus, commissioners used threats about taxes and promises that went unfulfilled, told the Tribe the timber had no market value while reporting it as good fir and cedar, and obtained 191,000 or more acres for 74 cents an acre.",
+      "what": "The Confederated Tribes of Siletz Indians say the 1892 'negotiation' was forced: the Secretary of the Interior had apparently already decided to declare the land surplus, commissioners used threats about taxes and promises that went unfulfilled, told the Tribe the timber had no market value while reporting it as good fir and cedar, and obtained 191,000 or more acres for 74 cents an acre.",
       "whoFoundIt": "Confederated Tribes of Siletz Indians, The 1892 'Surplus Lands' 'Agreement'",
       "source": {
         "title": "The 1892 \"Surplus Lands\" \"Agreement\"",
@@ -34,11 +34,11 @@
   ],
   "landTaken": "All unallotted land of the Siletz Reservation except five sections (28 Stat. 324). The Siletz Tribe gives 191,000 or more acres; no government source opened here states the acreage.",
   "compensation": "$142,600 under Article II of the agreement (28 Stat. 324). No later claims award for this cession was found.",
-  "today": "The Supreme Court in Alcea (1946) described this Act as Congress officially accepting the reservation as it then existed, and said that thereafter Congress did not take reservation lands without compensation. The Siletz Tribe says the commissioners' promises of future allotments from the ceded land and of early clear title to allotments were not kept.",
+  "today": "The Supreme Court in Alcea (1946) described this Act as Congress officially accepting the reservation as it then existed, and said that thereafter Congress did not take reservation lands without compensation. The Siletz Tribe says the commissioners promised that later generations could take allotments from the ceded land and that clear title would come within five years, among promises it says went unfulfilled.",
   "plain": {
     "promised": "$142,600 for all unallotted Siletz Reservation land except five sections, with $100,000 held at 5 percent interest paid yearly, $75 to each adult, and the five sections' timber for the Siletz people's own use.",
     "happened": "The Confederated Tribes of Siletz Indians say the agreement was forced through threats and unkept promises, and that the timber was undervalued. No court or claims finding on it has been located.",
-    "today": "No later claims award was found, and whether the $100,000 fund and its interest were paid was not checked. The Siletz Tribe says promises of future allotments and early clear title were not kept."
+    "today": "No later claims award was found, and whether the $100,000 fund and its interest were paid was not checked. The Siletz Tribe says the commissioners won agreement with promises, such as future allotments and early clear title, that went unfulfilled."
   },
   "nationVoice": [
     {
@@ -73,7 +73,8 @@
     "Royce's schedule names the tribe for this entry 'Alsea et al.', while treaties.json says 'Indians on coast of Oregon' and gives Royce cession 479. Area 479 appears to be the Yaquina tract released in 1865, not the unallotted land ceded in 1892; the area number Royce gives this entry could not be read cleanly from the text layer. Not edited.",
     "No Indian Claims Commission or Court of Claims decision on the adequacy of the $142,600 was found; whether the Siletz pressed such a claim before or after termination (1954) was not researched.",
     "Whether the $100,000 trust fund and its interest were paid as Article II required was not checked against Interior records.",
-    "The 74 cents an acre and 191,000 acre figures are the Tribe's; the commissioners' final report they cite was not opened."
+    "The 74 cents an acre and 191,000 acre figures are the Tribe's; the commissioners' final report they cite was not opened.",
+    "Audit 2026-11-08: the Tribe's page says the Secretary had 'apparently' already decided to declare the land surplus, and lists the allotment and clear-title promises among promises it says went unfulfilled without saying what became of those two; the breach, today and plain lines were reworded to match."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

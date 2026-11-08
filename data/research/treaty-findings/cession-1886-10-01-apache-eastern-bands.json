@@ -60,17 +60,33 @@
         "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1524",
         "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
       }
+    },
+    {
+      "kind": "nation-statement",
+      "what": "The Mescalero Apache Tribe states that the United States unlawfully took its lands and that its leaders sought reparations for them before the Indian Claims Commission.",
+      "whoFoundIt": "Mescalero Apache Tribe, 'Mescalero Apache Tribe 1873 - 2023' 150th anniversary presentation to the New Mexico Legislature's Indian Affairs Committee, July 13, 2023",
+      "source": {
+        "title": "Mescalero Apache Tribe 1873 - 2023 (150th anniversary presentation, Indian Affairs Committee, July 13, 2023)",
+        "url": "https://nmlegis.gov/handouts/IAC%20071323%20Item%205%20MAT%20150th%20Anniversary%20Presentation.pdf",
+        "publisher": "Mescalero Apache Tribe, via New Mexico Legislature"
+      }
     }
   ],
   "landTaken": "For the Jicarilla, a gross area of 14,026,000 acres, of which 9,218,532.77 acres were valued after excluding confirmed Spanish and Mexican land grants (Docket 22-A, November 9, 1966). The Mescalero acreage was not recorded in this pass.",
   "compensation": "Jicarilla: $9,150,000 by stipulated final award, April 21, 1971 (the Commission had valued the land at $9,950,000). Mescalero: $8,500,000 by stipulated final judgment, April 27, 1967.",
-  "today": "Royce (1899) records that the eastern Apache not confederated with the Kiowa and Comanche were assigned reservations from time to time. The Jicarilla accounting claim was separated from the land claim as Docket 22-K (Final Award, April 21, 1971).",
+  "today": "Royce (1899) records that the eastern Apache not confederated with the Kiowa and Comanche were assigned reservations from time to time. The Final Award of April 21, 1971 in Docket 22-A also ordered the Jicarilla accounting claim separated from the land claim and designated Docket 22-K.",
   "plain": {
     "promised": "Nothing. No treaty of purchase was made with most of the Jicarilla and Mescalero, whose country lay east of the Rio Grande; reservations were assigned from time to time instead.",
     "happened": "The Indian Claims Commission found the United States took Jicarilla land without payment, dating the taking to August 20, 1883, and Mescalero land without payment on May 29, 1873.",
     "today": "Both claims were settled: the Jicarilla for $9,150,000 in 1971, though the Commission had valued the land at $9,950,000, and the Mescalero for $8,500,000 in 1967. Whether these were paid has not been traced."
   },
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Mescalero Apache Tribe",
+      "summary": "The Tribe says the Mescalero, Chiricahua and Lipan Apache once ranged across what is now Arizona, New Mexico, Texas and northern Mexico, that after war and the suffering at Bosque Redondo the Mescalero sought a permanent home near Sierra Blanca, won the 1873 reservation, and that its leaders Asa Daklugie and Jaspar Kanseah fought before the Indian Claims Commission for reparations for lands the United States took unlawfully.",
+      "url": "https://nmlegis.gov/handouts/IAC%20071323%20Item%205%20MAT%20150th%20Anniversary%20Presentation.pdf"
+    }
+  ],
   "sources": [
     {
       "title": "Indian Land Cessions in the United States (Royce, 1899), schedule entries 'Cessions of 1886', Royce 688 and notes",
@@ -106,6 +122,11 @@
       "title": "Mescalero Apache Tribe v. United States, Docket 22-B, Final Judgment (April 27, 1967)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1524",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Mescalero Apache Tribe 1873 - 2023 (150th anniversary presentation, Indian Affairs Committee, July 13, 2023)",
+      "url": "https://nmlegis.gov/handouts/IAC%20071323%20Item%205%20MAT%20150th%20Anniversary%20Presentation.pdf",
+      "publisher": "Mescalero Apache Tribe, via New Mexico Legislature"
     }
   ],
   "openQuestions": [
@@ -113,7 +134,8 @@
     "treaties.json lists the White Mountain Apache Tribe and the Fort Sill Apache Tribe among present-day tribes; Royce puts western bands, including the White Mountain (Coyotero) people, in a separate entry, and the Fort Sill Apache are Chiricahua. The Apache Tribe of Oklahoma may descend from the few eastern Apache Royce says joined the Kiowa and Comanche; not confirmed.",
     "The Mescalero 1966 order is also cited in cession-1873-05-29-apache-mescalero for the 1873 reservation order; here it is cited for the taking of the Mescalero part of Royce 688, which is what the order decides.",
     "Lipan Apache claims (Docket 22-C, compromise 1976) may overlap the Texas part of this area; not researched.",
-    "Jicarilla Apache Nation and Mescalero Apache Tribe accounts were not located in this pass."
+    "Jicarilla Apache Nation and Mescalero Apache Tribe accounts were not located in this pass.",
+    "Audit 2026-11-08: 'today' reworded so it no longer reads as a final award in Docket 22-K; the April 21, 1971 award was in Docket 22-A and only designated the accounting claim as 22-K. All figures and dates were checked against the decisions and stand."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

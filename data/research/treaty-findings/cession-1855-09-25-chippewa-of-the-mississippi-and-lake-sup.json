@@ -1,11 +1,15 @@
 {
   "id": "cession-1855-09-25-chippewa-of-the-mississippi-and-lake-sup",
   "name": "Executive order of September 25, 1855 setting apart the Ontonagon reserve",
-  "aka": ["Ontonagon Reservation, Michigan"],
+  "aka": [
+    "Ontonagon Reservation, Michigan"
+  ],
   "signed": "1855-09-25",
   "citation": "Executive order of September 25, 1855, under Article 2 (sixth clause) of the Treaty with the Chippewa, 1854, 10 Stat. 1109",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-1854-0648",
-  "nations": ["Ontonagon band of Lake Superior Ojibwe (Chippewa)"],
+  "nations": [
+    "Ontonagon band of Lake Superior Ojibwe (Chippewa)"
+  ],
   "promises": [
     "Treaty of September 30, 1854, Article 2, sixth clause: the Ontonagon band may select four sections of land on or near the lake shore, under the President's direction, their boundaries to be defined later.",
     "Article 2 opening: the United States agreed to set apart and withhold from sale, for the use of the Chippewa of Lake Superior, the tracts it lists.",
@@ -15,7 +19,7 @@
   "breaches": [],
   "landTaken": "This order took no land. It set apart the Ontonagon reserve (Royce area 340): lots 1 to 4 of sections 14 and 15, the southwest quarter and the southwest quarter of the southeast quarter of section 15, sections 22 and 23, and the north halves of sections 26 and 27, all in township 53 north, range 38 west, Michigan.",
   "compensation": "Not applicable. In Docket 18-U the Indian Claims Commission counted the Ontonagon reserve, at its January 10, 1855 value, among seven reserves credited to the United States as part of the consideration for the 1854 cession, which it held unconscionable (41 Ind. Cl. Comm. 249, 1978); that finding concerns the 1854 treaty (kappler-656), not this order.",
-  "today": "Royce records an addition of eighteen sections to this reserve by executive order in 1856 (area 341 or 342). Disbursements in 1942 to 1944 for 'the L'Anse and Ontonagon Reservations' appear in the Commission's 1978 offset findings, so the reserve was still recognized then.",
+  "today": "Royce records an addition of 18 sections to this reserve by Executive order in 1856. The Indian Claims Commission's 1978 offset findings in Docket 18-U record disbursements in 1942, 1943 and 1944 for the Chippewa Indians of 'the L'Anse and Ontonagon Reservations'.",
   "nationVoice": [],
   "sources": [
     {
@@ -39,7 +43,8 @@
     "treaties.json lists eight present-day bands generically. The Ontonagon reserve is today associated with the Keweenaw Bay Indian Community, which is not in the list; that link was not confirmed from a primary source in this pass.",
     "Royce's schedule cites 'the sixth clause of article 1' of the 1854 treaty; the clause is in Article 2.",
     "Whether lands inside the described sections had already been sold or granted before the order, and what became of the reserve since, was not researched.",
-    "The text of the executive order itself (Kappler vol. 1, executive order reservations, Michigan) was not opened; the description is Royce's."
+    "The text of the executive order itself (Kappler vol. 1, executive order reservations, Michigan) was not opened; the description is Royce's.",
+    "Audit 2026-11-08: 'today' reworded. The area number '(area 341 or 342)' for the 1856 addition was a guess and is removed; the inference 'so the reserve was still recognized then' is replaced by what the Commission's findings actually record."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

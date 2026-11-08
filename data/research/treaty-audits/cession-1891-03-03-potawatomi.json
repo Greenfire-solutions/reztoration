@@ -1,0 +1,19 @@
+{
+  "id": "cession-1891-03-03-potawatomi",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Docket 96 opinion of December 30, 1964 (pointer 734): value $1,090,000.00, about $3.00 an acre, as of June 25, 1890; $160,000.00 paid; consideration unconscionable; gross recovery $930,000.00 less offsets. Quote exact.",
+    "Supplemental Finding 18 of 1964 (pointer 757): 362,832.22 acres to be valued; Finding 41: $160,000.00 paid.",
+    "1958 findings (pointer 163): Finding 12 terms of the 1890 agreement (575,870.42 acres, 1,400 allottees, $119,790.75); Finding 14: 213,044.78 acres to 1,487 members; Finding 16: 575,877 acres; 26 Stat. 989, 1016.",
+    "Final judgment of August 27, 1968 (pointer 1195): net recovery $797,508.99 after offsets of $119,790.75, $1,920.00, $780.26 and $10,000.00. Adjudicated, not a settlement."
+  ],
+  "changes": [
+    "Surplus acreage corrected from 362,838.22 to 362,832.22 in the breach, landTaken and plain.happened (Finding 18 of 1964; the opinion corrects the 1958 figure for a mathematical error).",
+    "landTaken citation updated to Findings 14 and 16 (1958) and 18 (1964); compensation reworded so the $119,790.75 reads as one of the offsets."
+  ],
+  "unverifiable": [
+    "Text of the 1890 agreement in 26 Stat. not opened (rests on the Commission's Finding 12).",
+    "Citizen Potawatomi Nation pages not re-opened."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "cession-1864-01-15-apache",
+  "auditedAt": "2026-11-08",
+  "verdict": "downgraded",
+  "checked": [
+    "ICC Docket 22-B Findings of Fact, July 7, 1966 (17 Ind. Cl. Comm. 100, id 1403): Finding 35(e) attempt from 1862 to confine the Mescalero near Fort Sumner in the northeastern part of their territory, abortive before the close of 1865; taking of Indian title on May 29, 1873 without compensation",
+    "ICC Docket 22-B Interlocutory Order, July 7, 1966 (id 1062): the United States on May 29, 1873 acquired the Mescalero aboriginal title as described in Finding 37 without payment",
+    "ICC Docket 22-B Final Judgment, April 27, 1967 (id 1524): stipulation of settlement, $8,500,000",
+    "Royce schedule p. 830, area 448: President directs a reserve 40 miles square around Bosque Redondo; Navajo removed there; Apache abandoned it in 1865; Navajo left after the treaty of June 1, 1868; Commissioner advised on July 21, 1871 it was no longer needed"
+  ],
+  "changes": [
+    "Status broken -> contested: the Commission finding dates the taking to the 1873 order and does not name this order, so it is not a breach of this entry; moved to 'today'",
+    "Plain lines rewritten to match"
+  ],
+  "unverifiable": [
+    "The text of the January 15, 1864 order (UGA 448r.pdf), as the file says"
+  ]
+}

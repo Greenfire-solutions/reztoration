@@ -1,0 +1,56 @@
+{
+  "id": "kappler-103",
+  "name": "Treaty with the Osage, 1808 (Treaty of Fort Clark)",
+  "aka": ["Fort Osage treaty of November 10, 1808"],
+  "signed": "1808-11-10",
+  "ratified": "1810-04-28",
+  "citation": "7 Stat. 107",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-osage-1808-0095",
+  "nations": ["Osage (Wazhazhe) Nation, then the Great and Little Osage"],
+  "promises": [
+    "The United States would build and garrison a fort above the Fire Prairie to protect Osage who lived there (Article 1).",
+    "A permanent store of goods for fair trade, a blacksmith, a mill, ploughs and a blockhouse for each principal chief (Articles 2 and 3).",
+    "Yearly merchandise worth $1,000 to the Great Osage and $500 to the Little Osage, plus $800 and $400 paid at signing (Article 5).",
+    "Osage under the fort's protection could live and hunt without molestation west of the new line (Article 8), and could arrest unlicensed intruders crossing it (Article 11).",
+    "In return the Osage ceded the land east of a line due south from Fort Clark to the Arkansas River and the land north of the Missouri (Article 6)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1969-06-18",
+      "what": "The Indian Claims Commission found that the 12,113,000 acres the Osage ceded by this treaty were worth $7,000,000 on April 28, 1810, that the $56,833.79 the United States paid for them was an unconscionable consideration, and ordered recovery of $6,943,166.21 less allowable offsets.",
+      "whoFoundIt": "Indian Claims Commission, Osage Nation v. United States, Docket 105, order of June 18, 1969 (21 Ind. Cl. Comm. 67); title held by interlocutory order of December 3, 1962 (11 Ind. Cl. Comm. 733)",
+      "source": {
+        "title": "Osage Nation v. United States, Docket 105, Order (June 18, 1969)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2586",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "The payment of $56,833.79 for lands worth $7,000,000 is of an unconscionable consideration"
+    }
+  ],
+  "landTaken": "The Commission held that the Osage had aboriginal title to the area in Missouri and Arkansas described in its Finding 112, a portion of Royce Area 67, and found it contained 12,113,000 acres (Docket 105, 1962 and 1969).",
+  "compensation": "The United States appealed the 1969 award to the Court of Claims. In 1970 the Osage Nation and the United States settled Dockets 105, 106, 107 and 108 together by compromise for a net $13,250,000, approved by the Commission on September 3, 1970 and entered as final judgment on September 15, 1970, on condition that the appeals be dismissed. The settlement does not divide the sum by treaty.",
+  "today": "The 1969 finding of unconscionable consideration stands in the Commission's record; the money judgment that ended the case was the 1970 compromise.",
+  "nationVoice": [],
+  "sources": [
+    { "title": "Treaty with the Osage, 1808 (Kappler, vol. 2, p. 95)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-osage-1808-0095", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
+    { "title": "Osage Nation v. United States, Docket 105, Interlocutory Order (December 3, 1962)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/915", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Osage Nation v. United States, Docket 105, Opinion of the Commission (June 18, 1969)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1532", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Osage Nation v. United States, Docket 105, Order (June 18, 1969)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2586", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Osage Nation v. United States, Dockets 105-108, Findings of Fact on Compromise Settlement (September 3, 1970)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1352", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+  ],
+  "openQuestions": [
+    "The 1969 order and the 1970 compromise findings give the consideration paid as $56,833.79; the 1969 opinion text prints $56,883.79. The order's figure is used because it agrees with the $6,943,166.21 award.",
+    "The Commission's award covers only the part of Royce Area 67 found in Finding 112. treaties.json also links Areas 68 and 69 to this entry, and gives Area 69 the schedule label 'Great and Little Osage; Iowa; Sauk and Fox' because Royce records concurrent cessions there. Whether Areas 68 and 69 were adjudicated for the Osage was not established. Not edited.",
+    "The September 15, 1970 final judgment (pointer 1717) has no text in the OSU collection; its date and the $13,250,000 come from the compromise findings and the collection record.",
+    "No Osage Nation account of the 1808 treaty was found on its own site in this pass."
+  ],
+  "plain": {
+    "promised": "A fort, a trading store, a blacksmith and mill, yearly goods worth $1,500, and the right to hunt west of the new line, in return for Osage land in Missouri and Arkansas.",
+    "happened": "In 1969 the Indian Claims Commission found the land was worth $7,000,000 and that the $56,833.79 paid was unconscionable.",
+    "today": "The government appealed. In 1970 the Osage Nation settled this and three related claims together for $13,250,000."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

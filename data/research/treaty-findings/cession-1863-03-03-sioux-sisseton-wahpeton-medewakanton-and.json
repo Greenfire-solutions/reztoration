@@ -1,0 +1,95 @@
+{
+  "id": "cession-1863-03-03-sioux-sisseton-wahpeton-medewakanton-and",
+  "name": "Act of March 3, 1863 for the removal of the Sisseton, Wahpeton, Mdewakanton and Wahpekute bands and the disposition of their lands in Minnesota (with the Forfeiture Act of February 16, 1863)",
+  "aka": ["Dakota Removal Act", "Forfeiture Act of 1863"],
+  "signed": "1863-03-03",
+  "citation": "Act of March 3, 1863, ch. 119, 12 Stat. 819; Act of February 16, 1863, ch. 37, 12 Stat. 652",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-12/pdf/STATUTE-12-Pg819.pdf",
+  "nations": ["Sisitonwan (Sisseton)", "Wahpetonwan (Wahpeton)", "Bdewakantunwan (Mdewakanton)", "Wahpekute"],
+  "promises": [
+    "What the earlier treaties secured: after the 1851 treaties of Traverse des Sioux and Mendota and the two 1858 treaties ceding the north side of the Minnesota River, the four bands kept the ten-mile tract on the south side of the river (Royce Area 440) as the remainder of their reservation, as the Indian Claims Commission found.",
+    "The 1851 and 1858 treaties also obliged the United States to pay large sums and annuities to the four bands, most of which, the February 1863 Act itself recites, remained unpaid."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1863-02-16",
+      "what": "After the war of 1862, Congress declared all treaties with the Sisseton, Wahpeton, Mdewakanton and Wahpekute bands abrogated so far as they imposed any future obligation on the United States, and declared all their lands and rights of occupancy in Minnesota, and all their annuities and claims, forfeited to the United States.",
+      "whoFoundIt": "Act for the Relief of Persons for Damages sustained by Reason of Depredations and Injuries by certain Bands of Sioux Indians, February 16, 1863, ch. 37, 12 Stat. 652",
+      "source": {
+        "title": "Act of February 16, 1863, ch. 37, 12 Stat. 652",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-12/pdf/STATUTE-12-Pg652-2.pdf",
+        "publisher": "U.S. Government Publishing Office"
+      },
+      "quote": "all lands and rights of occupancy within the State of Minnesota, and all annuities and claims heretofore accorded to said Indians"
+    },
+    {
+      "kind": "act-of-congress",
+      "date": "1863-03-03",
+      "what": "Congress directed the President to set apart land for the four bands outside any state, ordered their reservations in Minnesota surveyed, appraised and opened to preemption, settlement and sale, and made the bands subject to state criminal law and to rules set by the Secretary of the Interior. The Act makes no provision for the bands' consent.",
+      "whoFoundIt": "Act for the Removal of the Sisseton, Wahpaton, Medawakanton, and Wahpakoota Bands of Sioux or Dakota Indians, and for the Disposition of their Lands in Minnesota and Dakota, March 3, 1863, ch. 119, 12 Stat. 819",
+      "source": {
+        "title": "Act of March 3, 1863, ch. 119, 12 Stat. 819",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-12/pdf/STATUTE-12-Pg819.pdf",
+        "publisher": "U.S. Government Publishing Office"
+      }
+    }
+  ],
+  "landTaken": "Royce Area 440, the ten-mile tract on the south side of the Minnesota River, which the Indian Claims Commission put at 742,397.76 acres.",
+  "compensation": "The land was sold under the March 1863 Act; the Commission found that the total proceeds were $950,063.71, about $1.26 an acre. Under special jurisdictional acts the Court of Claims found the proceeds properly disbursed for the bands (Sisseton and Wahpeton Indians v. United States, 58 Ct. Cl. 302 (1923), affirmed by the Supreme Court; Sioux Tribe v. United States, 95 Ct. Cl. 603 (1942)), rulings against the bands' claims.",
+  "today": "In 1965 the Indian Claims Commission held that no claim for Royce Area 440 had ever been filed in time, and none of the $12,250,000 compromise of the Mississippi Sioux land claims in 1967 was allocated to it. Under the Act of March 3, 1863 the President chose Crow Creek on the Missouri for the new reservation, and in May 1864 the military moved the Indian prisoners there.",
+  "plain": {
+    "promised": "Earlier treaties left the four Dakota bands a ten-mile strip on the south side of the Minnesota River as their reservation, and promised them annuities.",
+    "happened": "After the 1862 war, Congress in February 1863 declared their treaties void as to future United States obligations and their Minnesota land and annuities forfeited, and in March 1863 ordered them removed and the land sold, with no provision for consent.",
+    "today": "The land sold for $950,063.71, which the Court of Claims found was properly spent for the bands. The Claims Commission held no timely claim for this land was filed, and none of the 1967 settlement went to it."
+  },
+  "nationVoice": [
+    {
+      "nation": "Shakopee Mdewakanton Sioux Community",
+      "summary": "The Community's history says that no annuity payments were made to the Mdewakanton, which it calls a clear breach of treaty rights, that almost all Mdewakanton were forcibly removed from Minnesota after the war of 1862, and that Congress abrogated all treaties with the Dakota.",
+      "url": "https://shakopeedakota.org/culture-history/our-history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Act of February 16, 1863, ch. 37, 12 Stat. 652",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-12/pdf/STATUTE-12-Pg652-2.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Act of March 3, 1863, ch. 119, 12 Stat. 819",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-12/pdf/STATUTE-12-Pg819.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Sisseton and Wahpeton Bands et al. v. United States, Dockets 142 and 359-363, Findings of Fact (January 12, 1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/251",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sisseton and Wahpeton Bands et al. v. United States, Dockets 142 and 359-363, Opinion of the Commission (January 12, 1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/559",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sisseton and Wahpeton Bands et al. v. United States, Dockets 142 and 359-363, Findings of Fact on Compromise Settlement (July 25, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2214",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Our History",
+      "url": "https://shakopeedakota.org/culture-history/our-history/",
+      "publisher": "Shakopee Mdewakanton Sioux Community"
+    }
+  ],
+  "openQuestions": [
+    "The Act of February 16, 1863 is also recorded as a breach on the 1858 treaty files (kappler-789, kappler-793); it is recorded here because it is the Act that took this tract. The map should not count the same Act twice in any total.",
+    "The Court of Claims rulings on the proceeds (58 Ct. Cl. 302; 95 Ct. Cl. 603) are cited as the Commission's 1967 findings report them; the opinions themselves were not opened.",
+    "Section 9 of the February Act and section 4 of the March Act let the Secretary assign up to 80 acres to individual Dakota who had saved settlers' lives; how many received land under them was not researched.",
+    "presentDayTribes may be incomplete: the Santee Sioux Nation (Nebraska), the Upper Sioux Community and the Spirit Lake Nation also descend from these bands; adding them is for Jordan.",
+    "No account by the Sisseton-Wahpeton Oyate, the Lower Sioux Indian Community or the Prairie Island Indian Community about these Acts was found in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

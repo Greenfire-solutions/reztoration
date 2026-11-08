@@ -1,0 +1,87 @@
+{
+  "id": "kappler-843",
+  "name": "Treaty with the Kickapoo, 1862",
+  "aka": ["Kickapoo treaty of June 28, 1862"],
+  "signed": "1862-06-28",
+  "ratified": "1863-03-13",
+  "proclaimed": "1863-05-28",
+  "citation": "13 Stat. 623",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-kickapoo-1862-0835",
+  "nations": ["Kickapoo"],
+  "promises": [
+    "Articles 1 and 2: the 150,000-acre Kansas reservation to be surveyed, with land assigned in severalty to those who wanted it and certificates issued, the land exempt from taxation, levy and sale.",
+    "Article 4: land set apart to be held in common by those who wanted that, or, if most of them chose, a new home in the Indian country south of Kansas bought with the value of their share at no less than $1.25 an acre.",
+    "Article 5: the Atchison and Pike's Peak Railroad Company could buy the whole remaining land at $1.25 an acre, on conditions about building the line and paying principal and interest.",
+    "Article 6: the railroad purchase void at the Secretary's discretion if the company failed to build or pay, and patents to require the company to resell the land within five years."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1970-06-10",
+      "what": "The Indian Claims Commission found that the 123,832.61 acres the Kickapoo ceded by this treaty, sold to the Atchison and Pike's Peak Railroad at $1.25 an acre, had a fair market value of $280,000.00 on March 13, 1863, that the Kickapoo received $154,790.39, and that this consideration was unconscionable.",
+      "whoFoundIt": "Indian Claims Commission, Kickapoo Tribe of Kansas et al. v. United States, Docket 316-A, Opinion and Interlocutory Order (June 10, 1970), 23 Ind. Cl. Comm. 189",
+      "source": {
+        "title": "Kickapoo Tribe of Kansas et al. v. United States, Docket 316-A, Opinion of the Commission (June 10, 1970)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1312",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "the consideration paid the Kickapoo Tribe was so grossly inadequate as to be unconscionable"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1970-09-24",
+      "what": "The Commission entered a final award of $125,209.61 for the Kickapoo, after the United States chose not to claim offsets against it.",
+      "whoFoundIt": "Indian Claims Commission, Kickapoo Tribe of Kansas et al. v. United States, Docket 316-A, Final Award (September 1970), 23 Ind. Cl. Comm. 509",
+      "source": {
+        "title": "Kickapoo Tribe of Kansas et al. v. United States, Docket 316-A, Final Award (September 1970)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2230",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "123,832.61 acres of the Kickapoo reservation in northeast Kansas, sold to the Atchison and Pike's Peak Railroad (Royce Areas 436 and 437 in part).",
+  "compensation": "$154,790.39 received for the land, according to the Commission, and a final award of $125,209.61 in 1970.",
+  "today": "The Commission found the Kickapoo received only 56 percent of the land's value. The claim was closed by the 1970 final award.",
+  "plain": {
+    "promised": "Land kept for Kickapoo families and for those holding in common, protected from taxes and sale, with the rest of the Kansas reservation sold to a railroad at $1.25 an acre.",
+    "happened": "The Indian Claims Commission found in 1970 that the 123,832.61 acres sold to the railroad were worth $280,000.00, that the Kickapoo got $154,790.39, and that the price was unconscionable.",
+    "today": "The Commission made a final award of $125,209.61 in 1970."
+  },
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Kickapoo, 1862 (Kappler, vol. 2, p. 835)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-kickapoo-1862-0835",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Kickapoo Tribe of Kansas et al. v. United States, Docket 316-A, Findings of Fact (June 10, 1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1583",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Kickapoo Tribe of Kansas et al. v. United States, Docket 316-A, Opinion of the Commission (June 10, 1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1312",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Kickapoo Tribe of Kansas et al. v. United States, Docket 316-A, Interlocutory Order (June 1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1296",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Kickapoo Tribe of Kansas et al. v. United States, Docket 316-A, Final Award (September 1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2230",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The final award's day of the month is unreadable in the scan; the collection dates it September 24, 1970, which is used above.",
+    "The interlocutory order is dated June 10, 1970 in its text but indexed June 13, 1970 in the collection.",
+    "Whether the land assigned in severalty and in common stayed in Kickapoo hands, and whether the railroad met the Article 5 and 6 conditions, was not researched.",
+    "No account by the Kickapoo Tribe in Kansas or the Kickapoo Tribe of Oklahoma about this treaty was found in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

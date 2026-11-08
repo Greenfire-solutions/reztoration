@@ -1,0 +1,20 @@
+{
+  "id": "cession-1828-09-20-potawatomi",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty text (OSU Kappler p. 294): signed September 20, 1828, 7 Stat. 317, proclaimed January 7, 1829; Article 2 annuities, goods, specie, $7,500, tobacco, iron, steel, education, blacksmith and labourers; Article 3 grants not conveyable without the President's consent; Article 4 $10,895 for claims",
+    "ICC 43 Ind. Cl. Comm. 74, Additional Findings Part 2 (id 2160): Potawatomi consideration $922,525.00 under the four treaties, combined value $5,420,340.59, held unconscionable; no per-treaty figure stated",
+    "ICC Order Setting Awards, September 8, 1978 (id 2599): $4,497,815.59 for four cessions including Royce 145 and 146 under the September 20, 1828 treaty, subject to gratuitous offsets",
+    "ICC Findings of Fact, December 28, 1973 (id 2222): recognized title to area 145, area 146 north of the Wabash watershed and a one-half interest in the rest; valuation date January 7, 1829",
+    "ICC Order Certifying and Transferring Cases, September 29, 1978 (id 2318)",
+    "Kind: both breaches are Commission findings and awards, not settlements; claims-commission is right",
+    "Plain lines checked against the file: they add nothing"
+  ],
+  "changes": [
+    "Added the September 29, 1978 certification order to sources; audit line in openQuestions"
+  ],
+  "unverifiable": [
+    "Court of Claims judgment after transfer and payment, as the file already says"
+  ]
+}

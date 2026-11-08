@@ -1,0 +1,21 @@
+{
+  "id": "cession-1872-05-23-potawatomi",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Act of May 23, 1872, ch. 206, 17 Stat. 159-160 (govinfo): section 1 allotments to the Citizen Band, quarter section and 80 acres, exempt from levy, taxation or sale, alienable only to the United States or Indians lawfully in the Territory, cost charged to Potawatomi funds; section 2 Absentee Shawnee with three years' residence and substantial improvements, 80 acres plus 20 per child, with no payment to the Potawatomi",
+    "ICC Docket 96 Findings of Fact, September 18, 1958 (6 Ind. Cl. Comm. 646, id 163): Finding 8 Act authorized Absentee Shawnee allotments within the Potawatomi Reservation without payment of any consideration; December 31, 1884 report of 11 Citizen Band members and no Absentee Shawnee with certificates; Potawatomi asked for an equal westward extension; Finding 15 exclusive use promise and patent never issued",
+    "ICC Docket 96 Interlocutory Order, September 18, 1958 (id 89): defendant obligated to account to the Citizen Band for the value as of June 25, 1890 of the unallotted 362,832.22 acres",
+    "ICC Docket 96 Supplemental Findings, December 30, 1964 (id 757): surplus lands including the Absentee Shawnee allotments worth $1,090,000.00 as of June 25, 1890; $160,000 paid held unconscionable",
+    "ICC Docket 96 Final Judgment, 1968 (id 1195): net recovery $797,508.99; case to proceed to attorney fees and expenses",
+    "The Commission finding names this Act; status broken is supported"
+  ],
+  "changes": [
+    "Act-of-congress breach: removed the clause treating the charge to Potawatomi funds as part of the wrong (the 1867 treaty provided for it)",
+    "Added the 1958 interlocutory order to sources",
+    "today and plain.today: 'closed the claim' replaced by what the final judgment says"
+  ],
+  "unverifiable": [
+    "Whether the 1968 award was paid, as the file says"
+  ]
+}

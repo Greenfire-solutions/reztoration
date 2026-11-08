@@ -1,0 +1,84 @@
+{
+  "id": "kappler-70",
+  "name": "Treaty with the Seneca, 1802 (sale of Little Beard's Reservation)",
+  "aka": [
+    "Agreement with the Seneka, June 30, 1802 (Little Beard's Reservation)",
+    "Royce cession 32"
+  ],
+  "signed": "1802-06-30",
+  "ratified": "1803-02-07",
+  "proclaimed": "1803-02-07",
+  "citation": "7 Stat. 72",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-1802-0062",
+  "nations": [
+    "Onöndowa'ga:' (Seneca), now the Seneca Nation of Indians, the Tonawanda Band of Seneca and the Seneca-Cayuga Nation"
+  ],
+  "promises": [
+    "The Seneca sold Little Beard's Reservation, two square miles or 1,280 acres on the Genesee River reserved to them in the 1797 Big Tree treaty, to Oliver Phelps, Isaac Bronson and Horatio Jones for $1,200, at Buffalo Creek before John Tayler, the commissioner appointed by the President.",
+    "Under the Trade and Intercourse Act of 1790 the United States, by approving the sale, took on a duty to see that the Seneca received a conscionable price (as the Indian Claims Commission held in 1972)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1972-05-03",
+      "what": "The Indian Claims Commission found that Little Beard's Reservation was worth $3,850 when sold in 1802, that the $1,200 paid was unconscionable, and that the United States, which had a duty under the 1790 Trade and Intercourse Act to ensure a conscionable price, was liable for $2,650.",
+      "whoFoundIt": "Indian Claims Commission, Seneca Nation of Indians v. United States, Docket 342-F, Interlocutory Order, 28 Ind. Cl. Comm. 95 (1972)",
+      "source": {
+        "title": "Seneca Nation of Indians v. United States, Docket 342-F, Interlocutory Order, May 3, 1972, 28 Ind. Cl. Comm. 95",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1396",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      },
+      "quote": "the consideration of $1200 paid at the time for the lands was unconscionable"
+    }
+  ],
+  "landTaken": "1,280 acres (two square miles) on the west bank of the Genesee River (treaty text; ICC findings, 1972).",
+  "compensation": "$1,200 was paid in 1802. The Commission entered a final award of $2,650 for the Seneca Nation in Docket 342-F on March 13, 1974, after the United States chose not to claim offsets against it.",
+  "today": "The 1972 Commission findings record the Big Tree treaty of 1797 as leaving the Seneca ten reservations, nine of which were sold in whole or part over the next 45 years, Little Beard's being the first.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Seneca, 1802 (Little Beard's Reservation; Kappler transcription)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-1802-0062",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule entry 32 (treaty of June 30, 1802, Little Beard's Reservation)",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/662/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Seneca Nation of Indians and Tonawanda Band v. United States, Dockets 342-A, B, C, E, F and I and 368, 368-A, Opinion of the Commission, May 3, 1972, 28 Ind. Cl. Comm. 12",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2526",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Seneca Nation of Indians v. United States, Dockets 342-A et al., Findings of Fact, May 3, 1972",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/999",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Seneca Nation of Indians v. United States, Docket 342-F, Interlocutory Order, May 3, 1972, 28 Ind. Cl. Comm. 95",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1396",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Seneca Nation of Indians v. United States, Docket 342-F, Final Award, March 13, 1974, 33 Ind. Cl. Comm. 392",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2480",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json links this id to Kappler page sequence 70, which corresponds to Kappler vol. 2, p. 62 (Little Beard's Reservation, 7 Stat. 72). A second Seneca agreement of the same day (7 Stat. 70, the Cattaraugus exchange with the Holland Land Company, Royce 45) is a different transaction; the Commission found that exchange not unconscionable and dismissed Docket 342-E.",
+    "Ratification and proclamation dates (February 7, 1803) are from the Oklahoma State University database; another catalogue record gives January 12, 1803, and the Jefferson Papers note Senate referral on January 7, 1803. Not checked against the Senate Executive Journal.",
+    "The Commission's 1972 opinion names the predecessor in interest only as the Seneca Nation; the Tonawanda Band was a plaintiff in other dockets. Which present-day nations share the $2,650 award was not checked.",
+    "No account of this sale by the Seneca Nation, the Tonawanda Band or the Seneca-Cayuga Nation was found; a press summary says many residents of Little Beard's Town moved to Tonawanda, not confirmed from a primary source."
+  ],
+  "plain": {
+    "promised": "The Seneca sold Little Beard's Reservation, 1,280 acres on the Genesee River, to three private buyers for $1,200, before a commissioner appointed by the President. The United States had a duty to make sure the price was fair.",
+    "happened": "The Indian Claims Commission found in 1972 that the land was worth $3,850 and that the $1,200 paid was unconscionable, making the United States liable.",
+    "today": "The Commission awarded the Seneca Nation $2,650 in 1974."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,22 +1,44 @@
 {
   "id": "cession-1873-03-01-chippewa-of-the-mississippi-and-lake-sup",
   "name": "Approval of March 1, 1873 of the Lac Courte Oreilles reserve",
-  "aka": ["Lac Courte Oreilles Reservation, Wisconsin"],
+  "aka": [
+    "Lac Courte Oreilles Reservation, Wisconsin"
+  ],
   "signed": "1873-03-01",
   "citation": "Secretary of the Interior's approval of the reserve selection, under Article 2 (third clause) of the Treaty with the Chippewa, 1854, 10 Stat. 1109; see Act of May 29, 1872",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-1854-0648",
-  "nations": ["Lac Courte Oreilles Band of Lake Superior Ojibwe (Chippewa)"],
+  "nations": [
+    "Lac Courte Oreilles Band of Lake Superior Ojibwe (Chippewa)"
+  ],
   "promises": [
     "Treaty of September 30, 1854, Article 2, third clause: for the Wisconsin bands, a tract on Lac Court Orielles equal in extent to three townships, its boundaries to be agreed upon or fixed under the President's direction.",
     "Article 2 opening: the United States agreed to set apart and withhold the tract from sale for the use of the Chippewa of Lake Superior.",
     "Article 3: the United States to survey the reserves when necessary, may assign 80-acre tracts and issue patents with limits on sale, and may change boundaries only as needed to protect vested rights."
   ],
-  "status": "no-breach-found",
-  "breaches": [],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "nation-statement",
+      "what": "The Lac Courte Oreilles Band states that the terms of the 1854 treaty were never fully provided for by the United States, that the government pressed the band to consolidate at Bad River, and that the federal government gave lumber interests a way onto the reservation, so its prime timber was cut in 1884 to 1888 for a tiny return to the allottees.",
+      "date": "1872-1890",
+      "whoFoundIt": "Lac Courte Oreilles Band of Lake Superior Chippewa Indians, history page on the Band's official website",
+      "source": {
+        "title": "History",
+        "url": "https://lco-nsn.gov/history/",
+        "publisher": "Lac Courte Oreilles Band of Lake Superior Chippewa Indians"
+      }
+    }
+  ],
   "landTaken": "This approval took no land from the band directly. Royce records that the Secretary of the Interior approved the selection for this reserve on March 1, 1873 (Royce area 337) and that the rest of the lands that had been withdrawn for it were restored to the public domain. He maps the reserve as first selected and surveyed by A. C. Stuntz in 1863 separately from the reserve as finally approved.",
   "compensation": "Not applicable. In Docket 18-U the Indian Claims Commission counted the Lac Courte Oreilles reserve, at its January 10, 1855 value, among seven reserves credited to the United States as consideration for the 1854 cession (41 Ind. Cl. Comm. 249, 1978); that finding concerns the 1854 treaty (kappler-656).",
   "today": "Royce refers to the Act of May 29, 1872 in his remarks on this reserve. In his remarks on two neighbouring 1854 reserves he records that the same act sought their sale and the Indians' removal, and that the Indians refused and the removal was not carried out.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Lac Courte Oreilles Band of Lake Superior Chippewa Indians",
+      "summary": "The Band says the United States never fully carried out the 1854 treaty, pressed the band to consolidate onto one reservation at Bad River, and, after its chiefs walked the reservation boundaries with the surveyors in 1872, quickly opened the reservation to lumber interests, so most of its old-growth pine was cut between 1884 and 1888 while allottees were paid almost nothing.",
+      "url": "https://lco-nsn.gov/history/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Chippewa, 1854 (Kappler, vol. 2, p. 648)",
@@ -37,6 +59,11 @@
       "title": "Minnesota Chippewa Tribe et al. (Chippewas of Lake Superior) v. United States, Docket 18-U, Additional Findings of Fact (March 30, 1978)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2132",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History",
+      "url": "https://lco-nsn.gov/history/",
+      "publisher": "Lac Courte Oreilles Band of Lake Superior Chippewa Indians"
     }
   ],
   "openQuestions": [
@@ -44,8 +71,13 @@
     "Royce gives the dates on which the surplus withdrawn lands had been withdrawn; one of them is illegible in the scan, so neither is recorded. Whether the approved reserve was smaller than 'three townships' was not measured.",
     "Lead for a deeper pass: secondary sources say the Chippewa Flowage (Winter Dam, 1923), built under a federal power licence, flooded reservation land and a band village, and that the band later contested the licence; the case Lac Courte Oreilles Band v. Federal Power Commission, 510 F.2d 198 (D.C. Cir. 1975) is cited for it. The opinion would not load (the copies tried refused the request), so neither the holding nor the flooding is recorded here.",
     "The Act of May 29, 1872 was not opened; Royce's description of it is used.",
-    "The Lac Courte Oreilles Band's own history of the reservation was not found on its website in this pass."
+    "Audit 2026-11-08: status raised from no-breach-found to contested. The file carries a sourced nation-statement breach from the Lac Courte Oreilles Band (opened and confirmed), and PROTOCOLS rule 9 shows a treaty with a nation's statement as contested until a finding is found. The stale line saying the Band's history was not found was removed, and a plain summary was written under rule 15."
   ],
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "plain": {
+    "promised": "The 1854 treaty promised the Lac Courte Oreilles band a reserve on Lac Court Orielles equal in extent to three townships, withheld from sale. This 1873 approval fixed that reserve; it was not a cession.",
+    "happened": "No court or claims finding of a breach has been found. The Lac Courte Oreilles Band says the 1854 terms were never fully provided and that most of its timber was cut in 1884 to 1888 for a tiny return.",
+    "today": "Royce records that an 1872 Act sought the sale of neighbouring 1854 reserves and the Indians' removal, which the Indians refused. What has happened to this reserve's land since was not researched here."
+  }
 }

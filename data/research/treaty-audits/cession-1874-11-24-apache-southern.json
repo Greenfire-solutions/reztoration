@@ -1,0 +1,17 @@
+{
+  "id": "cession-1874-11-24-apache-southern",
+  "auditedAt": "2026-11-08",
+  "verdict": "downgraded",
+  "checked": [
+    "ICC Dockets 30-A and 48-A Findings of Fact, June 28, 1968 (19 Ind. Cl. Comm. 212, id 2269): Finding 6(h) reservations established 1871-1875 within the claimed area, removal to San Carlos from 1876; Finding 11 no operative cession, lands taken without consent or compensation (quote exact); Finding 13(a) boundary along the Tularosa River; Finding 14 taking on September 4, 1886, Chiricahua reservation abolished October 30, 1876 and Ojo Caliente August 25, 1877; Tularosa is not named",
+    "ICC Interlocutory Order, June 28, 1968 (id 2337), Opinion on value, June 9, 1971 (id 1333), Additional Findings and Final Judgment, August 25, 1971 (ids 1562, 1486) opened",
+    "Executive order of November 24, 1874 (American Presidency Project, from Kappler vol. 1 p. 879): all orders setting apart the Tulerosa Valley, 10 miles on each side for 30 miles from the headwaters, revoked and annulled and the tract restored to the public domain; no payment or replacement land stated",
+    "1971 figures: value $15,975,000 (id 1333), stipulated offsets of $7,700 (id 1562), final judgment $15,967,300 and $521,796 (id 1486)",
+    "Royce schedule pp. 878-879, area 531 remark"
+  ],
+  "changes": [
+    "Status broken -> no-breach-found: the Commission finding dates the taking to 1886 and does not name this revocation; moved to 'today'",
+    "Plain lines rewritten to match"
+  ],
+  "unverifiable": []
+}

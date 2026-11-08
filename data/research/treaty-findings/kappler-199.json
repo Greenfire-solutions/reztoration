@@ -1,0 +1,51 @@
+{
+  "id": "kappler-199",
+  "name": "Treaty with the Choctaw, 1820 (Treaty of Doak's Stand)",
+  "aka": ["Treaty of Doak's Stand"],
+  "signed": "1820-10-18",
+  "proclaimed": "1821-01-08",
+  "citation": "7 Stat. 210",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-choctaw-1820-0191",
+  "nations": ["Chahta (Choctaw)"],
+  "promises": [
+    "Article 2: a tract west of the Mississippi between the Arkansas and Red rivers ceded to the Choctaw Nation in part payment for the Mississippi land.",
+    "Article 4: the Choctaw boundaries east of the Mississippi to remain unaltered until the nation became citizens and Congress laid off land for each family.",
+    "Articles 5 and 6: a blanket, kettle, rifle, ammunition and a year's corn for each warrior who moved west; an agent, a factor with goods and a blacksmith for the Choctaw beyond the Mississippi.",
+    "Articles 7 and 8: 54 sections of the ceded land to be sold for Choctaw schools, and more land set apart so the whole annuity stayed with the nation.",
+    "Articles 9 and 11: a square mile secured to each Choctaw family that chose to stay on the ceded land, and pay for the Choctaw who served in the Pensacola campaign."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "Four years later the United States negotiated changes. The treaty of January 20, 1825 (7 Stat. 234) states that the land ceded to the Choctaw in Article 2 was found to embrace 'a large number of settlers, citizens of the United States'; the Choctaw ceded back the part east of a line near Fort Smith for $6,000 a year forever. The same treaty replaced the Article 8 land with $6,000 a year for sixteen years, fixed the Pensacola pay, which it says had been delayed, at $14,972.50, and recorded the Choctaw giving up their claim to the promised factor. In 1954 the Indian Claims Commission dismissed a Choctaw claim to land west of the 100th meridian under this treaty, holding itself bound by the Supreme Court's ruling in United States v. Choctaw Nation, 179 U.S. 494, that those lands were outside the 1820 boundaries. The Choctaw ceded their remaining Mississippi land by the Treaty of Dancing Rabbit Creek in 1830.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Choctaw, 1820 (Kappler, vol. 2, p. 191)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-choctaw-1820-0191",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Treaty with the Choctaw, 1825 (Kappler, vol. 2, p. 211)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-choctaw-1825-0211",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Choctaw Nation v. United States, Docket 103, Opinion of the Commission (March 8, 1954)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/413",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Choctaw Nation v. United States, Docket 103, Findings of Fact (March 8, 1954)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/547",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "Decision for Jordan and the auditors: the 1825 treaty, signed by the Secretary of War and ratified, records that the land given to the Choctaw in 1820 was already occupied by many US settlers, that the Pensacola pay had been delayed, and that the factor had not been sent. It settles each point by agreement. This file does not treat those recitals as a government admission of breach, because the 1820 text set no date for the factor or the pay and did not promise empty land; if the auditors read them differently the status would change.",
+    "Article 4 promised the Mississippi boundaries would stay unaltered; Mississippi's extension of its laws over the Choctaw and the 1830 cession are recorded under the Dancing Rabbit Creek treaty (kappler-318) and were not reassessed here.",
+    "Whether the Article 5 removal supplies, the Article 7 school sections and the Article 9 one-mile reserves were delivered was not researched.",
+    "No account by the Choctaw Nation of Oklahoma, the Mississippi Band of Choctaw Indians or the Jena Band about this treaty was found; a deeper pass should look at choctawnation.com's history pages."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

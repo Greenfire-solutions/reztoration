@@ -1,0 +1,53 @@
+{
+  "id": "kappler-270",
+  "name": "Treaty with the Shawnee, 1825",
+  "aka": ["Convention of St. Louis, November 7, 1825, with the Shawnee residing in Missouri"],
+  "signed": "1825-11-07",
+  "proclaimed": "1825-12-30",
+  "citation": "7 Stat. 284",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-shawnee-1825-0262",
+  "nations": ["Shawnee (the band then living in Missouri), today the Shawnee Tribe, the Absentee Shawnee Tribe and the Eastern Shawnee Tribe of Oklahoma"],
+  "promises": [
+    "In exchange for their Cape Girardeau lands, held under a 1793 Spanish permission, the Shawnee would receive a tract equal to fifty miles square west of Missouri, for themselves and for Ohio Shawnee who might later move west (Articles 1 and 2).",
+    "The United States would pay $14,000 to the emigrating tribe for lost improvements and removal costs (Article 2).",
+    "If the tract was not acceptable, an equal quantity would be assigned on the Kansas River (Article 3).",
+    "The United States would pay $11,000 to settle the Shawnee's spoliation claims against citizens, and keep a blacksmith with tools and 300 pounds of iron a year for five years or as long as the President thought advisable (Article 4)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1894-11-19",
+      "what": "The Court of Claims found that the Missouri band of Shawnees had been paid under this treaty but that a balance of $1,152.78 remained unpaid, and included it in its decree; on appeal the Supreme Court left that allowance standing, since the government assigned no error to it.",
+      "whoFoundIt": "United States v. Blackfeather, 155 U.S. 180 (1894), affirming on this point Court of Claims finding II (28 Ct. Cl. 447)",
+      "source": {
+        "title": "United States v. Blackfeather, 155 U.S. 180 (1894)",
+        "url": "https://www.govinfo.gov/content/pkg/USREPORTS-155/pdf/USREPORTS-155-180.pdf",
+        "publisher": "U.S. Government Publishing Office, United States Reports"
+      },
+      "quote": "The Missouri band of Shawnees have received payments in accordance with the provisions of the treaty of 1825, but the following balance remains unpaid, $1152.78."
+    }
+  ],
+  "landTaken": "The Cape Girardeau tract in Missouri, between the River St. Come and Cape Girardeau, bounded east by the Mississippi and west by White Water (Article 1).",
+  "compensation": "The Court of Claims added the unpaid $1,152.78 to its decree in the Shawnee suit brought under the jurisdictional acts of 1890 and 1892. The Supreme Court rejected the government's counterclaim that blacksmith costs from 1825 to 1854 of $17,408.73 be set off against the Shawnee, holding the finding too indefinite. The court refused interest on the 1825 balance because the Shawnee had not appealed that point.",
+  "today": "The Supreme Court reversed the decree on other points (the 1831 treaty account and the orphan money) and remanded for recomputation on November 19, 1894. The western tract the treaty granted was ceded by the Shawnee in the treaty of May 10, 1854.",
+  "nationVoice": [],
+  "sources": [
+    { "title": "Treaty with the Shawnee, 1825 (Kappler, vol. 2, p. 262)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-shawnee-1825-0262", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
+    { "title": "United States v. Blackfeather, 155 U.S. 180 (1894)", "url": "https://www.govinfo.gov/content/pkg/USREPORTS-155/pdf/USREPORTS-155-180.pdf", "publisher": "U.S. Government Publishing Office, United States Reports" },
+    { "title": "Absentee Shawnee Tribe v. United States, Docket 334-B, Findings of Fact (March 29, 1963)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/606", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+  ],
+  "openQuestions": [
+    "The amount finally paid after the 1894 remand was not traced.",
+    "Indian Claims Commission Dockets 334 and 334-B concern the 1854 cession of the Kansas tract this treaty granted, not this treaty's own terms, and are not recorded as breaches here.",
+    "treaties.json lists the Absentee-Shawnee Tribe and the Shawnee Tribe; the Tribal Treaties Database also names the Eastern Shawnee Tribe of Oklahoma as a successor. Not edited.",
+    "No account of this treaty by a Shawnee nation was found in this pass."
+  ],
+  "plain": {
+    "promised": "A new tract west of Missouri in exchange for the Shawnee's Cape Girardeau lands, $14,000 for their improvements and removal, $11,000 for losses, and a blacksmith.",
+    "happened": "The Court of Claims found $1,152.78 owed under this treaty was never paid, and in 1894 the Supreme Court left that finding in place.",
+    "today": "The court ordered the balance included in the Shawnee's recovery. How much was finally paid after the 1894 recomputation has not been traced."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

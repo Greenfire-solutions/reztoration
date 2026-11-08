@@ -1,11 +1,15 @@
 {
   "id": "cession-1859-09-17-chippewa-of-the-mississippi-and-lake-sup",
   "name": "Approval of September 17, 1859 of the La Pointe band's Madeline Island reserve",
-  "aka": ["Madeline Island fishing ground reserve"],
+  "aka": [
+    "Madeline Island fishing ground reserve"
+  ],
   "signed": "1859-09-17",
   "citation": "Secretary of the Interior's approval of selections, under Article 2 (second clause) of the Treaty with the Chippewa, 1854, 10 Stat. 1109",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-1854-0648",
-  "nations": ["La Pointe band of Lake Superior Ojibwe (Chippewa)"],
+  "nations": [
+    "La Pointe band of Lake Superior Ojibwe (Chippewa)"
+  ],
   "promises": [
     "Treaty of September 30, 1854, Article 2, second clause: for the La Pointe band, besides the reserve on the south shore, two hundred acres on the northern extremity of Madeline Island for a fishing ground.",
     "Article 2 opening: the United States agreed to set apart and withhold these tracts from sale for the use of the Chippewa of Lake Superior.",
@@ -16,7 +20,13 @@
   "landTaken": "This act took no land. Royce records that the Secretary of the Interior approved and reported to the General Land Office the selections for the La Pointe band's reserve on Madeline Island under the 1854 treaty (Royce area 335, Wisconsin).",
   "compensation": "Not applicable. In Docket 18-U the Indian Claims Commission counted the Madeline Island reserve, at its January 10, 1855 value, among seven reserves credited to the United States as consideration for the 1854 cession (41 Ind. Cl. Comm. 249, 1978); that finding concerns the 1854 treaty (kappler-656).",
   "today": "What became of the Madeline Island reserve after 1859 was not traced in this pass.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Red Cliff Band of Lake Superior Chippewa",
+      "summary": "The Band, originally part of the La Pointe Band, says Madeline Island (Moo-ning-wana-kawn-ing) was the last stop of the Anishinaabe migration, that Chief Great Buffalo and other chiefs challenged earlier treaties as made by deception and travelled to Washington to meet President Fillmore, who rescinded the removal orders and agreed the Ojibwe would never have to leave their homelands, and that the Treaty of 1854 ceded the largest amount of land.",
+      "url": "https://www.redcliff-nsn.gov/community/heritage_and_culture/miskwaabekong_history.php"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Chippewa, 1854 (Kappler, vol. 2, p. 648)",
@@ -32,6 +42,11 @@
       "title": "Minnesota Chippewa Tribe et al. (Chippewas of Lake Superior) v. United States, Docket 18-U, Additional Findings of Fact (March 30, 1978)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2132",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Miskwaabikaang History",
+      "url": "https://www.redcliff-nsn.gov/community/heritage_and_culture/miskwaabekong_history.php",
+      "publisher": "Red Cliff Band of Lake Superior Chippewa"
     }
   ],
   "openQuestions": [

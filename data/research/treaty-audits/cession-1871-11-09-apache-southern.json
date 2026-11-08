@@ -1,0 +1,17 @@
+{
+  "id": "cession-1871-11-09-apache-southern",
+  "auditedAt": "2026-11-08",
+  "verdict": "downgraded",
+  "checked": [
+    "ICC Dockets 30-A and 48-A Findings of Fact, June 28, 1968 (19 Ind. Cl. Comm. 212, id 2269): Finding 6(h) reservations established 1871-1875 within the claimed area, removal to San Carlos from 1876; Finding 11 no operative cession, lands taken without consent or compensation (quote exact); Finding 13(a) boundary along the Tularosa River; Finding 14 taking on September 4, 1886, Chiricahua reservation abolished October 30, 1876 and Ojo Caliente August 25, 1877; Tularosa is not named",
+    "ICC Interlocutory Order, June 28, 1968 (id 2337), Opinion on value, June 9, 1971 (id 1333), Additional Findings and Final Judgment, August 25, 1971 (ids 1562, 1486) opened",
+    "Royce schedule pp. 854-855, area 531: Tularosa River reservation, ten miles on each side for thirty miles from the headwaters"
+  ],
+  "changes": [
+    "Status broken -> no-breach-found: the Commission finding dates the taking to 1886 and does not name this order; moved to 'today'",
+    "Plain lines rewritten to match"
+  ],
+  "unverifiable": [
+    "The order's own text (UGA 531r.pdf) and its exact date, as the file says"
+  ]
+}

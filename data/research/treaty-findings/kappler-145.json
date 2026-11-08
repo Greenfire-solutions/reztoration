@@ -1,0 +1,34 @@
+{
+  "id": "kappler-145",
+  "name": "Treaty with the Choctaw, 1816 (Treaty of Fort St. Stephens)",
+  "aka": ["1816 Treaty of Fort St. Stephens", "Treaty of the Choctaw Trading House"],
+  "signed": "1816-10-24",
+  "proclaimed": "1816-12-30",
+  "citation": "7 Stat. 152",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-choctaw-1816-0137",
+  "nations": ["Choctaw (Chahta) Nation, today the Choctaw Nation of Oklahoma, the Mississippi Band of Choctaw Indians and the Jena Band of Choctaw Indians"],
+  "promises": [
+    "The Choctaw ceded their title to the lands east of a line down the Tombigbee from the mouth of the Ooktibbuha to the northern line of the 1805 Mount Dexter cession (Article 1).",
+    "The United States would pay the Choctaw $6,000 a year for twenty years (Article 2).",
+    "The United States would deliver $10,000 in merchandise on signing (Article 2)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce Area 82 in present Alabama and Mississippi, the land east of the Tombigbee line in Article 1.",
+  "compensation": "The treaty consideration was $6,000 a year for twenty years and $10,000 in merchandise (Article 2). Whether all twenty annuities were paid was not traced.",
+  "today": "No Indian Claims Commission or court ruling on this cession was found. The Choctaw Nation of Oklahoma publishes the treaty text under the name 1816 Treaty of Fort St. Stephens.",
+  "nationVoice": [
+    { "nation": "Choctaw Nation of Oklahoma", "summary": "The Nation publishes the Kappler text of this treaty as the 1816 Treaty of Fort St. Stephens, without further commentary in that document.", "url": "https://www.choctawnation.com/wp-content/uploads/2022/03/1816treaty-of-fort-st-stephens.pdf" }
+  ],
+  "sources": [
+    { "title": "Treaty with the Choctaw, 1816 (Kappler, vol. 2, p. 137)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-choctaw-1816-0137", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
+    { "title": "1816 Treaty of Fort St. Stephens", "url": "https://www.choctawnation.com/wp-content/uploads/2022/03/1816treaty-of-fort-st-stephens.pdf", "publisher": "Choctaw Nation of Oklahoma" }
+  ],
+  "openQuestions": [
+    "Thirteen Choctaw decisions in the OSU ICC collection (Dockets 16, 51, 55, 56, 103 and 249) were searched for the 1816 treaty, 7 Stat. 152 and Royce Area 82 with no hit; the Commission's 1978 Final Report docket list was not checked.",
+    "Whether the twenty annual payments of $6,000 were all made was not researched.",
+    "No Choctaw account of what this cession meant to the nation was found beyond the published text."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

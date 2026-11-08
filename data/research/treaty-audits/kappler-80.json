@@ -1,0 +1,18 @@
+{
+  "id": "kappler-80",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty (OSU): 7 Stat. 83, ratified January 21, 1805, proclaimed February 6, 1805; Article 3 $200 for ten years and $700 goods.",
+    "Title order (OSU id 936, March 27, 1968): undivided half interest each for Piankeshaw and Delaware in Area 49.",
+    "Final award (OSU id 1954, February 24, 1971): each plaintiff awarded '$1,505,250.00 being one-half the fair market value' of Area 49; $2,700 consideration and $1,255.65 offsets; quote exact.",
+    "Findings (OSU id 2627): Harrison rejected the Miami and Potawatomi claims."
+  ],
+  "changes": [
+    "$1,505,250 is the Piankeshaw half share, not the whole value: reworded breach 'what' and plain.happened so it cannot be read as the whole.",
+    "Added an audit line to openQuestions."
+  ],
+  "unverifiable": [
+    "The Piankeshaw net figure in the final award is illegible in the scan; left out."
+  ]
+}

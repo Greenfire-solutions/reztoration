@@ -15,33 +15,10 @@
   "promises": [
     "The Ute bands would cede the whole of their Colorado reservation, except land for the bands' settlement, to the United States.",
     "The Uncompahgre were to settle on agricultural land on the Grand River in Colorado if enough could be found, or in Utah; the White River Utes on the Uintah reservation in Utah; the Southern Utes on the La Plata River.",
-    "The ceded land was to be sold and the proceeds, after costs, held in trust for the Utes, with annuities and allotments in severalty."
+    "Land was to be allotted in severalty to individual Utes; all land not allotted became public land, to be sold for the Utes' benefit, their shares of the proceeds, after certain Government reimbursements, to be held in trust for them."
   ],
-  "status": "broken",
+  "status": "contested",
   "breaches": [
-    {
-      "kind": "government-admission",
-      "date": "1971-04-26",
-      "what": "In the Supreme Court the United States admitted that the stated consideration for the 1880 cession was not promptly paid. The Court also recorded that the claims arising from the cession were settled by Court of Claims consent judgments in 1950 exceeding $31 million in aggregate.",
-      "whoFoundIt": "United States, Brief for Petitioner, as recorded in United States v. Southern Ute Tribe or Band of Indians, 402 U.S. 159 (1971), note 3",
-      "source": {
-        "title": "United States v. Southern Ute Tribe or Band of Indians, 402 U.S. 159 (1971)",
-        "url": "https://www.law.cornell.edu/supremecourt/text/402/159",
-        "publisher": "Legal Information Institute, Cornell Law School"
-      },
-      "quote": "The United States admits that the stated consideration was not promptly paid."
-    },
-    {
-      "kind": "act-of-congress",
-      "date": "1880-06-15",
-      "what": "The Supreme Court described the Act of June 15, 1880 as Congress, aroused by the 1879 White River killings, taking steps to punish the Indians involved, to dispossess the Utes of their reservation and to remove them from Colorado. The White River and Uncompahgre Utes left for Utah before 1882.",
-      "whoFoundIt": "Confederated Bands of Ute Indians v. United States, 330 U.S. 169 (1947); United States v. Southern Ute Tribe, 402 U.S. 159 (1971)",
-      "source": {
-        "title": "Confederated Bands of Ute Indians v. United States, 330 U.S. 169 (1947)",
-        "url": "https://www.law.cornell.edu/supremecourt/text/330/169",
-        "publisher": "Legal Information Institute, Cornell Law School"
-      }
-    },
     {
       "kind": "litigation",
       "date": "1965-02-18",
@@ -77,9 +54,9 @@
       "quote": "the forced death march at the hands of the United States as we were moved out of Colorado at gunpoint"
     }
   ],
-  "landTaken": "The Supreme Court (1971) describes the Ute reservation as approximately 15.7 million acres before the 1874 Brunot Cession of 3.7 million acres; the 1880 Act ceded the rest except the lands reserved for settlement, after which only the Southern Utes remained in Colorado.",
-  "compensation": "Court of Claims consent judgments in 1950 (Confederated Bands of Ute Indians v. United States, 117 Ct. Cl. 433) exceeding $31 million in aggregate for lands ceded under the 1880 Act; $300,000 to the Uncompahgre Band (ICC Docket 349, 1965).",
-  "today": "The White River and Uncompahgre Utes live on the Uintah and Ouray Reservation in Utah; the Southern Ute and Ute Mountain Ute reservations remain in Colorado.",
+  "landTaken": "No source opened states the acreage ceded in 1880. The Supreme Court (1971) says the reservation was approximately 15.7 million acres before the 1874 Brunot Cession of 3.7 million acres, and holds that the 1880 Act ceded all that remained (Royce areas 616 and 617) except land allotted to individual Utes. Justice Douglas's dissent puts the reservation in 1880 at 12,000,000 acres.",
+  "compensation": "Court of Claims consent judgments in 1950 settled the Confederated Bands' claims, including claims for land ceded by the 1880 Act (117 Ct. Cl. 433); the Supreme Court says the 1950 settlements together exceeded $31 million (402 U.S. 159, note 2). The Uncompahgre Band settled ICC Docket 349 for $300,000 after offsets in 1965. Both were settlements, not findings of breach.",
+  "today": "The White River and Uncompahgre Utes left Colorado for Utah before 1882 and live on the Uintah and Ouray Reservation; the Southern Ute and Ute Mountain Ute reservations remain in Colorado (402 U.S. 159). In 1947 the Supreme Court rejected the Confederated Bands' claim for executive-order lands north of the 1868 boundary, holding that the 1880 Act gave them no compensable interest there and that the Government had performed all it promised; that ruling went against the Utes. In 1971 the Court held the Southern Ute claim barred by the 1950 consent judgment.",
   "nationVoice": [
     {
       "nation": "Ute Indian Tribe of the Uintah and Ouray Reservation",
@@ -128,13 +105,17 @@
     "The agreement's own text (Kappler, vol. 1, p. 180, or 21 Stat. 199) was not opened; the promises above are summarized from the Supreme Court's 1947 and 1971 descriptions and the Indian Claims Commission's 1965 and 1966 decisions, and should be checked against the statute.",
     "The 1880 agreement's March 6 date is Royce's; the Act ratifying it is dated June 15, 1880. The 'ratified' field holds the Act's date.",
     "The 1950 consent judgments (117 Ct. Cl. 433) were settlements; they are recorded as compensation, not as a finding of breach.",
-    "Audit 2026-11-08: dropped the line saying no Ute account was found, since the Ute Indian Tribe's 2022 statement is recorded; an account from the Southern Ute and Ute Mountain Ute tribes is still to be sought."
+    "Audit 2026-11-08: dropped the line saying no Ute account was found, since the Ute Indian Tribe's 2022 statement is recorded; an account from the Southern Ute and Ute Mountain Ute tribes is still to be sought.",
+    "Audit 2026-11-08 (second pass): removed the government-admission breach. In 402 U.S. 159 the admission that 'the stated consideration was not promptly paid' is note 3, attached to the sentence on the 1874 Brunot Cession (18 Stat. 36), not the 1880 agreement. No admission about the 1880 consideration was found.",
+    "Audit 2026-11-08 (second pass): removed the act-of-congress breach. The Act of June 15, 1880 is the instrument that ratified this agreement, so it cannot be a breach of it; and 330 U.S. 169 (1947) went against the Utes, holding the Government had performed all it promised. The Court's description of Congress, aroused by the 1879 Meeker killings, moving to punish the Indians involved, dispossess the Utes and remove them from Colorado is context, now in today, not a finding of breach.",
+    "Audit 2026-11-08 (second pass): ICC Docket 327 (1962) concerns Royce Area 566, the 1873-74 Brunot Cession; its finding of an unconscionable consideration belongs to that cession, not this one. ICC Docket 328 (1966) treated Southern Ute land as not ceded in 1880; the Supreme Court reversed in 1971, so it is not a finding here.",
+    "Audit 2026-11-08 (second pass): Justice Douglas's 1971 dissent says the Confederated Bands sued for breaches of the 1880 treaty; a dissent is not a finding. Status lowered from broken to contested."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher",
   "plain": {
-    "promised": "In return for ceding most of their Colorado reservation, the Ute bands were to get land to settle on, and the ceded land was to be sold with the proceeds held in trust for them.",
-    "happened": "The United States admitted to the Supreme Court that the price was not promptly paid. The Court described the 1880 Act as Congress moving to dispossess the Utes and remove them from Colorado; the White River and Uncompahgre Utes left for Utah.",
-    "today": "Consent judgments in 1950 exceeded $31 million, and the Uncompahgre Band settled a claim for $300,000 in 1965. The Ute Indian Tribe asks that its Uncompahgre Reservation homelands be restored."
+    "promised": "The Ute bands agreed to give up their Colorado reservation in return for land allotted to them to settle on, with the rest sold and their share of the money held in trust for them.",
+    "happened": "No court or claims commission finding that the United States broke this agreement was found. Uncompahgre and Southern Ute claims were settled or barred without a ruling on the merits. The Ute Indian Tribe says its people were marched out of Colorado at gunpoint.",
+    "today": "Settlements in 1950 exceeded $31 million, and the Uncompahgre Band settled for $300,000 in 1965; neither was a finding. The Ute Indian Tribe asks that its Uncompahgre Reservation homelands be restored."
   }
 }

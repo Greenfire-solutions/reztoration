@@ -1,0 +1,54 @@
+{
+  "id": "cession-1880-07-13-blackfoot-blood-gros-ventre-piegan-river",
+  "name": "Executive Order of July 13, 1880 restoring part of the 1875 addition to the Gros Ventre, Blackfoot and River Crow reservation to the public domain",
+  "aka": [
+    "Royce cessions 622 and 623"
+  ],
+  "signed": "1880-07-13",
+  "citation": "Executive Order of July 13, 1880",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/902/mode/2up",
+  "nations": [
+    "Amskapi Piikani (Blackfeet Nation; Piegan, Blood and Blackfoot)",
+    "Aaniiih (Gros Ventre), Fort Belknap Indian Community",
+    "Apsáalooke (River Crow), Crow Tribe",
+    "Assiniboine (Nakoda), whom Royce says the government assigned a future home on this reserve"
+  ],
+  "promises": [
+    "No promise was made: this was an executive order, without an agreement. It returned to the public domain the part of the 1875 addition bounded by the Fort Buford military reservation, the Missouri River, the Musselshell River, the 47th parallel and the Yellowstone River, leaving the rest in the reserve (Royce)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "Royce records that the remainder of the 1875 addition was still part of the Gros Ventre, Blackfoot and River Crow reserve when he wrote in 1899.",
+  "nationVoice": [
+    {
+      "nation": "Blackfeet Nation (Amskapi Piikani)",
+      "summary": "The Nation's own history says that after Lame Bull's Treaty of 1855 more treaties and agreements followed, each taking large parts of its traditional land, made when the people were not equipped to negotiate or even understand them.",
+      "url": "http://web.archive.org/web/20100308002858/http://www.blackfeetnation.com/about-the-blackfeet/our-history.html?showall=1"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule entry 622 and 623 (Executive Order of July 13, 1880)",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/902/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule entry 622 and 623 (Executive Order of April 13, 1875)",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/880/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Blackfeet Nation, Our History (Wayback capture of March 8, 2010)",
+      "url": "http://web.archive.org/web/20100308002858/http://www.blackfeetnation.com/about-the-blackfeet/our-history.html?showall=1",
+      "publisher": "Blackfeet Nation"
+    }
+  ],
+  "openQuestions": [
+    "Decision for Jordan: this order took reservation land back without the tribes' consent or payment, but the land had itself been added by an executive order (1875), not secured by a treaty. No court or Claims Commission finding on the 1880 restoration was located, so it is recorded as no breach found yet rather than broken.",
+    "Leads: the Indian Claims Commission's Fort Belknap and Fort Peck dockets (for example 279-C and 279-D accounting cases) and any Assiniboine claim might address this tract; they were not read for this file.",
+    "treaties.json gives this entry the same Royce areas (622, 623) as cession-1875-04-13; only the part restored in 1880 belongs here.",
+    "The order was read only in Royce's summary, not in Kappler vol. 1."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

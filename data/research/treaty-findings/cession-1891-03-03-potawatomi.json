@@ -21,7 +21,7 @@
     {
       "kind": "claims-commission",
       "date": "1964-12-30",
-      "what": "The Indian Claims Commission found that the $160,000 the United States paid for the 362,838.22 surplus acres ceded under this agreement was unconscionable for land worth $1,090,000, about $3.00 an acre, on June 25, 1890, and held the Citizen Band entitled to the difference of $930,000 less offsets.",
+      "what": "The Indian Claims Commission found that the $160,000 the United States paid for the 362,832.22 surplus acres ceded under this agreement was unconscionable for land worth $1,090,000, about $3.00 an acre, on June 25, 1890, and held the Citizen Band entitled to the difference of $930,000 less offsets.",
       "whoFoundIt": "Indian Claims Commission, Docket 96, supplemental findings, opinion and interlocutory order of December 30, 1964",
       "source": {
         "title": "Citizen Band of Potawatomi Indians of Oklahoma v. United States, Docket 96, Opinion of the Commission (1964)",
@@ -31,12 +31,12 @@
       "quote": "The consideration paid for this land was unconscionable"
     }
   ],
-  "landTaken": "The 362,838.22 unallotted acres of the 575,877-acre reservation (Royce area 506), after 213,044.78 acres were allotted to 1,487 Citizen Band members (Docket 96, Findings 14 and 17).",
-  "compensation": "$160,000 paid at the time (Docket 96, Finding 41 of 1964). The Commission's final judgment of August 27, 1968 gave a net recovery of $797,508.99 after offsets, including $119,790.75 found to be a gratuity.",
+  "landTaken": "The 362,832.22 unallotted acres of the 575,877-acre reservation (Royce area 506), after 213,044.78 acres were allotted to 1,487 Citizen Band members (Docket 96, Findings 14 and 16 of 1958 and Finding 18 of 1964).",
+  "compensation": "$160,000 paid at the time (Docket 96, Finding 41 of 1964). The Commission's final judgment of August 27, 1968 gave a net recovery of $797,508.99 after offsets, one of which was $119,790.75 found to be a gratuity.",
   "today": "The Citizen Potawatomi Nation lists its headquarters at Shawnee, Oklahoma (potawatomi.org, checked 2026-11-08). The ceded land was opened to non-Indian settlement; the opening itself was not researched for this file.",
   "plain": {
     "promised": "In return for the Citizen Band's Oklahoma reservation, the United States confirmed allotments already made and would pay the Band $119,790.75 if that sum had been kept from its funds for the reservation's original cost.",
-    "happened": "The Indian Claims Commission found in 1964 that the $160,000 paid for 362,838.22 surplus acres was unconscionable for land worth $1,090,000.",
+    "happened": "The Indian Claims Commission found in 1964 that the $160,000 paid for 362,832.22 surplus acres was unconscionable for land worth $1,090,000.",
     "today": "The Commission's 1968 final judgment gave the Citizen Band a net recovery of $797,508.99 after offsets. Whether it was paid has not been traced. The ceded land was opened to non-Indian settlement."
   },
   "nationVoice": [
@@ -87,7 +87,8 @@
     "The text of the 1890 agreement and of 26 Stat. 989 was not opened; the terms rest on the Commission's Finding 12 (1958). textUrl points to those findings.",
     "The Absentee Shawnee ceded the same tract by a separate agreement of June 26, 1890 for $65,000 less $1 an acre for allotments above 650 (Docket 96, Finding 13). treaties.json lists only Potawatomi nations for this entry, and includes Michigan, Wisconsin and Indiana Potawatomi who were not parties. Treaties.json was not edited.",
     "The 1964 interlocutory order's OCR reads $1,092,000 and $936,000; the same day's findings and opinion read $1,090,000 and $930,000, which are used here.",
-    "The Commission's 1958 findings quote the cession as 575,870.42 acres and its Finding 16 gives the reservation as 575,877 acres; the difference was not resolved."
+    "The Commission's 1958 findings quote the cession as 575,870.42 acres and its Finding 16 gives the reservation as 575,877 acres; the difference was not resolved.",
+    "Audit 2026-11-08: surplus acreage corrected from 362,838.22 to 362,832.22 acres per Docket 96 supplemental Finding 18 (1964) and the 1964 opinion, which corrects the 1958 figure of 362,833.22 for a 'minor mathematical error'."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

@@ -12,7 +12,7 @@
     "Confederated Tribes of the Goshute Reservation (Deep Creek reserve)"
   ],
   "promises": [
-    "This was an Act of Congress, not a treaty, and the Indians did not consent to it. It ordered the Indian reservations already made or occupied in Utah Territory, except the Uinta Valley, surveyed into lots and sold to the highest bidder at not less than appraised value (section 1). Royce identifies them as the Spanish Fork, Corn Creek, San Pete and Deep Creek reserves.",
+    "This was an Act of Congress, not a treaty; its text contains no provision for the Indians' consent. It ordered the Indian reservations already made or occupied in Utah Territory, except the Uinta Valley, surveyed into lots and sold to the highest bidder at not less than appraised value (section 1). Royce identifies them as the Spanish Fork, Corn Creek, San Pete and Deep Creek reserves.",
     "The proceeds of the sales were to be applied by the Secretary of the Interior to improvements on the reservations the Indians would move to, or to stock, tools and other useful articles for them (section 1).",
     "The Uinta Valley was set apart for the permanent settlement and exclusive occupation of the Indians of Utah Territory who could be induced to move there (section 2), with $30,000 for farming improvements there (section 3)."
   ],
@@ -32,8 +32,8 @@
     {
       "kind": "claims-commission",
       "date": "1957-02-21",
-      "what": "The Indian Claims Commission found that the Uintah Ute, whose bands included those around Utah Lake, Sevier Lake, Corn Creek and San Pete, used and occupied their lands in Utah exclusively until after their removal to the Uintah Valley following the unratified Spanish Fork treaty of 1865, and held the United States liable for the value of all lands in that area which it disposed of or acquired.",
-      "whoFoundIt": "Indian Claims Commission, Docket 44, findings of fact and interlocutory order of February 21, 1957, 5 Ind. Cl. Comm. 1",
+      "what": "The Indian Claims Commission found that the Uintah Ute, whose bands lived around Utah Lake, Sevier Lake, Corn Creek and in San Pete County among other places, used and occupied the area of its Finding 3 exclusively until their removal to the Uintah Valley after the unratified treaty of June 8, 1865, and were deprived of lands there without any compensation. Its findings describe this 1864 Act (Finding 13). It held the United States liable for the value of all lands in that area which the Uintah Ute might later prove it disposed of or acquired.",
+      "whoFoundIt": "Indian Claims Commission, Docket 44, findings of fact (Findings 3, 6 and 13) and interlocutory order of February 21, 1957, 5 Ind. Cl. Comm. 1",
       "source": {
         "title": "Uintah Ute Indians of Utah v. United States, Docket 44, Interlocutory Order (1957)",
         "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/66",
@@ -56,8 +56,8 @@
   "compensation": "No payment to the Indians for the four reserves was found. The Uintah Ute aboriginal land claim, which includes this area, ended in a compromise judgment of $7,700,000 in 1960 (Dockets 44 and 45).",
   "today": "The 1960 settlement was signed for the Ute Indian Tribe of the Uintah and Ouray Reservation, whose reservation includes the Uintah Valley that this Act confirmed as a permanent reservation (an 1861 executive order had first set it apart, per the Commission's Docket 45 findings). The four reserves were restored to the public domain by the Act of June 18, 1878.",
   "plain": {
-    "promised": "Not a treaty, and made without the Indians' consent: an Act ordering four Utah reserves sold, the money used for the Indians' improvements, stock and tools, and the Uinta Valley set apart for them permanently, with $30,000 for farming there.",
-    "happened": "Congress repealed the sale in 1878 and returned the reserves to the public domain, so the promised sale money was no longer provided for. In 1957 the Indian Claims Commission held the United States liable for Uintah Ute lands it disposed of or acquired.",
+    "promised": "Not a treaty: an Act, with no provision for the Indians' consent, ordering four Utah reserves sold, the money used for the Indians' improvements, stock and tools, and the Uinta Valley set apart for them permanently, with $30,000 for farming there.",
+    "happened": "Congress repealed the sale in 1878 and returned the reserves to the public domain, so the promised sale money was no longer provided for. In 1957 the Indian Claims Commission found the Uintah Ute were deprived of lands in their area without any compensation.",
     "today": "No payment for the four reserves was found. The wider Uintah Ute land claim, which includes this area, ended in a compromise judgment of $7,700,000 in 1960. Whether any lots were sold before 1878 is not known."
   },
   "nationVoice": [],
@@ -103,7 +103,8 @@
     "The Deep Creek reserve was made in 1859 for the Snakes and Goshute (Royce); the Uintah Ute area found by the Commission may not include it, and the Goshute's own claim was not researched. treaties.json lists only the three Ute tribes, two of them Colorado Ute tribes whom the Commission found were distinct from the Utah Ute. Treaties.json was not edited.",
     "Whether every one of the four reserves lies inside the area of the Commission's Finding 3 was not plotted; the findings name Utah Lake, Sevier Lake, Corn Creek and San Pete County among the bands' homes.",
     "The day of the 1960 final judgment is unclear in the OCR ('2 day of June'); the collection index date, June 13, 1960, is used.",
-    "No Ute Indian Tribe history page could be opened: utetribe.com returned a bot check on 2026-11-08."
+    "No Ute Indian Tribe history page could be opened: utetribe.com returned a bot check on 2026-11-08.",
+    "Audit 2026-11-08: the claims-commission breach said the Commission held the United States liable for 'all lands in that area which it disposed of or acquired'; the order makes liability depend on lands the plaintiffs 'may hereafter prove were disposed of or acquired'. Reworded, and Finding 6 (deprived of lands without any compensation) and Finding 13 (which describes the 1864 Act) added. Finding 13, as far as the damaged scan can be read, describes the reserves as Indian farms set up informally by an Indian agent; the wording is too garbled to quote. The statement that the Indians did not consent (or that no consent was sought) had no source and was replaced by what the Act's text shows: it contains no provision for Indian consent. Plain lines updated to match."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

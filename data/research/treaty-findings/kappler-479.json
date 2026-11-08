@@ -20,7 +20,18 @@
   "status": "no-breach-found",
   "breaches": [],
   "today": "A 1972 dissent in the Potawatomi land claims (Dockets 29-D and 29-E) lists this treaty among thirteen made between 1834 and 1837 with Wabash Potawatomi village bands for their village reserves, and states that the reserves ceded by them were never tribal lands; the dissent says the majority agreed they were not tribal lands afterwards. No Commission award for these reserves was found.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Citizen Potawatomi Nation",
+      "summary": "The Nation's Cultural Heritage Center says federal Indian agent Abel C. Pepper, who signed this treaty as commissioner, gave whiskey to young leaders to secure the many village treaties of 1834 to 1837, that the government appointed young men as chiefs when the old leaders refused to negotiate, and that leaders vowed the cessions were illegal before the 1838 Trail of Death.",
+      "url": "https://www.potawatomi.org/blog/2018/09/07/the-united-states-handling-of-the-indian-problem/"
+    },
+    {
+      "nation": "Citizen Potawatomi Nation",
+      "summary": "The Nation says Chief Ashkum and other Wabash Potawatomi leaders held that the 1836 cessions of their village reservations, including one made at Chippewanaung, were illegal and wrongfully authorized, and rejected the sales before federal agents and militia forced them onto the Trail of Death in 1838.",
+      "url": "https://www.potawatomi.org/blog/2019/04/11/potawatomi-chief-ashkums-efforts-to-combat-manifest-destinys-expansion/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Potawatomi, 1836 (Kappler, vol. 2, p. 471)",
@@ -36,6 +47,16 @@
       "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
       "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
       "publisher": "Internet Archive"
+    },
+    {
+      "title": "The United States' handling of the 'Indian problem'",
+      "url": "https://www.potawatomi.org/blog/2018/09/07/the-united-states-handling-of-the-indian-problem/",
+      "publisher": "Citizen Potawatomi Nation"
+    },
+    {
+      "title": "Potawatomi Chief Ashkum's efforts to combat Manifest Destiny's expansion",
+      "url": "https://www.potawatomi.org/blog/2019/04/11/potawatomi-chief-ashkums-efforts-to-combat-manifest-destinys-expansion/",
+      "publisher": "Citizen Potawatomi Nation"
     }
   ],
   "openQuestions": [

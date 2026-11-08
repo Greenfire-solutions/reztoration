@@ -1,0 +1,52 @@
+{
+  "id": "kappler-396",
+  "name": "Treaty with the Creeks, 1833 (Treaty of Fort Gibson)",
+  "aka": ["Fort Gibson treaty with the Creeks"],
+  "signed": "1833-02-14",
+  "proclaimed": "1834-04-12",
+  "citation": "7 Stat. 417",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-creeks-1833-0388",
+  "nations": ["Mvskoke (Muscogee Creek)", "Seminole (assigned a home within the Creek country by Article 4)"],
+  "promises": [
+    "Article 2: boundaries for the Creek country west of the Mississippi, agreed with the Cherokee delegates.",
+    "Article 3: a patent in fee simple to the Creek Nation for that land, the right guaranteed so long as they existed as a nation and occupied the country.",
+    "Article 4: the land to belong to the whole Creek Nation, east and west, and the Seminole of Florida to have a permanent and comfortable home on it, located by themselves.",
+    "Article 5: an extra blacksmith and wheelwright, shops, tools, iron and steel, and $1,000 a year for education, for as long as the President thought proper.",
+    "Article 6: improvements the Creeks had to leave because of the Cherokee boundary to be valued and paid for."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The patent promised in Article 3 issued in 1852. In McGirt v. Oklahoma (2020) the Supreme Court traced the Creek Reservation to the 1832 treaty and this treaty's 'permanent home to the whole Creek nation of Indians', and held that the reservation has never been disestablished. The Seminole home promised in Article 4 was assigned by the commissioners at Fort Gibson on March 28, 1833 (7 Stat. 423). Later losses of this land are recorded under the treaties that made them: the 1856 treaty with the Creeks and Seminole (kappler-764) and the 1866 Creek treaty (kappler-939).",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Creeks, 1833 (Kappler, vol. 2, p. 388)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-creeks-1833-0388",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Treaty with the Seminole, 1833 (Kappler, vol. 2, p. 394)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-seminole-1833-0394",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "McGirt v. Oklahoma, 591 U.S. ___ (2020)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/18-9526",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Creek Nation v. United States, Docket 276, Opinion of the Commission (December 15, 1965), on the 1852 patent",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1755",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json: the entry combines this Creek treaty of February 14, 1833 with the Seminole agreement of March 28, 1833 ('Creek; Seminole'). The Seminole agreement is a separate instrument (7 Stat. 423, proclaimed April 12, 1834); the Payne's Landing file (kappler-352) treats it as having no queue entry of its own. Jordan may want one entry per instrument.",
+    "The patent promised in Article 3 'whenever' the treaty was ratified issued only in 1852, eighteen years after proclamation; whether that delay was ever found to be a breach was not researched.",
+    "Several findings against the United States concern land first secured by this treaty (the 1856 cession found unconscionable in Docket 276, the 1,198.99 acres taken without compensation in Docket 167, the Sac and Fox survey error in United States v. Creek Nation, 1935). They were left on the later treaties' files to avoid double counting; the auditors may decide whether any belongs here as well.",
+    "Whether the Article 5 smiths and education money and the Article 6 improvement payments were provided was not researched.",
+    "No account by the Muscogee (Creek) Nation or the Seminole Nation of Oklahoma about this treaty was found in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

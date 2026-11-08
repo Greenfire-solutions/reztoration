@@ -1,0 +1,111 @@
+{
+  "id": "kappler-626",
+  "name": "Treaty with the Shawnee, 1854",
+  "aka": ["Shawnee treaty of May 10, 1854"],
+  "signed": "1854-05-10",
+  "ratified": "1854-08-02",
+  "proclaimed": "1854-11-02",
+  "citation": "10 Stat. 1053",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-shawnee-1854-0618",
+  "nations": ["Shawnee (the united bands party to the treaties of 1825 and 1831)"],
+  "promises": [
+    "Article 2: 200,000 acres of the ceded Kansas reserve given back to the Shawnee, 200 acres for each person, with land held in common at Black Bob's and Long Tail's settlements.",
+    "Article 2: any surplus to be set apart in one body for Shawnees long separated from the tribe who rejoined within five years; what remained unassigned after that to be sold and the proceeds held for the tribe.",
+    "Article 3: $829,000 for the cession: $40,000 invested for education, $700,000 in seven yearly instalments and $89,000 after that.",
+    "Article 5: no white persons to locate or settle on the lands within thirty miles of the Missouri line until the survey was done, the Shawnee had made their selections and the President had set apart the surplus."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1958-06-19",
+      "what": "The Indian Claims Commission found that by this treaty the Shawnee ceded 1,404,790 acres for $829,000.00, that the land was worth $1,938,464.00, and that the consideration was unconscionable; it ordered the Shawnee Tribe as it existed on May 10, 1854 to recover the difference, less offsets.",
+      "whoFoundIt": "Indian Claims Commission, Absentee Shawnee Tribe of Oklahoma and Riley M. Hood on behalf of the Shawnee Nation v. United States, Docket 334 Amended, Interlocutory Order (June 19, 1958), 6 Ind. Cl. Comm.",
+      "source": {
+        "title": "Absentee Shawnee Tribe of Oklahoma et al. v. United States, Docket 334, Interlocutory Order (June 19, 1958)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/569",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1971-05-19",
+      "what": "A separate claim for the 22,140.70 acres of surplus land held for absent Shawnees, which a Joint Resolution of April 7, 1869 directed sold to the white settlers occupying it at $2.50 an acre, was settled by a $300,000 compromise that the Commission approved. The Commission had fixed April 7, 1869 as the date of taking but had not decided liability.",
+      "whoFoundIt": "Indian Claims Commission, Absentee Shawnee Tribe of Oklahoma (on behalf of the Shawnee Nation) v. United States, Docket 334-B, Final Award on compromise (May 19, 1971), 25 Ind. Cl. Comm. 311",
+      "source": {
+        "title": "Absentee Shawnee Tribe of Oklahoma v. United States, Docket 334-B, Final Award (May 19, 1971)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2617",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "The 1825 Shawnee reserve in Kansas, about 1,600,000 acres, less the 200,000 acres returned (Royce Areas 318, 319, 320). The Commission put the net cession at 1,404,790 acres. Royce notes that 24,138.31 acres were meant for absent Shawnees and that many never returned.",
+  "compensation": "$829,000 under Article 3. The Commission's 1958 order set the value at $1,938,464.00 and allowed recovery of the difference less offsets; a fee opinion of 1961 refers to a final award entered on May 29, 1961, whose amount was not found. The absentee-land claim was settled for $300,000 in 1971.",
+  "today": "A claim by the Black Bob band (Docket 334-A) was dismissed in 1963. The Commission noted in 1969 that by June 14, 1867 only 1,997.61 acres of the absentee land had been allotted and that the remaining 22,140.70 acres were mostly occupied by white squatters.",
+  "plain": {
+    "promised": "$829,000 for most of the Shawnee reserve in Kansas, 200,000 acres kept for Shawnee homes, land held for absent Shawnees for five years, and no white settlement until the Shawnee had chosen their land.",
+    "happened": "The Indian Claims Commission found in 1958 that the 1,404,790 acres ceded were worth $1,938,464.00 and that the $829,000.00 paid was unconscionable. Congress later had the land kept for absent Shawnees sold to settlers at $2.50 an acre.",
+    "today": "A final award was entered in 1961; its amount is not stated here. The claim over the absentee land was settled for $300,000 in 1971."
+  },
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Shawnee, 1854 (Kappler, vol. 2, p. 618)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-shawnee-1854-0618",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Absentee Shawnee Tribe of Oklahoma et al. v. United States, Docket 334, Findings of Fact (June 19, 1958)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/533",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Absentee Shawnee Tribe of Oklahoma et al. v. United States, Docket 334, Opinion of the Commission (June 19, 1958)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/484",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Absentee Shawnee Tribe of Oklahoma et al. v. United States, Docket 334, Interlocutory Order (June 19, 1958)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/569",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Absentee Shawnee Tribe of Oklahoma et al. v. United States, Docket 334, Opinion on attorneys' expenses (August 30, 1961)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/529",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Absentee Shawnee Tribe of Oklahoma v. United States, Docket 334-B, Opinion and Additional Findings of Fact (November 13, 1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2388",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Absentee Shawnee Tribe of Oklahoma v. United States, Docket 334-B, Additional Findings of Fact (November 13, 1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1187",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Absentee Shawnee Tribe of Oklahoma v. United States, Docket 334-B, Final Award (May 19, 1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2617",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Absentee Shawnee Tribe et al. v. United States, Docket 334-A, Final Order (March 22, 1963)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/683",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule pp. 792-793",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/792/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json error: this entry is dated 1825-11-07 and named for that date, but its Kappler link (vol. 2, p. 618), its second Royce page (792) and its Royce areas 318 to 320 are all the Shawnee treaty of May 10, 1854, which is what this file records. The 1825 treaty at St. Louis (7 Stat. 284) has its own entry, kappler-270, with areas 125 and 126; Royce p. 715 lists 318 to 320 for 1825 only as 'See', meaning the reserve the 1825 treaty granted.",
+    "The 1958 award figure reads '$1,109,l&.00' in the interlocutory order and '&109,k6h,00' in the findings because of scan damage, so it is not quoted. The final award of May 29, 1961 is not in the online collection.",
+    "Whether Article 5 (no white settlement before the Shawnee selections) was kept was not researched; the Commission's 1969 note that the absentee land was mostly occupied by white squatters suggests a lead.",
+    "No account by the Shawnee Tribe, the Absentee-Shawnee Tribe or the Eastern Shawnee Tribe about this treaty was found in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

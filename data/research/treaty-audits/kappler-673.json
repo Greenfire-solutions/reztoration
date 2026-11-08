@@ -1,0 +1,17 @@
+{
+  "id": "kappler-673",
+  "auditedAt": "2026-11-08",
+  "verdict": "downgraded",
+  "checked": [
+    "Treaty text (OSU): Articles 1 to 4 match the promises; Article 1 and Article 4 promise only a home 'to be designated' and a tract 'that may hereafter be set apart'.",
+    "Act of August 13, 1954, 68 Stat. 724 (govinfo): sections 2, 5, 6 and 13 as described; names Santiam and other bands of this treaty.",
+    "Grand Ronde Restoration Act, 97 Stat. 1064: 'may have been diminished or lost' and the no hunting, fishing or trapping rights clause are exact."
+  ],
+  "changes": [
+    "Removed the 1954 termination act as a breach: the treaty created no reservation (Grand Ronde Reservation came from the executive order of June 30, 1857), so under the termination rule it is not a breach of this treaty. Status broken -> no-breach-found.",
+    "Moved the 1954 Act into 'today'; rewrote plain.promised and plain.happened to match; added an audit line to openQuestions."
+  ],
+  "unverifiable": [
+    "The 1857 executive order and the 1901 surplus sale statute were not opened; both rest on the Tribe's page."
+  ]
+}
