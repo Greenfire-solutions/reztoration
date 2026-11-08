@@ -1,0 +1,21 @@
+{
+  "id": "cession-1873-12-23-dwamish-suquamish",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce schedule remark for the 36-section Tulalip reserve under Point Elliott: 'See Executive order of Dec. 23, 1873, more specifically defining the boundaries of this reserve'",
+    "treaties.json: area 347 is the Point Elliott cession (kappler-677); 348 to 351 are the reserves",
+    "ICC search 'tulalip' returns 0 decisions; Snohomish dockets (125) and Docket 92 concern the 1855 cession"
+  ],
+  "changes": [
+    "corrected the open question that called area 351 the whole Point Elliott cession; 351 appears to be the Tulalip reserve, which fits this record"
+  ],
+  "unverifiable": [
+    "Royce's area numbers and remarks columns are misaligned in the OCR; the 351 = Tulalip pairing is the best reading, not certain",
+    "Order text not opened beyond Royce"
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes omit the Tulalip Tribes, whose reservation the order defines.",
+    "Area 351 is mapped to both kappler-677 and this record."
+  ]
+}

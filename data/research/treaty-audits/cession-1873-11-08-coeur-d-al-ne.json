@@ -1,0 +1,24 @@
+{
+  "id": "cession-1873-11-08-coeur-d-al-ne",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "ICC Docket 81 Findings of Fact (OSU id 27, 1955-08-26): finding 6, agreement of July 28, 1873 'never ratified by Congress'; quote matches the OCR",
+    "ICC Docket 81 Finding 8 quotes Article 1 of the March 26, 1887 agreement: the tribe never ceded the lands, the United States and settlers hold them, no compensation received; ratified by Act of March 3, 1891 (26 Stat. 989)",
+    "ICC opinion (OSU id 165): 'Nothing further was done to secure a cession' after the 1873 executive order",
+    "ICC second interlocutory order (OSU id 182, 1957-12-03): title passed March 3, 1891; consideration unconscionable",
+    "Executive order page on the American Presidency Project loads (200)"
+  ],
+  "changes": [
+    "status unratified to broken under Jordan's rule of 2026-11-08: added a government-admission breach (1887 agreement Article 1, ratified 1891) documenting that the United States held the never-ceded land; never-ratified breach kept",
+    "whoFoundIt of the never-ratified breach widened to cite the opinion as well as the findings",
+    "plain lines rewritten from the file's own content"
+  ],
+  "unverifiable": [
+    "Dollar figures in OSU id 182 and the 1958 final award are garbled in the OCR; left out",
+    "The 1887 agreement was read only as quoted in the ICC findings (OCR), so no quote recorded"
+  ],
+  "treatiesJsonErrors": [
+    "No 1891 Coeur d'Alene cession record has findings yet; when researched it should carry the ICC Docket 81 unconscionable-consideration finding (not this record)."
+  ]
+}

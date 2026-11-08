@@ -1,17 +1,24 @@
 {
   "id": "kappler-111",
   "auditedAt": "2026-11-08",
-  "verdict": "confirmed",
+  "verdict": "corrected",
   "checked": [
-    "Wea convention header on OSU Kappler: Oct. 26, 1809, 7 Stat. 116, ratified Jan. 2, 1810, proclaimed Jan. 25, 1810; $100 annuity once the Kickapoo consent to Article 9",
-    "Fort Wayne Article 9 text: strip fifteen miles wide north-west of the Wabash, annuity of $400, no effect unless the Kickapoo agree",
-    "ICC Dockets 99, 314-C, 317 supplemental findings of 5 December 1969 (OSU id 2276, 22 Ind. Cl. Comm. 186): Area 73 405,000 acres, $1.40 an acre on March 5, 1810, $100 annuity commuted at $2,000, Areas 73 and 74 unconscionable, $351,750 less $2,000",
-    "Docket 314-C final award of January 1970 (OSU id 1048): $349,750.00",
-    "Docket 253 et al. final award (OSU id 2633): $678,900 and $1,919,535.20 for Area 71; 549,081 acres and $7,500 per OSU id 2096"
+    "OSU Kappler text (fetched): Oct. 26, 1809, Vincennes, 7 Stat. 116, ratified Jan. 2, 1810, proclaimed Jan. 25, 1810; Wea consent to Fort Wayne and its separate article; $300 annuity and $1,500 for the Article 1 relinquishment; $100 permanent annuity on Kickapoo consent to Article 9",
+    "ICC 22 Ind. Cl. Comm. 92 additional findings on value (OSU id 2096): finding 64 ties the Wea's $7,500 ($6,000 commuted annuity plus $1,500) for Area 71 to the Treaty of October 26, 1809; Wea 549,081 acres; $1.25 an acre on January 16, 1810; $686,400; unconscionable; $678,900",
+    "Final award (OSU id 2633): Docket 314-D, Royce Area 71, $678,900.00, November 1969"
   ],
-  "changes": [],
+  "changes": [
+    "Rewritten for the Wea convention only: name, signed date (1809-09-30 to 1809-10-26), citation (7 Stat. 116 only), nations (Wea/Peoria only), promises from the convention text",
+    "Removed the Area 73 / Docket 314-C breach and the Miami and Eel River figures (Fort Wayne material); moved to kappler-109 openQuestions",
+    "Removed the Kickapoo Tribe in Kansas testimony (Fort Wayne / Kickapoo, not the Wea)",
+    "Area 71 breach rewritten with the Commission's convention-specific finding; status broken stands",
+    "plain rewritten from the new content"
+  ],
   "unverifiable": [
-    "The day of the January 1970 final award is illegible in the scan; the file's 28 January 1970 matches the collection's date field",
-    "Kickapoo testimony page not re-opened"
+    "Day of the November 1969 final award is illegible in the scan; the collection gives November 26"
+  ],
+  "previousAudit": "2026-11-08 round 10 verdict 'confirmed' (Fort Wayne and Wea mixed); superseded by this audit",
+  "treatiesJsonErrors": [
+    "kappler-109's second breach (Wea Area 71, $678,900) duplicates the Wea convention finding now on kappler-111; noted in kappler-109 openQuestions."
   ]
 }

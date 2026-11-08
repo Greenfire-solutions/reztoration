@@ -21,7 +21,7 @@
     {
       "kind": "court-ruling",
       "date": "1945-02-05",
-      "what": "The Court of Claims held that the northern boundary of the reservation had been located wrongly, that the \"northwest point\" of Quinault Lake named in the 1873 order was the point farthest north on its western shore, and that the United States had taken the lands lying between the correct line and the line adopted. The line used had been chosen, the court found, from expediency, because white settlers had located on the land.",
+      "what": "The Court of Claims held that the northern boundary of the reservation had been located wrongly: the \"northwest point\" of Quinault Lake named in the 1873 order is the point farthest north on its western shore, and the United States had taken the lands lying between the correct line and the line it adopted. The court found the line used was adopted from a consideration of expediency only, quoting the Commissioner of Indian Affairs' letter noting that white settlers had located on the land.",
       "whoFoundIt": "Court of Claims, The Quinaielt Tribe of Indians v. United States, 102 Ct. Cl. 822 (1945)",
       "source": {
         "title": "The Quinaielt Tribe of Indians v. The United States, 102 Ct. Cl. 822 (February 5, 1945)",
@@ -41,7 +41,7 @@
       }
     }
   ],
-  "landTaken": "The Court of Claims found a tract of 15,928.87 acres west of Quinault Lake taken between 1892 and March 1, 1898 (118 Ct. Cl. 220).",
+  "landTaken": "The Court of Claims found a tract of 15,928.87 acres west of Quinault Lake taken on various dates between 1892 and March 1, 1898; an Act of June 4, 1897 (30 Stat. 11, 34) withdrew the remainder of the tract from entry (118 Ct. Cl. 220).",
   "compensation": "None. The Court of Claims valued the land at $25,000 and found $87,988.68 due with interest, then set off $87,995.62 in federal spending for the tribes and dismissed the petition in 1951 (118 Ct. Cl. 220).",
   "today": "The 1951 judgment left nothing payable. Accounts in this pass say Congress returned north boundary land to the Quinault Nation in 1988, but the statute was not opened, so it is recorded only as an open question.",
   "nationVoice": [],
@@ -71,7 +71,9 @@
     "Duplicate record: cession-1873-11-04-quil-leh-ute-qui-nai-elt is the same executive order. Royce lists this order as area 551 with \"See 372\"; area 372 is the original reserve of the 1855-1856 treaty, so the other record's map area is the treaty reserve, not the 1873 addition.",
     "Several secondary sources say a 1988 Act of Congress returned the north boundary land to the Quinault Nation (one gives Pub. L. 100-638); the statute itself was not located and opened.",
     "The Quinault Indian Nation's and the Quileute Tribe's own accounts of the north boundary were not found on their websites in this pass.",
-    "treaties.json lists only the Quileute and Quinault; the order also names the Hoh and Queets, and the Supreme Court in Halbert v. United States, 283 U.S. 753, held other tribes shared rights in the reservation."
+    "treaties.json lists only the Quileute and Quinault; the order also names the Hoh and Queets, and the Supreme Court in Halbert v. United States, 283 U.S. 753, held other tribes shared rights in the reservation.",
+    "Audit 2026-11-08: both Court of Claims opinions re-opened (102 Ct. Cl. 822, decided February 5, 1945; 118 Ct. Cl. 220, decided January 9, 1951); every figure and date in the breaches matches. Reworded the 1945 breach: the white-settler reason is the Commissioner of Indian Affairs' letter, which the court quoted, not the court's own finding.",
+    "Audit 2026-11-08: the 1945 opinion says the 1873 order was issued \"formally designating the reservation as provided for by the Treaty\" and included Superintendent Miller's 1861 reserve, so this is the treaty reservation selected under the Treaty of Olympia, not a reservation made only by executive order; Jordan's executive-order rule does not apply. The two 1873-11-04 records now carry the same breaches, landTaken and compensation."
   ],
   "plain": {
     "promised": "In 1873 the President enlarged the Quinault Reservation for the Quinault, Quileute, Hoh, Queets and other coast peoples, with its northern line set at the northwest point of Quinault Lake.",

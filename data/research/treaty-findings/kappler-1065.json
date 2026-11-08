@@ -1,0 +1,61 @@
+{
+  "id": "kappler-1065",
+  "name": "Agreement with the Sisseton and Wahpeton Bands of Sioux Indians, 1872",
+  "aka": [
+    "Sisseton and Wahpeton agreement of September 20, 1872",
+    "Amended agreement with certain Sioux Indians, 1873"
+  ],
+  "signed": "1872-09-20",
+  "ratified": "1873-02-14",
+  "citation": "Act of February 14, 1873, ch. 138, 17 Stat. 437, 456 (Kappler vol. 2, pp. 1057 and 1059)",
+  "textUrl": "https://treaties.okstate.edu/treaties/agreement-with-the-sisseton-and-wahpeton-bands-of-sioux-indians-1872.-(1057)",
+  "nations": [
+    "Sisseton-Wahpeton Oyate",
+    "Spirit Lake Nation (Sisseton and Wahpeton of Devils Lake)"
+  ],
+  "promises": [
+    "The bands ceded their interest in the lands described in Article 2 of the treaty of February 19, 1867 and all other Dakota lands, except the permanent Lake Traverse and Devil's Lake reservations (Article 1).",
+    "The United States was to pay $800,000 in ten annual installments of $80,000, without interest, for goods, provisions, schools, mills, farms and stock (Article 2).",
+    "Congress ratified the cession and the $800,000 payment in the Act of February 14, 1873; the bands accepted the amended agreement on May 2, 1873 (Supreme Court, 1928)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "The parties believed the tract to be about eight million acres; its actual area was later found to be eleven million acres (as stated in Sisseton and Wahpeton Bands v. United States, 277 U.S. 424).",
+  "compensation": "The Supreme Court recorded that the annual installments were appropriated and paid.",
+  "today": "The bands sued for 10 cents an acre on the three million acres above the supposed eight million. The Court of Claims dismissed the claim (58 Ct. Cl. 302) and the Supreme Court affirmed on May 28, 1928 (277 U.S. 424); these rulings went against the bands.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Agreement with the Sisseton and Wahpeton Bands of Sioux Indians, 1872 (Kappler vol. 2, p. 1057)",
+      "url": "https://treaties.okstate.edu/treaties/agreement-with-the-sisseton-and-wahpeton-bands-of-sioux-indians-1872.-(1057)",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Sisseton and Wahpeton Bands of Sioux Indians v. United States, 277 U.S. 424 (1928)",
+      "url": "https://static.case.law/us/277/cases/0424-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 858",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/858/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 859",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/859/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Sisseton and Wahpeton Bands et al. v. United States, Dockets 142 and 359-363, Findings of Fact on Compromise Settlement (18 Ind. Cl. Comm. 477, July 25, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2214",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "ICC Dockets 142 and 359-363 (settled for $12,250,000 in 1967) concern the Minnesota cessions of 1851 and 1858 and related claims; no claim over the 1872 agreement was found in them.",
+    "Royce notes area 538 overlaps the Chippewa cession of October 2, 1863; the Pembina Chippewa ICC claim (Docket 18-A) may touch this land but was not read.",
+    "The Sisseton-Wahpeton Oyate's own account of the 1872 agreement was not located in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

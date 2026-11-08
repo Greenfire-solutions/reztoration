@@ -1,0 +1,16 @@
+{
+  "id": "cession-1884-01-09-yuma",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce schedule (Internet Archive OCR of annualreportofbu218smit) row read for this date and area number. Area 648 (July 6, 1883 Arizona reserve, restored Jan 9, 1884) and 652 (new reserve on the California side).",
+    "Docket 319 Opinion, Sept 30, 1959, 8 Ind. Cl. Comm. 111 (id 552): names 'President Chester A. Arthur's executive order of January 9, 1884' and holds that on that date the United States extinguished Indian occupancy in Arizona; interlocutory order adjudging liability for value. Quote matches the source exactly. The finding names THIS order, so broken stands under Jordan's rule.",
+    "1965 compromise (id 716, 15 Ind. Cl. Comm. 489): $520,000.00; $353,000.00 for the Arizona land, about 40 cents an acre; correctly in compensation, not a breach.",
+    "BIA release of Dec 21, 1978: 25,000 acres restored within the 1884 boundaries; 1893 cession conditional and conditions unmet."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "The Arizona acreage conflict (381,644 vs 881,644 in the 1965 scan) is unresolved, as the file says; 881,644 fits 40 cents an acre, but that is arithmetic, not a source statement."
+  ],
+  "treatiesJsonErrors": []
+}

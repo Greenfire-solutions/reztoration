@@ -15,19 +15,30 @@
     "Under the 1873 agreement made by three commissioners for the Interior Department, the Coeur d'Alene would give up their claim to the lands outside a described reservation, and that reservation would be set apart for them.",
     "The executive order of November 8, 1873 withdrew the reservation from sale and set it apart \"as a reservation for the Coeur d'Alene Indians\", taking in the reserve of June 14, 1867 and more country around Coeur d'Alene Lake and the Spokane River."
   ],
-  "status": "unratified",
+  "status": "broken",
   "breaches": [
     {
       "kind": "never-ratified",
       "date": "1873-07-28",
       "what": "The agreement of July 28, 1873, in which the tribe agreed to give up all its lands outside the proposed reservation, was never ratified by Congress. The President set apart the reservation by executive order instead, and nothing further was done to secure a cession of the outside lands until the tribe petitioned in 1885.",
-      "whoFoundIt": "Indian Claims Commission, Docket 81, Findings of Fact (1955), relying on the agreement in evidence",
+      "whoFoundIt": "Indian Claims Commission, Docket 81, Findings of Fact (1955) and Opinion (1955), relying on the agreement in evidence",
       "source": {
         "title": "Coeur d'Alene Tribe of Indians v. United States, Docket 81, Findings of Fact (4 Ind. Cl. Comm. 1, August 26, 1955)",
         "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/27",
         "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
       },
       "quote": "By this agreement made on July 28, 1873, which was never ratified By Congress"
+    },
+    {
+      "kind": "government-admission",
+      "date": "1887-03-26",
+      "what": "In Article 1 of the agreement of March 26, 1887, which Congress ratified by the Act of March 3, 1891 (26 Stat. 989), the United States recited that the Coeur d'Alene had never ceded their lands outside the reservation, that those lands were held by the United States and by settlers deriving title from it, and that the tribe had received no compensation for them. The Indian Claims Commission quotes the article in its Docket 81 findings.",
+      "whoFoundIt": "Agreement with the Coeur d'Alene of March 26, 1887, Article 1, ratified by the Act of March 3, 1891, 26 Stat. 989, as quoted in Indian Claims Commission Docket 81, Findings of Fact, Finding 8 (4 Ind. Cl. Comm. 1)",
+      "source": {
+        "title": "Coeur d'Alene Tribe of Indians v. United States, Docket 81, Findings of Fact (4 Ind. Cl. Comm. 1, August 26, 1955)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/27",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
     }
   ],
   "landTaken": "Royce shows the country outside the 1873 reserve (area 552) as relinquished because the United States \"assumed\" the tribe gave it up by accepting the reserve. The Indian Claims Commission instead found that Indian title to those lands passed to the United States on March 3, 1891.",
@@ -81,12 +92,14 @@
     "The reservation acreage differs between sources (the Tribe says more than 500,000 acres; the OCR of the 1955 ICC findings reads 538,500; secondary sources say 598,000). Not settled.",
     "The 1958 final award figure in Docket 81 is unreadable in the OCR text (opinion at id 224); the land value and consideration in the 1957 order are also garbled. Figures left out.",
     "The Docket 81 unconscionable-consideration finding belongs to the 1891 records (cession-1891-03-03-coeur-d-al-ne and the 1892 and 1894 records for area 552), since the Commission dated the transfer of title to March 3, 1891.",
-    "This record maps both the reserve (553) and the surrounding country (552). Royce says the 1873 relinquishment was only assumed by the United States."
+    "This record maps both the reserve (553) and the surrounding country (552). Royce says the 1873 relinquishment was only assumed by the United States.",
+    "Audit 2026-11-08: upgraded from unratified to broken under Jordan's rule of 2026-11-08 (an unratified agreement whose land the United States took anyway, with a finding, is broken and keeps the never-ratified breach). Added a government-admission breach: Article 1 of the March 26, 1887 agreement, ratified by Act of March 3, 1891, recites that the tribe never ceded the outside lands, that the United States and settlers held them, and that no compensation had been paid (ICC Docket 81 Finding 8, OSU id 27, opened; OCR quoted, so no quote is recorded). The Commission's 1957 unconscionable-consideration finding stays in compensation and belongs as a breach to the 1891 cession record when it is researched.",
+    "Audit 2026-11-08: the sentence that nothing further was done to secure a cession until the 1885 petition comes from the Commission's opinion (OSU id 165), not the findings; whoFoundIt widened to cite both. Second interlocutory order (OSU id 182) re-opened: title passed March 3, 1891, consideration so grossly inadequate as to be unconscionable; its dollar figures are garbled in the OCR and stay out."
   ],
   "plain": {
     "promised": "In 1873 the Coeur d'Alene agreed to give up land outside a reservation set apart for them. The President set the reservation apart by executive order that November.",
-    "happened": "Congress never ratified the 1873 agreement. The Indian Claims Commission found the outside lands passed to the United States only in 1891, for a price it called unconscionable.",
-    "today": "The Commission made a final award in 1958. The Tribe holds the lower third of Lake Coeur d'Alene, upheld by the Supreme Court in 2001."
+    "happened": "Congress never ratified the 1873 agreement, yet the United States and settlers held the outside lands. In 1887 the government's own agreement admitted the tribe had never ceded them and had been paid nothing.",
+    "today": "The Indian Claims Commission found the price finally paid when title passed in 1891 unconscionable and made a final award in 1958. The Tribe holds the lower third of Lake Coeur d'Alene, upheld by the Supreme Court in 2001."
   },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

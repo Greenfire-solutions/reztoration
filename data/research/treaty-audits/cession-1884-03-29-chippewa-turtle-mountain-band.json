@@ -1,0 +1,18 @@
+{
+  "id": "cession-1884-03-29-chippewa-turtle-mountain-band",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce schedule (Internet Archive OCR of annualreportofbu218smit) row read for this date and area number. Areas 654/656: restores the 1882 reserve except Ts. 162 and 163 N., R. 71 W.; amended June 3, 1884.",
+    "American Presidency Project: June 3, 1884 order text substitutes T. 162 N., R. 70 W. for T. 163 N., R. 71 W.",
+    "490 F.2d 935 (Ct. Cl. 1974): the court rejected the government's argument that this order (with the 1882 order) extinguished title; it found no taking by this order. The compensated taking is Feb 15, 1905 (ICC Sept 20, 1978, id 1913). Nothing finds THIS order a taking or breach, so no-breach-found stands under Jordan's rule.",
+    "ndstudies.gov: reservation reduced to two townships (46,080 acres), not large enough for the tribe (a historical society statement, not a government finding)."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Whether the 1884 restored townships lie inside the 8,104,040 acres valued in 1978 was not checked against the Commission's maps."
+  ],
+  "treatiesJsonErrors": [
+    "Same 654/656 overlap with the 1882 id (see that audit)."
+  ]
+}

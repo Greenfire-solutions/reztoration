@@ -1,0 +1,15 @@
+{
+  "id": "cession-1884-11-26-cheyenne-northern",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce schedule (Internet Archive OCR of annualreportofbu218smit) row read for this date and area number. Area 658a: reservation along the Rosebud, excepting tracts settled and improved before Oct 1, 1884."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Northern Cheyenne ICC dockets not re-searched for this order."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes includes the Cheyenne and Arapaho Tribes of Oklahoma; this order was for the Northern Cheyenne. executiveOrder link list is empty."
+  ]
+}

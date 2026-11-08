@@ -1,0 +1,15 @@
+{
+  "id": "kappler-175",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "OSU Kappler text: Treaty with the Osage, Sept. 25, 1818, 7 Stat. 183, proclaimed Jan. 7, 1819; Article 2 US pays its citizens for property proved stolen or destroyed since 1814, not over $4,000; Article 3 permanent additions. Matches.",
+    "ICC Dockets 106-107 opinion (19 Ind. Cl. Comm. 447, Sept. 20, 1968, OSU id 1593): Royce Area 97 relinquished by the 1818 treaty; Osage aboriginal title found.",
+    "Findings on Compromise (23 Ind. Cl. Comm. 447, Sept. 3, 1970, OSU id 1352): Dockets 105-108 settled for a net final judgment of $13,250,000 while acreage and value for area 97 were pending. kind 'litigation' correct; contested supported."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": []
+}

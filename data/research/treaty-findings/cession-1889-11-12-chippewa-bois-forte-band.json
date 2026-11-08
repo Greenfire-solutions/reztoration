@@ -43,12 +43,18 @@
       "title": "A Brief Summary of Bois Forte History",
       "url": "https://boisforte.com/about/history/",
       "publisher": "Bois Forte Band of Chippewa"
+    },
+    {
+      "title": "Pine lands and pine timber on Red Lake Reservation, Minn. (S. Doc. 85, 55th Cong., 1st sess., May 13, 1897; report of Indian Inspector J. George Wright)",
+      "url": "https://www.govinfo.gov/content/pkg/SERIALSET-03562_00_00-021-0085-0000/pdf/SERIALSET-03562_00_00-021-0085-0000.pdf",
+      "publisher": "US Government Publishing Office, Serial Set"
     }
   ],
   "openQuestions": [
-    "In 91 Ct. Cl. 97 (1940) the Court of Claims held that the United States violated sections 4 and 5 of the 1889 act in estimating and selling ceded pine lands, with a loss of at least $340,061.66, but the opinion does not say which reservations the tracts lay in. If the tracts can be placed on Bois Forte or Deer Creek land, this record would be broken.",
+    "In 91 Ct. Cl. 97 (1940) the Court of Claims held that the United States violated sections 4 and 5 of the 1889 act and the agreements under it in estimating and selling ceded pine lands (65,038.33 acres sold July to October 1896), with a loss of at least $340,061.66, but dismissed the petition because offsets exceeded the recovery. The opinion does not name the reservations, and its findings of fact are blacked out in the Caselaw Access Project scan. If the tracts can be placed on Bois Forte or Deer Creek land, this record would be broken.",
     "The Minnesota Chippewa Tribe's Nelson Act claims before the Indian Claims Commission (transferred to the Court of Claims in 1976) were not read for this record.",
-    "The Bois Forte Band's history page does not discuss the Nelson Act."
+    "The Bois Forte Band's history page does not discuss the Nelson Act.",
+    "Audit 2026-11-08: the court relied on the re-examination by Inspector J. George Wright and quoted the Commissioner of Indian Affairs calling the estimates \"totally unreliable and very much to the disadvantage of the Indians\". Wright's report and that letter (S. Doc. 85, 55th Cong., 1st sess., 1897) concern pine lands on the ceded part of the Red Lake Reservation (his field work was at Red Lake, Ts. 149 and 150), not the Bois Forte or Deer Creek reservations. Nothing found places the 1896 tracts on Royce areas 483 or 484, so the status stays no-breach-found."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

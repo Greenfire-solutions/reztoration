@@ -1,0 +1,88 @@
+{
+  "id": "kappler-537",
+  "name": "Treaty with the Stockbridge and Munsee, 1839",
+  "aka": [
+    "Treaty of Stockbridge, Wisconsin Territory, September 3, 1839"
+  ],
+  "signed": "1839-09-03",
+  "proclaimed": "1840-05-16",
+  "citation": "7 Stat. 580",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-stockbridge-and-munsee-1839-0529",
+  "nations": [
+    "Stockbridge-Munsee Community, Band of Mohican Indians (Stockbridge and Munsee tribes on Lake Winnebago)"
+  ],
+  "promises": [
+    "Article 1: the tribes ceded the east half (23,040 acres) of their 46,080-acre tract on the east side of Lake Winnebago, for $1 an acre.",
+    "Articles 2 and 3: $12,647.05 to the party emigrating west, for its share of the land and the appraised value of its improvements, distributed by heads of families.",
+    "Article 4: of the remaining $10,392.95 for those who stayed, $6,000 invested at not less than 5 per cent as a permanent school fund, with the interest paid yearly, and $4,392.95 paid to the sachem and counsellors.",
+    "Article 5: all the money paid within one year.",
+    "Article 6: the United States would pay the removal of those who chose to emigrate west of the Mississippi and give them subsistence for one year after arrival."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1971-12-15",
+      "what": "On an accounting claim, the Indian Claims Commission found that of the $12,647.05 owed to the emigrating party under Articles 2 and 3 the United States paid out $12,633.47, leaving $13.58 due, and that it had not accounted for $378.08 of the money due under the Article 4 investment, which was also due and owing: $391.66 in all under this treaty. It rejected the tribe's claim that $12,283.08 returned to surplus was owed for Article 6 subsistence.",
+      "whoFoundIt": "Indian Claims Commission, Stockbridge Munsee Community v. United States, Docket 300, Findings of Fact 5, 6 and 17 and Opinion (December 15, 1971), 26 Ind. Cl. Comm. 491; Final Award of $4,203.09 (May 30, 1973), 30 Ind. Cl. Comm. 372, after the Court of Claims affirmed in Appeal No. 7-72",
+      "source": {
+        "title": "Stockbridge Munsee Community v. United States, Docket 300, Findings of Fact (December 15, 1971), 26 Ind. Cl. Comm. 491",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1947",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "compensation": "The Commission's award in Docket 300 was $4,203.09 across four treaties and one Act, of which $391.66 was for this treaty (Finding 17). The Court of Claims affirmed on January 29, 1973, and the final award was entered May 30, 1973.",
+  "today": "The 1971 opinion found that the United States spent $14,042.50 on removal and subsistence under Article 6 for the roughly 169 people who went to Kansas in 1839-40, and that the surplus carried back to the Treasury was not money it had been required to spend for them. The tribe's timeline records that many died on the 1839 journey, some joined other tribes in Oklahoma and Kansas, and some returned to Wisconsin.",
+  "nationVoice": [
+    {
+      "nation": "Stockbridge-Munsee Community, Band of Mohican Indians",
+      "summary": "The tribe's history timeline records that in 1839 a group of Stockbridge Mohicans moved toward Indian Territory, that many died on the journey, and that some joined other tribes in Oklahoma and Kansas while others returned to Wisconsin.",
+      "url": "https://mohican-nsn.gov/tribal-history-timeline/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Stockbridge and Munsee, 1839 (Kappler, vol. 2, p. 529)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-stockbridge-and-munsee-1839-0529",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Stockbridge Munsee Community v. United States, Docket 300, Findings of Fact (December 15, 1971), 26 Ind. Cl. Comm. 491",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1947",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Stockbridge Munsee Community v. United States, Docket 300, Opinion (December 15, 1971), 26 Ind. Cl. Comm. 491",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2106",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Stockbridge Munsee Community v. United States, Docket 300, Final Award (May 30, 1973), 30 Ind. Cl. Comm. 372",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1453",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Tribal History Timeline",
+      "url": "https://mohican-nsn.gov/tribal-history-timeline/",
+      "publisher": "Stockbridge-Munsee Community, Band of Mohican Indians"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 774",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/774/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The award is small and was for money not paid out or not accounted for; the Commission was not asked to decide whether $1 an acre was an unconscionable price for the 23,040 acres, and no such ruling was found.",
+    "Kappler also cites 11 Stat. 577 for this treaty; what that later citation refers to was not checked.",
+    "treaties.json lists 'Munsee residing on Lake Winnebago' and 'Stockbridge residing on Lake Winnebago' separately; both are parties to this one treaty and are part of the Stockbridge-Munsee Community today."
+  ],
+  "plain": {
+    "promised": "The Stockbridge and Munsee sold half their Lake Winnebago land for $1 an acre: money for those moving west, a school fund for those staying, and removal costs and a year of food for emigrants.",
+    "happened": "The Indian Claims Commission found in 1971 that the United States never paid out or accounted for $391.66 of the money this treaty promised. It found removal and subsistence were provided.",
+    "today": "The tribe was awarded $391.66 for this treaty in a $4,203.09 award, affirmed in 1973. The tribe records that many who went west in 1839 died on the journey."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

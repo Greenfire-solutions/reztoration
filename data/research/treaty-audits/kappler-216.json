@@ -1,0 +1,21 @@
+{
+  "id": "kappler-216",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "OSU Kappler text: Treaty with the Iowa, Aug. 4, 1824, 7 Stat. 231, proclaimed Jan. 18, 1825; Article 2 $500 that year and $500 a year for ten years. Matches.",
+    "ICC Docket 135 opinion (12 Ind. Cl. Comm. 487, opinion at p. 519, Aug. 29, 1963, OSU id 816): Iowa tract 1,551,200 acres, all of Gentry, Harrison and Mercer counties among others; fair market value $698,040.00 ($0.45 an acre); US disbursed $13,846.23, 'payment of an unconscionable consideration'; interlocutory award $678,193.77 less offsets. All figures match.",
+    "Final Award (May 7, 1965, OSU id 772): $633,193.77, being $678,193.77 less $45,000 stipulated offsets. Matches.",
+    "Order on Remand (Dec. 10, 1969, OSU id 1404): after 179 Ct. Cl. 8, areas credited in the 1958 decision and the 1965 award 'should not be changed in any way'. Matches today.",
+    "Breach kind claims-commission on an unconscionable-consideration finding is correct; status broken supported. plain restates the file."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "presentDayTribes lists The Osage Nation; the 1824 Kappler treaty at seq 216 (p. 208) is the Iowa treaty, whose successors per the Commission are the Iowa Tribe of Kansas and Nebraska and the Iowa Tribe of Oklahoma.",
+    "scheduleTribes merges 'Great and Little Osage; Iowa; Sauk and Fox' and the name follows it; the record is the Iowa treaty only (the same-day Sac and Fox treaty is 7 Stat. 229).",
+    "royce is empty."
+  ]
+}

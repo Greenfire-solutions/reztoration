@@ -1,0 +1,22 @@
+{
+  "id": "cession-1891-03-03-arapaho-cheyenne",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce p. 942: Act of Mar. 3, 1891, 26 Stat. 1022; Cheyenne and Arapaho cede, subject to allotment, the land between the 98th and 100th meridians, the Cimarron and the Washita, and all other claims in Indian Territory. Matches the promise.",
+    "ICC Dockets 329-A and 329-B, 16 Ind. Cl. Comm. 162 (Oct. 18, 1965, OSU id 2123): compromise for a final net judgment of $15,000,000 before any decision on value; approved 338 to 2 at a general meeting on Sept. 18, 1965; reservation set apart by executive order of Aug. 10, 1869; agreement of October 1890 ratified by 26 Stat. 989. All figures and dates match.",
+    "kind 'litigation' is correct for the compromise; status contested supported. Jordan's executive-order rule does not change this: the land was ceded by an act-ratified agreement, and no finding exists.",
+    "plain fields restate only the file; no em dashes."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [
+    "The exact October 1890 signing day was not found (already in openQuestions)."
+  ],
+  "treatiesJsonErrors": [
+    "royce link points to p. 852 (area 525, the 1869 reservation); the 1891 cession entry is on Royce p. 942.",
+    "The executiveOrder link (525r) is attached to a cession made by Act of Congress ratifying an agreement.",
+    "presentDayTribes includes the Arapaho Tribe of the Wind River Reservation; the 1890 agreement and the ICC settlement concern the Southern Cheyenne and Arapaho only."
+  ]
+}

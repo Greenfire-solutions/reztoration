@@ -1,0 +1,19 @@
+{
+  "id": "cession-1886-05-01-nez-perc-moses-band",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce schedule (Internet Archive OCR of annualreportofbu218smit) row read for this date and area number. May 1, 1886 row: restores lands set apart for Chief Moses by orders of Apr 19, 1879 and Mar 6, 1880, subject to the Act of July 4, 1884 ratifying the July 7, 1883 agreement, excepting Sar-sarp-kin's allotments; areas 659/618.",
+    "Dockets 177/181-A/181-B Compromise Findings (id 2196, 18 Ind. Cl. Comm. 531): 23 Stat. 76, 79-80; equal rights on Colville; removal from about 1886; Columbia Reservation restored May 1, 1886; net $3,500,000.00.",
+    "Yakima Tribe v. US, Dockets 161/222/224 Opinion (id 799, 1963): Moses band title extinguished by the Yakima Treaty (March 8, 1859); no relinquishment under the Moses Agreements."
+  ],
+  "changes": [
+    "Added an audit note recording the 1963 Commission holding as context; status unchanged."
+  ],
+  "unverifiable": [
+    "The order's own text not opened."
+  ],
+  "treatiesJsonErrors": [
+    "scheduleTribes 'Nez Perce (Moses' band)' is Royce's label; presentDayTribes should be the Confederated Tribes of the Colville Reservation, not the Nez Perce Tribe of Idaho."
+  ]
+}

@@ -1,103 +1,72 @@
 {
   "id": "kappler-111",
-  "name": "Convention with the Wea, 1809, and the Fort Wayne cession for the Kickapoo",
+  "name": "Treaty with the Wea, 1809 (Vincennes convention of October 26, 1809)",
   "aka": [
-    "Treaty with the Wea, October 26, 1809",
-    "Treaty of Fort Wayne (1809), Article 9 and separate article"
+    "Convention with the Wea, October 26, 1809"
   ],
-  "signed": "1809-09-30",
+  "signed": "1809-10-26",
   "ratified": "1810-01-02",
   "proclaimed": "1810-01-25",
-  "citation": "7 Stat. 113; 7 Stat. 116",
+  "citation": "7 Stat. 116",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-wea-1809-0103",
   "nations": [
-    "Wea (now part of the Peoria Tribe of Indians of Oklahoma)",
-    "Miami Tribe of Oklahoma (Myaamia)",
-    "Eel River Miami",
-    "Kickapoo Tribe in Kansas",
-    "Kickapoo Tribe of Oklahoma",
-    "Kickapoo Traditional Tribe of Texas"
+    "Wea (now part of the Peoria Tribe of Indians of Oklahoma)"
   ],
   "promises": [
-    "Under Article 9 of the Fort Wayne treaty the tribes ceded a strip fifteen miles wide north-west of the Wabash on condition that the United States pay an annuity of $400 once the Kickapoo consented.",
-    "By the convention of 26 October 1809 the Wea gave their consent to the Fort Wayne treaty and its separate article, and the United States agreed to an allowance and annuity for them.",
-    "The Treaty of Greenville's terms on annuity payment and hunting on ceded land applied (Fort Wayne, Article 4)."
+    "The Wea gave their full consent to the Fort Wayne treaty of September 30, 1809 with the Delaware, Miami, Potawatomi and Eel River, and to the separate article made that day with the Miami and Eel River.",
+    "In return for the Wea relinquishment under the first article of the Fort Wayne treaty, the United States agreed to an additional annuity of $300 and a payment of $1,500.",
+    "The United States agreed to a further permanent annuity of $100 to the Wea once the Kickapoo consented to the ninth article of the Fort Wayne treaty."
   ],
   "status": "broken",
   "breaches": [
     {
       "kind": "claims-commission",
-      "date": "1969-12-05",
-      "what": "The Indian Claims Commission found that Royce Area 73 (405,000 acres in the Wabash valley), ceded by the Wea under Article 9 of the Fort Wayne treaty and the Wea convention, was worth $1.40 an acre on 5 March 1810, and that the Wea received a $100 annuity worth $2,000 for it. It held the consideration for Areas 73 and 74 unconscionable and found the Wea entitled to $351,750 less the $2,000 credit.",
-      "whoFoundIt": "Indian Claims Commission, Peoria Tribe on behalf of the Wea Nation v. United States, Docket 314-C (consolidated with Dockets 99 and 317), Supplemental Findings of 5 December 1969 (22 Ind. Cl. Comm. 186)",
-      "source": {
-        "title": "Peoria Tribe v. United States, Dockets 99, 314-C and 317, Supplemental Findings of Fact (1969)",
-        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2276",
-        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
-      }
-    },
-    {
-      "kind": "claims-commission",
       "date": "1969-11-26",
-      "what": "For Royce Area 71, also covered by this entry, the Commission held the payments to the Wea ($7,500 for 549,081 acres) and to the Miami and Eel River unconscionable and awarded $678,900 to the Wea and $1,919,535.20 to the Miami and Eel River.",
-      "whoFoundIt": "Indian Claims Commission, Dockets 253, 131 and 314-D, Final Award (22 Ind. Cl. Comm. 92)",
+      "what": "The Indian Claims Commission found that the Wea held 549,081 acres in the western part of Royce Area 71 and were paid for their interest under this treaty of October 26, 1809: a $300 permanent annuity (commuted value agreed at $6,000) and $1,500, $7,500 in all. It found the Wea land worth $686,400, about $1.25 an acre, on January 16, 1810, held the consideration so grossly inadequate as to be unconscionable, and awarded $678,900 to the Peoria Tribe on behalf of the Wea.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 253, 131 and 314-D, Additional Findings of Fact on Value and Final Award (22 Ind. Cl. Comm. 92, November 26, 1969)",
       "source": {
-        "title": "Miami Tribe of Oklahoma v. United States, Dockets 253, 131 and 314-D, Final Award (1969)",
-        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2633",
+        "title": "Miami Tribe of Oklahoma et al. and Peoria Tribe on behalf of the Wea Nation v. United States, Dockets 253, 131 and 314-D, Additional Findings of Fact on Value (22 Ind. Cl. Comm. 92, November 26, 1969)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2096",
         "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
       }
     }
   ],
-  "landTaken": "Royce Area 73, 405,000 acres, and Royce Area 71, 2,095,688 acres, in Indiana and Illinois (Commission findings, 1969).",
-  "compensation": "The Wea received a $100 annuity (valued at $2,000) for Area 73 and $7,500 in value for Area 71. The final Wea award under Docket 314-C, covering Areas 73 and 74, was $349,750 (28 January 1970); the Kickapoo award for the same two areas is recorded under kappler-112.",
+  "landTaken": "549,081 acres in the western part of Royce Area 71 in Indiana, held by the Wea (Indian Claims Commission, 22 Ind. Cl. Comm. 92, 1969).",
+  "compensation": "At the time, a $300 permanent annuity and $1,500, which the Commission valued at $7,500 in all. On November 26, 1969 the Commission awarded $678,900 for the Wea lands in Area 71 to the Peoria Tribe on behalf of the Wea (Docket 314-D). Whether it was paid has not been traced.",
   "today": "The Peoria Tribe of Indians of Oklahoma brought the Wea claims as successor to the Wea Nation.",
-  "nationVoice": [
-    {
-      "nation": "Kickapoo Tribe in Kansas",
-      "summary": "Chairman Lester Randall told the Senate in 2018 that the United States moved the Tribe several times, from Wisconsin through Illinois and Missouri to Kansas, under nine treaties made between 1809 and 1862, and that today the Tribe holds 4,859 acres in trust and 2,189 acres in fee within its 30 square mile reservation.",
-      "url": "https://www.narf.org/nill/documents/20180711_kickapoo_testimony_s2154.html"
-    }
-  ],
+  "nationVoice": [],
   "sources": [
     {
-      "title": "Convention with the Wea, 1809 (Kappler)",
+      "title": "Treaty with the Wea, 1809 (Kappler)",
       "url": "https://treaties.okstate.edu/treaties/treaty-with-the-wea-1809-0103",
       "publisher": "Oklahoma State University Libraries"
     },
     {
-      "title": "Treaty with the Delawares, etc., 1809 (Treaty of Fort Wayne) (Kappler)",
-      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-delawares-etc-1809-0101",
-      "publisher": "Oklahoma State University Libraries"
-    },
-    {
-      "title": "Peoria Tribe v. United States, Dockets 99, 314-C and 317, Supplemental Findings of Fact (1969)",
-      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2276",
+      "title": "Miami Tribe of Oklahoma et al. and Peoria Tribe on behalf of the Wea Nation v. United States, Dockets 253, 131 and 314-D, Additional Findings of Fact on Value (22 Ind. Cl. Comm. 92, November 26, 1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2096",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
     },
     {
-      "title": "Peoria Tribe on behalf of the Wea Nation v. United States, Docket 314-C, Final Award (1970)",
-      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1048",
-      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
-    },
-    {
-      "title": "Miami Tribe of Oklahoma v. United States, Dockets 253, 131 and 314-D, Final Award (1969)",
+      "title": "Miami Tribe of Oklahoma et al. and Peoria Tribe on behalf of the Wea Nation v. United States, Dockets 253, 131 and 314-D, Final Award (22 Ind. Cl. Comm. 92, November 26, 1969)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2633",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
     },
     {
-      "title": "Testimony of Lester Randall, Chairman, Kickapoo Tribe in Kansas, in support of S. 2154, Senate Committee on Indian Affairs, July 18, 2018",
-      "url": "https://www.narf.org/nill/documents/20180711_kickapoo_testimony_s2154.html",
-      "publisher": "Kickapoo Tribe in Kansas (copy held by the National Indian Law Library, NARF)"
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 678",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/678/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
     }
   ],
   "openQuestions": [
-    "The queue gives this entry the same date as the Fort Wayne treaty (30 September 1809) with Royce Areas 73 and 71; which Kappler instrument Royce meant (the separate article with the Miami and Eel River, or the Wea convention of 26 October 1809) should be confirmed. The ratification and proclamation dates given are the Wea convention's.",
+    "Audit 2026-11-08 (round 11): rewritten for the Wea convention of October 26, 1809 only (7 Stat. 116, Royce area 71), as treaties.json now records it. Removed the Fort Wayne material: Article 9 and the Area 73 strip, the Docket 314-C findings (OSU id 2276) and $349,750 award (OSU id 1048), the Miami and Eel River award, and the Kickapoo Tribe in Kansas testimony. Those are noted on kappler-109 (Fort Wayne, which now carries area 73) and belong with kappler-112 (Kickapoo) for the testimony.",
+    "Audit 2026-11-08 (round 11): the remaining breach is tied to this treaty by the Commission itself: its finding 64 (22 Ind. Cl. Comm. 92, OSU id 2096, re-opened) says the Wea consideration for Area 71 was the $300 annuity and $1,500 of the Treaty of October 26, 1809. The final award (OSU id 2633) lists $678,900 for Docket 314-D, Royce Area 71, dated November 1969 (day illegible; the collection gives November 26).",
+    "Audit 2026-11-08 (round 11): the $100 annuity promised here on the Kickapoo's consent to Article 9 was the Wea consideration for Area 73; the Commission held that consideration unconscionable in Docket 314-C (22 Ind. Cl. Comm. 186, 1969; final award $349,750, 1970). Because Area 73 is the Fort Wayne treaty's Article 9 cession, that finding is recorded with kappler-109, not counted here.",
     "A Peoria Tribe or Wea statement on this treaty was not found."
   ],
   "plain": {
-    "promised": "For a strip of land along the Wabash ceded at Fort Wayne, the United States promised a $400 yearly payment once the Kickapoo consented, and an allowance and yearly payment to the Wea for their consent.",
-    "happened": "The Indian Claims Commission found in 1969 that the Wea received a $100 annuity worth $2,000 for 405,000 acres worth $1.40 an acre, and held that unconscionable. It also held payments to the Wea and Miami for a second area unconscionable.",
-    "today": "The Wea were awarded $349,750 in 1970 for this strip and another tract, and $678,900 in 1969 for a second area, through the Peoria Tribe of Indians of Oklahoma. Whether these were paid has not been traced."
+    "promised": "The Wea agreed to the Fort Wayne land cession of 1809. The United States promised them a $300 yearly payment and $1,500, and $100 more a year once the Kickapoo agreed.",
+    "happened": "The Indian Claims Commission found in 1969 that the Wea were paid $7,500 for 549,081 acres worth $686,400, and held that unconscionable.",
+    "today": "The Commission awarded $678,900 in 1969 to the Peoria Tribe of Indians of Oklahoma on behalf of the Wea. Whether it was paid has not been traced."
   },
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

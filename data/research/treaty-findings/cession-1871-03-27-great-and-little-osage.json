@@ -1,0 +1,46 @@
+{
+  "id": "cession-1871-03-27-great-and-little-osage",
+  "name": "Secretary of the Interior's designation of March 27, 1871 of a reserve for the Osage in Indian Territory",
+  "signed": "1871-03-27",
+  "citation": "Order of the Secretary of the Interior, March 27, 1871; confirmed by Act of June 5, 1872, 17 Stat. 228",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/854/mode/2up",
+  "nations": [
+    "Osage Nation (Wazhazhe)"
+  ],
+  "promises": [
+    "The Secretary of the Interior designated a reserve for the Osage in Indian Territory, a tract the Osage had selected; its boundaries were amended and confirmed by the Act of June 5, 1872 (Royce schedule)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "In Osage Nation v. Irby (10th Cir. 2010) the court held that the reservation confirmed in 1872 had been disestablished; this went against the Nation.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 852",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/852/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 853",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/853/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 854",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/854/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Osage Nation v. Irby, 597 F.3d 1117 (10th Cir. 2010)",
+      "url": "https://static.case.law/f3d/597/cases/1117-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    }
+  ],
+  "openQuestions": [
+    "A reservation grant, not a cession. Royce area 534 is the Osage reservation; this record and cession-1872-06-05-great-and-little-osage are the designation and the confirming Act for the same land.",
+    "The ICC title search for \"osage\" returned Dockets 9, 105-108 and 126; they concern the 1808, 1818 and 1825 cessions, an 1865 award with offsets, oil royalties paid to Osage County and attorney fees, not the Indian Territory reservation.",
+    "The Osage Nation's own account of the 1871-72 reservation was not located in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

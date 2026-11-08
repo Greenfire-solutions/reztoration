@@ -1,0 +1,89 @@
+{
+  "id": "kappler-582",
+  "name": "Treaty with the Stockbridge Tribe, 1848",
+  "aka": [
+    "Treaty of Stockbridge, November 24, 1848"
+  ],
+  "signed": "1848-11-24",
+  "ratified": "1849-03-01",
+  "citation": "9 Stat. 955",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-stockbridge-tribe-1848-0574",
+  "nations": [
+    "Stockbridge-Munsee Community, Band of Mohican Indians (Stockbridge tribe)"
+  ],
+  "promises": [
+    "Article 3: the tribe sold to the United States its township on the east side of Lake Winnebago, Wisconsin.",
+    "Article 5: $16,500 within six months of ratification, to settle their affairs and establish a new home.",
+    "Article 6: $14,504.85 within six months, the appraised value of their improvements, paid to the individuals who made them.",
+    "Article 8: removal west of the Mississippi paid for by the United States, with subsistence for one year after arrival.",
+    "Article 9: $16,500 invested at not less than 5 per cent, with the interest paid yearly to the tribe as an annuity.",
+    "Supplemental article: $5,000 at once and $20,000 in ten yearly installments for giving up their claims to other lands in Indiana and Wisconsin."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1971-12-15",
+      "what": "On an accounting claim, the Indian Claims Commission found that the United States paid out $14,354.85 of the $14,504.85 owed for improvements under Article 6, leaving $150 due, and paid $4,710 of the $4,950 appropriated for the Article 9 annuity in 1851-1856, leaving $240 due: $390 in all under this treaty. It also found the $7,000 appropriated in 1854 for removal under Article 8 was never spent under this treaty and was later made available for the 1856 treaty.",
+      "whoFoundIt": "Indian Claims Commission, Stockbridge Munsee Community v. United States, Docket 300, Findings of Fact 7 to 11 and 17 and Opinion (December 15, 1971), 26 Ind. Cl. Comm. 491; Final Award of $4,203.09 (May 30, 1973), 30 Ind. Cl. Comm. 372, after the Court of Claims affirmed in Appeal No. 7-72",
+      "source": {
+        "title": "Stockbridge Munsee Community v. United States, Docket 300, Findings of Fact (December 15, 1971), 26 Ind. Cl. Comm. 491",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1947",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "compensation": "The Commission's award in Docket 300 was $4,203.09 across four treaties and one Act, of which $390.00 was for this treaty (Finding 17). It refused to let the United States offset the $5,775 paid under Article 9 before the annuity was given up in 1856. The Court of Claims affirmed on January 29, 1973, and the final award was entered May 30, 1973.",
+  "today": "By Article 1 of the treaty of February 5, 1856 the Stockbridge and Munsee gave up the Article 9 investment and the $20,000 owed under the supplemental article in exchange for new terms, and the tribe's timeline names that 1856 treaty as the one that set up its present reservation in Shawano County, Wisconsin.",
+  "nationVoice": [
+    {
+      "nation": "Stockbridge-Munsee Community, Band of Mohican Indians",
+      "summary": "The tribe's history timeline passes from the 1839 removal to the 1856 treaty that secured its present reservation at Red Springs and Bartelme; it does not describe the 1848 treaty.",
+      "url": "https://mohican-nsn.gov/tribal-history-timeline/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Stockbridge Tribe, 1848 (Kappler, vol. 2, p. 574)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-stockbridge-tribe-1848-0574",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Stockbridge Munsee Community v. United States, Docket 300, Findings of Fact (December 15, 1971), 26 Ind. Cl. Comm. 491",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1947",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Stockbridge Munsee Community v. United States, Docket 300, Opinion (December 15, 1971), 26 Ind. Cl. Comm. 491",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2106",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Stockbridge Munsee Community v. United States, Docket 300, Final Award (May 30, 1973), 30 Ind. Cl. Comm. 372",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1453",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Tribal History Timeline",
+      "url": "https://mohican-nsn.gov/tribal-history-timeline/",
+      "publisher": "Stockbridge-Munsee Community, Band of Mohican Indians"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 780",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/780/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The Commission was not asked whether the price for the Lake Winnebago township was unconscionable, and no such ruling was found.",
+    "Article 1 renounces rights under the Act of March 3, 1843 (the Stockbridge citizenship act); the dispute behind it was not researched.",
+    "Kappler gives the ratification date (March 1, 1849) but no proclamation date; none is recorded here."
+  ],
+  "plain": {
+    "promised": "The Stockbridge sold their Lake Winnebago township for payments to settle and move, the value of their improvements, removal costs, a year of food and a yearly annuity on $16,500.",
+    "happened": "The Indian Claims Commission found in 1971 that the United States left $390 of this treaty's payments unpaid, and that the money for removal was never spent under it.",
+    "today": "The tribe was awarded $390 for this treaty in a $4,203.09 award, affirmed in 1973. The 1856 treaty replaced these terms and set up the present reservation."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

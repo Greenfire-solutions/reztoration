@@ -1,0 +1,88 @@
+{
+  "id": "kappler-741",
+  "name": "Treaty with the Chippewa of Saginaw, Swan Creek and Black River, 1855 (Treaty of Detroit)",
+  "aka": [
+    "Treaty of Detroit, August 2, 1855 (Saginaw Chippewa)"
+  ],
+  "signed": "1855-08-02",
+  "ratified": "1856-04-15",
+  "proclaimed": "1856-06-21",
+  "citation": "11 Stat. 633",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-of-saginaw-etc-1855-0733",
+  "nations": [
+    "Saginaw Chippewa Indian Tribe of Michigan (Saginaw, Swan Creek and Black River bands of Ojibwe)"
+  ],
+  "promises": [
+    "Article 1: unsold public lands in six Isabella County townships and in townships 17 and 18 north, ranges 3 to 5 east, withdrawn from sale for the bands, with 80 acres to each head of family and 40 acres to each single adult or orphan, and an exclusive right to enter more land there for five years.",
+    "Article 2: $220,000, including $30,000 for education, $40,000 in tools, stock and building materials, $137,600 in coin paid per capita in twelve yearly installments, and $12,400 for a blacksmith shop for ten years.",
+    "Article 2: a grist and saw mill built in Isabella County (up to $8,000) and $4,000 for a saw mill, plus up to $20,000 to pay the bands' just debts, with no annuity money ever used for their debts.",
+    "Article 3: in return the bands ceded all their former Michigan reservations, released the United States from paying for those lands already sold, and surrendered all permanent annuities under earlier treaties."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "nation-statement",
+      "date": "2026-11-08",
+      "what": "The Saginaw Chippewa Indian Tribe states that after the 1855 and 1864 treaties set up the Isabella Reservation, annuity payments were delayed and many people died of hunger and sickness, and that lumbermen and dealings between Indian agents and timber barons stripped allottees of their land, so that only a handful of more than 1,500 allotments were still owned by tribal members by 1934.",
+      "whoFoundIt": "Saginaw Chippewa Indian Tribe of Michigan, Ziibiwing Center of Anishinabe Culture and Lifeways, History",
+      "source": {
+        "title": "History",
+        "url": "https://www.scit-nsn.gov/ziibiwing/aboutus/history.htm",
+        "publisher": "Ziibiwing Center, Saginaw Chippewa Indian Tribe of Michigan"
+      }
+    }
+  ],
+  "today": "The Indian Claims Commission ruled against the tribe on its claims tied to this treaty: in Docket 13-I (1953) it held the Article 3 release barred the claim for unsold lands ceded in trust in 1837, finding the consideration the bands received under the 1855 treaty exceeded the value they claimed for that land, and in Docket 13-H (1953 and 1954) it held the treaty's 'unsold public lands' did not include swamp lands already selected by the state and dismissed the remaining claim for lack of proof. The tribe's history page records that in 2010 a federal court upheld the Isabella Reservation's historical boundaries.",
+  "nationVoice": [
+    {
+      "nation": "Saginaw Chippewa Indian Tribe of Michigan",
+      "summary": "The tribe's history says its 1855 and 1864 treaties set up the Isabella Reservation as a permanent home, but delayed annuities, lumber swindles and agents' deals with timber barons left almost none of the allotments in tribal hands by 1934.",
+      "url": "https://www.scit-nsn.gov/ziibiwing/aboutus/history.htm"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Chippewa of Saginaw, etc., 1855 (Kappler, vol. 2, p. 733)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-of-saginaw-etc-1855-0733",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "History",
+      "url": "https://www.scit-nsn.gov/ziibiwing/aboutus/history.htm",
+      "publisher": "Ziibiwing Center, Saginaw Chippewa Indian Tribe of Michigan"
+    },
+    {
+      "title": "Saginaw Chippewa Indian Tribe of Michigan et al. v. United States, Docket 13-I, Opinion (May 14, 1953), 2 Ind. Cl. Comm. 416",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/377",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Saginaw Chippewa Indian Tribe of Michigan et al. v. United States, Docket 13-H, Opinion of the Commission (May 14, 1953), 2 Ind. Cl. Comm. 390",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/524",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Saginaw Chippewa Indian Tribe of Michigan et al. v. United States, Docket 13-H, Opinion of the Commission (April 22, 1954), 3 Ind. Cl. Comm. 4",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/537",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 812",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/812/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "This record is the August 2, 1855 Detroit treaty with the Saginaw, Swan Creek and Black River Chippewa (11 Stat. 633, area 396), not the July 31, 1855 Detroit treaty with the Ottawa and Chippewa (11 Stat. 621).",
+    "Whether the annuity installments of Article 2 were paid late, and by how much, was not traced in Indian Office records; a government record of the delay would move this file toward broken.",
+    "The 2010 federal court ruling on the reservation boundaries (Saginaw Chippewa Indian Tribe v. Granholm, E.D. Mich.) was not opened; the tribe's page is the only source used for it. Read the judgment before recording its terms.",
+    "Congressional or Interior investigations of the Isabella allotment and timber frauds in the 1860s-1870s were not searched."
+  ],
+  "plain": {
+    "promised": "In return for giving up their old Michigan reserves and annuities, the bands got land in Isabella County, family allotments, $220,000 in money and goods paid in installments, mills and a blacksmith.",
+    "happened": "No court or claims commission found a breach; the Claims Commission ruled against the tribe in 1953 and 1954. The tribe says annuities came late, people starved, and timber dealers and agents took almost all allotments.",
+    "today": "The tribe says a federal court upheld the Isabella Reservation's historical boundaries in 2010. No award for this treaty was found."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

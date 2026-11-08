@@ -1,0 +1,35 @@
+{
+  "id": "cession-1872-06-01-miami",
+  "name": "Act of June 1, 1872 for partition of the Meshingomesia reserve among the band",
+  "signed": "1872-06-01",
+  "citation": "Act of June 1, 1872, 17 Stat. 213",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/856/mode/2up",
+  "nations": [
+    "Miami (Myaamia), Meshingomesia's band in Indiana"
+  ],
+  "promises": [
+    "Congress provided that the tract reserved for Meshingomesia's band by the treaty of November 28, 1840 be partitioned among the members of the band (Royce schedule)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 856",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/856/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 857",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/857/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "A partition of a band reserve into individual holdings, not a cession to the United States; Royce maps it under area 256 (Indiana detail).",
+    "The ICC title search for \"miami\" lists 85 decisions (Dockets 67, 76, 124, 251, 253, 255, 256 and others); none located concerns the Meshingomesia partition, but not every decision was read.",
+    "The present-day nation in treaties.json is the Miami Tribe of Oklahoma; the Meshingomesia band's descendants are largely in Indiana (Miami Nation of Indians of Indiana), which is not federally recognised. Not settled who should be named."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

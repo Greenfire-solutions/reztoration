@@ -1,0 +1,15 @@
+{
+  "id": "cession-1879-02-07-uta-muncho-capote-wiminuehi-bands",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce: reservation set apart Feb. 7, 1879 in compliance with the 1878 agreement, 'See 609', restored Aug. 4, 1882",
+    "ICC Docket 328 final order (OSU id 2346, 1971-07-14): dismissed with prejudice as barred by res judicata per United States v. Southern Ute Tribe, 402 U.S. 159",
+    "no-breach-found is right under Jordan's executive-order rule: the 1882 restoration has no finding"
+  ],
+  "changes": [],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "Area 609 is mapped to both the 1878 agreement and this 1879 order."
+  ]
+}

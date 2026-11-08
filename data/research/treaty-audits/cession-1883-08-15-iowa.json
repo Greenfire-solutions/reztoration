@@ -1,0 +1,14 @@
+{
+  "id": "cession-1883-08-15-iowa",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce schedule (Internet Archive OCR of annualreportofbu218smit) row read for this date and area number. Area 649.",
+    "iowanation.org/about-us: original Oklahoma reservation established by executive order of August 15, 1883; Iowas who wished to stay north allowed to."
+  ],
+  "changes": [],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "presentDayTribes includes the Iowa Tribe of Kansas and Nebraska; the 1883 reserve was for the Iowa in Indian Territory (Iowa Tribe of Oklahoma)."
+  ]
+}

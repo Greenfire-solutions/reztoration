@@ -1,0 +1,17 @@
+{
+  "id": "cession-1876-04-10-pawnee",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Act of April 10, 1876, 19 Stat. 28 on govinfo (loads)",
+    "ICC Docket 10 additional findings (OSU id 404): finding 150 (1876 Act terms, appraisal), finding 151 (sales began July 15, 1878, then continued without competition), Claim V finding (4,800 acres worth $12,000, $6,000 paid, unconscionable) is the 1875 strip, a different event",
+    "ICC search for a Docket 10 claim on the 1876 sale found none"
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Whether proceeds were handled as the Act required was not traced (as the file says)"
+  ],
+  "treatiesJsonErrors": [
+    "Area 590 is mapped to both this record and kappler-772."
+  ]
+}

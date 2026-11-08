@@ -1,0 +1,22 @@
+{
+  "id": "cession-1889-11-12-chippewa-bois-forte-band",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce pp. 938-939: Bois Fort and Deer Creek Chippewa cede the Bois Forte and Deer Creek reservations and their rights in surplus Red Lake land, signed Nov. 12, 1889; map numbers 'See 483, 484'. Matches treaties.json cessions 483 and 484.",
+    "91 Ct. Cl. 97 (Apr. 1, 1940, static.case.law JSON and PDF): violation of sections 4 and 5 of the 1889 act and the agreements; 65,038.33 acres of pine land sold July 1 to Oct. 1, 1896 out of 115,342.78 acres examined; loss at least $340,061.66 plus $79,597.12 examination cost; offsets exceed recovery, petition dismissed. The opinion names no reservation; the findings pages (pp. 99-128) are blacked out in the CAP PDF.",
+    "S. Doc. 85, 55th Cong., 1st sess. (govinfo serial set 3562), OCR of pp. 1-8: the January 1897 Commissioner's letter (the same words the court quotes, 'totally unreliable and very much to the disadvantage of the Indians') and Inspector Wright's Dec. 31, 1896 report concern pine lands on the ceded Red Lake Reservation; Wright's field work was at Red Lake, Ts. 149-150, Rs. 33-35.",
+    "88 Ct. Cl. 1 (1938) and 90 Ct. Cl. 140 (1940) opened: both concern the 1889 act generally and do not mention Bois Forte, Deer Creek or Nett Lake; 90 Ct. Cl. 140 ends 'The petition must be dismissed'.",
+    "Conclusion on the watch item: no evidence places the 1896 pine sales on Bois Forte or Deer Creek land (Royce 483, 484); the evidence points to Red Lake ceded land. No upgrade."
+  ],
+  "changes": [
+    "openQuestions: first entry expanded (the court's finding of violation, the 1896 sale dates, the dismissal for offsets, the blacked-out findings).",
+    "openQuestions: added the Red Lake finding from S. Doc. 85 and why the status stays no-breach-found.",
+    "sources: added S. Doc. 85, 55th Cong., 1st sess."
+  ],
+  "unverifiable": [
+    "The court's findings of fact listing the tracts sold in 1896 are redacted in the CAP scan; a printed Court of Claims Reports volume or the Duluth land office sale lists (NAA/SNAC) would settle which reservations the 65,038.33 acres were on.",
+    "88 Ct. Cl. 1 disposition read only from context; the Supreme Court affirmance was not opened."
+  ],
+  "treatiesJsonErrors": []
+}

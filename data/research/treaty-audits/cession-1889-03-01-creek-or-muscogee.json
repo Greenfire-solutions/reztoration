@@ -1,0 +1,20 @@
+{
+  "id": "cession-1889-03-01-creek-or-muscogee",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce p. 930: Act of Mar. 1, 1889, 25 Stat. 757, ratifies the Creek agreement of Jan. 19, 1889 ceding the half of their domain W. of the 1866 division line and all claims to other lands except their domain E. of it. Matches name, citation, signing date and promise.",
+    "ICC Docket 167 opinion (12 Ind. Cl. Comm. 54, Feb. 28, 1963, OSU id 708): consideration $2,280,857.10; 1,198.99 acres east of the line, surveyed into the 1881 Seminole tract, held by the Court of Claims (93 Ct. Cl. 561) to have passed under the 1889 agreement; the Commission quotes its earlier finding that $2,280,857.10 was paid.",
+    "Docket 167 final award (May 26, 1971, OSU id 1168): $50,000 on a stipulation for entry of final judgment. Correctly kept out of breaches (compromise, and land outside the mapped area 698).",
+    "No breach claimed; no-breach-found supported."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [
+    "The Muscogee (Creek) Nation's own account was not searched again."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes lists the Poarch Band of Creeks, Alabama; no source ties the Poarch Band to the 1889 Indian Territory agreement (already in the file's openQuestions)."
+  ]
+}

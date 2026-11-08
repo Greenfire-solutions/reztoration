@@ -1,0 +1,16 @@
+{
+  "id": "kappler-311",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "OSU Kappler text: agreement with the Delaware band on the Sandusky, Aug. 3, 1829 at Little Sandusky, 7 Stat. 326, proclaimed Jan. 2, 1830; Article 1 cedes the three mile square tract reserved by the 1817 Maumee treaty and the band will join their nation west of the Mississippi; Article 2 $3,000, $2,000 in hand and $1,000 in horses, clothing, provisions and other articles. Matches.",
+    "ICC Docket 13-F opinion (May 23, 1973, OSU id 2293) concerns the 1817 treaty areas; consistent with the file's today."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "presentDayTribes names only the Delaware Nation; the successor (Delaware Tribe of Indians or Delaware Nation) is unsettled (already in openQuestions)."
+  ]
+}

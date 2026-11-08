@@ -1,0 +1,20 @@
+{
+  "id": "cession-1889-02-23-bannock-coeur-d-alene-shoshoni",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce schedule (Internet Archive OCR of annualreportofbu218smit) row read for this date and area number. p. 928: confirms agreement to cede for the Lemhi; note: inoperative because the Lemhi refused to move; area 524.",
+    "25 Stat. 687, ch. 203 opened on govinfo: ratifies the agreement of May 14, 1880; Fort Hall cession bounded by T. 9 S., Port Neuf river, Marsh creek, T. 10 S.; $6,000 a year for 20 years to Fort Hall, $4,000 to Lemhi; allotments.",
+    "1968 Fort Hall Findings of Fact on Settlement (id 2557, 19 Ind. Cl. Comm. 3): Docket 326-F claimed additional compensation for an 1889 cession of about 297,000 acres paid $120,000.00; settled with 326-D, E, G, H, 366, 367 for a single judgment of $15,700,000.00, no admission."
+  ],
+  "changes": [
+    "Status rose from no-breach-found to contested, supported by a litigation breach: the Docket 326-F claim for this Act's 1889 cession, settled in 1968 with no finding.",
+    "Added the statute as textUrl and source, the agreement's terms as promises, the litigation breach, compensation, rewritten today, plain lines, and open questions. Removed the wrong line that the 1968 settlement was not shown to concern this act."
+  ],
+  "unverifiable": [
+    "Whether the Fort Hall cession took effect despite Royce's 'inoperative' note was not settled; the $120,000 equals the Act's annuity total by arithmetic only."
+  ],
+  "treatiesJsonErrors": [
+    "Royce link points to p. 926; this row is on p. 928. scheduleTribes adds Coeur d'Alene; presentDayTribes duplicated; executiveOrder link for an Act."
+  ]
+}

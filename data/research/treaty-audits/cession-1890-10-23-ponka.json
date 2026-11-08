@@ -1,0 +1,18 @@
+{
+  "id": "cession-1890-10-23-ponka",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce pp. 938-939: Oct. 23, 1890 executive order reserving from entry the agency and school tract (S. half SE. quarter sec. 26 and S. half SW. quarter sec. 25, T. 32 N., R. 7 W.); 'Too small to be entered on the map (forms part of 472)'.",
+    "ICC Docket 323, 17 Ind. Cl. Comm. 162 (July 26, 1966, OSU id 1044): 1888 and 1889 acts confirmed reservation title in the Poncas of Nebraska and provided for allotment, then an executive order extinguishing title to unallotted land; the 27,235.90 allotted acres were partial delayed compensation for the uncompensated loss through the 1868 Sioux treaty. The act is dated April 30, 1888 (25 Stat. 94), not April 13.",
+    "Final Award on Remand, 28 Ind. Cl. Comm. 335 (Aug. 23, 1972, OSU id 1572): 96,000 acres valued as of March 16, 1877 at $211,200; principal $174,327.06; $1,004,589.49 with interest to June 30, 1972. Matches the file.",
+    "no-breach-found for the 1890 order itself is supported; the 1877 taking belongs to the area 472 treaty record, as the file says."
+  ],
+  "changes": [
+    "promises[0]: 'April 13, 1888' corrected to 'April 30, 1888' per 17 Ind. Cl. Comm. 162; line added to openQuestions."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "royce link points to p. 818 (the original area 472 entry); the Oct. 23, 1890 order is on Royce p. 938."
+  ]
+}

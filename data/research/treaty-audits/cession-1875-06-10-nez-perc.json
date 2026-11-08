@@ -1,0 +1,18 @@
+{
+  "id": "cession-1875-06-10-nez-perc",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "ICC Docket 186 opinion (OSU id 2111, 1971-03-26): 1873 order created a compensable interest; the June 10, 1875 withdrawal gave rise to a clause (1) claim and was a clause (5) breach of fair and honorable dealings; Kuykendall and Vance concurred in part and dissented in part",
+    "ICC Docket 186 compromise (OSU id 1247, 1974-10-31): $725,000.00 net final judgment",
+    "Executive order text at lib.uidaho.edu loads (200)"
+  ],
+  "changes": [
+    "removed the executive-action breach (the revoking order itself), which under Jordan's rule is not a breach on its own; kept as a fact in promises",
+    "added the Commission's clause (5) holding; 'two commissioners dissented in part' corrected to 'concurred in part and dissented in part'"
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "presentDayTribes list the Nez Perce Tribe of Idaho twice under two spellings and omit the Confederated Tribes of the Colville Reservation, which brought the Joseph Band claim."
+  ]
+}

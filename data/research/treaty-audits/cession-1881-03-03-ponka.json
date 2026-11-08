@@ -1,0 +1,18 @@
+{
+  "id": "cession-1881-03-03-ponka",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce schedule (Internet Archive OCR of annualreportofbu218smit) row read for this date and area number. Area 628, the 1881 appropriation.",
+    "Docket 323 Opinion Part 1 (id 1044): quotes 21 Stat. 414, 422, $165,000 to indemnify the Ponca, 101,894 acres purchase; conclusion at p. 235 gives 101,894.31 and 27,235.90 acres as partial indemnification for the Dakota reservation lost under the 1868 Sioux treaty; liability left for further proceedings.",
+    "No breach of this appropriation itself; no-breach-found is right."
+  ],
+  "changes": [
+    "today: the 27,235.90 Nebraska acres were confirmed under the Acts of April 30, 1888 and March 2, 1889, not under this Act.",
+    "Docket 323 citation corrected to 17 Ind. Cl. Comm. 162, 206."
+  ],
+  "unverifiable": [
+    "21 Stat. 422 page itself not opened (as the file says)."
+  ],
+  "treatiesJsonErrors": []
+}

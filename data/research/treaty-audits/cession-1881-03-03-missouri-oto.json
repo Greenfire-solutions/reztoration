@@ -1,0 +1,14 @@
+{
+  "id": "cession-1881-03-03-missouri-oto",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "21 Stat. 380, ch. 128 opened on govinfo: consent in open council (sec. 1), three appraisers, one chosen by the Indians (sec. 2)",
+    "ICC Docket 11 (OSU ids 0 and 350): sixth cause of action, sold at an average of $12.22 an acre, twice appraised value; dismissed",
+    "Court of Claims, Otoe and Missouria Tribe v. United States, 131 Ct. Cl. 593 (1955-05-03), opened: affirmed the fifth and sixth causes of action"
+  ],
+  "changes": [
+    "today now records the 1955 Court of Claims affirmance; open question on the appeal resolved; source added"
+  ],
+  "unverifiable": []
+}

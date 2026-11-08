@@ -17,7 +17,7 @@
   ],
   "status": "no-breach-found",
   "breaches": [],
-  "today": "The Indian Claims Commission ruled against the tribe on this sale in 1953: the lands sold for an average of $12.22 per acre, twice their appraised value, and the Commission found neither an unconscionable consideration nor unfair and dishonorable dealings, and that the tribe's consent was fairly secured (Docket 11, 2 Ind. Cl. Comm. 355).",
+  "today": "The Indian Claims Commission ruled against the tribe on this sale in 1953: the lands sold for an average of $12.22 per acre, twice their appraised value, and the Commission found neither an unconscionable consideration nor unfair and dishonorable dealings, and that the tribe's consent was fairly secured (Docket 11, sixth cause of action). The Court of Claims affirmed those determinations on May 3, 1955 (Otoe and Missouria Tribe v. United States, 131 Ct. Cl. 593).",
   "nationVoice": [],
   "sources": [
     {
@@ -39,10 +39,15 @@
       "title": "Otoe and Missouria Tribe of Indians v. United States, Docket 11, Findings of Fact (March 31, 1953)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/350",
       "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Otoe and Missouria Tribe of Indians v. United States, 131 Ct. Cl. 593 (May 3, 1955)",
+      "url": "https://static.case.law/us-ct-cl/131/cases/0593-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
     }
   ],
   "openQuestions": [
-    "The 1953 ruling was appealed on other causes of action (Otoe and Missouria Tribe v. United States in the Court of Claims); whether the appeal touched this sixth cause of action was not checked.",
+    "Audit 2026-11-08: resolved. The Court of Claims (131 Ct. Cl. 593, opened) heard the Indians' appeal on the fifth and sixth causes of action, the sixth being this 1881 sale, and held the Commission's findings supported by substantial evidence and affirmed them. The court cites the Commission's decision as 2 Ind. Cl. Com. 335; the collection's id for the opinion reads p355.",
     "Royce area 626 (the new Indian Territory reserve) is grouped with this Act; how that reserve was later allotted and opened is a separate event.",
     "The Otoe-Missouria Tribe's own account of the 1881 sale was not located."
   ],

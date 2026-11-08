@@ -1,0 +1,83 @@
+{
+  "id": "cession-1871-02-06-menomini",
+  "name": "Act of February 6, 1871 for the sale of the Stockbridge and Munsee reservation in Wisconsin",
+  "aka": [
+    "Stockbridge and Munsee Act of 1871"
+  ],
+  "signed": "1871-02-06",
+  "citation": "16 Stat. 404",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/854/mode/2up",
+  "nations": [
+    "Stockbridge-Munsee Community (Mohican)"
+  ],
+  "promises": [
+    "The Stockbridge and Munsee reserve of two townships, bought from the Menominee by the treaty of February 11, 1856, was their home (Royce schedule).",
+    "The Act provided that all but 18 sections of the reserve be appraised and sold, and that 18 sections be kept for their future home (Royce schedule).",
+    "The proceeds were divided between a \"citizen\" party, paid per capita, and an \"Indian\" party, whose share was held in the Treasury as the Stockbridge Consolidated Fund (Court of Claims, 1926)."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "nation-statement",
+      "date": "1871",
+      "what": "The Stockbridge-Munsee Community's own timeline records 1871 as the year lumber barons claimed part of the reservation.",
+      "whoFoundIt": "Stockbridge-Munsee Community, tribal history timeline",
+      "source": {
+        "title": "Tribal History Timeline",
+        "url": "https://mohican-nsn.gov/tribal-history-timeline/",
+        "publisher": "Stockbridge-Munsee Community"
+      },
+      "quote": "Lumber barons claim part of Reservation."
+    }
+  ],
+  "landTaken": "All of the two-township reserve except 18 sections was to be sold (Royce schedule).",
+  "compensation": "The sale proceeds were divided under the Act between the citizen and Indian parties. In 1926 the Court of Claims held that the 1871 apportionment was not changed by the Act of March 3, 1893 and denied the tribe the unspent balance of a 1916 appropriation (Stockbridge Tribe v. United States, 61 Ct. Cl. 472).",
+  "today": "In Wisconsin v. Stockbridge-Munsee Community, 554 F.3d 657 (7th Cir. 2009), the court held that the 1871 Act diminished the reservation and the 1906 Act ended what remained; this went against the tribe. The court noted the present, reestablished reservation is only part of the 1856 reservation.",
+  "nationVoice": [
+    {
+      "nation": "Stockbridge-Munsee Community",
+      "summary": "The Community's timeline marks 1871 as the year lumber barons claimed part of its reservation, which had been set up by the treaty of 1856.",
+      "url": "https://mohican-nsn.gov/tribal-history-timeline/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 854",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/854/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 855",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/855/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Stockbridge Tribe of Indians v. United States, 61 Ct. Cl. 472 (1926)",
+      "url": "https://static.case.law/us-ct-cl/61/cases/0472-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Wisconsin v. Stockbridge-Munsee Community, 554 F.3d 657 (7th Cir. 2009)",
+      "url": "https://hallapproved.com/us/cases/ca7/2009/1276582",
+      "publisher": "Hall Approved (copy of the Seventh Circuit opinion)"
+    },
+    {
+      "title": "Tribal History Timeline",
+      "url": "https://mohican-nsn.gov/tribal-history-timeline/",
+      "publisher": "Stockbridge-Munsee Community"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json error: this record names the Menomini (scheduleTribes) and the Menominee Indian Tribe of Wisconsin (presentDayTribes). The 1871 Act concerns the Stockbridge and Munsee; Royce numbers their reserve 403 only because it was a secondary Menominee cession of 1856. presentDayTribes should be the Stockbridge-Munsee Community.",
+    "No Indian Claims Commission or court finding that the 1871 sale was unconscionable or made without consent was found. ICC Dockets 300 and 300-A concern the 1818-1847 New York sales and an accounting under earlier treaties, not this Act.",
+    "Secondary accounts say most of the land went to timber companies and that unsold land was to be bought by the government below market value; these were not checked against the statute text (16 Stat. 404 was not opened).",
+    "The Act of March 3, 1893 recites that many members had been excluded from tribal funds and the reservation by the 1871 rolls (as quoted by the Court of Claims); whether that counts as a government admission about this Act was left open."
+  ],
+  "plain": {
+    "promised": "The Stockbridge and Munsee had a two-township reservation in Wisconsin from 1856. The 1871 Act sold all but 18 sections and kept those as their home.",
+    "happened": "The Stockbridge-Munsee Community says lumber barons claimed part of the reservation in 1871. No court or commission finding of a breach was found.",
+    "today": "In 2009 a federal appeals court held the 1871 Act shrank the reservation, ruling against the tribe. A 1926 Court of Claims suit over the sale money also failed."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cession-1888-09-01-bannock-coeur-d-alene-shoshoni",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce schedule (Internet Archive OCR of annualreportofbu218smit) row read for this date and area number. Area 524: 1,840 acres in T. 6 S., R. 34 E., less railway land.",
+    "25 Stat. 452, ch. 936 opened: 1,840 acres, appraisal and auction, proceeds at five per centum, majority of adult males per article eleven, Article III, Utah and Northern ran through since about 1878 without compensation.",
+    "1968 Fort Hall settlement (id 2557): Dockets cover the 1889 (326-F) and 1898 (326-E) cessions, not the 1887/1888 townsite."
+  ],
+  "changes": [],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "scheduleTribes adds Coeur d'Alene, which Royce and the Act do not name; presentDayTribes lists the Shoshone-Bannock Tribes twice; the only document link is an executive-order PDF for what is an Act ratifying an agreement; statute list is empty."
+  ]
+}

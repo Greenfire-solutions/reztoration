@@ -1,0 +1,47 @@
+{
+  "id": "cession-1867-11-16-santee-sioux",
+  "name": "Executive order of November 1867 changing the Niobrara (Santee Sioux) reservation",
+  "aka": [
+    "Expanding Sioux Indian Reservation in Nebraska (1867)"
+  ],
+  "signed": "1867-11-15",
+  "citation": "Executive Order of November 15, 1867 (Royce dates it November 16, 1867)",
+  "textUrl": "https://www.presidency.ucsb.edu/documents/executive-order-expanding-sioux-indian-reservation-nebraska",
+  "nations": [
+    "Santee Sioux Nation (Isanyathi Dakota)"
+  ],
+  "promises": [
+    "Township 32 north, range 4 west, and parts of fractional township 33 north, range 4 west, adjoining the reservation on the Niobrara and Missouri rivers, were withdrawn from market and set apart for the use of the Santee Sioux.",
+    "Fractional township 32 north, range 6 west, until then part of the reservation, was restored to market."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce shows fractional township 32 north, range 6 west (area 514) as relinquished by this order; it had been withdrawn for the Santee by the order of February 27, 1866.",
+  "today": "Royce lists further changes to the Niobrara reservation by executive orders of August 31, 1869 and later.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Andrew Johnson, Executive Order Expanding Sioux Indian Reservation in Nebraska, November 15, 1867",
+      "url": "https://www.presidency.ucsb.edu/documents/executive-order-expanding-sioux-indian-reservation-nebraska",
+      "publisher": "The American Presidency Project, UC Santa Barbara"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 838",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/838/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 846",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/846/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The American Presidency Project dates the Secretary's letter and the President's approval November 15, 1867; Royce and treaties.json give November 16, 1867.",
+    "Not a treaty: an executive order adjusting a reservation set up by executive order, adding land and returning one fractional township. Under the 2026-11-08 rule this is not by itself a breach.",
+    "The ICC title search for \"santee\" returned only the 1974 Sioux Nation (Black Hills) dockets; no Commission or court finding about this tract was located.",
+    "The Santee Sioux Nation's own history of the Niobrara reservation was not found online."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "cession-1888-07-04-winnebago",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce schedule (Internet Archive OCR of annualreportofbu218smit) row read for this date and area number. Area 470: authorizes sale of lots in secs. 33 and 34, T. 27 N., R. 6 E.",
+    "25 Stat. 240, ch. 519 opened: sale at public sale for cash to highest bidder, proceeds credited pro rata, allottee consent, no sale without the tribe's assent."
+  ],
+  "changes": [
+    "Removed the 'too small to show on the map' claim from today: the OCR does not tie that remark to this row."
+  ],
+  "unverifiable": [
+    "Whether the tribe assented and what the land sold for were not found."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes includes the Ho-Chunk Nation of Wisconsin; the Act concerned only the Winnebago Tribe of Nebraska."
+  ]
+}

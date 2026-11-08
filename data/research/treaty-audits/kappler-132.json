@@ -1,0 +1,16 @@
+{
+  "id": "kappler-132",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "OSU Kappler text: Treaty with the Cherokee, Mar. 22, 1816, 7 Stat. 138, ratified Apr. 8, 1816; Article 2 South Carolina to pay $5,000 within ninety days after ratification, provided the nation sanctions it in council and South Carolina approves. Matches.",
+    "Royce area 76 (treaties.json) is the South Carolina cession; the same-day boundary treaty (7 Stat. 139) is correctly distinguished."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [
+    "No ICC or Court of Claims search was re-run for this cession."
+  ],
+  "treatiesJsonErrors": []
+}

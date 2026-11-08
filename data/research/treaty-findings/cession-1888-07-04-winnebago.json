@@ -15,7 +15,7 @@
   ],
   "status": "no-breach-found",
   "breaches": [],
-  "today": "Royce says the tract was too small to show on his map. No finding about this sale was located.",
+  "today": "No finding about this sale was located.",
   "nationVoice": [],
   "sources": [
     {
@@ -32,7 +32,8 @@
   "openQuestions": [
     "Whether the tribe gave its assent and what the land sold for were not found.",
     "treaties.json also lists the Ho-Chunk Nation of Wisconsin; the Act concerned the Nebraska reservation of the Winnebago Tribe of Nebraska.",
-    "The Commission's Winnebago Docket 243 decisions read for this round do not mention 1888."
+    "The Commission's Winnebago Docket 243 decisions read for this round do not mention 1888.",
+    "Audit 2026-11-08: the line 'Royce says the tract was too small to show on his map' was removed from today; in the OCR of Royce p. 927 that remark cannot be tied to this row rather than a neighbouring 1888 row, and Royce gives area 470 (the existing reservation) for it. The Act text (25 Stat. 240) was re-read and the three promises match section 1 and 2."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

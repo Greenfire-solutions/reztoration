@@ -1,0 +1,15 @@
+{
+  "id": "cession-1882-08-04-uta-muncho-capote-wiminuehi-bands",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce schedule (Internet Archive OCR of annualreportofbu218smit) row read for this date and area number. Area 609: the Feb 7, 1879 order made 'in compliance with agreement of Nov. 9, 1878'; note that the agreement was never ratified, superseded Mar. 6, 1880, reserve restored Aug. 4, 1882.",
+    "Docket 328 Findings (id 1204) and Opinion (id 2452), May 6, 1966: 21 Stat. 199, 22 Stat. 178, strip 110 by 15 miles, Royce area 617.",
+    "No finding about this order or the 1878 agreement's reserve; EO revocation of an EO reserve stays no-breach-found under Jordan's rule."
+  ],
+  "changes": [
+    "Added the agreement date (Nov. 9, 1878) from Royce; first open question narrowed."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": []
+}

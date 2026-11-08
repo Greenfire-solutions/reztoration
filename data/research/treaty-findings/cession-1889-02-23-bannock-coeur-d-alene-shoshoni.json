@@ -1,19 +1,38 @@
 {
   "id": "cession-1889-02-23-bannock-coeur-d-alene-shoshoni",
-  "name": "Act of February 23, 1889 confirming the Fort Hall agreement for the use of the Lemhi Indians",
+  "name": "Act of February 23, 1889 ratifying the Fort Hall and Lemhi agreement of May 14, 1880",
   "signed": "1889-02-23",
-  "citation": "25 Stat. 687",
-  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/928/mode/2up",
+  "citation": "25 Stat. 687, ch. 203",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg687.pdf",
   "nations": [
     "Shoshone-Bannock Tribes of the Fort Hall Reservation"
   ],
   "promises": [
-    "Royce records that the act confirmed an agreement by the Shoshoni and Bannock of the Fort Hall Reservation to cede a described part of the reservation to the United States for the use of the Lemhi Indians."
+    "Royce records that the act confirmed an agreement by the Shoshoni and Bannock of the Fort Hall Reservation to cede a described part of the reservation to the United States for the use of the Lemhi Indians.",
+    "In return for the cessions the United States agreed to pay the Fort Hall Indians six thousand dollars a year for twenty years and the Lemhi Indians four thousand dollars a year for twenty years, on top of existing treaty sums (article third).",
+    "Remaining Fort Hall lands were to be allotted in severalty, with patents inalienable and untaxed for twenty-five years (articles fourth and fifth)."
   ],
-  "status": "no-breach-found",
-  "breaches": [],
-  "today": "Royce records that the act was inoperative and never carried into effect because the Lemhi Indians refused to leave their reservation. The Shoshone-Bannock and Lemhi claims before the Indian Claims Commission (Dockets 326-D to 326-I and others) ended in compromise settlements in 1968 and 1971 and were not shown to concern this act.",
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "litigation",
+      "date": "1968-02-13",
+      "what": "In Docket 326-F the Shoshone-Bannock Tribes claimed more payment for an 1889 cession of about 297,000 acres of the Fort Hall Reservation for which, they alleged, an unconscionable $120,000.00 was paid. The Commission made no finding; the claim was settled by compromise with six other dockets.",
+      "whoFoundIt": "Indian Claims Commission, Shoshone-Bannock Tribes et al. v. United States, Dockets 326-D to 326-H, 366 and 367, Findings of Fact on Settlement, 19 Ind. Cl. Comm. 3 (February 13, 1968)",
+      "source": {
+        "title": "Shoshone-Bannock Tribes et al. v. United States, Dockets 326-D to 326-H, 366, 367, Findings of Fact on Settlement, 19 Ind. Cl. Comm. 3 (February 13, 1968)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2557",
+        "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+      }
+    }
+  ],
+  "today": "Royce records that the act was inoperative and never carried into effect because the Lemhi Indians refused to leave their reservation. The Commission's 1968 settlement nonetheless describes an 1889 cession of about 297,000 acres of the Fort Hall Reservation, and settled the tribes' claim for more payment for it. The separate Lemhi land claim (Docket 326-I) was settled in 1971.",
   "sources": [
+    {
+      "title": "Act of February 23, 1889, ch. 203, 25 Stat. 687",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg687.pdf",
+      "publisher": "US Government Publishing Office (Statutes at Large)"
+    },
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 928",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/928/mode/2up",
@@ -28,12 +47,28 @@
       "title": "Lemhi Tribe v. United States, Docket 326-I, Opinion on compromise settlement (24 Ind. Cl. Comm. 482, March 8, 1971)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1152",
       "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Shoshone-Bannock Tribes et al. v. United States, Dockets 326-D to 326-H, 366, 367, Findings of Fact on Settlement, 19 Ind. Cl. Comm. 3 (February 13, 1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2557",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
     }
   ],
   "openQuestions": [
     "treaties.json lists the schedule tribes as \"Bannock; Coeur d'Alene; Shoshoni\". Royce's row for February 23, 1889 names only the \"Shoshoni and Bannock of Fort Hall reservation\"; Coeur d'Alene appears to come from another row.",
-    "The statute text was not opened; the record rests on Royce's summary and note."
+    "Royce calls the act inoperative, while the Commission's 1968 findings describe an 1889 cession of about 297,000 acres paid $120,000.00 (which equals the Act's six thousand dollars a year for twenty years, a computed match, not a statement in either source). Whether the Fort Hall cession took effect even though the Lemhi removal did not was not settled.",
+    "Audit 2026-11-08: the statute (25 Stat. 687, ch. 203) was opened and the agreement's terms added; the Docket 326-F claim for the 1889 cession, settled in 1968, was added as a litigation breach, so the status rises from 'no breach found yet' to 'contested'. The earlier line that the settlements 'were not shown to concern this act' was wrong. The statute text replaced the earlier open question that it had not been opened.",
+    "The Shoshone-Bannock Tribes' own account of the 1889 cession was not located."
   ],
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "aka": [
+    "Act of February 23, 1889, ch. 203"
+  ],
+  "compensation": "The Act promised the Fort Hall Indians six thousand dollars a year for twenty years. The 1968 settlement entered a single final judgment of $15,700,000.00 for Dockets 326-D, 326-E, 326-F, 326-G, 326-H, 366 and 367 together; no share is given for the 1889 cession.",
+  "plain": {
+    "promised": "In 1889 Congress ratified an 1880 agreement: Fort Hall's Shoshone and Bannock would cede part of their reservation for the Lemhi people and receive six thousand dollars a year for twenty years.",
+    "happened": "The tribes later told the Indian Claims Commission the $120,000.00 paid for about 297,000 acres was unconscionable. The Commission never ruled; the claim was settled in 1968. Royce says the act never took effect.",
+    "today": "The 1968 settlement paid $15,700,000.00 for seven claims together, with no separate figure for this cession. Whether this cession took effect is still unclear in the record."
+  }
 }

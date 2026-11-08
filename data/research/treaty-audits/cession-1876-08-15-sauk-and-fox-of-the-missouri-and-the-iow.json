@@ -1,0 +1,15 @@
+{
+  "id": "cession-1876-08-15-sauk-and-fox-of-the-missouri-and-the-iow",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "19 Stat. 208, ch. 308, section 7 opened on govinfo: consent in open council, up to ten sections from the western portion, proceeds for the tribe's benefit",
+    "Royce: 'They consented Jan 8 1877 and the 10 sections in question were sold', 'See 428'",
+    "ICC Docket 195 (Sac and Fox of Missouri) concerns the 1854 cession, not this sale"
+  ],
+  "changes": [],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "presentDayTribes include the Sac & Fox Tribe of the Mississippi in Iowa, not a party to this Act."
+  ]
+}

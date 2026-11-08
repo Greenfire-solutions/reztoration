@@ -1,0 +1,36 @@
+{
+  "id": "kappler-347",
+  "name": "Treaty with the Wyandot, 1832 (Big Spring band)",
+  "aka": ["Treaty of McCutcheonsville, January 19, 1832"],
+  "signed": "1832-01-19",
+  "proclaimed": "1832-04-06",
+  "citation": "7 Stat. 364",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-wyandot-1832-0339",
+  "nations": ["Wyandot band at the Big Spring, Crawford County, Ohio (today the Wyandotte Nation)"],
+  "promises": [
+    "Article 2: the 16,000-acre Big Spring reserve surveyed and sold like public land, with $1.25 an acre paid to the band in silver for every acre sold, whatever the sale price.",
+    "Article 3: a fair valuation in money for the band's improvements, set by two appraisers.",
+    "Article 4: a half section kept for the chief Roe-nu-nas, including his improvements.",
+    "Article 5: the band free to remove to Canada, to their Huron River reserve in Michigan, or anywhere other Indians allowed them.",
+    "Article 7: a special sub-agent and protector appointed for the band while it stayed in Ohio."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "In Wyandotte Tribe Dockets 212 and 213 the Indian Claims Commission found on August 5, 1976 that the 16,000 acres (Royce Area 171) had a fair market value of $41,000 on April 6, 1832, and sent the case on to determine the consideration paid. It did not decide whether that consideration was unconscionable before the dockets were transferred to the Court of Claims in 1978. Public Law 98-602 (1984) provides for distributing judgment funds awarded the Wyandotte Tribe in Dockets 212 and 213 by the Claims Court; what that judgment found about this cession was not located.",
+  "nationVoice": [],
+  "sources": [
+    { "title": "Treaty with the Wyandot, 1832 (Kappler, vol. 2, p. 339)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-wyandot-1832-0339", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
+    { "title": "Zane et al. (Wyandotte Tribe) v. United States, Dockets 212 and 213, Opinion of the Commission (August 5, 1976), 38 Ind. Cl. Comm. 561", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2247", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Public Law 98-602, 98 Stat. 3149 (October 30, 1984), Title I, Wyandotte Tribe of Oklahoma", "url": "https://www.govinfo.gov/content/pkg/STATUTE-98/pdf/STATUTE-98-Pg3149.pdf", "publisher": "U.S. Government Publishing Office" },
+    { "title": "Our History", "url": "https://wyandotte-nation.org/culture/our-history/", "publisher": "Wyandotte Nation" },
+    { "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 734", "url": "https://archive.org/stream/annualreportofbu218smit#page/734/mode/2up", "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive" }
+  ],
+  "openQuestions": [
+    "The decisive record is the Claims Court judgment in Dockets 212 and 213 (after 1978): if it found the 1832 consideration unconscionable, this file becomes broken. It was not found on 2026-11-08.",
+    "The 1976 opinion cites this treaty once as 7 Stat. 362 and once as 7 Stat. 364; Kappler gives 7 Stat. 364, used here.",
+    "Whether the improvements under Article 3 were appraised and paid was not traced.",
+    "The Wyandotte Nation's history page describes the 1843 removal but not this band's 1832 treaty."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "cession-1879-04-19-nez-perc-moses-band",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce p. 894 April 19, 1879 entry (Columbia reservation)",
+    "ICC Dockets 177/181-A/181-B compromise (OSU id 2196, 1967): $3,500,000 net, no liability finding",
+    "ICC Dockets 161/222/224 compromise (OSU id 793, 1965) concerns aboriginal lands under the Yakima treaty"
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Order text not opened beyond Royce and the ICC summary"
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes name the Nez Perce Tribe of Idaho; Chief Moses' people are part of the Confederated Tribes of the Colville Reservation.",
+    "Area 659 (Sar-sarp-kin allotments, 1886) belongs with the May 1, 1886 record."
+  ]
+}

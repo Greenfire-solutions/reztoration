@@ -1,0 +1,19 @@
+{
+  "id": "kappler-93",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "OSU Kappler text: Convention with the Creeks, Nov. 14, 1805, 7 Stat. 96, proclaimed June 2, 1806; Article 1 Oconee-Ocmulgee cession with the 5 by 3 mile Ocmulgee fields tract reserved; Article 2 horse path to Mobile; Article 3 $12,000 a year for eight years and $11,000 for ten more. Matches.",
+    "ICC Docket 292 findings of fact (OSU id 64) quote Article 3 of this treaty and state the obligation as $96,000 plus $110,000; disbursements definitely allocated to this treaty $169,452.25; the defendant admits an obligation of $206,000. The opinion (OSU id 113) sets out this claim and the claims 'under the Treaties of 1805 and 1832'; the final order (OSU id 409, Feb. 18, 1959) dismisses all claims. So Docket 292 does cover this treaty, contrary to the file.",
+    "Inter-Tribal Council resolution kept as nationVoice; status no-breach-found unchanged (dismissal is a ruling against the nation)."
+  ],
+  "changes": [
+    "today rewritten to record the Docket 292 claim under Article 3 and its 1959 dismissal.",
+    "openQuestions[0] rewritten (the annuity question is answered as far as the record goes); audit line added.",
+    "sources: added Docket 292 findings of fact and opinion."
+  ],
+  "unverifiable": [
+    "The claimed shortfall figure in the opinion is OCR-garbled ($26,547.75 and $36,547.75 both appear); only the two figures stated cleanly in the findings ($206,000 and $169,452.25) were written into the file."
+  ],
+  "treatiesJsonErrors": []
+}

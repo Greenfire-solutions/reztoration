@@ -1,0 +1,25 @@
+{
+  "id": "cession-1873-11-04-quillehute-quinaielt",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Court of Claims, 102 Ct. Cl. 822 (decided 1945-02-05, Caselaw Access Project JSON opened): wrong location of the northwest point of Quinault Lake; correct point is farthest north on the western shore; lands between the lines taken; point B adopted 'from a consideration of expediency only', quoting the Commissioner's letter on white settlers",
+    "Court of Claims, 118 Ct. Cl. 220 (decided 1951-01-09, opened): 15,928.87 acres taken between 1892 and March 1, 1898; value $25,000; total with interest $87,988.68; offset $87,995.62; petition dismissed; Act of June 4, 1897 (30 Stat. 11, 34) withdrew the remainder",
+    "Executive order text on the American Presidency Project loads (200)",
+    "Royce schedule: Quinaielt entry dated Nov. 4, 1873",
+    "Both 1873-11-04 records now carry identical breaches, landTaken and compensation"
+  ],
+  "changes": [
+    "1945 breach reworded: the white-settler reason is the Commissioner's letter quoted by the court, not the court's own finding",
+    "landTaken now adds 'on various dates' and the Act of June 4, 1897 withdrawal, per the 1951 opinion",
+    "duplicate record's compensation brought into line with the main record ($25,000 value)",
+    "noted that the 1945 opinion calls the 1873 order the formal designation of the treaty reservation, so Jordan's executive-order rule does not apply"
+  ],
+  "unverifiable": [
+    "The reported 1988 return of land (Pub. L. 100-638) was not opened"
+  ],
+  "treatiesJsonErrors": [
+    "cession-1873-11-04-quil-leh-ute-qui-nai-elt and cession-1873-11-04-quillehute-quinaielt are one executive order (Nov. 4, 1873) split over areas 372 and 551; Royce gives the order area 551 with 'See 372'. Should be one record.",
+    "presentDayTribes omit the Hoh Indian Tribe, named in the order (the Queets are part of the Quinault Indian Nation)."
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cession-1877-04-16-shoshoni-western-bands",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Executive order page (American Presidency Project) loads",
+    "Royce under the 1863 Shoshoni treaties: reservations established under this authority include 'Duck Valley reserve, by Executive order of Apr. 16, 1877'",
+    "No ICC or court finding on the Duck Valley reservation found"
+  ],
+  "changes": [],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "presentDayTribes omit the Shoshone-Paiute Tribes of the Duck Valley Reservation."
+  ]
+}

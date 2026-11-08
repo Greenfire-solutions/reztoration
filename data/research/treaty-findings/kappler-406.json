@@ -1,0 +1,32 @@
+{
+  "id": "kappler-406",
+  "name": "Treaty with the Appalachicola Band, 1833 (relinquishment by Mulatto King and Tustenuggy Hajo)",
+  "aka": ["Relinquishment of the Yellow Hare reserve on the Apalachicola, June 18, 1833"],
+  "signed": "1833-06-18",
+  "proclaimed": "1834-04-12",
+  "citation": "7 Stat. 427",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-appalachicola-band-1833-0398",
+  "nations": ["Apalachicola band of Mulatto King (Vacapasacy) and Tustenuggy Hajo, head chief of Ematlochee's town"],
+  "promises": [
+    "Article 1: the chiefs gave up the reserve on the Apalachicola that included Yellow Hare's improvements, made for them by the additional article of the Treaty of Camp Moultrie (1823).",
+    "Article 2: within three years, a patent to Mulatto King and to Tustenuggy Hajo for a section and a half of land each, laid off to take in their fields and improvements; if they stayed after the Seminoles removed, federal protection would end and Florida law would apply.",
+    "Article 3: their share of the $5,000 Camp Moultrie annuity continued while the Seminoles stayed in Florida, and the balance advanced when the Seminoles removed under the Treaty of Payne's Landing.",
+    "Article 4: if they gave up the grants and joined the Seminoles in the West under Payne's Landing, $3,000 for the reservation relinquished."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "No court, Indian Claims Commission or government finding about this relinquishment was found. The Seminole land claim before the Indian Claims Commission (Docket 73) concerned the Seminole cessions in Florida; the parts of it opened did not deal with this band's reserve, grants or payments.",
+  "nationVoice": [],
+  "sources": [
+    { "title": "Treaty with the Appalachicola Band, 1833 (Kappler, vol. 2, p. 398; first relinquishment, 7 Stat. 427)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-appalachicola-band-1833-0398", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
+    { "title": "Seminole Indians of the State of Florida et al. v. United States, Docket 73, Opinion of the Commission (June 28, 1968), 19 Ind. Cl. Comm. 187", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2285", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 748", "url": "https://archive.org/stream/annualreportofbu218smit#page/748/mode/2up", "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive" }
+  ],
+  "openQuestions": [
+    "Kappler p. 398 prints two relinquishments of June 18, 1833. This file is the first, by Mulatto King and Tustenuggy Hajo (7 Stat. 427, Royce area 184). Econchatimico's (7 Stat. 428, area 185) is kappler-407.",
+    "Whether the two patents of a section and a half were ever issued, or the band instead took the $3,000 under Article 4 and went west, was not traced; General Land Office and removal records would settle it.",
+    "treaties.json names the Muscogee (Creek) Nation; the Oklahoma State University database also names it as successor in interest. No nation account of this treaty was found."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

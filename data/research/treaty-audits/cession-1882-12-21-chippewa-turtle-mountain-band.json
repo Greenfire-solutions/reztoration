@@ -1,0 +1,17 @@
+{
+  "id": "cession-1882-12-21-chippewa-turtle-mountain-band",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce schedule (Internet Archive OCR of annualreportofbu218smit) row read for this date and area number. Dec 21, 1882 order creating the reserve.",
+    "490 F.2d 935 (Ct. Cl. 1974), static.case.law: rejected the government's argument that the Dec 21, 1882 and Mar 29, 1884 orders extinguished title: no adequate showing that Congress authorized it or that the Chippewas accepted the reservation.",
+    "ICC Dockets 113 et al. Interlocutory Order Sept 20, 1978 (id 1913): 8,104,040 acres, $53,527,225.00 at Feb 15, 1905, $999,887.03 paid, unconscionable, $52,527,337.97 less offsets; McCumber Agreement Oct 22, 1892 and 33 Stat. (Apr 21, 1904) per the Court of Claims.",
+    "ndstudies.gov node 182: 20 townships (460,800 acres) in 1882.",
+    "Creation order: no-breach-found correct."
+  ],
+  "changes": [],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "Both Turtle Mountain ids carry areas 654 and 656; Royce gives 654 (restored) and 656 (amendment substituting T. 162 N., R. 70 W.) to the 1884 orders, not to the 1882 creation."
+  ]
+}

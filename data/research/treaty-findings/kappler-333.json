@@ -1,0 +1,36 @@
+{
+  "id": "kappler-333",
+  "name": "Treaty with the Seneca, 1831 (Senecas of Sandusky)",
+  "aka": ["Treaty of Washington with the Seneca of Sandusky River, February 28, 1831"],
+  "signed": "1831-02-28",
+  "proclaimed": "1831-03-24",
+  "citation": "7 Stat. 348",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-1831-0325",
+  "nations": ["Seneca of Sandusky River, Ohio (today part of the Seneca-Cayuga Nation)"],
+  "promises": [
+    "Article 2: removal west of the Mississippi and a patent in fee simple to about 67,000 acres next to the Cherokee lands and the Missouri line, for as long as they exist as a nation and remain on it.",
+    "Article 3: the United States pays the cost of removal and supplies provisions for one year after arrival.",
+    "Article 4: a grist mill, saw mill and blacksmith shop built on the new lands and kept running at United States expense for as long as the President thinks proper.",
+    "Article 5: an advance of $6,000 for the improvements left behind, repaid from the land sales.",
+    "Article 8: the 40,000 ceded acres sold at public sale; after deducting the minimum price of public lands and the listed costs, the balance becomes a fund paying the tribe 5 per cent a year.",
+    "Article 12: the new lands may not be sold or ceded except to the United States."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "No court, Indian Claims Commission or government finding about this treaty was found. By the treaty of December 29, 1832 (7 Stat. 411) the united Senecas and Shawnees gave up the land granted to them west of the Neosho (Grand) river and received a tract east of it, which takes in the Sandusky Senecas' land on the east side. The Commission transferred Seneca-Cayuga Dockets 341-A to D to the Court of Claims on September 29, 1978, when only attorney expense applications were pending in them; what those dockets claimed was not traced.",
+  "nationVoice": [],
+  "sources": [
+    { "title": "Treaty with the Seneca, 1831 (Kappler, vol. 2, p. 325)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-1831-0325", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
+    { "title": "Treaty with the Seneca and Shawnee, 1832 (Kappler, vol. 2, p. 383)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-and-shawnee-1832-0383", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
+    { "title": "Seneca-Cayuga Tribe of Oklahoma et al. v. United States, Dockets 341-A to D et al., Order Certifying and Transferring Cases to the Court of Claims (September 29, 1978), 43 Ind. Cl. Comm. 658", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2724", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 686", "url": "https://archive.org/stream/annualreportofbu218smit#page/686/mode/2up", "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive" }
+  ],
+  "openQuestions": [
+    "What Seneca-Cayuga Dockets 341-A to D claimed and how the Court of Claims disposed of them after 1978 was not found; one of them may concern the Article 8 land-sale fund. Read the Commission's 1978 Final Report docket list before treating this as settled.",
+    "Whether the Article 8 fund was ever created and the 5 per cent paid, and whether the Article 4 mills were built, was not traced in Treasury or Indian Office records.",
+    "No Seneca-Cayuga Nation account of this treaty was found; its website returned nothing on the 1831 removal at the address tried.",
+    "treaties.json lists only the Seneca-Cayuga Tribe of Oklahoma; the Oklahoma State University database also names the Seneca Nation of Indians and the Tonawanda Band as successors. Not settled."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

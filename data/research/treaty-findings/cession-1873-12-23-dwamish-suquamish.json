@@ -32,9 +32,10 @@
     }
   ],
   "openQuestions": [
-    "treaties.json maps this record to Royce area 351, the whole Point Elliott cession, but the December 23, 1873 order only defined the Tulalip reservation boundaries; the map area looks wrong for this record.",
+    "treaties.json maps this record to Royce area 351. Audit 2026-11-08: Royce's Point Elliott rows put the cession at area 347 (kappler-677) and the reserves at 348 to 351; the remark beside the 36-section Tulalip reserve reads \"See Executive order of Dec. 23, 1873, more specifically defining the boundaries of this reserve\", so area 351 is most likely the Tulalip reserve and the map area fits this record. The researcher's earlier note that 351 is the whole cession was wrong.",
     "presentDayTribes lists the Duwamish and Suquamish but not the Tulalip Tribes, whose reservation the order concerns.",
-    "The text of the order itself was read only in Royce's schedule; the Kappler printing was not opened."
+    "The text of the order itself was read only in Royce's schedule; the Kappler printing was not opened.",
+    "Audit 2026-11-08: no Indian Claims Commission decision titled Tulalip was found (icc.mjs search tulalip: 0); the Snohomish dockets (125) and the Point Elliott allocation (92) concern the 1855 cession. no-breach-found kept."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

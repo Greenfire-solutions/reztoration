@@ -11,26 +11,15 @@
     "Nimiipuu (Nez Perce), Joseph's (Wallowa) Band"
   ],
   "promises": [
-    "This order undid the executive order of June 16, 1873, which had withheld part of the Wallowa Valley in Oregon from settlement and set it apart as a reservation for the roaming Nez Perce (see cession-1873-06-16-nez-perc)."
+    "This order undid the executive order of June 16, 1873, which had withheld part of the Wallowa Valley in Oregon from settlement and set it apart as a reservation for the roaming Nez Perce (see cession-1873-06-16-nez-perc).",
+    "The order of June 10, 1875 revoked and annulled the 1873 order and restored the Wallowa Valley tract to the public domain (University of Idaho copy of the order)."
   ],
   "status": "broken",
   "breaches": [
     {
-      "kind": "executive-action",
-      "date": "1875-06-10",
-      "what": "The President revoked and annulled the 1873 order and restored the Wallowa Valley reservation to the public domain.",
-      "whoFoundIt": "Executive Order of June 10, 1875",
-      "source": {
-        "title": "1875 Executive Order revoking Wallowa Valley Reserve (from Executive Orders relating to Indian Reservations, 1855-1878)",
-        "url": "https://lib.uidaho.edu/mcbeth/governmentdoc/txrevoke.htm",
-        "publisher": "University of Idaho Library"
-      },
-      "quote": "is hereby revoked and annulled, and the said described tract of country is hereby restored to the public domain"
-    },
-    {
       "kind": "claims-commission",
       "date": "1971-03-26",
-      "what": "The Indian Claims Commission held that the 1873 order created in Joseph's Band a compensable interest in the Wallowa Reservation, and that its withdrawal by this order of June 10, 1875 gave rise to a claim for that interest under section 2, clause (1) of the Indian Claims Commission Act. Two commissioners dissented in part.",
+      "what": "The Indian Claims Commission held that the 1873 order created in Joseph's Band a compensable interest in the Wallowa Reservation, that its withdrawal by this order of June 10, 1875 gave rise to a claim for that interest under section 2, clause (1) of the Indian Claims Commission Act, and that the 1875 withdrawal was also a breach of fair and honorable dealings under clause (5). Two commissioners concurred in part and dissented in part.",
       "whoFoundIt": "Indian Claims Commission, Docket 186, 25 Ind. Cl. Comm. 99 (1971)",
       "source": {
         "title": "Confederated Tribes of the Colville Reservation, as representative of the Joseph Band of the Nez Perce Tribe, et al. v. United States, Docket 186, Opinion of the Commission (25 Ind. Cl. Comm. 99, March 26, 1971)",
@@ -78,7 +67,8 @@
   "openQuestions": [
     "treaties.json lists only the Nez Perce Tribe of Idaho (twice, under two spellings); the Docket 186 claim was brought by the Confederated Tribes of the Colville Reservation, where descendants of Joseph's Band live.",
     "The Nez Perce Tribe's and the Colville Tribes' own accounts of the Wallowa revocation were not found in this pass.",
-    "The Commission's minority said the non-treaty bands never accepted the 1873 reservation or confined themselves to it."
+    "The Commission's minority said the non-treaty bands never accepted the 1873 reservation or confined themselves to it.",
+    "Audit 2026-11-08: removed the executive-action breach (the June 10, 1875 order itself). Under Jordan's rule of 2026-11-08 an executive order revoking an executive-order reservation is not by itself a breach; the order is kept as a fact in promises, and the status rests on the Commission's 1971 liability finding (Docket 186, OSU id 2111, re-opened), which names this order. Added the Commission's clause (5) fair-and-honorable-dealings holding and corrected 'two commissioners dissented in part' to 'concurred in part and dissented in part' (Chairman Kuykendall and Commissioner Vance). $725,000 compromise (OSU id 1247) confirmed."
   ],
   "plain": {
     "promised": "In 1873 the President had set apart the Wallowa Valley in Oregon, the homeland of Joseph's Band, as a reservation for the non-treaty Nez Perce.",

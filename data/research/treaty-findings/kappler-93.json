@@ -20,7 +20,7 @@
   ],
   "status": "no-breach-found",
   "breaches": [],
-  "today": "No Indian Claims Commission, Court of Claims or other federal finding about this cession or its annuities was found in this pass. The Inter-Tribal Council of the Five Civilized Tribes (Resolution 2002-18) says the treaty excluded the Ocmulgee Old Fields reserve tract from the cession and that Muscogee people were later forced to cede all their Georgia lands through subsequent treaties.",
+  "today": "In Docket 292 the Creek Nation claimed that the United States had disbursed only $169,452.25 of the $206,000 owed under Article 3 of this treaty. The Indian Claims Commission dismissed the claim in 1959, holding that the burden of proving the failure lay on the nation. This was a ruling against the nation. The Inter-Tribal Council of the Five Civilized Tribes (Resolution 2002-18) says the treaty excluded the Ocmulgee Old Fields reserve tract from the cession and that Muscogee people were later forced to cede all their Georgia lands through subsequent treaties.",
   "nationVoice": [
     {
       "nation": "Inter-Tribal Council of the Five Civilized Tribes (of which the Muscogee (Creek) Nation is a member)",
@@ -43,12 +43,23 @@
       "title": "Inter-Tribal Council of the Five Civilized Tribes, Resolution 2002-18 (Ocmulgee Old Fields as a Muscogee traditional cultural property)",
       "url": "https://www.fivecivilizedtribes.org/Docs/Resolutions/2002/resolution%202002-18.pdf",
       "publisher": "Inter-Tribal Council of the Five Civilized Tribes"
+    },
+    {
+      "title": "Creek Nation v. United States, Docket 292, Findings of Fact (7 Ind. Cl. Comm. 117, February 18, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/64",
+      "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Creek Nation v. United States, Docket 292, Opinion of the Commission (7 Ind. Cl. Comm. 117, February 18, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/113",
+      "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
     }
   ],
   "openQuestions": [
-    "Whether all eighteen annual payments under Article 3 were made was not traced; the Creek dockets in the Indian Claims Commission collection (21, 167, 168, 169, 273 to 276, 280, 292) do not appear to cover this cession.",
+    "Whether all eighteen annual payments under Article 3 were made is unresolved: the Commission found disbursements definitely allocated to this treaty of $169,452.25 against an admitted obligation of $206,000, but dismissed the claim for want of proof (Docket 292, 1959). No Commission claim for additional payment for the land itself was found.",
     "The Ocmulgee reserve tract kept by Article 1 passed out of Creek hands under a later treaty; that loss belongs to the later treaty's record.",
-    "The Muscogee (Creek) Nation's own published account of this treaty was not found in this pass; the Inter-Tribal Council resolution is the closest."
+    "The Muscogee (Creek) Nation's own published account of this treaty was not found in this pass; the Inter-Tribal Council resolution is the closest.",
+    "Audit 2026-11-08: the researcher wrote that Docket 292 does not cover this treaty. Its findings of fact quote Article 3 of this treaty and its opinion addresses the claim; today and openQuestions corrected and the two Docket 292 documents added to sources. Status unchanged: the dismissal is a ruling against the nation, not a breach."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

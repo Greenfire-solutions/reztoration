@@ -17,7 +17,7 @@
   ],
   "status": "no-breach-found",
   "breaches": [],
-  "today": "This was an appropriation that bought land for the Ponca; it took none. The wrong it answered is a separate event: in Docket 323 (1966) the Commission concluded that, as partial indemnification for the uncompensated loss of their Dakota reservation under the Sioux treaty of April 29, 1868, the Ponca received under this Act a reservation of 101,894.31 acres in Indian Territory bought from the Cherokees, plus 27,235.90 acres of their former Nebraska reservation, and left liability for further proceedings.",
+  "today": "This was an appropriation that bought land for the Ponca; it took none. The wrong it answered is a separate event: in Docket 323 (1966) the Commission concluded that, as partial indemnification for the uncompensated loss of their Dakota reservation under the Sioux treaty of April 29, 1868, the Ponca received, within the intent of this Act, a reservation of 101,894.31 acres in Indian Territory bought from the Cherokees, plus 27,235.90 acres of their former Nebraska reservation confirmed and allotted under the Acts of April 30, 1888 and March 2, 1889, and left liability for further proceedings.",
   "nationVoice": [],
   "sources": [
     {
@@ -26,14 +26,15 @@
       "publisher": "Smithsonian Institution, via Internet Archive"
     },
     {
-      "title": "Ponca Tribe of Indians of Oklahoma et al. v. United States, Docket 323, Opinion of the Commission, Part 1, 17 Ind. Cl. Comm. 206 (July 26, 1966)",
+      "title": "Ponca Tribe of Indians of Oklahoma et al. v. United States, Docket 323, Opinion of the Commission, Part 1, 17 Ind. Cl. Comm. 162, 206 (July 26, 1966)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1044",
       "publisher": "Indian Claims Commission, via Oklahoma State University Library"
     }
   ],
   "openQuestions": [
     "The page of 21 Stat. 422 was not opened (the govinfo link for that page redirected); the Act's wording here comes from the Commission's quotation and Royce.",
-    "How Docket 323 ended (a final award on remand is dated August 23, 1972) was not read; it concerns the Nebraska reservation, not this Act."
+    "How Docket 323 ended (a final award on remand is dated August 23, 1972) was not read; it concerns the Nebraska reservation, not this Act.",
+    "Audit 2026-11-08: today reworded; the 27,235.90 Nebraska acres came under the Acts of April 30, 1888 and March 2, 1889, not under this Act (Docket 323 conclusion, 17 Ind. Cl. Comm. 162 at 235); citation corrected from 17 Ind. Cl. Comm. 206 to 162, 206 (the case begins at p. 162)."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

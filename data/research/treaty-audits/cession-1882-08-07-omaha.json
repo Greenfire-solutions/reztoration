@@ -1,0 +1,16 @@
+{
+  "id": "cession-1882-08-07-omaha",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "22 Stat. 341, ch. 434 opened on govinfo: section 1 consent in open council and three appraisers, one tribal; section 2 no sale below appraisal or $2.50 an acre.",
+    "Nebraska v. Parker, No. 14-1406, decided March 22, 2016 (LII): held the 1882 Act did not diminish the Omaha Reservation.",
+    "Docket 85 Opinion (id 554), Jan 3, 1951: individual claims, dismissed.",
+    "Omaha Dockets 225-A to 225-D decisions (ids 124, 17, 340, 149, 369) searched: no mention of 1882; nothing found that the sales were underpaid. Royce areas 636/637 match the 1882 Act."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Omaha Tribe's own account not searched further."
+  ],
+  "treatiesJsonErrors": []
+}

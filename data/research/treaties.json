@@ -2697,22 +2697,36 @@
   "id": "kappler-216",
   "date": "1824-08-04",
   "kappler": "https://babel.hathitrust.org/cgi/pt?id=uc1.31210003349790;view=1up;seq=216",
-  "royce": [],
+  "royce": [
+   "https://archive.org/stream/annualreportofbu218smit#page/706/mode/2up"
+  ],
   "cessions": [
    "69"
   ],
   "presentDayTribes": [
-   "The Osage Nation, Oklahoma"
+   "Iowa Tribe of Kansas and Nebraska",
+   "Iowa Tribe of Oklahoma"
   ],
   "scheduleTribes": [
-   "Great and Little Osage; Iowa; Sauk and Fox"
+   "Iowa"
   ],
   "statute": [],
   "executiveOrder": [],
   "states": [
    "MO"
   ],
-  "name": "Treaty or agreement with the Great and Little Osage, Iowa, Sauk and Fox, 1824-08-04"
+  "note": "Area 69 is kept as Royce's cross-reference ('See 69'): the Osage had already ceded it on Nov. 10, 1808, and this is the Ioway's concurrent cession of their claim to it.",
+  "correction": {
+   "fields": [
+    "scheduleTribes",
+    "presentDayTribes",
+    "royce",
+    "note"
+   ],
+   "why": "Kappler seq 216 is p. 208, the Treaty with the Iowa, Aug. 4, 1824, Washington, 7 Stat. 231 (OSU treaty-with-the-iowa-1824-0208): 'the Ioway Tribe or Nation' cedes its lands within the State of Missouri; the only signatories are the Iowa. Royce p. 706 (Aug. 4, 1824) lists this treaty separately from the Sauk and Fox treaty of the same day (Stat. L. VII, 229, kappler-215): Iowa, Stat. L. VII, 231, map 'See 69'. The schedule tribes 'Great and Little Osage; Iowa; Sauk and Fox' and the Osage Nation were copied from the area 69 row; the schedule tribe is set to the Iowa and the present-day tribes to the two Iowa nations. OSU also names the Sac & Fox Tribe of the Mississippi in Iowa as a successor; it is not added because the treaty names only the Ioway. The Royce link was empty and is set to p. 706.",
+   "source": "https://treaties.okstate.edu/treaties/treaty-with-the-iowa-1824-0208"
+  },
+  "name": "Treaty or agreement with the Iowa, 1824-08-04"
  },
  {
   "id": "kappler-218",
@@ -4220,13 +4234,13 @@
   "states": [
    "FL"
   ],
-  "note": "Present-day nations unsettled. The USFS lists the Seminole Tribe of Florida and the Miccosukee Tribe; the Oklahoma State University Tribal Treaties Database (Treaty with the Appalachicola Band, 1833, Kappler p. 398) names the Muscogee (Creek) Nation as successor. Royce does not settle it, so the field is left as it is.",
+  "note": "Present-day nations unsettled. The USFS lists the Seminole Tribe of Florida and the Miccosukee Tribe. Royce does not settle it, so the field is left as it is. (An earlier version of this note cited the Oklahoma State University page for Kappler p. 398 as this treaty's; that page is the companion treaty with Mulatto King and Tustenuggy Hajo, kappler-406.)",
   "correction": {
    "fields": [
     "note"
    ],
-   "why": "Note only; no field changed. Royce p. 706-707 (page scan checked): the reserve made for certain chiefs by the treaty of Sept. 18, 1823 was 'Ceded to the U.S. by treaty of June 18, 1833, with certain chiefs in Florida', map 'See 185'. Royce names no present-day nation.",
-   "source": "https://treaties.okstate.edu/treaties/treaty-with-the-appalachicola-band-1833-0398"
+   "why": "Note only; no field changed. Royce p. 748 (page scan checked): June 18, 1833, Pope's, Fayette county, Stat. L. VII, 428, 'Certain chiefs in Florida': they relinquish the reservation 'commencing on the Chattahoochie 1 mile below Econchatimico's house'; p. 749: 185, Florida; p. 706-707: the reserve made for certain chiefs by the treaty of Sept. 18, 1823 was 'Ceded to the U.S. by treaty of June 18, 1833, with certain chiefs in Florida', map 'See 185'. Royce names no present-day nation.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/748/mode/2up"
   },
   "name": "Treaty or agreement with the Certain chiefs in Florida, 1833-06-18"
  },
@@ -4251,6 +4265,14 @@
   "states": [
    "FL"
   ],
+  "note": "The treaty with Mulatto King (Vacapasacy) and Tustenuggy Hajo, head chief of Ematlochee's town, for the Apalachicola band: they relinquish the Yellow Hare reserve on the Apalachicola made for them by the additional article of the Camp Moultrie treaty of Sept. 18, 1823, and receive a section and a half each by patent. The companion treaty of the same day with other chiefs (7 Stat. 428, area 185) is kappler-407.",
+  "correction": {
+   "fields": [
+    "note"
+   ],
+   "why": "Note only; no field changed. Kappler seq 406 is p. 398, the Treaty with the Appalachicola Band, June 18, 1833, 7 Stat. 427 (OSU treaty-with-the-appalachicola-band-1833-0398: 'convey ... to Mulatto King or Vacapasacy; and to Tustenuggy Hajo, head Chief of Ematlochees town'; successor in interest 'The Muscogee (Creek) Nation'). Royce p. 748 (page scan checked): June 18, 1833, Pope's, Fayette county, Florida territory, Stat. L. VII, 427, Appalachicola band, relinquishing the reservation 'to include Yellow Hare's improvements'; p. 749: 184, Florida. The record's area, schedule tribe and present-day tribe already agree with these.",
+   "source": "https://treaties.okstate.edu/treaties/treaty-with-the-appalachicola-band-1833-0398"
+  },
   "name": "Treaty or agreement with the Appalachicola band, 1833-06-18"
  },
  {
@@ -10139,28 +10161,11 @@
    "540"
   ],
   "presentDayTribes": [
-   "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho",
-   "Shoshone-Bannock Tribes of the Fort Hall Reservation, Idaho",
-   "Confederated Tribes of the Goshute Reservation",
-   "Sisseton-Wahpeton Oyate of the Lake Traverse Reservation, South Dakota",
-   "Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California",
-   "Death Valley Timbi-Sha Shoshone Band of California",
-   "Duckwater Shoshone Tribe of the Duckwater Reservation, Nevada",
-   "Ely Shoshone Tribe of Nevada",
-   "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon",
-   "Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony, California",
-   "Paiute-Shoshone Indians of the Lone Pine Community of the Lone Pine Reservation, California",
-   "Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada",
    "Shoshone Tribe of the Wind River Reservation, Wyoming",
-   "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada",
-   "Te-Moak Tribe of Western Shoshone Indians of Nevada",
-   "Yomba Shoshone Tribe of the Yomba Reservation, Nevada"
+   "Shoshone-Bannock Tribes of the Fort Hall Reservation, Idaho"
   ],
   "scheduleTribes": [
-   "Bannock; Coeur d'Alene; Shoshoni",
-   "Bannock; Shoshoni",
-   "Sioux, Wahpeton",
-   "Shoshoni"
+   "Shoshoni and Bannock (eastern bands)"
   ],
   "statute": [
    "http://ops.libs.uga.edu/ehistory/InvasionOfAmerica/FedStatIndianLand/539c.pdf",
@@ -10176,7 +10181,17 @@
    "UT",
    "WY"
   ],
-  "name": "Treaty or agreement with the Bannock, Coeur d'Alene, Shoshoni, Sioux, Wahpeton, 1868-07-03"
+  "note": "Areas 524 (Fort Hall, 'See 524') and 539, 540 (Wind River, 'See 539, 540') are Royce's cross-references; 520 is the cession.",
+  "correction": {
+   "fields": [
+    "scheduleTribes",
+    "presentDayTribes",
+    "note"
+   ],
+   "why": "Kappler seq 1028 is p. 1020, the Treaty with the Eastern Band Shoshoni and Bannock, July 3, 1868, Fort Bridger, 15 Stat. 673 (OSU treaty-with-the-eastern-band-shoshoni-and-bannock-1868-1020: signatories Bannock, Eastern Shoshoni; successors in interest 'Eastern Shoshone Tribe of the Wind River Reservation, Wyoming' and 'Shoshone-Bannock Tribes of the Fort Hall Reservation'). Royce p. 850 (page scan checked): July 3, 1868, Fort Bridger, Stat. L. XV, 673, 'Shoshoni and Bannock (eastern bands)': reservation for the Bannocks, the Wind River reservation for the Shoshones, 'Relinquish all right to other territory'; p. 851: See 524, See 539, 540, and 520. The Coeur d'Alene (from the June 14, 1867 area 524 row), the Sioux Wahpeton and the Sisseton-Wahpeton Oyate, and the Goshute, Western Shoshone and Owens Valley nations were copied from other rows sharing these areas; none was a party. The present-day tribes are set to the two successors and the Shoshone-Bannock Tribes are listed once.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/850/mode/2up"
+  },
+  "name": "Treaty or agreement with the Shoshoni and Bannock (eastern bands), 1868-07-03"
  },
  {
   "id": "cession-1868-07-27-smith-river-reservation",
@@ -11597,8 +11612,7 @@
    "349"
   ],
   "presentDayTribes": [
-   "Duwamish Tribe of Indians [Unrecognized]",
-   "Suquamish Indian Tribe of the Port Madison Reservation, Washington"
+   "Swinomish Indian Tribal Community"
   ],
   "scheduleTribes": [
    "Dwamish; Suquamish"
@@ -11608,6 +11622,15 @@
   "states": [
    "WA"
   ],
+  "note": "Not a cession: the order fixed the north boundary of the Swinomish reservation made by the Point Elliott treaty of Jan. 22, 1855. Area 349 is kept as Royce's cross-reference ('See 349') to that treaty's cession (kappler-677); it is not land this order took.",
+  "correction": {
+   "fields": [
+    "presentDayTribes",
+    "note"
+   ],
+   "why": "Royce p. 864 (page scan checked): Sept. 9, 1873, Executive order, 'Dwamish and others': 'President fixes the N. boundary of Swinomish reserve, established by treaty Jan. 22, 1855'; p. 865: 'This was simply to cure the indefinite language of the treaty. For boundaries of the reserve see treaty of Jan. 22, 1855', 'See 349'. 'Dwamish and others' is Royce's name for the Point Elliott signatories; the order concerns only the Swinomish reservation, so the Duwamish and Suquamish are replaced by the Swinomish Indian Tribal Community.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/864/mode/2up"
+  },
   "name": "Cession of land of the Dwamish, Suquamish, 1873-09-09"
  },
  {
@@ -11784,7 +11807,7 @@
    "https://archive.org/stream/annualreportofbu218smit#page/866/mode/2up"
   ],
   "cessions": [
-   "372"
+   "551"
   ],
   "presentDayTribes": [
    "Quileute Tribe of the Quileute Reservation, Washington",
@@ -11798,6 +11821,15 @@
   "states": [
    "WA"
   ],
+  "note": "Duplicate record: the same executive order of Nov. 4, 1873 as cession-1873-11-04-quillehute-quinaielt (the USFS layer carries it twice under two spellings). Count it once. Royce maps the order as 551 and 'See 372'; area 372 is the original Quinault reserve of the treaty of July 1, 1855, which stays with kappler-727.",
+  "correction": {
+   "fields": [
+    "cessions",
+    "note"
+   ],
+   "why": "Royce p. 866 (page scan checked): Nov. 4, 1873, Executive order, 'Quinaielt, Quillehute, et al.': 'President sets apart enlargement to reserve provided for in treaty of July 1, 1855'; p. 867: 'For boundaries of original reserve see treaty of July 1, 1855, Washington map 1', 551 Washington 2, See 372 Washington 1. This record mapped only 372, the treaty reserve, and not the land the order added; it is set to 551, the order's own area. The id is kept because it has a findings file.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/866/mode/2up"
+  },
   "name": "Cession of land of the Quil-leh-ute, Qui-nai-elt, 1873-11-04"
  },
  {
@@ -11856,6 +11888,14 @@
   "states": [
    "WA"
   ],
+  "note": "A second record for this order, cession-1873-11-04-quil-leh-ute-qui-nai-elt, is a duplicate under another spelling; count the order once.",
+  "correction": {
+   "fields": [
+    "note"
+   ],
+   "why": "Note only; no field changed. Royce p. 866-867 (page scans checked) has one row for the Nov. 4, 1873 executive order enlarging the Quinault reserve, map 551 and 'See 372'.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/866/mode/2up"
+  },
   "name": "Cession of land of the Quillehute, Quinaielt, 1873-11-04"
  },
  {
@@ -11971,7 +12011,8 @@
   ],
   "presentDayTribes": [
    "Duwamish Tribe of Indians [Unrecognized]",
-   "Suquamish Indian Tribe of the Port Madison Reservation, Washington"
+   "Suquamish Indian Tribe of the Port Madison Reservation, Washington",
+   "Tulalip Tribes of Washington"
   ],
   "scheduleTribes": [
    "Dwamish; Suquamish"
@@ -11981,6 +12022,15 @@
   "states": [
    "WA"
   ],
+  "note": "Not a cession: the order defined the boundaries of the Tulalip (Snohomish) reservation made by the Point Elliott treaty of Jan. 22, 1855. Area 351 is kept as Royce's cross-reference ('See 351'), which is the whole Point Elliott cession of kappler-677; it is not land this order took, and should not be counted again.",
+  "correction": {
+   "fields": [
+    "presentDayTribes",
+    "note"
+   ],
+   "why": "Royce p. 868 (page scan checked): Dec. 23, 1873, Executive order, 'Dwamish and allied tribes': 'President defines boundaries of Tulalip or Snohomish reservation (see treaty Jan. 22, 1855)'; p. 869: 'See treaty of Jan. 22, 1855', 'See 351', Washington 1. 'Dwamish and allied tribes' is Royce's name for the Point Elliott signatories; the Tulalip Tribes, whose reservation the order concerns, are added.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/868/mode/2up"
+  },
   "name": "Cession of land of the Dwamish, Suquamish, 1873-12-23"
  },
  {
@@ -13188,7 +13238,7 @@
   ],
   "presentDayTribes": [
    "Nez Perce Tribe of Idaho",
-   "Nez Perce Tribe, Idaho"
+   "Confederated Tribes of the Colville Reservation, Washington"
   ],
   "scheduleTribes": [
    "Nez Percé"
@@ -13201,6 +13251,15 @@
    "OR",
    "WA"
   ],
+  "note": "Not a cession by the Nez Perce: the President revoked the Wallowa Valley reserve set apart for the non-treaty ('roaming') Nez Perce on June 16, 1873 (cession-1873-06-16-nez-perc).",
+  "correction": {
+   "fields": [
+    "presentDayTribes",
+    "note"
+   ],
+   "why": "Royce p. 882 (page scan checked): June 10, 1875, Executive order, Nez Perce: 'President restores to public domain Wallowa Valley reservation, set apart by Executive order of June 16, 1873'; p. 865: 545, 'Order revoked and reservation restored to public domain June 10, 1875'. The roaming band was Joseph's, whose descendants live on the Colville Reservation; the Indian Claims Commission claim for this reservation was brought by the Confederated Tribes of the Colville Reservation for the Joseph Band (Docket 186), as in the correction for cession-1873-06-16-nez-perc. The USFS listed the Nez Perce Tribe twice under two spellings; one is kept and the Colville Tribes are added.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/882/mode/2up"
+  },
   "name": "Cession of land of the Nez Percé, 1875-06-10"
  },
  {
@@ -13662,18 +13721,27 @@
    "428"
   ],
   "presentDayTribes": [
-   "Sac & Fox Nation of Missouri in Kansas and Nebraska",
-   "Sac & Fox Tribe of the Mississippi in Iowa"
+   "Sac & Fox Nation of Missouri in Kansas and Nebraska"
   ],
   "scheduleTribes": [
-   "Sauk and Fox of the Missouri and the Iowa"
+   "Sauk and Fox of the Missouri"
   ],
   "statute": [],
   "executiveOrder": [],
   "states": [
    "KS"
   ],
-  "name": "Cession of land of the Sauk and Fox of the Missouri and the Iowa, 1876-08-15"
+  "note": "Area 428 is kept as Royce's cross-reference ('See 428'). Royce's row names the Sauk and Fox of the Missouri only; 'and the Iowa' in the USFS schedule name (and in this id, which is kept because it has a findings file) is not in Royce.",
+  "correction": {
+   "fields": [
+    "scheduleTribes",
+    "presentDayTribes",
+    "note"
+   ],
+   "why": "Royce p. 886 (page scan checked): Aug. 15, 1876, Act of Congress, Stat. L. XIX, 208, 'Sauk and Fox of the Missouri': 'Provides for the sale, with their consent, of 10 sections off W. end of their reserve'; p. 887: 'They consented Jan. 8, 1877, and the 10 sections in question were sold', 'See 428', Kansas 2, Nebraska. The Sac & Fox Tribe of the Mississippi in Iowa (Meskwaki) was not a party and is removed; the schedule tribe drops 'and the Iowa'.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/886/mode/2up"
+  },
+  "name": "Cession of land of the Sauk and Fox of the Missouri, 1876-08-15"
  },
  {
   "id": "cession-1876-08-17-uta",
@@ -13955,7 +14023,7 @@
    "604"
   ],
   "presentDayTribes": [
-   "Northwestern Band of Shoshoni Nation of Utah (Washakie)",
+   "Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada",
    "Te-Moak Tribe of Western Shoshone Indians of Nevada"
   ],
   "scheduleTribes": [
@@ -13969,6 +14037,15 @@
    "ID",
    "NV"
   ],
+  "note": "Not a cession: the order set apart the Duck Valley reservation (area 604), today held by the Shoshone-Paiute Tribes.",
+  "correction": {
+   "fields": [
+    "presentDayTribes",
+    "note"
+   ],
+   "why": "Royce p. 890 (page scan checked): Apr. 16, 1877, Executive order, 'Western Shoshoni': 'President sets apart a reservation known as Duck Valley reservation'; p. 891: 'See treaty of Oct. 1, 1863, authorizing reserves to be set apart for the Western Shoshoni', 604, Nevada and Idaho. The Shoshone-Paiute Tribes of the Duck Valley Reservation are added. The Northwestern Band of Shoshoni is removed: Royce keeps the Northwestern Shoshoni as a separate party in its own rows (for example the Carlin Farms order of May 10, 1877 on the same page) and their treaty was the Box Elder treaty of July 30, 1863, not the Western Shoshoni treaty of Oct. 1, 1863. The Te-Moak Tribe stays as a Western Shoshone successor of the 1863 Ruby Valley treaty under which the reserve was set apart.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/890/mode/2up"
+  },
   "name": "Cession of land of the Shoshoni (Western bands), 1877-04-16"
  },
  {
@@ -14088,6 +14165,14 @@
   "states": [
    "OK"
   ],
+  "note": "Area 628 is kept as Royce's cross-reference ('See 628'): it is the land the Ponca were moved onto in Indian Territory, not land they lost. The Nebraska reservation they were removed from is area 472, carried by kappler-780, kappler-883 and cession-1890-10-23-ponka.",
+  "correction": {
+   "fields": [
+    "note"
+   ],
+   "why": "Note only; no field changed. Royce p. 892 (page scan checked): May 27, 1878, Act of Congress, Ponka: 'Provides for immediate removal from Quapaw reservation to a new home W. of the Kaws'; p. 893: 'They were removed and located in compliance with this act on a tract lying W. of 96°, purchased from the Cherokee with funds appropriated by act of Mar. 3, 1881', 'See 628', Indian Territory 3.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/892/mode/2up"
+  },
   "name": "Cession of land of the Ponka, 1878-05-27"
  },
  {
@@ -14198,7 +14283,8 @@
   ],
   "presentDayTribes": [
    "Southern Ute Indian Tribe of the Southern Ute Reservation, Colorado",
-   "Ute Mountain Ute Tribe, Colorado, New Mexico, & Utah"
+   "Ute Mountain Ute Tribe, Colorado, New Mexico, & Utah",
+   "Ute Indian Tribe of the Uintah & Ouray Reservation, Utah"
   ],
   "scheduleTribes": [
    "Uta (Muncho, Capote, Wiminuehi bands)"
@@ -14210,6 +14296,13 @@
   "states": [
    "CO"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 892 (page scan checked): Nov. 9, 1878, Agreement, 'Uta (Muache, Capote, and Wiminuchi bands)': 'Cede all their right to confederated Ute reservation in Colorado established by treaty of 1868, especially to southern part'; p. 893: 'This cession was concurred in by the Yampa, Grand River, Uinta, and Tabeguache bands', 'See 609'. The Yampa, Grand River, Uinta and Tabeguache bands are today part of the Ute Indian Tribe of the Uintah and Ouray Reservation, which is added.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/892/mode/2up"
+  },
   "name": "Cession of land of the Uta (Muncho, Capote, Wiminuehi bands), 1878-11-09"
  },
  {
@@ -14320,7 +14413,7 @@
    "659"
   ],
   "presentDayTribes": [
-   "Nez Perce Tribe of Idaho"
+   "Confederated Tribes of the Colville Reservation, Washington"
   ],
   "scheduleTribes": [
    "Nez Percé (Moses' band)"
@@ -14333,6 +14426,15 @@
   "states": [
    "WA"
   ],
+  "note": "Not a cession: the order set apart the Columbia reservation for Chief Moses' band. Royce maps it only by cross-reference ('See 642, 659'): the outer boundaries include area 642 (restored Feb. 23, 1883) and area 659 (the Sar-sarp-kin allotments numbered under the order of May 1, 1886). Both are kept under the 'See N' rule; count 659 with cession-1886-05-01-nez-perc-moses-band.",
+  "correction": {
+   "fields": [
+    "presentDayTribes",
+    "note"
+   ],
+   "why": "Royce p. 894 (page scan checked): Apr. 19, 1879, Executive order, 'Nez Perce (Moses' band)': 'President sets apart a tract known as \"Columbia reservation\"'; p. 895: 'Enlarged by Executive order of Mar. 6, 1880. The outboundaries of this tract are shown by blue lines; they include Nos. 642 and 659', 'See 642, 659', Washington 2. Royce files Moses' people under 'Nez Perce (Moses' band)', but Chief Moses led the Columbia (Sinkiuse) band, not a Nez Perce one: the agreement of July 7, 1883 was made 'with chief Moses and Sar-sarp-kin, of the Columbia reservation, and Tonaskat and Lot, of the Colville reservation', ratified July 4, 1884, 23 Stat. 79 (Kappler, OSU agreement-with-the-columbia-and-colville-1883-1073, successor in interest 'Confederated Tribes of the Colville Reservation'). The Nez Perce Tribe of Idaho came from Royce's tribe column and is replaced by the Colville Confederated Tribes.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/894/mode/2up"
+  },
   "name": "Cession of land of the Nez Percé (Moses' band), 1879-04-19"
  },
  {
@@ -14500,7 +14602,7 @@
    "618"
   ],
   "presentDayTribes": [
-   "Nez Perce Tribe of Idaho"
+   "Confederated Tribes of the Colville Reservation, Washington"
   ],
   "scheduleTribes": [
    "Nez Percé (Moses' band)"
@@ -14512,6 +14614,13 @@
   "states": [
    "WA"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 895 (page scan checked) records the Columbia reservation of Apr. 19, 1879 as 'Enlarged by Executive order of Mar. 6, 1880'; p. 913 names the orders of 'Apr. 19, 1879, and Mar. 6, 1880' as setting apart the lands of Chief Moses' band, map 'See 618'. Royce files Moses' people under 'Nez Perce (Moses' band)', but Chief Moses led the Columbia (Sinkiuse) band, not a Nez Perce one: the agreement of July 7, 1883 was made 'with chief Moses and Sar-sarp-kin, of the Columbia reservation, and Tonaskat and Lot, of the Colville reservation', ratified July 4, 1884, 23 Stat. 79 (Kappler, OSU agreement-with-the-columbia-and-colville-1883-1073, successor in interest 'Confederated Tribes of the Colville Reservation'). The Nez Perce Tribe of Idaho came from Royce's tribe column and is replaced by the Colville Confederated Tribes.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/898/mode/2up"
+  },
   "name": "Cession of land of the Nez Percé (Moses' band), 1880-03-06"
  },
  {
@@ -15186,7 +15295,7 @@
    "642"
   ],
   "presentDayTribes": [
-   "Nez Perce Tribe of Idaho"
+   "Confederated Tribes of the Colville Reservation, Washington"
   ],
   "scheduleTribes": [
    "Nez Percé (Moses' band)"
@@ -15198,6 +15307,13 @@
   "states": [
    "WA"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 920 (page scan checked) describes the country 'set apart for Chief Moses and his people by Executive orders of Apr. 19, 1879, and Mar. 6, 1880, and not restored to public domain by Executive order of Feb. 23, 1883'; this record is that Feb. 23, 1883 restoration. Royce files Moses' people under 'Nez Perce (Moses' band)', but Chief Moses led the Columbia (Sinkiuse) band, not a Nez Perce one: the agreement of July 7, 1883 was made 'with chief Moses and Sar-sarp-kin, of the Columbia reservation, and Tonaskat and Lot, of the Colville reservation', ratified July 4, 1884, 23 Stat. 79 (Kappler, OSU agreement-with-the-columbia-and-colville-1883-1073, successor in interest 'Confederated Tribes of the Colville Reservation'). The Nez Perce Tribe of Idaho came from Royce's tribe column and is replaced by the Colville Confederated Tribes.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up"
+  },
   "name": "Cession of land of the Nez Percé (Moses' band), 1883-02-23"
  },
  {
@@ -15356,7 +15472,7 @@
    "618"
   ],
   "presentDayTribes": [
-   "Nez Perce Tribe of Idaho"
+   "Confederated Tribes of the Colville Reservation, Washington"
   ],
   "scheduleTribes": [
    "Nez Percé (Moses' band)"
@@ -15368,6 +15484,13 @@
   "states": [
    "WA"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Kappler seq 1081 is p. 1073. Royce p. 912 (page scan checked): July 7, 1883, Agreement, 'Nez Perce (Moses' band)': 'An agreement was made, subject to ratification by Congress, for relinquishment of lands'; p. 913: 'It was subsequently ratified by Congress July 4, 1884, and by its terms all the remaining lands set apart by Executive orders of Apr. 19, 1879, and Mar. 6, 1880, are restored to the public domain', 'See 618'. Royce files Moses' people under 'Nez Perce (Moses' band)', but Chief Moses led the Columbia (Sinkiuse) band, not a Nez Perce one: the agreement of July 7, 1883 was made 'with chief Moses and Sar-sarp-kin, of the Columbia reservation, and Tonaskat and Lot, of the Colville reservation', ratified July 4, 1884, 23 Stat. 79 (Kappler, OSU agreement-with-the-columbia-and-colville-1883-1073, successor in interest 'Confederated Tribes of the Colville Reservation'). The Nez Perce Tribe of Idaho came from Royce's tribe column and is replaced by the Colville Confederated Tribes.",
+   "source": "https://treaties.okstate.edu/treaties/agreement-with-the-columbia-and-colville-1883-1073"
+  },
   "name": "Treaty or agreement with the Nez Percé (Moses' band), 1883-07-07"
  },
  {
@@ -15406,7 +15529,6 @@
    "649"
   ],
   "presentDayTribes": [
-   "Iowa Tribe of Kansas and Nebraska",
    "Iowa Tribe of Oklahoma"
   ],
   "scheduleTribes": [
@@ -15419,6 +15541,13 @@
   "states": [
    "OK"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 912 (page scan checked): Aug. 15, 1883, Executive order, Iowa: 'President sets apart reserve in Indian Territory for Iowas', between the Deep Fork of the Canadian and the Cimarron W. of the Sac and Fox reservation; p. 913: 649, Indian Territory 3. The reserve was for the Iowa in Indian Territory, today the Iowa Tribe of Oklahoma; the Iowa Tribe of Kansas and Nebraska kept its own reservation on the Great Nemaha and is removed.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/912/mode/2up"
+  },
   "name": "Cession of land of the Iowa, 1883-08-15"
  },
  {
@@ -15662,7 +15791,7 @@
    "618"
   ],
   "presentDayTribes": [
-   "Nez Perce Tribe of Idaho"
+   "Confederated Tribes of the Colville Reservation, Washington"
   ],
   "scheduleTribes": [
    "Nez Percé (Moses' band)"
@@ -15674,6 +15803,13 @@
   "states": [
    "WA"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 913 (page scan checked): the July 7, 1883 agreement 'was subsequently ratified by Congress July 4, 1884', restoring the lands set apart by the orders of Apr. 19, 1879 and Mar. 6, 1880, 'See 618'; this record is that Act. Royce files Moses' people under 'Nez Perce (Moses' band)', but Chief Moses led the Columbia (Sinkiuse) band, not a Nez Perce one: the agreement of July 7, 1883 was made 'with chief Moses and Sar-sarp-kin, of the Columbia reservation, and Tonaskat and Lot, of the Colville reservation', ratified July 4, 1884, 23 Stat. 79 (Kappler, OSU agreement-with-the-columbia-and-colville-1883-1073, successor in interest 'Confederated Tribes of the Colville Reservation'). The Nez Perce Tribe of Idaho came from Royce's tribe column and is replaced by the Colville Confederated Tribes.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/912/mode/2up"
+  },
   "name": "Cession of land of the Nez Percé (Moses' band), 1884-07-04"
  },
  {
@@ -15710,7 +15846,6 @@
    "658a"
   ],
   "presentDayTribes": [
-   "Cheyenne and Arapaho Tribes, Oklahoma",
    "Northern Cheyenne Tribe of the Northern Cheyenne Indian Reservation, Montana"
   ],
   "scheduleTribes": [
@@ -15721,6 +15856,13 @@
   "states": [
    "MT"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 918 (page scan checked): Nov. 26, 1884, Executive order, 'Northern Cheyenne': 'President sets apart tract for reservation for Northern Cheyennes' on the Rosebud river; p. 919: 658 A, Montana 2. The order concerned the Northern Cheyenne only; the Cheyenne and Arapaho Tribes of Oklahoma (the southern Cheyenne) are removed.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/918/mode/2up"
+  },
   "name": "Cession of land of the Cheyenne (northern), 1884-11-26"
  },
  {
@@ -15783,7 +15925,7 @@
    "618"
   ],
   "presentDayTribes": [
-   "Nez Perce Tribe of Idaho"
+   "Confederated Tribes of the Colville Reservation, Washington"
   ],
   "scheduleTribes": [
    "Nez Percé (Moses' band)"
@@ -15796,6 +15938,15 @@
   "states": [
    "WA"
   ],
+  "note": "Area 659 is numbered under this order: the allotments to Sar-sarp-kin and his band excepted from the restoration. Royce also cross-references it from the Apr. 19, 1879 order ('See 642, 659'); count it once.",
+  "correction": {
+   "fields": [
+    "presentDayTribes",
+    "note"
+   ],
+   "why": "Royce p. 920 (page scan checked): May 1, 1886, Executive order, 'Nez Perce (Moses' band)': 'President restores to public domain all that portion of country set apart for Chief Moses and his people by Executive orders of Apr. 19, 1879, and Mar. 6, 1880 ... excepting the tracts surveyed for and allotted to Sar-sarp-kin and his band'; p. 921: '659; see 618', Washington 2. Royce files Moses' people under 'Nez Perce (Moses' band)', but Chief Moses led the Columbia (Sinkiuse) band, not a Nez Perce one: the agreement of July 7, 1883 was made 'with chief Moses and Sar-sarp-kin, of the Columbia reservation, and Tonaskat and Lot, of the Colville reservation', ratified July 4, 1884, 23 Stat. 79 (Kappler, OSU agreement-with-the-columbia-and-colville-1883-1073, successor in interest 'Confederated Tribes of the Colville Reservation'). The Nez Perce Tribe of Idaho came from Royce's tribe column and is replaced by the Colville Confederated Tribes.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up"
+  },
   "name": "Cession of land of the Nez Percé (Moses' band), 1886-05-01"
  },
  {
@@ -16812,7 +16963,6 @@
    "470"
   ],
   "presentDayTribes": [
-   "Ho-Chunk Nation of Wisconsin",
    "Winnebago Tribe of Nebraska"
   ],
   "scheduleTribes": [
@@ -16823,6 +16973,13 @@
   "states": [
    "NE"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 926 (page scan checked): July 4, 1888, Act of Congress, Stat. L. XXV, 240, Winnebago: 'Authorizes the Secretary of the Interior to sell the following lands in the State of Nebraska', lots in T. 27 N., R. 6 E.; p. 927: 470, Nebraska 2. The land was in the Nebraska reservation of the Winnebago Tribe of Nebraska; the Ho-Chunk Nation of Wisconsin is removed.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/926/mode/2up"
+  },
   "name": "Cession of land of the Winnebago, 1888-07-04"
  },
  {
@@ -16836,11 +16993,10 @@
    "524"
   ],
   "presentDayTribes": [
-   "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho",
    "Shoshone-Bannock Tribes of the Fort Hall Reservation, Idaho"
   ],
   "scheduleTribes": [
-   "Bannock; Coeur d'Alene; Shoshoni"
+   "Bannock; Shoshoni"
   ],
   "statute": [],
   "executiveOrder": [
@@ -16849,7 +17005,17 @@
   "states": [
    "ID"
   ],
-  "name": "Cession of land of the Bannock, Coeur d'Alene, Shoshoni, 1888-09-01"
+  "note": "A railroad right-of-way cession of 1,840 acres out of the Fort Hall reservation (area 524, 'Too small to be shown on the map'), not a cession of the reservation itself.",
+  "correction": {
+   "fields": [
+    "scheduleTribes",
+    "presentDayTribes",
+    "note"
+   ],
+   "why": "Royce p. 926 (page scan checked): Sept. 1, 1888, Act of Congress, Stat. L. XXV, 452, tribe 'Bannock and Shoshoni of Fort Hall reservation': 'Congress ratifies agreement by which said Indians surrender the following lands, all of which are contained in T. 6 S., R. 34 E., of Boise meridian ... comprising an area of 1,840 acres ... relinquished to the U. S. for the use of the Utah and Northern and Oregon Short Line railways'; p. 927 'Too small to be shown on the map', 524, Idaho. The Coeur d'Alene were copied from the June 14, 1867 row for area 524 (see cession-1867-06-14-bannock-coeur-d-alene-shoshoni) and are removed. The Shoshone-Bannock Tribes were listed twice under two spellings; one is kept.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/926/mode/2up"
+  },
+  "name": "Cession of land of the Bannock, Shoshoni, 1888-09-01"
  },
  {
   "id": "cession-1888-12-04-umatilla",
@@ -16883,17 +17049,16 @@
   "date": "1889-02-23",
   "kappler": null,
   "royce": [
-   "https://archive.org/stream/annualreportofbu218smit#page/926/mode/2up"
+   "https://archive.org/stream/annualreportofbu218smit#page/928/mode/2up"
   ],
   "cessions": [
    "524"
   ],
   "presentDayTribes": [
-   "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho",
    "Shoshone-Bannock Tribes of the Fort Hall Reservation, Idaho"
   ],
   "scheduleTribes": [
-   "Bannock; Coeur d'Alene; Shoshoni"
+   "Bannock; Shoshoni"
   ],
   "statute": [],
   "executiveOrder": [
@@ -16902,7 +17067,18 @@
   "states": [
    "ID"
   ],
-  "name": "Cession of land of the Bannock, Coeur d'Alene, Shoshoni, 1889-02-23"
+  "note": "Royce maps this Act only as 'See 524' and records it as never carried into effect: the Lemhi Indians refused to leave their reservation.",
+  "correction": {
+   "fields": [
+    "scheduleTribes",
+    "presentDayTribes",
+    "royce",
+    "note"
+   ],
+   "why": "Royce p. 928 (page scan checked): Feb. 23, 1889, Act of Congress, Stat. L. XXV, 687, tribe 'Shoshoni and Bannock of Fort Hall reservation': 'Confirms agreement to cede to U. S. for the use of the Lemhi Indians the following lands' (the Port Neuf and Marsh creek tract); p. 929 'As the Lemhi Indians refused to leave their reservation, this act was inoperative and never carried into effect', 'See 524', Idaho. The Coeur d'Alene were copied from the June 14, 1867 row for area 524 and are removed. The Shoshone-Bannock Tribes were listed twice under two spellings; one is kept. The Royce link pointed to p. 926 (the Sept. 1, 1888 Act) and is set to p. 928.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/928/mode/2up"
+  },
+  "name": "Cession of land of the Bannock, Shoshoni, 1889-02-23"
  },
  {
   "id": "cession-1889-03-01-creek-or-muscogee",
@@ -16928,6 +17104,14 @@
   "states": [
    "OK"
   ],
+  "note": "Left for Jordan: the Poarch Band of Creek Indians (Alabama) is listed by the USFS as a present-day tribe. The 1889 Act concerned the Creek Nation's domain in Indian Territory west of the 1866 division line, and no source here ties the Poarch Band to it; the listing stays until Jordan's pending decision on the Poarch Band is made.",
+  "correction": {
+   "fields": [
+    "note"
+   ],
+   "why": "Note only; no field changed. Royce p. 930 (page scan checked): Mar. 1, 1889, Act of Congress, Creek: the cession of the 'domain' lying W. of the division line established by the treaty of June 14, 1866, opened by proclamation of Mar. 23, 1889; area 698, Indian Territory.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/930/mode/2up"
+  },
   "name": "Cession of land of the Creek or Muscogee, 1889-03-01"
  },
  {
@@ -17560,13 +17744,13 @@
   "date": "1891-03-03",
   "kappler": null,
   "royce": [
+   "https://archive.org/stream/annualreportofbu218smit#page/940/mode/2up",
    "https://archive.org/stream/annualreportofbu218smit#page/852/mode/2up"
   ],
   "cessions": [
    "525"
   ],
   "presentDayTribes": [
-   "Arapaho Tribe of the Wind River Reservation, Wyoming",
    "Cheyenne and Arapaho Tribes, Oklahoma"
   ],
   "scheduleTribes": [
@@ -17579,6 +17763,14 @@
   "states": [
    "OK"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes",
+    "royce"
+   ],
+   "why": "Royce p. 940 (page scan checked): Mar. 3, 1891, Act of Congress, Stat. L. XXVI, 1022, 'Cheyenne and Arapaho': 'Confirms agreement with these Indians by which they cede to the U. S. all claims they have to the following lands', the Cherokee Outlet tract and, continued on p. 942, their Indian Territory reservation between the Cimarron, the 98th meridian, the 100th meridian and the Washita; p. 941 notes that the reservation 'in lieu' of the treaty one was set aside by the Executive order of Aug. 10, 1869 (area 525, cession-1869-08-10-arapaho-cheyenne). The parties were the southern Cheyenne and Arapaho of Indian Territory; the Arapaho Tribe of the Wind River Reservation is removed, as on the 1869 record. Royce p. 940 is added as the link for this Act.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/940/mode/2up"
+  },
   "name": "Cession of land of the Arapaho, Cheyenne, 1891-03-03"
  },
  {

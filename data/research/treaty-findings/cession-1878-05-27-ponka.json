@@ -20,7 +20,7 @@
     {
       "kind": "claims-commission",
       "date": "1966-07-26",
-      "what": "The Indian Claims Commission concluded that, through the 1868 Sioux treaty that mistakenly included the Ponca reservation in the Great Sioux Reservation and the eventual removal and relocation of the Ponca in 1878 to a new reservation in Indian Territory, the United States deprived the Ponca of their Nebraska reservation without their consent and without paying for it.",
+      "what": "The Indian Claims Commission concluded that the United States deprived the Ponca of their 96,000 acre Nebraska reservation without their consent and without paying for it, naming two causes: the 1868 Sioux treaty that mistakenly included the Ponca reservation in the Great Sioux Reservation, and \"the eventual removal and relocation in 1878 of the Ponca Tribe on a new reservation in the Indian Territory\", the move this Act paid for. It fixed July 28, 1878 as the date for valuing that new reservation as a payment on the claim.",
       "whoFoundIt": "Indian Claims Commission, Docket 323, Order of July 26, 1966 (17 Ind. Cl. Comm. 288)",
       "source": {
         "title": "Ponca Tribe of Indians of Oklahoma v. United States, Docket 323, Order (17 Ind. Cl. Comm. 288, July 26, 1966)",
@@ -32,7 +32,7 @@
     {
       "kind": "claims-commission",
       "date": "1972-08-23",
-      "what": "The Commission valued the 96,000 acre Nebraska reservation at $211,200 as of March 16, 1877, credited the $48,389.46 spent buying land in Indian Territory for the tribe, and awarded just compensation of $174,327.06 plus 5 percent interest, $1,004,589.49 through June 30, 1972.",
+      "what": "Valuing that claim, the Commission found the Nebraska reservation worth $211,200 on March 16, 1877, treated the $48,389.46 spent buying the Indian Territory land as a payment, and awarded principal of $174,327.06 with 5 percent interest from the date of taking, $1,004,589.49 through June 30, 1972. The order does not show how the principal was reached from those two figures.",
       "whoFoundIt": "Indian Claims Commission, Docket 323, Final Award on Remand (28 Ind. Cl. Comm. 350)",
       "source": {
         "title": "Ponca Tribe of Indians of Oklahoma v. United States, Docket 323, Final Award on Remand (28 Ind. Cl. Comm. 350, August 23, 1972)",
@@ -103,7 +103,9 @@
     "Royce area 628 on this record is the reservation the Ponca received in Indian Territory, not the Nebraska land they lost.",
     "Whether and how the 1972 award was distributed between the Oklahoma and Nebraska Ponca was not traced.",
     "The Ponca Tribe of Nebraska's page gives both 1962 and 1966 for its termination; left out of this record.",
-    "The Ponca Tribe of Indians of Oklahoma's own account was not looked up in this pass."
+    "The Ponca Tribe of Indians of Oklahoma's own account was not looked up in this pass.",
+    "Audit 2026-11-08: breach 1 reworded so it rests on this record's event: the Commission's July 26, 1966 order (Docket 323, OSU id 1395, re-opened) names the 1878 removal and relocation onto the new Indian Territory reservation, which is the move this Act of May 27, 1878 funded (20 Stat. 63, Poncas item, re-opened on govinfo); the quote is exact. The 1868 Sioux treaty cause belongs to that treaty's record as well.",
+    "Audit 2026-11-08: breach 2 reworded so it no longer implies $211,200 less $48,389.46 gives $174,327.06 (it does not; the order states the principal without the arithmetic). The award page header in the scan reads 28 Ind. Cl. Comm. 335 while the collection's docket id reads p350; the citation 28 Ind. Cl. Comm. 350 is unconfirmed."
   ],
   "plain": {
     "promised": "Congress paid in 1878 to move the Ponca from the Quapaw lands to a new reservation in Indian Territory, after they had been taken from their 96,000 acre Nebraska reservation.",

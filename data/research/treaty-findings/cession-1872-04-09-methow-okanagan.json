@@ -1,0 +1,77 @@
+{
+  "id": "cession-1872-04-09-methow-okanagan",
+  "name": "Executive order of April 9, 1872 setting apart the first Colville Reservation, east of the Columbia",
+  "aka": [
+    "Original Colville Reservation order, 1872"
+  ],
+  "signed": "1872-04-09",
+  "citation": "Executive Order of April 9, 1872 (1 Kappler 915-16)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/856/mode/2up",
+  "nations": [
+    "Confederated Tribes of the Colville Reservation (Colville, Lake, Sanpoil, Nespelem, Okanogan, Methow)"
+  ],
+  "promises": [
+    "The President set apart a reservation known as the Colville reservation, east of the Columbia: from the mouth of the Spokane up the Columbia to the 49th parallel, east to the Pend d'Oreille River, up it to the Idaho line, south to the Little Spokane, and down the Spokane to the start (Royce schedule)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1956-02-29",
+      "what": "The Indian Claims Commission found that before 1872 white squatters, with the defendant's acquiescence, had occupied substantial areas of the petitioner tribes' lands, mostly east of the Columbia within this original reservation, and that this occupation led the reservation to be moved west. It held that the tribes' title to their lands outside the July 2, 1872 reservation was extinguished without payment of compensation as of that date.",
+      "whoFoundIt": "Indian Claims Commission, Docket 181, Findings of Fact (finding 42) and Opinion (4 Ind. Cl. Comm. 151 and 187, February 29, 1956)",
+      "source": {
+        "title": "Confederated Tribes of the Colville Reservation et al. v. United States, Docket 181, Findings of Fact (4 Ind. Cl. Comm. 151, February 29, 1956)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/441",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    }
+  ],
+  "landTaken": "The executive order of July 2, 1872 revoked this order and restored the tract to the public domain (Royce schedule; Docket 181 findings). Royce notes a portion was set apart again for the Spokane by executive order of January 18, 1881.",
+  "compensation": "In Docket 181 the Commission's 1960 final judgment, on the parties' stipulation, allowed $61,000.00 in offsets in all against its interlocutory judgment of March 5, 1959; the Methow Tribe's award was $152,000.00 less an offset of $6,700.00. The other tribes' figures are partly unreadable in the scan.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 856",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/856/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 857",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/857/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 858",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/858/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Confederated Tribes of the Colville Reservation et al. v. United States, Docket 181, Findings of Fact (4 Ind. Cl. Comm. 151, February 29, 1956)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/441",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Confederated Tribes of the Colville Reservation et al. v. United States, Docket 181, Opinion of the Commission (4 Ind. Cl. Comm. 187, February 29, 1956)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/14",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Confederated Tribes of the Colville Reservation et al. v. United States, Docket 181, Final Judgment (March 1, 1960)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/568",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "Under the 2026-11-08 rule the July 2, 1872 revocation is not by itself a breach; this record is marked broken because the Commission found the tribes' lands, including those inside this tract, taken without compensation. The same finding is used on cession-1872-07-02-methow-okanagan and cession-1871-01-01-methow-okanagan.",
+    "treaties.json links a University of Georgia statute file (533c.pdf) for this order; it did not load, and Royce lists the order as an executive order, not a statute.",
+    "Which part of this tract each tribe held aboriginally (the Colville valley lay east of the Columbia) was not mapped against the Commission's tract findings."
+  ],
+  "plain": {
+    "promised": "In April 1872 the President set apart a Colville Reservation east of the Columbia River, up to the Canadian line.",
+    "happened": "White settlers already held much of it, and in July 1872 it was revoked and moved west. The Indian Claims Commission found the tribes' lands outside the new reservation were taken without payment.",
+    "today": "The Commission's 1960 judgment paid for the tribes' lands; the Methow award was $152,000.00 less $6,700.00."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

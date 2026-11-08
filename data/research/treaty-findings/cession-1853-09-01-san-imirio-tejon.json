@@ -1,0 +1,39 @@
+{
+  "id": "cession-1853-09-01-san-imirio-tejon",
+  "name": "Tejon (Sebastian) Reserve, established by Superintendent Beale, September 1853",
+  "aka": [
+    "Tejon Pass Reserve",
+    "Sebastian Indian Reservation"
+  ],
+  "nations": [
+    "Tejon, Castake, San Imirio and other peoples of the Tejon area (Kitanemuk, Yokuts and others)"
+  ],
+  "promises": [
+    "This was not a treaty. Royce records that California Superintendent of Indian Affairs Edward F. Beale established a reserve called Tejon Pass for these peoples in September 1853. The same peoples were parties to the unratified treaty of June 10, 1851, which had reserved them a tract between Tejon Pass and the Kern River."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "Royce records that the reserve was surveyed at about 75,000 acres, that on November 25, 1856 the Secretary of the Interior ordered it cut to 25,000 acres to fit the Act of March 3, 1855, that ex-superintendent Beale and others then obtained patents under old Spanish grants for most of the original reserve, and that the last of the Indians were moved to the Tule River reserve, as reported July 11, 1864. No court, claims commission or government finding treating this as a breach was found; by Jordan's rule of 2026-11-08 the reduction and abandonment of a reserve set up by the executive is not by itself a breach.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule pp. 788-789 (Tejon, Castake, San Imirio et al.; area 311)",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/788/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), full text",
+      "url": "https://archive.org/download/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The unratified treaty of June 10, 1851 with the same peoples has its own findings file (cession-1851-06-10-buena-vista-car-i-se-cas-take-hol-mi-uk-); the land loss under the 1851 treaty belongs there, not here.",
+    "United States v. Title Insurance and Trust Co., 265 U.S. 472 (1924), held that Indians who never presented a claim to the 1851 California Land Commission had no right of occupancy against a patented Mexican grant made in 1843. Secondary sources tie it to Rancho El Tejon, but the opinion opened does not name Tejon, so it is not recorded here as concerning this land.",
+    "California Indians' land claims before the Indian Claims Commission (Dockets 31 and 37) ended in a compromise settlement, which is litigation, not a finding; whether it covered this reserve was not checked.",
+    "treaties.json lists 'Nonfederally Recognized Indian Groups'; the Tejon Indian Tribe is reported in secondary sources to be federally recognized today. Not confirmed from a federal or tribal source, so not changed here.",
+    "Royce gives the month (September 1853) but no day; the 1853-09-01 date in treaties.json is a placeholder."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}
