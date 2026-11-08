@@ -1,0 +1,63 @@
+{
+  "id": "kappler-580",
+  "name": "Treaty with the Menominee, 1848 (Treaty of Lake Poygan)",
+  "aka": [
+    "Treaty of Lake Pow-aw-hay-kon-nay, October 18, 1848"
+  ],
+  "signed": "1848-10-18",
+  "ratified": "1849-01-23",
+  "citation": "9 Stat. 952",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-menominee-1848-0572",
+  "nations": [
+    "Menominee Indian Tribe of Wisconsin"
+  ],
+  "promises": [
+    "Article 2: the Menominee ceded all their lands in Wisconsin.",
+    "Article 3: the United States gave them, 'for a home, to be held as Indians' lands are held', land west of the Mississippi ceded by the Chippewa and Pillager bands in 1847, guaranteed to contain not less than 600,000 acres.",
+    "Article 4 and following: further payments in money set out in the treaty."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The Menominee did not move to the Minnesota land; the Treaty of Wolf River of May 12, 1854 (10 Stat. 1064) gave it back to the United States and set apart a reservation on the Wolf River in Wisconsin. The 1954 Termination Act applied to that 1854 reservation, not to land this treaty created. No Indian Claims Commission decision and no Court of Claims opinion on this treaty was found.",
+  "nationVoice": [
+    {
+      "nation": "Menominee Indian Tribe of Wisconsin",
+      "summary": "The Tribe publishes the full text of the 1848 treaty among its historical documents.",
+      "url": "https://menominee-nsn.gov/CulturePages/Treaty1848"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Menominee, 1848 (Kappler, vol. 2, p. 572)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-menominee-1848-0572",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "October 18, 1848 Treaty",
+      "url": "https://menominee-nsn.gov/CulturePages/Treaty1848",
+      "publisher": "Menominee Indian Tribe of Wisconsin"
+    },
+    {
+      "title": "Menominee Tribe of Indians v. United States, 95 Ct. Cl. 232 (1941)",
+      "url": "https://static.case.law/us-ct-cl/95/cases/0232-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 780",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/780/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The Court of Claims opinion of 1941 (95 Ct. Cl. 232) concerns the 1854 reservation's swamp lands; none of the later Menominee opinions opened concerns the 1848 price or the Minnesota land.",
+    "treaties.json lists Royce area 321 (Minnesota) with this treaty; that is the 600,000-acre western tract given, not land ceded by the Menominee. The cession is area 271.",
+    "A deeper pass could look for a Menominee claim about the 1848 consideration under the 1935 jurisdictional act and for a Menominee account of Oshkosh's refusal to move to Crow Wing."
+  ],
+  "plain": {
+    "promised": "For all their Wisconsin land, the Menominee were to get money and a western home of at least 600,000 acres in Minnesota.",
+    "happened": "The Menominee did not move; an 1854 treaty traded the Minnesota land for a Wolf River reservation in Wisconsin. No ruling on this treaty was found.",
+    "today": "The Menominee publish the treaty text. No claim about its price was found."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cession-1870-07-15-kickapoo",
+  "auditedAt": "2026-11-08",
+  "verdict": "downgraded",
+  "checked": [
+    "Act of July 15, 1870, ch. 296, 16 Stat. 335, 359 (govinfo): $25,000 to collect bands of Kickapoo or other Indians roving on the borders of Texas and Mexico and locate and subsist them in the Indian Territory.",
+    "ICC Docket 318 findings (pointer 1010) and final judgment (pointer 1926), June 11, 1969: 206,466 acres, about 184,300 ceded by the agreement of September 9, 1891; $64,650 cash, $215,000 appropriated 1908, total $279,650 stated by the Commission; title as of October 1, 1874 as a gratuity; McLoud council August 3, 1968, vote 38 to 7; compromise $273,250.",
+    "The compromise concerns the 1891 cession, recorded in cession-1893-03-03-kickapoo, not this appropriation act."
+  ],
+  "changes": [
+    "Removed the litigation breach and moved the Docket 318 result into today with a pointer to cession-1893-03-03-kickapoo; status contested -> no-breach-found.",
+    "Rewrote plain to match.",
+    "Audit line added to openQuestions."
+  ],
+  "unverifiable": [
+    "Royce area 650 entry not reopened."
+  ],
+  "treatiesJsonErrors": [
+    "This appropriation act is given Royce 650; the reservation was set apart later (1883) and ceded by the 1891 agreement ratified March 3, 1893 (cession-1893-03-03-kickapoo). Four entries share area 650."
+  ]
+}

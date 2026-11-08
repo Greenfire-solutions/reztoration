@@ -38,7 +38,18 @@
     "happened": "In 1978 the Indian Claims Commission valued the Kickapoo cession under this and the July 1819 treaty at $11,833,330, found the $406,200 paid unconscionable, and awarded $11,427,130 subject to offsets.",
     "today": "The case was transferred to the Court of Claims in 1978; the final outcome has not been traced. The award is shared with the July 1819 Kickapoo treaty."
   },
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Kickapoo Tribe in Kansas (Kiikaapoa)",
+      "summary": "In testimony to Kansas legislators the Tribe lists its two 1819 treaties with the United States among the treaties it has made.",
+      "url": "https://kslegislature.gov/li/b2023_24/committees/ctte_jt_st_tribal_1/documents/testimony/20240911_12.pdf"
+    },
+    {
+      "nation": "Kickapoo Tribe in Kansas",
+      "summary": "Chairman Lester Randall told the Senate in 2018 that the United States moved the Tribe from Wisconsin through Illinois and Missouri to Kansas under nine treaties made between 1809 and 1862.",
+      "url": "https://www.narf.org/nill/documents/20180711_kickapoo_testimony_s2154.html"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Kickapoo, 1819 (Kappler, vol. 2, p. 184)",
@@ -74,6 +85,16 @@
       "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), area 110",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/698/mode/2up",
       "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Kickapoo Tribe in Kansas, testimony slides to the Kansas Joint Committee on State-Tribal Relations, September 11, 2024",
+      "url": "https://kslegislature.gov/li/b2023_24/committees/ctte_jt_st_tribal_1/documents/testimony/20240911_12.pdf",
+      "publisher": "Kansas Legislature (testimony of the Kickapoo Tribe in Kansas)"
+    },
+    {
+      "title": "Testimony of Lester Randall, Chairman, Kickapoo Tribe in Kansas, in support of S. 2154, Senate Committee on Indian Affairs, July 18, 2018",
+      "url": "https://www.narf.org/nill/documents/20180711_kickapoo_testimony_s2154.html",
+      "publisher": "Kickapoo Tribe in Kansas (copy held by the National Indian Law Library, NARF)"
     }
   ],
   "openQuestions": [

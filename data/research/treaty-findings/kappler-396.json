@@ -1,12 +1,17 @@
 {
   "id": "kappler-396",
   "name": "Treaty with the Creeks, 1833 (Treaty of Fort Gibson)",
-  "aka": ["Fort Gibson treaty with the Creeks"],
+  "aka": [
+    "Fort Gibson treaty with the Creeks"
+  ],
   "signed": "1833-02-14",
   "proclaimed": "1834-04-12",
   "citation": "7 Stat. 417",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-creeks-1833-0388",
-  "nations": ["Mvskoke (Muscogee Creek)", "Seminole (assigned a home within the Creek country by Article 4)"],
+  "nations": [
+    "Mvskoke (Muscogee Creek)",
+    "Seminole (assigned a home within the Creek country by Article 4)"
+  ],
   "promises": [
     "Article 2: boundaries for the Creek country west of the Mississippi, agreed with the Cherokee delegates.",
     "Article 3: a patent in fee simple to the Creek Nation for that land, the right guaranteed so long as they existed as a nation and occupied the country.",
@@ -17,7 +22,13 @@
   "status": "no-breach-found",
   "breaches": [],
   "today": "The patent promised in Article 3 issued in 1852. In McGirt v. Oklahoma (2020) the Supreme Court traced the Creek Reservation to the 1832 treaty and this treaty's 'permanent home to the whole Creek nation of Indians', and held that the reservation has never been disestablished. The Seminole home promised in Article 4 was assigned by the commissioners at Fort Gibson on March 28, 1833 (7 Stat. 423). Later losses of this land are recorded under the treaties that made them: the 1856 treaty with the Creeks and Seminole (kappler-764) and the 1866 Creek treaty (kappler-939).",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Muscogee (Creek) Nation",
+      "summary": "In its 2020 Supreme Court brief in McGirt v. Oklahoma, the Nation says the 1833 treaty set precise boundaries for a permanent home for the whole Creek Nation and promised a fee simple patent, which issued in 1852 repeating those boundaries word for word, and that this homeland is its reservation.",
+      "url": "https://www.supremecourt.gov/DocketPDF/18/18-9526/132680/20200211152306523_Amicus%20Brief%20of%20Muscogee%20Creek%20Nation.pdf"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Creeks, 1833 (Kappler, vol. 2, p. 388)",
@@ -38,6 +49,11 @@
       "title": "Creek Nation v. United States, Docket 276, Opinion of the Commission (December 15, 1965), on the 1852 patent",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1755",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Brief for Amicus Curiae Muscogee (Creek) Nation in Support of Petitioner, McGirt v. Oklahoma, No. 18-9526 (filed February 11, 2020)",
+      "url": "https://www.supremecourt.gov/DocketPDF/18/18-9526/132680/20200211152306523_Amicus%20Brief%20of%20Muscogee%20Creek%20Nation.pdf",
+      "publisher": "Muscogee (Creek) Nation, Office of the Attorney General (Supreme Court of the United States docket)"
     }
   ],
   "openQuestions": [

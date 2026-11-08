@@ -1,12 +1,16 @@
 {
   "id": "kappler-190",
   "name": "Treaty with the Kickapoo, 1819 (Treaty of Edwardsville)",
-  "aka": ["Kickapoo treaty of July 30, 1819"],
+  "aka": [
+    "Kickapoo treaty of July 30, 1819"
+  ],
   "signed": "1819-07-30",
   "proclaimed": "1821-01-13",
   "citation": "7 Stat. 200",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-kickapoo-1819-0182",
-  "nations": ["Kickapoo"],
+  "nations": [
+    "Kickapoo"
+  ],
   "promises": [
     "Article 5: $2,000 in silver a year for fifteen years, paid at the Kickapoo town on the waters of the Osage River.",
     "Article 6: $3,000 in merchandise at the signing and a tract in Missouri between the Pomme de Terre and Osage rivers, ceded to the Kickapoo and their heirs forever, not to be sold without the President's consent.",
@@ -36,7 +40,18 @@
     "happened": "The Indian Claims Commission found in 1978 that the Illinois and Indiana land was worth $11,833,330 against $406,200 in allowable payment, and that the price was unconscionable.",
     "today": "The Commission awarded $11,427,130, subject to offsets, and sent the case to the Court of Claims in 1978. What was finally paid is not confirmed in this file."
   },
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Kickapoo Tribe in Kansas (Kiikaapoa)",
+      "summary": "In testimony to Kansas legislators the Tribe lists its 1819 treaties among its treaties with the United States and sets out the 1832 treaty under which it left the country it had been given on the Osage River in Missouri.",
+      "url": "https://kslegislature.gov/li/b2023_24/committees/ctte_jt_st_tribal_1/documents/testimony/20240911_12.pdf"
+    },
+    {
+      "nation": "Kickapoo Tribe in Kansas",
+      "summary": "Chairman Lester Randall told the Senate in 2018 that the United States moved the Tribe from Wisconsin through Illinois and Missouri to Kansas under nine treaties made between 1809 and 1862.",
+      "url": "https://www.narf.org/nill/documents/20180711_kickapoo_testimony_s2154.html"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Kickapoo, 1819 (Kappler, vol. 2, p. 182)",
@@ -62,6 +77,16 @@
       "title": "Pottawatomie Tribe et al. v. United States, Docket 15-D et al., Order Certifying and Transferring Cases to the Court of Claims (September 29, 1978)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/931",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Kickapoo Tribe in Kansas, testimony slides to the Kansas Joint Committee on State-Tribal Relations, September 11, 2024",
+      "url": "https://kslegislature.gov/li/b2023_24/committees/ctte_jt_st_tribal_1/documents/testimony/20240911_12.pdf",
+      "publisher": "Kansas Legislature (testimony of the Kickapoo Tribe in Kansas)"
+    },
+    {
+      "title": "Testimony of Lester Randall, Chairman, Kickapoo Tribe in Kansas, in support of S. 2154, Senate Committee on Indian Affairs, July 18, 2018",
+      "url": "https://www.narf.org/nill/documents/20180711_kickapoo_testimony_s2154.html",
+      "publisher": "Kickapoo Tribe in Kansas (copy held by the National Indian Law Library, NARF)"
     }
   ],
   "openQuestions": [

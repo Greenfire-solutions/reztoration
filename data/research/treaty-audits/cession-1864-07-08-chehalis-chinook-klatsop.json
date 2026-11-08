@@ -1,0 +1,20 @@
+{
+  "id": "cession-1864-07-08-chehalis-chinook-klatsop",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "ICC Docket 237, opinion of June 25, 1956 (pointer 352): reservation of 4,224.63 acres approved by the Secretary of the Interior on July 8, 1864; claim that the order of October 11, 1886 took 3,753.63 acres; agent Eells reported allotment in 1885 and patents by 1889; no recovery on that claim.",
+    "Chehalis Tribe, People of the Sands: July 1864 order establishing the reservation near present-day Oakville, where the Tribe lives today.",
+    "No breach claimed; no-breach-found supported. Plain matches the file."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [
+    "Royce entry 459 (October 1, 1886 date) not reopened; the date conflict is already in openQuestions."
+  ],
+  "treatiesJsonErrors": [
+    "This entry is the Chehalis Reservation itself (Royce 459), not a cession.",
+    "scheduleTribes and presentDayTribes include Chinook and Klatsop (and Quinault, Shoalwater Bay); the 1864 reserve was for the Chehalis."
+  ]
+}

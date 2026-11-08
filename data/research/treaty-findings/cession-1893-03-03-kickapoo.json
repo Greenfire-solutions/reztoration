@@ -39,7 +39,13 @@
     "happened": "The Kickapoo Tribe of Oklahoma claimed the price for about 184,300 acres was unconscionable. Congress had added $215,000 in 1908. The claim was settled without a finding on the land's value.",
     "today": "The Indian Claims Commission entered a compromise judgment of $273,250 in 1969, which the tribe's General Council approved. Whether it was paid out was not traced."
   },
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Kickapoo Tribe of Oklahoma",
+      "summary": "The Tribe says that after the Kickapoo Allotment Act of 1893 it lost much of its land, leaving the tribe desolate and in poverty, and that it did not begin to recover until the 1930s and the 1960s.",
+      "url": "https://www.kickapootribeofoklahoma.com/"
+    }
+  ],
   "sources": [
     {
       "title": "Act of March 3, 1893, ch. 203, 27 Stat. 557 (ratifying the Kickapoo agreement of September 9, 1891)",
@@ -60,6 +66,11 @@
       "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule for 1893, area 650",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/946/mode/2up",
       "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Kickapoo Tribe of Oklahoma, home page history",
+      "url": "https://www.kickapootribeofoklahoma.com/",
+      "publisher": "Kickapoo Tribe of Oklahoma"
     }
   ],
   "openQuestions": [

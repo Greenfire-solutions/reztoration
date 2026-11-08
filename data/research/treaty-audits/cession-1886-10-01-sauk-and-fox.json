@@ -1,0 +1,16 @@
+{
+  "id": "cession-1886-10-01-sauk-and-fox",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce (full text, p. 922-923): 'Sauk and Fox (living in Iowa). Land owned and occupied by them in Tama county, Iowa', printed under Cessions of 1886. Matches.",
+    "Land bought by the Meskwaki, not ceded; no-breach-found is right."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "meskwaki.org history page not re-opened in this pass."
+  ],
+  "treatiesJsonErrors": [
+    "Date 1886-10-01 is not an event of this entry, and presentDayTribes include the Missouri and Oklahoma Sac and Fox (already noted in the file)."
+  ]
+}

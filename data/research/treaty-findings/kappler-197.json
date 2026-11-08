@@ -1,12 +1,16 @@
 {
   "id": "kappler-197",
   "name": "Treaty with the Kickapoo, 1820",
-  "aka": ["Supplementary treaty of St. Louis, July 19, 1820"],
+  "aka": [
+    "Supplementary treaty of St. Louis, July 19, 1820"
+  ],
   "signed": "1820-07-19",
   "proclaimed": "1821-01-13",
   "citation": "7 Stat. 208",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-kickapoo-1820-0189",
-  "nations": ["Kickapoo (Kiikaapoa), today the Kickapoo Tribe in Kansas, the Kickapoo Tribe of Oklahoma and the Kickapoo Traditional Tribe of Texas"],
+  "nations": [
+    "Kickapoo (Kiikaapoa), today the Kickapoo Tribe in Kansas, the Kickapoo Tribe of Oklahoma and the Kickapoo Traditional Tribe of Texas"
+  ],
   "promises": [
     "Article 6 of the Edwardsville treaty of July 30, 1819 was rewritten (Article 1).",
     "In exchange for the Illinois cession of 1819, the United States ceded to the Kickapoo a tract in Missouri between the Pomme de Terre and Osage rivers and the Osage line, to be possessed as they had possessed their Illinois lands (amended Article 6).",
@@ -17,12 +21,49 @@
   "landTaken": "None by this treaty. Royce Area 179 is the Missouri tract this treaty granted to the Kickapoo; Royce records that it was ceded back to the United States by the treaty of October 24, 1832.",
   "compensation": "Not applicable to this treaty. For the 1832 cession of the tract, which the Commission recorded as 1,868,500 acres, the Kickapoo claimed an unconscionable price in Docket 193; the claim was settled by compromise for $540,000, entered as final judgment on February 29, 1968.",
   "today": "No court or Commission finding that a promise of this treaty was not kept was found. The 1968 compromise concerns the later 1832 treaty.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Kickapoo Tribe in Kansas",
+      "summary": "Chairman Lester Randall told the Senate in 2018 that the United States moved the Tribe from Wisconsin through Illinois and Missouri to Kansas under nine treaties made between 1809 and 1862.",
+      "url": "https://www.narf.org/nill/documents/20180711_kickapoo_testimony_s2154.html"
+    },
+    {
+      "nation": "Kickapoo Tribe in Kansas (Kiikaapoa)",
+      "summary": "In testimony to Kansas legislators the Tribe sets out the 1832 treaty under which it moved from the country ceded on the Osage River in Missouri to its present reservation in Kansas.",
+      "url": "https://kslegislature.gov/li/b2023_24/committees/ctte_jt_st_tribal_1/documents/testimony/20240911_12.pdf"
+    }
+  ],
   "sources": [
-    { "title": "Treaty with the Kickapoo, 1820 (Kappler, vol. 2, p. 189)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-kickapoo-1820-0189", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
-    { "title": "Kickapoo Tribe of Kansas et al. v. United States, Docket 193, Findings of Fact on Compromise Settlement (February 29, 1968)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1795", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Kickapoo Tribe of Kansas et al. v. United States, Docket 193, Final Judgment (February 29, 1968)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1650", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Royce, Indian Land Cessions in the United States (1899), schedule entry for the Kickapoo treaty of July 19, 1820", "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt", "publisher": "Bureau of American Ethnology, 18th Annual Report, full text via Internet Archive" }
+    {
+      "title": "Treaty with the Kickapoo, 1820 (Kappler, vol. 2, p. 189)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-kickapoo-1820-0189",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Kickapoo Tribe of Kansas et al. v. United States, Docket 193, Findings of Fact on Compromise Settlement (February 29, 1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1795",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Kickapoo Tribe of Kansas et al. v. United States, Docket 193, Final Judgment (February 29, 1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1650",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule entry for the Kickapoo treaty of July 19, 1820",
+      "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+      "publisher": "Bureau of American Ethnology, 18th Annual Report, full text via Internet Archive"
+    },
+    {
+      "title": "Testimony of Lester Randall, Chairman, Kickapoo Tribe in Kansas, in support of S. 2154, Senate Committee on Indian Affairs, July 18, 2018",
+      "url": "https://www.narf.org/nill/documents/20180711_kickapoo_testimony_s2154.html",
+      "publisher": "Kickapoo Tribe in Kansas (copy held by the National Indian Law Library, NARF)"
+    },
+    {
+      "title": "Kickapoo Tribe in Kansas, testimony slides to the Kansas Joint Committee on State-Tribal Relations, September 11, 2024",
+      "url": "https://kslegislature.gov/li/b2023_24/committees/ctte_jt_st_tribal_1/documents/testimony/20240911_12.pdf",
+      "publisher": "Kansas Legislature (testimony of the Kickapoo Tribe in Kansas)"
+    }
   ],
   "openQuestions": [
     "treaties.json treats this entry as a cession of Royce Area 179 in Missouri. Royce's schedule entry for this treaty describes the tract it granted (the area treaties.json numbers 179) to the Kickapoo and that they ceded it in 1832; the cession itself belongs to the treaty of October 24, 1832 (7 Stat. 391). Not edited.",

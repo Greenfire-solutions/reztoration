@@ -51,7 +51,18 @@
     "happened": "The Indian Claims Commission found in 1958 that the 1,404,790 acres ceded were worth $1,938,464.00 and that the $829,000.00 paid was unconscionable. Congress later had the land kept for absent Shawnees sold to settlers at $2.50 an acre.",
     "today": "A final award was entered in 1961; its amount is not stated here. The claim over the absentee land was settled for $300,000 in 1971."
   },
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Shawnee Tribe",
+      "summary": "The Shawnee Tribe says that in 1854 the United States decimated its Kansas reservation to 160,000 acres, which with settler abuses during and after the Civil War forced the Kansas Shawnees to move to the Cherokee Nation, and that the 1854 reservation was never formally extinguished.",
+      "url": "https://web.archive.org/web/20210516142230/https://www.shawnee-nsn.gov/history"
+    },
+    {
+      "nation": "Absentee Shawnee Tribe of Indians of Oklahoma",
+      "summary": "The Absentee Shawnee Tribe says it is called absentee because its people were not present at the signing of the 1854 treaty for a Kansas reservation and had chosen to go to Indian Territory or Texas instead.",
+      "url": "https://www.astribe.com/about-us"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Shawnee, 1854 (Kappler, vol. 2, p. 618)",
@@ -102,6 +113,16 @@
       "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule pp. 792-793",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/792/mode/2up",
       "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "History of the People (archived May 16, 2021)",
+      "url": "https://web.archive.org/web/20210516142230/https://www.shawnee-nsn.gov/history",
+      "publisher": "Shawnee Tribe"
+    },
+    {
+      "title": "About Us",
+      "url": "https://www.astribe.com/about-us",
+      "publisher": "Absentee Shawnee Tribe of Indians of Oklahoma"
     }
   ],
   "openQuestions": [

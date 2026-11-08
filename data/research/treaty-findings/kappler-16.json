@@ -49,6 +49,11 @@
       "nation": "Cherokee Nation",
       "summary": "The Nation's history describes the removal forced on it after the 1835 treaty.",
       "url": "https://www.cherokee.org/about-the-nation/history/"
+    },
+    {
+      "nation": "Cherokee Nation",
+      "summary": "The Cherokee Nation's OsiyoTV almanac says the Treaty of Hopewell was the first treaty between the Cherokee Nation and the newly formed United States, and the first of many treaties to be broken only a few years later.",
+      "url": "https://osiyo.tv/watch/almanac/treaty-of-hopewell"
     }
   ],
   "sources": [
@@ -71,6 +76,11 @@
       "title": "History",
       "url": "https://www.cherokee.org/about-the-nation/history/",
       "publisher": "Cherokee Nation"
+    },
+    {
+      "title": "Cherokee Almanac: Treaty of Hopewell (OsiyoTV, season 3, episode 301, 2017)",
+      "url": "https://osiyo.tv/watch/almanac/treaty-of-hopewell",
+      "publisher": "Cherokee Nation, OsiyoTV"
     }
   ],
   "openQuestions": [

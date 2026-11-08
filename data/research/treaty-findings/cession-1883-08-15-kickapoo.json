@@ -18,7 +18,13 @@
   "status": "no-breach-found",
   "breaches": [],
   "today": "The reservation was ceded under the agreement of September 9, 1891, ratified by the Act of March 3, 1893 (27 Stat. 557); the claim that the price for that cession was unconscionable ended in a 1969 settlement (see cession-1893-03-03-kickapoo). The Indian Claims Commission recorded that the Kickapoo received title to the reservation as of October 1, 1874 as a gratuity from the United States, and that its value was set off against an earlier award in Docket 316.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Kickapoo Tribe of Oklahoma",
+      "summary": "The Tribe says a military scheme in 1873 forced some of the Mexican Kickapoo to move to Indian Territory and that they were assigned a reservation in 1883.",
+      "url": "https://www.kickapootribeofoklahoma.com/"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule for 1883, pp. 912-913, area 650",
@@ -29,6 +35,11 @@
       "title": "Kickapoo Tribe of Oklahoma v. United States, Docket 318, Findings of Fact (June 11, 1969), 21 Ind. Cl. Comm. 39",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1010",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Kickapoo Tribe of Oklahoma, home page history",
+      "url": "https://www.kickapootribeofoklahoma.com/",
+      "publisher": "Kickapoo Tribe of Oklahoma"
     }
   ],
   "openQuestions": [

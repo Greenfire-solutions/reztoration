@@ -1,0 +1,22 @@
+{
+  "id": "cession-1873-09-13-uta",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Brunot Agreement text (Kappler vol. 1, p. 151): Articles I to VI as stated; dated the thirteenth day of September 1873.",
+    "ICC Docket 327 opinion, September 14, 1962 (pointer 645): $507,662.84 consideration, $8,500,000 value as of April 29, 1874, \"so grossly inadequate\" and unconscionable; final judgment February 18, 1965 (pointer 705) of $7,908,586.16 on a compromise of offsets.",
+    "Docket 327 date question: the opinion says September 18, 1873 in its statement of facts and September 13, 1873, the date the Brunot Agreement was signed, later on; the findings (pointer 841) say September 18. The agreement's own text says the thirteenth, so September 13 stands.",
+    "Findings: Royce area 566 3,765,535 acres, Uncompahgre Park 10,240 acres.",
+    "402 U.S. 159 (Cornell): decided April 26, 1971; 3.7 million acres; footnote 3 quote exact.",
+    "Southern Ute Brunot Area page: 3.7 million acres, hunting right undiminished, MOU with Colorado."
+  ],
+  "changes": [
+    "Audit line added to openQuestions recording the Docket 327 date check."
+  ],
+  "unverifiable": [
+    "Chapter number 136 of 18 Stat. 36 not seen in the transcription."
+  ],
+  "treatiesJsonErrors": [
+    "Royce area 566 is given to four entries."
+  ]
+}

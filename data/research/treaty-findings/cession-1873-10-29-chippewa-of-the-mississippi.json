@@ -38,9 +38,10 @@
   ],
   "openQuestions": [
     "The order gave land to the bands, so no promise of its own was found to have been broken. The loss came with the Nelson Act agreements of 1889, which have their own queue entries; the Minnesota Chippewa Tribe's Nelson Act claims before the Indian Claims Commission were not reopened here.",
-    "treaties.json lists Mille Lacs and White Earth as present-day tribes; the additions were to the Leech Lake and Winnibigoshish reserves, now part of the Leech Lake Band of Ojibwe, which is not listed. Not edited.",
+    "treaties.json lists the Leech Lake, Mille Lacs and White Earth bands as present-day tribes; the additions were to the Leech Lake and Winnibigoshish reserves, now part of the Leech Lake Band of Ojibwe. Mille Lacs and White Earth appear to be listed for the 1867 cession as a whole. Not edited.",
     "The order was read only in Royce's summary, not in Kappler vol. 1.",
-    "See cession-1874-05-26-chippewa-of-the-mississippi for the second additions; Royce records that the Pillager and Winnibigoshish bands ceded their reservations under the Nelson Act agreement signed August 21, 1889."
+    "See cession-1874-05-26-chippewa-of-the-mississippi for the second additions; Royce records that the Pillager and Winnibigoshish bands ceded their reservations under the Nelson Act agreement signed August 21, 1889.",
+    "Audit 2026-11-08: corrected the treaties.json note, which said the Leech Lake Band was not listed; treaties.json does list it, alongside Mille Lacs and White Earth."
   ],
   "plain": {
     "promised": "An addition, not a cession. The President added land to the Lake Winnibigoshish reservation, land the Chippewa had ceded in 1867.",

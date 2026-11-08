@@ -39,17 +39,6 @@
         "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/710",
         "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
       }
-    },
-    {
-      "kind": "litigation",
-      "date": "2026-07-31",
-      "what": "The Tribe sued in 2018 for the return and value of Uncompahgre Reservation lands. The D.C. Circuit ruled against it on July 31, 2026, upholding Interior's 2018 decision that the lands are not eligible for restoration under the Indian Reorganization Act.",
-      "whoFoundIt": "Ute Indian Tribe of the Uintah and Ouray Indian Reservation v. United States, No. 25-5111 (D.C. Cir. July 31, 2026)",
-      "source": {
-        "title": "Ute Indian Tribe of the Uintah and Ouray Indian Reservation v. United States, No. 25-5111 (D.C. Cir. July 31, 2026), opinion excerpt",
-        "url": "https://www.leagle.com/decision/infco20260731137",
-        "publisher": "Leagle"
-      }
     }
   ],
   "landTaken": "The Tribe's 2018 suits describe the historic Uncompahgre Reservation as about 1.8 million acres (Salt Lake Tribune, March 13, 2018); news reports of the 2026 ruling describe the claim as 1.5 million to 2 million acres. No acreage was found in the order or in Royce.",
@@ -98,7 +87,8 @@
     "The Act of June 7, 1897 that allotted the reservation and opened the rest was not opened; reports of it come from search results only and are left out.",
     "The D.C. Circuit opinion was read only in an excerpt; its holding is taken from that excerpt (Interior and the district court found the lands not eligible) and from FOX 13. The full opinion should be read, and the status of the Court of Federal Claims case checked.",
     "The Tenth Circuit's rulings in Ute Indian Tribe v. Utah on whether the Uncompahgre Reservation was diminished were not opened; they would go in today, not breaches, unless they found a wrong.",
-    "utetribe.com returned a bot check on 2026-11-08, so the Tribe's own pages were not read; its voice here is its 2021 news release."
+    "utetribe.com returned a bot check on 2026-11-08, so the Tribe's own pages were not read; its voice here is its 2021 news release.",
+    "Audit 2026-11-08: removed the 2026 D.C. Circuit decision from breaches. It is a ruling against the Tribe (Interior found the lands not eligible for restoration), so under the rules it belongs in today, where it already is. Status unchanged (contested on the Tribe's statement and the Docket 349 compromise)."
   ],
   "plain": {
     "promised": "Not a treaty. In 1882 the President set apart a reservation in eastern Utah for the Uncompahgre Utes. The Ute Indian Tribe says this was the new homeland the United States promised.",

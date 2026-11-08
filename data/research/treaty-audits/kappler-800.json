@@ -1,0 +1,14 @@
+{
+  "id": "kappler-800",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Kappler header on the Oklahoma State University Tribal Treaties Database matches the file's signing, ratification/proclamation dates and Statutes at Large citation.",
+    "ICC full-text search for 'Black River', 'Munsee' and 'Chippewa Munsee': Docket 57 (Saginaw Chippewa, id 2313) and the Stockbridge Munsee dockets do not concern the 1859 Kansas reservation.",
+    "no-breach-found is consistent with what was searched."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "The later sale of the Franklin County reservation was not researched (already in openQuestions)."
+  ]
+}

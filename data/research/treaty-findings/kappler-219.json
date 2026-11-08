@@ -1,0 +1,80 @@
+{
+  "id": "kappler-219",
+  "name": "Treaty with the Choctaw, 1825 (Treaty of Washington City)",
+  "aka": [
+    "Choctaw treaty of January 20, 1825"
+  ],
+  "signed": "1825-01-20",
+  "proclaimed": "1825-02-19",
+  "citation": "7 Stat. 234",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-choctaw-1825-0211",
+  "nations": [
+    "Choctaw Nation of Oklahoma",
+    "Mississippi Band of Choctaw Indians"
+  ],
+  "promises": [
+    "Article 1: a line from 100 paces east of Fort Smith due south to Red River would be the permanent boundary between the United States and the Choctaws; the United States would move settlers east of it and prevent new settlement west of it.",
+    "Article 2: $6,000 a year forever, applied for twenty years to schools in the nation.",
+    "Article 3: $6,000 a year for sixteen years in place of the land sale fund of the 1820 treaty.",
+    "Article 7: Congress would not apportion Choctaw lands among families or bring them under United States law without the consent of the Choctaw Nation.",
+    "Article 9: an agent and a blacksmith for the Choctaws west of the Mississippi."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1886-11-15",
+      "what": "The Supreme Court held that in locating the line fixed as the permanent boundary of Arkansas by the Act of March 3, 1875, the government made a mistake that took 136,204 acres of Choctaw land into the public lands, valued by the Court of Claims at $68,102, and that this was a just and valid claim.",
+      "whoFoundIt": "Choctaw Nation v. United States, 119 U.S. 1 (1886)",
+      "source": {
+        "title": "Choctaw Nation v. United States, 119 U.S. 1 (1886)",
+        "url": "https://www.govinfo.gov/content/pkg/USREPORTS-119/pdf/USREPORTS-119-1.pdf",
+        "publisher": "US Government Publishing Office, United States Reports"
+      },
+      "quote": "the government made a mistake, whereby they embraced in the territory appropriated by the United States as part of the public lands"
+    }
+  ],
+  "landTaken": "The Supreme Court gives 136,204 acres (the fraction is unreadable in the scan) of Indian lands taken by the mistaken line.",
+  "compensation": "The Supreme Court included $68,102 for this land in the Choctaw Nation's judgment. The Encyclopedia of Arkansas says a surveyor appointed in 1877 found the Choctaws were owed $175,049.57 at $1.25 an acre, and that in 1888 they were paid $68,102.00, or $0.50 an acre.",
+  "today": "The Encyclopedia of Arkansas says the Choctaw line was at last settled at the erroneous 1825 Conway survey. No Indian Claims Commission ruling on the 1825 cession itself was found.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Choctaw, 1825 (Kappler, vol. 2, p. 211)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-choctaw-1825-0211",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Choctaw Nation v. United States, 119 U.S. 1 (1886)",
+      "url": "https://www.govinfo.gov/content/pkg/USREPORTS-119/pdf/USREPORTS-119-1.pdf",
+      "publisher": "US Government Publishing Office, United States Reports"
+    },
+    {
+      "title": "Choctaw Boundary Line",
+      "url": "https://encyclopediaofarkansas.net/entries/choctaw-boundary-line-6896/",
+      "publisher": "Encyclopedia of Arkansas, Central Arkansas Library System"
+    },
+    {
+      "title": "Edge of Indian Territory",
+      "url": "https://www.nps.gov/places/000/edge-of-indian-territory.htm",
+      "publisher": "National Park Service, Fort Smith National Historic Site"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 708",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/708/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The Supreme Court ties the line to the 1855 treaty's first article and the Act of March 3, 1875 (18 Stat. 476); the line itself is the one this 1825 treaty made permanent. The 1875 Act was not opened.",
+    "The Choctaw Nation hosts the treaty text (choctawnation.com) but no Choctaw account of this boundary was found.",
+    "Whether the Indian Claims Commission valued the 1825 cession (Royce area 122) was not found; Choctaw Docket 249 concerns other matters."
+  ],
+  "plain": {
+    "promised": "A line east of Fort Smith running due south to Red River would be the permanent Choctaw boundary, with settlers kept east of it, plus yearly payments and schools.",
+    "happened": "The Supreme Court held in 1886 that the government's mistaken survey of that line took 136,204 acres of Choctaw land, valued at $68,102.",
+    "today": "The $68,102 was included in the Choctaw judgment; a historian reports it was paid in 1888. The mistaken line was kept as the boundary."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

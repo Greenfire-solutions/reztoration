@@ -60,7 +60,13 @@
     "happened": "Congress repealed the sale in 1878 and returned the reserves to the public domain, so the promised sale money was no longer provided for. In 1957 the Indian Claims Commission found the Uintah Ute were deprived of lands in their area without any compensation.",
     "today": "No payment for the four reserves was found. The wider Uintah Ute land claim, which includes this area, ended in a compromise judgment of $7,700,000 in 1960. Whether any lots were sold before 1878 is not known."
   },
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Ute Indian Tribe of the Uintah and Ouray Reservation",
+      "summary": "In a 2022 news release the Tribe says pressure from settlers in Utah and Colorado led to the removal of its bands onto reserved lands, that Lincoln set apart the Uintah Valley Reservation in 1861, and that Congress ratified it by the Act of May 5, 1864.",
+      "url": "https://ictnews.org/the-press-pool/ute-indian-tribe-successfully-restores-19-acres-of-land-to-trust-status/"
+    }
+  ],
   "sources": [
     {
       "title": "Act of May 5, 1864, ch. 77, 13 Stat. 63",
@@ -96,6 +102,11 @@
       "title": "Uintah Ute Indians of Utah v. United States, Dockets 44 and 45, Final Judgment (1960)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/450",
       "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Ute Indian Tribe successfully restores 19 acres of land to trust status (news release of the Ute Indian Tribe of the Uintah and Ouray Reservation, 2022)",
+      "url": "https://ictnews.org/the-press-pool/ute-indian-tribe-successfully-restores-19-acres-of-land-to-trust-status/",
+      "publisher": "Ute Indian Tribe of the Uintah and Ouray Reservation, via ICT Press Pool"
     }
   ],
   "openQuestions": [

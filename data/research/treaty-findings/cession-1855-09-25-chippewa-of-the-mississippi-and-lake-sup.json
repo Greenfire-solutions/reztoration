@@ -20,7 +20,18 @@
   "landTaken": "This order took no land. It set apart the Ontonagon reserve (Royce area 340): lots 1 to 4 of sections 14 and 15, the southwest quarter and the southwest quarter of the southeast quarter of section 15, sections 22 and 23, and the north halves of sections 26 and 27, all in township 53 north, range 38 west, Michigan.",
   "compensation": "Not applicable. In Docket 18-U the Indian Claims Commission counted the Ontonagon reserve, at its January 10, 1855 value, among seven reserves credited to the United States as part of the consideration for the 1854 cession, which it held unconscionable (41 Ind. Cl. Comm. 249, 1978); that finding concerns the 1854 treaty (kappler-656), not this order.",
   "today": "Royce records an addition of 18 sections to this reserve by Executive order in 1856. The Indian Claims Commission's 1978 offset findings in Docket 18-U record disbursements in 1942, 1943 and 1944 for the Chippewa Indians of 'the L'Anse and Ontonagon Reservations'.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Keweenaw Bay Indian Community",
+      "summary": "The Community's Natural Resources Department says KBIC is a signatory to the treaties of 1842 and 1854, and that the 1854 treaty established its reservation land bases, which include the L'Anse and Ontonagon Indian Reservations.",
+      "url": "https://web.archive.org/web/20240129103017/https://nrd.kbic-nsn.gov/node/5"
+    },
+    {
+      "nation": "Keweenaw Bay Indian Community",
+      "summary": "The Community's constitution says it was organized by the L'Anse, Lac Vieux Desert and Ontonagon Bands of Chippewa, and counts among its members people on the allotment rolls of the Ontonagon Band and their descendants.",
+      "url": "https://www.kbic-nsn.gov/tribal-governance/constitution/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Chippewa, 1854 (Kappler, vol. 2, p. 648)",
@@ -36,6 +47,16 @@
       "title": "Minnesota Chippewa Tribe et al. (Chippewas of Lake Superior) v. United States, Docket 18-U, Additional Findings of Fact (March 30, 1978)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2132",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Keweenaw Bay Indian Community, Natural Resources Department (archived January 29, 2024)",
+      "url": "https://web.archive.org/web/20240129103017/https://nrd.kbic-nsn.gov/node/5",
+      "publisher": "Keweenaw Bay Indian Community"
+    },
+    {
+      "title": "Constitution and By-Laws of the Keweenaw Bay Indian Community of Michigan",
+      "url": "https://www.kbic-nsn.gov/tribal-governance/constitution/",
+      "publisher": "Keweenaw Bay Indian Community"
     }
   ],
   "openQuestions": [

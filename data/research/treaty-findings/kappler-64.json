@@ -21,7 +21,13 @@
   "status": "no-breach-found",
   "breaches": [],
   "compensation": "Goods worth $2,000 and three sets of blacksmith's tools (Article 5). No Claims Commission decision on this cession was found among the Choctaw dockets searched (16, 39, 51, 52, 55, 56, 103, 249, 269).",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Choctaw Nation of Oklahoma",
+      "summary": "Reading the council minutes, the Nation's Iti Fabvssa column says Choctaw leaders agreed to the road only as a path of peace, refused most of the roadside land the United States asked for, sought payment for lands such as the Natchez country they said were never sold, and saw the yearly goods as rent for using Choctaw land.",
+      "url": "https://www.choctawnation.com/news/iti-fabvssa/minutes-from-the-treaty-of-fort-adams-part-2/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Choctaw, 1801 (Kappler transcription)",
@@ -37,6 +43,11 @@
       "title": "Choctaw Nation v. United States, Docket 249, Opinion of the Commission, December 6, 1973 (accounting claims; not about this treaty)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2253",
       "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Iti Fabvssa: Minutes from the Treaty of Fort Adams (Part 2), Biskinik, August 1, 2024",
+      "url": "https://www.choctawnation.com/news/iti-fabvssa/minutes-from-the-treaty-of-fort-adams-part-2/",
+      "publisher": "Choctaw Nation of Oklahoma"
     }
   ],
   "openQuestions": [

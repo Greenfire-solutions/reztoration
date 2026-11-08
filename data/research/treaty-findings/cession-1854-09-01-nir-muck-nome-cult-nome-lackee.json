@@ -1,0 +1,53 @@
+{
+  "id": "cession-1854-09-01-nir-muck-nome-cult-nome-lackee",
+  "name": "Nome Lackee reserve established by Superintendent Henley, 1854",
+  "aka": [
+    "Nome Lackee Indian Reservation",
+    "Royce area 331"
+  ],
+  "signed": "1854-09-01",
+  "citation": "Administrative action of the California Superintendent of Indian Affairs (per Royce); no treaty or statute",
+  "nations": [
+    "Nomlaki (Royce: Nome Lackee)",
+    "Nome Cult",
+    "Nir-muck"
+  ],
+  "promises": [
+    "Royce records only that Superintendent Henley established a reserve called Nome Lackee for the Nome Lackee, Nome Cult, Nir-muck and others. No treaty, statute or written promise of permanence was found."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "This record is a reserve set up by a federal official, not a cession and not a treaty. No court or Commission finding specific to it was found; the California Indians' statewide claims before the Indian Claims Commission ended in a compromise.",
+  "nationVoice": [
+    {
+      "nation": "Paskenta Band of Nomlaki Indians",
+      "summary": "The Band says its ancestors were forcibly removed from their homelands in 1854 to a reservation further west, later walked the Nome Cult Trail in 1863, and lost their rancheria to termination in 1959.",
+      "url": "https://paskenta-nsn.gov/?p=499"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 794",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/794/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "History and Culture",
+      "url": "https://paskenta-nsn.gov/?p=499",
+      "publisher": "Paskenta Band of Nomlaki Indians"
+    }
+  ],
+  "openQuestions": [
+    "This is not a cession. Royce records a reserve established, so the map should not show it as land taken by treaty.",
+    "When and how Nome Lackee was given up and its land disposed of, possibly under the Act of April 8, 1864 limiting California reservations, was not traced.",
+    "The Nomlaki may have been party to one of the 18 unratified California treaties of 1851-52; that belongs in an extra- record.",
+    "treaties.json lists the Grindstone Rancheria and Round Valley Indian Tribes; the Paskenta Band of Nomlaki Indians also traces its history here and is not listed."
+  ],
+  "plain": {
+    "promised": "No treaty was made. A federal superintendent set up the Nome Lackee reserve in 1854 for the Nomlaki and neighbouring peoples.",
+    "happened": "No court, claims commission or government finding about this reserve was found. The Paskenta Band says its people were forcibly removed in 1854.",
+    "today": "How the reserve was closed has not been traced."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

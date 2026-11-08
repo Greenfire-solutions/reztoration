@@ -1,0 +1,14 @@
+{
+  "id": "cession-1893-03-03-kickapoo",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Docket 318 findings (id 1010): about 184,300 acres of 206,466; $64,650 cash; $215,000 appropriated in 1908; total $279,650, about $1.50 an acre; compromise $273,250; General Council August 3, 1968, vote of 38.",
+    "Final Judgment (id 1926): $273,250 on stipulation; correctly kind litigation; status contested is right."
+  ],
+  "changes": [],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "The executive-order link (650r.pdf) belongs to the 1883 reservation order (already noted in the file)."
+  ]
+}

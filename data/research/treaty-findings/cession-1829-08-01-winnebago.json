@@ -1,0 +1,88 @@
+{
+  "id": "cession-1829-08-01-winnebago",
+  "name": "Treaty with the Winnebago, 1829 (Treaty of Prairie du Chien)",
+  "aka": [
+    "Winnebago treaty of August 1, 1829"
+  ],
+  "signed": "1829-08-01",
+  "proclaimed": "1830-01-02",
+  "citation": "7 Stat. 323",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-winnebago-1829-0300",
+  "nations": [
+    "Ho-Chunk Nation",
+    "Winnebago Tribe of Nebraska"
+  ],
+  "promises": [
+    "Article 2: $18,000 in specie a year for thirty years, $30,000 in goods at once, and 3,000 pounds of tobacco and 50 barrels of salt a year for thirty years.",
+    "Article 3: three blacksmith shops for thirty years, two yoke of oxen, a cart and a hired man at the Fox-Wisconsin portage.",
+    "Article 4: payment of $23,532.28 to named creditors in full satisfaction of their claims against the Winnebago.",
+    "Article 5: land grants to named descendants of Winnebago people, located outside the mineral country."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "litigation",
+      "date": "1970-09-03",
+      "what": "The Winnebago claimed further payment for Royce Area 149 ceded by this treaty. The Commission found the area worth $2,025,000.00 on January 2, 1830 but never ruled on the price paid; the claim was settled by compromise together with two other dockets for $4,600,000.",
+      "whoFoundIt": "Indian Claims Commission, Winnebago Tribe and Nation of Indians et al. v. United States, Dockets 243, 244 and 245, Findings of Fact on Compromise Settlement (September 3, 1970)",
+      "source": {
+        "title": "Winnebago Tribe and Nation of Indians et al. v. United States, Dockets 243-245, Findings of Fact on Compromise Settlement (September 3, 1970)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1872",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "compensation": "On October 13, 1965 the Commission found the fair market value of Royce Area 149 was $2,025,000.00, or about $0.75 an acre, on January 2, 1830. The consideration paid was never determined; the Winnebago claims in Dockets 243, 244 and 245 were settled in 1970 for a net final judgment of $4,600,000.",
+  "today": "The compromise was approved by the governing bodies of the Winnebago Tribe of Nebraska and the Wisconsin Winnebago (now the Ho-Chunk Nation). A compromise is not a finding that the treaty was broken.",
+  "nationVoice": [
+    {
+      "nation": "Ho-Chunk Nation",
+      "summary": "The Nation says its oral tradition holds that the Ho-Chunk have always been here, and that its traditional lands run through Wisconsin, Minnesota, Iowa, Missouri and Illinois.",
+      "url": "https://ho-chunknation.com/about/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Winnebago, 1829 (Kappler, vol. 2, p. 300)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-winnebago-1829-0300",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Winnebago Tribe and Nation of Indians et al. v. United States, Dockets 243-245, Additional Findings of Fact (October 13, 1965)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1096",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Winnebago Tribe and Nation of Indians et al. v. United States, Dockets 243-245, Opinion of the Commission (October 13, 1965)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2175",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Winnebago Tribe and Nation of Indians et al. v. United States, Dockets 243-245, Findings of Fact on Compromise Settlement (September 3, 1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1872",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "About Ho-Chunk Nation",
+      "url": "https://ho-chunknation.com/about/",
+      "publisher": "Ho-Chunk Nation"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 724",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/724/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The $4,600,000 settlement covers three dockets (243, 244, 245); the share for this treaty's cession is not stated.",
+    "The acreage of Royce Area 149 in the 1965 findings is OCR-damaged and was left out; confirm it against the scan.",
+    "No Ho-Chunk Nation or Winnebago Tribe of Nebraska account of this treaty specifically was found."
+  ],
+  "plain": {
+    "promised": "Thirty years of yearly payments, goods, tobacco and salt, three blacksmith shops, and payment of traders' claims, in return for the lead-mining country of northern Illinois and southern Wisconsin.",
+    "happened": "The Indian Claims Commission valued the land at $2,025,000.00 in 1830 but never ruled on the price paid. The claim was settled by compromise in 1970.",
+    "today": "The settlement paid $4,600,000 for this and two other Winnebago claims together. A compromise is not a finding that the treaty was broken."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

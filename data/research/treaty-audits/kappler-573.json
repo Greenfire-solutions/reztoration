@@ -1,0 +1,14 @@
+{
+  "id": "kappler-573",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Kappler header on the Oklahoma State University Tribal Treaties Database matches the file's signing, ratification/proclamation dates and Statutes at Large citation. Kappler gives no ratification date, only proclamation February 4, 1847; the file leaves ratified null.",
+    "Dockets 243-245 compromise (ids 1872, 2308): Royce Area 267 under this treaty included; $4,600,000; 1969 votes 180 to 39 at Winnebago and 80 to 27 at Black River Falls. kind litigation is right; status contested is right."
+  ],
+  "changes": [],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "Royce cession 361 is listed for this entry but was ceded by the treaty of February 27, 1855 (already noted in the file)."
+  ]
+}

@@ -30,17 +30,6 @@
       }
     },
     {
-      "kind": "claims-commission",
-      "date": "1952-12-17",
-      "what": "The Indian Claims Commission recorded that the tribes' Court of Claims case included a claim for an additional 2,092,420 acres alleged to have been taken by this order without compensation, and that the Court of Claims considered it together with the 1874 Act claim in its Finding XIV.",
-      "whoFoundIt": "Indian Claims Commission, Blackfeet and Gros Ventre Tribes v. United States, Docket 279, opinion, 2 Ind. Cl. Comm. 302 (December 17, 1952)",
-      "source": {
-        "title": "Blackfeet and Gros Ventre Tribes v. United States, Docket 279, Opinion of the Commission, December 17, 1952, 2 Ind. Cl. Comm. 302 (recounting Court of Claims No. E-427, judgment of April 8, 1935)",
-        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/183",
-        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
-      }
-    },
-    {
       "kind": "nation-statement",
       "date": "2010-03-08",
       "what": "The Blackfeet Nation says that after the 1855 treaty more treaties and agreements followed, each taking huge parts of its traditional land.",
@@ -85,11 +74,11 @@
     }
   ],
   "openQuestions": [
-    "The second breach records how the Commission described the claim; the 2,092,420 acre figure is the tribes' allegation, not a finding.",
     "The 1935 Court of Claims opinion (81 Ct. Cl. 101) was not opened directly; its findings are taken from the Indian Claims Commission's 1952 account of them.",
     "The Court of Claims measured the taking from the 1855 treaty lands (Royce 399 and 574), not from the 1873 executive-order boundary.",
     "treaties.json lists the Crow Tribe as a present-day tribe; the River Crow are named in the Act, but the Court of Claims case was brought by the Blackfeet and Gros Ventre. Not edited.",
-    "No Fort Belknap (Aaniiih and Nakoda) account of the 1874 changes was found."
+    "No Fort Belknap (Aaniiih and Nakoda) account of the 1874 changes was found.",
+    "Audit 2026-11-08: removed the claims-commission breach. The 1952 Commission opinion (Docket 279, p. 306) only describes the tribes' Court of Claims claim for 2,092,420 acres as alleged; it finds nothing about it, and the Court of Claims finding is already recorded as the court-ruling breach. The acreage stays in landTaken as the tribes' allegation. Status unchanged (broken on the 1935 Court of Claims finding)."
   ],
   "plain": {
     "promised": "Not a treaty. The President returned to the public domain the part of the 1873 Blackfeet reserve between the Sun River and the Marias River and Birch Creek, with no agreement and no payment.",

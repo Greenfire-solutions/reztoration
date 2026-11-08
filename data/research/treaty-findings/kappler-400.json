@@ -1,0 +1,87 @@
+{
+  "id": "kappler-400",
+  "name": "Treaty with the Ottawa, 1833 (Maumee)",
+  "aka": [
+    "Treaty with the Ottawa band on the Miami of Lake Erie, February 18, 1833"
+  ],
+  "signed": "1833-02-18",
+  "proclaimed": "1833-03-22",
+  "citation": "7 Stat. 420",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-ottawa-1833-0392",
+  "nations": [
+    "Ottawa Tribe of Oklahoma (treaty-era Maumee Band of Ottawa)"
+  ],
+  "promises": [
+    "Article 2: named reserves to be patented to named individuals out of the ceded land, those of the Indian grantees not to be sold without the President's approval.",
+    "Article 3: the United States would pay the band $29,440, applied at the band's direction to its debts.",
+    "Article 3: a band claim of $18,000 said to be owed under the 1831 Gardiner treaty was noted, with payments to named creditors to come out of it when paid."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1971-03-17",
+      "what": "The Indian Claims Commission found the 26,981.74 acres ceded by this treaty had a fair market value of $230,000 on March 22, 1833, held that the $29,440 paid was so grossly inadequate as to be unconscionable, and awarded $200,560 less offsets.",
+      "whoFoundIt": "Indian Claims Commission, Ottawa Tribe et al. v. United States, Docket 304, 25 Ind. Cl. Comm. 1 (1971)",
+      "source": {
+        "title": "Ottawa Tribe et al. v. United States, Docket 304, Opinion of the Commission (March 17, 1971)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2190",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "so grossly inadequate as to be unconscionable within the meaning of section 2, clause 3, of the Indian Claims Commission Act"
+    }
+  ],
+  "landTaken": "The Commission found Royce Area 183 contained 6,743.82 acres after individual grants and Royce Area 182 contained 20,237.92 acres as ceded, a net cession of 26,981.74 acres.",
+  "compensation": "Final award of April 25, 1973: $182,610.00 in full satisfaction of the claims in Docket 304, after the parties stipulated that $17,950.00 had been paid.",
+  "today": "The final award was entered in 1973. How the judgment funds were used was not traced.",
+  "nationVoice": [
+    {
+      "nation": "Ottawa Tribe of Oklahoma",
+      "summary": "The Tribe describes itself as a sovereign Anishinaabe nation with deep roots in the Great Lakes region and the Ohio Valley, which entered into numerous treaties with the United States, most recently in 1862 and 1867.",
+      "url": "https://www.heritage.ottawatribe.gov/ottawa-history"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Ottawa, 1833 (Kappler, vol. 2, p. 392)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-ottawa-1833-0392",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Ottawa Tribe et al. v. United States, Docket 304, Opinion of the Commission (March 17, 1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2190",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Ottawa Tribe et al. v. United States, Docket 304, Findings of Fact (March 17, 1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1456",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Ottawa Tribe et al. v. United States, Docket 304, Final Award (April 25, 1973)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1887",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Ottawa History",
+      "url": "https://www.heritage.ottawatribe.gov/ottawa-history",
+      "publisher": "Ottawa Tribe of Oklahoma, Heritage"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 748",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/748/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The final award text is OCR-damaged in places; the $182,610.00 figure should be checked against the scan.",
+    "Whether the $18,000 the band said was owed under the 1831 treaty was ever paid was not traced (Docket 305 concerns the 1831 treaty)."
+  ],
+  "plain": {
+    "promised": "In return for its two reserves on the Maumee River in Ohio, the Ottawa band would get $29,440, paid toward its debts, and some named people would keep small reserves.",
+    "happened": "The Indian Claims Commission found in 1971 that the land was worth $230,000 and that paying $29,440 was unconscionable.",
+    "today": "The Commission entered a final award of $182,610.00 in 1973."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

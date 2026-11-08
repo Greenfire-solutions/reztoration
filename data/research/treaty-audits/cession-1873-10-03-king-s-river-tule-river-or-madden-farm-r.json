@@ -1,0 +1,19 @@
+{
+  "id": "cession-1873-10-03-king-s-river-tule-river-or-madden-farm-r",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Same NARF/Tule River 2013 presentation checks as the January 1873 file: 91,837 acres, quote exact, $41.9 million claim, 55,396 acres on the map.",
+    "S. 689 reported May 12, 2025 with the creation-or-reduction waiver.",
+    "Contested on the Tribe's statement is the ceiling; not exceeded."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [
+    "Royce page 864 not reopened."
+  ],
+  "treatiesJsonErrors": [
+    "Royce area 607 shared by three entries; duplicate October 3, 1873 entry cession-1873-10-03-king-s-river-owen-s-river-tule-river."
+  ]
+}

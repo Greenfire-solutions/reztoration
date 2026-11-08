@@ -1,12 +1,16 @@
 {
   "id": "kappler-339",
   "name": "Treaty with the Shawnee, 1831 (Treaty of Wapakoneta)",
-  "aka": ["Treaty of Wapaghkonnetta, August 8, 1831"],
+  "aka": [
+    "Treaty of Wapaghkonnetta, August 8, 1831"
+  ],
   "signed": "1831-08-08",
   "proclaimed": "1832-04-06",
   "citation": "7 Stat. 355",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-shawnee-1831-0331",
-  "nations": ["Shawnee of Wapakoneta and Hog Creek, Ohio, today the Shawnee Tribe and the Absentee Shawnee Tribe"],
+  "nations": [
+    "Shawnee of Wapakoneta and Hog Creek, Ohio, today the Shawnee Tribe and the Absentee Shawnee Tribe"
+  ],
   "promises": [
     "The United States would remove the band west of the Mississippi and grant it by patent in fee simple 100,000 acres within the tract granted to the Missouri Shawnee in 1825 (Article 2).",
     "Removal costs and a year's provisions after arrival (Article 3), a sawmill, gristmill and blacksmith shop paid from the land sales (Article 4), and a $13,000 advance for improvements (Article 5).",
@@ -43,11 +47,44 @@
   "landTaken": "The two Ohio reservations granted in 1817, ten miles square at Wapakoneta and twenty-five square miles at Hog Creek (Article 1), Royce Areas 165 and 166; the Court of Claims found the cession totalled 96,051.48 acres.",
   "compensation": "The Court of Claims decreed $262,152.02 due to the Shawnees as of June 12, 1893, of which $260,999.24 rested on the 1831 account. The Supreme Court recomputed the 1831 lands at $1.25 an acre, giving $126,299.63 less the $87,257.63 already credited, or $39,042.00 due in 1840, with interest, and remanded. For the 100,000 acres the court noted that it did not appear the $66,246.23 paid was insufficient.",
   "today": "The final amount entered on remand and its payment were not traced. The 1825 Kansas tract within which the 100,000 acres were to lie was ceded by the Shawnee in the treaty of May 10, 1854.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Shawnee Tribe",
+      "summary": "The Shawnee Tribe says that after the Indian Removal Act of 1830 the Shawnees of the Wapakoneta and Hog Creek reservations in Ohio signed a treaty that gave them lands on the Kansas reservation, and describes its people as pushed west by white encroachment.",
+      "url": "https://web.archive.org/web/20210516142230/https://www.shawnee-nsn.gov/history"
+    },
+    {
+      "nation": "Absentee Shawnee Tribe of Indians of Oklahoma",
+      "summary": "The Absentee Shawnee Tribe says that by 1832 the United States had removed the remaining Shawnees of the Ohio River Valley to Kansas.",
+      "url": "https://www.astribe.com/about-us"
+    }
+  ],
   "sources": [
-    { "title": "Treaty with the Shawnee, 1831 (Kappler, vol. 2, p. 331)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-shawnee-1831-0331", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
-    { "title": "United States v. Blackfeather, 155 U.S. 180 (1894)", "url": "https://www.govinfo.gov/content/pkg/USREPORTS-155/pdf/USREPORTS-155-180.pdf", "publisher": "U.S. Government Publishing Office, United States Reports" },
-    { "title": "Absentee Shawnee Tribe v. United States, Docket 334-B, Findings of Fact (March 29, 1963)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/606", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+    {
+      "title": "Treaty with the Shawnee, 1831 (Kappler, vol. 2, p. 331)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-shawnee-1831-0331",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "United States v. Blackfeather, 155 U.S. 180 (1894)",
+      "url": "https://www.govinfo.gov/content/pkg/USREPORTS-155/pdf/USREPORTS-155-180.pdf",
+      "publisher": "U.S. Government Publishing Office, United States Reports"
+    },
+    {
+      "title": "Absentee Shawnee Tribe v. United States, Docket 334-B, Findings of Fact (March 29, 1963)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/606",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History of the People (archived May 16, 2021)",
+      "url": "https://web.archive.org/web/20210516142230/https://www.shawnee-nsn.gov/history",
+      "publisher": "Shawnee Tribe"
+    },
+    {
+      "title": "About Us",
+      "url": "https://www.astribe.com/about-us",
+      "publisher": "Absentee Shawnee Tribe of Indians of Oklahoma"
+    }
   ],
   "openQuestions": [
     "The Court of Claims opinion (28 Ct. Cl. 447) was not opened; its findings are taken from the statement of the case in the Supreme Court report. The decree date of June 12, 1893 is the one the report gives; the Court of Claims decision date itself may differ.",

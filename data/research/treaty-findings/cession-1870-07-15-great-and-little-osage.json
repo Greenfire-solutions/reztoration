@@ -1,0 +1,73 @@
+{
+  "id": "cession-1870-07-15-great-and-little-osage",
+  "name": "Act of July 15, 1870, section 12: sale of the Osage lands in Kansas and removal to Indian Territory",
+  "aka": [
+    "Osage removal act of 1870"
+  ],
+  "signed": "1870-07-15",
+  "citation": "Act of July 15, 1870, sec. 12, 16 Stat. 335, 362",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-16/pdf/STATUTE-16-Pg335.pdf",
+  "nations": [
+    "Osage Nation (Great and Little Osage)"
+  ],
+  "promises": [
+    "Whenever the Osage agreed, the President was to remove them from Kansas to a permanent home in Indian Territory of up to 160 acres for each member, paid for from the sale of their Kansas lands at no more than the price the United States paid.",
+    "$50,000 for the removal and the first year's subsistence, to be repaid from the land sales.",
+    "The Kansas lands, including the trust lands north of the diminished reservation, to be sold to actual settlers at $1.25 an acre in tracts of up to 160 acres, with sections 16 and 36 reserved to Kansas for schools.",
+    "In return for giving up the Kansas lands, the United States to pay interest at five percent a year on the proceeds, spent for the Osage."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "nation-statement",
+      "date": "1870-07-15",
+      "what": "The Osage Nation states that, after railroad expansion and settler demand for its lands, its ancestors were forced by this Act of Congress to sell their Kansas land to the United States for $1.25 an acre and were removed to Indian Territory.",
+      "whoFoundIt": "Osage Nation, About the Osage Nation Reservation",
+      "source": {
+        "title": "About the Osage Nation Reservation",
+        "url": "https://osageculture.com/node/121",
+        "publisher": "Osage Nation"
+      }
+    }
+  ],
+  "compensation": "The Osage Nation states that its leaders used the proceeds of the Kansas sale to buy land from the Cherokee Nation in what is now northeastern Oklahoma.",
+  "today": "The Osage Nation Reservation is the land bought from the Cherokee Nation with the Kansas proceeds (Osage Nation).",
+  "nationVoice": [
+    {
+      "nation": "Osage Nation",
+      "summary": "The Nation says its ancestors, removed to the Osage Diminished Reserve in Kansas by 1864, were forced by the Act of July 15, 1870 to sell that land for $1.25 an acre, were moved to Indian Territory by President Grant, and bought their present home from the Cherokee Nation with the proceeds.",
+      "url": "https://osageculture.com/node/121"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Act of July 15, 1870, Indian appropriation act, 16 Stat. 335 (section 12 at p. 362)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-16/pdf/STATUTE-16-Pg335.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 854",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/854/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "About the Osage Nation Reservation",
+      "url": "https://osageculture.com/node/121",
+      "publisher": "Osage Nation"
+    }
+  ],
+  "openQuestions": [
+    "This Royce record is an Act of Congress, not a treaty. Royce area 530 appears to be the Kansas diminished reserve and 534 the reservation bought from the Cherokee; this was not confirmed against the plates.",
+    "The Act required the Osage's agreement before removal; how and when the Osage gave it was not researched.",
+    "Whether the Osage were ever paid for the sections 16 and 36 reserved to Kansas for schools is a lead for a breach; it was not settled.",
+    "Indian Claims Commission Osage Dockets 9, 105-108 and 126 were checked by title and concern the 1808, 1818, 1825 and 1865 cessions and road funds; none concerns the 1870 Act.",
+    "The Osage Nation's 1883 deed price from the Cherokee and the acreage are reported differently by secondary sources; not used."
+  ],
+  "plain": {
+    "promised": "With the Osage's agreement, they would move from Kansas to a permanent home in Indian Territory bought with the money from selling their Kansas land, and earn five percent a year on the proceeds.",
+    "happened": "The Osage Nation says the Act forced its ancestors to sell their Kansas land for $1.25 an acre and move. No court or commission finding on this Act was located.",
+    "today": "The Osage Nation says it bought its present reservation from the Cherokee Nation with the Kansas proceeds."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kappler-798",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Kappler header on the Oklahoma State University Tribal Treaties Database matches the file's signing, ratification/proclamation dates and Statutes at Large citation.",
+    "Act of February 21, 1863, ch. 53, 12 Stat. 658-660, read on govinfo: removal of the Winnebago from Minnesota, appraisal and sale of 'said reservation', debt lands sold under Article 3 of this treaty; no consent provision. The quote is exact.",
+    "The Act qualifies as an Act-of-Congress breach of THIS treaty: it removed the people from and sold the reservation this treaty's Article 1 set apart and retained. The Article 1 phrase 'until otherwise provided for by Congress' covers taxation, levy, sale or forfeiture of individual assigned tracts and does not reserve power to remove the tribe; recorded in openQuestions.",
+    "ICC Dockets 243-245 compromise (ids 1872, 2308): $4,600,000, covering Royce Areas 416 (sold under this treaty) and 439 (sold under the 1863 Act); correctly kind litigation.",
+    "Act of July 15, 1870, sec. 9, 16 Stat. 361: Secretary to investigate claims of Winnebago lawfully residing in Minnesota and issue patents for unsold allotted lands. Matches today."
+  ],
+  "changes": [
+    "openQuestions: audit line recording the Act-of-Congress reasoning and what was checked."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "The statute link (ops.libs.uga.edu 439c.pdf) belongs to the 1863 Act cession (Royce 439), which also has its own entry cession-1863-02-21-winnebago."
+  ]
+}

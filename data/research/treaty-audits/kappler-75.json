@@ -1,0 +1,22 @@
+{
+  "id": "kappler-75",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Kappler header on the Oklahoma State University Tribal Treaties Database matches the file's signing, ratification/proclamation dates and Statutes at Large citation.",
+    "Finding 88 table (ICC id 2085): value $7,153,750, allowable consideration $11,000, award $7,142,750; Finding 64 is damaged ('$7,153,f50') but the table and the opinion Part 2 (id 1956) both give $7,153,750. The breach is right.",
+    "Order Setting Awards (id 1009) reads $7,142,250 for Docket 313.",
+    "Final Award, Docket 313, September 20, 1978 (id 2697): no gratuitous offsets; final award $7,142,750 to the Peoria on behalf of the Kaskaskia. This settles the opinion/order discrepancy.",
+    "Order of September 29, 1978 (id 931): the consolidated cases, including Docket 313 after its final award, certified and transferred to the Court of Claims."
+  ],
+  "changes": [
+    "compensation, today and plain.today now record the September 20, 1978 final award of $7,142,750 and that it was subject to appeal when transferred.",
+    "openQuestions: award-figure question marked resolved; audit line added. Source added (id 2697)."
+  ],
+  "unverifiable": [
+    "What the Court of Claims did with Docket 313 after transfer, and payment, could not be found; CourtListener's API requires login."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes include the Miami Tribe of Oklahoma; the ICC claimant for the Kaskaskia is the Peoria Tribe of Indians of Oklahoma."
+  ]
+}

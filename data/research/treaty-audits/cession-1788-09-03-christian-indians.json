@@ -1,0 +1,21 @@
+{
+  "id": "cession-1788-09-03-christian-indians",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Act of March 3, 1823, 3 Stat. 749-750 (govinfo): $1,000 to purchase the Indians' interest in three tracts of \"four hundred acres each\" in Tuscarawas County, granted in 1796 to the Society of United Brethren on trust for their sole benefit, purchase with the Society's consent; approved March 3, 1823.",
+    "No breach claimed; status no-breach-found is supported. Plain fields restate only the file; no em dashes.",
+    "The 400 versus 4,000 acres discrepancy is already flagged in openQuestions."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [
+    "Royce schedule entry for areas 4-6 (the 4,000 acre figure and the 1788 resolution) not reopened.",
+    "Chapter number (ch. 27) not confirmed: the chapter heading before the clause in the govinfo scan reads Chap. XXVII, an Act for further appropriations for the military service, which may contain the Indian items; not resolved."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes is empty.",
+    "The statute link (loc.gov 17th Congress c17.pdf) does not return the statute."
+  ]
+}

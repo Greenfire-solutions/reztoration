@@ -1,0 +1,19 @@
+{
+  "id": "cession-1809-02-28-wyandot",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Act of February 28, 1809, ch. 23, 2 Stat. 527 (govinfo): section 2 reserves two tracts at Brown's town and Maguaga, not more than 5,000 acres, for the Wyandott and descendants, on the section 1 terms (fifty-year lease, not transferable, ends on removal).",
+    "ICC Docket 212, opinion of August 5, 1976 (pointer 2247): areas 95 and 96 established by the 1809 Act; ceded September 20, 1818 (7 Stat. 180) for about 5,000 acres (Royce 260), ceded March 17, 1842; the Commission held the 1818 exchange fair and full compensation for the leasehold, and its table enters the leasehold at $ -0-.",
+    "Status no-breach-found supported; the ICC holding is correctly treated as evidence against a breach."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [
+    "Later consideration decision in Docket 212 not read (already in openQuestions)."
+  ],
+  "treatiesJsonErrors": [
+    "The statute link (loc.gov 10th Congress c10.pdf) is not the govinfo copy; not checked whether it loads."
+  ]
+}

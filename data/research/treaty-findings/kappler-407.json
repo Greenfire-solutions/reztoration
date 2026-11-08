@@ -1,0 +1,52 @@
+{
+  "id": "kappler-407",
+  "name": "Treaty with the Appalachicola Band, 1833",
+  "aka": [
+    "Relinquishment by Mulatto King and Tustenuggy Hajo of the Moultrie Creek reserve"
+  ],
+  "signed": "1833-06-18",
+  "proclaimed": "1834-04-12",
+  "citation": "7 Stat. 427",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-appalachicola-band-1833-0398",
+  "nations": [
+    "Apalachicola bands of Mulatto King (Vacapasacy) and Tustenuggy Hajo"
+  ],
+  "promises": [
+    "Article 2: within three years, patents for a section and a half each to Mulatto King and Tustenuggy Hajo for themselves, their sub-chiefs and warriors, laid off to take in their fields and improvements.",
+    "Article 3: their share of the $5,000 annuity under the Treaty of Camp Moultrie would continue while the Seminoles stayed in Florida, with the balance advanced if they removed under the Treaty of Payne's Landing.",
+    "Article 4: if they chose to give up the grants and join the Seminoles in the West under Payne's Landing, the United States would pay them a stated sum."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "No court, Indian Claims Commission or government finding about this treaty was found. The Seminole Florida land claim (Dockets 73 and 151) was decided on wider grounds and does not mention these bands' reserves.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Appalachicola Band, 1833 (Kappler, vol. 2, p. 398)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-appalachicola-band-1833-0398",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Seminole Indians of the State of Florida et al. v. United States, Dockets 73 and 151, Final Award (October 22, 1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2630",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 748",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/748/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "Whether the promised patents were issued, and whether the bands were removed without them, was not traced. This is the most likely place for a breach; Interior and War Department records of the Apalachicola removal of 1836-1840 would be the place to look.",
+    "treaties.json lists the Seminole Tribe of Florida and the Miccosukee Tribe as present-day tribes; some reference sources say the Apalachicola descendants are in the Muscogee (Creek) Nation. Not settled from a nation source.",
+    "This is a relinquishment of a reserve made by the 1823 Moultrie Creek treaty, in exchange for smaller grants, rather than a cession of aboriginal land."
+  ],
+  "plain": {
+    "promised": "Two Apalachicola chiefs gave up their Moultrie Creek reserve in return for patents to a section and a half of land each within three years and their share of the annuity.",
+    "happened": "No court, claims commission or government finding about this treaty was found.",
+    "today": "Whether the patents were ever issued has not been traced."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "cession-1873-03-03-creek-seminole",
+  "name": "Act of March 3, 1873 authorizing purchase from the Creek of the land the Seminoles had settled east of the Creek dividing line",
+  "aka": [
+    "Seminole addition of 175,000 acres"
+  ],
+  "signed": "1873-03-03",
+  "citation": "Act of March 3, 1873, 17 Stat. 626; carried out by the Creek agreement of February 14, 1881",
+  "textUrl": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1430",
+  "nations": [
+    "Muscogee (Creek) Nation",
+    "Seminole Nation of Oklahoma"
+  ],
+  "promises": [
+    "The Act authorized the Secretary of the Interior to negotiate with the Creek for the relinquishment of the parts of their country set apart for the Seminole and the Sac and Fox found to lie east of the line dividing the Creek lands (Indian Claims Commission, Docket 167 findings).",
+    "Under the agreement of February 14, 1881 the Creek Nation ceded 175,000 acres on which the Seminoles had settled for $175,000, a dollar an acre, which was appropriated and paid (Docket 167 opinion)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1967-07-06",
+      "what": "The Indian Claims Commission found that the 1888 government survey of the 175,000-acre Seminole tract actually enclosed 176,198.99 acres, that the Creek Nation had fee simple title to the extra 1,198.99 acres, which it never ceded, and that the United States deprived it of them without compensation and was liable for their value.",
+      "whoFoundIt": "Indian Claims Commission, Docket 167, 18 Ind. Cl. Comm. 434 (1967)",
+      "source": {
+        "title": "Creek Nation v. United States, Docket 167, Interlocutory Order (18 Ind. Cl. Comm. 460, July 6, 1967)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2219",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      },
+      "quote": "petitioner was deprived of said 1,198.99 acres by defendant without receiving compensation therefor"
+    },
+    {
+      "kind": "litigation",
+      "date": "1971-05-26",
+      "what": "The value of the 1,198.99 acres was settled on the parties' stipulation by a final award of $50,000 to the Creek Nation.",
+      "whoFoundIt": "Indian Claims Commission, Docket 167, Final Award on joint motion",
+      "source": {
+        "title": "Creek Nation v. United States, Docket 167, Final Award (25 Ind. Cl. Comm. 351, May 1971)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1168",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    }
+  ],
+  "landTaken": "1,198.99 acres of Creek land beyond the 175,000 acres ceded (Docket 167).",
+  "compensation": "$175,000 was paid for the 175,000 acres under the 1881 agreement; a final award of $50,000 on stipulation in 1971 settled the claim for the 1,198.99 acres.",
+  "today": "The Commission noted that the Court of Claims had earlier denied the same claim under the Creek jurisdictional act of May 24, 1924, and that the Court of Claims in 1964 sent it back to the Commission to be heard on its merits.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Creek Nation v. United States, Docket 167, Findings of Fact (18 Ind. Cl. Comm. 434, July 6, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1430",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Creek Nation v. United States, Docket 167, Opinion of the Commission (18 Ind. Cl. Comm. 451, July 6, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1302",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 862",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/862/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Creek Nation v. United States, Docket 167, Interlocutory Order (18 Ind. Cl. Comm. 460, July 6, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2219",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Creek Nation v. United States, Docket 167, Final Award (25 Ind. Cl. Comm. 351, May 1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1168",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "This Royce record is a purchase from the Creek for the Seminole, made under an Act of Congress, not a Seminole cession. treaties.json lists only the Seminole Nation of Oklahoma and the Seminole Tribe of Florida; the Muscogee (Creek) Nation, the seller, is missing, and the Seminole Tribe of Florida had no part in it.",
+    "The text of the Act at 17 Stat. 626 was read only as quoted by the Commission.",
+    "Neither the Muscogee (Creek) Nation's nor the Seminole Nation's own account of the 175,000-acre purchase was found."
+  ],
+  "plain": {
+    "promised": "Congress authorized buying from the Creek the land the Seminoles had settled by mistake. In 1881 the Creek ceded 175,000 acres for $175,000.",
+    "happened": "The Indian Claims Commission found in 1967 that the government survey took 1,198.99 more acres of Creek land than was ceded, without payment.",
+    "today": "The claim for the extra land was settled for $50,000 in 1971."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

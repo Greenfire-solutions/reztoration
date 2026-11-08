@@ -1,0 +1,19 @@
+{
+  "id": "cession-1874-08-19-blackfoot-blood-gros-ventre-piegan-river",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "ICC Docket 279 opinion (pointer 183): Court of Claims Finding XIV as for the April 15, 1874 file; the 2,092,420 acres is described as a claim \"alleged to have been taken\" by this order.",
+    "Blackfeet Nation archived history quote checked."
+  ],
+  "changes": [
+    "Removed the claims-commission breach: the 1952 Commission only described the tribes' 2,092,420 acre allegation and found nothing about it. Status stays broken on the 1935 Court of Claims finding.",
+    "Removed the stale openQuestions note about that breach; audit line added."
+  ],
+  "unverifiable": [
+    "Royce page 876 entry and 81 Ct. Cl. 101 not opened."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes lists the Crow Tribe."
+  ]
+}

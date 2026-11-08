@@ -29,3 +29,5 @@ Project: `~/Desktop/Main projects/Reztoration`. Read `PROTOCOLS.md` (rules 9 to 
 - **Report errors in `treaties.json`** (the Forest Service list) in your report and the audit file. Do not edit `treaties.json`.
 - **No em dashes.** Polite fetching, no logins, no paywalls.
 - **Write only** inside `data/research/treaty-findings/` and `data/research/treaty-audits/`. Keep temporary files in your own folder under the session scratchpad.
+
+- Court of Claims opinions are free as JSON at the Caselaw Access Project, `https://static.case.law/<reporter>/<volume>/cases/<page4>-01.json`. Check it before accepting a "no breach found" that cites a pre-1946 Court of Claims case it never opened.

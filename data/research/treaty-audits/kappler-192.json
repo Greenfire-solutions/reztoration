@@ -1,0 +1,16 @@
+{
+  "id": "kappler-192",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Kappler header on the Oklahoma State University Tribal Treaties Database matches the file's signing, ratification/proclamation dates and Statutes at Large citation.",
+    "Findings 87 and 88 (id 2085): gross consideration $426,700, less $20,500, net $406,200; value $11,833,330; award $11,427,130 for the Kickapoo 1819 cession of Royce Area 110.",
+    "Order Setting Awards (id 1009): $11,427,130 to the Kickapoo plaintiffs in Docket 315 for the 1819 cession of Area 110.",
+    "The file states in today and plain.today that this is one award shared with kappler-190 and should not be counted twice; kappler-190 says the same.",
+    "Order of September 29, 1978 (id 931) lists final awards only in Dockets 15-D, 29-B, 311, 313 and 314-A, so Docket 315 was still interlocutory when transferred to the Court of Claims."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "The reported Court of Claims judgment of January 5, 1979 in Docket 315 could not be opened (CourtListener API needs login; Caselaw Access Project index did not list it under the volumes tried)."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "kappler-663",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Kappler header on the Oklahoma State University Tribal Treaties Database matches the file's signing, ratification/proclamation dates and Statutes at Large citation.",
+    "Rogue River Tribe of Indians v. United States, 64 F. Supp. 339 (Ct. Cl. 1946), full text from the Caselaw Access Project: under the November 18, 1854 treaty the Chastas, Scotons and Grave Creek Band are entitled to $10,224.34 unspent treaty funds plus $4,695.69 administrative expense, total $14,920.03; no treaty duty to give separate permanent reservations.",
+    "Rogue River Tribe v. United States, 89 F. Supp. 798 (Ct. Cl. 1950), full text: gratuity offsets equal the awards to the Rogue River, Chasta, Scoton, Grave Creek, Cow Creek and Willamette plaintiffs, so their petition is dismissed.",
+    "The 1954 termination act is correctly kept out of breaches: the Table Rock reserve was made by the 1853 treaty, not this one."
+  ],
+  "changes": [
+    "Status raised from no-breach-found to broken on a court-ruling breach: the 1946 Court of Claims holding that appropriated funds were not spent as the treaty provided ($14,920.03).",
+    "compensation, today, plain.happened and plain.today rewritten from the two opinions; the 1950 dismissal on offsets recorded.",
+    "Two sources added; the openQuestion saying the opinions could not be read replaced by an audit line."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "presentDayTribes include the Cow Creek Band of Umpqua, who had their own treaty of September 19, 1853 and are not a party to this one; 'Confedered Tribes of the Grand Ronde' is misspelt."
+  ]
+}

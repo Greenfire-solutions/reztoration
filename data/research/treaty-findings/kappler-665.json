@@ -22,10 +22,45 @@
     "Article 3: annuities for twenty years: $3,000 a year for five years, then $2,300, $1,700 and $1,000 a year for five years each.",
     "In return the bands ceded their country in the Umpqua Valley between the Calapooia Mountains and the Cow Creek and Galice Creek purchases."
   ],
-  "status": "no-breach-found",
-  "breaches": [],
-  "compensation": "The annuities in Article 3. No Indian Claims Commission or Court of Claims award on this treaty was found in the sources opened.",
-  "today": "The Western Oregon termination act of August 13, 1954 (68 Stat. 724) named the Upper Umpqua, Calapooya and Yoncalla among the tribes whose federal supervision and services were to end. The Umpqua reserve of this treaty had been given up long before, when the bands were moved to the Grand Ronde Reservation, so the Act is not counted as a breach of this treaty. The Confederated Tribes of Grand Ronde are the successors.",
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1946-02-04",
+      "what": "The Court of Claims held that the Umpqua and Calapooia bands never gave up the part of the reserve kept by Article 1 that they occupied, that their removal did not take away their treaty rights in it, and that they were entitled to its value from their removal on December 21, 1855, with interest.",
+      "whoFoundIt": "Court of Claims, Rogue River Tribe of Indians et al. v. United States, No. 45231, 64 F. Supp. 339, 105 Ct. Cl. 495 (1946)",
+      "source": {
+        "title": "Rogue River Tribe of Indians et al. v. United States, No. 45231, 64 F. Supp. 339 (Ct. Cl. February 4, 1946)",
+        "url": "https://static.case.law/f-supp/64/cases/0339-01.json",
+        "publisher": "Harvard Law School Library, Caselaw Access Project"
+      },
+      "quote": "we are unable to find that their simple removal deprived them of their rights as stipulated in the treaty"
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1946-02-04",
+      "what": "The same opinion held that the Act of March 3, 1875, which made Indians work for annuities already owed, was 'a plain violation' of the treaties, and that appropriated treaty funds went unspent. Under this treaty it allowed $1,198.19 for the work order and $13,117.69 for unspent funds and administrative expense.",
+      "whoFoundIt": "Court of Claims, Rogue River Tribe of Indians et al. v. United States, No. 45231, 64 F. Supp. 339 (1946)",
+      "source": {
+        "title": "Rogue River Tribe of Indians et al. v. United States, No. 45231, 64 F. Supp. 339 (Ct. Cl. February 4, 1946)",
+        "url": "https://static.case.law/f-supp/64/cases/0339-01.json",
+        "publisher": "Harvard Law School Library, Caselaw Access Project"
+      }
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1950-04-03",
+      "what": "The Court of Claims found the reservation held about 67,820 acres taken on December 21, 1855, valued it at $1 an acre, $67,820, and entered judgment for the bands of $342,450.74 after interest and offsets.",
+      "whoFoundIt": "Court of Claims, Rogue River Tribe of Indians et al. v. United States, No. 45231, 89 F. Supp. 798 (1950)",
+      "source": {
+        "title": "Rogue River Tribe of Indians et al. v. United States, No. 45231, 89 F. Supp. 798 (Ct. Cl. April 3, 1950)",
+        "url": "https://static.case.law/f-supp/89/cases/0798-01.json",
+        "publisher": "Harvard Law School Library, Caselaw Access Project"
+      }
+    }
+  ],
+  "compensation": "The annuities in Article 3. In 1950 the Court of Claims valued the reservation at $67,820 on December 21, 1855, added $309,357.16 as interest to make just compensation and the $14,315.88 it had allowed in 1946, deducted $48,028.30 in gratuities and $1,014 diverted from the Siletz Indians, and entered judgment of $342,450.74 for the Umpqua and Calapooia Indians of the Umpqua Valley, with 4 percent a year on $67,820 from April 3, 1950 until paid.",
+  "today": "The Court of Claims found in 1946 that these bands were confederated with the Molalla by the treaty of December 21, 1855 and soon after placed on the Grand Ronde Reservation, where they still lived. The Western Oregon termination act of August 13, 1954 (68 Stat. 724) named the Upper Umpqua, Calapooya and Yoncalla among the tribes whose federal supervision was to end. The Confederated Tribes of Grand Ronde are the successors.",
   "nationVoice": [
     {
       "nation": "Confederated Tribes of Grand Ronde",
@@ -48,19 +83,31 @@
       "title": "Treaties",
       "url": "https://www.grandronde.org/history-culture/history/treaties/",
       "publisher": "Confederated Tribes of Grand Ronde"
+    },
+    {
+      "title": "Rogue River Tribe of Indians et al. v. United States, No. 45231, 64 F. Supp. 339 (Ct. Cl. February 4, 1946)",
+      "url": "https://static.case.law/f-supp/64/cases/0339-01.json",
+      "publisher": "Harvard Law School Library, Caselaw Access Project"
+    },
+    {
+      "title": "Rogue River Tribe of Indians et al. v. United States, No. 45231, 89 F. Supp. 798 (Ct. Cl. April 3, 1950)",
+      "url": "https://static.case.law/f-supp/89/cases/0798-01.json",
+      "publisher": "Harvard Law School Library, Caselaw Access Project"
     }
   ],
   "openQuestions": [
-    "The Court of Claims suit Rogue River Tribe of Indians v. United States (No. 45231; 64 F. Supp. 339, 1946, and 89 F. Supp. 798, 1950) concerned the 1854 treaties and the Table Rock and Umpqua reservations. Both opinions were behind paywalls or rate limits (Leagle, Midpage) on 2026-11-08, so their holdings and any award are not recorded here; they are the likely finding.",
-    "Whether a delegation of the bands concurred in choosing Grand Ronde, as Article 1 required before removal, and whether the Umpqua reserve tracts were sold for their benefit, was not found in a source opened.",
     "Whether the twenty years of annuities were paid in full was not researched.",
-    "The Grand Ronde treaties page names the Upper Umpqua and Yoncalla for this treaty; the treaty text calls the parties the Umpqua and the Calapooias of the Umpqua Valley."
+    "The Grand Ronde treaties page names the Upper Umpqua and Yoncalla for this treaty; the treaty text calls the parties the Umpqua and the Calapooias of the Umpqua Valley.",
+    "Audit 2026-11-08: both Rogue River Tribe opinions were read in full from the Caselaw Access Project. They hold that the bands kept their rights in the occupied part of the Article 1 reserve, value its taking on December 21, 1855, find the 1875 work order a violation of the treaties and allow unspent treaty funds. Added as three court-ruling breaches; the status rises from no-breach-found to broken on this evidence.",
+    "Whether a delegation concurred in choosing Grand Ronde, and whether the reserve tracts were sold for the holders under Article 1, is not discussed in the opinions; the 1946 court deducted any sale proceeds spent for them from the land award.",
+    "A 1950 petition by the United States for certiorari (No. 282) appears in catalogue records; its outcome and whether the $342,450.74 was paid were not traced."
   ],
   "plain": {
     "promised": "The Umpqua and Kalapuya of the Umpqua Valley gave up their country for a reservation on the Umpqua River, twenty years of annuities, and a say in choosing any new reserve if moved.",
-    "happened": "No breach has been documented yet in the sources opened. Whether the removal to Grand Ronde kept the treaty's terms was not settled, and a Court of Claims case could not be read.",
-    "today": "Congress ended federal services to these peoples in 1954. Their descendants belong to the Confederated Tribes of Grand Ronde."
+    "happened": "The Court of Claims held in 1946 that the bands kept their rights in the reserve they were removed from in 1855, and that an 1875 law making them work for promised annuities violated the treaty.",
+    "today": "In 1950 the court valued the reserve, about 67,820 acres, at $67,820 and entered judgment for $342,450.74 after interest and offsets. Congress ended federal services to these peoples in 1954."
   },
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "landTaken": "The Court of Claims found the Article 1 reservation contained approximately 67,820 acres in the Umpqua Valley, Douglas County, Oregon, taken on December 21, 1855 (89 F. Supp. 798, finding 3)."
 }

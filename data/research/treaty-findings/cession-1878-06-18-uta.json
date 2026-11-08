@@ -59,7 +59,13 @@
     "happened": "Congress took back the Spanish Fork, Corn Creek, San Pete and Deep Creek reserves without any payment. In 1957 the Indian Claims Commission found the Uintah Ute were deprived of lands in their area without any compensation.",
     "today": "Nothing was paid under this Act, and the reserves are no longer Indian land. The wider Uintah Ute land claim ended in a compromise judgment of $7,700,000 in 1960."
   },
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Ute Indian Tribe of the Uintah and Ouray Reservation",
+      "summary": "In a 2022 news release the Tribe says pressure from settlers in Utah and Colorado led to the removal of its bands onto lands reserved for the Utes, with the Uintah Valley Reservation confirmed by Congress in 1864, and that the Business Committee is working to restore lands once set aside for the Tribe.",
+      "url": "https://ictnews.org/the-press-pool/ute-indian-tribe-successfully-restores-19-acres-of-land-to-trust-status/"
+    }
+  ],
   "sources": [
     {
       "title": "Act of June 18, 1878, ch. 266, 20 Stat. 165",
@@ -90,6 +96,11 @@
       "title": "Uintah Ute Indians of Utah v. United States, Dockets 44 and 45, Final Judgment (1960)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/450",
       "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Ute Indian Tribe successfully restores 19 acres of land to trust status (news release of the Ute Indian Tribe of the Uintah and Ouray Reservation, 2022)",
+      "url": "https://ictnews.org/the-press-pool/ute-indian-tribe-successfully-restores-19-acres-of-land-to-trust-status/",
+      "publisher": "Ute Indian Tribe of the Uintah and Ouray Reservation, via ICT Press Pool"
     }
   ],
   "openQuestions": [

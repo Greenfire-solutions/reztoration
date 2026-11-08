@@ -1,0 +1,108 @@
+{
+  "id": "cession-1873-06-16-nez-perc",
+  "name": "Executive order of June 16, 1873 setting apart the Wallowa Valley Reservation for the non-treaty Nez Perce",
+  "aka": [
+    "Wallowa Valley Reserve",
+    "Wallowa executive order"
+  ],
+  "signed": "1873-06-16",
+  "citation": "Executive Order of June 16, 1873 (1 Kappler 894); revoked by Executive Order of June 10, 1875",
+  "textUrl": "https://lib.uidaho.edu/mcbeth/governmentdoc/txexecutive.htm",
+  "nations": [
+    "Nimiipuu (Nez Perce), Joseph's (Wallowa) Band"
+  ],
+  "promises": [
+    "The President ordered the described tract of the Wallowa Valley in Oregon, from the mouth of the Grande Ronde up the Snake River and back by the Wallowa and Grande Ronde rivers, withheld from entry and settlement as public land and set apart as a reservation for the roaming Nez Perce."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "executive-action",
+      "date": "1875-06-10",
+      "what": "The President revoked and annulled the 1873 order and restored the Wallowa Valley to the public domain.",
+      "whoFoundIt": "Executive Order of June 10, 1875",
+      "source": {
+        "title": "1875 Executive Order revoking Wallowa Valley Reserve (from Executive Orders relating to Indian Reservations, 1855-1878)",
+        "url": "https://lib.uidaho.edu/mcbeth/governmentdoc/txrevoke.htm",
+        "publisher": "University of Idaho Library"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1971-03-26",
+      "what": "The Indian Claims Commission held that the United States' undertaking to settle Joseph's Band on the 1873 reservation in its homeland created a special relationship imposing an obligation, that the withdrawal of this executive order title was compensable, and that the band was entitled to recover the value of its interest in the Wallowa Reservation as of June 10, 1875. Two commissioners dissented in part.",
+      "whoFoundIt": "Indian Claims Commission, Docket 186, 25 Ind. Cl. Comm. 99 (1971)",
+      "source": {
+        "title": "Confederated Tribes of the Colville Reservation, as representative of the Joseph Band of the Nez Perce Tribe, et al. v. United States, Docket 186, Opinion of the Commission (25 Ind. Cl. Comm. 99, March 26, 1971)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2111",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      },
+      "quote": "That was the United States' undertaking to settle the band on the 1873 reservation in their homeland."
+    },
+    {
+      "kind": "litigation",
+      "date": "1974-10-31",
+      "what": "All claims in Docket 186 were settled by a compromise final judgment of $725,000 for the Confederated Tribes of the Colville Reservation on behalf of the Joseph Band.",
+      "whoFoundIt": "Indian Claims Commission, Docket 186, compromise settlement",
+      "source": {
+        "title": "Colville Tribes for the Joseph Band of the Nez Perce v. United States, Docket 186, Findings of Fact on Compromise Settlement (35 Ind. Cl. Comm. 74, October 31, 1974)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1247",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    }
+  ],
+  "compensation": "A compromise final judgment of $725,000 in 1974 for the Confederated Tribes of the Colville Reservation on behalf of the Joseph Band (Docket 186).",
+  "today": "In 1941 the Court of Claims (Joseph's Band v. United States, 95 Ct. Cl. 11) rejected the band's claim to aboriginal title to the whole Wallowa-Imnaha area; the Commission held in 1971 that this did not bar the executive order claim. The Commission also found that white settlers on the reservation were not removed while the order stood.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "1873 Executive Order creating Wallowa Valley Reserve (from Executive Orders relating to Indian Reservations, 1855-1878)",
+      "url": "https://lib.uidaho.edu/mcbeth/governmentdoc/txexecutive.htm",
+      "publisher": "University of Idaho Library"
+    },
+    {
+      "title": "Colville Tribes for the Joseph Band of the Nez Perce v. United States, Docket 186, Findings of Fact (25 Ind. Cl. Comm. 128, March 26, 1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2265",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Colville Tribes for the Joseph Band of the Nez Perce v. United States, Docket 186, Final Award (35 Ind. Cl. Comm. 84, October 31, 1974)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1124",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 864",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/864/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "1875 Executive Order revoking Wallowa Valley Reserve (from Executive Orders relating to Indian Reservations, 1855-1878)",
+      "url": "https://lib.uidaho.edu/mcbeth/governmentdoc/txrevoke.htm",
+      "publisher": "University of Idaho Library"
+    },
+    {
+      "title": "Confederated Tribes of the Colville Reservation, as representative of the Joseph Band of the Nez Perce Tribe, et al. v. United States, Docket 186, Opinion of the Commission (25 Ind. Cl. Comm. 99, March 26, 1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2111",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Colville Tribes for the Joseph Band of the Nez Perce v. United States, Docket 186, Findings of Fact on Compromise Settlement (35 Ind. Cl. Comm. 74, October 31, 1974)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1247",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "This Royce record is an executive order reservation, not a cession. The revocation alone would not make it broken; the Commission's 1971 liability holding on the Wallowa reservation does.",
+    "The Commission's minority said neither Joseph's Band nor other non-treaty bands ever accepted the 1873 reservation or confined themselves to it.",
+    "treaties.json lists only the Nez Perce Tribe of Idaho; the Docket 186 claim was brought by the Confederated Tribes of the Colville Reservation, where descendants of Joseph's Band live, and the list should probably include them.",
+    "The Nez Perce Tribe's and the Colville Tribes' own accounts of the Wallowa reservation were not found on their websites in this pass.",
+    "The Wallowa Valley lay within the 1863 treaty cession; the Nez Perce Tribe's recovery for that cession (Docket 175-A) belongs to the 1863 treaty's record."
+  ],
+  "plain": {
+    "promised": "In 1873 the President set apart the Wallowa Valley in Oregon, the homeland of Joseph's Band, as a reservation for the non-treaty Nez Perce.",
+    "happened": "In 1875 the President revoked the order and opened the valley to settlement. The Indian Claims Commission held in 1971 that the United States owed Joseph's Band the value of that reservation.",
+    "today": "The claim was settled for $725,000 in 1974, paid to the Colville Tribes on behalf of the Joseph Band."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

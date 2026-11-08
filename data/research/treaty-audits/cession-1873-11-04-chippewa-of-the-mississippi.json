@@ -1,0 +1,19 @@
+{
+  "id": "cession-1873-11-04-chippewa-of-the-mississippi",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce full text: Nov. 4, 1873 addition to the Leech Lake reservation (area 550), taken from the tract ceded by the first article of the treaty of March 19, 1867.",
+    "Leech Lake Band history page as for the October 29 file.",
+    "No breach claimed; no-breach-found supported."
+  ],
+  "changes": [
+    "Corrected the openQuestions note that wrongly said the Leech Lake Band is not listed in treaties.json; audit line added."
+  ],
+  "unverifiable": [
+    "Royce's description of the Little Boy River boundary not located in the OCR text."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes includes Mille Lacs and White Earth for an addition to the Leech Lake reserve."
+  ]
+}

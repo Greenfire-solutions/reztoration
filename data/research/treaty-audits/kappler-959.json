@@ -1,0 +1,21 @@
+{
+  "id": "kappler-959",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Kappler header on the Oklahoma State University Tribal Treaties Database matches the file's signing, ratification/proclamation dates and Statutes at Large citation.",
+    "Docket 219 findings, opinion and final award (ids 2643, 1535, 1818): 132,718.80 acres; value $464,515.80 as of July 25, 1868; consideration $204,677.81 unconscionable (finding 44 quote exact); paid $139,524.38; additional $324,991.42; net final judgment $899,408.54.",
+    "Docket 220 opinion of February 14, 1967 (id 1668): quotes the Court of Claims slip opinion of October 16, 1964 (Appeal No. 3-63) that the 1891 sale was negotiated under coercion amounting to duress; quote exact; the Commission revalued at $3.00 an acre and held $1.23 unconscionable.",
+    "Docket 220 Order Amending Findings and for Entry of Final Judgment (id 934): 391,188.05 acres, $1,173,564.15, $481,000 paid, final award $692,564.15."
+  ],
+  "changes": [
+    "Third breach now states the acreage, value, price and the $692,564.15 final award, citing the order (id 934); compensation and plain.today record the amount, which the file said was not found.",
+    "openQuestions updated; source added."
+  ],
+  "unverifiable": [
+    "The Court of Claims opinion of October 16, 1964 itself was not found online; it is cited through the Commission's quotation."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes list only the Sac & Fox Tribe of the Mississippi in Iowa; the Sac and Fox Tribe of Oklahoma was a petitioner in Docket 219 and the sole recipient in Docket 220."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cession-1889-09-06-mississippi-chippewa-white-oak-band-pill",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Same BIA and LaRose testimony as the companion entries; the facts used match.",
+    "Status contested is right."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Whether the White Oak Point band is today part of Leech Lake is not stated in a source opened (already in openQuestions)."
+  ],
+  "treatiesJsonErrors": [
+    "Shares identical scheduleTribes with cession-1889-08-21 (already noted in the file)."
+  ]
+}

@@ -1,12 +1,16 @@
 {
   "id": "kappler-199",
   "name": "Treaty with the Choctaw, 1820 (Treaty of Doak's Stand)",
-  "aka": ["Treaty of Doak's Stand"],
+  "aka": [
+    "Treaty of Doak's Stand"
+  ],
   "signed": "1820-10-18",
   "proclaimed": "1821-01-08",
   "citation": "7 Stat. 210",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-choctaw-1820-0191",
-  "nations": ["Chahta (Choctaw)"],
+  "nations": [
+    "Chahta (Choctaw)"
+  ],
   "promises": [
     "Article 2: a tract west of the Mississippi between the Arkansas and Red rivers ceded to the Choctaw Nation in part payment for the Mississippi land.",
     "Article 4: the Choctaw boundaries east of the Mississippi to remain unaltered until the nation became citizens and Congress laid off land for each family.",
@@ -17,7 +21,18 @@
   "status": "no-breach-found",
   "breaches": [],
   "today": "Four years later the United States negotiated changes. The treaty of January 20, 1825 (7 Stat. 234) states that the land ceded to the Choctaw in Article 2 was found to embrace 'a large number of settlers, citizens of the United States'; the Choctaw ceded back the part east of a line near Fort Smith for $6,000 a year forever. The same treaty replaced the Article 8 land with $6,000 a year for sixteen years, fixed the Pensacola pay, which it says had been delayed, at $14,972.50, and recorded the Choctaw giving up their claim to the promised factor. In 1954 the Indian Claims Commission dismissed a Choctaw claim to land west of the 100th meridian under this treaty, holding itself bound by the Supreme Court's ruling in United States v. Choctaw Nation, 179 U.S. 494, that those lands were outside the 1820 boundaries. The Choctaw ceded their remaining Mississippi land by the Treaty of Dancing Rabbit Creek in 1830.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Choctaw Nation of Oklahoma",
+      "summary": "The Nation's Iti Fabvssa column says Choctaw leaders signed Doak's Stand hoping removal could be avoided, that the treaty traded half the homeland for land in present western Arkansas, and that settlers kept pressing for more land until the 1830 Treaty of Dancing Rabbit Creek.",
+      "url": "https://choctawnationculture.com/media/41643/2021.02_a_new_chahta_homeland_a_history_by_the_decade__1830-1840.pdf"
+    },
+    {
+      "nation": "Choctaw Nation of Oklahoma",
+      "summary": "The Nation's Iti Fabvssa column says that despite Andrew Jackson's solemn assurance at the 1820 treaty that the United States would never again seek Choctaw lands, ten years later a commission he formed came for all the land the Choctaw had left in Mississippi.",
+      "url": "https://choctawnationculture.com/media/33965/2014.07%20Choctaw%20resistance%20to%20removal%20from%20ancient%20homeland%20part%202.pdf"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Choctaw, 1820 (Kappler, vol. 2, p. 191)",
@@ -38,6 +53,16 @@
       "title": "Choctaw Nation v. United States, Docket 103, Findings of Fact (March 8, 1954)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/547",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Iti Fabvssa: A New Chahta Homeland, A History by the Decade, 1830-1840 (February 2021)",
+      "url": "https://choctawnationculture.com/media/41643/2021.02_a_new_chahta_homeland_a_history_by_the_decade__1830-1840.pdf",
+      "publisher": "Choctaw Nation of Oklahoma, Cultural Services"
+    },
+    {
+      "title": "Iti Fabvssa: Choctaw Resistance to Removal from Ancient Homeland, Part 2 (July 2014)",
+      "url": "https://choctawnationculture.com/media/33965/2014.07%20Choctaw%20resistance%20to%20removal%20from%20ancient%20homeland%20part%202.pdf",
+      "publisher": "Choctaw Nation of Oklahoma, Cultural Services"
     }
   ],
   "openQuestions": [

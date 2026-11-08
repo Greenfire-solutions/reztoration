@@ -1,0 +1,20 @@
+{
+  "id": "kappler-665",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Kappler header on the Oklahoma State University Tribal Treaties Database matches the file's signing, ratification/proclamation dates and Statutes at Large citation.",
+    "64 F. Supp. 339 (1946), full text: the Umpqua and Calapooia did not relinquish the occupied part of the reserve kept by Article 1; their removal did not deprive them of treaty rights; entitled to its value from December 21, 1855 with interest; the 1875 work order was 'a plain violation' of the treaties ($1,198.19 under this treaty); unspent funds and administrative expense $13,117.69.",
+    "89 F. Supp. 798 (1950), full text: reserve about 67,820 acres, taken December 21, 1855, worth $1 an acre ($67,820); interest $309,357.16; plus $14,315.88 from 1946; less $48,028.30 gratuities and $1,014; judgment $342,450.74 and 4 percent on $67,820 from April 3, 1950."
+  ],
+  "changes": [
+    "Status raised from no-breach-found to broken on three court-ruling breaches from the 1946 and 1950 Court of Claims opinions.",
+    "landTaken, compensation, today and plain rewritten from the opinions; sources added; openQuestions updated."
+  ],
+  "unverifiable": [
+    "Whether the United States' 1950 certiorari petition (No. 282) was acted on, and whether the judgment was paid, was not traced."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes include the Cow Creek Band of Umpqua and the Coos, Lower Umpqua and Siuslaw; the Court of Claims places the treaty bands on the Grand Ronde Reservation."
+  ]
+}

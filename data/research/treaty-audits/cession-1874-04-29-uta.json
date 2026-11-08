@@ -1,0 +1,18 @@
+{
+  "id": "cession-1874-04-29-uta",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Act of April 29, 1874 (Kappler vol. 1, pp. 151-152): ratifies the agreement; sec. 2 five per cent bonds paying $25,000 a year; sec. 3 $1,000 to Ouray annually so long as he is chief.",
+    "ICC Docket 327 figures and 402 U.S. 159 quote as for cession-1873-09-13-uta."
+  ],
+  "changes": [
+    "Audit line added to openQuestions recording the Docket 327 date check."
+  ],
+  "unverifiable": [
+    "Chapter number 136 not seen in the transcription."
+  ],
+  "treatiesJsonErrors": [
+    "Same cession as cession-1873-09-13-uta; Royce area 566 shared by four entries."
+  ]
+}

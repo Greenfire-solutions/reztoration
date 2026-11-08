@@ -1,0 +1,86 @@
+{
+  "id": "cession-1867-06-14-bannock-coeur-d-alene-shoshoni",
+  "name": "Executive order of June 14, 1867 setting apart the Fort Hall Reservation",
+  "aka": [
+    "Fort Hall Reservation order of 1867"
+  ],
+  "signed": "1867-06-14",
+  "citation": "Executive Order of June 14, 1867",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/846/mode/2up",
+  "nations": [
+    "Shoshone-Bannock Tribes (Shoshone and Bannock)"
+  ],
+  "promises": [
+    "Royce records that this reserve was set apart in general terms for the Indians of southern Idaho, and that many Shoshone and Bannock settled on it.",
+    "The Shoshone-Bannock Tribes state that the reservation first contained 1.8 million acres."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "nation-statement",
+      "date": "1872",
+      "what": "The Shoshone-Bannock Tribes state that the Fort Hall Reservation originally contained 1.8 million acres, that this was reduced to 1.2 million acres in 1872 because of a survey error, and that later legislation and allotment reduced it to its present size.",
+      "whoFoundIt": "Shoshone-Bannock Tribes, About page",
+      "source": {
+        "title": "About the Shoshone-Bannock Tribes",
+        "url": "https://www.sbtribes.com/about/",
+        "publisher": "Shoshone-Bannock Tribes"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1968-02-13",
+      "what": "Seven Shoshone and Bannock claims, including claims that the 1889 cession of about 297,000 acres and the 1898 cession of about 406,864 acres of the Fort Hall Reservation were made for unconscionable sums, were settled by one consolidated final judgment of $15,700,000; only the aboriginal title claim had been tried.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 326-D to 326-H, 366 and 367, compromise settlement",
+      "source": {
+        "title": "Shoshone-Bannock Tribes et al. v. United States, Dockets 326-D to 326-H, 366 and 367, Findings of Fact on Settlement (19 Ind. Cl. Comm. 3, February 13, 1968)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2557",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    }
+  ],
+  "compensation": "A compromise of $15,700,000 in 1968 settled seven dockets together, among them the claims for the 1889 and 1898 cessions of reservation land; no amount was assigned to this reservation alone.",
+  "today": "The Shoshone-Bannock Tribes state the reservation lies north and west of Pocatello, Idaho, reduced to its present size by legislation and allotment.",
+  "nationVoice": [
+    {
+      "nation": "Shoshone-Bannock Tribes",
+      "summary": "The Tribes say the Fort Hall Reservation was set aside by executive order as the Bannock reservation guaranteed in the Fort Bridger Treaty of 1868, that it first held 1.8 million acres, that a survey error cut it to 1.2 million acres in 1872, and that later legislation and allotment reduced it further.",
+      "url": "https://www.sbtribes.com/about/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 846",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/846/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 850",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/850/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "About the Shoshone-Bannock Tribes",
+      "url": "https://www.sbtribes.com/about/",
+      "publisher": "Shoshone-Bannock Tribes"
+    },
+    {
+      "title": "Shoshone-Bannock Tribes et al. v. United States, Dockets 326-D to 326-H, 366 and 367, Findings of Fact on Settlement (19 Ind. Cl. Comm. 3, February 13, 1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2557",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "Royce area 524 is the Fort Hall reserve, not a cession; the two Royce records dated June 14, 1867 and July 30, 1869 both point to it.",
+    "treaties.json names the Coeur d'Alene among the scheduleTribes for Royce 524. Royce's schedule also mentions an original reserve established by executive order of June 14, 1867 in its Washington and Idaho notes; whether that is the Coeur d'Alene reserve was not settled, and the Coeur d'Alene are not parties to Fort Hall.",
+    "No Commission or court finding on the 1872 survey reduction was located; the claims about the 1888-89 and 1898 cessions of reservation land (Dockets 326-E and 326-F) were settled without trial.",
+    "The text of the 1867 and 1869 executive orders was not opened; their terms are taken from Royce."
+  ],
+  "plain": {
+    "promised": "In 1867 the President set apart the Fort Hall Reservation for the Indians of southern Idaho. The Shoshone-Bannock Tribes say it first held 1.8 million acres.",
+    "happened": "The Tribes say a survey error cut it to 1.2 million acres in 1872 and later laws and allotment cut it further. No court or commission finding on the survey was located.",
+    "today": "Claims over the 1889 and 1898 land cessions were settled with other claims for $15,700,000 in 1968, without a ruling."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

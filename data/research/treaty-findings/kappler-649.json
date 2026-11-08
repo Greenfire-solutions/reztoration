@@ -1,0 +1,101 @@
+{
+  "id": "kappler-649",
+  "name": "Treaty with the Miami, 1854",
+  "aka": [
+    "Miami treaty of June 5, 1854"
+  ],
+  "signed": "1854-06-05",
+  "ratified": "1854-08-04",
+  "proclaimed": "1854-08-04",
+  "citation": "10 Stat. 1093",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-miami-1854-0641",
+  "nations": [
+    "Miami Tribe of Oklahoma (Myaamia)",
+    "Miami Indians of Indiana"
+  ],
+  "promises": [
+    "Article 1: out of the Kansas reservation ceded, the Miami kept 70,000 acres for their future homes and a section for schools.",
+    "Article 2: land left after individual selections would be held as the common property of the tribe; a person overlooked or wrongly excluded could receive land only if the chiefs were satisfied and the Commissioner approved.",
+    "Article 3: $200,000 for the cession, paid in instalments.",
+    "Article 4: the annuities of earlier treaties divided between the Indiana and western Miamis, with only the 302 persons on the corrected list of June 1854 to share the Indiana payments unless the Indiana Miamis consented in council."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1858-06-12",
+      "what": "Section 3 of the Act of June 12, 1858 directed the Secretary of the Interior to locate 200 acres each, out of the 70,000-acre reserve this treaty kept, for persons of Miami blood excluded from the annuities. The Commission found 73 persons were allotted 14,533.38 acres of Miami land in Kansas without tribal consent.",
+      "whoFoundIt": "Act of June 12, 1858, sec. 3, 11 Stat. 329, 332, as found by the Indian Claims Commission, Dockets 251 and 124-A, Findings of Fact 15 and 16 (1958)",
+      "source": {
+        "title": "Miami Tribe of Oklahoma et al. v. United States, Dockets 251 and 124-A, Findings of Fact (July 14, 1958)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/515",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "government-admission",
+      "date": "1891-03-03",
+      "what": "After the Court of Claims found in 1891 that the 73 allottees had not moved west or lived on the land, had been chosen without consulting the tribe, and were not shown to be of Miami blood, Congress appropriated $18,370.89 and $43,600.14 to the Western Miami as a return of funds and payment for the allotted land.",
+      "whoFoundIt": "Act of March 3, 1891, 26 Stat. 1000, as found by the Indian Claims Commission, Dockets 251 and 124-A, Finding of Fact 17 (1958)",
+      "source": {
+        "title": "Miami Tribe of Oklahoma et al. v. United States, Dockets 251 and 124-A, Findings of Fact (July 14, 1958)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/515",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "14,533.38 acres of the 70,000-acre reserve, allotted to 73 persons in 1859, according to the Commission's findings.",
+  "compensation": "Congress paid the Western Miami $18,370.89 and $43,600.14 on March 3, 1891 (26 Stat. 1000), and on March 2, 1895 appropriated a further sum to the Miami of Indiana as a return of money taken from their tribal funds and paid to the 73 persons (the figure is unreadable in the scan). The Commission held it could not award interest on these sums.",
+  "today": "The Indian Claims Commission held in 1958 that the $200,000 paid for the 254,158.34 acres ceded here, worth $317,697.93, was not an unconscionable price, and that the commutation of annuities was fair. Remaining claims about forced allotments and land sales in Docket 251-A were settled by compromise for $10,000 in 1969.",
+  "nationVoice": [
+    {
+      "nation": "Miami Tribe of Oklahoma (Myaamia)",
+      "summary": "The Tribe says its ancestors were removed at gunpoint to Kansas in 1846, and that from the end of the 1860s settlers pressed them to give up their Kansas lands and move again to Indian Territory.",
+      "url": "https://www.miamination.com/about-us/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Miami, 1854 (Kappler, vol. 2, p. 641)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-miami-1854-0641",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Miami Tribe of Oklahoma et al. v. United States, Dockets 251 and 124-A, Findings of Fact (July 14, 1958)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/515",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Miami Tribe of Oklahoma et al. v. United States, Dockets 251 and 124-A, Opinion of the Commission (July 14, 1958)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/292",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Miami Tribe of Oklahoma et al. v. United States, Docket 251-A, Findings of Fact on Compromise Settlement (January 9, 1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1405",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "About Us",
+      "url": "https://www.miamination.com/about-us/",
+      "publisher": "Miami Tribe of Oklahoma"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 794",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/794/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The Act of June 12, 1858 (11 Stat. 329) and the Act of March 3, 1891 (26 Stat. 1000) were read only as quoted and summarised in the Commission's findings; the statutes themselves were not opened (govinfo does not carry volume 26).",
+    "The 1895 appropriation to the Indiana Miami (28 Stat. 903) is unreadable in the scan.",
+    "The Court of Claims findings of January 5, 1891 (Congressional Case No. 1343) were not opened; H.R. Misc. Doc. 83, 51st Cong., 2d Sess. would be the copy."
+  ],
+  "plain": {
+    "promised": "The Miami kept 70,000 acres in Kansas as tribal land, with no one added without the chiefs' agreement, and were paid $200,000 for the rest.",
+    "happened": "An 1858 Act of Congress had 14,533.38 acres of that reserve allotted to 73 people without tribal consent. The Court of Claims found in 1891 they were not shown to be Miami.",
+    "today": "Congress paid $18,370.89 and $43,600.14 in 1891. The Commission found the $200,000 price itself was not unconscionable."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -23,10 +23,23 @@
     "Article 5: for all Indians on the reserve, a farmer for fifteen years, two blacksmith shops for five years, a hospital and medical care for ten years, and schools with teachers for fifteen years.",
     "Article 6: the President could survey the reserve and assign farms of 20 to 80 acres as permanent homes."
   ],
-  "status": "no-breach-found",
-  "breaches": [],
-  "compensation": "The annuities and services in Articles 3 to 5. No Indian Claims Commission or Court of Claims award on this treaty was found in the sources opened.",
-  "today": "The Western Oregon termination act of August 13, 1954 (68 Stat. 724) named the Shasta, Scoton, Grave and Galic Creek peoples among the tribes whose federal supervision and services were to end. It does not mention this treaty, and the Table Rock reserve was set apart by the 1853 Rogue River treaty, not this one, so it is not counted as a breach here. The Confederated Tribes of Grand Ronde and of Siletz Indians are successors.",
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1946-02-04",
+      "what": "The Court of Claims found that some funds Congress appropriated to meet this treaty's obligations were not spent for the bands as the treaty provided, and held the Chasta, Scotons and Grave Creek Band of Umpquas entitled to recover $10,224.34 plus $4,695.69 in administrative expense improperly charged to their funds, a total of $14,920.03, subject to offsets.",
+      "whoFoundIt": "Court of Claims, Rogue River Tribe of Indians et al. v. United States, No. 45231, 64 F. Supp. 339, 105 Ct. Cl. 495 (1946)",
+      "source": {
+        "title": "Rogue River Tribe of Indians et al. v. United States, No. 45231, 64 F. Supp. 339 (Ct. Cl. February 4, 1946)",
+        "url": "https://static.case.law/f-supp/64/cases/0339-01.json",
+        "publisher": "Harvard Law School Library, Caselaw Access Project"
+      },
+      "quote": "funds actually appropriated to meet the obligations of the various treaties were not expended for the benefit of the Indians as provided"
+    }
+  ],
+  "compensation": "The annuities and services in Articles 3 to 5. In 1946 the Court of Claims held the Chasta, Scotons and Grave Creek Band of Umpquas entitled to $14,920.03 for unspent treaty funds and improperly charged administrative expense under this treaty. In 1950 it found that the gratuities the United States had spent for them up to July 1, 1943 equalled that award, so nothing was left to pay, and dismissed their petition (89 F. Supp. 798).",
+  "today": "The Court of Claims found in 1946 that these bands, with the Rogue River Tribe, were placed on the Table Rock Reservation in 1854 and 1855 and most were moved to the Coast or Siletz Reservation in 1857; it held the United States had no treaty duty to give them a separate permanent reservation. The Western Oregon termination act of August 13, 1954 (68 Stat. 724) named the Shasta, Scoton, Grave and Galic Creek peoples among the tribes whose federal supervision was to end; the Table Rock reserve was set apart by the 1853 Rogue River treaty, not this one, so the Act is not counted as a breach here. The Confederated Tribes of Grand Ronde and of Siletz Indians are successors.",
   "nationVoice": [
     {
       "nation": "Confederated Tribes of Grand Ronde",
@@ -49,18 +62,29 @@
       "title": "Treaties",
       "url": "https://www.grandronde.org/history-culture/history/treaties/",
       "publisher": "Confederated Tribes of Grand Ronde"
+    },
+    {
+      "title": "Rogue River Tribe of Indians et al. v. United States, No. 45231, 64 F. Supp. 339 (Ct. Cl. February 4, 1946)",
+      "url": "https://static.case.law/f-supp/64/cases/0339-01.json",
+      "publisher": "Harvard Law School Library, Caselaw Access Project"
+    },
+    {
+      "title": "Rogue River Tribe of Indians et al. v. United States, No. 45231, 89 F. Supp. 798 (Ct. Cl. April 3, 1950)",
+      "url": "https://static.case.law/f-supp/89/cases/0798-01.json",
+      "publisher": "Harvard Law School Library, Caselaw Access Project"
     }
   ],
   "openQuestions": [
-    "The Court of Claims suit Rogue River Tribe of Indians v. United States (No. 45231; 64 F. Supp. 339, 1946, and 89 F. Supp. 798, 1950) concerned the 1854 treaties and the Table Rock and Umpqua reservations. Both opinions were behind paywalls or rate limits (Leagle, Midpage) on 2026-11-08, so their holdings and any award are not recorded here; they are the likely finding.",
     "Whether the annuities and the Article 5 farmer, smiths, hospital and schools were provided after the Rogue River War of 1855-56 and the removal north was not researched.",
     "The Grand Ronde treaties page names the Quilsieton and Nahelta bands of the Chasta and the Scoton bands for this treaty but not the Grave Creek band.",
-    "treaties.json lists the Cow Creek Band of Umpqua among present-day tribes; the Cow Creek had their own treaty of September 19, 1853. Not checked."
+    "treaties.json lists the Cow Creek Band of Umpqua among present-day tribes; the Cow Creek had their own treaty of September 19, 1853. Not checked.",
+    "Audit 2026-11-08: both Rogue River Tribe opinions were read in full from the Caselaw Access Project. The 1946 opinion holds that appropriated funds under this treaty went unspent and awards $14,920.03; added as a court-ruling breach, so the file now meets the broken standard. The 1950 opinion found offsets for gratuities equal to the award and dismissed these bands' petition, so nothing was paid on the judgment.",
+    "The 1946 work-order holding (the Act of March 3, 1875 requiring labour for treaty annuities, called 'a plain violation' of the treaties) lists unpaid sums only under the 1853, November 29, 1854 and January 22, 1855 treaties, not this one."
   ],
   "plain": {
     "promised": "The Chasta, Scoton and Grave Creek bands gave up their country on the Rogue River for a place on the Table Rock reserve, $2,000 a year for fifteen years, and a farmer, smiths, a hospital and schools.",
-    "happened": "No breach has been documented yet in the sources opened. A Court of Claims case on these treaties exists but its rulings could not be read.",
-    "today": "Congress ended federal services to these peoples in 1954. Their descendants belong to the Confederated Tribes of Grand Ronde and of Siletz Indians."
+    "happened": "In 1946 the Court of Claims found that money Congress set aside for this treaty was not spent for these bands as promised, and held them owed $14,920.03.",
+    "today": "In 1950 the court set off the government's gifts to the bands against that sum, found nothing left to pay, and dismissed their claim. Congress ended federal services to these peoples in 1954."
   },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

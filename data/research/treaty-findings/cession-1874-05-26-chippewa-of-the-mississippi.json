@@ -17,7 +17,13 @@
   "status": "no-breach-found",
   "breaches": [],
   "today": "Royce records that under the Nelson Act agreement signed August 21, 1889, the Pillager and Lake Winnibigoshish bands ceded to the United States their reservations under the 1855 treaty together with the executive addition made by the order of May 26, 1874. Royce shows the Chippewa, Leech Lake and Winnibigoshish reservations as then limited in area 710.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Leech Lake Band of Ojibwe",
+      "summary": "The Band's history says treaties set aside reservations around Leech Lake, Cass Lake and Lake Winnibigoshish that would forever be home of the Ojibwe, but the Nelson Act of 1889 opened the unallotted land to timber companies, railroads and settlers.",
+      "url": "https://www.llojibwe.org/aboutUs/history.html"
+    }
+  ],
   "sources": [
     {
       "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule entry 567 and 568 (Executive Orders of May 26, 1874)",
@@ -33,6 +39,11 @@
       "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule entry Nelson Act agreements of 1889, Pillager and Winnibigoshish bands (6)",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/936/mode/2up",
       "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Leech Lake Band of Ojibwe, History",
+      "url": "https://www.llojibwe.org/aboutUs/history.html",
+      "publisher": "Leech Lake Band of Ojibwe"
     }
   ],
   "openQuestions": [

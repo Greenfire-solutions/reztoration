@@ -1,0 +1,18 @@
+{
+  "id": "kappler-182",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Kappler header on the Oklahoma State University Tribal Treaties Database matches the file's signing, ratification/proclamation dates and Statutes at Large citation.",
+    "Chickasaw.tv 'Treaty of Old Town: Jackson's Purchase' loaded: Jackson said the land would be taken if they refused; October 19, 1818; $20,000 a year for 15 years and debts; continued demands over the next ten years. nationVoice matches.",
+    "Keeping the Nation's account as voice only is right: it describes how the cession was obtained, not a promise in the treaty that was broken, and PROTOCOLS 9 needs a breach of the treaty for a nation-statement breach.",
+    "ICC search for Chickasaw lists Dockets 267 to 270 and Docket 16; those opened (Leased District, freedmen lands, Docket 270 dismissal) concern later matters."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Whether the Article 4 salt lick lease and Article 6 improvement payments were carried out was not checked (already in openQuestions)."
+  ],
+  "treatiesJsonErrors": [
+    "Royce area 81 is listed for both this treaty and kappler-143 (already noted in the file)."
+  ]
+}

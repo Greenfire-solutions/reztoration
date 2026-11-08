@@ -1,0 +1,17 @@
+{
+  "id": "cession-1873-10-29-chippewa-of-the-mississippi",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce (Internet Archive full text): Oct. 29, 1873 addition to the Lake Winnibigoshish reservation (area 549), taken from the tract ceded by the first article of the treaty of March 19, 1867; see order of May 26, 1874.",
+    "Leech Lake Band history page: reservations that would \"forever be home\"; Nelson Act opened unallotted land to timber companies, railroads and settlers; allotments lost through tax forfeitures, sales and/or fraud.",
+    "No breach claimed; no-breach-found supported."
+  ],
+  "changes": [
+    "openQuestions said the Leech Lake Band is not listed in treaties.json; it is listed (with Mille Lacs and White Earth). Note corrected and audit line added."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "presentDayTribes includes Mille Lacs and White Earth for an addition to the Winnibigoshish reserve, now Leech Lake."
+  ]
+}

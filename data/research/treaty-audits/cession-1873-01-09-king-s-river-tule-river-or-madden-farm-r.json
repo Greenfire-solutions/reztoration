@@ -1,0 +1,20 @@
+{
+  "id": "cession-1873-01-09-king-s-river-tule-river-or-madden-farm-r",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "NARF/Tule River 2013 presentation: 48,000 acre reservation January 9, 1873; doubled to 91,837 acres later in 1873; 1876 Madden Farm Indians \"forcefully and violently removed\"; Hayes 1878 order reduced it to about its original size; bracketed quote exact including \"to reduced\"; damages $286.0 million (1873 removal) and $41.9 million (1878 reduction) in 2007 dollars; map gives the current boundary as 55,396 acres.",
+    "S. 689 (119th Congress), reported by Ms. Murkowski May 12, 2025; waiver (K) of claims related to the creation or reduction of the Reservation.",
+    "Rests on the Tribe's statement only: contested is the ceiling and the file does not exceed it."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [
+    "Royce pages 860, 864 and 892 not reopened; the 55,396 figure is read from the presentation's map image."
+  ],
+  "treatiesJsonErrors": [
+    "Royce area 607 is given to the January 9, 1873, October 3, 1873 and August 3, 1878 entries; Royce numbers 607 under the 1878 order.",
+    "cession-1873-10-03-king-s-river-owen-s-river-tule-river is a second entry for the October 3, 1873 order (area 547)."
+  ]
+}

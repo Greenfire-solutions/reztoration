@@ -1,0 +1,87 @@
+{
+  "id": "kappler-876",
+  "name": "Treaty with the Chippewa of Saginaw, Swan Creek, and Black River, 1864",
+  "aka": [
+    "Isabella Reservation treaty of October 18, 1864"
+  ],
+  "signed": "1864-10-18",
+  "ratified": "1866-05-22",
+  "proclaimed": "1866-08-16",
+  "citation": "14 Stat. 657",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-of-saginaw-swan-creek-and-black-river-1864-0868",
+  "nations": [
+    "Saginaw Chippewa Indian Tribe of Michigan"
+  ],
+  "promises": [
+    "Article 2: the United States set apart for the 'exclusive use, ownership, and occupancy' of the bands all unsold land in the six Isabella County townships reserved in 1855.",
+    "Article 3: new selections on the Isabella reservation for those giving up Saginaw Bay selections, and further acreages for chiefs, headmen, families, single adults, orphans and future members while land remained.",
+    "Patents for all selections: in fee simple for those listed as 'competent', and with a bar on sale without the Secretary of the Interior's consent for the others."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "nation-statement",
+      "date": "2026-11-08",
+      "what": "The Saginaw Chippewa Indian Tribe says that on the Isabella reservation its annuity payments were delayed, that lumbermen swindled members out of allotments, and that shoddy deals between Indian agents and timber barons led to the rapid loss of its land base.",
+      "whoFoundIt": "Saginaw Chippewa Indian Tribe of Michigan, Ziibiwing Center history page (date read)",
+      "source": {
+        "title": "History",
+        "url": "https://www.scit-nsn.gov/ziibiwing/aboutus/history.htm",
+        "publisher": "Ziibiwing Center of Anishinabe Culture & Lifeways, Saginaw Chippewa Indian Tribe of Michigan"
+      }
+    }
+  ],
+  "today": "The Indian Claims Commission held in 1953 that no fraud was practised on the Saginaw in the 1864 release of the Saginaw Bay townships, and dismissed a claim for timber taken from the Isabella reservation as unproven. The Tribe states that a federal court upheld the Isabella Reservation's historical boundaries in 2010.",
+  "nationVoice": [
+    {
+      "nation": "Saginaw Chippewa Indian Tribe of Michigan",
+      "summary": "The Tribe says the 1855 and 1864 treaties established the Isabella Reservation of over 130,000 acres, and that of more than 1,500 allotments issued to its ancestors only a handful were still owned by members by 1934.",
+      "url": "https://www.scit-nsn.gov/ziibiwing/aboutus/history.htm"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Chippewa of Saginaw, Swan Creek, and Black River, 1864 (Kappler, vol. 2, p. 868)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-of-saginaw-swan-creek-and-black-river-1864-0868",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Saginaw Chippewa Indian Tribe of Michigan et al. v. United States, Docket 13-H, Opinion of the Commission (May 14, 1953)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/524",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Saginaw Chippewa Indian Tribe of Michigan et al. v. United States, Docket 13-H, Findings of Fact (May 14, 1953)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/354",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History",
+      "url": "https://www.scit-nsn.gov/ziibiwing/aboutus/history.htm",
+      "publisher": "Ziibiwing Center of Anishinabe Culture & Lifeways, Saginaw Chippewa Indian Tribe of Michigan"
+    },
+    {
+      "title": "Treaty with The Chippewa of Saginaw, Swan Creek, and Black River October 18, 1864",
+      "url": "https://mukurtu.scit-nsn.gov/node/4587",
+      "publisher": "Ziibiwing Center, Saginaw Chippewa Indian Tribe of Michigan"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 834",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/834/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json gives this record the date 1855-08-02, but its Kappler link (seq 876, p. 868) and Royce area 464 are the treaty of October 18, 1864. The 1855 Treaty of Detroit already has its own record (kappler-741, area 396). This file researches the 1864 treaty; the date in treaties.json and area 396 on this record look wrong.",
+    "OSU prints the citation as 14 Stats., 637; the Indian Claims Commission cites 14 Stat. 657. 657 is used here; not checked against the Statutes at Large.",
+    "The 2010 boundary ruling (Saginaw Chippewa Indian Tribe v. Granholm, E.D. Mich. No. 05-10296) was not opened; it is reported here only as the Tribe states it.",
+    "Whether a court, the Commission or Congress ever found that Indian agents failed the trust over Isabella allotments was not found; Docket 13-H's timber claim was dismissed for lack of proof."
+  ],
+  "plain": {
+    "promised": "The unsold land in six Isabella County townships was set apart for the bands' exclusive use and ownership, with allotments for every member and sale limits for those judged not competent.",
+    "happened": "The Saginaw Chippewa say agents' dealings with timber barons and delayed annuities stripped them of nearly all allotments. The claims commission found no fraud in 1953 and dismissed the timber claim.",
+    "today": "The Tribe says a federal court upheld the reservation's historic boundaries in 2010."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

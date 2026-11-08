@@ -13,28 +13,22 @@
     "Kickapoo Traditional Tribe of Texas",
     "Kickapoo Tribe in Kansas"
   ],
-  "status": "contested",
+  "status": "no-breach-found",
   "landTaken": "The Commission found the Oklahoma reservation contained 206,466 acres, of which about 184,300 were ceded in 1891 and the rest mostly allotted to tribal members (Docket 318).",
   "compensation": "The Commission found the 1891 agreement paid $64,650.00 in cash, and that in 1908 Congress, on the Kickapoo's petition, appropriated $215,000 more, a total of $279,650. The Docket 318 compromise added $273,250; the tribe's general council approved it 38 to 7 on August 3, 1968.",
-  "today": "The Commission found the Kickapoo received title to the reservation as of October 1, 1874 as a gratuity from the United States. The Kickapoo Tribe of Oklahoma's general council met at the Kickapoo Community Center in McLoud, Oklahoma, to approve the 1968 settlement.",
-  "nationVoice": [],
-  "promises": [
-    "No treaty. Congress appropriated up to $40,000 for the removal of the Kickapoo and other tribes roving on the borders of Mexico and Texas to reservations within the Indian Territory, and for their settlement and subsistence there.",
-    "The reservation where they were settled (Royce Area 650) was set apart later by the President, according to Royce, in 1883."
-  ],
-  "breaches": [
+  "today": "This Act took no land. The reservation later set apart (Royce Area 650) was ceded by the agreement of September 9, 1891, ratified March 3, 1893, recorded in cession-1893-03-03-kickapoo; the Kickapoo Tribe of Oklahoma's claim that its price was unconscionable was settled by compromise for $273,250 in 1969 (Docket 318). The Commission found the Kickapoo received title to the reservation as of October 1, 1874 as a gratuity from the United States.",
+  "nationVoice": [
     {
-      "kind": "litigation",
-      "date": "1969-06-11",
-      "what": "The Kickapoo Tribe of Oklahoma claimed before the Indian Claims Commission that the price paid for about 184,300 acres of its Oklahoma reservation (Royce Area 650), ceded by the agreement of September 9, 1891, was unconscionable. The claim was settled by compromise for $273,250.",
-      "whoFoundIt": "Indian Claims Commission, Kickapoo Tribe of Oklahoma v. United States, Docket 318, Findings of Fact and Final Judgment (21 Ind. Cl. Comm. 39)",
-      "source": {
-        "title": "Kickapoo Tribe of Oklahoma v. United States, Docket 318, Findings of Fact (compromise), June 11, 1969 (21 Ind. Cl. Comm. 39)",
-        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1010",
-        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
-      }
+      "nation": "Kickapoo Tribe of Oklahoma",
+      "summary": "The Tribe says the Kickapoo forcibly removed from Texas in 1839 went to Mexico, where they held a land grant for guarding its northern border, that many from Indian Territory rejoined them during the Civil War, and that in 1873 a military scheme forced some of the Mexican Kickapoo to move to Indian Territory.",
+      "url": "https://www.kickapootribeofoklahoma.com/"
     }
   ],
+  "promises": [
+    "No treaty. Congress appropriated up to $40,000 for the removal of the Kickapoo and other American Indian tribes roving on the borders of Mexico and Texas to reservations within the Territories of the United States, and for their settlement and subsistence on such reservations.",
+    "The reservation where they were settled (Royce Area 650) was set apart later by the President, according to Royce, in 1883."
+  ],
+  "breaches": [],
   "sources": [
     {
       "title": "Statutes at Large, vol. 16, Act of March 3, 1871, ch. 120 (Kickapoo clause at p. 569)",
@@ -55,17 +49,23 @@
       "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule entry 650",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/854/mode/2up",
       "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Kickapoo Tribe of Oklahoma, home page history",
+      "url": "https://www.kickapootribeofoklahoma.com/",
+      "publisher": "Kickapoo Tribe of Oklahoma"
     }
   ],
   "openQuestions": [
     "treaties.json: this entry and cession-1870-07-15-kickapoo are two appropriation acts, not cessions, and both point to Royce 650, the reservation later set apart for the Mexican Kickapoo and ceded in 1891.",
     "The settlement is counted as litigation only. Whether the 1891 agreement was obtained improperly, which the 1908 appropriation may reflect, was not found in a government or court source opened.",
-    "No Kickapoo Tribe of Oklahoma or Kickapoo Traditional Tribe of Texas account was opened."
+    "No Kickapoo Tribe of Oklahoma or Kickapoo Traditional Tribe of Texas account was opened.",
+    "Audit 2026-11-08: downgraded contested -> no-breach-found. This appropriation act took no land and made no promise to the Kickapoo that was later broken; the Docket 318 compromise concerns the 1891 cession, which has its own file (cession-1893-03-03-kickapoo). The litigation breach was removed here and pointed to in today, matching the treatment of the 1872 Ute negotiation act. Also corrected the promise: 16 Stat. 569 says reservations \"within the Territories of the United States\", not the Indian Territory."
   ],
   "plain": {
-    "promised": "No treaty. In 1871 Congress paid to move Kickapoo and others living on the Mexico and Texas borders to reservations in Indian Territory and support them there.",
-    "happened": "No court or Commission finding of a breach. The Kickapoo Tribe of Oklahoma claimed that the 1891 price for most of its later reservation was unconscionable, and the claim was settled.",
-    "today": "The Indian Claims Commission approved a $273,250 compromise in 1969, after Congress had added $215,000 to the 1891 price in 1908."
+    "promised": "No treaty. In 1871 Congress paid to move Kickapoo and others living on the Mexico and Texas borders to reservations in the territories of the United States and support them there.",
+    "happened": "This Act took no land. The reservation later set apart was ceded in 1891; that cession, and the claim over its price, is recorded separately.",
+    "today": "The Kickapoo Tribe of Oklahoma's claim over the 1891 price was settled by compromise for $273,250 in 1969."
   },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

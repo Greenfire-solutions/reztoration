@@ -1,0 +1,18 @@
+{
+  "id": "cession-1874-11-16-colorado-river",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce full text: this order's boundaries were found defective and incomplete and superseded by the order of May 15, 1876 (area 593 cross-references 466 and 554).",
+    "ICC Dockets 283/295 interlocutory order, March 19, 1959 (pointer 283): Mohave deprived of Arizona and Nevada lands on March 3, 1865 with no compensation.",
+    "CRIT About page: created 1865 for Indians of the Colorado River and its tributaries; Mohave and Chemehuevi; almost 300,000 acres.",
+    "No breach claimed; no-breach-found supported."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "Gives this order Royce areas 466, 554 and 593; Royce gives it no area of its own."
+  ]
+}

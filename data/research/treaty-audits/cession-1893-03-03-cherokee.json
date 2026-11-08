@@ -1,0 +1,17 @@
+{
+  "id": "cession-1893-03-03-cherokee",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Docket 173 Findings (id 338): 8,144,682.91-acre Outlet; 6,022,754.17 acres conveyed; $7,795,851.99 paid; value $22,585,328.14 (once misprinted $22,555,328,14); unconscionable; recover $14,789,476.15 less offsets; finding 24 that the cession was made under circumstances amounting to duress.",
+    "Opinion (id 60) and Final Judgment of September 14, 1961 (id 173): $14,789,476.15 pursuant to stipulation.",
+    "visitcherokeenation.com 'The Cost of Free Land' loaded: price severely undervalued; lease voided; 1961 award. Matches nation-statement and nationVoice."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "The Act of March 3, 1893 text was not opened (already in openQuestions)."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes include the Eastern Band of Cherokee and the United Keetoowah Band; the party and claimant was the Cherokee Nation (already noted in the file)."
+  ]
+}

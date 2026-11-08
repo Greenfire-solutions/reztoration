@@ -47,7 +47,7 @@
     }
   ],
   "landTaken": "Devils Lake Reservation: 11,313.08 acres used as a military reserve, 64,908.22 acres excluded by erroneous survey and 105,839.30 unallotted acres disposed of under the 1904 Act (Docket 363, 1973). The 1872 agreement concerned about 8.7 million acres (Docket 363, 1977).",
-  "compensation": "Docket 363, 1973: the Commission valued the use of the military reserve at $55,236.19, with 5 percent simple interest; the other two values are not legible in the scan opened. Docket 363, 1977: a compromise final judgment of $13,129,661 for the bands who made the 1872 agreement, after deducting the $800,000 recited in that agreement from an agreed land value of $13,929,661.",
+  "compensation": "Docket 363, Devils Lake claim: the 1973 order valued the use of the military reserve at $55,236.19; the other two values are not legible in the scan opened. After deducting payments, the Commission's opinion of January 16, 1974 fixed the recovery at $8,286,991.54 plus 5 percent simple interest on a principal of $1,888,162.46 from January 1, 1974 until paid, and a final award for the Sisseton and Wahpeton Bands was entered on February 27, 1974. Docket 363, 1977: a compromise final judgment of $13,129,661 for the bands who made the 1872 agreement, after deducting the $800,000 recited in that agreement from an agreed land value of $13,929,661.",
   "today": "In DeCoteau v. District County Court (March 3, 1975) the Supreme Court held that the 1891 Act ratifying the 1889 agreement \"terminated the Lake Traverse Reservation\", a ruling against the tribe on state jurisdiction. The Sisseton Wahpeton Oyate governs from the Lake Traverse area; the Devils Lake Reservation is home to the Spirit Lake Dakota.",
   "nationVoice": [
     {
@@ -91,18 +91,29 @@
       "title": "Government",
       "url": "https://swo-nsn.gov/government/",
       "publisher": "Sisseton Wahpeton Oyate"
+    },
+    {
+      "title": "Lower Sioux Indian Community, et al. v. United States, Docket 363 (Second Claim, Act of 1904), Opinion of the Commission, January 16, 1974 (33 Ind. Cl. Comm. 51)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2415",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Lower Sioux Indian Community, et al. v. United States, Docket 363 (Second Claim, Act of 1904), Final Award, February 27, 1974",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2420",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
     }
   ],
   "openQuestions": [
-    "Whether the Devils Lake claims in Docket 363 ended in a final award or settlement, and its amount, was not found; the 1973 order left payments and offsets to be decided.",
     "Two of the three 1973 land values are illegible in the OCR text; they are left out.",
     "treaties.json lists only the Sisseton-Wahpeton Oyate for this entry; the Spirit Lake Tribe (Devils Lake) is a successor to the Article 4 reservation and should probably be added.",
-    "No Spirit Lake Tribe account of this treaty was opened."
+    "No Spirit Lake Tribe account of this treaty was opened.",
+    "Audit 2026-11-08: the 1973 holdings (recognized title, three Fifth Amendment takings, 11,313.08, 64,908.22 and 105,839.30 acres, $55,236.19) and the 1977 compromise figures were checked against the documents. Added the Devils Lake final award: the February 27, 1974 award is badly scanned (it reads '$8.2RG.991.51'), so the amount is taken from the January 16, 1974 opinion, which twice gives $8,286,991.54.",
+    "Whether the 1974 award was paid and how it was shared with the Spirit Lake Tribe was not traced."
   ],
   "plain": {
     "promised": "The Sisseton and Wahpeton were promised a permanent reservation at Lake Traverse and a second at Devils Lake, with family farms that could not be sold except to the United States.",
     "happened": "The Indian Claims Commission held in 1973 that the United States took Devils Lake Reservation land three times without just compensation: for an Army post, through a wrong survey, and under a 1904 Act.",
-    "today": "A 1977 compromise paid $13,129,661 for land taken under the 1872 agreement. In 1975 the Supreme Court held the Lake Traverse Reservation terminated."
+    "today": "A 1974 final award gave the bands $8,286,991.54 plus interest for the Devils Lake land, and a 1977 compromise paid $13,129,661 for land taken under the 1872 agreement. In 1975 the Supreme Court held the Lake Traverse Reservation terminated."
   },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

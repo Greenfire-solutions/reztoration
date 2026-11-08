@@ -1,0 +1,20 @@
+{
+  "id": "kappler-964",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Kappler header on the Oklahoma State University Tribal Treaties Database matches the file's signing, ratification/proclamation dates and Statutes at Large citation.",
+    "Docket 363 Interlocutory Order and Opinion of June 30, 1973 (ids 2652, 2161) and Findings (id 1057): recognized title to Devils Lake; three Fifth Amendment takings; 11,313.08, 64,908.22 and 105,839.30 acres; $55,236.19; other two values illegible.",
+    "Docket 363 Opinion of January 16, 1974 (id 2415): recovery $8,286,991.54 plus 5 percent simple interest on $1,888,162.46 from January 1, 1974; Final Award of February 27, 1974 (id 2420) entered, its scan unreadable on the figure.",
+    "1977 compromise (id 2010): $13,929,661 less $800,000 = $13,129,661 as stated in the document; land defined in Article 2 of this treaty; correctly kind litigation."
+  ],
+  "changes": [
+    "compensation and plain.today now record the 1974 Devils Lake final award ($8,286,991.54 plus interest), which the file said was not found; two sources added; openQuestions updated."
+  ],
+  "unverifiable": [
+    "The February 27, 1974 Final Award scan is too damaged to read the amount; the figure is from the January 16, 1974 opinion. Payment not traced."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes omit the Spirit Lake Tribe, successor to the Article 4 Devils Lake Reservation."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "cession-1872-04-23-uta",
+  "auditedAt": "2026-11-08",
+  "verdict": "downgraded",
+  "checked": [
+    "Act of April 23, 1872, ch. 115, 17 Stat. 55 (govinfo): only authorizes the Secretary of the Interior to negotiate for the south part of the 1868 reservation and report to Congress.",
+    "Brunot Agreement text (Kappler vol. 1, pp. 151-152, Fort Lewis transcription): the 1872 negotiation failed because the Utes refused to relinquish any part of the reservation; the agreement was made on the thirteenth of September 1873.",
+    "ICC Docket 327 (pointers 645, 841, 705) and 402 U.S. 159 footnote 3 confirmed, but both concern the 1873 Brunot cession, not this Act."
+  ],
+  "changes": [
+    "Removed both breaches (ICC Docket 327 finding and the 1971 admission); they are recorded in cession-1873-09-13-uta and cession-1874-04-29-uta. Status broken -> no-breach-found.",
+    "today rewritten to point to the Brunot file; plain rewritten to match; audit line added."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "Royce area 566 is given to four entries (this Act, 1873-09-13, 1874-04-29, 1876-08-17); this Act took no land."
+  ]
+}

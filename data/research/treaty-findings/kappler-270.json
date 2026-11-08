@@ -35,7 +35,13 @@
   "landTaken": "The Cape Girardeau tract in Missouri, between the River St. Come and Cape Girardeau, bounded east by the Mississippi and west by White Water (Article 1).",
   "compensation": "The Court of Claims added the unpaid $1,152.78 to its decree in the Shawnee suit brought under the jurisdictional acts of 1890 and 1892. The Supreme Court rejected the government's counterclaim that blacksmith costs from 1825 to 1854 of $17,408.73 be set off against the Shawnee, holding the finding too indefinite. The Supreme Court would not consider the Shawnee claim to interest on the 1825 balance, because they had not appealed the lower court's refusal of it.",
   "today": "The Supreme Court reversed the decree on other points (the 1831 treaty account and the orphan money) and remanded for recomputation on November 19, 1894. The western tract the treaty granted was ceded by the Shawnee in the treaty of May 10, 1854.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Shawnee Tribe",
+      "summary": "The Shawnee Tribe says some of its ancestors held a 1793 Spanish land grant at Cape Girardeau, Missouri, and that the 1825 treaty gave up those Missouri lands for a 1.6 million acre reservation in eastern Kansas.",
+      "url": "https://web.archive.org/web/20210516142230/https://www.shawnee-nsn.gov/history"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Shawnee, 1825 (Kappler, vol. 2, p. 262)",
@@ -51,6 +57,11 @@
       "title": "Absentee Shawnee Tribe v. United States, Docket 334-B, Findings of Fact (March 29, 1963)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/606",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History of the People (archived May 16, 2021)",
+      "url": "https://web.archive.org/web/20210516142230/https://www.shawnee-nsn.gov/history",
+      "publisher": "Shawnee Tribe"
     }
   ],
   "openQuestions": [

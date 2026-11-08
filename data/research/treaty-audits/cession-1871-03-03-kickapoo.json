@@ -1,0 +1,20 @@
+{
+  "id": "cession-1871-03-03-kickapoo",
+  "auditedAt": "2026-11-08",
+  "verdict": "downgraded",
+  "checked": [
+    "Act of March 3, 1871, ch. 120, 16 Stat. 544, 569 (govinfo): $40,000 for removal of the Kickapoo and other American Indian tribes roving on the borders of Mexico and Texas to reservations \"within the Territories of the United States\".",
+    "ICC Docket 318 figures as for cession-1870-07-15-kickapoo (pointers 1010, 1926)."
+  ],
+  "changes": [
+    "Promise corrected: the Act says reservations within the Territories of the United States, not within the Indian Territory.",
+    "Removed the litigation breach (it concerns the 1891 cession, recorded in cession-1893-03-03-kickapoo) and moved the result to today; status contested -> no-breach-found.",
+    "Rewrote plain to match; audit line added."
+  ],
+  "unverifiable": [
+    "Royce area 650 entry not reopened."
+  ],
+  "treatiesJsonErrors": [
+    "This appropriation act is given Royce 650, the reservation set apart in 1883 and ceded in 1891 (cession-1893-03-03-kickapoo)."
+  ]
+}

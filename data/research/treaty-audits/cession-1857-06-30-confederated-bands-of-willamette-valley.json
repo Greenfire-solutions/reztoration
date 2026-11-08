@@ -1,0 +1,25 @@
+{
+  "id": "cession-1857-06-30-confederated-bands-of-willamette-valley",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Western Oregon termination Act, August 13, 1954, Public Law 588, ch. 733, 68 Stat. 724 (govinfo): sec. 1 purpose, sec. 2(a) names the Confederated Tribes of the Grand Ronde Community, sec. 5 transfer or sale of tribal property, sec. 13 proclamation ending the trust relationship, sec. 14(a) revokes the Community's 1936 IRA charter; quote exact.",
+    "Termination rule: counts only where it took a reservation this order created. The Tribe's newspaper Smoke Signals (November 1, 1989, p. 1) says 597 acres of reservation land remained at termination in 1954 and that tribal land other than the cemetery and a few plots was sold. So the Act ended trust over what remained of the reservation this 1857 order made: the breach qualifies and status broken stands.",
+    "Grand Ronde Treaties page: reservation established by executive order June 30, 1857, originally 61,000 acres, reduced by federal actions in the late 1800s.",
+    "Grand Ronde Termination & Restoration page: quote exact; Restoration Act November 22, 1983 (P.L. 98-165); 9,811 acres regained September 9, 1988.",
+    "Grand Ronde Reservation Act, P.L. 100-425, 102 Stat. 1594 (govinfo): approximately 9,811.32 acres held in trust and made the reservation.",
+    "Plain fields match the file, under 45 words, no em dashes."
+  ],
+  "changes": [
+    "landTaken: replaced \"no source opened gives the acreage left in 1954\" with the Smoke Signals figure of 597 acres, attributed to the Tribe's newspaper.",
+    "Added the Smoke Signals page as a source.",
+    "openQuestions: updated the termination note and added an audit line."
+  ],
+  "unverifiable": [
+    "Royce entry 407 and the 1857 order itself not reopened.",
+    "No federal source for the 1954 acreage was found; the 597 figure is the Tribe's newspaper (its OCR reads the cemetery as \"712 acre\")."
+  ],
+  "treatiesJsonErrors": [
+    "This entry is the executive order creating the Grand Ronde Reservation, not a cession; the Willamette Valley cession is the treaty of January 22, 1855 (kappler-673)."
+  ]
+}

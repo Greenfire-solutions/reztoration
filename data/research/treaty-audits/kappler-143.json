@@ -1,0 +1,17 @@
+{
+  "id": "kappler-143",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Kappler header on the Oklahoma State University Tribal Treaties Database matches the file's signing, ratification/proclamation dates and Statutes at Large citation.",
+    "Chickasaw Docket 269 opinion (id 143) concerns the Choctaw freedmen lands, a later matter; no finding on the 1816 treaty in the Chickasaw dockets listed.",
+    "no-breach-found is consistent with the evidence; the Nation's account is properly in nationVoice."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "The chickasaw.tv Council House page was not re-opened in this pass (the parallel Old Town page loaded and matched its kappler-182 summary)."
+  ],
+  "treatiesJsonErrors": [
+    "Royce area 81 is listed for both this treaty and kappler-182."
+  ]
+}

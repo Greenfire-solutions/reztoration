@@ -1,0 +1,86 @@
+{
+  "id": "kappler-804",
+  "name": "Treaty with the Sauk and Foxes, 1859",
+  "aka": [
+    "Treaty with the Sac and Fox of the Mississippi, October 1, 1859"
+  ],
+  "signed": "1859-10-01",
+  "ratified": "1860-06-27",
+  "proclaimed": "1860-07-09",
+  "citation": "15 Stat. 467",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-and-foxes-1859-0796",
+  "nations": [
+    "Sac and Fox of the Mississippi (Sauk and Meskwaki)"
+  ],
+  "promises": [
+    "Article 1: a tract of about 153,600 acres of the Kansas reservation set apart and kept by the tribe.",
+    "Article 2: eighty acres for each member, 160 acres for the agent and 160 for a school; no white person, except government employees, to live on or enter the reservation without written permission.",
+    "Article 3: the individual tracts not to be sold or leased except to the United States or tribal members, and exempt from taxation, levy, sale or forfeiture until Congress provides otherwise.",
+    "Article 4: the rest of the reservation to be sold by the Secretary of the Interior to the highest bidder for cash on sealed proposals, the proceeds spent on houses, farm tools, stock and other help for the tribe."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1967-09-29",
+      "what": "The Indian Claims Commission found that the United States, as trustee under the 1859 treaty, sold 285,658.20 acres of Sac and Fox trust land in 1864-65 for $282,557.48 when its fair market value was $856,974.60, that it violated its fiduciary obligations by failing to take reasonable and prudent steps to get the best prices, and that it was liable for $574,417.12.",
+      "whoFoundIt": "Indian Claims Commission, Docket 219, 18 Ind. Cl. Comm. 558 (1967)",
+      "source": {
+        "title": "Sac and Fox Tribe of the Mississippi in Iowa et al. v. United States, Docket 219, Final Award (18 Ind. Cl. Comm. 558, September 29, 1967)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1818",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      },
+      "quote": "The defendant in violation of its fiduciary obligations failed to take reasonable and prudent steps to obtain the highest prices available"
+    }
+  ],
+  "landTaken": "The Commission found that 285,658.20 acres of trust land were sold under the 1859 treaty in 1864-65 (Docket 219, Final Award).",
+  "compensation": "The Commission awarded $574,417.12 for claims under the 1859 treaty and $324,991.42 for the 1867 cession of the rest of the Kansas lands, a net final judgment of $899,408.54 entered September 29, 1967, with no offsets because they had been set off in an earlier compromise (Dockets 138 and 232). Whether either side sought review was not checked.",
+  "today": "The tribe ceded the rest of its Kansas lands by the Treaty of February 18, 1867 (15 Stat. 495), which the Commission also found was made for an unconscionable consideration; that cession has its own record.",
+  "nationVoice": [
+    {
+      "nation": "Meskwaki Nation (Sac & Fox Tribe of the Mississippi in Iowa)",
+      "summary": "The Meskwaki history page says the Sauk and Meskwaki lost all their Iowa lands under the name Sac & Fox and were removed to a reservation in east-central Kansas, while some stayed hidden in Iowa or journeyed back, and the Meskwaki bought their first 80 acres in Tama County in 1857.",
+      "url": "https://www.meskwaki.org/history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Sauk and Foxes, 1859 (Kappler, vol. 2)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-and-foxes-1859-0796",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Sac and Fox Tribe of the Mississippi in Iowa et al. v. United States, Docket 219, Opinion of the Commission (September 29, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1535",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Sac and Fox Tribe of the Mississippi in Iowa et al. v. United States, Docket 219, Findings of Fact (September 29, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2643",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "History",
+      "url": "https://www.meskwaki.org/history/",
+      "publisher": "Meskwaki Nation"
+    },
+    {
+      "title": "Sac and Fox Tribe of the Mississippi in Iowa et al. v. United States, Docket 219, Final Award (18 Ind. Cl. Comm. 558, September 29, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1818",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json lists only the Sac & Fox Tribe of the Mississippi in Iowa; the Docket 219 plaintiffs were the Iowa tribe and the Sac and Fox Tribe of Indians of Oklahoma, and the Sac and Fox Nation of Oklahoma descends from the Kansas group. The list should probably name both.",
+    "The Commission did not rule on the petitioners' charge of fraud in the 1864-65 sales; it decided the claim on the fiduciary ground.",
+    "Whether the 1967 award was appealed to the Court of Claims was not checked.",
+    "The Meskwaki page does not discuss the 1859 treaty itself; an account from the Sac and Fox Nation of Oklahoma was not found in this pass."
+  ],
+  "plain": {
+    "promised": "The tribe kept about 153,600 acres in Kansas, with 80 acres for each member, and the United States would sell the rest to the highest bidder and spend the money on homes, tools and stock.",
+    "happened": "The Indian Claims Commission found in 1967 that the United States, as trustee, sold the land in 1864-65 for about a third of its value and broke its duty to get the best price.",
+    "today": "The Commission awarded $574,417.12 for this treaty, part of a net judgment of $899,408.54 that also covered the 1867 cession."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

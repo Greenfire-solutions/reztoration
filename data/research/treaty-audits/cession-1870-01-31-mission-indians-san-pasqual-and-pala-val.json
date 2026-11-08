@@ -1,0 +1,18 @@
+{
+  "id": "cession-1870-01-31-mission-indians-san-pasqual-and-pala-val",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Executive order of January 31, 1870 (American Presidency Project, from Kappler p. 819): Secretary Cox's letter of January 27, 1870; \"set apart as reservations for Indian purposes\" exact.",
+    "San Pasqual Band History page: order rescinded in 1871 \"in response to settler's demands\" (quote exact apart from the apostrophe style); valley cleared by County authorities in 1878; land patented to the band in 1910.",
+    "Jackson and Kinney 1883 report (Internet Archive text): \"insecurity of reservations made merely by Executive order\" and San Pasquale Reservation exact.",
+    "ICC pointer 1114: Docket 80-A, June 21, 1973, opinion on a motion to amend the petition, as the file says.",
+    "Status contested on a nation-statement only is the correct ceiling; revocation of an executive-order reserve alone is not counted."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [
+    "The 1871 revoking order not opened (already flagged)."
+  ]
+}

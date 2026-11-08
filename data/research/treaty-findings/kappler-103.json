@@ -36,7 +36,18 @@
   "landTaken": "The Commission held that the Osage had aboriginal title to the area in Missouri and Arkansas described in its Finding 112, a portion of Royce Area 67, and found it contained 12,113,000 acres (Docket 105, 1962 and 1969).",
   "compensation": "The United States appealed the 1969 award to the Court of Claims. In 1970 the Osage Nation and the United States settled Dockets 105, 106, 107 and 108 together by compromise for a net $13,250,000, approved by the Commission on September 3, 1970 and entered as final judgment on September 15, 1970, on condition that the appeals be dismissed. The settlement does not divide the sum by treaty.",
   "today": "The 1969 finding of unconscionable consideration stands in the Commission's record; the money judgment that ended the case was the 1970 compromise.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Osage Nation",
+      "summary": "The Osage Nation teaches that in the Treaty of 1808 the Osage gave up about 52 million acres for less than a sixth of a cent an acre, and that through miscommunication they did not understand they were giving up ownership and thought they could still hunt there.",
+      "url": "https://osagenation.s3.amazonaws.com/B/B.2.b.CededLandsFactSheet.pdf"
+    },
+    {
+      "nation": "Osage Nation",
+      "summary": "The Osage Nation says its series of treaties ceding its land to the United States began with the Treaty of 1808.",
+      "url": "https://www.osagenation-nsn.gov/node/10632"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Osage, 1808 (Kappler, vol. 2, p. 95)",
@@ -62,6 +73,16 @@
       "title": "Osage Nation v. United States, Dockets 105-108, Findings of Fact on Compromise Settlement (September 3, 1970)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1352",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Osage Ceded Lands, Fact Sheet (Osage Classroom Lessons, Unit B: Osage Lands Past)",
+      "url": "https://osagenation.s3.amazonaws.com/B/B.2.b.CededLandsFactSheet.pdf",
+      "publisher": "Osage Nation, K-12 lessons on osageculture.com"
+    },
+    {
+      "title": "The Osage Nation Reservation",
+      "url": "https://www.osagenation-nsn.gov/node/10632",
+      "publisher": "Osage Nation"
     }
   ],
   "openQuestions": [

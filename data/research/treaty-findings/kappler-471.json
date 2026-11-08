@@ -1,0 +1,62 @@
+{
+  "id": "kappler-471",
+  "name": "Treaty with the Menominee, 1836 (Treaty of the Cedars)",
+  "aka": [
+    "Treaty of Cedar Point, September 3, 1836"
+  ],
+  "signed": "1836-09-03",
+  "proclaimed": "1837-02-15",
+  "citation": "7 Stat. 506",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-menominee-1836-0463",
+  "nations": [
+    "Menominee Indian Tribe of Wisconsin"
+  ],
+  "promises": [
+    "Article 1: the Menominee ceded the country between the Wolf River, the Menominee River and Green Bay, and a strip on the upper Wisconsin River, as bounded in the treaty.",
+    "Article 2: in return the United States promised yearly money, goods and services and other payments set out in the treaty text."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "No Indian Claims Commission decision for the Menominee was found in Oklahoma State University's collection, and none of the Menominee Court of Claims opinions of 1941 to 1952 (95, 97, 101, 102, 107, 117, 118, 119 and 121 Ct. Cl.) that were opened concerns this treaty; they deal with swamp lands, timber and trust fund interest under later acts.",
+  "nationVoice": [
+    {
+      "nation": "Menominee Indian Tribe of Wisconsin",
+      "summary": "The Tribe publishes the full text of the 1836 treaty among its historical documents, alongside its treaties of 1848, 1854 and 1856 and the Termination and Restoration Acts.",
+      "url": "https://menominee-nsn.gov/CulturePages/Treaty1836"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Menominee, 1836 (Kappler, vol. 2, p. 463)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-menominee-1836-0463",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Sept 3, 1836 Treaty",
+      "url": "https://menominee-nsn.gov/CulturePages/Treaty1836",
+      "publisher": "Menominee Indian Tribe of Wisconsin"
+    },
+    {
+      "title": "Menominee Tribe of Indians v. United States, 101 Ct. Cl. 22 (1944)",
+      "url": "https://static.case.law/us-ct-cl/101/cases/0022-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 760",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/760/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The payment articles were not set out here in detail because the OSU text was only skimmed; a deeper pass should record the annuity terms exactly.",
+    "The Menominee had a special jurisdictional act (September 3, 1935) instead of an Indian Claims Commission docket; whether any claim under it concerned the 1836 price was not found.",
+    "No Menominee narrative of this treaty was found on the Tribe's site; its College or Historic Preservation office may have one."
+  ],
+  "plain": {
+    "promised": "The United States would pay yearly money and goods for a large Menominee cession around Green Bay and the Wolf and Menominee rivers.",
+    "happened": "No court, claims commission or government finding about this treaty was found.",
+    "today": "The Menominee publish the treaty text; no claim about its price was found."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

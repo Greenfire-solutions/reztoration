@@ -100,3 +100,4 @@ Lessons from the first audit (16 of 20 files needed a correction):
 - **Polite fetching** (PROTOCOLS 5): about one request a second per site, no logins, no paywalls (skip JSTOR and Westlaw).
 - **Write only** inside `data/research/treaty-findings/`. Never edit `treaties.json`, the map, or another researcher's file; if you find an error in `treaties.json`, put it in `openQuestions` and your report.
 - **When two researchers run at once**, each takes a different `--nation`, `--from/--to` or `--skip` range; check a file does not already exist before writing it.
+- **Court of Claims opinions are free at the Caselaw Access Project:** `https://static.case.law/<reporter>/<volume>/cases/<page4>-01.json` (e.g. `f-supp/64/cases/0339-01.json`, `ct-cl/...`). Leagle and Midpage paywall or rate-limit the same opinions. Use this before writing "no breach found" on any treaty a tribe sued over before 1946 (Rogue River 1946/1950 turned two no-breach files into broken).

@@ -48,19 +48,25 @@
     {
       "kind": "claims-commission",
       "date": "1967-02-14",
-      "what": "On remand the Commission valued the Oklahoma surplus lands at $3.00 an acre and held the $1.23 an acre the United States paid in 1891 unconscionable, entering judgment for the difference.",
-      "whoFoundIt": "Indian Claims Commission, Sac and Fox Tribe of Oklahoma v. United States, Docket 220 (17 Ind. Cl. Comm. 544)",
+      "what": "On remand the Commission found the 391,188.05 acres of surplus lands the United States acquired under the 1890 Sac and Fox agreement worth $3.00 an acre, $1,173,564.15, on February 12, 1891, held the $481,000 ($1.23 an acre) paid unconscionable, and entered a final award of $692,564.15.",
+      "whoFoundIt": "Indian Claims Commission, Sac and Fox Tribe of Oklahoma v. United States, Docket 220, amended Finding 46 and Order of February 14, 1967 (17 Ind. Cl. Comm. 544 and 584)",
       "source": {
-        "title": "Sac and Fox Tribe of Oklahoma, et al. v. United States, Docket 220, Opinion Accompanying Order Amending Findings of Fact and for Entry of Final Judgment, February 1967 (17 Ind. Cl. Comm. 544)",
-        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1668",
+        "title": "Sac and Fox Tribe of Oklahoma, et al. v. United States, Docket 220, Order Amending Findings of Fact and for Entry of Final Judgment, February 14, 1967 (17 Ind. Cl. Comm. 584)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/934",
         "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
       }
     }
   ],
   "landTaken": "The Commission found 132,718.80 acres were ceded under this treaty (Docket 219, finding 14). The Oklahoma reservation given under Article 6 is Royce Area 495, ceded by the Sac and Fox on February 13, 1891, per the Commission.",
-  "compensation": "Docket 219: the Commission found $139,524.38 was actually paid for the 1867 cession and awarded $324,991.42 more for it, within a net final judgment of $899,408.54 that also covered the 1859 treaty sales (September 29, 1967). Docket 220: judgment for the difference between $3.00 and $1.23 an acre for the 1891 surplus lands; the amount was not read in the sources opened.",
+  "compensation": "Docket 219: the Commission found $139,524.38 was actually paid for the 1867 cession and awarded $324,991.42 more for it, within a net final judgment of $899,408.54 that also covered the 1859 treaty sales (September 29, 1967). Docket 220: final award of $692,564.15 to the Sac and Fox Tribe of Oklahoma for the 1891 surplus lands (February 14, 1967); offsets had already been compromised for $35,000 in another docket.",
   "today": "The Sac and Fox Tribe of the Mississippi in Iowa and the Sac and Fox Tribe of Indians of Oklahoma were both petitioners in Docket 219, on behalf of the Sac and Fox of the Mississippi.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Sac and Fox Nation of Missouri in Kansas and Nebraska",
+      "summary": "The Sac and Fox Nation of Missouri says Mokohoko led when the Sac and Fox were removed from Kansas in 1869, and that he and some 200 followers refused to go to Oklahoma.",
+      "url": "https://sacandfoxks.com/history/tribe"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Sauk and Foxes, 1867, Kappler vol. 2",
@@ -91,18 +97,29 @@
       "title": "Kickapoo Tribe of Oklahoma v. United States, Docket 318, Findings of Fact, June 11, 1969 (identifies Royce Area 495)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1010",
       "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sac and Fox Tribe of Oklahoma, et al. v. United States, Docket 220, Order Amending Findings of Fact and for Entry of Final Judgment, February 14, 1967 (17 Ind. Cl. Comm. 584)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/934",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History of the Tribe",
+      "url": "https://sacandfoxks.com/history/tribe",
+      "publisher": "Sac and Fox Nation of Missouri in Kansas and Nebraska"
     }
   ],
   "openQuestions": [
     "The Court of Claims ruling of October 16, 1964 is cited through the Commission's quotation of the slip opinion; the opinion itself was not opened.",
-    "The dollar amount of the Docket 220 judgment for the 1891 lands was not legible in the opinion opened; the final judgment was not opened.",
     "Whether the 1891 sale counts against this treaty or against the 1891 agreement is a judgment call: it is included because the land sold was the reservation Article 6 of this treaty promised as the Sac and Fox future home.",
-    "No Sac and Fox Nation or Meskwaki Nation account of this treaty was found online."
+    "No Sac and Fox Nation or Meskwaki Nation account of this treaty was found online.",
+    "Audit 2026-11-08: Docket 219 figures (132,718.80 acres, $464,515.80, $204,677.81, $139,524.38, $324,991.42, $899,408.54) and the finding 44 quote checked against the findings, opinion and final award. The Docket 220 judgment, missing before, was read in the Order of February 14, 1967: $692,564.15 (the scan once prints $692,504.15; the award paragraph and the order both read $692,564.15). The Commission dates the surplus land acquisition to the 1890 agreement, effective February 12, 1891.",
+    "The Court of Claims duress holding is cited through the Commission's quotation; the Commission itself made no duress finding, calling one superfluous once it found the price unconscionable."
   ],
   "plain": {
     "promised": "The Sac and Fox sold the rest of their Kansas reservation and were promised a new home of up to 750 square miles in Indian Territory.",
     "happened": "The Indian Claims Commission found in 1967 that the Kansas price was unconscionable. The Court of Claims found in 1964 that the 1891 sale of the Oklahoma reservation lands was made under government duress.",
-    "today": "The Commission awarded $324,991.42 more for the Kansas land in 1967 and entered judgment for the 1891 land; the second amount was not found."
+    "today": "The Commission awarded $324,991.42 more for the Kansas land in 1967, and $692,564.15 to the Sac and Fox Tribe of Oklahoma for the 1891 land the same year."
   },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

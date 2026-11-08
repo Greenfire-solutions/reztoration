@@ -19,7 +19,13 @@
   "status": "no-breach-found",
   "breaches": [],
   "today": "In 2016 the Interior Solicitor reaffirmed a 1971 opinion that the whole width of the Skokomish River along the reservation border is part of the reservation, with the riverbed held in trust for the Tribe. The opinion notes that in Skokomish Indian Tribe v. France (9th Cir. 1963) the court held tidelands along the reservation passed to Washington State at statehood; that ruling went against the Tribe.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Skokomish Indian Tribe",
+      "summary": "The Tribe says that around 1900 a Tacoma tycoon took the land between the channels at the mouth of the Skokomish River and diked it, destroying plants such as basketry sweetgrass, that Washington State's claim to the tidelands cut its shellfish gathering, and that these losses became land claims.",
+      "url": "https://skokomish.org/culture-and-history/"
+    }
+  ],
   "sources": [
     {
       "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule entry 559 (Executive Order of February 25, 1874)",
@@ -30,6 +36,11 @@
       "title": "Solicitor's Opinion M-37034, Boundary of the Skokomish Reservation along the Skokomish River, January 15, 2016",
       "url": "https://www.doi.gov/sites/default/files/uploads/m-37034.pdf",
       "publisher": "U.S. Department of the Interior, Office of the Solicitor"
+    },
+    {
+      "title": "Culture and History",
+      "url": "https://skokomish.org/culture-and-history/",
+      "publisher": "Skokomish Indian Tribe"
     }
   ],
   "openQuestions": [

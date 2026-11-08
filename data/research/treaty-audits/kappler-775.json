@@ -1,0 +1,14 @@
+{
+  "id": "kappler-775",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Kappler header on the Oklahoma State University Tribal Treaties Database matches the file's signing, ratification/proclamation dates and Statutes at Large citation.",
+    "Docket 342/368 opinion (id 2728) concerns the Niagara River strip and islands, not this treaty; no ICC finding on the 1857 treaty found.",
+    "no-breach-found is consistent."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Acreage bought back under Article 3 not found (already in openQuestions)."
+  ]
+}

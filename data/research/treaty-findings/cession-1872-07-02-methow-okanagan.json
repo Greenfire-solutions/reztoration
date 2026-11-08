@@ -1,0 +1,118 @@
+{
+  "id": "cession-1872-07-02-methow-okanagan",
+  "name": "Executive order of July 2, 1872 establishing the Colville Reservation",
+  "aka": [
+    "Colville Reservation executive order"
+  ],
+  "signed": "1872-07-02",
+  "citation": "Executive Order of July 2, 1872 (1 Kappler 916), revoking the Executive Order of April 9, 1872",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/858/mode/2up",
+  "nations": [
+    "Confederated Tribes of the Colville Reservation (Colville, Lake, Sanpoil, Nespelem, Okanogan, Methow)"
+  ],
+  "promises": [
+    "The order revoked the April 9, 1872 reservation east of the Columbia River, restored that tract to the public domain, and set apart instead the country bounded east and south by the Columbia River, west by the Okanogan River and north by the British possessions (Indian Claims Commission, Docket 181 findings)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1956-02-29",
+      "what": "The Indian Claims Commission found that the United States never made a treaty of cession with the Colville, Lake, Sanpoil, Nespelem, Okanogan and Methow tribes and never paid them for their lands outside the reservation, and that those aboriginal lands were acquired by the United States on July 2, 1872, the date of this order, without payment, making it liable for their value.",
+      "whoFoundIt": "Indian Claims Commission, Docket 181, 4 Ind. Cl. Comm. 151 (1956) and 7 Ind. Cl. Comm. 187 (1959)",
+      "source": {
+        "title": "Confederated Tribes of the Colville Reservation et al. v. United States, Docket 181, Opinion of the Commission (7 Ind. Cl. Comm. 187, March 5, 1959)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/191",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    },
+    {
+      "kind": "act-of-congress",
+      "date": "1892-07-01",
+      "what": "Congress declared the north half of the reservation, about 1,500,000 acres, vacated and restored to the public domain notwithstanding the executive order, and opened it to settlement, without ratifying the May 9, 1891 agreement under which the Indians were to be paid $1,500,000 and without providing that payment.",
+      "whoFoundIt": "Act of July 1, 1892, 27 Stat. 62; Indian Claims Commission findings on compromise settlement, Dockets 177, 181-A and 181-B (1967)",
+      "source": {
+        "title": "Act of July 1, 1892, ch. 140, 27 Stat. 62 (opening of part of the Colville Reservation)",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg62.pdf",
+        "publisher": "U.S. Government Publishing Office"
+      },
+      "quote": "be, and is hereby, Vacated and restored to the public domain, notwithstanding any executive order or other proceeding"
+    },
+    {
+      "kind": "litigation",
+      "date": "1967-09-07",
+      "what": "Claims about lands within the 1872 reservation, including the north half and the sale of surplus lands of the south half under the Act of March 22, 1906, were settled by a final judgment of $3,500,000 in Dockets 181-A and 181-B, with Docket 177 dismissed.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 177, 181-A and 181-B, compromise settlement",
+      "source": {
+        "title": "Confederated Tribes of the Colville Reservation et al. v. United States, Final Judgment in Dockets 181-A and 181-B (September 7, 1967)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2050",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    }
+  ],
+  "landTaken": "The 1892 Act took the north half of the reservation, stated in the Act as about 1,500,000 acres. The petitioners' Docket 181-B claim, as summarized by the Commission in 1967, states the reservation as established in July 1872 comprised about 2,900,000 acres.",
+  "compensation": "For the aboriginal lands outside the reservation the Commission set liability in 1959 at $111,000 for the Colville, $436,000 for the Sanpoil-Nespelem, $237,000 for the Okanogan and $152,000 for the Methow, with a further sum for the Lake; the final judgment of March 1, 1960 totalled $1,000,000 after offsets. For the north half, the Act of June 21, 1906 set aside $1,500,000, appropriated in five instalments of $300,000. The reservation claims were settled for $3,500,000 in 1967.",
+  "today": "Not researched past the 1967 settlement.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 858",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/858/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Confederated Tribes of the Colville Reservation et al. v. United States, Docket 181, Opinion of the Commission (4 Ind. Cl. Comm. 151, February 29, 1956)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/14",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Confederated Tribes of the Colville Reservation et al. v. United States, Docket 181, Findings of Fact (February 29, 1956)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/441",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Confederated Tribes of the Colville Reservation et al. v. United States, Docket 181, Second Interlocutory Order (March 5, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/248",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Confederated Tribes of the Colville Reservation et al. v. United States, Docket 181, Final Judgment (8 Ind. Cl. Comm., March 1, 1960)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/568",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Confederated Tribes of the Colville Reservation et al. v. United States, Dockets 177, 181-A and 181-B, Findings of Fact on Compromise Settlement (18 Ind. Cl. Comm. 531, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2196",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Confederated Tribes of the Colville Reservation et al. v. United States, Docket 181, Opinion of the Commission (7 Ind. Cl. Comm. 187, March 5, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/191",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Act of July 1, 1892, ch. 140, 27 Stat. 62 (opening of part of the Colville Reservation)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg62.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Confederated Tribes of the Colville Reservation et al. v. United States, Final Judgment in Dockets 181-A and 181-B (September 7, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2050",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "This Royce record is the executive order creating the Colville Reservation, not a cession. Royce area 536 is the reservation; 533 appears to be the April 9, 1872 tract restored to the public domain.",
+    "The Lake Tribe's 1959 figure is unclear in the scan and is left out.",
+    "Whether the 1956 liability finding is better placed with a Royce record for the unceded aboriginal lands was not settled; the Commission dated the taking to this order.",
+    "The Confederated Tribes of the Colville Reservation's own history page was not found (colvilletribes.com history paths returned 404); the nation voice is missing.",
+    "The 1906 opening of the south half (34 Stat. 80) and the claims about it (Docket 177) were settled, not decided."
+  ],
+  "plain": {
+    "promised": "In 1872 the President set apart the land between the Columbia and Okanogan rivers, north to Canada, as the Colville Reservation.",
+    "happened": "The Indian Claims Commission found the tribes' lands outside the reservation were taken on the day of this order without payment. In 1892 Congress opened the north half to settlers without ratifying the agreement to pay $1,500,000.",
+    "today": "The outside lands brought $1,000,000 after offsets in 1960. Congress set aside $1,500,000 for the north half in 1906. Reservation claims were settled for $3,500,000 in 1967."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "kappler-595",
+  "name": "Treaty with the Wyandot, 1850",
+  "aka": [
+    "Wyandot treaty of April 1, 1850"
+  ],
+  "signed": "1850-04-01",
+  "ratified": "1850-09-24",
+  "proclaimed": "1850-09-30",
+  "citation": "9 Stat. 987",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-wyandot-1850-0587",
+  "nations": [
+    "Wyandotte Nation"
+  ],
+  "promises": [
+    "Article 1: for the Wyandot's release of the 148,000 acres promised them by the treaty of March 17, 1842, the United States would pay $185,000, at $1.25 an acre.",
+    "Article 1: $100,000 of it would be invested in United States stocks at five percent, the interest paid with their annuities, and $85,000 paid to the nation or on its drafts, including to clear its debt to the Delaware.",
+    "Article 2: the United States would pay the reasonable expenses of the negotiation and the delegation."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The treaty's own preamble states that the Wyandot never received the 148,000 acres promised in 1842 and were forced to buy land from the Delaware. That is the United States' admission of a breach of the 1842 treaty, settled by this one. No finding that this 1850 treaty's own terms were broken was found.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Wyandot, 1850 (Kappler, vol. 2, p. 587)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-wyandot-1850-0587",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 776",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/776/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "This treaty took no land: it paid for land promised in 1842 and never assigned. treaties.json maps it to Royce area 263, the Delaware land the Wyandot bought, which the United States did not take here.",
+    "The 1850 admission belongs on the findings file for the Wyandot treaty of March 17, 1842.",
+    "Whether the $100,000 investment and its interest were kept as promised was not traced; the 1855 Wyandot treaty would be the place to look. The Wyandotte Nation's own history page did not load (HTTP 406)."
+  ],
+  "plain": {
+    "promised": "The United States would pay the Wyandot $185,000 for the 148,000 acres it had promised them in 1842 and never given, $100,000 of it invested for them at five percent.",
+    "happened": "No finding that this treaty's own terms were broken was found. Its text admits the 1842 land was never given.",
+    "today": "Whether the invested fund was kept as promised has not been traced."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

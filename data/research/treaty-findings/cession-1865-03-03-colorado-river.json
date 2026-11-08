@@ -1,0 +1,96 @@
+{
+  "id": "cession-1865-03-03-colorado-river",
+  "name": "Act of March 3, 1865 setting apart the Colorado River Indian Reservation",
+  "aka": [
+    "Colorado River Reservation Act (Indian appropriation act of 1865)"
+  ],
+  "signed": "1865-03-03",
+  "citation": "Act of March 3, 1865, ch. 127, 13 Stat. 541, 559",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-13/pdf/STATUTE-13-Pg541.pdf",
+  "nations": [
+    "Mohave (Pipa Aha Macav)",
+    "Colorado River Indian Tribes"
+  ],
+  "promises": [
+    "All the public domain in Arizona Territory west of a line from Half-Way Bend to Corner Rock on the Colorado River, about 75,000 acres, set apart as a reservation for the Indians of the river and its tributaries (13 Stat. 559)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1959-03-19",
+      "what": "The Indian Claims Commission concluded that the Mohave Tribe had exclusively used and occupied its lands from time immemorial, that it was deprived of its lands in what are now Arizona and Nevada on March 3, 1865, the date of this Act, and of its California lands on March 3, 1853, and that it received no compensation and was entitled to their value.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 283 and 295, 7 Ind. Cl. Comm. 219 (1959)",
+      "source": {
+        "title": "Mohave Indians who are members of the Colorado River Indian Tribes et al. v. United States, Dockets 283 and 295, Interlocutory Order (7 Ind. Cl. Comm. 219, March 19, 1959)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/283",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1973-09-26",
+      "what": "After the Commission valued the lands at $600,000 (1970) and entered a final award of $428,358.07 after offsets (December 29, 1971), the parties settled, and on their stipulation the Commission entered a final award of $468,358.07.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 283 and 295, Final Award on compromise settlement",
+      "source": {
+        "title": "Mohave Indians et al. v. United States, Dockets 283 and 295, Final Award on joint motion (31 Ind. Cl. Comm. 425, September 26, 1973)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2245",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    }
+  ],
+  "landTaken": "The Commission found the Mohave held aboriginal title to 1,006,300 acres in Arizona, California and Nevada, taken in 1853 and 1865 (Docket 283, opinion of December 29, 1971).",
+  "compensation": "Lands valued at $600,000 (1970); final award of $428,358.07 after $171,641.93 in offsets (December 29, 1971); final award of $468,358.07 on the parties' stipulation (September 26, 1973).",
+  "today": "Not researched past the 1973 award.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Act of March 3, 1865, ch. 127, 13 Stat. 541 (Indian appropriation act; Colorado River reservation at p. 559)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-13/pdf/STATUTE-13-Pg541.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Mohave Tribe of Indians et al. v. United States, Dockets 283 and 295, Opinion of the Commission (March 19, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/99",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Mohave Tribe of Indians et al. v. United States, Findings of Fact (7 Ind. Cl. Comm. 219, March 19, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/186",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Mohave Indians et al. v. United States, Opinion of the Commission on offsets (26 Ind. Cl. Comm. 563, December 29, 1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1905",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Mohave Indians et al. v. United States, Final Award (December 29, 1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2618",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Mohave Indians who are members of the Colorado River Indian Tribes et al. v. United States, Dockets 283 and 295, Interlocutory Order (7 Ind. Cl. Comm. 219, March 19, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/283",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Mohave Indians et al. v. United States, Dockets 283 and 295, Final Award on joint motion (31 Ind. Cl. Comm. 425, September 26, 1973)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2245",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "This Royce record is an Act of Congress that set apart a reservation, not a treaty or a cession. The Commission dated the taking of the Mohave lands outside it in Arizona and Nevada to this Act, citing United States v. Santa Fe Pacific R. Co., 314 U.S. 339; that finding is why the record is shown as broken.",
+    "Royce area 593 (listed with this record) appears to be a later executive-order enlargement; it was not researched.",
+    "Why a second final award of $468,358.07 was entered in 1973 after the 1971 award of $428,358.07 was not worked out from the decisions read.",
+    "The Colorado River Indian Tribes' own history page did not load; the nation voice is missing."
+  ],
+  "plain": {
+    "promised": "Congress set apart about 75,000 acres on the Colorado River in Arizona as a reservation for the Indians of the river and its tributaries.",
+    "happened": "The Indian Claims Commission found in 1959 that the Mohave lost their lands in Arizona and Nevada on the day of this Act, March 3, 1865, without any payment.",
+    "today": "The lands were valued at $600,000. After offsets and a settlement, the Commission entered a final award of $468,358.07 in 1973."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

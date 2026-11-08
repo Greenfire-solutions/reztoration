@@ -17,35 +17,11 @@
     "Not a treaty: Congress authorized the Secretary of the Interior to negotiate with the Ute Indians in Colorado for the extinguishment of their right to the south part of the reservation made under the treaty of March 2, 1868, and to report to Congress for its consideration.",
     "The Act itself took no land. The agreement it led to says the 1872 commission failed because the Utes refused to give up any part of their reservation, and a second commission concluded the Brunot Agreement of September 13, 1873, ratified April 29, 1874 (Royce area 566)."
   ],
-  "status": "broken",
-  "breaches": [
-    {
-      "kind": "claims-commission",
-      "date": "1962-09-14",
-      "what": "The cession this Act set in motion was found unfair: the Indian Claims Commission held that the $507,662.84 paid for Royce area 566, land it valued at $8,500,000 as of April 29, 1874, was so grossly inadequate as to make the consideration unconscionable.",
-      "whoFoundIt": "Indian Claims Commission, Confederated Bands of Ute Indians v. United States, Docket 327, opinion and interlocutory order, 11 Ind. Cl. Comm. 180 (September 14, 1962)",
-      "source": {
-        "title": "Confederated Bands of Ute Indians v. United States, Docket 327, Opinion of the Commission, September 14, 1962, 11 Ind. Cl. Comm. 180",
-        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/645",
-        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
-      }
-    },
-    {
-      "kind": "government-admission",
-      "date": "1971-04-26",
-      "what": "In the Supreme Court the United States admitted that the stated consideration for the 1874 Brunot cession was not promptly paid; the Court recorded the admission in a footnote.",
-      "whoFoundIt": "United States v. Southern Ute Tribe or Band of Indians, 402 U.S. 159 (1971), note 3, citing the Brief for Petitioner (the United States)",
-      "source": {
-        "title": "United States v. Southern Ute Tribe or Band of Indians, 402 U.S. 159 (1971)",
-        "url": "https://www.law.cornell.edu/supremecourt/text/402/159",
-        "publisher": "Legal Information Institute, Cornell Law School"
-      },
-      "quote": "The United States admits that the stated consideration was not promptly paid."
-    }
-  ],
+  "status": "no-breach-found",
+  "breaches": [],
   "landTaken": "None by this Act. Royce area 566, ceded under the agreement it authorized, is about 3.7 million acres of the east-central reservation, ceded after valuable mineral deposits were discovered there (402 U.S. 159).",
   "compensation": "The 1874 Act set up a fund of five per cent bonds paying $25,000 a year and paid Ouray $1,000 (18 Stat. 36, secs. 2 and 3). The Commission credited the United States with $507,662.84 as the price actually paid. After a stipulated compromise of offsets, the Commission entered final judgment for the Confederated Bands of Ute Indians for $7,908,586.16 on February 18, 1965 (Docket 327).",
-  "today": "The Brunot Area is no longer reservation land. The Southern Ute Indian Tribe says the hunting right reserved in Article II remains, and that a 2008 agreement with Colorado lets its members hunt and fish there again under tribal rules.",
+  "today": "This Act took no land and set no terms. The cession it set in motion, the Brunot Agreement of September 13, 1873 (Royce area 566), is recorded with its findings in cession-1873-09-13-uta: the Indian Claims Commission held the price paid unconscionable (Docket 327, 1962). The Southern Ute Indian Tribe says the hunting right reserved in that agreement remains.",
   "nationVoice": [
     {
       "nation": "Southern Ute Indian Tribe",
@@ -105,12 +81,13 @@
     "The Commission's 1962 opinion and findings, as scanned, date the agreement September 18, 1873; the agreement's own text and Royce say September 13, 1873, which is used here.",
     "The Commission found the area of Royce area 566, less Uncompahgre Park (about 10,240 acres), to be 3,765,535 acres as the scan reads; the Supreme Court says 3.7 million acres. The exact figure was not cross-checked against a clean copy.",
     "Whether and when the 1965 judgment was paid was not checked.",
-    "No Ute Mountain Ute or Ute Indian Tribe account of the Brunot cession was found; utemountainutetribe.com and utetribe.com had no history page that loaded on 2026-11-08."
+    "No Ute Mountain Ute or Ute Indian Tribe account of the Brunot cession was found; utemountainutetribe.com and utetribe.com had no history page that loaded on 2026-11-08.",
+    "Audit 2026-11-08: downgraded broken -> no-breach-found. The Act only authorized negotiation and the 1872 commission failed because the Utes refused to cede; the ICC finding (Docket 327) and the 1971 admission concern the 1873 Brunot cession and are recorded in cession-1873-09-13-uta and cession-1874-04-29-uta. Both breaches removed here and pointed to in today."
   ],
   "plain": {
-    "promised": "Not a treaty. Congress let the Interior Department negotiate for the south part of the Ute reservation. The Utes first refused to give up any land; the 1873 Brunot Agreement followed.",
-    "happened": "The Indian Claims Commission held the price paid for that cession, $507,662.84 for land worth $8,500,000, was unconscionable. The United States admitted in the Supreme Court that the payment was not made promptly.",
-    "today": "The Confederated Bands of Ute Indians won a final judgment of $7,908,586.16 in 1965. The Southern Ute Indian Tribe says its hunting right in the ceded area remains."
+    "promised": "Not a treaty. In 1872 Congress let the Interior Department negotiate for the south part of the Ute reservation. The Utes refused to give up any land.",
+    "happened": "This Act took no land itself. The 1873 Brunot Agreement that followed is recorded separately, where the Indian Claims Commission held the price paid for it unconscionable.",
+    "today": "See the Brunot Agreement of 1873. The Southern Ute Indian Tribe says the hunting right kept in that agreement remains."
   },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

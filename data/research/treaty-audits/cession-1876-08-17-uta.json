@@ -1,0 +1,19 @@
+{
+  "id": "cession-1876-08-17-uta",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce full text: the 1874 agreement excluded Uncompahgre valley; a tract 4 miles square including the remnant was declared by the order of August 17, 1876 still part of the Ute reserve; see 566.",
+    "ICC Docket 327 findings (pointer 841): Uncompahgre Park about 10,240 acres; final judgment $7,908,586.16 (pointer 705).",
+    "No breach claimed; no-breach-found supported."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [
+    "The 53rd milepost detail not located in the OCR text."
+  ],
+  "treatiesJsonErrors": [
+    "Gives this order Royce area 566 (the Brunot cession), though it kept land in the reservation; its Royce link is page 864 but the entry is on pages 886-887."
+  ]
+}

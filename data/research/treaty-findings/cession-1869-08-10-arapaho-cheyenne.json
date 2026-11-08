@@ -1,0 +1,70 @@
+{
+  "id": "cession-1869-08-10-arapaho-cheyenne",
+  "name": "Executive order of August 10, 1869 setting apart the Cheyenne and Arapaho Reservation in Indian Territory",
+  "aka": [
+    "Cheyenne-Arapaho executive order reservation"
+  ],
+  "signed": "1869-08-10",
+  "citation": "Executive Order of August 10, 1869",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/852/mode/2up",
+  "nations": [
+    "Southern Cheyenne (Tsitsistas)",
+    "Southern Arapaho (Hinono'ei)"
+  ],
+  "promises": [
+    "A reservation in Indian Territory set apart by the President for the Southern Cheyenne and Arapaho tribes (Indian Claims Commission, Docket 329, 1961 interlocutory order, which refers to the lands set apart for them by the executive order of August 10, 1869)."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "litigation",
+      "date": "1965-10-18",
+      "what": "A claim that 4,608,878 acres of the 1869 executive order reservation were ceded to the United States on March 3, 1891 for an unconscionable $1,500,000 (Docket 329-A) was tried on value in May 1965 and then settled, together with the Fort Laramie claim (Docket 329-B), for $15,000,000.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 329-A and 329-B, Final Judgment on compromise settlement",
+      "source": {
+        "title": "Cheyenne-Arapaho Tribes of Indians of Oklahoma v. United States, Dockets 329-A and 329-B, Final Judgment (16 Ind. Cl. Comm. 190, October 18, 1965)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2414",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    }
+  ],
+  "compensation": "A compromise final judgment of $15,000,000 in 1965 settled Dockets 329-A and 329-B together; no amount was assigned to the 1891 cession alone.",
+  "today": "Not researched past the 1965 settlement.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 852",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/852/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Cheyenne-Arapaho Tribes of Indians of Oklahoma v. United States, Dockets 329-A and 329-B, Findings of Fact on Compromise Settlement (16 Ind. Cl. Comm. 162)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1119",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Cheyenne-Arapaho Tribes of Indians of Oklahoma et al. v. United States, Dockets 329 and 348, Interlocutory Order (10 Ind. Cl. Comm., December 6, 1961)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/304",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Cheyenne-Arapaho Tribes of Indians of Oklahoma v. United States, Dockets 329-A and 329-B, Final Judgment (16 Ind. Cl. Comm. 190, October 18, 1965)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2414",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "This Royce record is an executive order setting apart a reservation, not a cession. The 1891 cession of most of it (the Jerome Agreement, ratified by Act of March 3, 1891) has or needs its own record.",
+    "The Commission never ruled whether the 1891 price was unconscionable; the claim was settled after the value trial.",
+    "The OSU catalogue dates the settlement findings (16 Ind. Cl. Comm. 162) to 1968-12-10, which does not fit volume 16 or the October 18, 1965 judgment; the date was not used.",
+    "treaties.json lists the Arapaho Tribe of the Wind River Reservation; the Northern Arapaho were not parties to this reservation, which was for the Southern Cheyenne and Arapaho.",
+    "The Cheyenne and Arapaho Tribes' own account of the 1869 reservation and the 1891 agreement was not found on their website."
+  ],
+  "plain": {
+    "promised": "In 1869 the President set apart a reservation in Indian Territory for the Southern Cheyenne and Arapaho.",
+    "happened": "In 1891 the tribes ceded 4,608,878 acres of it for $1,500,000. Their claim that the price was unconscionable was tried on value but settled before any finding.",
+    "today": "That claim and a Fort Laramie claim were settled together for $15,000,000 in 1965."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

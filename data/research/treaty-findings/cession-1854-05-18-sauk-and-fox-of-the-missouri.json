@@ -1,0 +1,89 @@
+{
+  "id": "cession-1854-05-18-sauk-and-fox-of-the-missouri",
+  "name": "Treaty with the Sauk and Foxes of Missouri, 1854",
+  "aka": [
+    "Sac and Fox of Missouri treaty of May 18, 1854"
+  ],
+  "signed": "1854-05-18",
+  "ratified": "1854-07-11",
+  "proclaimed": "1854-07-17",
+  "citation": "10 Stat. 1074",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-and-foxes-of-missouri-1854-0631",
+  "nations": [
+    "Sac and Fox Nation of Missouri in Kansas and Nebraska"
+  ],
+  "promises": [
+    "Article 1: the nation kept a reserve of 50 sections out of the country assigned it in 1836, ceding the rest.",
+    "Article 2: the United States would pay $48,000 in four instalments from October 1854 to October 1857.",
+    "Article 4: the nation kept one section at its farm and mill, to be sold for its benefit when it wished.",
+    "Article 6: $5,000 in return for releasing claims under former treaties and removing within six months."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1964-05-01",
+      "what": "The Indian Claims Commission found the land ceded by this treaty was worth $240,000, held that the treaty price of $48,000 was so grossly inadequate as to be unconscionable, and entered an interlocutory award of $192,000 less offsets.",
+      "whoFoundIt": "Indian Claims Commission, Sac and Fox Tribe of Missouri v. United States, Docket 195, 13 Ind. Cl. Comm. 295 (1964)",
+      "source": {
+        "title": "Sac and Fox Tribe of Missouri v. United States, Docket 195, Opinion of the Commission (May 1, 1964)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/893",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "so grossly inadequate as to be unconscionable"
+    }
+  ],
+  "landTaken": "The Commission describes a supposed cession of 96,000 acres (128,000 acres less 32,000 reserved), with 17,000 acres added on the west to make up a survey shortfall.",
+  "compensation": "Final judgment of March 10, 1965 for $192,000. Gratuitous offsets for all three Sac and Fox tribes had been settled separately by a 1961 stipulation of $35,000 applied in other dockets.",
+  "today": "The 50-section reserve kept by this treaty was later ceded to the United States in 1861 (Royce area 427). The judgment was final in 1965; its distribution was not traced.",
+  "nationVoice": [
+    {
+      "nation": "Sac and Fox Nation of Missouri in Kansas and Nebraska",
+      "summary": "The Nation says it was named a distinct tribe by the treaty of 1815, removed to northeast Missouri, and by the treaty of 1837 removed across the Missouri River to the Great Nemaha reservation in Doniphan and Brown counties, Kansas.",
+      "url": "https://www.sacandfoxks.com/history/tribe"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Sauk and Foxes of Missouri, 1854 (Kappler, vol. 2, p. 631)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-and-foxes-of-missouri-1854-0631",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Sac and Fox Tribe of Missouri v. United States, Docket 195, Opinion of the Commission (May 1, 1964)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/893",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sac and Fox Tribe of Missouri v. United States, Docket 195, Findings of Fact (May 1, 1964)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/694",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sac and Fox Tribe of Missouri v. United States, Docket 195, Final Judgement (March 10, 1965)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/644",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Tribe History",
+      "url": "https://www.sacandfoxks.com/history/tribe",
+      "publisher": "Sac and Fox Nation of Missouri in Kansas and Nebraska"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 792",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/792/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The Nation's page dates the removal into Kansas to a treaty of 1837; the treaty assigning the Kansas strip that this treaty ceded is dated September 17, 1836 in the 1854 text. Not reconciled.",
+    "The 1861 cession of the 50-section reserve (Royce area 427) is mapped to this record in treaties.json; it belongs to the 1861 treaty."
+  ],
+  "plain": {
+    "promised": "The Sac and Fox of Missouri kept a 50-section reserve in Kansas and would be paid $48,000 for the rest of their 1836 land.",
+    "happened": "The Indian Claims Commission found in 1964 that the land was worth $240,000 and that paying $48,000 was unconscionable.",
+    "today": "The Commission entered a final judgment of $192,000 in 1965."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

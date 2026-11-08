@@ -35,7 +35,13 @@
   "landTaken": "1,280 acres (two square miles) on the west bank of the Genesee River (treaty text; ICC findings, 1972).",
   "compensation": "$1,200 was paid in 1802. The Commission entered a final award of $2,650 for the Seneca Nation in Docket 342-F on March 13, 1974, after the United States chose not to claim offsets against it.",
   "today": "The 1972 Commission findings record the Big Tree treaty of 1797 as leaving the Seneca ten reservations, nine of which were sold in whole or part over the next 45 years, Little Beard's being the first.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Seneca Nation of Indians",
+      "summary": "The Seneca Nation's cultural center says the 1797 Big Tree treaty, which left Little Beard's Town among the small Genesee River reservations later sold, took 4,000,000 acres for $100,000 in a process rife with land speculators, bribery, fraud, whiskey and bad faith.",
+      "url": "https://sninews.org/2022/09/16/seneca-nation-chronology-for-september/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Seneca, 1802 (Little Beard's Reservation; Kappler transcription)",
@@ -66,6 +72,11 @@
       "title": "Seneca Nation of Indians v. United States, Docket 342-F, Final Award, March 13, 1974, 33 Ind. Cl. Comm. 392",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2480",
       "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Seneca Nation Chronology for September (SNI Official Newsletter, September 16, 2022), provided by the Onöhsagwë:de' Cultural Center",
+      "url": "https://sninews.org/2022/09/16/seneca-nation-chronology-for-september/",
+      "publisher": "Seneca Nation of Indians"
     }
   ],
   "openQuestions": [

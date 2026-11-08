@@ -1,0 +1,44 @@
+{
+  "id": "kappler-1004",
+  "name": "Treaty with the Cherokee, 1868 (supplemental article on the Cherokee Neutral Lands)",
+  "aka": [
+    "Supplemental article to the Cherokee treaty of July 19, 1866"
+  ],
+  "signed": "1868-04-27",
+  "ratified": "1868-06-06",
+  "proclaimed": "1868-06-10",
+  "citation": "16 Stat. 727",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1868-0996",
+  "nations": [
+    "Cherokee Nation"
+  ],
+  "promises": [
+    "The American Emigrant Company's 1866 contract to buy the Cherokee Neutral Lands in Kansas (about 800,000 acres) to be assigned to James F. Joy, who would take on all its obligations, and Joy's own 1867 contract to be cancelled.",
+    "$75,000 to be paid to the Secretary of the Interior, as trustee for the Cherokee Nation, within ten days of ratification, and the deferred payments when due with interest from ratification.",
+    "The buyer to take only the land left after securing to actual settlers the land due them under Article 17 of the 1866 treaty, and the proceeds of the settlers' land to be kept by the Secretary of the Interior as trustee for the Cherokee Nation."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "In Holden v. Joy (1872) the Supreme Court upheld the 1866 cession of the Neutral Lands in trust and the supplemental treaty as valid, and affirmed Joy's title against a settler. That ruling went against the settlers, not the Cherokee, and is not recorded as a breach.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Cherokee, 1868 (Kappler, vol. 2)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1868-0996",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Holden v. Joy, 84 U.S. (17 Wall.) 211 (1872)",
+      "url": "https://www.govinfo.gov/content/pkg/USREPORTS-84/pdf/USREPORTS-84-211.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    }
+  ],
+  "openQuestions": [
+    "Royce area 490 (the Neutral Lands) was ceded in trust by Article 17 of the Cherokee treaty of July 19, 1866; this 1868 article only re-assigned the sale contract. The cession itself belongs with the 1866 treaty.",
+    "The Indian Claims Commission collection was searched; no Cherokee docket on the Neutral Lands sale price or proceeds was found (Dockets 173 and 173-A concern the Cherokee Outlet, 190 the freedmen).",
+    "Whether Joy paid the $75,000 and the deferred payments, and whether the settlers' proceeds reached the Cherokee, was not checked; Court of Claims cases on Cherokee funds before 1946 are the lead.",
+    "The Cherokee Nation's and the United Keetoowah Band's own accounts of the Neutral Lands sale were not found."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -21,7 +21,13 @@
   "landTaken": "Royce areas 36 and 37, the two 1797 Cattaraugus reserves given up. The Commission found them to total 10,100 acres (8,700 north of the creek and 1,400 south) against 18,397 acres received (Dockets 342-A et al., Findings 57 and 58, 1972). Area 45 is the tract the Seneca received, today's Cattaraugus reservation.",
   "compensation": "Land for land. The Indian Claims Commission found the 18,397 acres received at least as valuable as the 10,100 given up, so the consideration was not unconscionable, and dismissed the Seneca Nation's claim (Docket 342-E) on May 3, 1972.",
   "today": "The Cattaraugus reservation created by this exchange is held by the Seneca Nation of Indians. In the same 1972 decision the Commission found that the United States had a duty under the 1790 Trade and Intercourse Act to see the Seneca received a conscionable price, and that the 1826 sale of parcels from eight reservations, including 5,120 acres of Cattaraugus, was made for an unconscionable price.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Seneca Nation of Indians",
+      "summary": "The Seneca Nation's cultural center says the 1797 Big Tree treaty, which set out the Cattaraugus reservation that this 1802 exchange adjusted, took 4,000,000 acres for $100,000 in a process rife with land speculators, bribery, fraud, whiskey and bad faith.",
+      "url": "https://sninews.org/2022/09/16/seneca-nation-chronology-for-september/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Seneca, 1802 (Kappler vol. 2, p. 60), 7 Stat. 70",
@@ -42,6 +48,11 @@
       "title": "Royce, Indian Land Cessions in the United States (1899), schedule pp. 662-663, areas 36, 37 and 45",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/662/mode/2up",
       "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Seneca Nation Chronology for September (SNI Official Newsletter, September 16, 2022), provided by the Onöhsagwë:de' Cultural Center",
+      "url": "https://sninews.org/2022/09/16/seneca-nation-chronology-for-september/",
+      "publisher": "Seneca Nation of Indians"
     }
   ],
   "openQuestions": [

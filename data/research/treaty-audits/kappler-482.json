@@ -1,0 +1,14 @@
+{
+  "id": "kappler-482",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Kappler header on the Oklahoma State University Tribal Treaties Database matches the file's signing, ratification/proclamation dates and Statutes at Large citation.",
+    "Docket 158/209 findings of May 12, 1969 (id 1086): 400 sections, 217,600 acres; consideration $192,000.12 plus $1,056.00; Sac and Fox one-half interest worth $136,000.00; no undue pressure or coercion; claim to be dismissed; $175,444.17 disbursed and $9,341 for horses. The file matches.",
+    "Status no-breach-found is right: the Commission found the price was not unconscionable."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "7 Stat. 517 vs 7 Stat. 520 was not checked against the Statutes at Large (already in openQuestions)."
+  ]
+}

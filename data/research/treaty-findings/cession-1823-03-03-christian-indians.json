@@ -1,0 +1,53 @@
+{
+  "id": "cession-1823-03-03-christian-indians",
+  "name": "Purchase of the Christian (Moravian) Indians' Muskingum tracts under the Act of March 3, 1823",
+  "aka": [
+    "Gnadenhutten, Schoenbrunn and Salem tracts",
+    "Royce areas 4, 5 and 6"
+  ],
+  "signed": "1823-03-03",
+  "citation": "Act of March 3, 1823, ch. 27, 3 Stat. 749-750",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-3/pdf/STATUTE-3-Pg750.pdf",
+  "nations": [
+    "Christian Indians (Royce: Moravian or Christian Indians)"
+  ],
+  "promises": [
+    "The Act appropriated one thousand dollars for the purchase of the Indians' interest in three tracts in Tuscarawas County, Ohio, which Congress had granted in 1796 to the Society of United Brethren 'on trust, for the sole benefit of said Indians'.",
+    "The purchase was to be made with the consent of the Society."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "The Act appropriated one thousand dollars. Royce records that Lewis Cass secured the relinquishment of both the Society and the Indians and sent it to the War Department under date of November 19, 1823.",
+  "today": "This is a purchase made under an Act of Congress, not a treaty. No court, Indian Claims Commission or government finding about it was found. The same tracts are covered by the findings file cession-1788-09-03-christian-indians.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Act of March 3, 1823, ch. 27, 3 Stat. 749-750",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-3/pdf/STATUTE-3-Pg750.pdf",
+      "publisher": "US Government Publishing Office"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 704",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/704/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 650",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/650/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "This record duplicates the Royce areas (4, 5, 6) of cession-1788-09-03-christian-indians; the map may be showing the same tracts twice.",
+    "The Act says the tracts were 'four hundred acres each'; Royce says 4,000 acres each. Not resolved.",
+    "Whether the Indians freely consented, and whether they received any of the money, was not traced. presentDayTribes is empty in treaties.json.",
+    "Royce's statute link in treaties.json (loc.gov c17.pdf) is the whole session's statutes; the govinfo page copy was used."
+  ],
+  "plain": {
+    "promised": "Congress set aside $1,000 to buy the Christian (Moravian) Indians' interest in three Ohio tracts held in trust for them, with the trustee society's consent.",
+    "happened": "Royce records that both the society and the Indians signed a relinquishment in November 1823. No finding that a promise was broken was located.",
+    "today": "No claim or ruling about this purchase was found."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

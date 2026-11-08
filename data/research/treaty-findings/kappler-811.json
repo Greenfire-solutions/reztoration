@@ -1,0 +1,47 @@
+{
+  "id": "kappler-811",
+  "name": "Treaty with the Delawares, 1860",
+  "aka": [
+    "Treaty of Sarcoxieville, May 30, 1860"
+  ],
+  "signed": "1860-05-30",
+  "ratified": "1860-07-27",
+  "proclaimed": "1860-08-22",
+  "citation": "12 Stat. 1129",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-delawares-1860-0803",
+  "nations": [
+    "Lenape (Delaware) of the Kansas reservation"
+  ],
+  "promises": [
+    "Articles 1 and 2: part of the Kansas reservation divided among the Delawares in severalty, the tracts not to be sold or leased except to the United States or tribal members, and exempt from levy, taxation, sale or forfeiture until Congress provides otherwise.",
+    "Article 2: improvements of Delawares living on land to be sold were to be valued and the owners paid, the money spent on new improvements on the land they kept.",
+    "Article 3: the Leavenworth, Pawnee and Western Railroad Company could buy the rest of the reservation at a value set by three commissioners and never below $1.25 an acre, the money to be handled under Articles 7 and 8 of the 1854 treaty.",
+    "Article 3: no patent to issue and the sale not to bind the Delawares until the Secretary of the Interior was satisfied that twenty-five miles of the railroad from Leavenworth City had been built."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "Royce lists the rest of the Kansas reservation (area 488) as ceded later; this record was not researched past the 1860 treaty.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Delawares, 1860 (Kappler, vol. 2)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-delawares-1860-0803",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Absentee Delaware Tribe of Oklahoma et al. and Delaware Tribe of Indians v. United States, Dockets 72 and 298, Findings of Fact (1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1194",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "The Indian Claims Commission collection was searched (Delaware dockets 27-A, 72, 289, 298, 337 and others): Dockets 72 and 298 concern the 1854 trust lands and the 1854 cession, not the 1860 sale to the Leavenworth, Pawnee and Western Railroad. No Commission or court finding on this treaty was located.",
+    "Pre-1946 Court of Claims cases (Caselaw Access Project) were not searched for this treaty; a case on the 1860 railroad sale or the supplemental treaty of July 2, 1861 is the main lead.",
+    "The 1861 supplemental treaty on the railroad's bonds, and reports that the railroad bought about 223,966 acres appraised near $286,742, were not opened; they are leads on whether the price or bonds were honored.",
+    "treaties.json lists the Delaware Nation, Oklahoma (the Absentee or Western Delaware); the Kansas Delawares who made this treaty are the ancestors of the Delaware Tribe of Indians (Bartlesville). The OSU database lists both as successors.",
+    "The Delaware Tribe's own account of the 1860 treaty was not found; a delawaretribe.org opinion piece on the railroad sale returned 404.",
+    "The later removal of the Kansas Delawares to the Cherokee Nation (1866 treaty, 1867 agreement) belongs to other records and was not checked here."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

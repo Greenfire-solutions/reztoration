@@ -1,0 +1,58 @@
+{
+  "id": "kappler-465",
+  "name": "Treaty with the Potawatomi, March 29, 1836 (Wau-ke-wa's band)",
+  "aka": [
+    "Treaty on Tippecanoe River with Wau-ke-wa, Che-cose's only son"
+  ],
+  "signed": "1836-03-29",
+  "proclaimed": "1836-06-04",
+  "citation": "7 Stat. 498",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1836-0457",
+  "nations": [
+    "Potawatomi (band of Wau-ke-wa)"
+  ],
+  "promises": [
+    "Article 1: the band ceded the four sections reserved for it by the second article of an earlier Potawatomi treaty.",
+    "Article 2: the band would give up possession within three months and remove west of the Mississippi within two years.",
+    "Article 3: the United States would pay the band $2,560 in specie at the first annuity payment after ratification.",
+    "Article 4: the United States would pay the expenses of making the treaty."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "No court, Indian Claims Commission or government finding about this cession was found. The Potawatomi Indiana land cases in Docket 128 et al. that were opened do not mention these four sections.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Potawatomi, 1836 (Kappler, vol. 2, p. 457)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1836-0457",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Treaty with the Potawatomi: March 29, 1836",
+      "url": "https://www.fcpotawatomi.com/cultural-preservation/treaties/march-29-1836/",
+      "publisher": "Forest County Potawatomi Community, Cultural Preservation"
+    },
+    {
+      "title": "Royce cession 208",
+      "url": "https://digitreaties.org/treaties/cession/208/",
+      "publisher": "DigiTreaties"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 758",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/758/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json merges two bands (Wau-ke-wa's and Aub-ba-naub-ba's) and two Royce areas (208, 209). DigiTreaties links area 208 to this treaty and area 209 to the April 11, 1836 treaty with Aub-ba-naub-ba's band, which has its own Kappler page. The Aub-ba-naub-ba band may belong on a separate record.",
+    "Whether the Indian Claims Commission valued the 1836 band reserve cessions was not found; a pass through the Potawatomi of Indiana and Michigan dockets (29-K and related) is needed.",
+    "The Forest County Potawatomi list this treaty among their treaties but give no account of it. Which present-day nations descend from Wau-ke-wa's band was not confirmed; treaties.json names the Citizen Potawatomi Nation."
+  ],
+  "plain": {
+    "promised": "Wau-ke-wa's band would be paid $2,560 for four reserved sections on the Tippecanoe River in Indiana and would move west within two years.",
+    "happened": "No court, claims commission or government finding about this cession was found.",
+    "today": "Nothing was found on whether the price was later reviewed."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

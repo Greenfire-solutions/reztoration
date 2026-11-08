@@ -1,0 +1,21 @@
+{
+  "id": "cession-1882-01-05-uta-uncompahgre",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "ICC Docket 349 findings on stipulated settlement, February 18, 1965 (pointer 710): Uncompahgre Band the only band without a reservation under the 1880 Agreement; compromise of $300,000 after offsets.",
+    "Ute Indian Tribe release (ICT Press Pool, December 23, 2021): quote \"The United States promised us a new homeland in Colorado or Utah\" exact; stockmen, oil and minerals, BLM transfer without approval from Congress.",
+    "Leagle excerpt, No. 25-5111 (D.C. Cir. July 31, 2026): Interior and the district court concluded the lands are not eligible for restoration.",
+    "Royce full text: \"the present Uncompahgre reserve\"."
+  ],
+  "changes": [
+    "Removed the 2026 D.C. Circuit decision from breaches: it is a ruling against the Tribe and is already in today. Status stays contested; audit line added."
+  ],
+  "unverifiable": [
+    "Full D.C. Circuit opinion paywalled on Leagle; only the excerpt was read.",
+    "Salt Lake Tribune and FOX 13 articles not reopened."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes lists Southern Ute and Ute Mountain Ute; the reserve was for the Uncompahgre Band of the Ute Indian Tribe."
+  ]
+}

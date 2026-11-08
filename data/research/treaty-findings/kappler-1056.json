@@ -1,0 +1,53 @@
+{
+  "id": "kappler-1056",
+  "name": "Agreement between the Delaware and Wyandot, 1843",
+  "aka": [
+    "Delaware sale of 39 sections to the Wyandot at the mouth of the Kansas River"
+  ],
+  "signed": "1843-12-14",
+  "ratified": "1848-07-25",
+  "citation": "9 Stat. 337",
+  "textUrl": "https://treaties.okstate.edu/treaties/agreement-with-the-delawares-and-wyandot-1843-1048",
+  "nations": [
+    "Delaware Nation",
+    "Wyandotte Nation"
+  ],
+  "promises": [
+    "This is an agreement between two nations, not with the United States. Article 1: the Delaware gave the Wyandot three sections at the junction of the Missouri and Kansas rivers.",
+    "Article 2: the Delaware sold the Wyandot thirty-six further sections adjoining them.",
+    "Article 3: the Wyandot would pay the Delaware $46,080 over eleven years.",
+    "Congress ratified it in 1848 with the proviso that the Wyandot would take no better right in the land than the Delaware held."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "No land passed to the United States under this agreement. The 1850 Wyandot treaty (kappler-595) states that the Wyandot had to buy this land because the United States never gave them the 148,000 acres promised in 1842.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Agreement with the Delawares and Wyandot, 1843 (Kappler, vol. 2, p. 1048)",
+      "url": "https://treaties.okstate.edu/treaties/agreement-with-the-delawares-and-wyandot-1843-1048",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Treaty with the Wyandot, 1850 (Kappler, vol. 2, p. 587)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-wyandot-1850-0587",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 778",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/778/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "Royce lists area 263 under this agreement, but it is a sale between nations, not a cession to the United States. The map may be showing a Delaware-to-Wyandot sale as a US taking.",
+    "The breach behind this agreement belongs to the Wyandot treaty of March 17, 1842, whose findings file should carry the 1850 admission."
+  ],
+  "plain": {
+    "promised": "The Delaware gave and sold 39 sections near the Kansas-Missouri river junction to the Wyandot for $46,080. The United States was not a party; Congress approved it in 1848.",
+    "happened": "No finding of a broken promise concerns this agreement itself.",
+    "today": "The Wyandot needed this land because the United States never gave them the western land promised in 1842."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

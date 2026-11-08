@@ -1,0 +1,15 @@
+{
+  "id": "cession-1883-08-15-kickapoo",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce (full text, p. 912-913): President sets apart reserve in Indian Territory for Kickapoos of Mexico bounded by the Sac and Fox reservation, the Deep Fork, the Indian meridian and the North Fork of the Canadian. Matches.",
+    "Docket 318 findings (id 1010): title as of October 1, 1874 as a gratuity, its value set off in Docket 316. Matches.",
+    "A reservation created by executive order is not a cession; no-breach-found is right."
+  ],
+  "changes": [],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "The Royce link points to page 852; the area 650 entry is on pages 912-913."
+  ]
+}

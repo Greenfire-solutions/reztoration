@@ -1,13 +1,17 @@
 {
   "id": "kappler-843",
   "name": "Treaty with the Kickapoo, 1862",
-  "aka": ["Kickapoo treaty of June 28, 1862"],
+  "aka": [
+    "Kickapoo treaty of June 28, 1862"
+  ],
   "signed": "1862-06-28",
   "ratified": "1863-03-13",
   "proclaimed": "1863-05-28",
   "citation": "13 Stat. 623",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-kickapoo-1862-0835",
-  "nations": ["Kickapoo"],
+  "nations": [
+    "Kickapoo"
+  ],
   "promises": [
     "Articles 1 and 2: the 150,000-acre Kansas reservation to be surveyed, with land assigned in severalty to those who wanted it and certificates issued, the land exempt from taxation, levy and sale.",
     "Article 4: land set apart to be held in common by those who wanted that, or, if most of them chose, a new home in the Indian country south of Kansas bought with the value of their share at no less than $1.25 an acre.",
@@ -48,7 +52,13 @@
     "happened": "The Indian Claims Commission found in 1970 that the 123,832.61 acres sold to the railroad were worth $280,000.00, that the Kickapoo got $154,790.39, and that the price was unconscionable.",
     "today": "The Commission made a final award of $125,209.61 in 1970."
   },
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Kickapoo Tribe in Kansas",
+      "summary": "Chairman Lester Randall told the Senate in 2018 that the Tribe opposed the further cession of 1862, which opened its reservation to allotment and homesteading.",
+      "url": "https://www.narf.org/nill/documents/20180711_kickapoo_testimony_s2154.html"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Kickapoo, 1862 (Kappler, vol. 2, p. 835)",
@@ -74,6 +84,11 @@
       "title": "Kickapoo Tribe of Kansas et al. v. United States, Docket 316-A, Final Award (September 1970)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2230",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Testimony of Lester Randall, Chairman, Kickapoo Tribe in Kansas, in support of S. 2154, Senate Committee on Indian Affairs, July 18, 2018",
+      "url": "https://www.narf.org/nill/documents/20180711_kickapoo_testimony_s2154.html",
+      "publisher": "Kickapoo Tribe in Kansas (copy held by the National Indian Law Library, NARF)"
     }
   ],
   "openQuestions": [

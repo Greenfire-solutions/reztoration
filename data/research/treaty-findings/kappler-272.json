@@ -1,12 +1,16 @@
 {
   "id": "kappler-272",
   "name": "Treaty with the Creeks, 1826 (Treaty of Washington)",
-  "aka": ["Treaty of Washington, 1826"],
+  "aka": [
+    "Treaty of Washington, 1826"
+  ],
   "signed": "1826-01-24",
   "proclaimed": "1826-04-22",
   "citation": "7 Stat. 286",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-creeks-1826-0264",
-  "nations": ["Mvskoke (Muscogee Creek)"],
+  "nations": [
+    "Mvskoke (Muscogee Creek)"
+  ],
   "promises": [
     "Article 1: the 1825 Treaty of Indian Springs declared null and void, with every right and claim arising from it cancelled.",
     "Articles 3 and 4: $217,600 to the chiefs after ratification and an additional perpetual annuity of $20,000.",
@@ -37,7 +41,13 @@
     "happened": "In February 1827 President Adams told Congress that Georgia surveyors were surveying Creek land secured by this treaty. He chose to prosecute in the courts rather than remove them with troops.",
     "today": "No court or Claims Commission decision on this treaty was found. The Creek country promised in the west was replaced by the 1833 Fort Gibson treaty."
   },
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Muscogee (Creek) Nation",
+      "summary": "In its 2020 Supreme Court brief in McGirt v. Oklahoma, the Nation says that although the 1826 treaty guaranteed its remaining Alabama lands, executive officials claimed they were powerless to protect them when Alabama took jurisdiction in 1829 and settlers poured in, and urged the Creek to remove.",
+      "url": "https://www.supremecourt.gov/DocketPDF/18/18-9526/132680/20200211152306523_Amicus%20Brief%20of%20Muscogee%20Creek%20Nation.pdf"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Creeks, 1826 (Kappler, vol. 2, p. 264)",
@@ -58,6 +68,11 @@
       "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule pp. 714-715",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/714/mode/2up",
       "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Brief for Amicus Curiae Muscogee (Creek) Nation in Support of Petitioner, McGirt v. Oklahoma, No. 18-9526 (filed February 11, 2020)",
+      "url": "https://www.supremecourt.gov/DocketPDF/18/18-9526/132680/20200211152306523_Amicus%20Brief%20of%20Muscogee%20Creek%20Nation.pdf",
+      "publisher": "Muscogee (Creek) Nation, Office of the Attorney General (Supreme Court of the United States docket)"
     }
   ],
   "openQuestions": [

@@ -1,0 +1,25 @@
+{
+  "id": "cession-1871-11-09-apache",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Confirmed the Commission found a wrongful taking, not just a settlement. Docket 22-D interlocutory order (pointer 932) concludes as a matter of law that on May 1, 1873 the United States extinguished Western Apache title outside the enlarged White Mountain reservation without payment of compensation, and that the orders of August 5, 1873, July 21, 1874, April 27, 1876, January 26, 1877, March 31, 1877 and December 22, 1902 successively extinguished title inside it without compensation; opinion (pointer 1611) says these were wrongfully taken.",
+    "Docket 22-J opinion, June 27, 1969 (pointer 1516): placing the Northern Tonto on Camp Verde and restoring the reserve on April 23, 1875 each wrongfully took their lands without any compensation.",
+    "Docket 22-E findings (pointer 643), Finding 19: about 2,000 Indians, most Yavapai, taken to Camp Verde May 1, 1873, removed in March 1875 despite opposition to San Carlos; interlocutory order (pointer 624): title extinguished without compensation on May 1, 1873.",
+    "Settlements: 22-D $4,900,000 and 22-J $685,800, compromise findings September 12, 1972 (pointers 1616, 1055); 22-E/22-F $5,100,000 final judgment March 13, 1969 (pointer 1681), on a compromise stipulation. Kind claims-commission is right for the adjudicated liability; the amounts are compromises, as compensation and plain say.",
+    "The breaches are ICC takings findings, not executive-order shrinkage alone.",
+    "ICT, February 20, 2011: Fran Chavez quote exact; article says hundreds perished on the march.",
+    "Docket 22-E opinion (pointer 906): Yavapai held at San Carlos \"approximately twenty five years\", supporting today."
+  ],
+  "changes": [
+    "Added the Docket 22-E opinion (pointer 906) to sources; it supports the twenty-five years in today and had not been cited.",
+    "Audit line added to openQuestions."
+  ],
+  "unverifiable": [
+    "Royce pages 854-855, 860-861 and 876-877 not reopened; area 603 assignment not checked."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes is empty; the ICC plaintiffs include the White Mountain Apache, San Carlos Apache, Yavapai-Apache, Fort McDowell and Tonto Apache.",
+    "cession-1871-11-09-apache-southern shares this date; Royce lists separate orders of November 9, 1871."
+  ]
+}

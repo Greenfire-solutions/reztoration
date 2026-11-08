@@ -1,0 +1,99 @@
+{
+  "id": "cession-1861-10-03-uintah-uta",
+  "name": "Executive order of October 3, 1861 setting apart the Uintah Valley Reservation",
+  "aka": [
+    "Uintah Valley Reservation order",
+    "Executive Order No. 38-1"
+  ],
+  "signed": "1861-10-03",
+  "citation": "Executive Order of October 3, 1861 (Executive Order No. 38-1), confirmed by the Act of May 5, 1864",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/824/mode/2up",
+  "nations": [
+    "Ute Indian Tribe of the Uintah and Ouray Reservation (Uintah and other Utah bands)"
+  ],
+  "promises": [
+    "President Lincoln reserved about 2 million acres in Utah Territory for Indian settlement, and Congress confirmed it in 1864, creating the Uintah Valley Reservation (Hagen v. Utah).",
+    "The 1864 Act set the land apart for the permanent settlement and exclusive occupation of such tribes of Utah Territory as might be induced to live there (Hagen v. Utah; Indian Claims Commission, Docket 45)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1957-02-21",
+      "what": "The Indian Claims Commission concluded that the United States' settlement of the White River Utes on the Uintah Reservation, in the early 1880s, deprived the Uintah Utes of an undivided half of the reservation's lands. The plaintiffs said this was done without their consent and without payment.",
+      "whoFoundIt": "Indian Claims Commission, Docket 45, 5 Ind. Cl. Comm. 59 (1957)",
+      "source": {
+        "title": "Uintah Ute Indians of Utah v. United States, Docket 45, Opinion of the Commission (5 Ind. Cl. Comm. 59, February 21, 1957)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/86",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      },
+      "quote": "to deprive the Uintah Utes of an undivided half of the lands of the Uintah Reservation"
+    },
+    {
+      "kind": "act-of-congress",
+      "date": "1903-03-03",
+      "what": "Congress, after a 1902 Act had made allotment depend on the consent of a majority of adult Uintah and White River men, directed the Secretary of the Interior to allot the reservation and open the rest if that consent could not be obtained by June 1, 1903. The President opened the unallotted lands to homestead entry from August 28, 1905.",
+      "whoFoundIt": "Act of March 3, 1903, 32 Stat. 998, as described in Hagen v. Utah, 510 U.S. 399 (1994)",
+      "source": {
+        "title": "Hagen v. Utah, 510 U.S. 399 (1994)",
+        "url": "https://www.law.cornell.edu/supct/html/92-6281.ZO.html",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1960-06-13",
+      "what": "On the parties' joint stipulation the Indian Claims Commission entered a final judgment of $7,700,000 for the Uintah Ute Indians of Utah in Dockets 44 and 45, a compromise settlement.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 44 and 45, Final Judgment",
+      "source": {
+        "title": "Uintah Ute Indians of Utah v. United States, Dockets 44 and 45, Final Judgment (June 1960)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/450",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    }
+  ],
+  "compensation": "Dockets 44 and 45 were settled by a compromise final judgment of $7,700,000 for the Uintah Ute Indians of Utah (1960).",
+  "today": "In Hagen v. Utah (1994) the Supreme Court held that Congress had diminished the Uintah Indian Reservation, so the town of Myton is not Indian country.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 824",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/824/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Uintah Ute Indians of Utah v. United States, Docket 45, Findings of Fact (February 21, 1957)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/13",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Uintah Ute Indians of Utah v. United States, Docket 45, Opinion of the Commission (5 Ind. Cl. Comm. 59, February 21, 1957)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/86",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Hagen v. Utah, 510 U.S. 399 (1994)",
+      "url": "https://www.law.cornell.edu/supct/html/92-6281.ZO.html",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Uintah Ute Indians of Utah v. United States, Dockets 44 and 45, Final Judgment (June 1960)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/450",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "This Royce record is an executive order setting apart a reservation, not a cession. Royce area 431 is the Uintah valley reserve; what area 432 marks was not settled from the scanned schedule (Royce notes an unratified Ute treaty of June 8, 1865 ceding all land in Utah except the Uintah reserve).",
+    "Hagen v. Utah held for the State; it is recorded under today, not as a breach. The 1903 Act is recorded as the breach because it removed the consent the 1902 Act required.",
+    "The Statutes at Large page for the 1864 confirming Act was not opened in this pass, so no citation is given.",
+    "The Ute Indian Tribe's own account (utetribe.com) did not load for a robot; the nation voice is missing.",
+    "The 1905 Uinta forest reserve withdrawal from the reservation and Docket 44's subject were not researched."
+  ],
+  "plain": {
+    "promised": "In 1861 President Lincoln set apart about 2 million acres in the Uintah Valley, confirmed by Congress in 1864 for the permanent and exclusive settlement of the Utah tribes who moved there.",
+    "happened": "The Indian Claims Commission found in 1957 that settling the White River Utes there took half the land from the Uintah Utes. In 1903 Congress ordered the reservation allotted and opened even without the Indians' consent.",
+    "today": "The claims were settled for $7,700,000 in 1960. In 1994 the Supreme Court held the reservation had been diminished."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

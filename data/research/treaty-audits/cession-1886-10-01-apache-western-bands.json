@@ -1,0 +1,16 @@
+{
+  "id": "cession-1886-10-01-apache-western-bands",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Docket 22-D Interlocutory Order of June 27, 1969 (id 932, 21 Ind. Cl. Comm. 189): Indian title extinguished without compensation on May 1, 1873 outside the enlarged White Mountain reservation and by executive orders August 5, 1873 to December 22, 1902 inside it; quote exact.",
+    "Docket 22-J Interlocutory Order (id 2299): Northern Tonto title extinguished without compensation May 1, 1873 and April 23, 1875.",
+    "Final Awards of September 12, 1972 (ids 1055, 1719): $4,900,000 and $685,800 on stipulation; correctly kind litigation.",
+    "Royce (full text): Apache (western bands), country claimed at the beginning of relations, no treaty of purchase."
+  ],
+  "changes": [],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "Date 1886-10-01 is not the date of this taking, and states lists only NM though the claim area is in Arizona (already noted in the file)."
+  ]
+}

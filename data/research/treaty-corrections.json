@@ -970,8 +970,9 @@
   },
   "kappler-172": {
     "note": "Areas 95 and 96 are this treaty's cessions. Area 260 is Royce's cross-reference ('See 260'): the reserve on the Huron river this treaty made for the Wyandot (sections 23 to 27, 34 to 36, 4,996 acres), which they ceded by the treaty of Mar. 17, 1842 (kappler-542). It was granted here, not ceded.",
-    "why": "Note only; no field changed. Royce p. 690 to 691, St. Mary's, Sept. 20, 1818 (Stat. L. VII, 180), Wyandot: map 95, 96 and 'See 260', remark 'This reserve was ceded by treaty of Mar. 17, 1842'.",
-    "source": "https://archive.org/stream/annualreportofbu218smit#page/690/mode/2up"
+    "why": "Note only; no field changed. Royce p. 690 to 691, St. Mary's, Sept. 20, 1818 (Stat. L. VII, 180), Wyandot: map 95, 96 and 'See 260', remark 'This reserve was ceded by treaty of Mar. 17, 1842'. Round 9: Royce p. 690 gives this treaty as Stat. L. VII, 180. The statute link was the loc.gov file for the 10th Congress, which holds the 1809 Act the treaty cites, not this treaty; removed.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/690/mode/2up",
+    "statute": []
   },
   "kappler-197": {
     "note": "Area 179 is Royce's cross-reference ('See 179'): the Missouri tract this supplementary article gave the Kickapoo in place of article 6 of the treaty of July 30, 1819. It was granted here, not ceded; 'This tract was receded to the U. S. by the Kickapoo by treaty of Oct. 24, 1832' (kappler-373).",
@@ -993,5 +994,356 @@
     "note": "Area 468 is the Crow Creek reservation in Dakota the Winnebago ceded by this treaty. Areas 469 and 470 are land the Winnebago received, not land they gave up: Royce p. 837 numbers 469 'The tract purchased from the Omaha Mar. 6, 1865' for them and 470 'The tract purchased from the Omaha by act of June 22, 1874', 20 sections for the Winnebago removed from Wisconsin.",
     "why": "Note only; no field changed. Royce p. 836 to 837, treaty of Washington, Mar. 8, 1865, Winnebago, map 469 and 470, and his remarks on each.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/836/mode/2up"
+  },
+  "cession-1872-04-23-uta": {
+    "cessions": [],
+    "note": "Not a cession: the Act of Apr. 23, 1872 only authorized negotiation with the Ute for part of their reserve. Royce maps it 'See 566' with the remark 'See agreement of Sept. 13, 1873'. Area 566, the Brunot cession, is numbered under the Act of Apr. 29, 1874 that ratified that agreement (cession-1874-04-29-uta).",
+    "why": "Royce p. 856 to 857 (page scan checked): the Uta row of 1872 has 'See agreement of Sept. 13, 1873' and map 'See 566', not 566. Royce p. 875 (scan) numbers 566 under the Act of Apr. 29, 1874. Area 566 removed here so the cession is drawn once, under the Act that made it.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/857/mode/2up"
+  },
+  "cession-1873-09-13-uta": {
+    "royce": [
+      "https://archive.org/stream/annualreportofbu218smit#page/864/mode/2up"
+    ],
+    "note": "Same cession as cession-1874-04-29-uta: this is the Brunot agreement signed Sept. 13, 1873, which Congress ratified by the Act of Apr. 29, 1874. Royce's row reads 'Agreement ratified Apr. 29, 1874. See Executive order of Aug. 17, 1876', map 'See 566'; area 566 is numbered under the 1874 Act. Both records have research files, so neither is renamed or removed; count the cession once.",
+    "why": "Royce p. 864 (Sept. 13, 1873, Agreement, Uta: 'Agreement (subject to ratification by Congress) for cession of part of reserve established by treaty of Mar. 2, 1868') and p. 865 ('See 566'), page scans checked. The Royce link was p. 874, which is the 1874 Act's page.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/864/mode/2up"
+  },
+  "cession-1876-08-17-uta": {
+    "cessions": [],
+    "royce": [
+      "https://archive.org/stream/annualreportofbu218smit#page/886/mode/2up"
+    ],
+    "note": "Took no land. When the north line of the 1874 Brunot cession was surveyed, part of the Uncompahgre valley lay south of it, so this order excepted a tract 4 miles square from the cession and proclaimed it 'still a portion of the Ute reserve' (Royce). The tract has no area number; Royce maps the order 'See 566', and area 566 is the cession itself, numbered under the Act of Apr. 29, 1874 (cession-1874-04-29-uta).",
+    "why": "Royce p. 886 (Aug. 17, Executive order) and p. 887 remarks and 'See 566', checked against the text and the p. 875 scan where 566 is numbered under the 1874 Act. The Royce link was p. 864, the 1873 page.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/886/mode/2up"
+  },
+  "cession-1873-01-09-king-s-river-tule-river-or-madden-farm-r": {
+    "cessions": [],
+    "note": "Royce: this reserve was 'Canceled and a new reserve established Oct. 3, 1873', map 'See 607'. It has no area of its own. Area 607 is numbered under the order of Aug. 3, 1878 (cession-1878-08-03-king-s-river-tule-river-or-madden-farm-r), the land then restored to the public domain, partly from this reserve.",
+    "why": "Royce p. 860 (Jan. 9, 1873, Tule River) and p. 861 page scan: 'Canceled and a new reserve established Oct. 3, 1873', 'See 607'. Royce p. 893 scan numbers 607 under Aug. 3, 1878. Area 607 removed here.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/861/mode/2up"
+  },
+  "cession-1873-10-03-king-s-river-owen-s-river-tule-river": {
+    "cessions": [
+      "547",
+      "607"
+    ],
+    "note": "Royce prints one order of Oct. 3, 1873 (Tule river, King's river, Owen's river, et al.), map '547, 607': the present Tule River reserve, which includes 547 (the yellow addition) and 607 (the part restored by the order of Aug. 3, 1878). cession-1873-10-03-king-s-river-tule-river-or-madden-farm-r is a second record of this same order.",
+    "why": "Royce p. 864 (Oct. 3, Executive order, 'President cancels reserve made by Executive order Jan. 9, 1873, and establishes another at Tule river') and p. 865 page scan: map '547, 607', remark '(This includes Nos. 547 and 607. The portions added to the former reserve are the N. part of 607 and the yellow No. 547.)'. The USFS layer split the order in two by area.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/865/mode/2up"
+  },
+  "cession-1873-10-03-king-s-river-tule-river-or-madden-farm-r": {
+    "note": "Duplicate: the same executive order of Oct. 3, 1873 as cession-1873-10-03-king-s-river-owen-s-river-tule-river. Royce has a single row for it, map '547, 607'; the USFS layer split it by area. Both records have research files, so neither is renamed or removed; count the order once.",
+    "why": "Note only; no field changed. Royce p. 864 to 865 (page scans): one Oct. 3, 1873 row, 'Tule river, King's river, Owen's river, et al.', map '547, 607'.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/865/mode/2up"
+  },
+  "cession-1871-11-09-apache": {
+    "presentDayTribes": [
+      "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona",
+      "San Carlos Apache Tribe of the San Carlos Reservation, Arizona",
+      "Tonto Apache Tribe of Arizona",
+      "Yavapai-Apache Nation of the Camp Verde Indian Reservation, Arizona",
+      "Fort McDowell Yavapai Nation, Arizona"
+    ],
+    "note": "Royce prints three orders of Nov. 9, 1871 under 'Apache' and this record joins them: the reserve at Camp Apache, known as the White Mountain reservation ('See 573, 603'); Camp Grant ('See 541', restored Dec. 14, 1872); and Camp Verde ('See 582', restored Apr. 23, 1875). The Tularosa order of the same day is cession-1871-11-09-apache-southern.",
+    "why": "presentDayTribes was empty. Royce p. 854 to 855 (page scans): the three Nov. 9, 1871 Apache orders for Camp Apache (White Mountain), Camp Grant and Camp Verde. The nations added are the plaintiffs and beneficiaries the research file records from Indian Claims Commission Dockets 22-D, 22-E and 22-J for these reserves.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/854/mode/2up"
+  },
+  "cession-1886-10-01-apache-western-bands": {
+    "states": [
+      "AZ",
+      "NM"
+    ],
+    "presentDayTribes": [
+      "San Carlos Apache Tribe of the San Carlos Reservation, Arizona",
+      "Tonto Apache Tribe of Arizona",
+      "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona",
+      "Yavapai-Apache Nation of the Camp Verde Indian Reservation, Arizona"
+    ],
+    "note": "The date is not Royce's date for this area. Area 689 is the 'country claimed by them at beginning of their relations with the U. S.', with no date of its own; it is printed in the block headed 'Oct. 1, Act of Congress, Stat. L. XI, 374', which belongs to the Pueblo grants above it. The date is left as the USFS layer gives it because Royce gives no other.",
+    "why": "Royce p. 922 (Apache (Western bands), under the Oct. 1, 1886 block) and p. 923 page scan: map 689, location 'Arizona 1, New Mexico 1'; 'Their original domain is here shown on Arizona and New Mexico maps No. 1.' The USFS layer had New Mexico only. The Yavapai-Apache Nation is added because the research file records it among the claimants for the western bands' country.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/923/mode/2up"
+  },
+  "cession-1886-10-01-sauk-and-fox": {
+    "presentDayTribes": [
+      "Sac & Fox Tribe of the Mississippi in Iowa"
+    ],
+    "note": "Not a cession. Area 690 is land the Meskwaki bought: Royce says these Sauk and Fox, 'mostly Fox', returned to Iowa from the Kansas reserve and 'have purchased from time to time the lands here indicated, amounting in the aggregate to about 1,500 acres'. The date is not an event date: area 690 is printed in the block headed 'Oct. 1, Act of Congress, Stat. L. XI, 374', which belongs to the Pueblo grants. The date is left as the USFS layer gives it because Royce gives no other.",
+    "why": "Royce p. 922 ('Sauk and Fox (living in Iowa)': 'Land owned and occupied by them in Tama county, Iowa') and p. 923 page scan, map 690. The Sac & Fox Nation of Missouri and the Sac & Fox Nation, Oklahoma are removed: Royce ties the land to the band living in Iowa only.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/923/mode/2up"
+  },
+  "cession-1873-10-29-chippewa-of-the-mississippi": {
+    "presentDayTribes": [
+      "Leech Lake Band of the Minnesota Chippewa Tribe, Minnesota"
+    ],
+    "why": "Royce p. 866 to 867: the President sets apart an addition to the Lake Winnibigoshish reservation (area 549), both reserves of the Pillager and Winnibigoshish bands under the treaties of 1855 and 1867, now the Leech Lake Band of Ojibwe. Mille Lacs and White Earth removed, as on cession-1874-05-26-chippewa-of-the-mississippi.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/866/mode/2up"
+  },
+  "cession-1873-11-04-chippewa-of-the-mississippi": {
+    "presentDayTribes": [
+      "Leech Lake Band of the Minnesota Chippewa Tribe, Minnesota"
+    ],
+    "why": "Royce p. 866 to 867: the President sets apart an addition to the Leech Lake reservation (area 550), both reserves of the Pillager and Winnibigoshish bands under the treaties of 1855 and 1867, now the Leech Lake Band of Ojibwe. Mille Lacs and White Earth removed, as on cession-1874-05-26-chippewa-of-the-mississippi.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/866/mode/2up"
+  },
+  "cession-1875-11-22-uta": {
+    "presentDayTribes": [
+      "Ute Indian Tribe of the Uintah & Ouray Reservation, Utah"
+    ],
+    "why": "Royce p. 882 to 883: the order adds a tract north of the Ute reserve, from its NE corner north on 107 W. to the first standard parallel and west to the Utah line, area 586. That is the White River Ute country; the White River Ute were moved to Utah after 1880 and are today in the Ute Indian Tribe of the Uintah and Ouray Reservation. Southern Ute and Ute Mountain Ute removed.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/882/mode/2up"
+  },
+  "cession-1882-08-04-uta": {
+    "presentDayTribes": [
+      "Ute Indian Tribe of the Uintah & Ouray Reservation, Utah"
+    ],
+    "why": "Royce p. 908 to 909: this order restores area 586, the 1875 addition, described as land lately occupied by the Uncompahgre and White River Utes, both moved to Utah and now in the Ute Indian Tribe of the Uintah and Ouray Reservation. Same change as cession-1875-11-22-uta, which covers the same area.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/908/mode/2up"
+  },
+  "cession-1882-01-05-uta-uncompahgre": {
+    "presentDayTribes": [
+      "Ute Indian Tribe of the Uintah & Ouray Reservation, Utah"
+    ],
+    "why": "Royce p. 904 to 905: area 630, 'This constitutes the present Uncompahgre reserve', in Utah. The Uncompahgre reserve is the Ouray part of the Uintah and Ouray Reservation; Southern Ute and Ute Mountain Ute removed.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/904/mode/2up"
+  },
+  "cession-1874-11-16-colorado-river": {
+    "cessions": [],
+    "note": "This order has no area of its own. It enlarged the Colorado River reserve, but its boundaries 'were found to be defective and incomplete' and it was superseded by the order of May 15, 1876. Royce maps it 'See 466, 554, 593': 466 is the reserve of the Act of Mar. 3, 1865, 554 the order of Nov. 22, 1873 and 593 the order of May 15, 1876, each with its own record.",
+    "why": "Royce p. 876 (Nov. 16, 1874, Executive order: 'President enlarges reserve as established by act of Mar. 3, 1865, and enlarged by Executive order of Nov. 22, 1873') and p. 877 page scan, map 'See 466, 554, 593'. Areas removed here; they stay on their own records.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/877/mode/2up"
+  },
+  "cession-1870-07-15-kickapoo": {
+    "cessions": [],
+    "name": "Appropriation act for the Kickapoo of Texas and Mexico, 1870-07-15",
+    "note": "Not a cession: an appropriation act for collecting the Kickapoo in Texas and Mexico and placing them on a reserve in Indian Territory. Royce maps it 'See 650'. That reserve was set apart by the executive order of Aug. 15, 1883 (cession-1883-08-15-kickapoo) and ceded by the agreement ratified Mar. 3, 1893 (cession-1893-03-03-kickapoo).",
+    "why": "Royce p. 852 to 853: the Kickapoo row of this date provides for collecting the roving Kickapoo, remark 'The reserve herein contemplated was set apart by Executive order of Aug. 15, 1883', map 'See 650' (scan of p. 855 checked for 1871). Area 650 removed; it stays on the 1883 and 1893 records.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/852/mode/2up"
+  },
+  "cession-1871-03-03-kickapoo": {
+    "cessions": [],
+    "name": "Appropriation act for the Kickapoo of Texas and Mexico, 1871-03-03",
+    "note": "Not a cession: an appropriation act for collecting the Kickapoo in Texas and Mexico and placing them on a reserve in Indian Territory. Royce maps it 'See 650'. That reserve was set apart by the executive order of Aug. 15, 1883 (cession-1883-08-15-kickapoo) and ceded by the agreement ratified Mar. 3, 1893 (cession-1893-03-03-kickapoo).",
+    "why": "Royce p. 854 to 855: the Kickapoo row of this date provides for collecting the roving Kickapoo, remark 'The reserve herein contemplated was set apart by Executive order of Aug. 15, 1883', map 'See 650' (scan of p. 855 checked for 1871). Area 650 removed; it stays on the 1883 and 1893 records.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/854/mode/2up"
+  },
+  "cession-1893-03-03-kickapoo": {
+    "executiveOrder": [],
+    "statute": [
+      "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg557.pdf"
+    ],
+    "why": "Royce p. 946 gives this Act as Stat. L. XXVII, 557. Chapter 203 there is 'An act to ratify and confirm an agreement with the Kickapoo Indians in Oklahoma Territory' (agreement of Sept. 9, 1891). The executive-order link (650r.pdf) was the 1883 order that set the reserve apart and is removed.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/946/mode/2up"
+  },
+  "cession-1883-08-15-kickapoo": {
+    "royce": [
+      "https://archive.org/stream/annualreportofbu218smit#page/912/mode/2up"
+    ],
+    "why": "Royce p. 912 (Aug. 15, 1883, 'President sets apart reserve in Indian Territory for Kickapoos') and p. 913, map 650. The link pointed to p. 852, the 1870 appropriation act.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/912/mode/2up"
+  },
+  "kappler-182": {
+    "cessions": [
+      "100"
+    ],
+    "note": "Area 100 is this cession. Royce maps the reserves this treaty confirmed 'See 81': area 81 is numbered under the Chickasaw treaty of Sept. 20, 1816 (kappler-143), the tract confirmed to George Colbert and deeded to the U. S. by the owners on May 15, 1819.",
+    "why": "Royce p. 694 to 695 page scan (Oct. 19, 1818, Chickasaw): map 100, and 'These reservations were deeded to the U. S. by the owners, May 15, 1819', 'See 81'. Royce p. 683 scan numbers 81 under Sept. 20, 1816. Area 81 removed here; it stays on kappler-143.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/695/mode/2up"
+  },
+  "cession-1889-08-21-mississippi-chippewa-white-oak-band-pill": {
+    "scheduleTribes": [
+      "Pillager and Winnibigoshish bands"
+    ],
+    "why": "Royce p. 936: under the 1889 Chippewa agreements, item (6), 'Pillager and Winnibigoshish bands', cede the reserves set apart for them by the treaty of Feb. 22, 1855 and the addition of May 26, 1874, '(Signed Aug. 21, 1889.)'. The White Oak band signed separately on Sept. 6 (cession-1889-09-06). Both share area 710.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/936/mode/2up"
+  },
+  "cession-1889-09-06-mississippi-chippewa-white-oak-band-pill": {
+    "scheduleTribes": [
+      "White Oak band, Mississippi Chippewa"
+    ],
+    "why": "Royce p. 936: item (4), 'White Oak band, Mississippi Chippewa', cede their interest in the White Earth reservation not required for allotment and in the 1867 reserve, '(Signed Sept. 6, 1889.)'. The Pillager and Winnibigoshish bands signed on Aug. 21 (cession-1889-08-21). Both share area 710.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/936/mode/2up"
+  },
+  "kappler-573": {
+    "cessions": [
+      "267"
+    ],
+    "why": "Royce p. 780 to 781 page scan (Oct. 13, 1846, Winnebago): map 267, and for the reserve the treaty gave them 'The Winnebago ceded this tract by treaty of Feb. 27, 1855', 'See 361'. Area 361 removed; it stays on kappler-698, the 1855 treaty.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/781/mode/2up"
+  },
+  "kappler-964": {
+    "presentDayTribes": [
+      "Sisseton-Wahpeton Oyate of the Lake Traverse Reservation, South Dakota",
+      "Spirit Lake Tribe, North Dakota"
+    ],
+    "why": "Royce p. 842 (Feb. 19, 1867, Sioux, Sisseton and Wahpeton bands): the treaty sets apart two reservations, one at Lake Traverse and one 'at Devil's lake'. The Devils Lake reservation is today the Spirit Lake Tribe, added.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/842/mode/2up"
+  },
+  "cession-1864-07-08-chehalis-chinook-klatsop": {
+    "note": "Not a cession: this is the Chehalis Reservation itself (area 459), the reserve the Secretary of the Interior approved on July 8, 1864 'for Chehalis and other Indians'. The surrounding territory taken without a treaty is area 458 (cession-1864-07-08-chehalis-chinook-klatsop-klikitat).",
+    "why": "Note only; no field changed. Royce p. 832 to 833: 'Secretary of Interior approves selection of reserve made for Chehalis and other Indians by Superintendent of Indian Affairs', tribe 'Chehalis, Klatsop, and Chinook'. The tribe list was left: Royce names the Chinook too, and the research file did not establish who the other Indians were.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/832/mode/2up"
+  },
+  "cession-1857-06-30-confederated-bands-of-willamette-valley": {
+    "note": "Not a cession: this is the executive order that created the Grand Ronde Reservation (area 407), 'in accordance with treaty of Jan. 22, 1855'. The Willamette Valley itself was ceded by that treaty (kappler-673).",
+    "why": "Note only; no field changed. Royce p. 818 (June 30, 1857: 'President establishes reserve at Grande Ronde in accordance with treaty of Jan. 22, 1855, consisting of the following lands: Ts. 5 and 6 S., R. 8 W. ...') and p. 819, map 407.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/818/mode/2up"
+  },
+  "cession-1863-02-21-winnebago": {
+    "cessions": [
+      "439"
+    ],
+    "states": [
+      "MN"
+    ],
+    "why": "Royce p. 826 to 827 page scan: the Winnebago reserve in Dakota 'was established by Executive order of July 1, 1863, and ceded to U. S. by treaty of Mar. 8, 1865', 'See 468'; the Minnesota land sold under this Act is 439. Area 468 removed; it stays on cession-1863-07-01-winnebago and kappler-882.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/827/mode/2up"
+  },
+  "kappler-798": {
+    "statute": [],
+    "why": "The statute link (439c.pdf) is the Act of Feb. 21, 1863 for the sale of the Winnebago reserve in Minnesota, which has its own record (cession-1863-02-21-winnebago, Royce p. 826 to 827). This is the treaty of Apr. 15, 1859 (Royce p. 820), which has no statute of its own.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/820/mode/2up"
+  },
+  "cession-1891-03-03-gros-ventre-mandan": {
+    "note": "Area 712 is the cession. Area 713 is not ceded land: Royce calls it 'The reservation as diminished', the Fort Berthold land kept. It is left on this record because no other record carries it; count only 712 as ceded.",
+    "why": "Note only; no field changed. Royce p. 942 to 943 page scan: 'The portion ceded is No. 712 on Dakota map 3', 712; 'The reservation as diminished is mauve', 713.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/943/mode/2up"
+  },
+  "kappler-343": {
+    "cessions": [
+      "167",
+      "168",
+      "169",
+      "170"
+    ],
+    "states": [
+      "OH"
+    ],
+    "why": "Royce p. 734 to 735 page scan (Aug. 30, 1831, Ottawa): map 167, 168, 169, 170 (Ohio), and for the Kansas reserve the treaty assigned them 'See 435', ceded jointly by the treaty of June 24, 1862. Area 435 and Kansas removed; 435 stays on kappler-838.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/735/mode/2up"
+  },
+  "kappler-554": {
+    "cessions": [
+      "262"
+    ],
+    "states": [
+      "IA"
+    ],
+    "why": "Royce p. 778 to 779 page scan (Oct. 11, 1842, Sauk and Fox): map 262 (Iowa 1); the Kansas tract assigned to them is 'See 419, 494'. Areas 419 and 494 and Kansas removed; they stay on kappler-804 (1859) and kappler-959 (1867), which ceded them.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/779/mode/2up"
+  },
+  "kappler-619": {
+    "cessions": [
+      "315"
+    ],
+    "statute": [],
+    "why": "Royce p. 790 to 791 page scan (Mar. 16, 1854, Omaha): map 315 for the cession; the reserve the President assigned them is 'See 467, 570, 636, 637', each ceded or sold later and carried on its own record (kappler-880, cession-1874-06-22-omaha, cession-1882-08-07-omaha). Those areas, and the three statute links that belong to them (570r, 636c, 637c), removed.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/791/mode/2up"
+  },
+  "kappler-90": {
+    "cessions": [
+      "57"
+    ],
+    "why": "Royce p. 668 to 669 page scan (Oct. 25, 1805, Tellico, Cherokee): map 57. The reserves the treaty kept for the Cherokee are on p. 671 as 'See 105', 'See 107', 'See 108', 'See 109', each 'ceded to the U. S. by treaty of Feb. 27, 1819'. Those areas removed; they stay on kappler-185.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/669/mode/2up"
+  },
+  "kappler-179": {
+    "cessions": [
+      "99"
+    ],
+    "why": "Royce p. 692 to 693 page scan (Oct. 6, 1818, St. Mary's, Miami): map 99 (Ohio, Indiana). The reserves the treaty made are on p. 695 as 'See (1) 198, 251, 256, 258; (2) 196; See (3) 252, (4) 197 and 253, (5) 142, (6) 254', ceded by the treaties of 1828, 1834 and 1838. Those areas removed; each stays on the record that ceded it (kappler-294, kappler-433, kappler-527, kappler-539). The Indian Claims Commission's 1954 opinion also identifies the cession as area 99.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/693/mode/2up"
+  },
+  "kappler-103": {
+    "scheduleTribes": [
+      "Great and Little Osage"
+    ],
+    "why": "Royce p. 676 (Nov. 10, 1808, Fort Clark, Stat. L. VII, 107): tribe 'Great and Little Osage'. The label 'Great and Little Osage; Iowa; Sauk and Fox' is the USFS label of area 69, which Royce p. 677 marks 'For concurrent cessions of this same tract, see treaties with Sauk and Fox, Aug. 4, 1824, and with the Iowa of same date'; the Iowa and Sauk and Fox were not parties here.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/677/mode/2up"
+  },
+  "kappler-33": {
+    "presentDayTribes": [
+      "Muscogee (Creek) Nation, Oklahoma"
+    ],
+    "why": "presentDayTribes was empty. Royce p. 652 (Aug. 7, 1790, New York) lists this as a Creek cession (tribe 'Creek'). The Muscogee (Creek) Nation is the successor of the Creek Nation that ceded it. Other Creek communities (such as the Poarch Band) are left for Jordan to decide.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/652/mode/2up"
+  },
+  "kappler-66": {
+    "presentDayTribes": [
+      "Muscogee (Creek) Nation, Oklahoma"
+    ],
+    "why": "presentDayTribes was empty. Royce p. 660 (June 16, 1802, Fort Wilkinson) lists this as a Creek cession (tribe 'Creek'). The Muscogee (Creek) Nation is the successor of the Creek Nation that ceded it. Other Creek communities (such as the Poarch Band) are left for Jordan to decide.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/660/mode/2up"
+  },
+  "kappler-93": {
+    "presentDayTribes": [
+      "Muscogee (Creek) Nation, Oklahoma"
+    ],
+    "why": "presentDayTribes was empty. Royce p. 670 (Nov. 14, 1805, Washington) lists this as a Creek cession (tribe 'Creek'). The Muscogee (Creek) Nation is the successor of the Creek Nation that ceded it. Other Creek communities (such as the Poarch Band) are left for Jordan to decide.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/670/mode/2up"
+  },
+  "kappler-115": {
+    "presentDayTribes": [
+      "Muscogee (Creek) Nation, Oklahoma"
+    ],
+    "why": "presentDayTribes was empty. Royce p. 678 (Aug. 9, 1814, Fort Jackson) lists this as a Creek cession (tribe 'Creek'). The Muscogee (Creek) Nation is the successor of the Creek Nation that ceded it. Other Creek communities (such as the Poarch Band) are left for Jordan to decide.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/678/mode/2up"
+  },
+  "kappler-163": {
+    "presentDayTribes": [
+      "Muscogee (Creek) Nation, Oklahoma"
+    ],
+    "why": "presentDayTribes was empty. Royce p. 688 (Jan. 22, 1818, Creek agency) lists this as a Creek cession (tribe 'Creek'). The Muscogee (Creek) Nation is the successor of the Creek Nation that ceded it. Other Creek communities (such as the Poarch Band) are left for Jordan to decide.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/688/mode/2up"
+  },
+  "kappler-203": {
+    "presentDayTribes": [
+      "Muscogee (Creek) Nation, Oklahoma"
+    ],
+    "why": "presentDayTribes was empty. Royce p. 702 (Jan. 8, 1821, Indian Springs) lists this as a Creek cession (tribe 'Creek'). The Muscogee (Creek) Nation is the successor of the Creek Nation that ceded it. Other Creek communities (such as the Poarch Band) are left for Jordan to decide.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/702/mode/2up"
+  },
+  "kappler-75": {
+    "presentDayTribes": [
+      "Peoria Tribe of Indians of Oklahoma"
+    ],
+    "why": "Royce p. 664 (Aug. 13, 1803): tribe 'Kaskaskia'. The Kaskaskia are one of the confederated tribes of the Peoria Tribe of Indians of Oklahoma, which was the Indian Claims Commission claimant for them. The Miami Tribe of Oklahoma was not a party and is removed.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/664/mode/2up"
+  },
+  "kappler-663": {
+    "presentDayTribes": [
+      "Confederated Tribes of the Siletz Reservation, Oregon",
+      "Confederated Tribes of the Grand Ronde Community of Oregon"
+    ],
+    "why": "Royce p. 796 (Nov. 18, 1854): tribe 'Chasta, Scoton, and Grave Creek'. The Cow Creek Band of Umpqua made their own treaty of Sept. 19, 1853 (the 'Cow creek purchase' Royce refers to) and is removed. 'Confedered' corrected to 'Confederated'.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/796/mode/2up"
+  },
+  "kappler-665": {
+    "presentDayTribes": [
+      "Confederated Tribes of the Grand Ronde Community of Oregon"
+    ],
+    "why": "Royce p. 796 (Nov. 29, 1854, Calapooia creek): tribe 'Umpqua and Calapooia', whose cession is bounded by the 'Cow creek purchase'. The Cow Creek Band had its own 1853 treaty, and the Coos, Lower Umpqua and Siuslaw were coast peoples outside this cession; the round-9 audit records that the Court of Claims placed the treaty bands on the Grand Ronde Reservation. Both removed.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/796/mode/2up"
+  },
+  "kappler-959": {
+    "presentDayTribes": [
+      "Sac & Fox Tribe of the Mississippi in Iowa",
+      "Sac & Fox Nation, Oklahoma"
+    ],
+    "why": "Royce p. 842 (Feb. 18, 1867, Sauk and Fox of the Mississippi): they cede their Kansas reserve and accept a new one in Indian Territory, where those who moved became the Sac and Fox Nation, Oklahoma. The round-9 audit records it as a petitioner in Docket 219 and the sole recipient in Docket 220. Added.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/842/mode/2up"
+  },
+  "cession-1893-03-03-cherokee": {
+    "presentDayTribes": [
+      "Cherokee Nation, Oklahoma"
+    ],
+    "why": "Royce p. 946 (Mar. 3, 1893, Act of Congress, Stat. L. XXVII, 640, Cherokee): the Act ratifies the Cherokee Outlet agreement, area 489, land of the Cherokee Nation west of Arkansas, which was the party and the claimant. The Eastern Band of Cherokee Indians and the United Keetoowah Band are removed.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/946/mode/2up"
+  },
+  "cession-1788-09-03-christian-indians": {
+    "note": "No present-day nation is listed. Royce names only the 'Christian Indians', the Moravian Delaware converts for whom Congress reserved three tracts on the Muskingum river. Their main successor community, Moraviantown, is in Ontario, outside the United States, and no United States successor was confirmed from a source.",
+    "why": "Note only; no field changed. Royce p. 650 (Sept. 3, 1788, Ordinance of Congress, 'Christian Indians', tracts on the Muskingum river for Christian Indians).",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/650/mode/2up"
   }
 }
