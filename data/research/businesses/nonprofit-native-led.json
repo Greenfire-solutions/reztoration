@@ -1,0 +1,321 @@
+[
+ {
+  "id": "ndn-collective",
+  "name": "NDN Collective",
+  "category": "nonprofit",
+  "subcategory": "Indigenous-led funder and organiser",
+  "nation": "Indigenous-led, intertribal",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "NDN Collective: About",
+   "url": "https://ndncollective.org/about-ndn-fund/"
+  },
+  "description": "Indigenous-led organisation funding and organising for land back, housing, climate and Native-run businesses.",
+  "website": "https://ndncollective.org/",
+  "city": "Rapid City",
+  "state": "SD",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "NDN Collective: About",
+    "url": "https://ndncollective.org/about-ndn-fund/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -103.228,
+   44.0806
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "first-nations-development-institute",
+  "name": "First Nations Development Institute",
+  "category": "nonprofit",
+  "subcategory": "Native economic and food sovereignty grantmaker",
+  "nation": "Native-led, intertribal",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "First Nations Development Institute: About Us",
+   "url": "https://www.firstnations.org/about-us/"
+  },
+  "description": "Native-led grantmaker supporting tribal food systems, land stewardship, arts and economic justice.",
+  "website": "https://www.firstnations.org/",
+  "city": "Longmont",
+  "state": "CO",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "First Nations Development Institute: About Us",
+    "url": "https://www.firstnations.org/about-us/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -105.1019,
+   40.1672
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "thunder-valley-cdc",
+  "name": "Thunder Valley Community Development Corporation",
+  "category": "nonprofit",
+  "subcategory": "Lakota community development",
+  "nation": "Oglala Lakota",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Thunder Valley CDC",
+   "url": "https://thundervalley.org/"
+  },
+  "description": "Pine Ridge organisation working for Lakota liberation through housing, food sovereignty, language and youth programs.",
+  "website": "https://thundervalley.org/",
+  "city": "Porcupine",
+  "state": "SD",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Thunder Valley CDC",
+    "url": "https://thundervalley.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -102.3276,
+   43.2431
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "tewa-women-united",
+  "name": "Tewa Women United",
+  "category": "nonprofit",
+  "subcategory": "Indigenous women-led community organisation",
+  "nation": "Tewa Pueblo",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Tewa Women United",
+   "url": "https://tewawomenunited.org/"
+  },
+  "description": "Indigenous women-led group in the northern Rio Grande running doula care, seed and garden work, and safety programs.",
+  "website": "https://tewawomenunited.org/",
+  "city": "Espanola",
+  "state": "NM",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Tewa Women United",
+    "url": "https://tewawomenunited.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -106.0578,
+   36.0028
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "first-alaskans-institute",
+  "name": "First Alaskans Institute",
+  "category": "nonprofit",
+  "subcategory": "Alaska Native leadership development",
+  "nation": "Alaska Native",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "First Alaskans Institute",
+   "url": "https://www.firstalaskans.org/"
+  },
+  "description": "Alaska Native nonprofit running leadership programs and the Alaska Native Policy Center.",
+  "website": "https://www.firstalaskans.org/",
+  "city": "Anchorage",
+  "state": "AK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "First Alaskans Institute",
+    "url": "https://www.firstalaskans.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -149.8949,
+   61.2163
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "nacdi",
+  "name": "Native American Community Development Institute (NACDI)",
+  "category": "nonprofit",
+  "subcategory": "community development",
+  "nation": "Native-led, intertribal",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Native American Community Development Institute",
+   "url": "https://nacdi.org/"
+  },
+  "description": "Minneapolis organisation behind the American Indian Cultural Corridor on Franklin Avenue and Native arts and business programs.",
+  "website": "https://nacdi.org/",
+  "city": "Minneapolis",
+  "state": "MN",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Native American Community Development Institute",
+    "url": "https://nacdi.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -93.2655,
+   44.9773
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "seventh-generation-fund",
+  "name": "Seventh Generation Fund for Indigenous Peoples",
+  "category": "nonprofit",
+  "subcategory": "Indigenous grantmaker",
+  "nation": "Indigenous-led, intertribal",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Seventh Generation Fund for Indigenous Peoples",
+   "url": "https://7genfund.org/"
+  },
+  "description": "Indigenous grantmaking and advocacy fund supporting community-led projects across Native nations.",
+  "website": "https://7genfund.org/",
+  "city": "Arcata",
+  "state": "CA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Seventh Generation Fund for Indigenous Peoples",
+    "url": "https://7genfund.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -124.0828,
+   40.8665
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "honor-the-earth",
+  "name": "Honor the Earth",
+  "category": "nonprofit",
+  "subcategory": "Indigenous-led environmental organisation",
+  "nation": "Anishinaabe and intertribal",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Honor the Earth: Indigenous-led organization",
+   "url": "https://www.honorearth.org/"
+  },
+  "description": "Indigenous-led organisation working on land, water and energy justice from the White Earth reservation.",
+  "website": "https://www.honorearth.org/",
+  "city": "Callaway",
+  "state": "MN",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Honor the Earth: Indigenous-led organization",
+    "url": "https://www.honorearth.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -95.9098,
+   46.9825
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "indigenous-environmental-network",
+  "name": "Indigenous Environmental Network",
+  "category": "nonprofit",
+  "subcategory": "Indigenous environmental justice network",
+  "nation": "Indigenous-led, intertribal",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Indigenous Environmental Network",
+   "url": "https://www.ienearth.org/"
+  },
+  "description": "Network of Indigenous peoples working on environmental and climate justice.",
+  "website": "https://www.ienearth.org/",
+  "city": "Bemidji",
+  "state": "MN",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indigenous Environmental Network",
+    "url": "https://www.ienearth.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -94.8833,
+   47.4723
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "naya-family-center",
+  "name": "NAYA Family Center (Native American Youth and Family Center)",
+  "category": "nonprofit",
+  "subcategory": "Native family and youth services",
+  "nation": "Urban Native community",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "NAYA Family Center",
+   "url": "https://nayapdx.org/"
+  },
+  "description": "Portland center offering Native youth education, family services, housing help and cultural programs.",
+  "website": "https://nayapdx.org/",
+  "city": "Portland",
+  "state": "OR",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "NAYA Family Center",
+    "url": "https://nayapdx.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -122.6742,
+   45.5202
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "chief-seattle-club",
+  "name": "Chief Seattle Club",
+  "category": "nonprofit",
+  "subcategory": "Native-led housing and services",
+  "nation": "Urban Native community",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Chief Seattle Club: Native-led housing and human services",
+   "url": "https://www.chiefseattleclub.org/"
+  },
+  "description": "Native-led housing and human services agency for Seattle's urban Native community, with a cafe and art.",
+  "website": "https://www.chiefseattleclub.org/",
+  "city": "Seattle",
+  "state": "WA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chief Seattle Club: Native-led housing and human services",
+    "url": "https://www.chiefseattleclub.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -122.3301,
+   47.6038
+  ],
+  "lonlatPrecision": "town"
+ }
+]

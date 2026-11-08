@@ -1,0 +1,91 @@
+[
+ {
+  "id": "ho-chunk-inc",
+  "name": "Ho-Chunk, Inc.",
+  "category": "trades",
+  "subcategory": "construction, government contracting and diversified companies",
+  "nation": "Winnebago Tribe of Nebraska",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Ho-Chunk, Inc.: owned by the Winnebago Tribe of Nebraska",
+   "url": "https://www.hochunkinc.com/about"
+  },
+  "description": "Economic development company of the Winnebago Tribe that runs construction, federal contracting, housing and retail businesses and reinvests in the Winnebago Reservation.",
+  "website": "https://www.hochunkinc.com",
+  "city": "Winnebago",
+  "state": "NE",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Ho-Chunk, Inc. home page",
+    "url": "https://www.hochunkinc.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.4725,
+   42.2355
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "chickasaw-nation-industries",
+  "name": "Chickasaw Nation Industries",
+  "category": "technology",
+  "subcategory": "technology, health IT and federal services",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "CNI: a federally chartered corporation wholly owned by the Chickasaw Nation",
+   "url": "https://www.chickasaw.com/about"
+  },
+  "description": "Chickasaw Nation corporation whose family of companies provides technology, health IT, engineering and professional services to government and business.",
+  "website": "https://www.chickasaw.com",
+  "address": "2600 John Saxon Blvd",
+  "city": "Norman",
+  "state": "OK",
+  "zip": "73071",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Nation Industries home page",
+    "url": "https://www.chickasaw.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -97.3955,
+   35.1857
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "doyon-limited",
+  "name": "Doyon, Limited",
+  "category": "trades",
+  "subcategory": "oil field services, construction, utilities and IT",
+  "nation": "Alaska Native shareholders of Interior Alaska (Doyon region)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Doyon, Limited: the regional Alaska Native corporation for Interior Alaska, with more than 20,700 shareholders",
+   "url": "https://www.doyon.com/"
+  },
+  "description": "Alaska Native regional corporation for Interior Alaska whose companies work in drilling, construction, utilities, technology and tourism.",
+  "website": "https://www.doyon.com",
+  "city": "Fairbanks",
+  "state": "AK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Doyon home page",
+    "url": "https://www.doyon.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -147.7167,
+   64.8378
+  ],
+  "lonlatPrecision": "town"
+ }
+]

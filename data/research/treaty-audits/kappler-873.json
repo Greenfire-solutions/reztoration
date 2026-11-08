@@ -1,0 +1,25 @@
+{
+  "id": "kappler-873",
+  "auditedAt": "2026-11-07",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty dates and citation (signed 1864-10-14, ratified 1866-07-02, proclaimed 1870-02-17, 16 Stat. 707) against the OSU Kappler text, p. 865",
+    "Promises against Articles 1 to 5",
+    "United States v. Klamath and Moadoc Tribes, 304 U.S. 119 (Cornell): decided April 25, 1938; 87,000 acres conveyed August 22, 1906; quote exact; $108,750 under the Act of April 30, 1908; value with timber $2,980,000; judgment $5,313,347.32 as of June 7, 1937",
+    "ICC Docket 100-A opinion of May 14, 1969 (OSU id 1633): 621,824.28 acres omitted by the 1871 and 1888 surveys; $527,007.20 ($0.8636 an acre); value as of June 21, 1906 far in excess; no interest, no constitutional taking",
+    "ICC Docket 100-A final judgment, September 27, 1969 (OSU id 1694): $4,162,992.80, no appeal, no offsets",
+    "ICC Docket 100 (OSU id 670) $2,500,000 and Docket 100-C (OSU id 1171) $785,000 compromises, recorded only as compensation",
+    "Klamath Termination Act, 68 Stat. 718 (govinfo): Public Law 587, August 13, 1954; termination of supervision; sale of tribal property; section 14(b) saves treaty fishing rights",
+    "Klamath Tribes History page: over 23 million acres ceded in 1864; BIA report against termination; consistent opposition; about 1.8 million acres taken by condemnation; restoration 1986 without land"
+  ],
+  "changes": [
+    "Termination breach: source changed from the Tribes' page alone to the statute itself (68 Stat. 718), with the citation in whoFoundIt; 'what' reworded to the Act's terms, keeping the Tribes' account attributed and noting the fishing-rights saving clause",
+    "Docket 100-A breach: valuation date, no-interest holding and the September 27, 1969 final judgment added",
+    "Promise 3: payments split correctly between Article 2 ($8,000, $5,000, $3,000 over fifteen years) and Article 3 ($35,000 and its purposes)",
+    "openQuestions updated; statute added to sources; audit line added"
+  ],
+  "unverifiable": [
+    "Klamath Restoration Act of 1986 and the 1974 Kimball v. Callahan ruling not opened",
+    "Whether the Commission explicitly used the word unconscionable for Docket 100-A: the text read says the value was 'far in excess of the consideration paid' and awards the difference"
+  ]
+}

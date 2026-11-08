@@ -1,0 +1,92 @@
+{
+  "id": "cession-1880-07-13-arikara-gros-ventre-mandan",
+  "name": "Executive Order of July 13, 1880 (Fort Berthold Reservation boundaries)",
+  "aka": [
+    "Fort Berthold executive order of 1880"
+  ],
+  "signed": "1880-07-13",
+  "citation": "1 Kappler 883",
+  "textUrl": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2708",
+  "nations": [
+    "Numakaki (Mandan)",
+    "Hidatsa (Gros Ventre of the Missouri)",
+    "Sahnish (Arikara)"
+  ],
+  "promises": [
+    "This was an executive order, not a treaty; the nations did not sign it. It changed the reservation the three nations had kept from the 1851 Fort Laramie treaty, which recognised their territory south and west of the Missouri River between the Heart and Yellowstone rivers.",
+    "The order added a tract north-east of the Missouri to the reservation in exchange for Fort Laramie treaty lands south of the river (as the ICC described it in Docket 350-A)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "executive-action",
+      "date": "1880-07-13",
+      "what": "By executive order the President took from the Fort Berthold Reservation lands south of the Missouri that the nations held under the 1851 Fort Laramie treaty, giving land north-east of the river in exchange. The Indian Claims Commission records the exchange; the nations' claim for the difference in value went to trial.",
+      "whoFoundIt": "Executive Order of July 13, 1880, as described by the Indian Claims Commission in Docket 350-A (1968) and Docket 350-D (1976)",
+      "source": {
+        "title": "Three Affiliated Tribes v. United States, Docket 350-A, Opinion of the Commission (1968), 20 Ind. Cl. Comm. 37",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2708",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1976-03-17",
+      "what": "The nations' claim for the difference in value between the lands lost and the lands added by the 1870 and 1880 executive orders was tried on value and then settled by a $3,200,000 compromise judgment, without a finding.",
+      "whoFoundIt": "Indian Claims Commission, Docket 350-D, 37 Ind. Cl. Comm. 519 (1976)",
+      "source": {
+        "title": "Three Affiliated Tribes v. United States, Docket 350-D, Final Award (1976), 37 Ind. Cl. Comm. 519",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2341",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "what": "The MHA Nation says the 1851 Fort Laramie treaty recognised over 12 million acres as its homeland and that later treaties, executive orders and Acts of Congress reduced this to less than 3 million.",
+      "whoFoundIt": "MHA Nation (Three Affiliated Tribes), History page",
+      "source": {
+        "title": "History",
+        "url": "https://www.mhanation.com/history",
+        "publisher": "MHA Nation (Three Affiliated Tribes)"
+      }
+    }
+  ],
+  "compensation": "No payment at the time. Docket 350-D was compromised for $3,200,000 in 1976.",
+  "today": "The north-east tract added in 1880 was ceded in turn under the 1886 agreement ratified in 1891 (see cession-1891-03-03-gros-ventre-mandan).",
+  "nationVoice": [
+    {
+      "nation": "MHA Nation (Three Affiliated Tribes)",
+      "summary": "Counts the executive orders and federal acts after 1851 as the steps by which over 12 million recognised acres became less than 3 million.",
+      "url": "https://www.mhanation.com/history"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Three Affiliated Tribes v. United States, Docket 350-A, Opinion of the Commission (1968), 20 Ind. Cl. Comm. 37",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2708",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Three Affiliated Tribes v. United States, Dockets 350-C and 350-D, Findings of Fact on Compromise Settlement (1976), 37 Ind. Cl. Comm. 502",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2186",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Three Affiliated Tribes v. United States, Docket 350-D, Final Award (1976), 37 Ind. Cl. Comm. 519",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2341",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History",
+      "url": "https://www.mhanation.com/history",
+      "publisher": "MHA Nation (Three Affiliated Tribes)"
+    }
+  ],
+  "openQuestions": [
+    "The text of the 1880 order (1 Kappler 883) was not opened; textUrl points to the ICC opinion that describes it.",
+    "Whether the nations consented to the 1880 exchange was not found; the ICC opinions opened do not say. If they did, this would be contested rather than broken.",
+    "The acreage lost south of the river was not found in a source opened."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

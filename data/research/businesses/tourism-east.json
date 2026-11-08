@@ -1,0 +1,172 @@
+[
+ {
+  "id": "mashpee-wampanoag-museum",
+  "name": "Mashpee Wampanoag Museum",
+  "category": "tourism",
+  "subcategory": "tribal museum",
+  "nation": "Mashpee Wampanoag Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Mashpee Wampanoag Museum, managed by the Tribal Historic Preservation Office",
+   "url": "https://mashpeewampanoagtribe-nsn.gov/museum"
+  },
+  "description": "The tribe's museum on Cape Cod telling Wampanoag history; open Mondays, Wednesdays and Fridays from mid April to mid December.",
+  "website": "https://mashpeewampanoagtribe-nsn.gov/museum",
+  "address": "414 Main Street",
+  "city": "Mashpee",
+  "state": "MA",
+  "zip": "02649",
+  "sources": [
+   {
+    "title": "Mashpee Wampanoag Museum",
+    "url": "https://mashpeewampanoagtribe-nsn.gov/museum"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -70.488,
+   41.6508
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "tomaquag-museum",
+  "name": "Tomaquag Museum",
+  "category": "tourism",
+  "subcategory": "Indigenous museum, gift shop and education center",
+  "nation": "Narragansett",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Tomaquag Museum staff: Executive Director Loren M. Spears (Narragansett Niantic)",
+   "url": "https://www.tomaquagmuseum.org/bios"
+  },
+  "description": "Rhode Island's Indigenous museum, run by Narragansett staff, with exhibits, programs, an archive and a shop of Native-made goods.",
+  "website": "https://www.tomaquagmuseum.org/",
+  "shopOnline": "https://tomaquagmuseumstore.org/",
+  "address": "390 A Summit Road",
+  "city": "Exeter",
+  "state": "RI",
+  "zip": "02822",
+  "sources": [
+   {
+    "title": "Tomaquag Museum",
+    "url": "https://www.tomaquagmuseum.org/"
+   },
+   {
+    "title": "Tomaquag Museum bios",
+    "url": "https://www.tomaquagmuseum.org/bios"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -71.6984,
+   41.5572
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "nanticoke-indian-museum",
+  "name": "Nanticoke Indian Museum",
+  "category": "tourism",
+  "subcategory": "tribal museum",
+  "nation": "Nanticoke Indian Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Nanticoke Indian Museum, Nanticoke Indian Association",
+   "url": "https://www.nanticokeindians.org/locations/nanticoke-indian-museum/"
+  },
+  "description": "Museum of Nanticoke history and culture kept by the Nanticoke Indian Association near the Indian River, open Tuesday to Saturday most of the year.",
+  "website": "https://www.nanticokeindians.org/locations/nanticoke-indian-museum/",
+  "address": "26673 John J. Williams Highway",
+  "city": "Millsboro",
+  "state": "DE",
+  "zip": "19966",
+  "sources": [
+   {
+    "title": "Nanticoke Indian Museum",
+    "url": "https://www.nanticokeindians.org/locations/nanticoke-indian-museum/"
+   },
+   {
+    "title": "National Park Service: Nanticoke Indian Museum",
+    "url": "https://www.nps.gov/thingstodo/nanticoke-museum.htm"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -75.2913,
+   38.5915
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "highbanks-campground",
+  "name": "Highbanks Campground",
+  "category": "tourism",
+  "subcategory": "cabins, chalets and RV camping",
+  "nation": "Seneca Nation of Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Seneca Nation enterprises: Highbanks Campground",
+   "url": "https://sni.org/enterprises/"
+  },
+  "description": "Seneca Nation campground above the Allegheny Reservoir on the Allegany Territory, with cabins, chalets, tent and RV sites.",
+  "website": "https://camphighbanks.com/",
+  "city": "Steamburg",
+  "state": "NY",
+  "sources": [
+   {
+    "title": "Highbanks Campground",
+    "url": "https://camphighbanks.com/"
+   },
+   {
+    "title": "Seneca Nation enterprises",
+    "url": "https://sni.org/enterprises/"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -78.9042,
+   42.1081
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "tantaquidgeon-museum",
+  "name": "Tantaquidgeon Museum",
+  "category": "tourism",
+  "subcategory": "tribal museum, tours by Mohegan tribal members",
+  "nation": "Mohegan Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Mohegan Tribe: Explore, Tantaquidgeon Museum",
+   "url": "https://www.mohegan.nsn.us/explore"
+  },
+  "description": "Mohegan museum founded in 1931 by the Tantaquidgeon family, now run by the tribe, with free admission and tours given by Mohegan tribal members.",
+  "website": "https://www.mohegan.nsn.us/explore",
+  "address": "1819 Norwich-New London Turnpike",
+  "city": "Uncasville",
+  "state": "CT",
+  "zip": "06382",
+  "sources": [
+   {
+    "title": "Mohegan Tribe: Explore",
+    "url": "https://www.mohegan.nsn.us/explore"
+   },
+   {
+    "title": "Connecticut Explored: Tantaquidgeon Museum",
+    "url": "https://www.ctexplored.org/uncasville-tantaquidgeon-museum/"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -72.1002,
+   41.4745
+  ],
+  "lonlatPrecision": "address"
+ }
+]

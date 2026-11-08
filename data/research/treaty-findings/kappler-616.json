@@ -1,0 +1,92 @@
+{
+  "id": "kappler-616",
+  "name": "Treaty with the Oto and Missouri, 1854",
+  "aka": [
+    "Treaty of Washington (Otoe and Missouria, March 15, 1854)"
+  ],
+  "signed": "1854-03-15",
+  "ratified": "1854-04-17",
+  "proclaimed": "1854-06-21",
+  "citation": "10 Stat. 1038",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-oto-and-missouri-1854-0608",
+  "nations": [
+    "Jiwere-Nutachi (Otoe-Missouria)"
+  ],
+  "promises": [
+    "A reservation ten miles wide on the waters of the Big Blue River kept out of the cession; if it could not be located as described, a tract at least ten by twenty-five miles, with any part outside the ceded country also granted (Article 1).",
+    "Annuities of $20,000 a year for three years, $13,000 for ten, $9,000 for fifteen and $5,000 for twelve, the President choosing how much went in money and how much to schools, farming, stock and other needs (Article 4).",
+    "$20,000 to remove, subsist a year and break and fence 150 acres (Article 5), plus a grist and saw mill with a miller, a blacksmith shop with a smith, and a farmer, each for ten years (Article 7).",
+    "Annuities not to be taken for individuals' debts (Article 8)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1953-03-31",
+      "what": "The Indian Claims Commission found that the reservation promised in this treaty lay outside the ceded area, so the United States received a net 1,087,892.29 acres, worth $1.00 an acre at the cession, for $463,423.74. It said the payment may not strictly be unconscionable but was unquestionably unfair and resulted in an injustice to the tribe, and awarded $624,468.55 for this cession, the difference, as part of a total award of $1,179,058.40 less offsets.",
+      "whoFoundIt": "Indian Claims Commission, Otoe and Missouria Tribe of Indians v. United States, Docket 11, Findings of Fact 15-17 and Opinion of the Commission (March 31, 1953), 2 Ind. Cl. Comm. 335, 355",
+      "source": {
+        "title": "Otoe and Missouria Tribe v. United States, Docket 11, Findings of Fact (March 31, 1953)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/350",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "what": "The Otoe-Missouria Tribe says that on the Big Blue reservation the treaties were broken: food, medicine, livestock and basic essentials were not delivered as promised, and the government sold the reservation land to non-Indians piece by piece.",
+      "whoFoundIt": "Otoe-Missouria Tribe, history page on the Tribe's official website",
+      "source": {
+        "title": "History: Otoe and Missouria, Five Hundred Years of History",
+        "url": "https://www.omtribe.org/who-we-are/history/",
+        "publisher": "Otoe-Missouria Tribe"
+      },
+      "quote": "They suffered as treaties were broken and food, medicine, livestock and basic essentials were not delivered as promised."
+    }
+  ],
+  "landTaken": "The treaty ceded 1,250,000 acres west of the Missouri (acreage and boundaries stipulated); the reservation the United States supplied, 162,107.71 acres on the Big Blue in Kansas and Nebraska, lay outside the ceded tract, leaving a net 1,087,892.29 acres (Docket 11, findings 12 and 15).",
+  "compensation": "The Commission found the tribes received $463,423.74, about 42 cents an acre, and awarded $624,468.55 for it, within a combined award of $1,179,058.40 for this and the 1833 cession, less offsets, without interest (Opinion, March 31, 1953). It also recorded that Congress authorised the sale of 120,000 acres of the Big Blue reservation in 1876 (19 Stat. 209, as the OCR reads) and of the remainder in 1881 (21 Stat. 380).",
+  "today": "The claimant was the Otoe and Missouria Tribe of Indians, today the Otoe-Missouria Tribe of Indians in Oklahoma. The reservation sales are separate queue entries (cession-1876-08-15-missouri-oto, cession-1881-03-03-missouri-oto).",
+  "nationVoice": [
+    {
+      "nation": "Otoe-Missouria Tribe (Jiwere-Nut'achi)",
+      "summary": "The Tribe's own history says it was confined in 1855 to the Big Blue River reservation in southeast Nebraska, was barred from hunting buffalo, watched the government sell its land to non-Indians acre by acre, and suffered hunger and sickness until it was moved to Red Rock, Oklahoma, in 1881.",
+      "url": "https://www.omtribe.org/who-we-are/history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Oto and Missouri, 1854 (Kappler, vol. 2, p. 608)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-oto-and-missouri-1854-0608",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Otoe and Missouria Tribe v. United States, Docket 11, Findings of Fact (March 31, 1953)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/350",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Otoe and Missouria Tribe v. United States, Docket 11, Opinion of the Commission (March 31, 1953)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/0",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Otoe and Missouria Tribe v. United States, Docket 11, separate Opinion questioning the 1854 award (March 31, 1953)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/239",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History: Otoe and Missouria, Five Hundred Years of History",
+      "url": "https://www.omtribe.org/who-we-are/history/",
+      "publisher": "Otoe-Missouria Tribe"
+    }
+  ],
+  "openQuestions": [
+    "One commissioner dissented on how the 1854 award was computed (pointer 239). The Court of Claims reviewed the docket (Otoe and Missouria Tribe v. United States, 131 Ct. Cl. 593, 1955, as commonly cited); that decision and the final net award after offsets were not opened.",
+    "The Commission's opinion (OSU id 0) states the award for this cession, $624,468.55, directly; one commissioner (OSU id 239) concurred in the $554,589.85 award for 1833 but dissented from this one.",
+    "The Commission's finding 18 cites the 1876 act as 19 Stat. 209 in the OCR text, while its December 11, 1953 offsets opinion (OSU id 312) cites 19 Stat. 208; the statute itself was not opened.",
+    "The Otoe-Missouria Tribe's own account of this treaty was not looked for in this pass.",
+    "Audit 2026-11-07: the per-cession award of $624,468.55 is stated in the Commission's opinion, not only derived; the arithmetic note was replaced and the figure added to the breach and compensation. Finding 17 confirmed: the Commission said the price might not strictly be unconscionable but was unquestionably unfair; the award was made on that basis, so the kind stays claims-commission. 1876 act citation conflict (19 Stat. 209 vs 208) noted."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

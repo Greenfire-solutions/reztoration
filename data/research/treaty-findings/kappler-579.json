@@ -1,0 +1,73 @@
+{
+  "id": "kappler-579",
+  "name": "Treaty with the Pawnee, 1848 (Grand, Loups, Republicans, etc.)",
+  "aka": [
+    "Treaty of Fort Childs (1848)",
+    "Grand Island cession"
+  ],
+  "signed": "1848-08-06",
+  "ratified": "1849-01-08",
+  "citation": "9 Stat. 949",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-pawnee-grand-loups-republicans-etc-1848-0571",
+  "nations": [
+    "Chaui (Grand Pawnee)",
+    "Kitkehahki (Republican Pawnee)",
+    "Pitahauerat (Tappage Pawnee)",
+    "Skidi (Loup or Wolf Pawnee)"
+  ],
+  "promises": [
+    "In return for a strip on the south side of the Platte River from five miles west of Fort Childs to the end of Grand Island, about sixty miles, the United States paid $2,000 in goods and merchandise on the day of signing (Articles 1 and 2).",
+    "The United States also took the privilege of cutting hard timber on Wood River, north of the ceded strip (Article 3)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1960-06-14",
+      "what": "The Indian Claims Commission found the Pawnee held original Indian title to the 110,419 acres ceded by this treaty, valued them at $99,380 as of August 6, 1848, held that the $2,000 in goods paid for them was an unconscionable consideration, and awarded $97,380 (Claim III), carried into the final award of July 6, 1962.",
+      "whoFoundIt": "Indian Claims Commission, Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Additional Findings of Fact 107-108 and Third Interlocutory Order (June 14, 1960), 8 Ind. Cl. Comm. 648, 758; Amended Conclusions of Law and Final Award (July 6, 1962)",
+      "source": {
+        "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Additional Findings of Fact (June 14, 1960)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/404",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "110,419 acres south of the Platte River, which the Commission found the Pawnee held by original Indian title (Docket 10, Interlocutory Order, June 17, 1957), worth $99,380 or about ninety cents an acre in 1848.",
+  "compensation": "$2,000 in goods paid at signing. The Commission awarded $97,380 for this cession (Third Interlocutory Order, June 14, 1960), part of the Pawnee final award of $7,315,985.70 (July 6, 1962).",
+  "today": "The claimant was the Pawnee Indian Tribe of Oklahoma, consisting of the four confederated bands. The other Pawnee cessions in the same docket are kappler-424 (1833) and kappler-772 (1857).",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Pawnee - Grand, Loups, Republicans, etc., 1848 (Kappler, vol. 2, p. 571)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-pawnee-grand-loups-republicans-etc-1848-0571",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Interlocutory Order (June 17, 1957)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/24",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Additional Findings of Fact (June 14, 1960)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/404",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Third Interlocutory Order (June 14, 1960)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/514",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Amended Conclusions of Law and Final Award (July 6, 1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/293",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The OCR of finding 107 reads the value once as $39,380 and once as $99,380; $99,380 is consistent with the $97,380 award (value less the $2,000 paid) and with the ninety cents an acre the finding states.",
+    "The Pawnee Nation's website was locked to automated readers in this pass, so its own account is not linked yet."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

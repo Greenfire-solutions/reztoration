@@ -1,0 +1,37 @@
+[
+ {
+  "id": "perdido-river-meats",
+  "name": "Perdido River Meats",
+  "category": "food",
+  "subcategory": "beef from the tribe's own farm, butcher shop and processing",
+  "nation": "Poarch Band of Creek Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Natural Resources: Perdido River Farms, the agricultural arm of the Poarch Creek Indians",
+   "url": "https://pci-nsn.gov/enterprises/natural-resources/"
+  },
+  "description": "Retail meat shop selling beef raised on the tribe's Perdido River Farms herd and processed in Atmore, plus custom processing and wholesale for restaurants.",
+  "website": "https://perdidorivermeats.com/",
+  "address": "490 Atmosphere Road",
+  "city": "Atmore",
+  "state": "AL",
+  "zip": "36502",
+  "sources": [
+   {
+    "title": "Perdido River Meats",
+    "url": "https://perdidorivermeats.com/"
+   },
+   {
+    "title": "Poarch Creek Indians natural resources",
+    "url": "https://pci-nsn.gov/enterprises/natural-resources/"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -87.4939,
+   31.0238
+  ],
+  "lonlatPrecision": "town"
+ }
+]

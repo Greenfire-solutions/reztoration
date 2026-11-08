@@ -1,0 +1,22 @@
+{
+  "id": "kappler-410",
+  "auditedAt": "2026-11-07",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty date, citation and proclamation (1833-09-26, 7 Stat. 431, proclaimed 1835-02-21) against the OSU Kappler text, p. 402, including the Senate's conditional resolutions (May 22, 1834) and the chiefs' alteration of October 1, 1834",
+    "Promises against Articles 2 and 3 (five million acres from the mouth of Boyer's River, removal at US expense with a year's subsistence, three years north of the Illinois line, $280,000 at $14,000 for 20 years, $150,000, $70,000, $100,000 goods, $100,000 reservations and Chippewa indemnity, $150,000 claims under Schedule B examined by a commissioner)",
+    "ICC Dockets 15-C, 29-A, 71 interlocutory order of May 26, 1976 (OSU id 1764): acreages, $6,600,000, $1,500,000, $860,800, $2,360,800, unconscionable, $4,239,200",
+    "ICC opinion parts 1 and 2 (OSU ids 2371, 1272): Royce areas 187, part of 160, 188, 189, 190; $516,606.65 food and provisions question not decided; quote exact",
+    "ICC final award of June 23, 1976 (OSU id 2220): $4,239,200 on behalf of the Potawatomi Tribe or Nation",
+    "Citizen Potawatomi Nation, Platte Purchase entry: residence 1833-1837, pressure from agents and settlers, eviction by presidential proclamation of March 28, 1837, pressure at Council Bluffs"
+  ],
+  "changes": [
+    "Promise 1: added that the Senate had the Article 2 boundaries altered by the chiefs' agreement of October 1, 1834",
+    "Promise 3: the $100,000 also indemnified the Chippewa for Lake Michigan lands ceded by the Menominee",
+    "openQuestions: audit line added"
+  ],
+  "unverifiable": [
+    "Forest County Potawatomi treaty page not re-opened",
+    "Supplementary articles (7 Stat. 442) not separately checked beyond the Kappler page"
+  ]
+}

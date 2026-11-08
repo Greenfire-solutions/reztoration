@@ -1,0 +1,1706 @@
+[
+ {
+  "id": "black-bear-stephen-laboueff",
+  "name": "Black Bear (Stephen LaBoueff)",
+  "category": "arts",
+  "subcategory": "pottery",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Black Bear (Stephen LaBoueff)",
+   "url": "https://www.doi.gov/iacb/artisans/black-bear"
+  },
+  "description": "Pottery made with traditional materials and firing methods.",
+  "city": "Morehead",
+  "state": "KY",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Black Bear (Stephen LaBoueff)",
+    "url": "https://www.doi.gov/iacb/artisans/black-bear"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -83.4327,
+   38.184
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "ryan-derby-badger",
+  "name": "Ryan Derby \"Badger\"",
+  "category": "arts",
+  "subcategory": "paintings, leatherwork and wood carving",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Ryan Derby \"Badger\"",
+   "url": "https://www.doi.gov/iacb/artisans/ryan-derby-badger"
+  },
+  "description": "Paintings, leatherwork and carved wood pieces.",
+  "city": "Milford",
+  "state": "NH",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Ryan Derby \"Badger\"",
+    "url": "https://www.doi.gov/iacb/artisans/ryan-derby-badger"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -71.6495,
+   42.8356
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "salem-swamp-beverly-conrad",
+  "name": "Salem Swamp (Beverly Conrad)",
+  "category": "arts",
+  "subcategory": "Mohawk beadwork, basketry and cultural presentations",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Salem Swamp (Beverly Conrad)",
+   "url": "https://www.doi.gov/iacb/artisans/salem-swamp"
+  },
+  "description": "Mohawk beadwork, husk faces and baskets, with talks on traditional arts and hide tanning.",
+  "city": "Selinsgrove",
+  "state": "PA",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Salem Swamp (Beverly Conrad)",
+    "url": "https://www.doi.gov/iacb/artisans/salem-swamp"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -76.8619,
+   40.7994
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "patricia-patrick-gardner-traditional-arts",
+  "name": "Patricia Patrick Gardner Traditional Arts",
+  "category": "arts",
+  "subcategory": "beadwork, regalia, bags and moccasins",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Patricia Patrick Gardner Traditional Arts",
+   "url": "https://www.doi.gov/iacb/artisans/patricia-patrick-gardner-traditional-arts"
+  },
+  "description": "Beadwork, regalia, bags, moccasins and other traditional arts.",
+  "city": "Picture Rocks",
+  "state": "PA",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Patricia Patrick Gardner Traditional Arts",
+    "url": "https://www.doi.gov/iacb/artisans/patricia-patrick-gardner-traditional-arts"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -76.713,
+   41.2798
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "charging-eagle-development-corporation",
+  "name": "Charging Eagle Development Corporation",
+  "category": "arts",
+  "subcategory": "regalia, quillwork, carvings and beadwork",
+  "nation": "Oglala Sioux Tribe",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Charging Eagle Development Corporation",
+   "url": "https://www.doi.gov/iacb/artisans/Charging-Eagle-Development-Corporation"
+  },
+  "description": "Regalia, quillwork, quilts, ribbon skirts, carvings and beadwork by an Oglala Lakota artist; commissions taken.",
+  "city": "Fayetteville",
+  "state": "NC",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Charging Eagle Development Corporation",
+    "url": "https://www.doi.gov/iacb/artisans/Charging-Eagle-Development-Corporation"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -78.8783,
+   35.0526
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "authentic-native-american-artists-joe-candillo",
+  "name": "Authentic Native American Artists (Joe Candillo)",
+  "category": "arts",
+  "subcategory": "Southeastern Woodland material culture",
+  "nation": "Pascua Yaqui Tribe",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Authentic Native American Artists (Joe Candillo)",
+   "url": "https://www.doi.gov/iacb/artisans/authentic-native-american-artists"
+  },
+  "description": "Reproductions of Southeastern Woodland tools, bags, pipes, moccasins and other historic objects, made by a Pascua Yaqui artist.",
+  "city": "Jefferson",
+  "state": "NC",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Authentic Native American Artists (Joe Candillo)",
+    "url": "https://www.doi.gov/iacb/artisans/authentic-native-american-artists"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -81.4734,
+   36.4204
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "jam-gourd-bowls",
+  "name": "JAM Gourd Bowls",
+  "category": "arts",
+  "subcategory": "beaded gourds and beadwork",
+  "nation": "Eastern Band of Cherokee Indians",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: JAM Gourd Bowls",
+   "url": "https://www.doi.gov/iacb/artisans/jam-gourd-bowls"
+  },
+  "description": "Beaded gourds, barrettes, necklaces and earrings by an Eastern Cherokee couple.",
+  "city": "Cherokee",
+  "state": "NC",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: JAM Gourd Bowls",
+    "url": "https://www.doi.gov/iacb/artisans/jam-gourd-bowls"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -83.319,
+   35.4766
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "standingdeer-trade-co",
+  "name": "Standingdeer Trade Co.",
+  "category": "arts",
+  "subcategory": "Cherokee baskets, beadwork, pottery and apparel",
+  "nation": "Eastern Band of Cherokee Indians",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Standingdeer Trade Co.",
+   "url": "https://www.doi.gov/iacb/artisans/standingdeer-trade-co"
+  },
+  "description": "Cherokee baskets, beadwork and pottery, plus its own shirts and embroidered goods.",
+  "city": "Cherokee",
+  "state": "NC",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Standingdeer Trade Co.",
+    "url": "https://www.doi.gov/iacb/artisans/standingdeer-trade-co"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -83.319,
+   35.4766
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "unique-gift-outlet",
+  "name": "Unique Gift Outlet",
+  "category": "retail",
+  "subcategory": "Native-made baskets, pottery, jewelry and beadwork",
+  "nation": "Eastern Band of Cherokee Indians",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Unique Gift Outlet",
+   "url": "https://www.doi.gov/iacb/artisans/unique-gift-outlet"
+  },
+  "description": "A shop selling Native-made baskets, pottery, pipes, jewelry and beadwork.",
+  "city": "Cherokee",
+  "state": "NC",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Unique Gift Outlet",
+    "url": "https://www.doi.gov/iacb/artisans/unique-gift-outlet"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -83.319,
+   35.4766
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "adamstown-gourds-such",
+  "name": "Adamstown Gourds & Such",
+  "category": "arts",
+  "subcategory": "gourd art",
+  "nation": "Upper Mattaponi Indian Tribe",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Adamstown Gourds & Such",
+   "url": "https://www.doi.gov/iacb/artisans/adamstown-gourds-such-llc"
+  },
+  "description": "Carved, burned and painted gourd art by an Upper Mattaponi artist.",
+  "city": "Glen Allen",
+  "state": "VA",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Adamstown Gourds & Such",
+    "url": "https://www.doi.gov/iacb/artisans/adamstown-gourds-such-llc"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -77.5064,
+   37.666
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "musbtans-designs",
+  "name": "Musbtan's Designs",
+  "category": "arts",
+  "subcategory": "beadwork, moccasins and regalia",
+  "nation": "Chickahominy Indian Tribe",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Musbtan's Designs",
+   "url": "https://www.doi.gov/iacb/artisans/musbtans-designs"
+  },
+  "description": "Beaded jewelry, custom leatherwork, moccasins and regalia by a Chickahominy artist.",
+  "city": "Providence Forge",
+  "state": "VA",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Musbtan's Designs",
+    "url": "https://www.doi.gov/iacb/artisans/musbtans-designs"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -77.044,
+   37.4424
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "gourds4all",
+  "name": "Gourds4All",
+  "category": "arts",
+  "subcategory": "painted gourds and netting",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Gourds4All",
+   "url": "https://www.doi.gov/iacb/artisans/gourds4all"
+  },
+  "description": "Painted and carved gourds, knotless netting, birdhouses and necklaces.",
+  "city": "Disputanta",
+  "state": "VA",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Gourds4All",
+    "url": "https://www.doi.gov/iacb/artisans/gourds4all"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -77.2258,
+   37.1243
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "one-hawk-art",
+  "name": "One Hawk Art",
+  "category": "arts",
+  "subcategory": "drums, knapped blades, pipes and jewelry",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: One Hawk Art",
+   "url": "https://www.doi.gov/iacb/artisans/one-hawk-art"
+  },
+  "description": "Hand drums, flint-knapped blades and arrowheads, pipes and jewelry.",
+  "city": "Portsmouth",
+  "state": "VA",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: One Hawk Art",
+    "url": "https://www.doi.gov/iacb/artisans/one-hawk-art"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -76.2977,
+   36.832
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "regal-artist",
+  "name": "Regal Artist",
+  "category": "arts",
+  "subcategory": "contemporary painting",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Regal Artist",
+   "url": "https://www.doi.gov/iacb/artisans/regal-artist-llc"
+  },
+  "description": "Abstract and portrait paintings in a pastel and oil technique the artist developed.",
+  "city": "Arlington",
+  "state": "VA",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Regal Artist",
+    "url": "https://www.doi.gov/iacb/artisans/regal-artist-llc"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -77.0842,
+   38.8904
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "terrill-hooper-obrien",
+  "name": "Terrill Hooper O'Brien",
+  "category": "arts",
+  "subcategory": "beaded amulet bags",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Terrill Hooper O'Brien",
+   "url": "https://www.doi.gov/iacb/artisans/terrill-hooper-obrien"
+  },
+  "description": "Beaded amulet bag necklaces; special orders taken.",
+  "city": "Annandale",
+  "state": "VA",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Terrill Hooper O'Brien",
+    "url": "https://www.doi.gov/iacb/artisans/terrill-hooper-obrien"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -77.1965,
+   38.8303
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "we-think-dreams",
+  "name": "We Think Dreams",
+  "category": "arts",
+  "subcategory": "beadwork and moccasins",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: We Think Dreams",
+   "url": "https://www.doi.gov/iacb/artisans/we-think-dreams-llc"
+  },
+  "description": "Beaded hair clips and jewelry, moccasins and leather bags.",
+  "city": "Aldie",
+  "state": "VA",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: We Think Dreams",
+    "url": "https://www.doi.gov/iacb/artisans/we-think-dreams-llc"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -77.6429,
+   38.9759
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "blue-heron-clay",
+  "name": "Blue Heron Clay",
+  "category": "arts",
+  "subcategory": "Catawba pottery collective",
+  "nation": "Catawba Indian Nation",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Blue Heron Clay",
+   "url": "https://www.doi.gov/iacb/artisans/blue-heron-clay"
+  },
+  "description": "A collective of Catawba potters working with traditional hand-building and firing.",
+  "website": "https://blueheronclay.com/",
+  "city": "Rock Hill",
+  "state": "SC",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Blue Heron Clay",
+    "url": "https://www.doi.gov/iacb/artisans/blue-heron-clay"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -81.0251,
+   34.9249
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "catawba-indian-traditions-pottery-and-beadwork",
+  "name": "Catawba Indian Traditions, Pottery and Beadwork",
+  "category": "arts",
+  "subcategory": "Catawba pottery, loom beading and workshops",
+  "nation": "Catawba Indian Nation",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Catawba Indian Traditions, Pottery and Beadwork",
+   "url": "https://www.doi.gov/iacb/artisans/catawba-indian-traditions-pottery-and-beadwork"
+  },
+  "description": "Traditional Catawba pottery and loom beadwork, with workshops on Catawba traditions.",
+  "city": "Rock Hill",
+  "state": "SC",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Catawba Indian Traditions, Pottery and Beadwork",
+    "url": "https://www.doi.gov/iacb/artisans/catawba-indian-traditions-pottery-and-beadwork"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -81.0251,
+   34.9249
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "catawba-pottery-by-cindy-allen",
+  "name": "Catawba Pottery by Cindy Allen",
+  "category": "arts",
+  "subcategory": "Catawba pottery",
+  "nation": "Catawba Indian Nation",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Catawba Pottery by Cindy Allen",
+   "url": "https://www.doi.gov/iacb/artisans/catawba-pottery-cindy-allen"
+  },
+  "description": "Hand-built Catawba pottery in the 19th century style, fired the traditional way.",
+  "city": "Rock Hill",
+  "state": "SC",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Catawba Pottery by Cindy Allen",
+    "url": "https://www.doi.gov/iacb/artisans/catawba-pottery-cindy-allen"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -81.0251,
+   34.9249
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "creations-from-the-good-earth",
+  "name": "Creations from the Good Earth",
+  "category": "arts",
+  "subcategory": "Catawba ceremonial pottery",
+  "nation": "Catawba Indian Nation",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Creations from the Good Earth",
+   "url": "https://www.doi.gov/iacb/artisans/creations-good-earth"
+  },
+  "description": "Catawba pottery with old Catawba designs, hand-built and fired outdoors.",
+  "city": "Rock Hill",
+  "state": "SC",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Creations from the Good Earth",
+    "url": "https://www.doi.gov/iacb/artisans/creations-good-earth"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -81.0251,
+   34.9249
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "eaglestar-pottery-and-authentics",
+  "name": "Eaglestar Pottery and Authentics",
+  "category": "arts",
+  "subcategory": "Catawba pottery, pipes and regalia",
+  "nation": "Catawba Indian Nation",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Eaglestar Pottery and Authentics",
+   "url": "https://www.doi.gov/iacb/artisans/eaglestar-pottery-and-authentics"
+  },
+  "description": "Catawba pottery, pipes and regalia, plus demonstrations and school programs.",
+  "city": "Rock Hill",
+  "state": "SC",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Eaglestar Pottery and Authentics",
+    "url": "https://www.doi.gov/iacb/artisans/eaglestar-pottery-and-authentics"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -81.0251,
+   34.9249
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "robbins-family-pottery",
+  "name": "Robbins Family Pottery",
+  "category": "arts",
+  "subcategory": "Catawba pottery",
+  "nation": "Catawba Indian Nation",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Robbins Family Pottery",
+   "url": "https://www.doi.gov/iacb/artisans/robbins-family-pottery"
+  },
+  "description": "A family of Catawba potters making wedding vases, effigy pots, pipes and bowls.",
+  "city": "Rock Hill",
+  "state": "SC",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Robbins Family Pottery",
+    "url": "https://www.doi.gov/iacb/artisans/robbins-family-pottery"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -81.0251,
+   34.9249
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "eagle-feather-designs",
+  "name": "Eagle Feather Designs",
+  "category": "arts",
+  "subcategory": "arts, jewelry and housewares",
+  "nation": "Rosebud Sioux Tribe",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Eagle Feather Designs",
+   "url": "https://www.doi.gov/iacb/artisans/eagle-feather-designs"
+  },
+  "description": "Native-made arts, crafts, jewelry and housewares from a Sicangu Lakota artist.",
+  "city": "Salley",
+  "state": "SC",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Eagle Feather Designs",
+    "url": "https://www.doi.gov/iacb/artisans/eagle-feather-designs"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -81.3034,
+   33.5657
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "elk-eagle-originals",
+  "name": "Elk Eagle Originals",
+  "category": "arts",
+  "subcategory": "bead and feather jewelry, pottery and fans",
+  "nation": "Rosebud Sioux Tribe",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Elk Eagle Originals",
+   "url": "https://www.doi.gov/iacb/artisans/elk-eagle-originals"
+  },
+  "description": "Bead and feather jewelry, pottery, feather fans and wall pieces.",
+  "city": "Aiken",
+  "state": "SC",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Elk Eagle Originals",
+    "url": "https://www.doi.gov/iacb/artisans/elk-eagle-originals"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -81.7225,
+   33.5616
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "lifeway-navajo-fiber-arts-and-weaving",
+  "name": "Lifeway Navajo Fiber Arts and Weaving",
+  "category": "arts",
+  "subcategory": "weaving and fiber arts",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Lifeway Navajo Fiber Arts and Weaving",
+   "url": "https://www.doi.gov/iacb/artisans/lifeway-navajo-fiber-arts-and-weaving"
+  },
+  "description": "Woven tapestries, bags, shawls and blankets made on Navajo and other looms.",
+  "city": "Myrtle Beach",
+  "state": "SC",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Lifeway Navajo Fiber Arts and Weaving",
+    "url": "https://www.doi.gov/iacb/artisans/lifeway-navajo-fiber-arts-and-weaving"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -78.89,
+   33.6956
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "indian-sun-kasanoukwas",
+  "name": "Indian Sun (Kasanoukwas)",
+  "category": "arts",
+  "subcategory": "weavings",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Indian Sun (Kasanoukwas)",
+   "url": "https://www.doi.gov/iacb/artisans/indian-sun-inc"
+  },
+  "description": "Buffalo rib weavings and made-to-order wall weavings on natural frames.",
+  "city": "Sarasota",
+  "state": "FL",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Indian Sun (Kasanoukwas)",
+    "url": "https://www.doi.gov/iacb/artisans/indian-sun-inc"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -82.5309,
+   27.3366
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "nashoba-indigenous-crafts",
+  "name": "Nashoba Indigenous Crafts",
+  "category": "arts",
+  "subcategory": "jewelry, bags and beadwork",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Nashoba Indigenous Crafts",
+   "url": "https://www.doi.gov/iacb/artisans/nashoba-indigenous-crafts"
+  },
+  "description": "Jewelry, custom bags and beadwork, sold by mail order.",
+  "city": "Orlando",
+  "state": "FL",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Nashoba Indigenous Crafts",
+    "url": "https://www.doi.gov/iacb/artisans/nashoba-indigenous-crafts"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -81.379,
+   28.5421
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "nizhoni-keyah",
+  "name": "Nizhoni Keyah",
+  "category": "arts",
+  "subcategory": "silver, bone and stone jewelry",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Nizhoni Keyah",
+   "url": "https://www.doi.gov/iacb/artisans/nizhoni-keyah-inc"
+  },
+  "description": "Designer jewelry in silver, bone and natural stone.",
+  "city": "Orlando",
+  "state": "FL",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Nizhoni Keyah",
+    "url": "https://www.doi.gov/iacb/artisans/nizhoni-keyah-inc"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -81.379,
+   28.5421
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "southern-turtle",
+  "name": "Southern Turtle",
+  "category": "arts",
+  "subcategory": "beadwork, regalia and portraits",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Southern Turtle",
+   "url": "https://www.doi.gov/iacb/artisans/southern-turtle"
+  },
+  "description": "Beadwork and jewelry, sewn regalia and pencil portraits.",
+  "city": "Panama City Beach",
+  "state": "FL",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Southern Turtle",
+    "url": "https://www.doi.gov/iacb/artisans/southern-turtle"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -85.8054,
+   30.1766
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "melanies-fine-native-american-beadwork",
+  "name": "Melanie's Fine Native American Beadwork",
+  "category": "arts",
+  "subcategory": "beadwork",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Melanie's Fine Native American Beadwork",
+   "url": "https://www.doi.gov/iacb/artisans/melanies-fine-native-american-beadwork"
+  },
+  "description": "Beaded jewelry, cuffs, hair pieces, sashes and beaded guitar straps.",
+  "city": "Antioch",
+  "state": "TN",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Melanie's Fine Native American Beadwork",
+    "url": "https://www.doi.gov/iacb/artisans/melanies-fine-native-american-beadwork"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -86.6722,
+   36.0601
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "grammy-mos",
+  "name": "Grammy Mo's",
+  "category": "arts",
+  "subcategory": "baskets",
+  "nation": "Mohegan Tribe",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Grammy Mo's",
+   "url": "https://www.doi.gov/iacb/artisans/grammy-mos-inc"
+  },
+  "description": "Hand-made baskets with custom markings, from a Mohegan maker.",
+  "city": "Gulfport",
+  "state": "MS",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Grammy Mo's",
+    "url": "https://www.doi.gov/iacb/artisans/grammy-mos-inc"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -89.0928,
+   30.3674
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "kendra-abel",
+  "name": "Kendra Abel",
+  "category": "arts",
+  "subcategory": "paintings, drawings and beadwork",
+  "nation": "Choctaw Nation of Oklahoma",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Kendra Abel",
+   "url": "https://www.doi.gov/iacb/artisans/kendra-abel"
+  },
+  "description": "Acrylic and watercolor paintings, drawings and beaded jewelry by a Choctaw artist.",
+  "city": "Fort Smith",
+  "state": "AR",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Kendra Abel",
+    "url": "https://www.doi.gov/iacb/artisans/kendra-abel"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -94.4265,
+   35.388
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "pam-outdusis-cunningham",
+  "name": "Pam Outdusis Cunningham",
+  "category": "arts",
+  "subcategory": "brown ash and sweetgrass baskets",
+  "nation": "Penobscot Nation",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Pam Outdusis Cunningham",
+   "url": "https://www.doi.gov/iacb/artisans/pam-outdusis-cunningham"
+  },
+  "description": "Penobscot brown ash and sweetgrass fancy baskets.",
+  "city": "Hampden",
+  "state": "ME",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Pam Outdusis Cunningham",
+    "url": "https://www.doi.gov/iacb/artisans/pam-outdusis-cunningham"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -68.837,
+   44.7445
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "berta-giles-welch",
+  "name": "Berta Giles Welch",
+  "category": "arts",
+  "subcategory": "wampum jewelry",
+  "nation": "Wampanoag Tribe of Gay Head (Aquinnah)",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Berta Giles Welch",
+   "url": "https://www.doi.gov/iacb/artisans/berta-giles-welch"
+  },
+  "description": "Hand-made wampum earrings, necklaces and bracelets.",
+  "city": "Aquinnah",
+  "state": "MA",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Berta Giles Welch",
+    "url": "https://www.doi.gov/iacb/artisans/berta-giles-welch"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -70.8137,
+   41.3431
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "vernon-giles-welch",
+  "name": "Vernon Giles Welch",
+  "category": "arts",
+  "subcategory": "wampum jewelry",
+  "nation": "Wampanoag Tribe of Gay Head (Aquinnah)",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Vernon Giles Welch",
+   "url": "https://www.doi.gov/iacb/artisans/vernon-giles-welch"
+  },
+  "description": "Hand-made wampum jewelry.",
+  "city": "Aquinnah",
+  "state": "MA",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Vernon Giles Welch",
+    "url": "https://www.doi.gov/iacb/artisans/vernon-giles-welch"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -70.8137,
+   41.3431
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "wampanoag-trading-post-and-gallery",
+  "name": "Wampanoag Trading Post and Gallery",
+  "category": "retail",
+  "subcategory": "Eastern Woodland art and jewelry",
+  "nation": "Mashpee Wampanoag Tribe",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Wampanoag Trading Post and Gallery",
+   "url": "https://www.doi.gov/iacb/artisans/wampanoag-trading-post-and-gallery"
+  },
+  "description": "A shop run by Mashpee Wampanoag women selling Eastern Woodland Native art, jewelry and goods.",
+  "address": "20 North St",
+  "city": "Mashpee",
+  "state": "MA",
+  "zip": "02649",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Wampanoag Trading Post and Gallery",
+    "url": "https://www.doi.gov/iacb/artisans/wampanoag-trading-post-and-gallery"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -70.4897,
+   41.6173
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "michelle-red-elk",
+  "name": "Michelle Red Elk",
+  "category": "arts",
+  "subcategory": "beadwork and drawings",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Michelle Red Elk",
+   "url": "https://www.doi.gov/iacb/artisans/michelle-red-elk"
+  },
+  "description": "Flat beadwork, amulets and other beaded objects, plus pencil and mixed media drawings.",
+  "city": "Cincinnati",
+  "state": "OH",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Michelle Red Elk",
+    "url": "https://www.doi.gov/iacb/artisans/michelle-red-elk"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -84.5127,
+   39.1013
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "ronald-a-torsen",
+  "name": "Ronald A. Torsen",
+  "category": "arts",
+  "subcategory": "wood, ivory and baleen carving",
+  "nation": "Aleut / Alutiiq",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Ronald A. Torsen",
+   "url": "https://www.doi.gov/iacb/artisans/ronald-torsen"
+  },
+  "description": "Alaska Native carving in wood, ivory and baleen; commissions taken.",
+  "city": "Nelsonville",
+  "state": "OH",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Ronald A. Torsen",
+    "url": "https://www.doi.gov/iacb/artisans/ronald-torsen"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -82.2318,
+   39.4587
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "choctaw-keith",
+  "name": "Choctaw Keith",
+  "category": "arts",
+  "subcategory": "beadwork and stone necklaces",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Choctaw Keith",
+   "url": "https://www.doi.gov/iacb/artisans/choctaw-keith"
+  },
+  "description": "Split-loom and gemstone necklaces, bracelets and earrings.",
+  "city": "Mount Vernon",
+  "state": "IL",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Choctaw Keith",
+    "url": "https://www.doi.gov/iacb/artisans/choctaw-keith"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -88.9031,
+   38.3173
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "the-bestie-brand",
+  "name": "The Bestie Brand",
+  "category": "arts",
+  "subcategory": "beadwork and jewelry",
+  "nation": "Miami Tribe of Oklahoma",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: The Bestie Brand",
+   "url": "https://www.doi.gov/iacb/artisans/bestie-brand-llc"
+  },
+  "description": "Hand-made beadwork, jewelry and crafts by a Miami artist.",
+  "city": "Selma",
+  "state": "IN",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: The Bestie Brand",
+    "url": "https://www.doi.gov/iacb/artisans/bestie-brand-llc"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -85.2686,
+   40.1915
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "faith-houston",
+  "name": "Faith Houston",
+  "category": "arts",
+  "subcategory": "beadwork and leather goods",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Faith Houston",
+   "url": "https://www.doi.gov/iacb/artisans/faith-houston"
+  },
+  "description": "Hand-beaded earrings, necklaces and bracelets, and leather goods.",
+  "city": "South Bend",
+  "state": "IN",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Faith Houston",
+    "url": "https://www.doi.gov/iacb/artisans/faith-houston"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -86.25,
+   41.6834
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "susan-locke-charlesworth",
+  "name": "Susan Locke Charlesworth",
+  "category": "arts",
+  "subcategory": "baskets",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Susan Locke Charlesworth",
+   "url": "https://www.doi.gov/iacb/artisans/susan-locke-charlesworth"
+  },
+  "description": "Hand-woven baskets.",
+  "city": "Brownsburg",
+  "state": "IN",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Susan Locke Charlesworth",
+    "url": "https://www.doi.gov/iacb/artisans/susan-locke-charlesworth"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -86.3969,
+   39.8444
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "art-by-wazi",
+  "name": "Art by Wazi",
+  "category": "arts",
+  "subcategory": "drawing, painting and sculpture",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Art by Wazi",
+   "url": "https://www.doi.gov/iacb/artisans/art-wazi"
+  },
+  "description": "Drawings, paintings and sculpture; seen by appointment.",
+  "city": "Kirkwood",
+  "state": "MO",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Art by Wazi",
+    "url": "https://www.doi.gov/iacb/artisans/art-wazi"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -90.4069,
+   38.5801
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "native-art-by-freda-wolf",
+  "name": "Native Art by Freda Wolf",
+  "category": "arts",
+  "subcategory": "leather, pottery and oil painting",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Native Art by Freda Wolf",
+   "url": "https://www.doi.gov/iacb/artisans/native-art-freda-wolf"
+  },
+  "description": "Leatherwork, pottery and oil paintings.",
+  "city": "Cassville",
+  "state": "MO",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Native Art by Freda Wolf",
+    "url": "https://www.doi.gov/iacb/artisans/native-art-freda-wolf"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -93.8688,
+   36.677
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "still-plays-with-dolls",
+  "name": "Still Plays With Dolls",
+  "category": "arts",
+  "subcategory": "dolls",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Still Plays With Dolls",
+   "url": "https://www.doi.gov/iacb/artisans/still-plays-dolls-west-native-dolls"
+  },
+  "description": "Corn husk dolls, traditional Native dolls and custom dolls.",
+  "city": "Seneca",
+  "state": "MO",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Still Plays With Dolls",
+    "url": "https://www.doi.gov/iacb/artisans/still-plays-dolls-west-native-dolls"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -94.6092,
+   36.8397
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "suburban-wigwam",
+  "name": "Suburban Wigwam",
+  "category": "arts",
+  "subcategory": "clothing, regalia and beadwork",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Suburban Wigwam",
+   "url": "https://www.doi.gov/iacb/artisans/suburban-wigwam"
+  },
+  "description": "Traditional and contemporary clothing, regalia, jewelry and beadwork; commissions taken.",
+  "city": "Ballwin",
+  "state": "MO",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Suburban Wigwam",
+    "url": "https://www.doi.gov/iacb/artisans/suburban-wigwam"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -90.5387,
+   38.5962
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "earth-to-art-studio-carolyn-bernard-young",
+  "name": "Earth to Art Studio (Carolyn Bernard Young)",
+  "category": "arts",
+  "subcategory": "pottery",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Earth to Art Studio (Carolyn Bernard Young)",
+   "url": "https://www.doi.gov/iacb/artisans/earth-art-studio"
+  },
+  "description": "Hand-built and carved stoneware and traditional pottery.",
+  "city": "Weatherford",
+  "state": "TX",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Earth to Art Studio (Carolyn Bernard Young)",
+    "url": "https://www.doi.gov/iacb/artisans/earth-art-studio"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -97.7971,
+   32.759
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "flying-eagle-trading-post",
+  "name": "Flying Eagle Trading Post",
+  "category": "arts",
+  "subcategory": "jewelry, pottery and blankets",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Flying Eagle Trading Post",
+   "url": "https://www.doi.gov/iacb/artisans/flying-eagle-trading-post"
+  },
+  "description": "Jewelry, pottery, blankets and Native art.",
+  "city": "Saginaw",
+  "state": "TX",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Flying Eagle Trading Post",
+    "url": "https://www.doi.gov/iacb/artisans/flying-eagle-trading-post"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -97.3639,
+   32.8601
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "deer-keer-art",
+  "name": "Deer Keer Art",
+  "category": "arts",
+  "subcategory": "art",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Deer Keer Art",
+   "url": "https://www.doi.gov/iacb/artisans/deer-keer-art-llc"
+  },
+  "description": "Original art by Emily Keer.",
+  "city": "San Antonio",
+  "state": "TX",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Deer Keer Art",
+    "url": "https://www.doi.gov/iacb/artisans/deer-keer-art-llc"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -98.4951,
+   29.4246
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "harjo-flutes",
+  "name": "Harjo Flutes",
+  "category": "arts",
+  "subcategory": "flutes and beaded bags",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Harjo Flutes",
+   "url": "https://www.doi.gov/iacb/artisans/harjo-flutes"
+  },
+  "description": "Flutes of river cane, cedar and hardwoods, plus beaded bags and jewelry.",
+  "city": "Livingston",
+  "state": "TX",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Harjo Flutes",
+    "url": "https://www.doi.gov/iacb/artisans/harjo-flutes"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -94.933,
+   30.711
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "haiyip-atuklo",
+  "name": "Haiyip Atuklo",
+  "category": "arts",
+  "subcategory": "Choctaw baskets and stickball sticks",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Haiyip Atuklo",
+   "url": "https://www.doi.gov/iacb/artisans/haiyip-atuklo"
+  },
+  "description": "Choctaw baskets, stickball sticks and balls, beadwork and paintings.",
+  "city": "Arlington",
+  "state": "TX",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Haiyip Atuklo",
+    "url": "https://www.doi.gov/iacb/artisans/haiyip-atuklo"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -97.1071,
+   32.7356
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "chahta-ilefoka",
+  "name": "Chahta Ilefoka",
+  "category": "arts",
+  "subcategory": "Choctaw arts",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Chahta Ilefoka",
+   "url": "https://www.doi.gov/iacb/artisans/chahta-ilefoka"
+  },
+  "description": "Choctaw arts and crafts from Judy Davis.",
+  "city": "Arlington",
+  "state": "TX",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Chahta Ilefoka",
+    "url": "https://www.doi.gov/iacb/artisans/chahta-ilefoka"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -97.1071,
+   32.7356
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "natural-cherokee",
+  "name": "Natural Cherokee",
+  "category": "arts",
+  "subcategory": "Cherokee arts",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Natural Cherokee",
+   "url": "https://www.doi.gov/iacb/artisans/natural-cherokee"
+  },
+  "description": "Arts and crafts by Cherokee artist Grant Morris.",
+  "city": "Arlington",
+  "state": "TX",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Natural Cherokee",
+    "url": "https://www.doi.gov/iacb/artisans/natural-cherokee"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -97.1071,
+   32.7356
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "chikasha-jims-artworks-and-leather-products",
+  "name": "Chikasha Jim's Artworks and Leather Products",
+  "category": "arts",
+  "subcategory": "art and leather goods",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Chikasha Jim's Artworks and Leather Products",
+   "url": "https://www.doi.gov/iacb/artisans/chikasha-jims-artworks-and-leather-products"
+  },
+  "description": "Artwork and leather goods by James M. Keel.",
+  "city": "Rockwall",
+  "state": "TX",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Chikasha Jim's Artworks and Leather Products",
+    "url": "https://www.doi.gov/iacb/artisans/chikasha-jims-artworks-and-leather-products"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.4597,
+   32.9312
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "creative-native-designs",
+  "name": "Creative Native Designs",
+  "category": "arts",
+  "subcategory": "arts and crafts",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Creative Native Designs",
+   "url": "https://www.doi.gov/iacb/artisans/creative-native-designs"
+  },
+  "description": "Arts and crafts by Chrystal Strickland.",
+  "city": "San Antonio",
+  "state": "TX",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Creative Native Designs",
+    "url": "https://www.doi.gov/iacb/artisans/creative-native-designs"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -98.4951,
+   29.4246
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "donald-e-greenwood-gifts-of-the-spirit",
+  "name": "Donald E Greenwood Gifts of the Spirit",
+  "category": "arts",
+  "subcategory": "arts and crafts",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Donald E Greenwood Gifts of the Spirit",
+   "url": "https://www.doi.gov/iacb/artisans/donald-e-greenwood-gifts-spirit"
+  },
+  "description": "Arts and crafts by Donald Greenwood.",
+  "city": "Houston",
+  "state": "TX",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Donald E Greenwood Gifts of the Spirit",
+    "url": "https://www.doi.gov/iacb/artisans/donald-e-greenwood-gifts-spirit"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -95.3677,
+   29.7589
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "sonya-y-ashley-mitchell",
+  "name": "Sonya Y. Ashley-Mitchell",
+  "category": "arts",
+  "subcategory": "arts and crafts",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Sonya Y. Ashley-Mitchell",
+   "url": "https://www.doi.gov/iacb/artisans/sonya-y-ashley-mitchell"
+  },
+  "description": "Arts and crafts by Sonya Ashley-Mitchell.",
+  "city": "Pflugerville",
+  "state": "TX",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Sonya Y. Ashley-Mitchell",
+    "url": "https://www.doi.gov/iacb/artisans/sonya-y-ashley-mitchell"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -97.62,
+   30.4394
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "tammie-ray-searles",
+  "name": "Tammie Ray Searles",
+  "category": "arts",
+  "subcategory": "arts and crafts",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Tammie Ray Searles",
+   "url": "https://www.doi.gov/iacb/artisans/tammie-ray-searles"
+  },
+  "description": "Arts and crafts by Tammie Ray Searles.",
+  "city": "Fredericksburg",
+  "state": "TX",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Tammie Ray Searles",
+    "url": "https://www.doi.gov/iacb/artisans/tammie-ray-searles"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -98.872,
+   30.2752
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "kathryn-hopkins",
+  "name": "Kathryn Hopkins",
+  "category": "arts",
+  "subcategory": "jewelry, handbags and garments",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Kathryn Hopkins",
+   "url": "https://www.doi.gov/iacb/artisans/kathryn-hopkins"
+  },
+  "description": "Jewelry, handbags and garments.",
+  "city": "Converse",
+  "state": "TX",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Kathryn Hopkins",
+    "url": "https://www.doi.gov/iacb/artisans/kathryn-hopkins"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -98.3161,
+   29.518
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "three-feathers-native-crafts",
+  "name": "Three Feathers Native Crafts",
+  "category": "arts",
+  "subcategory": "decor and powwow goods",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Three Feathers Native Crafts",
+   "url": "https://www.doi.gov/iacb/artisans/three-feathers-native-crafts"
+  },
+  "description": "Hand-painted decor, wooden crafts and powwow goods.",
+  "city": "Schertz",
+  "state": "TX",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Three Feathers Native Crafts",
+    "url": "https://www.doi.gov/iacb/artisans/three-feathers-native-crafts"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -98.2696,
+   29.5642
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "ysleta-del-sur-pueblo-cultural-center-gift-shop",
+  "name": "Ysleta del Sur Pueblo Cultural Center Gift Shop",
+  "category": "retail",
+  "subcategory": "pueblo pottery, jewelry and crafts",
+  "nation": "Ysleta del Sur Pueblo",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Ysleta del Sur Pueblo Cultural Center Gift Shop",
+   "url": "https://www.doi.gov/iacb/artisans/ysleta-del-sur-pueblo-cultural-center-gift-shop"
+  },
+  "description": "The tribe's cultural center shop selling pottery, jewelry and crafts of the pueblo; open Wednesday to Sunday.",
+  "address": "305 Yaya Lane",
+  "city": "El Paso",
+  "state": "TX",
+  "zip": "79907",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Ysleta del Sur Pueblo Cultural Center Gift Shop",
+    "url": "https://www.doi.gov/iacb/artisans/ysleta-del-sur-pueblo-cultural-center-gift-shop"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -106.3193,
+   31.6822
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "dakota-creation-by-lisa",
+  "name": "Dakota Creation by Lisa",
+  "category": "arts",
+  "subcategory": "beadwork",
+  "nation": "Sisseton-Wahpeton Oyate",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Dakota Creation by Lisa",
+   "url": "https://www.doi.gov/iacb/artisans/dakota-creation-lisa"
+  },
+  "description": "Hand-made beadwork by a Sisseton-Wahpeton artist.",
+  "city": "Chicago",
+  "state": "IL",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Dakota Creation by Lisa",
+    "url": "https://www.doi.gov/iacb/artisans/dakota-creation-lisa"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -87.6244,
+   41.8756
+  ],
+  "lonlatPrecision": "town"
+ }
+]

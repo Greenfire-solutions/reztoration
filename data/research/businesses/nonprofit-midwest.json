@@ -1,0 +1,36 @@
+[
+ {
+  "id": "native-american-indian-center-of-central-ohio",
+  "name": "Native American Indian Center of Central Ohio (NAICCO)",
+  "category": "nonprofit",
+  "subcategory": "intertribal community center, powwows, NAICCO Cuisine food trailer",
+  "nation": "Intertribal",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "NAICCO: directors Masami and Ty Smith, enrolled members of the Confederated Tribes of Warm Springs",
+   "url": "https://www.naicco.com/"
+  },
+  "description": "Intertribal center in Columbus founded in 1975, running cultural programs, two powwows a year, a Native street food trailer and a land back campaign.",
+  "website": "https://www.naicco.com/",
+  "address": "67 East Innis Avenue",
+  "city": "Columbus",
+  "state": "OH",
+  "sources": [
+   {
+    "title": "NAICCO",
+    "url": "https://www.naicco.com/"
+   },
+   {
+    "title": "Columbus Foundation: 5 nonprofits to watch",
+    "url": "https://columbusfoundation.org/at-the-table-blog/5-nonprofits-to-watch-spotlight-native-american-indian-center-of-central-ohio"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -82.9937,
+   39.9262
+  ],
+  "lonlatPrecision": "address"
+ }
+]

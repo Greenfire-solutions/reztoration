@@ -1,0 +1,17 @@
+{
+  "id": "kappler-82",
+  "auditedAt": "2026-11-07",
+  "verdict": "confirmed",
+  "checked": [
+    "Treaty dates and citation (signed 1804-11-03, ratified 1805-01-25, proclaimed 1805-02-21, 7 Stat. 84) against the OSU Kappler text, p. 74",
+    "Promises against Articles 1 to 4, 6 and 7 and the $2,234.50 in goods at signing",
+    "ICC Docket 83 final award of December 26, 1973 (OSU id 2654): 1,638,724.39 acres Missouri worth $983,235 and 2,012,700 acres Illinois-Wisconsin worth $1,006,350 as of January 25, 1805, total $1,989,585; $20,000 commuted under 36 Stat. 269, 289; unconscionable; $1,969,585; no offsets; quote exact",
+    "ICC Docket 83 opinion of December 26, 1973 (OSU id 1136): same acreages and valuation date"
+  ],
+  "changes": [
+    "openQuestions: audit note added (the opinion's single '$1,981,885' reading; the opinion dates the treaty November 3). No figure, kind or status changed."
+  ],
+  "unverifiable": [
+    "1959 findings (OSU id 455), 315 F.2d 896 (1963) and the Sac and Fox Nation archive page not re-opened"
+  ]
+}

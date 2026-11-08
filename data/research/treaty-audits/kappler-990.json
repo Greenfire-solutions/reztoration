@@ -1,0 +1,25 @@
+{
+  "id": "kappler-990",
+  "auditedAt": "2026-11-07",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty dates and citation (signed 1867-10-21, ratified 1868-07-25, proclaimed 1868-08-25, 15 Stat. 589) against the OSU Kappler text, p. 982",
+    "Promises against Articles 1 to 3 of the Apache treaty and Article 12 of the Kiowa and Comanche treaty",
+    "ICC Docket 32 opinions of 1951 and 1955 (OSU ids 201, 332): 2,033,583 acres, $2,000,000 paid, without consent, $2.00 an acre, $4,067,166, $2,067,166 less offsets",
+    "ICC Docket 32 March 12, 1957 opinion and final determination (OSU ids 406, 10): $1,626,015.86 after offsets",
+    "ICC Docket 32 amended final order of July 18, 1957 (OSU ids 376, 520)",
+    "Lone Wolf v. Hitchcock (Wikisource): quote exact",
+    "treaties.json entry for kappler-990: presentDayTribes lacks the Apache Tribe of Oklahoma"
+  ],
+  "changes": [
+    "ICC breach and compensation: added the March 12, 1957 net award of $1,626,015.86 and the July 18, 1957 amended order",
+    "Two ICC sources added; openQuestions rewritten; audit line added"
+  ],
+  "unverifiable": [
+    "Net award after the July 18, 1957 amendment: not legible",
+    "Lone Wolf decision day (January 5, 1903) not independently confirmed; Wikisource header OCR cut off"
+  ],
+  "treatiesJsonErrors": [
+    "kappler-990 (and kappler-985, which is the Kiowa and Comanche treaty) list presentDayTribes as only Comanche Nation and Kiowa Indian Tribe; the Apache Tribe of Oklahoma, a party to kappler-990 (15 Stat. 589), is missing. The queue name for kappler-990 ('Treaty or agreement with the Comanche, Kiowa') also omits the Apache."
+  ]
+}

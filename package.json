@@ -1,0 +1,21 @@
+{
+  "name": "reztoration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.mjs",
+    "build": "node scripts/build-map.mjs",
+    "harvest": "for s in ia loc art mia journals smithsonian openalex plants profiles; do node scripts/harvest/$s.mjs > logs/harvest-$s.log 2>&1 & done; wait"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "d3-geo": "^3.1.1",
+    "polygon-clipping": "^0.15.7",
+    "three": "^0.170.0"
+  }
+}

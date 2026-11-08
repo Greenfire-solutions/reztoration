@@ -1,0 +1,251 @@
+[
+ {
+  "id": "eighth-generation",
+  "name": "Eighth Generation",
+  "category": "arts",
+  "subcategory": "wool blankets, prints and gifts designed by Native artists",
+  "nation": "Snoqualmie Indian Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Eighth Generation: Native designed and tribally owned by the Snoqualmie Tribe",
+   "url": "https://eighthgeneration.com"
+  },
+  "description": "Art and lifestyle brand that commissions Native artists for wool blankets, jewelry and gifts and pays them for their designs; the shop is inside the Snoqualmie Casino.",
+  "website": "https://eighthgeneration.com",
+  "shopOnline": "https://eighthgeneration.com",
+  "address": "37500 SE North Bend Way",
+  "city": "Snoqualmie",
+  "state": "WA",
+  "zip": "98065",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Eighth Generation home page",
+    "url": "https://eighthgeneration.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -121.8406,
+   47.5167
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "b-yellowtail",
+  "name": "B.Yellowtail",
+  "category": "retail",
+  "subcategory": "fashion, jewelry and accessories",
+  "nation": "Northern Cheyenne Nation and Apsáalooke (Crow) Nation",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "About B.Yellowtail: Native American woman owned; founder Bethany Yellowtail",
+   "url": "https://byellowtail.com/pages/about-us"
+  },
+  "description": "Fashion and lifestyle label founded in 2015 by designer Bethany Yellowtail, selling her own designs and a collective of other Native artists online.",
+  "website": "https://byellowtail.com",
+  "shopOnline": "https://byellowtail.com",
+  "city": "Los Angeles",
+  "state": "CA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "B.Yellowtail FAQ (ships from its Los Angeles warehouse)",
+    "url": "https://byellowtail.com/pages/faq"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -118.2428,
+   34.0537
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "sister-sky",
+  "name": "Sister Sky",
+  "category": "retail",
+  "subcategory": "hair and body care",
+  "nation": "Spokane Tribe of Indians",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Sister Sky: Authentically Native (founders enrolled Spokane Tribe citizens; 100% Native American owned)",
+   "url": "https://sistersky.com/pages/authentically-native"
+  },
+  "description": "Spokane company run by two sisters making hair care, lotions and soaps from plant-based recipes, approved to use the Intertribal Agriculture Council's Made/Produced by American Indians mark.",
+  "website": "https://sistersky.com",
+  "shopOnline": "https://sistersky.com",
+  "address": "55 E Lincoln Rd Suite 102",
+  "city": "Spokane",
+  "state": "WA",
+  "zip": "99208",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Sister Sky contact page (office hours Mon to Fri)",
+    "url": "https://sistersky.com/pages/contact-us"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -117.4103,
+   47.7295
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "oxdx-clothing",
+  "name": "OXDX Clothing",
+  "category": "retail",
+  "subcategory": "streetwear and apparel",
+  "nation": "Navajo Nation (Diné)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "OXDX: a Diné owned fashion label operating out of Tempe, Arizona",
+   "url": "https://www.oxdxclothing.com"
+  },
+  "description": "Diné-owned streetwear label whose shirts, hoodies and hats carry graphic designs about Native issues and identity.",
+  "website": "https://www.oxdxclothing.com",
+  "shopOnline": "https://www.oxdxclothing.com",
+  "city": "Tempe",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "OXDX home page",
+    "url": "https://www.oxdxclothing.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.94,
+   33.4255
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "jamie-okuma",
+  "name": "Jamie Okuma",
+  "category": "arts",
+  "subcategory": "beadwork, fashion and wearable art",
+  "nation": "La Jolla Band of Luiseño Indians (also Shoshone-Bannock and Wailaki)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "About Jamie Okuma (enrolled member of the La Jolla Band of Indians)",
+   "url": "https://www.jokuma.com/about"
+  },
+  "description": "Artist and designer known for intricately beaded boots, figures and one-of-a-kind garments, and for a ready-to-wear clothing line.",
+  "website": "https://www.jokuma.com",
+  "city": "Pauma Valley",
+  "state": "CA",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Jamie Okuma about page",
+    "url": "https://www.jokuma.com/about"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -116.9814,
+   33.3034
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "sealaska-heritage-store",
+  "name": "Sealaska Heritage Store",
+  "category": "arts",
+  "subcategory": "Northwest Coast and Alaska Native art, books and gifts",
+  "nation": "Tlingit, Haida and Tsimshian (Sealaska Heritage Institute)",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Sealaska Heritage Institute: we own and operate the Sealaska Heritage Store",
+   "url": "https://sealaskaheritage.org"
+  },
+  "description": "Store in the Walter Soboleff Building in downtown Juneau selling carvings, jewelry, prints, Tlingit language books and gifts by Alaska Native artists; sales support the institute's culture programs.",
+  "website": "https://sealaska-heritage-store.myshopify.com",
+  "shopOnline": "https://sealaska-heritage-store.myshopify.com",
+  "address": "105 Heritage Way Suite 101",
+  "city": "Juneau",
+  "state": "AK",
+  "zip": "99801",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Sealaska Heritage Store (owned and operated by Sealaska Heritage Institute)",
+    "url": "https://sealaska-heritage-store.myshopify.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -134.4197,
+   58.302
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "indian-pueblo-store",
+  "name": "Indian Pueblo Store",
+  "category": "retail",
+  "subcategory": "Pueblo pottery, jewelry and art",
+  "nation": "The 19 Pueblos of New Mexico",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Indian Pueblo Cultural Center: businesses owned and operated by the 19 Pueblos of New Mexico",
+   "url": "https://indianpueblo.org/about-us/"
+  },
+  "description": "Shop at the Indian Pueblo Cultural Center in Albuquerque selling pottery, jewelry and other work by Pueblo artists, on land owned by the 19 Pueblos.",
+  "website": "https://indianpueblo.org",
+  "address": "2401 12th St NW",
+  "city": "Albuquerque",
+  "state": "NM",
+  "zip": "87104",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indian Pueblo Cultural Center (open 9 to 5 daily)",
+    "url": "https://indianpueblo.org"
+   },
+   {
+    "title": "IACB Source Directory listing: Indian Pueblo Store",
+    "url": "https://www.doi.gov/iacb/artisans/indian-pueblo-store"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -106.6583,
+   35.1105
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "oglala-lakota-artspace",
+  "name": "Oglala Lakota Artspace",
+  "category": "arts",
+  "subcategory": "artist studios, residencies and gallery",
+  "nation": "Oglala Lakota",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "First Peoples Fund: the Native-run Oglala Lakota Artspace in Kyle",
+   "url": "https://www.firstpeoplesfund.org"
+  },
+  "description": "Arts building on the Pine Ridge Reservation, opened in 2021, with studios, an artist residency and music programs run with First Peoples Fund and Lakota Funds.",
+  "website": "https://www.firstpeoplesfund.org",
+  "city": "Kyle",
+  "state": "SD",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "First Peoples Fund programs",
+    "url": "https://www.firstpeoplesfund.org"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -102.1765,
+   43.425
+  ],
+  "lonlatPrecision": "town"
+ }
+]

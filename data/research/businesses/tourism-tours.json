@@ -1,0 +1,530 @@
+[
+ {
+  "id": "horseshoe-bend-trail-rides",
+  "name": "Horseshoe Bend Trail Rides",
+  "category": "tourism",
+  "subcategory": "guided horseback rides",
+  "nation": "Navajo Nation (Diné)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Horseshoe Bend Trail Rides: Navajo owned and operated",
+   "url": "http://horseshoebendtrailrides.com/"
+  },
+  "description": "Navajo owned and operated horseback rides to Horseshoe Bend, a slot canyon and Wind Castle Canyon.",
+  "website": "http://horseshoebendtrailrides.com/",
+  "city": "Page",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Horseshoe Bend Trail Rides: Navajo owned and operated",
+    "url": "http://horseshoebendtrailrides.com/"
+   },
+   {
+    "title": "Navajo Nation Parks: Antelope Canyon operators",
+    "url": "https://navajonationparks.org/guided-tour-operators/antelope-canyon-tour-operators/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.4573,
+   36.9148
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "taadidiin-tours-antelope-canyon-x",
+  "name": "Taadidiin Tours (Antelope Canyon X)",
+  "category": "tourism",
+  "subcategory": "slot canyon tours",
+  "nation": "Navajo Nation (Diné)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Taadidiin Tours: our family and history",
+   "url": "https://www.antelopecanyon-x.com/"
+  },
+  "description": "Diné family company guiding tours of Antelope Canyon X on land the family has lived on since the 1800s.",
+  "website": "https://www.antelopecanyon-x.com/",
+  "city": "Page",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Taadidiin Tours: our family and history",
+    "url": "https://www.antelopecanyon-x.com/"
+   },
+   {
+    "title": "Navajo Nation Parks: Antelope Canyon operators",
+    "url": "https://navajonationparks.org/guided-tour-operators/antelope-canyon-tour-operators/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.4573,
+   36.9148
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "mystical-antelope-canyon-tour",
+  "name": "Mystical Antelope Canyon Tour",
+  "category": "tourism",
+  "subcategory": "slot canyon tours",
+  "nation": "Navajo Nation (Diné)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Mystical Antelope Canyon Tour: Navajo Owned & Operated",
+   "url": "https://mysticalantelopecanyontour.com/"
+  },
+  "description": "Navajo owned and operated company guiding tours of Mystical Antelope Canyon near Page.",
+  "website": "https://mysticalantelopecanyontour.com/",
+  "city": "Page",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Mystical Antelope Canyon Tour: Navajo Owned & Operated",
+    "url": "https://mysticalantelopecanyontour.com/"
+   },
+   {
+    "title": "Navajo Nation Parks: Antelope Canyon operators",
+    "url": "https://navajonationparks.org/guided-tour-operators/antelope-canyon-tour-operators/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.4573,
+   36.9148
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "black-streak-canyon-tours",
+  "name": "Black Streak Canyon Tours",
+  "category": "tourism",
+  "subcategory": "slot canyon tours",
+  "nation": "Navajo Nation (Diné)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Black Streak Canyon Tours: We are Navajo Owned and operated",
+   "url": "https://blackstreakcanyontours.com/"
+  },
+  "description": "Navajo owned and operated guided tours of slot canyons near Page.",
+  "website": "https://blackstreakcanyontours.com/",
+  "city": "Page",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Black Streak Canyon Tours: We are Navajo Owned and operated",
+    "url": "https://blackstreakcanyontours.com/"
+   },
+   {
+    "title": "Navajo Nation Parks: Antelope Canyon operators",
+    "url": "https://navajonationparks.org/guided-tour-operators/antelope-canyon-tour-operators/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.4573,
+   36.9148
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "antelope-hogan-canyon-tours",
+  "name": "Antelope Hogan Canyon Tours",
+  "category": "tourism",
+  "subcategory": "Upper Antelope Canyon tours and bed and breakfast",
+  "nation": "Navajo Nation (Diné)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Antelope Hogan Canyon Tours: 100% Navajo family owned and operated",
+   "url": "https://www.antelopehogancanyontours.com/"
+  },
+  "description": "Navajo family company running hiking tours to Upper Antelope Canyon and a hogan bed and breakfast.",
+  "website": "https://www.antelopehogancanyontours.com/",
+  "city": "Page",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Antelope Hogan Canyon Tours: 100% Navajo family owned and operated",
+    "url": "https://www.antelopehogancanyontours.com/"
+   },
+   {
+    "title": "Navajo Nation Parks: Antelope Canyon operators",
+    "url": "https://navajonationparks.org/guided-tour-operators/antelope-canyon-tour-operators/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.4573,
+   36.9148
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "deer-spring-canyon-tours",
+  "name": "Deer Spring Canyon Tours",
+  "category": "tourism",
+  "subcategory": "slot canyon and Horseshoe Bend tours",
+  "nation": "Navajo Nation (Diné)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Deer Spring Canyon Tours: a proudly female Navajo-owned company",
+   "url": "https://deerspringtours.com/"
+  },
+  "description": "Female Navajo-owned company combining Secret Antelope Canyon and the Horseshoe Bend overlook in one tour.",
+  "website": "https://deerspringtours.com/",
+  "city": "Page",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Deer Spring Canyon Tours: a proudly female Navajo-owned company",
+    "url": "https://deerspringtours.com/"
+   },
+   {
+    "title": "Navajo Nation Parks: Antelope Canyon operators",
+    "url": "https://navajonationparks.org/guided-tour-operators/antelope-canyon-tour-operators/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.4573,
+   36.9148
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "grand-canyon-native-trails",
+  "name": "Grand Canyon Native Trails",
+  "category": "tourism",
+  "subcategory": "East Rim Grand Canyon hiking tours",
+  "nation": "Navajo Nation (Diné)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Grand Canyon Native Trails: Navajo owned tours",
+   "url": "https://grandcanyonnativetrails.com/"
+  },
+  "description": "Navajo family guiding private hikes on the East Rim of the Grand Canyon, away from the crowds.",
+  "website": "https://grandcanyonnativetrails.com/",
+  "city": "Cameron",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Grand Canyon Native Trails: Navajo owned tours",
+    "url": "https://grandcanyonnativetrails.com/"
+   },
+   {
+    "title": "Navajo Nation Parks: Antelope Canyon operators",
+    "url": "https://navajonationparks.org/guided-tour-operators/antelope-canyon-tour-operators/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.4119,
+   35.874
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "blackwater-tours",
+  "name": "Blackwater Tours",
+  "category": "tourism",
+  "subcategory": "Monument Valley 4x4 tours",
+  "nation": "Navajo Nation (Diné)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Blackwater Tours: 100% Navajo Owned & Operated",
+   "url": "https://blackwatertours.com/"
+  },
+  "description": "Navajo owned and operated 4x4 vehicle tours of Monument Valley.",
+  "website": "https://blackwatertours.com/",
+  "city": "Monument Valley",
+  "state": "UT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Blackwater Tours: 100% Navajo Owned & Operated",
+    "url": "https://blackwatertours.com/"
+   },
+   {
+    "title": "Navajo Nation Parks: Monument Valley operators",
+    "url": "https://navajonationparks.org/guided-tour-operators/monument-valley-tour-operators/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -110.1874,
+   37.0111
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "monument-valley-simpsons-trailhandler-tours",
+  "name": "Monument Valley Simpson's Trailhandler Tours",
+  "category": "tourism",
+  "subcategory": "Monument Valley guided tours",
+  "nation": "Navajo Nation (Diné)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Simpson's Trailhandler Tours: About us",
+   "url": "https://emonumentvalley.com/about-us/"
+  },
+  "description": "Family-run tours of Monument Valley by Harold and Deborah Simpson, with Navajo guides born and raised in the valley.",
+  "website": "https://emonumentvalley.com/",
+  "city": "Monument Valley",
+  "state": "UT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Simpson's Trailhandler Tours: About us",
+    "url": "https://emonumentvalley.com/about-us/"
+   },
+   {
+    "title": "Navajo Nation Parks: Monument Valley operators",
+    "url": "https://navajonationparks.org/guided-tour-operators/monument-valley-tour-operators/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -110.1874,
+   37.0111
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "valley-view-tours",
+  "name": "Valley View Tours",
+  "category": "tourism",
+  "subcategory": "Monument Valley and Mystery Valley tours",
+  "nation": "Navajo Nation (Diné)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Valley View Tours: About",
+   "url": "https://www.valleyviewguidedtours.com/about"
+  },
+  "description": "Navajo owned and operated tours of Monument Valley and Mystery Valley run by Roland and Mary Holiday.",
+  "website": "https://www.valleyviewguidedtours.com/",
+  "city": "Monument Valley",
+  "state": "UT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Valley View Tours: About",
+    "url": "https://www.valleyviewguidedtours.com/about"
+   },
+   {
+    "title": "Navajo Nation Parks: Monument Valley operators",
+    "url": "https://navajonationparks.org/guided-tour-operators/monument-valley-tour-operators/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -110.1874,
+   37.0111
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "monument-valley-safari",
+  "name": "Monument Valley Safari",
+  "category": "tourism",
+  "subcategory": "off-road tours including Hunts Mesa",
+  "nation": "Navajo Nation (Diné)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Monument Valley Safari: Who we are",
+   "url": "http://monumentvalleysafari.com/"
+  },
+  "description": "Navajo family with seven generations in Monument Valley running off-road tours, including Hunts Mesa.",
+  "website": "http://monumentvalleysafari.com/",
+  "city": "Kayenta",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Monument Valley Safari: Who we are",
+    "url": "http://monumentvalleysafari.com/"
+   },
+   {
+    "title": "Navajo Nation Parks: Monument Valley operators",
+    "url": "https://navajonationparks.org/guided-tour-operators/monument-valley-tour-operators/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -110.2539,
+   36.7218
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "ancient-canyon-tours",
+  "name": "Ancient Canyon Tours",
+  "category": "tourism",
+  "subcategory": "Canyon de Chelly jeep, hiking and camping tours",
+  "nation": "Navajo Nation (Diné)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Ancient Canyon Tours: Navajo Owned and Operated",
+   "url": "https://www.ancientcanyontours.com/"
+  },
+  "description": "Navajo owned and operated jeep, hiking and camping tours in Canyon de Chelly.",
+  "website": "https://www.ancientcanyontours.com/",
+  "city": "Chinle",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Ancient Canyon Tours: Navajo Owned and Operated",
+    "url": "https://www.ancientcanyontours.com/"
+   },
+   {
+    "title": "Navajo Nation Parks: Canyon de Chelly operators",
+    "url": "https://navajonationparks.org/guided-tour-operators/canyon-de-chelly-tour-operators/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -109.5813,
+   36.1621
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "az-canyon-jeep-tours",
+  "name": "AZ Canyon Jeep Tours",
+  "category": "tourism",
+  "subcategory": "Canyon de Chelly jeep tours",
+  "nation": "Navajo Nation (Diné)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "AZ Canyon Jeep Tours: welcome",
+   "url": "https://arizonacanyonjeeptours.com/"
+  },
+  "description": "Jeep tours of Canyon de Chelly led by owner Deswood Yazzie, a Diné guide born and raised in the canyon.",
+  "website": "https://arizonacanyonjeeptours.com/",
+  "city": "Chinle",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AZ Canyon Jeep Tours: welcome",
+    "url": "https://arizonacanyonjeeptours.com/"
+   },
+   {
+    "title": "Navajo Nation Parks: Canyon de Chelly operators",
+    "url": "https://navajonationparks.org/guided-tour-operators/canyon-de-chelly-tour-operators/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -109.5813,
+   36.1621
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "canyon-de-chelly-tours",
+  "name": "Canyon De Chelly Tours",
+  "category": "tourism",
+  "subcategory": "Canyon de Chelly guided tours",
+  "nation": "Navajo Nation (Diné)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Canyon De Chelly Tours: Who we are",
+   "url": "https://www.canyondechellytours.com/"
+  },
+  "description": "Diné-owned company founded by the late Leon Skyhorse Thomas, with guides certified by the Park Service and Navajo Parks.",
+  "website": "https://www.canyondechellytours.com/",
+  "city": "Chinle",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Canyon De Chelly Tours: Who we are",
+    "url": "https://www.canyondechellytours.com/"
+   },
+   {
+    "title": "Navajo Nation Parks: Canyon de Chelly operators",
+    "url": "https://navajonationparks.org/guided-tour-operators/canyon-de-chelly-tour-operators/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -109.5813,
+   36.1621
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "beauty-way-jeep-tours",
+  "name": "Beauty Way Jeep Tours",
+  "category": "tourism",
+  "subcategory": "Canyon de Chelly jeep, hiking and camping tours",
+  "nation": "Navajo Nation (Diné)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Beauty Way Jeep Tours: Our story",
+   "url": "https://www.beautywayjeeptours.com/about"
+  },
+  "description": "Navajo family business that has guided jeep, hiking and camping trips into Canyon de Chelly for over 60 years.",
+  "website": "https://www.beautywayjeeptours.com/",
+  "city": "Chinle",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Beauty Way Jeep Tours: Our story",
+    "url": "https://www.beautywayjeeptours.com/about"
+   },
+   {
+    "title": "Navajo Nation Parks: Canyon de Chelly operators",
+    "url": "https://navajonationparks.org/guided-tour-operators/canyon-de-chelly-tour-operators/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -109.5813,
+   36.1621
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "thunderbird-lodge",
+  "name": "Thunderbird Lodge",
+  "category": "tourism",
+  "subcategory": "historic lodge at Canyon de Chelly",
+  "nation": "Navajo Nation (Diné)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Thunderbird Lodge: operated by the Navajo Nation Hospitality Enterprise",
+   "url": "https://www.thunderbirdlodge.com/"
+  },
+  "description": "Historic lodge and cafeteria at the mouth of Canyon de Chelly, run by a Navajo Nation enterprise.",
+  "website": "https://www.thunderbirdlodge.com/",
+  "city": "Chinle",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Thunderbird Lodge: operated by the Navajo Nation Hospitality Enterprise",
+    "url": "https://www.thunderbirdlodge.com/"
+   },
+   {
+    "title": "Navajo Nation Parks: Canyon de Chelly operators",
+    "url": "https://navajonationparks.org/guided-tour-operators/canyon-de-chelly-tour-operators/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -109.5813,
+   36.1621
+  ],
+  "lonlatPrecision": "town"
+ }
+]

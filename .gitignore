@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+data/cache/
+logs/
+data/research/harvest/trial-*
+.env
+
+# Native Land Digital territory outlines: their Data Sovereignty Treaty forbids
+# storing or redistributing them without written permission. Kept local only.
+data/raw/nativeland-territories.json
+public/data/territories.json

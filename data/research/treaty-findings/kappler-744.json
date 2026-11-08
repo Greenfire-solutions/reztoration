@@ -1,0 +1,100 @@
+{
+  "id": "kappler-744",
+  "name": "Treaty with the Blackfeet, 1855 (Lame Bull Treaty)",
+  "aka": [
+    "Lame Bull Treaty",
+    "Judith River Treaty",
+    "Treaty with the Blackfoot Nation, 1855"
+  ],
+  "signed": "1855-10-17",
+  "ratified": "1856-04-15",
+  "proclaimed": "1856-04-25",
+  "citation": "11 Stat. 657",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-blackfeet-1855-0736",
+  "nations": [
+    "Blackfoot Confederacy: Amskapi Piikani (Blackfeet / Piegan), Kainai (Blood), Siksika (Blackfoot)",
+    "A'aninin (Gros Ventre)"
+  ],
+  "promises": [
+    "Article 4 recognized a large tract north of the Missouri, from the Rocky Mountains east to the mouth of Milk River, as the territory of the Blackfoot Nation.",
+    "Article 3 set aside a common hunting ground south of the Missouri for the Blackfoot and neighboring nations for ninety-nine years.",
+    "Article 7 bound the United States to protect the Indians against depredations and unlawful acts by white men living in or passing through their country.",
+    "Articles 9 and 10: $20,000 a year in goods and provisions for ten years, and up to $15,000 a year for ten years for farming, trades and schooling."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1874-04-15",
+      "what": "The Act of April 15, 1874 and the Executive Order of August 19, 1874 took the southern part of the territory the 1855 treaty assigned to the Blackfeet and Gros Ventre. The Court of Claims found that after offsets the tribes were deprived of 12,261,749.76 acres for which they received no compensation, valued when taken at $6,130,874.88.",
+      "whoFoundIt": "Act of April 15, 1874, 18 Stat. 28, and Executive Order of August 19, 1874, as found by the Court of Claims in The Blackfeet et al. v. United States, 81 Ct. Cl. 101 (1935), recounted by the Indian Claims Commission (1952)",
+      "source": {
+        "title": "Blackfeet and Gros Ventre Tribes v. United States, Docket No. 279, Opinion of the Commission, December 17, 1952",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/183",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1967-03-31",
+      "what": "For the lands ceded under the Agreement of May 1, 1888 (25 Stat. 113), the Indian Claims Commission found that $4,300,000 for lands worth $11,975,324.80 was unconscionable on its face, and held the Blackfeet entitled to $11,125,606.40 before deduction of the consideration paid and offsets. It also found the 1874 Act had reduced the Blackfeet and Gros Ventre interest by 4,318,919 acres without their consent.",
+      "whoFoundIt": "Indian Claims Commission, Blackfeet and Gros Ventre Tribes v. United States, Docket 279-A, opinion of March 31, 1967 (18 Ind. Cl. Comm. 241)",
+      "source": {
+        "title": "Blackfeet and Gros Ventre Tribes v. United States, Docket No. 279-A, Opinion of the Commission, March 31, 1967",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2749",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "12,261,749.76 acres taken without compensation under the 1874 Act and order, as found by the Court of Claims (1935); a further cession under the 1888 Agreement, valued at $11,975,324.80 (ICC, 1967).",
+  "compensation": "The Court of Claims (1935) valued the 1874 taking at $6,130,874.88; the net amount recovered was not located. For the 1888 cession the ICC fixed liability at $11,125,606.40 to the Blackfeet before consideration and offsets (1967); final judgments for the Blackfeet and Gros Ventre followed in 1968 but were not read.",
+  "today": "Not researched past the 1968 judgments. The Blackfeet Reservation today lies within the 1855 treaty area.",
+  "nationVoice": [
+    {
+      "nation": "Blackfeet Nation (Amskapi Piikani)",
+      "summary": "The Nation says the original 1855 Blackfeet Indian Reservation took in most of the northern half of Montana, while the present reservation in northwest Montana, bordered by Glacier National Park and Canada, spans 1.5 million acres.",
+      "url": "https://blackfeetnation.com/lands/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Blackfeet, 1855 (Kappler, vol. 2, p. 736)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-blackfeet-1855-0736",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Blackfeet and Gros Ventre Tribes v. United States, Docket No. 279, Opinion of the Commission, December 17, 1952",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/183",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Blackfeet and Gros Ventre Tribes v. United States, Docket No. 279-A, Findings of Fact, March 31, 1967",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1941",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Blackfeet and Gros Ventre Tribes v. United States, Docket No. 279-A, Opinion of the Commission, March 31, 1967",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2749",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Annual Report of the Bureau of American Ethnology 18, part 2: Indian Land Cessions in the United States (Royce, 1899), full text",
+      "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+      "publisher": "Internet Archive (Smithsonian Institution, Bureau of American Ethnology)"
+    },
+    {
+      "title": "Our Lands",
+      "url": "https://blackfeetnation.com/lands/",
+      "publisher": "Blackfeet Nation"
+    }
+  ],
+  "openQuestions": [
+    "The 1935 Court of Claims opinion (81 Ct. Cl. 101) was not opened directly; its findings are taken from the Indian Claims Commission's 1952 account.",
+    "The 1967 finding that the 1874 Act reduced the tribes' interest by 4,318,919 acres without consent is read from a quoted motion in the Commission's opinion and should be checked against its own findings.",
+    "The 1910 Act taking timber, hunting and fishing rights reserved in the 1896 agreement for the Glacier National Park area was denied by the Court of Claims and was not researched further; Blackfeet treaty rights in the park remain disputed.",
+    "The Blackfeet Nation's own website blocked automated access; no nation account was recorded. The Gros Ventre (Fort Belknap Indian Community) account was not sought.",
+    "Royce records that an 1868 treaty with the Blackfeet was never ratified and that an Executive Order of July 5, 1873 set apart a joint reserve partly from the 1855 territory."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

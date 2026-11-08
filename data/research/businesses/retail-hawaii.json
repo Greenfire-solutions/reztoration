@@ -1,0 +1,127 @@
+[
+ {
+  "id": "kealopiko",
+  "name": "Kealopiko",
+  "category": "retail",
+  "subcategory": "clothing printed with Hawaiian designs",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi directory of Native Hawaiian-owned businesses (Native Hawaiian Chambers of Commerce and NaHHA)",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-7jxmx"
+  },
+  "description": "Honolulu clothing label whose hand-printed designs draw on Hawaiian plants, places and moʻolelo.",
+  "website": "https://kealopiko.com",
+  "shopOnline": "https://kealopiko.com",
+  "address": "3128 Monsarrat Ave",
+  "city": "Honolulu",
+  "state": "HI",
+  "zip": "96815",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kealopiko contact page",
+    "url": "https://kealopiko.com/pages/contact"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.8126,
+   21.2692
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "na-lima-mili-hulu-noeau",
+  "name": "Nā Lima Mili Hulu Noʻeau (Feather Legacy)",
+  "category": "arts",
+  "subcategory": "Hawaiian featherwork and classes",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi directory of Native Hawaiian-owned businesses",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-8d263"
+  },
+  "description": "Family feather studio in Honolulu that makes and teaches traditional Hawaiian featherwork such as lei hulu and hatbands.",
+  "website": "https://featherlegacy.com",
+  "address": "904 Kohou St Suite 204",
+  "city": "Honolulu",
+  "state": "HI",
+  "zip": "96817",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Feather Legacy home page (new Kohou Street location)",
+    "url": "https://featherlegacy.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.8701,
+   21.3244
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "born-hawaii",
+  "name": "Born Hawaii",
+  "category": "retail",
+  "subcategory": "Hawaiian clothing shop",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi directory of Native Hawaiian-owned businesses",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-arb5k"
+  },
+  "description": "Clothing shop in Kapaʻa on Kauaʻi selling its own Hawaiian-themed apparel, with store pickup for online orders.",
+  "website": "https://bornhawaii.com",
+  "shopOnline": "https://bornhawaii.com",
+  "address": "4-1526 Kuhio Hwy",
+  "city": "Kapaa",
+  "state": "HI",
+  "zip": "96746",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Born Hawaii home page (hours Mon to Sat)",
+    "url": "https://bornhawaii.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -159.3148,
+   22.0791
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "kapa-curious",
+  "name": "Kapa Curious",
+  "category": "arts",
+  "subcategory": "kapa-inspired prints, wood and accessories",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi directory of Native Hawaiian-owned businesses",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-7nm5a"
+  },
+  "description": "Maui artist making accessories, prints and home goods that carry kapa patterns into everyday objects, and funding a college scholarship.",
+  "website": "https://www.kapacurious.com",
+  "shopOnline": "https://www.kapacurious.com",
+  "city": "Kahului",
+  "state": "HI",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Kapa Curious home page",
+    "url": "https://www.kapacurious.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -156.4727,
+   20.8894
+  ],
+  "lonlatPrecision": "town"
+ }
+]

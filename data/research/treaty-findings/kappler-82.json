@@ -1,0 +1,84 @@
+{
+  "id": "kappler-82",
+  "name": "Treaty with the Sauk and Foxes, 1804 (Treaty of St. Louis)",
+  "aka": [
+    "Treaty of St. Louis (1804)",
+    "Sac and Fox Treaty of 1804"
+  ],
+  "signed": "1804-11-03",
+  "ratified": "1805-01-25",
+  "proclaimed": "1805-02-21",
+  "citation": "7 Stat. 84",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-and-foxes-1804-0074",
+  "nations": [
+    "Sauk (Thâkîwaki)",
+    "Meskwaki (Fox)"
+  ],
+  "promises": [
+    "The United States took the Sauk and Meskwaki into its friendship and protection (Article 1).",
+    "Goods worth $1,000 a year, $600 to the Sauk and $400 to the Meskwaki, in return for the cession, after $2,234.50 in goods at signing (Articles 2 and 3).",
+    "The United States would never disturb their possession of the lands they rightfully claimed and would protect it against intruding citizens (Article 4), removing settlers on complaint (Article 6).",
+    "The people could go on living and hunting on the ceded lands for as long as those lands remained the property of the United States (Article 7).",
+    "Compensation for horses or property stolen by US citizens, and a trading house with fairer prices (Articles 5 and 9)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1973-12-26",
+      "what": "The Indian Claims Commission found that under this treaty the Sac and Fox Nation ceded 1,638,724.39 acres in Missouri and 2,012,700 acres in Illinois and Wisconsin worth $1,989,585, for which the United States paid $20,000, held that consideration unconscionable and awarded $1,969,585.",
+      "whoFoundIt": "Indian Claims Commission, Sac and Fox Tribe of Indians of Oklahoma et al. v. United States, Docket No. 83, Final Award, 32 Ind. Cl. Comm. 320, 398",
+      "source": {
+        "title": "Sac and Fox Tribe of Indians of Oklahoma et al. v. United States, Docket 83, Final Award (December 26, 1973)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2654",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "was payment of an unconscionable consideration under Section 2, Clause 3 of the Indian Claims Commission Act"
+    }
+  ],
+  "landTaken": "1,638,724.39 acres in east central Missouri and 2,012,700 acres in northwestern Illinois and southwestern Wisconsin, as found by the Indian Claims Commission (Docket 83, Final Award, 1973). The Commission had earlier held in 1959 that the Sac and Fox held aboriginal title to only part of Royce Area 50.",
+  "compensation": "The treaty's $1,000 yearly annuity was commuted for $20,000 under the Act of April 4, 1910 (36 Stat. 269, 289), which the Commission treated as the whole consideration. On 26 December 1973 the Commission awarded the Sac and Fox Nation's successors $1,969,585, with no offsets (Docket 83, Final Award).",
+  "today": "The successors in the claim are the Sac and Fox Nation (Oklahoma), the Sac and Fox Nation of Missouri in Kansas and Nebraska and the Sac and Fox Tribe of the Mississippi in Iowa (Meskwaki). Whether and how the award was distributed was not checked.",
+  "nationVoice": [
+    {
+      "nation": "Sac and Fox Nation",
+      "summary": "The Nation's archives publish the treaty text and describe it as the first treaty signed that brought the Sauk and Fox together.",
+      "url": "https://www.sacandfoxnation-nsn.gov/?p=927"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Sauk and Foxes, 1804 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-and-foxes-1804-0074",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Sac and Fox Tribe of Indians of Oklahoma et al. v. United States, Docket 83, Final Award (December 26, 1973)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2654",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sac and Fox Tribe et al. v. United States, Docket 83, Opinion of the Commission (December 26, 1973)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1136",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sac and Fox Tribe et al. v. United States, Docket 83, Findings of Fact (June 12, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/455",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sac and Fox Archives: 1804 treaty",
+      "url": "https://www.sacandfoxnation-nsn.gov/?p=927",
+      "publisher": "Sac and Fox Nation"
+    }
+  ],
+  "openQuestions": [
+    "The ICC final award dates the treaty November 4, 1804; the Statutes at Large and Kappler give November 3, 1804. The Kappler date is used here.",
+    "Article 7 (living and hunting on ceded land while it remained US property) and the removal of Black Hawk's band from Saukenuk in 1831 are the core of the Sauk account of this treaty, including Black Hawk's own statement that the signers had no authority to sell land. No court or ICC finding on authority was found; the Court of Claims affirmed the 1959 title ruling (Sac and Fox Tribe v. United States, 315 F.2d 896, 1963) but the full opinion could not be loaded.",
+    "The Sac and Fox Nation and Meskwaki Nation's own published histories of this treaty and Black Hawk were not found online; add them when located.",
+    "Audit 2026-11-07: all figures confirmed against the Docket 83 final award (OSU id 2654: $983,235 + $1,006,350 = $1,989,585; $20,000; $1,969,585; no offsets) and opinion (OSU id 1136). The opinion's text reads '$1,981,885' once, at the unconscionability holding, against $1,989,585 everywhere else; the final award's figure is used. The opinion itself dates the treaty November 3, 1804; only the final award says November 4."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

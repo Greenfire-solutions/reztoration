@@ -1,0 +1,83 @@
+{
+  "id": "cession-1863-02-21-winnebago",
+  "name": "Act for the Removal of the Winnebago Indians, and for the Sale of their Reservation in Minnesota (February 21, 1863)",
+  "aka": [
+    "Winnebago Removal Act of 1863",
+    "Ho-Chunk removal from Blue Earth"
+  ],
+  "signed": "1863-02-21",
+  "citation": "Act of February 21, 1863, ch. 53, 12 Stat. 658",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-12/pdf/STATUTE-12-Pg658-3.pdf",
+  "nations": [
+    "Ho-Chunk (Winnebago)"
+  ],
+  "promises": [
+    "This was an Act of Congress, not a treaty. It took the Blue Earth reservation in Minnesota that the Ho-Chunk had received under the Treaty of 27 February 1855 (10 Stat. 1172) in exchange for their Long Prairie lands, and that the Treaty of 15 April 1859 (12 Stat. 1101) had reduced."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1863-02-21",
+      "what": "Congress authorised the President to remove the Ho-Chunk from Minnesota to land outside any state and ordered their remaining reservation appraised, opened to settlers and sold. The Act contains no provision for Ho-Chunk consent, and it made the Ho-Chunk subject to state criminal law and to rules set by the Secretary of the Interior.",
+      "whoFoundIt": "Act of February 21, 1863, ch. 53, 12 Stat. 658-660",
+      "source": {
+        "title": "Statutes at Large, vol. 12, pp. 658-660, 37th Congress, 3rd Session, ch. 53",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-12/pdf/STATUTE-12-Pg658-3.pdf",
+        "publisher": "US Government Publishing Office (govinfo)"
+      },
+      "quote": "to effect the peaceful and quiet removal of the said Indians from the State of Minnesota"
+    },
+    {
+      "kind": "litigation",
+      "date": "1970-09-03",
+      "what": "The Ho-Chunk claimed before the Indian Claims Commission for the part of their reservation (Royce Area 439) sold under this Act; the claim was settled within a $4,600,000 compromise of their land claims.",
+      "whoFoundIt": "Indian Claims Commission, Winnebago Tribe and Nation v. United States, Dockets 243-245, Findings of Fact on Compromise Settlement (23 Ind. Cl. Comm. 467)",
+      "source": {
+        "title": "Winnebago Tribe v. United States, Findings of Fact on Compromise Settlement (September 3, 1970)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1872",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "The Blue Earth reservation remaining after the 1859 treaty (Royce Area 439). MNopedia gives the 1855 Blue Earth reservation as 200,000 acres, of which the 1859 treaty took the western two-thirds; the acreage sold under this Act was not established here.",
+  "compensation": "The Act directed the sale proceeds, after debts under the 1859 treaty, to improvements on a new reservation. The Ho-Chunk claim for Royce Area 439 was included in the $4,600,000 ICC compromise judgment of 3 September 1970 (Dockets 243-245).",
+  "today": "Per MNopedia, 1,945 Ho-Chunk were moved under threat of military force in May 1863 to Crow Creek in present South Dakota, more than 550 died during the removal, and many later moved to land on the Omaha reservation in Nebraska designated for them in 1865; the Winnebago Tribe of Nebraska and the Ho-Chunk Nation of Wisconsin are their successors.",
+  "nationVoice": [
+    {
+      "nation": "Winnebago Tribe of Nebraska",
+      "summary": "The Tribe's own history says its people were moved from Iowa to Minnesota and then to the treeless plains of South Dakota, from where many of the dispossessed travelled down the Missouri River at night to rejoin their relatives in Nebraska, where treaties of 1865 and 1874 set up the reservation.",
+      "url": "https://winnebagotribe.com/tribal-history/"
+    }
+  ],
+  "area": "The Blue Earth reservation in south-central Minnesota (Blue Earth and Waseca counties area).",
+  "sources": [
+    {
+      "title": "An Act for the Removal of the Winnebago Indians, and for the Sale of their Reservation in Minnesota for their Benefit, 12 Stat. 658",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-12/pdf/STATUTE-12-Pg658-3.pdf",
+      "publisher": "US Government Publishing Office (govinfo)"
+    },
+    {
+      "title": "Ho-Chunk and Blue Earth, 1855-1863 (Matt Reicher)",
+      "url": "https://www.mnhs.org/mnopedia/search/index/event/ho-chunk-and-blue-earth-1855-1863",
+      "publisher": "MNopedia, Minnesota Historical Society"
+    },
+    {
+      "title": "Winnebago Tribe v. United States, Findings of Fact on Compromise Settlement (September 3, 1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1872",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Tribal History",
+      "url": "https://winnebagotribe.com/tribal-history/",
+      "publisher": "Winnebago Tribe of Nebraska"
+    }
+  ],
+  "openQuestions": [
+    "MNopedia records that the Ho-Chunk did not take part in the US-Dakota War of 1862 and that thirteen Ho-Chunk tried afterward were not convicted; a government source stating this would strengthen the record (for example the Commissioner of Indian Affairs annual report for 1863).",
+    "The Winnebago Tribe of Nebraska's and the Ho-Chunk Nation's own accounts of the 1863 removal were not found online; add them to nationVoice.",
+    "The queue entry lists Royce cessions 439 and 468; 468 appears to be the Crow Creek reservation later given up under the treaty of 8 March 1865, which also has its own queue entry (kappler-882)."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

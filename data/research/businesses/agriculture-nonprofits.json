@@ -1,0 +1,205 @@
+[
+ {
+  "id": "intertribal-agriculture-council",
+  "name": "Intertribal Agriculture Council",
+  "category": "agriculture",
+  "subcategory": "Native farmer and rancher support",
+  "nation": "Native-led, intertribal",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council",
+   "url": "https://www.indianag.org/"
+  },
+  "description": "Member organisation for tribal and Native producers, running technical help, market access and the \"Made/Produced by American Indians\" trademark.",
+  "website": "https://www.indianag.org/",
+  "city": "Billings",
+  "state": "MT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council",
+    "url": "https://www.indianag.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -108.4961,
+   45.7875
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "intertribal-buffalo-council",
+  "name": "InterTribal Buffalo Council",
+  "category": "agriculture",
+  "subcategory": "buffalo restoration",
+  "nation": "Native-led, intertribal",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "InterTribal Buffalo Council",
+   "url": "https://www.itbcbuffalonation.org/"
+  },
+  "description": "Federally chartered council of member tribes that restores buffalo herds to tribal lands.",
+  "website": "https://www.itbcbuffalonation.org/",
+  "city": "Rapid City",
+  "state": "SD",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "InterTribal Buffalo Council",
+    "url": "https://www.itbcbuffalonation.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -103.228,
+   44.0806
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "native-american-agriculture-fund",
+  "name": "Native American Agriculture Fund",
+  "category": "agriculture",
+  "subcategory": "grants for Native farmers and ranchers",
+  "nation": "Native-led, intertribal",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Native American Agriculture Fund",
+   "url": "https://nativeamericanagriculturefund.org/"
+  },
+  "description": "Charitable trust making grants to Native farmers, ranchers and food producers across the country.",
+  "website": "https://nativeamericanagriculturefund.org/",
+  "city": "Fayetteville",
+  "state": "AR",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Native American Agriculture Fund",
+    "url": "https://nativeamericanagriculturefund.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -94.1574,
+   36.0626
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "dream-of-wild-health",
+  "name": "Dream of Wild Health",
+  "category": "agriculture",
+  "subcategory": "Indigenous farm and seed keeping",
+  "nation": "Native-led, intertribal",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Dream of Wild Health",
+   "url": "https://dreamofwildhealth.org/"
+  },
+  "description": "Native-led farm that keeps Indigenous seeds, teaches youth to grow food, and runs an Indigenous food share.",
+  "website": "https://dreamofwildhealth.org/",
+  "city": "Hugo",
+  "state": "MN",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Dream of Wild Health",
+    "url": "https://dreamofwildhealth.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -92.9933,
+   45.1599
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "traditional-native-american-farmers-association",
+  "name": "Traditional Native American Farmers Association",
+  "category": "agriculture",
+  "subcategory": "traditional farming and seed workshops",
+  "nation": "Pueblo and Diné farmers",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Traditional Native American Farmers Association",
+   "url": "https://www.tnafa.org/"
+  },
+  "description": "Association of Native farmers teaching traditional dryland farming and seed saving across the Southwest.",
+  "website": "https://www.tnafa.org/",
+  "city": "Santa Fe",
+  "state": "NM",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Traditional Native American Farmers Association",
+    "url": "https://www.tnafa.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -105.9385,
+   35.6876
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "the-cultural-conservancy",
+  "name": "The Cultural Conservancy",
+  "category": "agriculture",
+  "subcategory": "Indigenous foodways and seed rematriation",
+  "nation": "Native-led, intertribal",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "The Cultural Conservancy: Greetings, Relatives",
+   "url": "https://www.nativeland.org/"
+  },
+  "description": "Native-led organisation founded in 1985 that runs Indigenous farms, seed rematriation and foodway programs in the Bay Area.",
+  "website": "https://www.nativeland.org/",
+  "city": "San Francisco",
+  "state": "CA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "The Cultural Conservancy: Greetings, Relatives",
+    "url": "https://www.nativeland.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -122.4075,
+   37.7879
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "kaala-farm",
+  "name": "Ka'ala Farm",
+  "category": "agriculture",
+  "subcategory": "restored lo'i kalo (taro terraces)",
+  "nation": "Native Hawaiian (Wai'anae)",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Ka'ala Farm",
+   "url": "https://www.kaalafarm.org/"
+  },
+  "description": "Restored 97 acres of Hawaiian taro terraces in the back of Wai'anae and shares the food and teaching with the community.",
+  "website": "https://www.kaalafarm.org/",
+  "city": "Waianae",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Ka'ala Farm",
+    "url": "https://www.kaalafarm.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -158.1853,
+   21.4467
+  ],
+  "lonlatPrecision": "town"
+ }
+]

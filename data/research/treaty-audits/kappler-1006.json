@@ -1,0 +1,21 @@
+{
+  "id": "kappler-1006",
+  "auditedAt": "2026-11-07",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty dates and citation (signed 1868-04-29, ratified 1869-02-16, proclaimed 1869-02-24, 15 Stat. 635) against the OSU Kappler text, p. 998",
+    "Promises against Articles 2, 11, 12 and 16 and the four-year ration clause",
+    "United States v. Sioux Nation of Indians (Cornell): decided June 30, 1980; 1876 agreement signed by only 10% of adult males; 'an area of well over 7 million acres'; 19 Stat. 254; ICC determination of February 15, 1974; $17.1 million value; $450,000 gold; interest at 5% a year from 1877; both quotes exact",
+    "Grand Forks Herald, November 24, 2023: joint statement of November 22, 2023 by Janet Alkire and Frank Star Comes Out; relinquishment language 'fraudulently added' after signing; nation-to-nation consultation with 1851 and 1868 signatory tribes",
+    "Christian Science Monitor, 2023: award 'now worth over $1 billion'; 'The Black Hills are not for sale' (Star Comes Out)"
+  ],
+  "changes": [
+    "compensation: '5% simple interest' changed to interest at 5% a year (the source does not say simple); ICC's $450,000 gold liability added",
+    "ICC breach 'what': valuation date and the gold liability added",
+    "openQuestions: audit line added"
+  ],
+  "unverifiable": [
+    "National Archives milestone page not re-opened",
+    "Royce cessions 597 and 516 attached to this id in treaties.json not checked (as the researcher noted)"
+  ]
+}

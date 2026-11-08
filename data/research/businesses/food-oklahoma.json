@@ -1,0 +1,157 @@
+[
+ {
+  "id": "bedre-cafe-sulphur",
+  "name": "Bedre Cafe",
+  "category": "food",
+  "subcategory": "chocolate cafe",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chickasaw Nation: locations, Bedre Cafe Sulphur",
+   "url": "https://www.chickasaw.net/Our-Nation/Locations/Bedre-Cafe-Sulphur"
+  },
+  "description": "Cafe in Sulphur serving Bedre chocolates, coffee and sweets from the Chickasaw Nation chocolate company.",
+  "website": "https://www.chickasaw.net/Our-Nation/Locations/Bedre-Cafe-Sulphur",
+  "address": "14 W Muskogee Ave",
+  "city": "Sulphur",
+  "state": "OK",
+  "zip": "73086",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Nation: locations, Bedre Cafe Sulphur",
+    "url": "https://www.chickasaw.net/Our-Nation/Locations/Bedre-Cafe-Sulphur"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.9674,
+   34.5069
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "chickasaw-farms",
+  "name": "Chickasaw Farms",
+  "category": "agriculture",
+  "subcategory": "tribal farm",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chickasaw Nation: locations, Chickasaw Farms",
+   "url": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Farms"
+  },
+  "description": "Chickasaw Nation farm operation based in Davis.",
+  "website": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Farms",
+  "address": "609 W Main St",
+  "city": "Davis",
+  "state": "OK",
+  "zip": "73030",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Nation: locations, Chickasaw Farms",
+    "url": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Farms"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -97.116,
+   34.5058
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "butcher-house-meats",
+  "name": "Butcher House Meats",
+  "category": "food",
+  "subcategory": "meat processing plant with retail counter",
+  "nation": "Osage Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Osage Nation: Butcher House Meats",
+   "url": "https://www.osagenation-nsn.gov/services/department-natural-resources/butcher-house"
+  },
+  "description": "Osage Nation meat plant in Hominy, opened in 2021, with a public counter selling Osage Nation Ranch beef and bison.",
+  "website": "https://www.osagenation-nsn.gov/services/department-natural-resources/butcher-house",
+  "address": "115 Eagle Ave",
+  "city": "Hominy",
+  "state": "OK",
+  "zip": "74035",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Osage Nation: Butcher House Meats",
+    "url": "https://www.osagenation-nsn.gov/services/department-natural-resources/butcher-house"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.3947,
+   36.4155
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "firelake-fry-bread-taco",
+  "name": "FireLake Fry Bread Taco",
+  "category": "food",
+  "subcategory": "restaurant",
+  "nation": "Citizen Potawatomi Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Citizen Potawatomi Nation: enterprises, dining",
+   "url": "https://www.potawatomi.org/enterprises/dining/"
+  },
+  "description": "Citizen Potawatomi Nation fry bread taco restaurant in Shawnee.",
+  "website": "https://www.potawatomi.org/enterprises/dining/",
+  "address": "1568 Bodwe Dr",
+  "city": "Shawnee",
+  "state": "OK",
+  "zip": "74801",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Citizen Potawatomi Nation: enterprises, dining",
+    "url": "https://www.potawatomi.org/enterprises/dining/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.9253,
+   35.3273
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "firelake-pizza",
+  "name": "FireLake Pizza",
+  "category": "food",
+  "subcategory": "pizza restaurant",
+  "nation": "Citizen Potawatomi Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Citizen Potawatomi Nation: enterprises, dining",
+   "url": "https://www.potawatomi.org/enterprises/dining/"
+  },
+  "description": "Citizen Potawatomi Nation pizza restaurant in Shawnee.",
+  "website": "https://www.potawatomi.org/enterprises/dining/",
+  "address": "1566 Bodwe Dr",
+  "city": "Shawnee",
+  "state": "OK",
+  "zip": "74801",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Citizen Potawatomi Nation: enterprises, dining",
+    "url": "https://www.potawatomi.org/enterprises/dining/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.9253,
+   35.3273
+  ],
+  "lonlatPrecision": "town"
+ }
+]

@@ -1,0 +1,31 @@
+[
+ {
+  "id": "natifs-indigenous-food-lab",
+  "name": "NATIFS Indigenous Food Lab",
+  "category": "food",
+  "subcategory": "Indigenous food lab and training kitchen",
+  "nation": "Native-led, founded by The Sioux Chef",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "NATIFS: North American Traditional Indigenous Food Systems",
+   "url": "https://natifs.org/"
+  },
+  "description": "Nonprofit food lab that trains Native cooks and food entrepreneurs and sells Indigenous food products.",
+  "website": "https://natifs.org/",
+  "city": "Minneapolis",
+  "state": "MN",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "NATIFS: North American Traditional Indigenous Food Systems",
+    "url": "https://natifs.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -93.2655,
+   44.9773
+  ],
+  "lonlatPrecision": "town"
+ }
+]

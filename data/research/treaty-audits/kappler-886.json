@@ -1,0 +1,23 @@
+{
+  "id": "kappler-886",
+  "auditedAt": "2026-11-07",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty dates and citation (signed 1865-09-29, ratified 1866-06-26, proclaimed 1867-01-21, 14 Stat. 687) against the OSU Kappler text, p. 878",
+    "Promises against Articles 1, 2 and 13 ($300,000 at five per cent paid semi-annually; 20-mile trust strip at not less than $1.25; 25 per cent to a school fund up to $80,000; $20,000 advance)",
+    "ICC Docket 9 opinion of 1949 (OSU id 425): 865,930.31 acres",
+    "ICC Docket 9 opinion of 1954 (OSU id 307): Court of Claims reversed, consideration unconscionable, 34 cents an acre, fair value on September 29, 1865 less $300,000 and survey and sale expenses",
+    "ICC Docket 9 additional findings (OSU id 324), findings 28-29: 844,632.95 acres, $1.50 an acre, $1,266,949.42; deductions totalling $327,738.97",
+    "ICC Docket 9 offsets opinion (OSU id 511): offsets $75,102.90, judgment $864,107.55",
+    "Leagle header for 97 F. Supp. 381: Court of Claims decided May 1, 1951"
+  ],
+  "changes": [
+    "Court of Claims breach date corrected from 1951-07-01 to 1951-05-01 (July 1, 1951 was a Sunday; OCR of the Commission's opinion is damaged at the month)",
+    "whoFoundIt: added parallel citation 97 F. Supp. 381 and the correct date",
+    "Added the Leagle source; openQuestions arithmetic note expanded; audit line added"
+  ],
+  "unverifiable": [
+    "Court of Claims opinion text not opened beyond its header (Leagle page shows only the header without a login); holding taken from the Commission's quotation of it",
+    "Certiorari denial 342 U.S. 896 seen in search results only"
+  ]
+}

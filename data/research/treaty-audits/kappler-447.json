@@ -1,0 +1,19 @@
+{
+  "id": "kappler-447",
+  "auditedAt": "2026-11-07",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty date, citation and proclamation (1835-12-29, 7 Stat. 478, proclaimed 1836-05-23) against the OSU Kappler text, p. 439",
+    "Promises against Articles 1, 5, 6, 7 and the $500,000 additional tract; supplementary articles of March 1, 1836 void Articles 12 and 13",
+    "United States v. Cherokee Nation, 202 U.S. 101 (Cornell): decided April 30, 1906; $1,111,284.70 improperly charged to the treaty fund for removal, interest at 5% from June 12, 1838; quote exact; decree affirmed with a modification",
+    "Cherokee Nation Delegate to Congress page: quote exact; '187 years'; Kim Teehee nominated in 2019",
+    "Cherokee Nation History page: Jackson's determination; most Cherokees refused; troops under Winfield Scott in 1838; McGirt and Hogner"
+  ],
+  "changes": [
+    "Breach 1: 'affirmed' changed to 'affirmed, with a modification to how it was to be paid out'",
+    "openQuestions: audit line added"
+  ],
+  "unverifiable": [
+    "Senate ratification date (not in the Kappler header opened); NPS page not re-opened"
+  ]
+}

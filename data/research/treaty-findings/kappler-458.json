@@ -1,0 +1,92 @@
+{
+  "id": "kappler-458",
+  "name": "Treaty with the Ottawa, etc., 1836 (Treaty of Washington)",
+  "aka": [
+    "Treaty of Washington (1836)",
+    "1836 Treaty"
+  ],
+  "signed": "1836-03-28",
+  "proclaimed": "1836-05-27",
+  "citation": "7 Stat. 491",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-ottawa-etc-1836-0450",
+  "nations": [
+    "Odawa (Ottawa) and Ojibwe (Chippewa) of Michigan: today Bay Mills Indian Community, Sault Ste. Marie Tribe of Chippewa Indians, Grand Traverse Band, Little Traverse Bay Bands of Odawa, Little River Band of Ottawa"
+  ],
+  "promises": [
+    "Article 13: the Odawa and Ojibwe kept the right of hunting on the ceded lands, with the other usual privileges of occupancy, until the land was required for settlement.",
+    "Articles 2 and 3: reserved tracts (50,000 acres on Little Traverse Bay, 20,000 on Grand Traverse Bay, 70,000 on or north of the Pere Marquette and others, plus Chippewa tracts north of the straits) for five years from ratification, unless the United States allowed longer.",
+    "Article 4: an annuity of $30,000 a year in specie for twenty years, $5,000 a year for education, $3,000 for missions, $10,000 for farm implements and other payments.",
+    "Article 8: if the nations wished, a country southwest of the Missouri River that the United States would forever guarantee to them, and payment for improvements on ceded land."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1971-12-29",
+      "what": "The Commission valued the land ceded in this treaty (most of Royce Area 205 in Michigan's northern Lower Peninsula and eastern Upper Peninsula, plus smaller areas) at $12,141,108.23, over seven times the $1,821,628.06 due under the treaty, and held the consideration unconscionable.",
+      "whoFoundIt": "Indian Claims Commission, Bay Mills Indian Community et al. v. United States, Dockets 18-E and 58, 26 Ind. Cl. Comm. 538 (1971)",
+      "source": {
+        "title": "Bay Mills Indian Community et al. v. United States, Dockets 18-E and 58, Opinion of the Commission, December 29, 1971",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2533",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "we find that the consideration provided for the plaintiffs in the 1836 Treaty was unconscionable."
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1981-07-10",
+      "what": "In the government's suit against Michigan, after the State had enforced its fishing rules against tribal fishers, the Sixth Circuit held that the fishing rights preserved in this treaty, including gill net fishing, continue as federally protected rights, and that Michigan may restrict them only if it proves by clear and convincing evidence that regulation is needed to prevent irreparable harm.",
+      "whoFoundIt": "United States v. Michigan, 653 F.2d 277 (6th Cir. 1981), following the district court's 1979 judgment (471 F. Supp. 192)",
+      "source": {
+        "title": "United States v. Michigan, 653 F.2d 277 (6th Cir. 1981)",
+        "url": "https://law.resource.org/pub/us/case/reporter/F2/653/653.F2d.277.79-1528.79-1527.79-1414.html",
+        "publisher": "Public.Resource.Org"
+      },
+      "quote": "fishing rights preserved to the Indians in the 1836 Treaty, including the aboriginal rights to engage in gill net fishing, continue to the present day"
+    }
+  ],
+  "landTaken": "The Commission found the plaintiffs held aboriginal title to 12,044,934 acres in Royce Area 205 ceded by this treaty, reduced to 11,923,483.25 acres after deducting 121,450.75 acres in allotments (Commission, 1971).",
+  "compensation": "Amended final award of $10,109,003.55 (March 15, 1972) in Dockets 18-E and 58, on behalf of the Ottawa and Chippewa nations who signed the treaties of July 6, 1820 and March 28, 1836.",
+  "today": "The 1981 ruling allowed Michigan to regulate treaty fishing only on a strict showing of need. In 1994 Congress reaffirmed the federal recognition of the Little Traverse Bay Bands and the Little River Band as descendants of the 1836 signatories, finding that the Bureau of Indian Affairs had failed to act on their 1935 and 1975 requests to reorganize (S. 1357, 103rd Congress).",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Ottawa, etc., 1836 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-ottawa-etc-1836-0450",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Bay Mills Indian Community v. United States, Dockets 18-E and 58, Opinion, December 29, 1971",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2533",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Bay Mills Indian Community v. United States, Dockets 18-E and 58, Amended Final Award, March 15, 1972",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1005",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "United States v. Michigan, 653 F.2d 277 (6th Cir. 1981)",
+      "url": "https://law.resource.org/pub/us/case/reporter/F2/653/653.F2d.277.79-1528.79-1527.79-1414.html",
+      "publisher": "Public.Resource.Org"
+    },
+    {
+      "title": "United States v. Michigan, 623 F.2d 448 (6th Cir. 1980)",
+      "url": "https://law.resource.org/pub/us/case/reporter/F2/623/623.F2d.448.79-1528.79-1527.79-1414.html",
+      "publisher": "Public.Resource.Org"
+    },
+    {
+      "title": "S. 1357 (103rd Congress), Little Traverse Bay Bands of Odawa Indians and the Little River Band of Ottawa Indians Act, enrolled bill",
+      "url": "https://www.congress.gov/103/bills/s1357/BILLS-103s1357enr.pdf",
+      "publisher": "US Congress (congress.gov)"
+    }
+  ],
+  "openQuestions": [
+    "The award covers both the 1820 and 1836 treaties; the split between them was not isolated.",
+    "Article 8's promise of a guaranteed western home and the five-year limit on the reserves (a Senate amendment) left the Odawa and Ojibwe without secure land until the 1855 Treaty of Detroit; a source tying the expiry of the reserves to removal pressure was not opened.",
+    "The district court's 1979 opinion (471 F. Supp. 192, Judge Noel Fox) was not opened directly; the consent decrees of 1985, 2000 and 2023 were not opened.",
+    "No tribal-government page on the 1836 treaty was opened in this pass; the Sault Ste. Marie Tribe, Bay Mills, Grand Traverse, Little Traverse Bay Bands and Little River Band, and the Chippewa Ottawa Resource Authority, are the places to look."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

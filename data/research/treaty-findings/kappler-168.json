@@ -1,0 +1,67 @@
+{
+  "id": "kappler-168",
+  "name": "Treaty with the Quapaw, 1818",
+  "aka": [
+    "Treaty of St. Louis with the Quapaw, 1818"
+  ],
+  "signed": "1818-08-24",
+  "proclaimed": "1819-01-05",
+  "citation": "7 Stat. 176",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-quapaw-1818-0160",
+  "nations": [
+    "Quapaw Nation (O-Gah-Pah)"
+  ],
+  "promises": [
+    "A reservation between the Arkansas, Ouachita and Saline rivers kept for the Quapaw, to be surveyed at federal expense (Article 2).",
+    "The Quapaw could hunt in the ceded territory until the United States assigned it to other friendly Indians (Article 3).",
+    "No citizen of the United States or anyone else would be allowed to settle on the reserved lands (Article 4).",
+    "$4,000 in goods at signing and $1,000 in goods every year (Article 5).",
+    "Indemnity for property stolen from the Quapaw by United States citizens (Article 6)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "The Indian Claims Commission found that the area ceded east of the 100th meridian, outside the reserve, comprised 43,520,888.24 acres, and the reserve 1,163,604.75 acres (Docket 14 findings, 1951).",
+  "compensation": "The Indian Claims Commission found that at the time of this treaty the Quapaw did not actually occupy and exclusively possess any part of the 43,520,888.24 acres ceded outside the reserve, and dismissed that part of the claim. It made its award instead for the reserve itself, which the Quapaw gave up six years later under the 1824 treaty (see kappler-218).",
+  "today": "The reserve this treaty set aside was ceded in 1824 for a price the Commission held unconscionable; that finding is recorded under kappler-218.",
+  "nationVoice": [
+    {
+      "nation": "Quapaw Nation (O-Gah-Pah)",
+      "summary": "The Quapaw Nation's own history of its leader Saracen says the Nation agreed to the 1818 treaty under pressure, giving up about thirty million acres and keeping about one and a half million acres as its first reservation, and was then pressured again in 1824 into giving up the rest of its Arkansas land for a place among the Caddo on the Red River, where floods, hunger and disease followed.",
+      "url": "https://www.quapawtribe.com/598/Saracen"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Quapaw, 1818 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-quapaw-1818-0160",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Quapaw Tribe of Indians v. United States, Docket 14, Findings of Fact (1951)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/137",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Quapaw Tribe of Indians v. United States, Docket 14, Opinion of the Commission (March 1951), Count I dismissed for failure to prove aboriginal possession",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/37",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Quapaw Tribe of Indians v. United States, Docket 14, Opinion of the Commission on offsets (December 1951)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/241",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Saracen",
+      "url": "https://www.quapawtribe.com/598/Saracen",
+      "publisher": "Quapaw Nation"
+    }
+  ],
+  "openQuestions": [
+    "Whether settlers entered the reserve between 1818 and 1824 in breach of Article 4 was not researched; Arkansas territorial records and the 1824 negotiation papers are the place to look.",
+    "Whether the $1,000 yearly goods under Article 5 were delivered was not researched.",
+    "The Quapaw Nation's history pages on quapawtribe.com carry no text about this treaty; a nation statement is still wanted."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,176 @@
+[
+ {
+  "id": "aha-punana-leo",
+  "name": "ʻAha Pūnana Leo",
+  "category": "education",
+  "subcategory": "Hawaiian language immersion preschools",
+  "nation": "Native Hawaiian",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "ʻAha Pūnana Leo",
+   "url": "https://www.ahapunanaleo.org/"
+  },
+  "description": "Runs Hawaiian-language immersion preschools across the islands and helped bring the language back into schools.",
+  "website": "https://www.ahapunanaleo.org/",
+  "city": "Hilo",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "ʻAha Pūnana Leo",
+    "url": "https://www.ahapunanaleo.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -155.0816,
+   19.7074
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "nawahiokalaniopuu",
+  "name": "Ke Kula ʻO Nāwahīokalaniʻōpuʻu",
+  "category": "education",
+  "subcategory": "Hawaiian immersion school",
+  "nation": "Native Hawaiian",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Ke Kula ʻO Nāwahīokalaniʻōpuʻu Iki Lab Public Charter School",
+   "url": "https://www.nawahi.org/"
+  },
+  "description": "Hawaiian-medium school from preschool through high school, taught entirely in ʻōlelo Hawaiʻi.",
+  "website": "https://www.nawahi.org/",
+  "city": "Keaau",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Ke Kula ʻO Nāwahīokalaniʻōpuʻu Iki Lab Public Charter School",
+    "url": "https://www.nawahi.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -155.039,
+   19.6225
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "waadookodaading",
+  "name": "Waadookodaading Ojibwe Language Institute",
+  "category": "education",
+  "subcategory": "Ojibwe immersion school",
+  "nation": "Lac Courte Oreilles Ojibwe",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Waadookodaading: Baabaamiziwin (About Us)",
+   "url": "https://www.waadookodaading.org/"
+  },
+  "description": "Ojibwe-language immersion school on the Lac Courte Oreilles reservation.",
+  "website": "https://www.waadookodaading.org/",
+  "city": "Hayward",
+  "state": "WI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Waadookodaading: Baabaamiziwin (About Us)",
+    "url": "https://www.waadookodaading.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -91.4849,
+   46.013
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "akwesasne-freedom-school",
+  "name": "Akwesasne Freedom School",
+  "category": "education",
+  "subcategory": "Mohawk immersion school",
+  "nation": "Mohawk (Akwesasne)",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Akwesasne Freedom School",
+   "url": "https://akwesasnefreedomschool.org/"
+  },
+  "description": "Independent Mohawk-language immersion school keeping the language, culture and identity strong at Akwesasne.",
+  "website": "https://akwesasnefreedomschool.org/",
+  "city": "Hogansburg",
+  "state": "NY",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Akwesasne Freedom School",
+    "url": "https://akwesasnefreedomschool.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -74.6632,
+   44.9739
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "piegan-institute",
+  "name": "Piegan Institute",
+  "category": "education",
+  "subcategory": "Blackfoot language school",
+  "nation": "Blackfeet Nation",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "The Piegan Institute",
+   "url": "https://www.pieganinstitute.org/"
+  },
+  "description": "Blackfoot-language immersion school and institute serving the Blackfeet reservation since 1987.",
+  "website": "https://www.pieganinstitute.org/",
+  "city": "Browning",
+  "state": "MT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "The Piegan Institute",
+    "url": "https://www.pieganinstitute.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -113.0173,
+   48.5577
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "wicoie-nandagikendan",
+  "name": "Wicoie Nandagikendan",
+  "category": "education",
+  "subcategory": "Dakota and Ojibwe immersion preschool",
+  "nation": "Dakota and Ojibwe",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Wicoie Nandagikendan: Indigenous languages school",
+   "url": "https://wicoienandagikendan.org/"
+  },
+  "description": "Dakota and Ojibwe language immersion early learning program in Minneapolis.",
+  "website": "https://wicoienandagikendan.org/",
+  "city": "Minneapolis",
+  "state": "MN",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Wicoie Nandagikendan: Indigenous languages school",
+    "url": "https://wicoienandagikendan.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -93.2655,
+   44.9773
+  ],
+  "lonlatPrecision": "town"
+ }
+]

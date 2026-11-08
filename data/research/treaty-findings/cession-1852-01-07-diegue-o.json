@@ -1,0 +1,117 @@
+{
+  "id": "cession-1852-01-07-diegue-o",
+  "name": "Treaty at The village of Santa Isabel (1852), unratified California treaty L",
+  "aka": [
+    "Treaty L of the eighteen unratified California treaties of 1851-1852"
+  ],
+  "signed": "1852-01-07",
+  "citation": "Never ratified; printed by order of the Senate, January 19, 1905",
+  "textUrl": "https://digicoll.lib.berkeley.edu/record/83366/files/arfs003-001.pdf",
+  "nations": [
+    "Diegueño (Kumeyaay)"
+  ],
+  "promises": [
+    "Article 3 or 4 set apart a defined tract 'forever' for the occupancy of the signing tribes.",
+    "Beef cattle and flour for subsistence during 1851 and 1852.",
+    "Livestock, ploughs, tools, seed, iron and steel, blankets and clothing, divided by the tribes' numbers.",
+    "A farmer, a blacksmith, a carpenter and school teachers, with a school house, for at least five years."
+  ],
+  "status": "unratified",
+  "breaches": [
+    {
+      "kind": "never-ratified",
+      "date": "1852-07-08",
+      "what": "This treaty (treaty L in the President's schedule) was one of eighteen made with California Indians in 1851-52 that the Senate refused to ratify in executive session on July 8, 1852, and placed under an injunction of secrecy that was removed only on January 18, 1905.",
+      "whoFoundIt": "United States Senate, executive session; record reprinted 1905",
+      "source": {
+        "title": "Robert F. Heizer, The Eighteen Unratified Treaties of 1851-1852 between the California Indians and the United States Government (1972)",
+        "url": "https://digicoll.lib.berkeley.edu/record/83366/files/arfs003-001.pdf",
+        "publisher": "Archaeological Research Facility, University of California, Berkeley"
+      }
+    },
+    {
+      "kind": "government-admission",
+      "date": "1928-05-18",
+      "what": "Congress let the Indians of California sue for lands the United States took without compensation, and declared their loss from failing to secure the lands and compensation in the eighteen unratified treaties sufficient ground for equitable relief.",
+      "whoFoundIt": "Act of May 18, 1928, 45 Stat. 602",
+      "source": {
+        "title": "Act of May 18, 1928, ch. 624, 45 Stat. 602 (Indians of California jurisdictional act)",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg602.pdf",
+        "publisher": "U.S. Government Publishing Office"
+      },
+      "quote": "the loss to the said Indians on account of their failure to secure the lands and compensation provided for in the eighteen unratified treaties"
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1852",
+      "what": "The Sycuan Band of the Kumeyaay Nation states that because the Senate refused to ratify the Treaty of Santa Ysabel, the Kumeyaay Nation never ceded or surrendered its territory in a ratified treaty or any other document.",
+      "whoFoundIt": "Sycuan Band of the Kumeyaay Nation, Historical Timeline on its tribal website",
+      "source": {
+        "title": "Historical Timeline",
+        "url": "https://sycuantribe.com/historical-timeline/",
+        "publisher": "Sycuan Band of the Kumeyaay Nation"
+      }
+    }
+  ],
+  "landTaken": "The tribes' lands in California, taken without the reserved tract or compensation; Royce areas 309, 310 mark the cession and the intended reservation.",
+  "compensation": "Under the Act of May 18, 1928 the Court of Claims could award the value of the lands and compensation proposed in the eighteen treaties, with land at $1.25 an acre, less offsets. The amount finally paid was not located in this pass.",
+  "today": "The treaty remains unratified. The National Archives' 2013 account describes the rejection as leaving most California Indians without land.",
+  "nationVoice": [
+    {
+      "nation": "Sycuan Band of the Kumeyaay Nation",
+      "summary": "Sycuan's timeline says twenty-two Kumeyaay leaders signed the Treaty of Santa Ysabel on January 7, 1852, that the Senate refused to ratify it and sealed it until 1905, and that as a result the Kumeyaay Nation has never ceded its territory in a ratified treaty or any other document.",
+      "url": "https://sycuantribe.com/historical-timeline/"
+    },
+    {
+      "nation": "Sycuan Band of the Kumeyaay Nation",
+      "summary": "Sycuan's history says pressure from California officials led the Senate to refuse the 18 treaties, which left Kumeyaay lands unceded, and that 1850 to the end of Reconstruction was one of the worst periods in Kumeyaay history.",
+      "url": "https://sycuantribe.com/history-heritage/"
+    },
+    {
+      "nation": "San Pasqual Band of Mission Indians (Kumeyaay)",
+      "summary": "The Band's history says Kumeyaay clans negotiated the Treaty of Santa Ysabel on January 7, 1852 to protect their land rights, that the Senate rejected it under pressure from settlers and California's delegation, and that the rejection opened a very hard era as squatters and homesteaders moved into the San Pasqual Valley.",
+      "url": "https://sanpasqualbandofmissionindians.org/about-us/history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Robert F. Heizer, The Eighteen Unratified Treaties of 1851-1852 between the California Indians and the United States Government (1972)",
+      "url": "https://digicoll.lib.berkeley.edu/record/83366/files/arfs003-001.pdf",
+      "publisher": "Archaeological Research Facility, University of California, Berkeley"
+    },
+    {
+      "title": "Larisa K. Miller, 'The Secret Treaties with California's Indians', Prologue, Fall/Winter 2013",
+      "url": "https://www.archives.gov/files/publications/prologue/2013/fall-winter/treaties.pdf",
+      "publisher": "National Archives"
+    },
+    {
+      "title": "Act of May 18, 1928, ch. 624, 45 Stat. 602 (Indians of California jurisdictional act)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg602.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Historical Timeline",
+      "url": "https://sycuantribe.com/historical-timeline/",
+      "publisher": "Sycuan Band of the Kumeyaay Nation"
+    },
+    {
+      "title": "History and Heritage",
+      "url": "https://sycuantribe.com/history-heritage/",
+      "publisher": "Sycuan Band of the Kumeyaay Nation"
+    },
+    {
+      "title": "History",
+      "url": "https://sanpasqualbandofmissionindians.org/about-us/history/",
+      "publisher": "San Pasqual Band of Mission Indians"
+    }
+  ],
+  "openQuestions": [
+    "The Senate never ratified this treaty, so its promises never bound the United States; it is shown as never ratified. The 1928 Act is recorded as the government's own acknowledgment of the loss.",
+    "One record covers the whole set of eighteen treaties for the facts common to all; the other seventeen are the cession-1851-* and cession-1852-* entries for Royce areas 273 to 310.",
+    "The tribal names are as the commissioners wrote them in 1851-52; most are village or local group names, not nations, and how each community names itself today was not established. treaties.json lists as present-day tribes: Campo Band of Diegueno Mission Indians of the Campo Indian Reservation, California.",
+    "The Court of Claims judgment under the 1928 Act (Indians of California v. United States, 98 Ct. Cl. 583, 1942) and the Indian Claims Commission settlement for the Indians of California (Dockets 31 and 37) were not opened in this pass; they are the leads for the amounts paid.",
+    "Article 2 of the treaties had the tribes relinquish all their lands in California; because the Senate rejected the treaties, the United States took the land without the reserved tracts or the promised goods (1928 Act, section 2)."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

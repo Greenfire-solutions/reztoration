@@ -1,0 +1,119 @@
+{
+  "id": "kappler-669",
+  "name": "Treaty of Medicine Creek (1854)",
+  "aka": [
+    "Treaty with the Nisqualli, Puyallup, etc., 1854",
+    "Medicine Creek Treaty"
+  ],
+  "signed": "1854-12-26",
+  "ratified": "1855-03-03",
+  "proclaimed": "1855-04-10",
+  "citation": "10 Stat. 1132",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-nisqualli-puyallup-etc-1854-0661",
+  "nations": [
+    "Nisqually (Squalli-absch)",
+    "Puyallup (spuyaləpabš)",
+    "Squaxin Island peoples (Sa-heh-wamish, S'Homamish, Steh-chass, Squiaitl, T'Peeksin)",
+    "Steilacoom"
+  ],
+  "promises": [
+    "Article 2 reserved for the tribes' use the island Klah-che-min (Squaxin Island) and two sections each at She-nah-nam Creek (Nisqually) and on Commencement Bay (Puyallup).",
+    "Article 3 secured 'the right of taking fish, at all usual and accustomed grounds and stations' in common with all citizens of the Territory, with hunting and gathering on open and unclaimed lands.",
+    "Article 4: $32,500 paid over twenty years, and $3,250 more to settle on and clear the reservations.",
+    "Article 10: an agricultural and industrial school, a blacksmith, carpenter, physician and medicine, for twenty years."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1973-02-07",
+      "what": "The Indian Claims Commission found that the Nisqually Tribe's share of what the United States paid under this treaty, $78,893.92, was about 49 percent of the $160,000 value of its ceded land and was unconscionable, and held the tribe entitled to recover $81,106.08 less any allowable offsets.",
+      "whoFoundIt": "Indian Claims Commission, Nisqually Tribe of Indians v. United States, Docket 197, 29 Ind. Cl. Comm. 432 (1973)",
+      "source": {
+        "title": "Nisqually Tribe of Indians v. United States, Docket No. 197, Opinion of the Commission, February 7, 1973",
+        "url": "https://dc.library.okstate.edu/digital/collection/p17279coll10/id/2631",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1979-07-02",
+      "what": "The Supreme Court largely upheld the district court ruling in United States v. Washington (the Boldt decision, 1974) that the treaty fishing clause secures the tribes a share of the harvestable fish, not only an equal opportunity to fish, holding that 50 percent is a ceiling on that share, not a guaranteed amount. It recorded that Washington's Game Department refused to comply and state courts barred its Fisheries Department from complying, so the federal court took direct supervision of the fisheries.",
+      "whoFoundIt": "Washington v. Washington State Commercial Passenger Fishing Vessel Assn., 443 U.S. 658 (1979), reviewing United States v. Washington, 384 F. Supp. 312 (W.D. Wash. 1974)",
+      "source": {
+        "title": "Washington v. Washington State Commercial Passenger Fishing Vessel Assn., 443 U.S. 658 (1979)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/443/658",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
+      "quote": "the District Court may assume direct supervision of the fisheries if state recalcitrance or state-law barriers should be continued"
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1917",
+      "what": "The Nisqually Indian Tribe records that Pierce County condemned 3,353 acres of Nisqually reservation land and transferred it to the Army to expand Fort Lewis, and that the reservation land north and east of the Nisqually River is still under the base's control as an impact area.",
+      "whoFoundIt": "Nisqually Indian Tribe, Heritage page",
+      "source": {
+        "title": "Heritage",
+        "url": "https://www.nisqually-nsn.gov/heritage",
+        "publisher": "Nisqually Indian Tribe"
+      }
+    }
+  ],
+  "landTaken": "The ceded area of southern Puget Sound described in Article 1. The Nisqually Tribe records that 3,353 acres of its reservation were later condemned for Fort Lewis (Nisqually Indian Tribe, Heritage).",
+  "compensation": "The Indian Claims Commission (1973) found the Nisqually entitled to $81,106.08 less offsets for the unconscionable price; its final award of July 31, 1974 allowed $1,093.01 in offsets and awarded $80,013.07 (Docket 197, 34 Ind. Cl. Comm. 297). Payment was not traced.",
+  "today": "The fishing right is enforced under the continuing jurisdiction of United States v. Washington; in 2018 an equally divided Supreme Court left in place the Ninth Circuit's culvert ruling in that case (Washington v. United States, No. 17-269).",
+  "nationVoice": [
+    {
+      "nation": "Nisqually Indian Tribe",
+      "summary": "The Tribe says its reservation was established by this treaty, that whether Chief Leschi agreed to it was heavily disputed, and that 3,353 acres were later condemned for Fort Lewis.",
+      "url": "https://www.nisqually-nsn.gov/heritage"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Nisqualli, Puyallup, etc., 1854 (Kappler, vol. 2, p. 661)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-nisqualli-puyallup-etc-1854-0661",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Nisqually Tribe of Indians v. United States, Docket No. 197, Opinion of the Commission, February 7, 1973",
+      "url": "https://dc.library.okstate.edu/digital/collection/p17279coll10/id/2631",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Washington v. Washington State Commercial Passenger Fishing Vessel Assn., 443 U.S. 658 (1979)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/443/658",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Washington v. United States, No. 17-269 (2018), per curiam",
+      "url": "https://www.law.cornell.edu/supremecourt/text/17-269",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Heritage",
+      "url": "https://www.nisqually-nsn.gov/heritage",
+      "publisher": "Nisqually Indian Tribe"
+    },
+    {
+      "title": "Nisqually Tribe of Indians v. United States, Docket No. 197, Additional Findings of Fact, February 7, 1973",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2157",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Nisqually Tribe of Indians v. United States, Docket No. 197, Final Award, July 31, 1974",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2471",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "Settled in audit: the opinion's valuation paragraph reads '$150,00G.30', but its conclusion reads $160,000.00 and the Commission's conclusion of law in the additional findings (finding 31, OSU id 2157) states the fair market value of the Nisqually tract on March 3, 1855 as $160,000.00, which matches $78,893.92 plus $81,106.08. The $150,000 reading is either an OCR error or a slip in the opinion text.",
+    "Whether the Fort Lewis condemnation (1917-18) was ever found to breach the treaty, and what was paid: not located. Lead: Congressional acts of the 1920s compensating the Nisqually.",
+    "Parallel Indian Claims Commission decisions for the Squaxin (1972) and Steilacoom (1973) under this treaty were not read.",
+    "The Ninth Circuit culvert opinion (United States v. Washington, 2017) could not be loaded; only the Supreme Court's 2018 one-line affirmance was opened.",
+    "The Boldt decision itself (384 F. Supp. 312) could not be loaded (publisher blocked the robot); it is recorded through the Supreme Court's 1979 account of it.",
+    "Audit 2026-11-07: the $150,000 / $160,000 question resolved to $160,000 from finding 31 (OSU id 2157); final award of $80,013.07 after $1,093.01 offsets added from OSU id 2471; the 1979 Supreme Court breach reworded because the Court fixed 50 percent as a ceiling, not a share 'up to 45 to 50 percent', and modified parts of the district court's decree."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,169 @@
+[
+ {
+  "id": "north-shore-ecotours",
+  "name": "North Shore EcoTours",
+  "category": "tourism",
+  "subcategory": "off-road and hiking tours",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): North Shore EcoTours",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-rcmze"
+  },
+  "description": "Guided off-road and hiking tours across the North Shore's private ridge lands, with cultural and natural history.",
+  "website": "https://www.northshoreecotours.com",
+  "address": "66-250 Kamehameha Hwy",
+  "city": "Haleiwa",
+  "state": "HI",
+  "zip": "96712",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: North Shore EcoTours",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-rcmze"
+   },
+   {
+    "title": "North Shore EcoTours website",
+    "url": "https://www.northshoreecotours.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -158.1032,
+   21.5867
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "hele-on-kauai-bike-shop",
+  "name": "Hele On Kauaʻi Bike Shop",
+  "category": "tourism",
+  "subcategory": "bike rentals on the coastal path",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Hele On Kauaʻi Bike Shop",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-jwthd"
+  },
+  "description": "Kapaa bike shop renting beach cruisers and e-bikes for the Ke Ala Hele Makalae coastal path.",
+  "website": "0",
+  "city": "Kapaa",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Hele On Kauaʻi Bike Shop",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-jwthd"
+   },
+   {
+    "title": "Hele On Kauaʻi Bike Shop website",
+    "url": "0"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -159.3192,
+   22.0747
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "westside-surf-lessons",
+  "name": "Westside Surf Lessons",
+  "category": "tourism",
+  "subcategory": "surf lessons and board rentals",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Westside Surf Lessons",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-85wn6"
+  },
+  "description": "Surf lessons and board and kayak rentals on Oahu's Waianae coast, led by a local lifeguard.",
+  "website": "0",
+  "city": "Waianae",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Westside Surf Lessons",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-85wn6"
+   },
+   {
+    "title": "Westside Surf Lessons website",
+    "url": "0"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -158.1853,
+   21.4467
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "kanoa-transportation-llc",
+  "name": "Kanoa Transportation, LLC",
+  "category": "tourism",
+  "subcategory": "private car and event transportation",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Kanoa Transportation, LLC",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-tz8f7"
+  },
+  "description": "Native Hawaiian owned private car and van service for visitors, events and conferences on Oahu.",
+  "website": "0",
+  "city": "Honolulu",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Kanoa Transportation, LLC",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-tz8f7"
+   },
+   {
+    "title": "Kanoa Transportation, LLC website",
+    "url": "0"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.8557,
+   21.3045
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "native-stories",
+  "name": "Native Stories",
+  "category": "tourism",
+  "subcategory": "Native-led walking tours and story app",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Native Stories",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-3x6xn"
+  },
+  "description": "Walking tours and a mobile story app sharing Native Hawaiian voices at places such as Iolani Palace, Waikiki and downtown Honolulu.",
+  "website": "0",
+  "city": "Honolulu",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Native Stories",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-3x6xn"
+   },
+   {
+    "title": "Native Stories website",
+    "url": "0"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.8557,
+   21.3045
+  ],
+  "lonlatPrecision": "town"
+ }
+]

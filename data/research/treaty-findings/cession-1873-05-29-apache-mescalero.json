@@ -1,0 +1,82 @@
+{
+  "id": "cession-1873-05-29-apache-mescalero",
+  "name": "Executive Order of May 29, 1873 establishing the Mescalero Apache Reservation (taking of Mescalero aboriginal lands)",
+  "aka": [
+    "Mescalero Apache Reservation executive order, 1873"
+  ],
+  "signed": "1873-05-29",
+  "citation": "Executive Order of May 29, 1873",
+  "textUrl": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1062",
+  "nations": [
+    "Mescalero Apache Tribe"
+  ],
+  "promises": [
+    "This was an executive order, not a treaty. It set apart a reservation in south-central New Mexico for the Mescalero Apache; later executive orders enlarged it.",
+    "No payment was offered for the much larger Mescalero homeland between the Rio Grande and the southern and eastern lines of New Mexico that the reservation replaced."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1966-07-07",
+      "what": "The Indian Claims Commission held that the Mescalero aboriginally used and occupied lands in New Mexico east of the Rio Grande, and that on May 29, 1873, the date of the executive order creating their reservation, the United States acquired their Indian title to those lands without payment of compensation. It ordered the land valued as of that date, excluding confirmed Spanish and Mexican grants.",
+      "whoFoundIt": "Indian Claims Commission, Docket 22-B, interlocutory order of July 7, 1966, 17 Ind. Cl. Comm. 162",
+      "source": {
+        "title": "Mescalero Apache Tribe v. United States, Docket 22-B, Interlocutory Order (1966), 17 Ind. Cl. Comm. 162",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1062",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      },
+      "quote": "acquired the Indian title to the aboriginal lands of the said tribe"
+    },
+    {
+      "kind": "litigation",
+      "date": "1967-04-27",
+      "what": "Before value was fixed, the parties settled Docket 22-B for $8,500,000 and dismissed a related count in Docket 22-G; the Commission found the settlement fair and just.",
+      "whoFoundIt": "Indian Claims Commission, Docket 22-B, final judgment of April 27, 1967, 18 Ind. Cl. Comm. 380",
+      "source": {
+        "title": "Mescalero Apache Tribe v. United States, Docket 22-B, Final Judgment (1967), 18 Ind. Cl. Comm. 380",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1524",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "The Mescalero aboriginal lands described in the Commission's Finding No. 37, in New Mexico east of the Rio Grande and south of about the 35th parallel, less confirmed Spanish and Mexican grants (Docket 22-B, 1966). The acreage was not found in a source opened.",
+  "compensation": "None at the time. Final judgment of $8,500,000 by compromise in 1967 (Docket 22-B).",
+  "today": "The Mescalero Apache Tribe holds the Mescalero Apache Reservation in south-central New Mexico, the reservation this order began.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Mescalero Apache Tribe v. United States, Docket 22-B, Opinion of the Commission (1966), 17 Ind. Cl. Comm. 150",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2074",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Mescalero Apache Tribe v. United States, Docket 22-B, Findings of Fact (1966), 17 Ind. Cl. Comm. 100",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1403",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Mescalero Apache Tribe v. United States, Docket 22-B, Interlocutory Order (1966), 17 Ind. Cl. Comm. 162",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1062",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Mescalero Apache Tribe v. United States, Docket 22-B, Findings of Fact on Compromise Settlement (1967), 18 Ind. Cl. Comm. 367",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2237",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Mescalero Apache Tribe v. United States, Docket 22-B, Final Judgment (1967), 18 Ind. Cl. Comm. 380",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1524",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The quote is copied from the OCR of the 1966 order with the letter spacing removed; the page image was not checked.",
+    "The 1873 order's text was not opened; textUrl points to the ICC order that dates the taking to it.",
+    "No Mescalero Apache Tribe history page could be opened (mescaleroapachetribe.com/history/ returned an unrelated page on 2026-11-07).",
+    "Later Mescalero executive orders in the queue (1874-02-02, 1883-03-24) changed the reservation's boundaries and are not covered here."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

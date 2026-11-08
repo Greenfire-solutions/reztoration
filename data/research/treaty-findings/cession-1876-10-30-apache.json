@@ -1,0 +1,104 @@
+{
+  "id": "cession-1876-10-30-apache",
+  "name": "Revocation of the Chiricahua Apache Reservation by Executive Order, October 30, 1876",
+  "aka": [
+    "Abolition of the Chiricahua Reservation",
+    "Executive Order of October 30, 1876 (Royce Area 600)"
+  ],
+  "signed": "1876-10-30",
+  "citation": "Executive Order of October 30, 1876, revoking the Executive Order of December 14, 1872",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+  "nations": [
+    "Chiricahua Apache (Chokonen and related bands), today the Fort Sill Apache Tribe and Chiricahua people at Mescalero"
+  ],
+  "promises": [
+    "The Executive Order of December 14, 1872 set apart a Chiricahua reservation in southeastern Arizona, from Dragoon Springs along the Chiricahua and Peloncillo mountains to the Mexican border, within the Chiricahua homeland.",
+    "In the 1852 treaty Mangas Coloradas signed for the Chiricahua (10 Stat. 979), the United States undertook to designate and settle the Apaches' territorial boundaries."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "executive-action",
+      "date": "1876-10-30",
+      "what": "The President revoked and cancelled the 1872 order setting apart the Chiricahua reservation. The Indian Claims Commission found this was part of a plan to remove all Chiricahua Apache from their homelands to the San Carlos Reservation, and that the Ojo Caliente reservation in New Mexico was abolished on August 25, 1877.",
+      "whoFoundIt": "Executive Order of October 30, 1876, recorded in Royce, Indian Land Cessions (1899), and in Indian Claims Commission Finding 14(b), Fort Sill Apache Tribe v. United States, Dockets 30-A and 48-A (1968)",
+      "source": {
+        "title": "Fort Sill Apache Tribe et al. v. United States, Dockets 30-A and 48-A, Findings of Fact, June 28, 1968",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2269",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1968-06-28",
+      "what": "The Indian Claims Commission found that no treaty of cession or agreement ever became operative with the Chiricahua, that their lands were taken by the United States without their consent or compensation, and that the taking was completed on September 4, 1886, when the Army forced the final surrender of Geronimo's band and removed almost all surviving Chiricahua as prisoners of war. It also found the United States never carried out its 1852 treaty obligation to designate Apache boundaries.",
+      "whoFoundIt": "Indian Claims Commission, Fort Sill Apache Tribe v. United States, Dockets 30-A and 48-A, findings, opinion and interlocutory order of June 28, 1968 (19 Ind. Cl. Comm. 212)",
+      "source": {
+        "title": "Fort Sill Apache Tribe et al. v. United States, Dockets 30-A and 48-A, Interlocutory Order, June 28, 1968",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2337",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1971-08-25",
+      "what": "Final judgment of $15,967,300 to the Fort Sill Apache Tribe and Chiricahua plaintiffs for their aboriginal lands (Dockets 30-A and 48-A) and $521,796 on Dockets 30 and 48, entered on a stipulation.",
+      "whoFoundIt": "Indian Claims Commission, Fort Sill Apache Tribe v. United States, Final Judgment, August 25, 1971 (26 Ind. Cl. Comm. 193)",
+      "source": {
+        "title": "Fort Sill Apache Tribe of Oklahoma et al. v. United States, Dockets 30, 48, 30-A, 48-A, Final Judgment, August 25, 1971",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1486",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "The Chiricahua reservation of 1872 (Royce Area 600), and the wider Chiricahua aboriginal territory in southwestern New Mexico and southeastern Arizona found by the Indian Claims Commission (Finding 13(a), 1968), taken as of September 4, 1886.",
+  "compensation": "$15,967,300 for the aboriginal lands (Dockets 30-A and 48-A) and $521,796 (Dockets 30 and 48), by stipulated final judgment, August 25, 1971.",
+  "today": "Not researched past the 1971 judgment.",
+  "nationVoice": [
+    {
+      "nation": "Fort Sill Apache Tribe",
+      "summary": "The Tribe tells its history as that of Chiricahua survivors whose homeland spanned eastern Arizona and western New Mexico, who were held as prisoners of war in Florida, Alabama and Oklahoma until 1914, of whom about a third kept demanding the lands they had been promised, and who have since regained small holdings in their home territory, including a New Mexico reservation proclaimed in 2011.",
+      "url": "https://fortsillapache-nsn.gov/history-and-traditional-culture/history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Indian Land Cessions in the United States (Royce, 1899), full text (schedule entry for October 30, 1876)",
+      "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+      "publisher": "Internet Archive (Smithsonian Institution, Bureau of American Ethnology)"
+    },
+    {
+      "title": "Fort Sill Apache Tribe et al. v. United States, Dockets 30-A and 48-A, Findings of Fact, June 28, 1968",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2269",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Fort Sill Apache Tribe et al. v. United States, Dockets 30-A and 48-A, Opinion of the Commission, June 28, 1968",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1703",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Fort Sill Apache Tribe et al. v. United States, Dockets 30-A and 48-A, Interlocutory Order, June 28, 1968",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2337",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Fort Sill Apache Tribe of Oklahoma et al. v. United States, Final Judgment, August 25, 1971",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1486",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Fort Sill Apache History",
+      "url": "https://fortsillapache-nsn.gov/history-and-traditional-culture/history/",
+      "publisher": "Fort Sill Apache Tribe"
+    }
+  ],
+  "openQuestions": [
+    "The 1872 reservation followed General O. O. Howard's agreement with Cochise; that agreement's terms were not located in a primary source in this pass.",
+    "The Treaty with the Apaches of July 1, 1852 (10 Stat. 979) is not in the Royce queue because it ceded no land; the Commission's finding that its boundary obligation was never carried out could support an extra-<slug> file.",
+    "The Chiricahua's 27 years as prisoners of war (Florida, Alabama, Fort Sill) and the 1913 division between Fort Sill and Mescalero were not researched for findings.",
+    "The Fort Sill Apache Tribe's own account was not sought in this pass. treaties.json lists no present-day tribes for this cession; the Fort Sill Apache Tribe of Oklahoma is the plaintiff successor in the Commission's case."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

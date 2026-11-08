@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="no-referrer">
+<title>Reztoration</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="icon" href="/favicon.svg">
+<link rel="stylesheet" href="/style.css">
+<script type="importmap">
+{ "imports": { "three": "/vendor/three/build/three.module.js", "three/addons/": "/vendor/three/examples/jsm/" } }
+</script>
+</head>
+<body>
+<canvas id="map"></canvas>
+
+<header class="top">
+  <div class="brand">
+    <h1>Reztoration</h1>
+    <p>The land, by the nations who belong to it</p>
+  </div>
+  <div class="search">
+    <input id="q" type="search" placeholder="Find a nation, a people, a place" autocomplete="off">
+    <ul id="results" hidden></ul>
+  </div>
+  <div class="mode" role="group" aria-label="Map era">
+    <button data-mode="then" class="on" title="The homelands, and the treaties that took them">Then</button>
+    <button data-mode="today" title="Nations today, and Native businesses to support">Today</button>
+  </div>
+  <a class="libbtn" href="#library/art">Library</a>
+</header>
+
+<div id="tip" hidden></div>
+<div id="legend" hidden></div>
+
+<aside id="panel" hidden>
+  <button id="close" aria-label="Close">×</button>
+  <div id="panel-body"></div>
+</aside>
+
+<footer class="bottom">
+  <div class="layers">
+    <label class="then-only"><input type="checkbox" id="l-territories" checked> Traditional territories</label>
+    <label class="then-only"><input type="checkbox" id="l-treaties"> Treaties</label>
+    <label class="then-only"><input type="checkbox" id="l-lands" checked> Tribal lands today</label>
+    <label><input type="checkbox" id="l-states"> State lines</label>
+  </div>
+  <div id="stats"></div>
+  <button id="about-btn">About this map</button>
+</footer>
+
+<dialog id="about">
+  <h2>About this map</h2>
+  <p>Reztoration shows the United States the way it was first known: as the homelands of hundreds of nations. Coloured shapes are traditional territories. Raised gold shapes are tribal lands held today.</p>
+  <p><b>Territories are approximate and overlap.</b> Borders between nations were shared, seasonal and negotiated, not fenced. The territory outlines come from <a href="https://native-land.ca" target="_blank" rel="noopener">Native Land Digital</a>, an Indigenous-led nonprofit, which asks that they be used as a starting point and not as a legal or authoritative source. Present-day lands come from the US Census Bureau (2020).</p>
+  <p><b>Each nation speaks first.</b> Where a nation publishes its own website, culture department, museum or language program, that comes before anything an outside archive holds.</p>
+  <p><b>What is not here, on purpose.</b> Sacred, ceremonial and community-only knowledge is left out, even where an archive has made it public. Collections marked with Traditional Knowledge labels are respected as labelled. Plant medicine is shown as a historical cultural record, not medical advice.</p>
+  <p><b>Treaties.</b> Shaded areas are land ceded to the United States, from Charles Royce's <i>Indian Land Cessions in the United States</i> (1899), digitised by the US Forest Service: the government's own record. A treaty is called broken only where a court, the Indian Claims Commission, an Act of Congress or the government itself documents the breach; the nation's own account is shown first wherever it has published one.</p>
+  <p><b>Today.</b> Each ring is the seat of a nation's government. Each coloured dot is a Native-owned business or organisation, listed only with a source that shows who owns it. Artists who work from home are shown at their town, never their street.</p>
+  <p>If you belong to a nation and something here is wrong, or should not be shown, it will be corrected or removed.</p>
+  <form method="dialog"><button>Close</button></form>
+</dialog>
+
+<section id="library" hidden aria-label="Library">
+  <header>
+    <div><h2>Library</h2><p class="note">Everything gathered, from every nation, in one place. Follow any piece back to its homeland.</p></div>
+    <a class="x" href="#" aria-label="Close library">×</a>
+  </header>
+  <div class="tabs lib"></div>
+  <input class="filter" type="search" placeholder="Search everything: a nation, a maker, a plant, a word" autocomplete="off">
+  <div class="libbody"></div><div class="more"></div>
+</section>
+
+<dialog id="viewer" aria-label="Viewer">
+  <button class="x" aria-label="Close">×</button>
+  <button class="prev" aria-label="Previous">‹</button>
+  <div class="stage"></div>
+  <button class="next" aria-label="Next">›</button>
+  <div class="info"></div>
+</dialog>
+
+<script type="module" src="/app.js"></script>
+</body>
+</html>

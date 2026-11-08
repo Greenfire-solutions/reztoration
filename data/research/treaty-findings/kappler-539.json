@@ -1,0 +1,92 @@
+{
+  "id": "kappler-539",
+  "name": "Treaty with the Miami, 1840",
+  "aka": [
+    "Treaty of the Forks of the Wabash, 1840"
+  ],
+  "signed": "1840-11-28",
+  "ratified": "1841-02-25",
+  "proclaimed": "1841-06-07",
+  "citation": "7 Stat. 582",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-miami-1840-0531",
+  "nations": [
+    "Miami Tribe of Oklahoma (Myaamia)",
+    "Miami Indians of Indiana"
+  ],
+  "promises": [
+    "$550,000 for the 'residue of the Big Reserve', the last Miami land in Indiana: $300,000 to pay the tribe's debts and $250,000 paid in annual instalments (Article 2).",
+    "The United States would pay every expense of removal west of the Mississippi within five years, with twelve months' rations on arrival and $4,000 of pork and flour in the second year (Article 8).",
+    "A tract west of the Mississippi estimated at 500,000 acres set apart for Miami occupancy (Article 12).",
+    "Former treaty stipulations not altered by this treaty stayed in force (Article 11)."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "litigation",
+      "date": "1968-12-05",
+      "what": "The Indian Claims Commission valued the 473,000 acres ceded under this treaty at $1,300,750 but did not decide whether the consideration ($478,027.83 in cash and annuities plus a Kansas reservation of 324,796.88 acres) was unconscionable. The claim was then settled together with claims under the 1834 and 1838 treaties for a final judgment of $1,373,000, after the parties agreed to value the Kansas land at 50 cents an acre.",
+      "whoFoundIt": "Indian Claims Commission, Miami Tribe of Oklahoma et al. v. United States, Docket 256 consolidated with Dockets 124-D, 124-E and 124-F, Findings of Fact (1964) and Findings on Compromise Settlement and Final Judgment of 5 December 1968 (20 Ind. Cl. Comm. 113)",
+      "source": {
+        "title": "Miami Tribe of Oklahoma v. United States, Docket 256 et al., Findings of Fact on Compromise Settlement (1968)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/993",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "2015-10-06",
+      "what": "The Myaamia Center's history blog records the forced removal that followed this treaty in October 1846, when more than 320 Myaamia people were moved by canal and river to Kansas, at least six died on the journey and many more the following winter, while five families were exempted and stayed on individual reserves in Indiana.",
+      "whoFoundIt": "George Ironstrack, 'myaamia aancihsaaciki (Miami Forced Removal)', Aacimotaatiiyankwi (Myaamia Center)",
+      "source": {
+        "title": "myaamia aancihsaaciki (Miami Forced Removal)",
+        "url": "https://aacimotaatiiyankwi.org/2015/10/06/myaamia-aancihsaaciki-miami-forced-removal/",
+        "publisher": "Aacimotaatiiyankwi, Myaamia Center"
+      }
+    }
+  ],
+  "landTaken": "473,000 acres, Royce Area 258, the residue of the Big Reserve in Indiana (Docket 256 findings, 1964).",
+  "compensation": "$550,000 under Article 2; the Commission put the cash and annuity consideration at $478,027.83 plus the Kansas reservation. A compromise final judgment of $1,373,000 in 1968 covered this treaty and the 1834 and 1838 cessions together.",
+  "today": "The Commission noted that the treaty was negotiated by two men acting unofficially, without congressional authority, and the treaty text itself says so.",
+  "nationVoice": [
+    {
+      "nation": "Miami Tribe of Oklahoma (Myaamia Center)",
+      "summary": "The Myaamia Center remembers the 1846 forced removal each October, recording the canal-boat removal of over 320 Myaamia people, the deaths on the way and after, and the families who stayed in Indiana.",
+      "url": "https://aacimotaatiiyankwi.org/2015/10/06/myaamia-aancihsaaciki-miami-forced-removal/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Miami, 1840 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-miami-1840-0531",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Miami Tribe of Oklahoma v. United States, Docket 256 et al., Findings of Fact (1964)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/877",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Miami Tribe of Oklahoma v. United States, Docket 256 et al., Findings of Fact on Compromise Settlement (1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/993",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Miami Tribe of Oklahoma v. United States, Docket 256 et al., Final Judgment (1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1558",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "myaamia aancihsaaciki (Miami Forced Removal)",
+      "url": "https://aacimotaatiiyankwi.org/2015/10/06/myaamia-aancihsaaciki-miami-forced-removal/",
+      "publisher": "Aacimotaatiiyankwi, Myaamia Center"
+    }
+  ],
+  "openQuestions": [
+    "The 1968 settlement made no finding that the 1840 consideration was unconscionable, so this file records it as litigation only.",
+    "Evidence the other way on Article 12: in Docket 251 (findings of 14 July 1958, https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/515) the Commission found there was no agreement to give the Miami a 500,000-acre western tract, and that the tribe accepted the Kansas tract tendered by the Senate amendment of 25 February 1841.",
+    "Whether the United States paid every removal expense and the rations promised in Article 8 was not researched.",
+    "The 1840 treaty Senate amendments were not read in full."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

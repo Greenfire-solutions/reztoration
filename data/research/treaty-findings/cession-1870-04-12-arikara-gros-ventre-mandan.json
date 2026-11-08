@@ -1,0 +1,86 @@
+{
+  "id": "cession-1870-04-12-arikara-gros-ventre-mandan",
+  "name": "Executive Order of April 12, 1870 (establishing the Fort Berthold Reservation)",
+  "aka": [
+    "Fort Berthold executive order of 1870"
+  ],
+  "signed": "1870-04-12",
+  "citation": "1 Kappler 883",
+  "textUrl": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1566",
+  "nations": [
+    "Numakaki (Mandan)",
+    "Hidatsa (Gros Ventre of the Missouri)",
+    "Sahnish (Arikara)"
+  ],
+  "promises": [
+    "This was an executive order, not a treaty. President Grant set apart a reservation for the three nations, which had held their territory under the 1851 Fort Laramie treaty and by aboriginal title north and east of the Missouri.",
+    "An unratified agreement made at Fort Berthold on July 27, 1866 had preceded it; the Senate never ratified that agreement (Docket 350-B)."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "litigation",
+      "date": "1976-03-17",
+      "what": "The nations claimed for the lands lost under the 1870 and 1880 executive orders that drew their reservation boundaries (Docket 350-D). After a trial on value the claim was settled for $3,200,000 by compromise, without a finding.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 350-C and 350-D, 37 Ind. Cl. Comm. 502 (1976)",
+      "source": {
+        "title": "Three Affiliated Tribes v. United States, Dockets 350-C and 350-D, Findings of Fact on Compromise Settlement (1976), 37 Ind. Cl. Comm. 502",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2186",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "what": "The MHA Nation says the 1851 Fort Laramie treaty recognised over 12 million acres as its homeland and that later treaties, executive orders and Acts of Congress reduced this to less than 3 million.",
+      "whoFoundIt": "MHA Nation (Three Affiliated Tribes), History page",
+      "source": {
+        "title": "History",
+        "url": "https://www.mhanation.com/history",
+        "publisher": "MHA Nation (Three Affiliated Tribes)"
+      }
+    }
+  ],
+  "compensation": "No payment at the time. Compromise judgments of $3,200,000 (Docket 350-D, the 1870 and 1880 boundary orders) and $6,500,000 (Docket 350-C, aboriginal lands) in 1976.",
+  "today": "In 1971 the Indian Claims Commission first held that this order extinguished the nations' aboriginal title north and east of the Missouri, but in 1975 it called that holding erroneous: the nations kept using the land, did not accept the 1870 reservation in exchange for their claims, and their title ended only when Congress acted in the Act of March 3, 1891, effective May 20, 1891 (35 Ind. Cl. Comm. 269). That aboriginal-land claim (Docket 350-C) was settled for $6,500,000 in 1976.",
+  "nationVoice": [
+    {
+      "nation": "MHA Nation (Three Affiliated Tribes)",
+      "summary": "Counts the executive orders and federal acts after 1851 as the steps by which over 12 million recognised acres became less than 3 million.",
+      "url": "https://www.mhanation.com/history"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Three Affiliated Tribes et al. v. United States, Dockets 350-B and 350-C et al., Opinion of the Commission (1971), 25 Ind. Cl. Comm. 179",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1974",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Three Affiliated Tribes v. United States, Docket 350-C, Opinion of the Commission (1975), 35 Ind. Cl. Comm. 269",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1566",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Three Affiliated Tribes v. United States, Dockets 350-C and 350-D, Findings of Fact on Compromise Settlement (1976), 37 Ind. Cl. Comm. 502",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2186",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Three Affiliated Tribes v. United States, Docket 350-D, Final Award (1976), 37 Ind. Cl. Comm. 519",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2341",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History",
+      "url": "https://www.mhanation.com/history",
+      "publisher": "MHA Nation (Three Affiliated Tribes)"
+    }
+  ],
+  "openQuestions": [
+    "The order's text (1 Kappler 883) was not opened; textUrl points to the ICC opinion that discusses it.",
+    "No finding was made that this order itself took land in breach of the 1851 Fort Laramie treaty; the ICC's 1975 view is that the order did not extinguish the nations' title at all. A finding on what the order removed from the Fort Laramie territory would change the status.",
+    "Royce's areas 529, 620 and 621 under this id were not each matched to a docket."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

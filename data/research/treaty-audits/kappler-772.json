@@ -1,0 +1,17 @@
+{
+  "id": "kappler-772",
+  "auditedAt": "2026-11-07",
+  "verdict": "confirmed",
+  "checked": [
+    "Treaty dates and citation (signed 1857-09-24 at Table Creek, ratified 1858-03-31, proclaimed 1858-05-26, 11 Stat. 729) against the OSU Kappler text, p. 764",
+    "Promises against Articles 1 to 4 of the OSU text (30 by 15 mile Loup Fork reserve, $40,000 for five years then $30,000 perpetual, at least half in goods, two schools at not less than $5,000 a year each, protection, $1,200 a year in tools and stock for ten years, steam mill kept ten years)",
+    "ICC Docket 10 Additional Findings (OSU id 404): Claim IV area 9,678,000 acres; value $4,939,000.00 as of September 24, 1857; $30,000 perpetual annuity",
+    "ICC Docket 10 Order Amending Findings (OSU id 160): amended findings 138 to 140, credit $1,544,281.20 paid plus $600,000 perpetual annuity, total $2,144,281.20, 'so grossly inadequate an amount for Lands' (quote exact)",
+    "Award $2,794,718.80 = $4,939,000 less $2,144,281.20, and it sums exactly with the other claims to the legible $7,325,985.70 (Claims III and V from OSU id 404)"
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Claim IV digits in the 1962 final award OCR read '2,?Flr,718.82'; the figure is confirmed by subtraction and by the exact sum, not by a clean reading",
+    "Printed volume 10 Ind. Cl. Comm. 410 not seen"
+  ]
+}

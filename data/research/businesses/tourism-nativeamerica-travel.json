@@ -1,0 +1,609 @@
+[
+ {
+  "id": "hualapai-lodge",
+  "name": "Hualapai Lodge",
+  "category": "tourism",
+  "subcategory": "tribal hotel on Route 66",
+  "nation": "Hualapai Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Visit Peach Springs: Grand Canyon Resort Corporation is owned and operated by the Hualapai Tribe",
+   "url": "https://www.visitpeachsprings.com/"
+  },
+  "description": "Hualapai Tribe hotel in Peach Springs on Route 66, base for Grand Canyon West and river trips.",
+  "website": "https://www.visitpeachsprings.com/",
+  "address": "900 Route 66",
+  "city": "Peach Springs",
+  "state": "AZ",
+  "zip": "86434",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Visit Peach Springs: Grand Canyon Resort Corporation is owned and operated by the Hualapai Tribe",
+    "url": "https://www.visitpeachsprings.com/"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Hualapai Lodge",
+    "url": "https://nativeamerica.travel/listings/hualapai-lodge"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -113.4253,
+   35.5295
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "yurok-canoe-tours",
+  "name": "Yurok Canoe Tours",
+  "category": "tourism",
+  "subcategory": "redwood dugout canoe tours",
+  "nation": "Yurok Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Visit Yurok Country (Yurok Tribe): Yurok Canoe Tours",
+   "url": "https://www.visityurokcountry.com/"
+  },
+  "description": "Guided trips on the Klamath River in traditional redwood dugout canoes, with Yurok history along the way.",
+  "website": "https://www.visityurokcountry.com/",
+  "city": "Klamath",
+  "state": "CA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Visit Yurok Country (Yurok Tribe): Yurok Canoe Tours",
+    "url": "https://www.visityurokcountry.com/"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Yurok Canoe Tours",
+    "url": "https://nativeamerica.travel/listings/yurok-canoe-tours"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -124.0384,
+   41.5265
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "antelope-canyon-navajo-tours",
+  "name": "Antelope Canyon Navajo Tours",
+  "category": "tourism",
+  "subcategory": "Upper Antelope Canyon tours",
+  "nation": "Navajo Nation (Diné)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Antelope Canyon Navajo Tours: run on Begay family land by Dalvin Etsitty",
+   "url": "https://navajotours.com/"
+  },
+  "description": "Begay family company, members of the Navajo Nation, guiding Upper Antelope Canyon tours for more than 20 years.",
+  "website": "https://navajotours.com/",
+  "city": "Page",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Antelope Canyon Navajo Tours: run on Begay family land by Dalvin Etsitty",
+    "url": "https://navajotours.com/"
+   },
+   {
+    "title": "Navajo Nation Parks: Antelope Canyon operators",
+    "url": "https://navajonationparks.org/guided-tour-operators/antelope-canyon-tour-operators/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.4573,
+   36.9148
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "dineh-tours",
+  "name": "Dineh Tours",
+  "category": "tourism",
+  "subcategory": "Antelope Canyon and Horseshoe Bend tours",
+  "nation": "Navajo Nation (Diné)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Dineh Tours: a Navajo-owned and operated tour company",
+   "url": "http://dinehtours.com"
+  },
+  "description": "Navajo-owned company running Upper and Lower Antelope Canyon and Horseshoe Bend tours from Page.",
+  "website": "http://dinehtours.com",
+  "city": "Page",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Dineh Tours: a Navajo-owned and operated tour company",
+    "url": "http://dinehtours.com"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Dineh Tours LLC",
+    "url": "https://nativeamerica.travel/listings/dineh-tours-llc"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.4573,
+   36.9148
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "st-paul-island-tour",
+  "name": "St. Paul Island Tour",
+  "category": "tourism",
+  "subcategory": "birding and wildlife tours in the Pribilofs",
+  "nation": "Tanadgusix (TDX) Corporation, Unangan of St. Paul Island",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "St. Paul Island Tour: fully owned by TDX Corporation, an Alaska Native Corporation",
+   "url": "http://www.stpaultour.com"
+  },
+  "description": "Guided birding, fur seal and wildlife tours on St. Paul Island, owned by the island's Alaska Native corporation.",
+  "website": "http://www.stpaultour.com",
+  "city": "St. Paul",
+  "state": "AK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "St. Paul Island Tour: fully owned by TDX Corporation, an Alaska Native Corporation",
+    "url": "http://www.stpaultour.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -170.275,
+   57.1222
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "corque-hotel",
+  "name": "Corque Hotel",
+  "category": "tourism",
+  "subcategory": "boutique hotel",
+  "nation": "Santa Ynez Band of Chumash Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Corque Hotel is owned by the Santa Ynez Band of Chumash Indians",
+   "url": "https://corquehotel.com/"
+  },
+  "description": "Boutique hotel in Solvang wine country owned by the Santa Ynez Band of Chumash.",
+  "website": "https://corquehotel.com/",
+  "address": "400 Alisal Rd",
+  "city": "Solvang",
+  "state": "CA",
+  "zip": "93463",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Corque Hotel is owned by the Santa Ynez Band of Chumash Indians",
+    "url": "https://corquehotel.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -120.1392,
+   34.5931
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "navajoland-inn",
+  "name": "NavajoLand Inn",
+  "category": "tourism",
+  "subcategory": "hotel near Window Rock",
+  "nation": "Navajo Nation (Diné)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "NavajoLand Inn: Navajo owned and operated",
+   "url": "https://www.navajolandinn.com/"
+  },
+  "description": "Navajo owned and operated hotel in St. Michaels, a few minutes from the Navajo Nation capital.",
+  "website": "https://www.navajolandinn.com/",
+  "address": "47219 State Hwy 264",
+  "city": "St. Michaels",
+  "state": "AZ",
+  "zip": "86511",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "NavajoLand Inn: Navajo owned and operated",
+    "url": "https://www.navajolandinn.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -109.0937,
+   35.6512
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "navajo-nation-inn",
+  "name": "Navajo Nation Inn",
+  "category": "tourism",
+  "subcategory": "hotel in Window Rock",
+  "nation": "Navajo Nation (Diné)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Navajo Nation Inn: Navajo owned and operated",
+   "url": "https://navajonationinn.com/"
+  },
+  "description": "Navajo owned and operated hotel and restaurant in Window Rock, near the Navajo Nation Museum.",
+  "website": "https://navajonationinn.com/",
+  "address": "48 W Highway 264",
+  "city": "Window Rock",
+  "state": "AZ",
+  "zip": "86515",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Navajo Nation Inn: Navajo owned and operated",
+    "url": "https://navajonationinn.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -109.0533,
+   35.6634
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "fort-mcdowell-adventures",
+  "name": "Fort McDowell Adventures",
+  "category": "tourism",
+  "subcategory": "horseback rides and desert experiences",
+  "nation": "Fort McDowell Yavapai Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Fort McDowell Adventures, an enterprise of the Fort McDowell Yavapai Nation",
+   "url": "http://www.fortmcdowelladventures.com"
+  },
+  "description": "Tribal outdoor recreation and events venue offering horseback rides and Sonoran Desert experiences.",
+  "website": "http://www.fortmcdowelladventures.com",
+  "address": "14803 N Hiawatha Hood Rd",
+  "city": "Fort McDowell",
+  "state": "AZ",
+  "zip": "85264",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Fort McDowell Adventures, an enterprise of the Fort McDowell Yavapai Nation",
+    "url": "http://www.fortmcdowelladventures.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.652,
+   33.6355
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "eagle-view-rv-resort",
+  "name": "Eagle View RV Resort",
+  "category": "tourism",
+  "subcategory": "tribal-owned RV resort",
+  "nation": "Fort McDowell Yavapai Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Eagle View RV Resort: a tribal-owned RV resort",
+   "url": "https://www.eagleviewrvresort.com/"
+  },
+  "description": "150-site RV resort with full hookups and a pool on the Fort McDowell Yavapai Nation.",
+  "website": "https://www.eagleviewrvresort.com/",
+  "address": "9605 N Fort McDowell Rd",
+  "city": "Fort McDowell",
+  "state": "AZ",
+  "zip": "85264",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Eagle View RV Resort: a tribal-owned RV resort",
+    "url": "https://www.eagleviewrvresort.com/"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Eagle View RV Resort, operated by the Fort McDowell Yavapai Nation",
+    "url": "https://nativeamerica.travel/listings/eagle-view-rv-resort"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.6744,
+   33.572
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "quileute-oceanside-resort",
+  "name": "Quileute Oceanside Resort",
+  "category": "tourism",
+  "subcategory": "oceanfront cabins, lodge and RV park",
+  "nation": "Quileute Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Quileute Oceanside Resort: owned and operated by the Quileute Tribe",
+   "url": "https://quileuteoceanside.com"
+  },
+  "description": "Tribal cabins, motel rooms and RV sites on First Beach in La Push.",
+  "website": "https://quileuteoceanside.com",
+  "address": "330 Ocean Front Dr",
+  "city": "La Push",
+  "state": "WA",
+  "zip": "98350",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Quileute Oceanside Resort: owned and operated by the Quileute Tribe",
+    "url": "https://quileuteoceanside.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -124.6374,
+   47.9092
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "dulce-base-tipi",
+  "name": "Dulce Base Tipi",
+  "category": "tourism",
+  "subcategory": "tipi stays",
+  "nation": "Jicarilla Apache Nation",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Dulce Base Tipi: owned and operated by Jicarilla Apache member Heather Gomez",
+   "url": "http://www.dulcebasetipi.com"
+  },
+  "description": "Seasonal tipi stays near Dulce introducing guests to Jicarilla Apache culture and the nearby lakes.",
+  "website": "http://www.dulcebasetipi.com",
+  "city": "Dulce",
+  "state": "NM",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Dulce Base Tipi: owned and operated by Jicarilla Apache member Heather Gomez",
+    "url": "http://www.dulcebasetipi.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -106.9879,
+   36.9341
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "tatanka-rez-tourz",
+  "name": "Tatanka Rez Tourz",
+  "category": "tourism",
+  "subcategory": "Pine Ridge cultural tours",
+  "nation": "Oglala Sioux Tribe",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Native-owned and operated Tatanka Rez Tourz, based on the Pine Ridge Indian Reservation",
+   "url": "https://nativeamerica.travel/listings/tatanka-rez-tourz"
+  },
+  "description": "Native-owned tours of the Pine Ridge Reservation covering Lakota history, values and present-day life.",
+  "website": "https://tiannayellowhair.wixsite.com/tatankareztourz07",
+  "city": "Allen",
+  "state": "SD",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Native-owned and operated Tatanka Rez Tourz, based on the Pine Ridge Indian Reservation",
+    "url": "https://nativeamerica.travel/listings/tatanka-rez-tourz"
+   },
+   {
+    "title": "Tatanka Rez Tourz website",
+    "url": "https://tiannayellowhair.wixsite.com/tatankareztourz07"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -101.9243,
+   43.2808
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "lakota-tipi-stays",
+  "name": "Lakota Tipi Stays",
+  "category": "tourism",
+  "subcategory": "tipi lodging, youth enterprise",
+  "nation": "Lakota",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Tipi Stays, a Lakota youth-led social enterprise",
+   "url": "https://nativeamerica.travel/listings/lakota-tipi-stays"
+  },
+  "description": "Lakota youth-led enterprise hosting visitors in tipis on the homelands of the Sicangu Lakota.",
+  "website": "https://www.tipistays.com",
+  "city": "Herrick",
+  "state": "SD",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Tipi Stays, a Lakota youth-led social enterprise",
+    "url": "https://nativeamerica.travel/listings/lakota-tipi-stays"
+   },
+   {
+    "title": "Lakota Tipi Stays website",
+    "url": "https://www.tipistays.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -99.1879,
+   43.115
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "kake-tribal-tourism",
+  "name": "Kake Tribal Tourism",
+  "category": "tourism",
+  "subcategory": "village cultural tours",
+  "nation": "Kake Tribal Corporation (Tlingit)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Kake Tribal Corporation: Kake Tribal Tourism",
+   "url": "https://www.kaketribalcorporation.com/kake-tribal-tourism/"
+  },
+  "description": "Village corporation tours of Kake and its culture for groups of up to 500 visitors.",
+  "website": "https://www.kaketribalcorporation.com/kake-tribal-tourism/",
+  "city": "Kake",
+  "state": "AK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kake Tribal Corporation: Kake Tribal Tourism",
+    "url": "https://www.kaketribalcorporation.com/kake-tribal-tourism/"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Kake Tribal Tourism",
+    "url": "https://nativeamerica.travel/listings/kake-tribal-tourism"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -133.9472,
+   56.9758
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "oneida-hotel",
+  "name": "Oneida Hotel",
+  "category": "tourism",
+  "subcategory": "tribal hotel",
+  "nation": "Oneida Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Oneida Hotel, owned and operated by the Oneida Nation",
+   "url": "https://nativeamerica.travel/listings/oneida-radisson-hotel-conference-center"
+  },
+  "description": "Oneida Nation hotel by the Green Bay airport, linked to the Nation's casino.",
+  "website": "https://www.oneidahotel.com",
+  "address": "2040 Airport Dr",
+  "city": "Green Bay",
+  "state": "WI",
+  "zip": "54313",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Oneida Hotel, owned and operated by the Oneida Nation",
+    "url": "https://nativeamerica.travel/listings/oneida-radisson-hotel-conference-center"
+   },
+   {
+    "title": "Oneida Hotel website",
+    "url": "https://www.oneidahotel.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -88.0126,
+   44.5126
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "roadrunner-rv-park",
+  "name": "Roadrunner RV Park",
+  "category": "tourism",
+  "subcategory": "tribally owned RV park",
+  "nation": "Pueblo of Pojoaque",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Roadrunner RV Park, a tribally-owned business",
+   "url": "https://nativeamerica.travel/listings/roadrunner-rv-park"
+  },
+  "description": "Tribally owned RV park on Pojoaque Pueblo land north of Santa Fe.",
+  "city": "Santa Fe",
+  "state": "NM",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Roadrunner RV Park, a tribally-owned business",
+    "url": "https://nativeamerica.travel/listings/roadrunner-rv-park"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -105.9385,
+   35.6876
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "sleepy-hollow-rv-park",
+  "name": "Sleepy Hollow RV Park",
+  "category": "tourism",
+  "subcategory": "tribal RV park and store",
+  "nation": "Quechan Indian Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Sleepy Hollow RV Park, a tribally operated RV park",
+   "url": "https://nativeamerica.travel/listings/sleepy-hollow-rv-park"
+  },
+  "description": "Quechan tribally operated RV park and convenience store in Winterhaven near Yuma.",
+  "address": "369 Algodones Rd",
+  "city": "Winterhaven",
+  "state": "CA",
+  "zip": "92283",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Sleepy Hollow RV Park, a tribally operated RV park",
+    "url": "https://nativeamerica.travel/listings/sleepy-hollow-rv-park"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -114.72,
+   32.7281
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "apsaalooke-tours",
+  "name": "Apsáalooke Tours",
+  "category": "tourism",
+  "subcategory": "Crow Country cultural tours",
+  "nation": "Crow Tribe (Apsáalooke Nation)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Crow Country Tourism, Crow Tribe Tourism Office",
+   "url": "https://www.visitcrowcountry.com/"
+  },
+  "description": "Tours of Crow Country booked through the Crow Tribe Tourism Office, near Little Bighorn.",
+  "website": "https://www.visitcrowcountry.com/",
+  "city": "Garryowen",
+  "state": "MT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Crow Country Tourism, Crow Tribe Tourism Office",
+    "url": "https://www.visitcrowcountry.com/"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Apsaalooke Tours",
+    "url": "https://nativeamerica.travel/listings/apsaalooke-tours"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -107.4166,
+   45.5268
+  ],
+  "lonlatPrecision": "town"
+ }
+]

@@ -1,0 +1,114 @@
+{
+  "id": "kappler-42",
+  "name": "Treaty with the Six Nations, 1794 (Treaty of Canandaigua)",
+  "aka": [
+    "Treaty of Canandaigua",
+    "Pickering Treaty",
+    "Calico Treaty"
+  ],
+  "signed": "1794-11-11",
+  "proclaimed": "1795-01-21",
+  "citation": "7 Stat. 44",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-six-nations-1794-0034",
+  "nations": [
+    "Haudenosaunee (Six Nations): Seneca, Cayuga, Onondaga, Oneida, Tuscarora, Mohawk"
+  ],
+  "promises": [
+    "Article II: the United States acknowledged the Oneida, Onondaga and Cayuga reservations as their property and promised never to claim them nor disturb the nations in their free use and enjoyment, until they chose to sell to people of the United States who had the right to purchase.",
+    "Article III: the United States described the boundaries of the Seneca lands in western New York, acknowledged them as Seneca property, and promised never to claim them nor disturb the Seneca in their free use and enjoyment.",
+    "Article VI: goods worth $10,000 at signing, and $4,500 a year forever (the $1,500 of the 1792 article plus $3,000) spent on clothing, domestic animals, farm implements and paying artisans living among the nations.",
+    "Article VII: injuries by individuals on either side to be settled by complaint to the President or the chiefs, not by private retaliation."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1970-08-11",
+      "what": "In an accounting suit the Commission found the 1794 treaty required $711,000 in Article VI spending for the 158 years from 1795 to 1952, allowed the United States credit for only $678,781.58 of proper spending (rejecting goods shipped but not delivered and nine categories of spending outside the treaty's terms), and held the nations entitled to the $32,218.42 difference. It also found that nothing was ever paid under the 1792 article the treaty enlarged.",
+      "whoFoundIt": "Indian Claims Commission, Six Nations v. United States, Docket 84 and 300-B, 23 Ind. Cl. Comm. 376 (1970)",
+      "source": {
+        "title": "Six Nations et al. v. United States, Dockets 84 and 300-B, Opinion of the Commission, August 11, 1970",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1422",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "act-of-congress",
+      "date": "1964-08-31",
+      "what": "For the Kinzua Dam (Allegheny Reservoir), the United States took interests in land within the Seneca Nation's Allegany Reservation, inside the Seneca lands Article III promised the United States would never claim or disturb. Congress then set payment for the land, homes and relocation of Seneca families after the taking.",
+      "whoFoundIt": "Public Law 88-533, Act of August 31, 1964, 78 Stat. 738",
+      "source": {
+        "title": "Public Law 88-533, 78 Stat. 738 (Allegany Indian Reservation, Kinzua Dam)",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-78/pdf/STATUTE-78-Pg738.pdf",
+        "publisher": "US Government Publishing Office (govinfo)"
+      },
+      "quote": "To authorize payment for certain interests in lands within the Allegany Indian Reservation in New York"
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1985-03-04",
+      "what": "The Supreme Court held the Oneida could sue New York counties for land New York took in a 1795 purchase that violated the federal Nonintercourse Act, land on the reservation the United States had acknowledged as Oneida property in this treaty. The Court quoted Article II and affirmed the lower courts' liability ruling, sending the case back on damages.",
+      "whoFoundIt": "County of Oneida v. Oneida Indian Nation of New York, 470 U.S. 226 (1985)",
+      "source": {
+        "title": "County of Oneida v. Oneida Indian Nation of New York State, 470 U.S. 226 (1985)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/470/226",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
+      "quote": "whether an Indian tribe may have a live cause of action for a violation of its possessory rights that occurred 175 years ago."
+    }
+  ],
+  "compensation": "The Commission's final award in Dockets 84 and 300-B (December 28, 1973) gave the plaintiff nations $29,930.25 after a $6,783.17 offset, plus $25,339.50 to the Seneca Nation on a separate Seneca claim, in full satisfaction of those dockets. For the Kinzua taking, Public Law 88-533 paid the Seneca Nation $666,285 for direct damages, $100,000 for added cost of developing subsurface resources, $945,573 in settlement of other claims including indirect damages, and $522,775 to individual Seneca for houses and improvements.",
+  "today": "The Onondaga Nation announced that the United States and the Haudenosaunee would mark the treaty's 231st anniversary at the Ontario County Courthouse in Canandaigua (notice dated November 10, 2025). The 1985 ruling sent the Oneida claim back on damages; what became of it is listed under openQuestions.",
+  "nationVoice": [
+    {
+      "nation": "Onondaga Nation",
+      "summary": "The Onondaga Nation publishes the treaty's full text on its government pages, including Article II's promise that the United States will never claim or disturb the Onondaga, Oneida and Cayuga reservations.",
+      "url": "https://www.onondaganation.org/government/the-canandaigua-treaty-of-1794/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Six Nations, 1794 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-six-nations-1794-0034",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Six Nations et al. v. United States, Dockets 84 and 300-B, Opinion of the Commission, August 11, 1970",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1422",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Six Nations et al. v. United States, Dockets 84 and 300-B, Final Award, December 28, 1973",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1236",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Public Law 88-533, 78 Stat. 738",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-78/pdf/STATUTE-78-Pg738.pdf",
+      "publisher": "US Government Publishing Office (govinfo)"
+    },
+    {
+      "title": "County of Oneida v. Oneida Indian Nation of New York State, 470 U.S. 226 (1985)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/470/226",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "The Canandaigua Treaty of 1794",
+      "url": "https://www.onondaganation.org/government/the-canandaigua-treaty-of-1794/",
+      "publisher": "Onondaga Nation"
+    },
+    {
+      "title": "Canandaigua Treaty anniversary notice, November 10, 2025",
+      "url": "https://www.onondaganation.org/news/2025/canandaigua-treaty-2/",
+      "publisher": "Onondaga Nation"
+    }
+  ],
+  "openQuestions": [
+    "Seneca Nation v. Brucker (D.C. Cir. 1958), the Seneca suit arguing the Kinzua taking violated this treaty, was not opened; it would add the court's own reasoning on Article III.",
+    "The Seneca Nation's own account of Kinzua and this treaty was not located on sni.org in this pass.",
+    "Cayuga and Onondaga land claims (Cayuga Indian Nation v. Pataki, Onondaga Nation v. New York) rest partly on Article II and were not opened; they ended without land returned and could deepen this file.",
+    "The later course of the Oneida claim after 1985 (including City of Sherrill v. Oneida Indian Nation, 2005) was not opened in this pass."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

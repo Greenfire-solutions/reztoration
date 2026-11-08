@@ -1,0 +1,122 @@
+[
+ {
+  "id": "talking-cedar",
+  "name": "Talking Cedar Brewery & Restaurant",
+  "category": "food",
+  "subcategory": "tribal brewery, distillery and restaurant",
+  "nation": "Confederated Tribes of the Chehalis Reservation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Talking Cedar: our story",
+   "url": "https://talkingcedar.com"
+  },
+  "description": "Chehalis Tribe brewery, distillery and family restaurant on tribal land off I-5, serving house-filleted Chinook salmon.",
+  "website": "https://talkingcedar.com",
+  "address": "19770 Sargent Rd SW",
+  "city": "Rochester",
+  "state": "WA",
+  "zip": "98579",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Talking Cedar: our story",
+    "url": "https://talkingcedar.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -123.016,
+   46.8011
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "alaska-seafood-company",
+  "name": "Alaska Seafood Company",
+  "category": "food",
+  "subcategory": "smoked and canned wild salmon",
+  "nation": "Central Council of the Tlingit and Haida Indian Tribes of Alaska",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Alaska Seafood Company: a Tlingit and Haida tribal enterprise",
+   "url": "https://alaskaseafoodcompany.com/"
+  },
+  "description": "Juneau seafood company owned by Tlingit and Haida, smoking, canning and pouching wild Alaska salmon.",
+  "website": "https://alaskaseafoodcompany.com/",
+  "city": "Juneau",
+  "state": "AK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Alaska Seafood Company: a Tlingit and Haida tribal enterprise",
+    "url": "https://alaskaseafoodcompany.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -134.4197,
+   58.302
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "nett-lake-wild-rice",
+  "name": "Nett Lake Wild Rice",
+  "category": "agriculture",
+  "subcategory": "hand-harvested wild rice",
+  "nation": "Bois Forte Band of Chippewa",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Bois Forte: Nett Lake Wild Rice",
+   "url": "https://boisforte.com/product/nett-lake-wild-rice/"
+  },
+  "description": "Uncultivated wild rice harvested by Bois Forte Band members on Nett Lake, sold through the band's shop.",
+  "website": "https://boisforte.com/product/nett-lake-wild-rice/",
+  "city": "Nett Lake",
+  "state": "MN",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Bois Forte: Nett Lake Wild Rice",
+    "url": "https://boisforte.com/product/nett-lake-wild-rice/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -93.094,
+   48.1109
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "native-harvest",
+  "name": "Native Harvest",
+  "category": "agriculture",
+  "subcategory": "wild rice, maple syrup and crafts",
+  "nation": "White Earth Nation (Ojibwe)",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Native Harvest: owned and operated by the White Earth Land Recovery Project",
+   "url": "https://nativeharvest.com/"
+  },
+  "description": "Store of the White Earth Land Recovery Project selling hand-harvested wild rice, maple syrup, berries and crafts.",
+  "website": "https://nativeharvest.com/",
+  "address": "607 Main Ave",
+  "city": "Callaway",
+  "state": "MN",
+  "zip": "56521",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Native Harvest: owned and operated by the White Earth Land Recovery Project",
+    "url": "https://nativeharvest.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -95.9094,
+   46.9835
+  ],
+  "lonlatPrecision": "address"
+ }
+]

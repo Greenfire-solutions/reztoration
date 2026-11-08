@@ -1,0 +1,35 @@
+[
+ {
+  "id": "nimiipuu-community-development-fund",
+  "name": "Nimiipuu Community Development Fund",
+  "category": "finance",
+  "subcategory": "Native CDFI: small business loans, coaching and homebuyer help",
+  "nation": "Nez Perce Tribe",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Northwest Area Foundation: Native CDFIs and CDFI networks (lists Nimiipuu Community Development Fund, Lapwai)",
+   "url": "https://www.nwaf.org/wp-content/uploads/2021/10/NativeCDFIs-List-102021.pdf"
+  },
+  "description": "Native community lender serving the Nez Perce Reservation and nearby towns with business loans, training and homeownership support.",
+  "website": "https://nimiipuufund.org/",
+  "city": "Lapwai",
+  "state": "ID",
+  "sources": [
+   {
+    "title": "US Treasury CDFI Fund awardee profile",
+    "url": "https://www.cdfifund.gov/awards/state-awards/awardee-profile/21RRP056973"
+   },
+   {
+    "title": "Nez Perce Tribe: Nimiipuu Fund positions",
+    "url": "https://nezperce.org/wp-content/uploads/2021/02/nmpfund-positions.pdf"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -116.8046,
+   46.4048
+  ],
+  "lonlatPrecision": "town"
+ }
+]

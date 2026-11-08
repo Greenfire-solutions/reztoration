@@ -1,0 +1,48 @@
+{
+  "id": "kappler-88",
+  "name": "Treaty with the Delawares, etc., 1805 (Treaty of Grouseland)",
+  "aka": ["Treaty of Grouseland", "Treaty with the Delawares, Potawatomi, Miami, Eel River and Wea, 1805"],
+  "signed": "1805-08-21",
+  "proclaimed": "1806-04-24",
+  "citation": "7 Stat. 91",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-delawares-etc-1805-0080",
+  "nations": ["Miami Tribe of Oklahoma (Myaamia)", "Wea (now part of the Peoria Tribe of Indians of Oklahoma)", "Eel River Miami", "Delaware (Lenape)", "Potawatomi"],
+  "promises": [
+    "Additional permanent annuities for the cession:  to the Miami,  to the Eel River,  to the Wea, and  a year for ten years to the Potawatomi (Article 3).",
+    "The United States would consider the Miami, Eel River and Wea joint owners of all the country on the Wabash and its waters above the Vincennes tract, not to be ceded without the consent of all (Article 4).",
+    "Annuities delivered in the same manner and on the same terms as before (Article 6)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1969-11-26",
+      "what": "The Indian Claims Commission found that the tract ceded by the Miami, Eel River and Wea under Article 2 (Royce Area 56, southern Indiana, 1,537,366 acres) was worth $1,615,000 on 24 April 1806, against $22,000 paid, about 1.4 cents an acre, and held the consideration unconscionable. It found $1,593,000 due: $1,062,000 to the Miami and Eel River and $531,000 to the Wea.",
+      "whoFoundIt": "Indian Claims Commission, Miami Tribe of Oklahoma et al. v. United States, Dockets 253 and 131, and Peoria Tribe on behalf of the Wea Nation, Docket 314-D, Additional Findings of Fact and Conclusions of 26 November 1969 (22 Ind. Cl. Comm. 92)",
+      "source": { "title": "Miami Tribe of Oklahoma v. United States, Dockets 253, 131 and 314-D, Additional Findings of Fact on Value and Conclusions (1969)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2096", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1969-11-26",
+      "what": "The final award for Royce Area 56 was $1,076,652 to the Miami Tribe of Oklahoma and the Miami Tribe of Indiana on behalf of the Miami and Eel River, and $538,326 to the Peoria Tribe on behalf of the Wea.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 253, 131 and 314-D, Final Award (22 Ind. Cl. Comm. 92)",
+      "source": { "title": "Miami Tribe of Oklahoma v. United States, Dockets 253, 131 and 314-D, Final Award (1969)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2633", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+    }
+  ],
+  "landTaken": "Royce Area 56, 1,537,366 acres in southern Indiana (Docket 253 findings, 1969).",
+  "compensation": "$22,000 in value by the Commission's reckoning. The final awards for Area 56 total $1,614,978; the final award figures are larger than the $1,062,000 and $531,000 in the conclusions, and the reason for the difference was not traced.",
+  "today": "The Commission valued the land as of 24 April 1806, the proclamation date, a time it described as a business boom.",
+  "nationVoice": [],
+  "sources": [
+    { "title": "Treaty with the Delawares, etc., 1805 (Kappler)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-delawares-etc-1805-0080", "publisher": "Oklahoma State University Libraries" },
+    { "title": "Miami Tribe of Oklahoma v. United States, Dockets 253, 131 and 314-D, Additional Findings of Fact on Value and Conclusions (1969)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2096", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Miami Tribe of Oklahoma v. United States, Dockets 253, 131 and 314-D, Final Award (1969)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2633", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+  ],
+  "openQuestions": [
+    "Why the final award amounts for Area 56 ($1,076,652 and $538,326) exceed the amounts in the conclusions ($1,062,000 and $531,000) was not traced; the OCR text should be checked against the printed volume.",
+    "Royce also lists Area 49 under this entry (the Delaware relinquishment in Article 1); no ICC finding on Area 49 was traced.",
+    "A Miami Tribe of Oklahoma or Peoria Tribe statement on this treaty was not found."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

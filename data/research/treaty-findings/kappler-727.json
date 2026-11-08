@@ -1,0 +1,140 @@
+{
+  "id": "kappler-727",
+  "name": "Treaty with the Quinaielt, etc., 1855 (Treaty of Olympia)",
+  "aka": [
+    "Treaty of Olympia",
+    "Treaty of Quinault River"
+  ],
+  "signed": "1855-07-01",
+  "ratified": "1859-03-08",
+  "proclaimed": "1859-04-11",
+  "citation": "12 Stat. 971",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-quinaielt-etc-1855-0719",
+  "nations": [
+    "Quinault (including Queets)",
+    "Quileute",
+    "Hoh"
+  ],
+  "promises": [
+    "Article 2: a tract or tracts sufficient for the tribes' wants, to be selected by the President and set apart for their exclusive use, closed to white residents without permission.",
+    "Article 3 secured the right of taking fish at all usual and accustomed grounds and stations in common with all citizens, with hunting, gathering and pasturing on open and unclaimed lands.",
+    "Article 4: $25,000 paid over twenty years.",
+    "Article 10: an agricultural and industrial school, mechanics, a physician and medicine for twenty years."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1979-07-02",
+      "what": "In the case the United States brought in 1970, which names the Treaty of Olympia and the Quinault, Quileute and Hoh, the Supreme Court upheld the ruling that the treaty fishing clause secures the tribes a share of the fish, and recorded that the State Game Department refused to comply with the federal decree and that state courts barred the Fisheries Department from complying.",
+      "whoFoundIt": "Washington v. Washington State Commercial Passenger Fishing Vessel Assn., 443 U.S. 658 (1979)",
+      "source": {
+        "title": "Washington v. Washington State Commercial Passenger Fishing Vessel Assn., 443 U.S. 658 (1979)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/443/658",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
+      "quote": "the District Court may assume direct supervision of the fisheries if state recalcitrance or state-law barriers should be continued"
+    },
+    {
+      "kind": "court-ruling",
+      "date": "2018-06-11",
+      "what": "In the culvert proceeding of the same case, the courts held that Washington violated the Stevens treaties' fishing clause by building and keeping road culverts that block salmon; an equally divided Supreme Court affirmed the Ninth Circuit.",
+      "whoFoundIt": "United States v. Washington, 853 F.3d 946 (9th Cir. 2017), affirmed by an equally divided Court, Washington v. United States, 584 U.S. 837 (2018)",
+      "source": {
+        "title": "Washington v. United States, No. 17-269, per curiam, June 11, 2018",
+        "url": "https://hallapproved.com/us/cases/supreme/2018/4505998/",
+        "publisher": "HallApproved (from CourtListener bulk data)"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1962-07-09",
+      "what": "The Quinault and Queets claim that the price for the land ceded under this treaty was unconscionable ended in a compromise judgment of $205,172.40, without a finding on unconscionability.",
+      "whoFoundIt": "Indian Claims Commission, Quinaielt Tribe v. United States, Docket 242, Final Determination, July 9, 1962",
+      "source": {
+        "title": "Quinaielt Tribe of Indians v. United States, Docket No. 242, Final Determination or Judgment, July 9, 1962",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/176",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "The cession described in Article 1, on the Washington coast between the Makah and Chinook lands.",
+  "compensation": "$205,172.40 to the Quinault and Queets by compromise (ICC Docket 242, 1962). The Quileute and Hoh claim (Docket 155) was also settled; its amount was not recorded in this pass.",
+  "today": "The treaty fishing right is enforced under the continuing jurisdiction of United States v. Washington.",
+  "nationVoice": [
+    {
+      "nation": "Quileute Tribe",
+      "summary": "The Tribe's history says that under the Treaty of Olympia the Quileute were to give up their lands and move to Taholah, that they reserved hunting, fishing and gathering rights at their usual and accustomed places and were promised health care, education and job training in exchange for over 800,000 acres, and that a one-square-mile reservation was set up for them at La Push in 1889, the year a settler burned all 26 houses there.",
+      "url": "https://quileutetribe.com/history/"
+    },
+    {
+      "nation": "Quileute Tribe",
+      "summary": "The Tribe publishes the text of the Treaty of Olympia on its natural resources pages, where its fisheries and resource work is grounded.",
+      "url": "https://quileutetribe.com/government/natural-resources/the-treaty-of-olympia/"
+    },
+    {
+      "nation": "Hoh Tribe",
+      "summary": "The Tribe says it protects and enhances its natural resources by exercising its Treaty Rights, and that its 443-acre reservation at the mouth of the Hoh River was set up by Executive Order in 1893.",
+      "url": "https://hohtribe-nsn.org/culture/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Quinaielt, etc., 1855 (Kappler, vol. 2, p. 719)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-quinaielt-etc-1855-0719",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Quinaielt Tribe of Indians v. United States, Docket No. 242, Opinion of the Commission, December 1, 1958",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/303",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Quinaielt Tribe of Indians v. United States, Docket No. 242, Final Determination or Judgment, July 9, 1962",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/176",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Quileute Tribe of Indians v. United States, Docket No. 155, Opinion of the Commission, July 9, 1962",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/132",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Washington v. Washington State Commercial Passenger Fishing Vessel Assn., 443 U.S. 658 (1979)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/443/658",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "UPDATE: Extent of Habitat Protection Required for Indian Treaty Fishing Sites: Washington v. United States (LSB10138, June 12, 2018)",
+      "url": "https://www.everycrsreport.com/files/2018-06-12_LSB10138_39987602bdbf2a4493ccd43260bf20d2d9fe2fe0.pdf",
+      "publisher": "Congressional Research Service"
+    },
+    {
+      "title": "Washington v. United States, No. 17-269 (2018)",
+      "url": "https://hallapproved.com/us/cases/supreme/2018/4505998/",
+      "publisher": "HallApproved (from CourtListener bulk data)"
+    },
+    {
+      "title": "History",
+      "url": "https://quileutetribe.com/history/",
+      "publisher": "Quileute Tribe"
+    },
+    {
+      "title": "The Treaty of Olympia",
+      "url": "https://quileutetribe.com/government/natural-resources/the-treaty-of-olympia/",
+      "publisher": "Quileute Tribe"
+    },
+    {
+      "title": "Culture: History",
+      "url": "https://hohtribe-nsn.org/culture/",
+      "publisher": "Hoh Tribe"
+    }
+  ],
+  "openQuestions": [
+    "Timber mismanagement on Quinault allotments (United States v. Mitchell, 1980 and 1983) concerns trust duties under statutes rather than this treaty and was not recorded as a breach.",
+    "The Quinault Indian Nation's own account of the treaty was not found on its website in this pass.",
+    "The list of tribes in the culvert proceeding was not confirmed from the Ninth Circuit opinion, which could not be opened."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

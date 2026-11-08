@@ -1,0 +1,124 @@
+[
+ {
+  "id": "indigena-by-owamni",
+  "name": "Indígena by Owamni",
+  "category": "food",
+  "subcategory": "Indigenous restaurant",
+  "nation": "Sioux (The Sioux Chef, Sean Sherman)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Owamni: About",
+   "url": "https://owamni.com/about/"
+  },
+  "description": "Full-service restaurant cooking with pre-colonial North American ingredients, now in the Guthrie Theater building.",
+  "website": "https://owamni.com/",
+  "address": "806 S 2nd St",
+  "city": "Minneapolis",
+  "state": "MN",
+  "zip": "55415",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Owamni: About",
+    "url": "https://owamni.com/about/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -93.2563,
+   44.9781
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "tocabe",
+  "name": "Tocabe: An American Indian Eatery",
+  "category": "food",
+  "subcategory": "Native restaurant and Indigenous food marketplace",
+  "nation": "Osage Nation",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Tocabe: Our Story",
+   "url": "https://www.tocabe.com/our-story"
+  },
+  "description": "Fast-casual restaurant built on Osage family recipes, with frybread, bison and wild rice bowls and an online Indigenous foods market.",
+  "website": "https://www.tocabe.com/",
+  "address": "3536 W 44th Ave",
+  "city": "Denver",
+  "state": "CO",
+  "zip": "80211",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Tocabe: Our Story",
+    "url": "https://www.tocabe.com/our-story"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -105.0339,
+   39.7767
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "cafe-ohlone",
+  "name": "Café Ohlone by mak-'amham",
+  "category": "food",
+  "subcategory": "Ohlone cuisine",
+  "nation": "Ohlone",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "mak-'amham/Cafe Ohlone",
+   "url": "https://www.makamham.com/"
+  },
+  "description": "Ohlone-run food project and cafe restoring Ohlone cuisine and the Chochenyo language around the meal.",
+  "website": "https://www.makamham.com/",
+  "city": "Berkeley",
+  "state": "CA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "mak-'amham/Cafe Ohlone",
+    "url": "https://www.makamham.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -122.2729,
+   37.8708
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "indian-pueblo-kitchen",
+  "name": "Indian Pueblo Kitchen",
+  "category": "food",
+  "subcategory": "Pueblo restaurant",
+  "nation": "The 19 Pueblos of New Mexico",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Indian Pueblo Cultural Center: Indian Pueblo Kitchen",
+   "url": "https://indianpueblo.org/venue/indian-pueblo-kitchen/"
+  },
+  "description": "Restaurant inside the Pueblo-owned cultural center serving Pueblo dishes such as red and green chile stews and oven bread.",
+  "website": "https://indianpueblo.org/venue/indian-pueblo-kitchen/",
+  "address": "2401 12th St NW",
+  "city": "Albuquerque",
+  "state": "NM",
+  "zip": "87104",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indian Pueblo Cultural Center: Indian Pueblo Kitchen",
+    "url": "https://indianpueblo.org/venue/indian-pueblo-kitchen/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -106.6583,
+   35.1105
+  ],
+  "lonlatPrecision": "address"
+ }
+]

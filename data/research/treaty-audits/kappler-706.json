@@ -1,0 +1,26 @@
+{
+  "id": "kappler-706",
+  "auditedAt": "2026-11-07",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty dates and citation (signed 1855-06-09, ratified 1859-03-08, proclaimed 1859-04-18, 12 Stat. 951) against the OSU Kappler text, p. 698",
+    "Promises against Articles 2, 3, 4 and 10",
+    "ICC Docket 162 findings (OSU id 370): no survey until August or September 1893; 23,000 acres; $20,000 paid; $3.00 an acre, $69,000; unconscionable (finding 26); signatures not obtained in open council (finding 12)",
+    "ICC Docket 162 opinion and final award (OSU ids 695, 699): $49,000 final judgment by consent, August 31, 1965, offsets 1894-1905 reserved",
+    "ICC Docket 47 opinion (OSU id 359): Tract C omitted by the boundary as formerly recognized; 17,669.10 acres patented; valued as of 1923",
+    "ICC Docket 47-A final award (OSU id 608): $1.25 an acre, $22,086.38, interest as part of just compensation, $61,991.40, June 25, 1965; 5 Ind. Cl. Comm. 636; affirmed 158 Ct. Cl. 672 (October 3, 1962)",
+    "ICC Dockets 161, 222, 224 compromise findings (OSU id 793): 8,176,000 acres, $4,088,000 at 50 cents as of March 8, 1859, $3,446,700 compromise; recorded as compensation only, correctly",
+    "United States v. Winans (Cornell): decided May 15, 1905; fish wheels; quote exact",
+    "Tulee v. Washington (Cornell): decided March 30, 1942; license fee",
+    "Fishing Vessel (Cornell): 1970 suit, Yakima Nation named; Game Department refusal",
+    "Yakama Nation About page: over 12 million acres; Stevens opened ceded lands through newspapers one month after signing"
+  ],
+  "changes": [
+    "1979 breach: 'upheld' changed to 'largely upheld', with 50 percent as a ceiling",
+    "openQuestions: open-council reading confirmed and noted; audit line added"
+  ],
+  "unverifiable": [
+    "CRS report on Washington v. United States (2018) not re-opened",
+    "Sohappy v. Smith / United States v. Oregon not opened (as the researcher noted)"
+  ]
+}

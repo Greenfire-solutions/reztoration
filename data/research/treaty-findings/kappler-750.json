@@ -1,0 +1,74 @@
+{
+  "id": "kappler-750",
+  "name": "Treaty with the Stockbridge and Munsee, 1856",
+  "aka": ["Treaty of Stockbridge (1856)"],
+  "signed": "1856-02-05",
+  "ratified": "1856-04-18",
+  "proclaimed": "1856-09-08",
+  "citation": "11 Stat. 663",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-stockbridge-and-munsee-1856-0742",
+  "nations": ["Stockbridge-Munsee Community, Band of Mohican Indians (Stockbridge and Munsee tribes)"],
+  "promises": [
+    "In return for ceding their remaining title at the town of Stockbridge on Lake Winnebago, the 72 sections in Minnesota set aside under the 1848 treaty, the $20,000 promised by that treaty and the $16,500 invested for them, the United States would select and give them a tract in Wisconsin near the southern boundary of the Menominee reservation, with lots of eighty or forty acres for each person (Articles 1 to 3).",
+    "The United States would hold the allotted lots in trust until patents issued, with certificates that could not be sold or transferred (Article 3).",
+    "The United States would pay $41,100 for improvements, $20,550 for removal and $18,000 for stock, necessaries, debts and settling the tribes' affairs (Articles 2 and 4).",
+    "The United States would pay $150 still unpaid under a prior treaty for a schoolhouse (Article 8) and the appraised value of improvements on the ceded lands, up to $5,000 in all (Article 15).",
+    "The Secretary of the Interior could examine sales of Stockbridge allotted lands and set aside sales made improperly or without proper consideration (Article 13)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1971-12-15",
+      "what": "On an accounting claim, the Indian Claims Commission found that the United States failed to spend money this treaty obliged it to spend: $2,951.97 short on the $38,550 for removal, stock, necessaries and debts, $40.80 short on the $41,100 for improvements, and the whole $150 for the schoolhouse, $3,142.77 in all under this treaty. It also refused the government's attempt to charge the tribe for the Article 13 investigation of land sales, holding that duty was part of the price of the cession.",
+      "whoFoundIt": "Indian Claims Commission, Stockbridge Munsee Community v. United States, Docket 300, Findings of Fact 12, 13, 16 and 17 and Opinion (December 15, 1971), 26 Ind. Cl. Comm. 491; Final Award of $4,203.09 (May 30, 1973), 30 Ind. Cl. Comm. 372, after the Court of Claims affirmed in Appeal No. 7-72",
+      "source": {
+        "title": "Stockbridge Munsee Community v. United States, Docket 300, Findings of Fact (December 15, 1971)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1947",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "compensation": "The Commission's award in Docket 300 was $4,203.09 across five treaties and one Act, of which $3,142.77 was for this treaty (Finding 17). The Court of Claims affirmed on January 29, 1973, and the final award was entered May 30, 1973.",
+  "today": "The tribe's own timeline records that this treaty, signed by Sachem Ziba T. Peters, established the reservation in Red Springs and Bartelme, Shawano County, Wisconsin, and that in 1871 lumber barons claimed part of it. A separate Docket 300-A, about lands the State of New York took from the Stockbridge between 1818 and 1847, is not a claim under this treaty.",
+  "nationVoice": [
+    {
+      "nation": "Stockbridge-Munsee Community, Band of Mohican Indians",
+      "summary": "The tribe's history timeline names the 1856 treaty as the one that established its present reservation at Red Springs and Bartelme, and records that lumber barons claimed part of the reservation in 1871.",
+      "url": "https://mohican-nsn.gov/tribal-history-timeline/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Stockbridge and Munsee, 1856 (Kappler, vol. 2, p. 742)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-stockbridge-and-munsee-1856-0742",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Stockbridge Munsee Community v. United States, Docket 300, Opinion (December 15, 1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2106",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Stockbridge Munsee Community v. United States, Docket 300, Findings of Fact (December 15, 1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1947",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Stockbridge Munsee Community v. United States, Docket 300, Final Award (May 30, 1973)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1453",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Tribal History Timeline",
+      "url": "https://mohican-nsn.gov/tribal-history-timeline/",
+      "publisher": "Stockbridge-Munsee Community"
+    }
+  ],
+  "openQuestions": [
+    "The Act of February 6, 1871 that sold most of the 1856 reservation, and the 1906 Act, were not opened in this pass; whether either breached this treaty, and the Seventh Circuit's later ruling on whether they diminished the reservation, need a deeper pass.",
+    "The reservation tract itself came from Menominee land under the Menominee treaty of February 11, 1856 (kappler-763), which is not yet researched."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

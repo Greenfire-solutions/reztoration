@@ -1,0 +1,107 @@
+{
+  "id": "kappler-218",
+  "name": "Treaty with the Quapaw, 1824",
+  "aka": [
+    "Treaty of Harrington's, 1824"
+  ],
+  "signed": "1824-11-15",
+  "proclaimed": "1825-02-19",
+  "citation": "7 Stat. 232",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-quapaw-1824-0210",
+  "nations": [
+    "Quapaw Nation (O-Gah-Pah)"
+  ],
+  "promises": [
+    "$500 to each of the four head chiefs for losses from leaving their farms, $4,000 in goods at signing, and an annuity to the nation (Article 2).",
+    "The Quapaw were to be settled in the country inhabited by the Caddo and become part of that tribe (Article 4).",
+    "Corn, meat and salt for six months from 1 January 1826, and up to $1,000 for the cost of moving (Article 5).",
+    "The United States guaranteed payment of a $7,500 debt owed to James Scull, by confirming a land grant to him or paying in money (Article 6).",
+    "Grants of land in the ceded area to named people of Quapaw descent (Article 7)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1951-03-15",
+      "what": "The Indian Claims Commission found that the reservation the Quapaw ceded under this treaty was worth $987,092 at the time, that the Quapaw received $28,037 for it, and that this consideration was so grossly inadequate as to be unconscionable.",
+      "whoFoundIt": "Indian Claims Commission, Quapaw Tribe of Indians et al. v. United States, Docket 14, Findings of Fact of 15 March 1951 (1 Ind. Cl. Comm. 469)",
+      "source": {
+        "title": "Quapaw Tribe of Indians v. United States, Docket 14, Findings of Fact (1951)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/137",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1951-12-12",
+      "what": "After deducting $75,638.55 in offsets from the $987,092 found due, the Commission entered a final award of $911,453.45 to the Quapaw.",
+      "whoFoundIt": "Indian Claims Commission, Quapaw Tribe of Indians et al. v. United States, Docket 14, Opinion of 12 December 1951 (1 Ind. Cl. Comm. 644)",
+      "source": {
+        "title": "Quapaw Tribe of Indians v. United States, Docket 14, Opinion of the Commission on offsets (1951)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/241",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1833",
+      "what": "The Quapaw Nation says that after the removal to the Red River the annuity payments kept being delayed, the government ignored its petitions to buy land of its own in Arkansas, and settlers kept pushing its people out, leaving them without food or income by 1833.",
+      "whoFoundIt": "Quapaw Nation, history page on Saracen on the Nation's official website",
+      "source": {
+        "title": "Saracen",
+        "url": "https://www.quapawtribe.com/598/Saracen",
+        "publisher": "Quapaw Nation"
+      }
+    }
+  ],
+  "landTaken": "The Commission found that the United States received 1,161,284.75 acres of the 1818 reserve free of Indian title under this treaty, after 1,280 acres reserved for James Scull and the grants to individual Quapaw (Docket 14 findings, 1951).",
+  "compensation": "$28,037 under the treaty, including $4,000 in goods, annuities and $500 to each of four head chiefs (ICC finding 7). The Commission awarded $987,092 less offsets, a net $911,453.45 (1951).",
+  "today": "The Commission's additional findings record that the country the Quapaw were moved to on the Red River proved unhealthy and flooded, the Caddo would not take them in, most Quapaw returned to Arkansas, and the United States refused to restore any of the ceded land, instead making the 1833 treaty for a new home.",
+  "nationVoice": [
+    {
+      "nation": "Quapaw Nation (O-Gah-Pah)",
+      "summary": "The Quapaw Nation's own history of Saracen, a signer of this treaty, says the Nation was pressured into the 1824 cession, was made to live among the Caddo on the Red River, lost its crops to floods and many people to hunger and disease, and by 1833 was still waiting on delayed annuity payments while settlers pushed its people out.",
+      "url": "https://www.quapawtribe.com/598/Saracen"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Quapaw, 1824 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-quapaw-1824-0210",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Quapaw Tribe of Indians v. United States, Docket 14, Findings of Fact (1951)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/137",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Quapaw Tribe of Indians v. United States, Docket 14, Opinion of the Commission (March 1951)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/37",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Quapaw Tribe of Indians v. United States, Docket 14, Additional Findings of Fact",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/349",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Quapaw Tribe of Indians v. United States, Docket 14, Opinion of the Commission on offsets (December 1951)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/241",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Saracen",
+      "url": "https://www.quapawtribe.com/598/Saracen",
+      "publisher": "Quapaw Nation"
+    }
+  ],
+  "openQuestions": [
+    "The final award figure is read from OCR text that shows '$911,453 ,b5'; $987,092.00 less $75,638.55 is $911,453.45.",
+    "The Quapaw Nation's history pages on quapawtribe.com were checked and carry no text about this treaty; a nation statement is still wanted.",
+    "Whether the 1824 award was appealed to the Court of Claims was not checked.",
+    "The OSU collection dates the additional findings (id 349) to 1995, which looks like a cataloguing error for 1951."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

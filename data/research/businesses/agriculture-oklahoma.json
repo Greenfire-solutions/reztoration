@@ -1,0 +1,122 @@
+[
+ {
+  "id": "quapaw-farmers-market-and-food-hub",
+  "name": "Quapaw Farmers Market and Food Hub",
+  "category": "agriculture",
+  "subcategory": "farmers market and food hub",
+  "nation": "Quapaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Quapaw Farmers Market and Food Hub, listed as Tribal Enterprise of the Quapaw Tribe of Oklahoma",
+   "url": "https://nativeamerica.travel/listings/quapaw-farmers-market-food-hub"
+  },
+  "description": "Quapaw Nation farmers market and food hub on Main Street in Quapaw.",
+  "website": "https://www.quapawtribe.com/",
+  "address": "326 Main Street",
+  "city": "Quapaw",
+  "state": "OK",
+  "zip": "74363",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Quapaw Farmers Market and Food Hub, listed as Tribal Enterprise of the Quapaw Tribe of Oklahoma",
+    "url": "https://nativeamerica.travel/listings/quapaw-farmers-market-food-hub"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -94.6761,
+   36.9155
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "quapaw-nation-greenhouses",
+  "name": "Quapaw Nation Greenhouses",
+  "category": "agriculture",
+  "subcategory": "tribal greenhouses",
+  "nation": "Quapaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Quapaw Nation Greenhouses, listed as Tribal Enterprise of the Quapaw Tribe of Oklahoma",
+   "url": "https://nativeamerica.travel/listings/quapaw-nation-greenhouses"
+  },
+  "description": "Quapaw Nation greenhouses growing vegetables and plants as part of the tribe's food sovereignty work.",
+  "website": "https://www.quapawtribe.com/",
+  "city": "Quapaw",
+  "state": "OK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Quapaw Nation Greenhouses, listed as Tribal Enterprise of the Quapaw Tribe of Oklahoma",
+    "url": "https://nativeamerica.travel/listings/quapaw-nation-greenhouses"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -94.788,
+   36.9545
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "choctaw-country-market",
+  "name": "Choctaw Country Market",
+  "category": "retail",
+  "subcategory": "market for local and Choctaw goods",
+  "nation": "Choctaw Nation of Oklahoma",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Choctaw Country Market, listed as Tribal Enterprise of the Choctaw Nation of Oklahoma",
+   "url": "https://nativeamerica.travel/listings/Choctaw_Country_Market"
+  },
+  "description": "Choctaw Nation country market on US 271 in Clayton.",
+  "website": "https://www.choctawnation.com/",
+  "address": "406 US-271",
+  "city": "Clayton",
+  "state": "OK",
+  "zip": "74536",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Choctaw Country Market, listed as Tribal Enterprise of the Choctaw Nation of Oklahoma",
+    "url": "https://nativeamerica.travel/listings/Choctaw_Country_Market"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -95.3527,
+   34.5895
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "choctaw-hunting-lodge",
+  "name": "Choctaw Hunting Lodge",
+  "category": "tourism",
+  "subcategory": "hunting lodge",
+  "nation": "Choctaw Nation of Oklahoma",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Choctaw Hunting Lodge, listed as Tribal Enterprise of the Choctaw Nation of Oklahoma",
+   "url": "https://nativeamerica.travel/listings/choctaw-hunting-lodge"
+  },
+  "description": "Choctaw Nation hunting lodge near Pittsburg in southeast Oklahoma.",
+  "website": "https://www.choctawnation.com/",
+  "city": "Pittsburg",
+  "state": "OK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Choctaw Hunting Lodge, listed as Tribal Enterprise of the Choctaw Nation of Oklahoma",
+    "url": "https://nativeamerica.travel/listings/choctaw-hunting-lodge"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -95.85,
+   34.7132
+  ],
+  "lonlatPrecision": "town"
+ }
+]

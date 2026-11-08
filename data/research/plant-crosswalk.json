@@ -1,0 +1,257 @@
+{
+  "_note": "Native American Ethnobotany (BRIT NAEB) nation names that are spelled differently from the map, linked to their homelands. Regional labels (Montana Indian, California Indian, Plains Indian and similar) are left unlinked on purpose: they name no one nation. They stay in Library > Medicine.",
+  "Okanagan-Colville": [
+    "colville",
+    "okanagan",
+    "confederated-tribes-of-the-colville-reservation"
+  ],
+  "Okanagon": [
+    "colville",
+    "okanagan",
+    "confederated-tribes-of-the-colville-reservation"
+  ],
+  "Similkameen": [
+    "colville",
+    "okanagan",
+    "confederated-tribes-of-the-colville-reservation"
+  ],
+  "Costanoan": [
+    "ohlone"
+  ],
+  "Costanoan (Olhonean)": [
+    "ohlone"
+  ],
+  "Karok": [
+    "karuk"
+  ],
+  "Gosiute": [
+    "goshute"
+  ],
+  "Pomo": [
+    "northern-pomo",
+    "central-pomo",
+    "eastern-pomo",
+    "southern-pomo",
+    "southeastern-pomo",
+    "northeastern-pomo"
+  ],
+  "Pomo, Little Lakes": [
+    "northern-pomo"
+  ],
+  "Pomo, Calpella": [
+    "northern-pomo"
+  ],
+  "Pomo, Potter Valley": [
+    "northern-pomo"
+  ],
+  "Sanel": [
+    "central-pomo"
+  ],
+  "Ukiah": [
+    "central-pomo"
+  ],
+  "Yokia": [
+    "central-pomo"
+  ],
+  "Delaware": [
+    "lenape",
+    "munsee-lenape"
+  ],
+  "Delaware, Oklahoma": [
+    "lenape",
+    "wichita-caddo-delaware-oklahoma"
+  ],
+  "Delaware, Ontario": [
+    "munsee-lenape"
+  ],
+  "Malecite": [
+    "wolastoqiyik"
+  ],
+  "Flathead": [
+    "salish-kootenai-flathead",
+    "salish-kootenai-tribes"
+  ],
+  "Kutenai": [
+    "salish-kootenai-tribes",
+    "ktunaxa"
+  ],
+  "Pend d'Oreille, Upper": [
+    "kalispel",
+    "salish-kootenai-tribes"
+  ],
+  "Hoh": [
+    "hoh"
+  ],
+  "Yuki": [
+    "northern-yukian",
+    "coast-yuki"
+  ],
+  "Yavapai": [
+    "yavapaiv-apache"
+  ],
+  "Washo": [
+    "washoe"
+  ],
+  "Skagit": [
+    "skagit"
+  ],
+  "Skagit, Upper": [
+    "skagit"
+  ],
+  "Klallam": [
+    "klallam"
+  ],
+  "Clallam": [
+    "klallam"
+  ],
+  "Tolowa": [
+    "coquille-umpqua-chetco-tolowa-tututni"
+  ],
+  "Cocopa": [
+    "cocopah"
+  ],
+  "Mewuk": [
+    "central-sierra-miwok",
+    "southern-sierra-miwok",
+    "northern-sierra-miwok"
+  ],
+  "Alabama": [
+    "alabama-2"
+  ],
+  "Coeur d'Alene": [
+    "schitsuumsh-coeur-dalene"
+  ],
+  "Mohave": [
+    "mojave"
+  ],
+  "Neeshenam": [
+    "nisenan"
+  ],
+  "Keresan": [
+    "pueblos"
+  ],
+  "San Felipe": [
+    "pueblos"
+  ],
+  "Sia": [
+    "pueblos"
+  ],
+  "Tewa of Hano": [
+    "hopi",
+    "pueblos"
+  ],
+  "Concow": [
+    "konkow-maidu"
+  ],
+  "Maidu": [
+    "mountain-maidu",
+    "konkow-maidu",
+    "mechoopda-maidu"
+  ],
+  "Midoo": [
+    "mountain-maidu",
+    "konkow-maidu",
+    "mechoopda-maidu"
+  ],
+  "Wintoon": [
+    "northern-wintu",
+    "winnimem-wintu",
+    "nor-rel-muk-wintu",
+    "nom-sus-wintu",
+    "dau-pom-wintu",
+    "dau-nom-wintu",
+    "klbal-pom-wintu",
+    "nom-ti-pom-wintu",
+    "el-pom-wintu"
+  ],
+  "Numlaki": [
+    "nomlaki"
+  ],
+  "Spokan": [
+    "spokane"
+  ],
+  "Yokut": [
+    "yokuts"
+  ],
+  "Apalachee": [
+    "apalachees"
+  ],
+  "Huron": [
+    "wyandot-anderdon",
+    "wyandotte-oklahoma"
+  ],
+  "Walapai": [
+    "hualapai"
+  ],
+  "Bannock": [
+    "shoshone-bannock"
+  ],
+  "Gabrielino": [
+    "tongva-gabrieleno",
+    "kizh-gabrieleno"
+  ],
+  "Weyot": [
+    "wiyot"
+  ],
+  "Yaqui": [
+    "pascua-yaqui"
+  ],
+  "Montauk": [
+    "montauk"
+  ],
+  "Narraganset": [
+    "nahaganset"
+  ],
+  "Coahuilla": [
+    "cahuilla"
+  ],
+  "Panamint": [
+    "newe-western-shoshone"
+  ],
+  "Modesse": [
+    "pit-river"
+  ],
+  "Poliklah": [
+    "yurok"
+  ],
+  "Eskimo, Alaska": [
+    "yupik",
+    "inupiatun"
+  ],
+  "Eskimo, Western": [
+    "yupik"
+  ],
+  "Eskimo, Kuskokwagmiut": [
+    "yupik"
+  ],
+  "Eskimo, Nunivak": [
+    "yupik"
+  ],
+  "Eskimo, Chugach": [
+    "alutiiq-sugpiaq"
+  ],
+  "Blackfoot": [
+    "niitsitapi-ᖹᐟᒧᐧᒣᑯ-blackfoot"
+  ],
+  "Diegueno": [
+    "kumeyaay"
+  ],
+  "Kamia": [
+    "kumeyaay"
+  ],
+  "Aleut": [
+    "aleut"
+  ],
+  "Hawaiian": [
+    "kanaka-maoli"
+  ],
+  "Tsimshian": [
+    "tsimshian"
+  ],
+  "Tsimshian, Coast": [
+    "tsimshian"
+  ],
+  "Cowichan": [
+    "hulquminum-treaty-group"
+  ]
+}

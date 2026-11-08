@@ -1,0 +1,194 @@
+[
+ {
+  "id": "ktnn-radio",
+  "name": "KTNN AM 660 / FM 101.5",
+  "category": "media",
+  "subcategory": "radio station, Navajo and English",
+  "nation": "Navajo Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "About KTNN: a Navajo Nation enterprise established in 1985",
+   "url": "https://www.ktnnonline.com/about-us/"
+  },
+  "description": "The Voice of the Navajo Nation: news, Navajo-language programming, country and Native music broadcast across the Four Corners from Window Rock.",
+  "website": "https://www.ktnnonline.com",
+  "city": "Window Rock",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "KTNN about page",
+    "url": "https://www.ktnnonline.com/about-us/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -109.0581,
+   35.6763
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "kwso-radio",
+  "name": "KWSO 91.9 FM Warm Springs Community Radio",
+  "category": "media",
+  "subcategory": "community radio station",
+  "nation": "Confederated Tribes of Warm Springs",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "About KWSO: owned and operated by the Confederated Tribes of Warm Springs",
+   "url": "https://kwso.org/about-kwso/"
+  },
+  "description": "Non-commercial community radio for the Warm Springs Reservation, carrying local news, language and culture programs and emergency alerts since 1986.",
+  "website": "https://kwso.org",
+  "address": "4174 Highway 3",
+  "city": "Warm Springs",
+  "state": "OR",
+  "zip": "97761",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "KWSO about page",
+    "url": "https://kwso.org/about-kwso/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -121.2589,
+   44.7662
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "koahnic-broadcast-corporation",
+  "name": "Koahnic Broadcast Corporation (KNBA 90.3 FM, Native Voice One)",
+  "category": "media",
+  "subcategory": "Native radio, National Native News and Native America Calling",
+  "nation": "Alaska Native (founded with Cook Inlet Region, Inc.)",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "About Koahnic: Native content through Alaska Native governance and operation",
+   "url": "https://www.koahnic.org/about-us"
+  },
+  "description": "Anchorage nonprofit that runs KNBA, the first Native radio station in an urban market, and produces National Native News, Native America Calling and INDIGEFI for stations nationwide.",
+  "website": "https://www.koahnic.org",
+  "address": "3600 San Jeronimo Dr Suite 480",
+  "city": "Anchorage",
+  "state": "AK",
+  "zip": "99508",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Koahnic about page",
+    "url": "https://www.koahnic.org/about-us"
+   },
+   {
+    "title": "KNBA",
+    "url": "https://www.knba.org/about-knba"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -149.8123,
+   61.2116
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "birchbark-books",
+  "name": "Birchbark Books & Native Arts",
+  "category": "media",
+  "subcategory": "independent bookstore and Native art",
+  "nation": "Turtle Mountain Band of Chippewa Indians",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Birchbark Books: Our Story (Native-owned; Louise Erdrich, enrolled Turtle Mountain Chippewa)",
+   "url": "https://birchbarkbooks.com/pages/our-story"
+  },
+  "description": "Small Minneapolis bookstore with a deep Native literature and Ojibwe language section, plus quillwork, baskets and other art by Native makers.",
+  "website": "https://birchbarkbooks.com",
+  "shopOnline": "https://birchbarkbooks.com",
+  "address": "2115 W 21st St",
+  "city": "Minneapolis",
+  "state": "MN",
+  "zip": "55405",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Birchbark Books home page (open daily 10 to 6)",
+    "url": "https://birchbarkbooks.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -93.3073,
+   44.9617
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "na-mea-hawaii",
+  "name": "Nā Mea Hawaiʻi",
+  "category": "media",
+  "subcategory": "Hawaiian books, language resources and local art",
+  "nation": "Native Hawaiian",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Nā Mea Hawaiʻi is owned and operated by the Hawaiian Council (formerly CNHA)",
+   "url": "https://nameahawaii.com"
+  },
+  "description": "Honolulu bookstore and gift shop for Hawaiian-language books, dictionaries and work by Native Hawaiian artists and crafters.",
+  "website": "https://nameahawaii.com",
+  "shopOnline": "https://nameahawaii.com",
+  "address": "1200 Ala Moana Blvd Suite 270",
+  "city": "Honolulu",
+  "state": "HI",
+  "zip": "96814",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Nā Mea Hawaiʻi contact page",
+    "url": "https://nameahawaii.com/pages/contact"
+   },
+   {
+    "title": "Hawaiian Council about",
+    "url": "https://www.hawaiiancouncil.org/about-us/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.8539,
+   21.2931
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "osage-news",
+  "name": "Osage News",
+  "category": "media",
+  "subcategory": "newspaper and news site",
+  "nation": "Osage Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Osage News mission statement: the official news organization of the Osage Nation, editorially independent",
+   "url": "https://osagenews.org"
+  },
+  "description": "Editorially independent news organization of the Osage Nation, reporting on Osage government, culture, sports and community from Pawhuska.",
+  "website": "https://osagenews.org",
+  "city": "Pawhuska",
+  "state": "OK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Osage News home page",
+    "url": "https://osagenews.org"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.3401,
+   36.6633
+  ],
+  "lonlatPrecision": "town"
+ }
+]

@@ -1,0 +1,372 @@
+[
+ {
+  "id": "bison-coffeehouse",
+  "name": "Bison Coffeehouse",
+  "category": "food",
+  "subcategory": "Native-owned coffeehouse",
+  "nation": "Shoshone-Bannock Tribes (as tagged by AIANTA)",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Bison Coffeehouse, Portland's only Native-owned coffee establishment",
+   "url": "https://nativeamerica.travel/listings/bison-coffeehouse"
+  },
+  "description": "Cully neighbourhood coffeehouse serving Native and local roasters and food.",
+  "website": "https://www.bisoncoffeehouse.com",
+  "address": "3941 NE Cully Blvd",
+  "city": "Portland",
+  "state": "OR",
+  "zip": "97213",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Bison Coffeehouse, Portland's only Native-owned coffee establishment",
+    "url": "https://nativeamerica.travel/listings/bison-coffeehouse"
+   },
+   {
+    "title": "Bison Coffeehouse website",
+    "url": "https://www.bisoncoffeehouse.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -122.6043,
+   45.5514
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "fry-bread-house",
+  "name": "Fry Bread House",
+  "category": "food",
+  "subcategory": "Native American restaurant",
+  "nation": "Tohono O'odham Nation (as tagged by AIANTA)",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Fry Bread House, a family-owned Native American restaurant",
+   "url": "https://nativeamerica.travel/listings/fry-bread-house"
+  },
+  "description": "James Beard America's Classics winner in Phoenix serving Tohono Oodham-style fry bread, stews and desserts.",
+  "website": "https://www.frybreadhouseaz.com",
+  "address": "4545 N 7th Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85013",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Fry Bread House, a family-owned Native American restaurant",
+    "url": "https://nativeamerica.travel/listings/fry-bread-house"
+   },
+   {
+    "title": "Fry Bread House website",
+    "url": "https://www.frybreadhouseaz.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -112.0824,
+   33.5036
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "ketapanen-kitchen",
+  "name": "Ketapanen Kitchen",
+  "category": "food",
+  "subcategory": "Indigenous pop-up kitchen and catering",
+  "nation": "Menominee Indian Tribe of Wisconsin",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Ketapanen Kitchen, an Indigenous-owned pop-up founded by Menominee chef Jessica Walks First",
+   "url": "https://nativeamerica.travel/listings/ketapanen-kitchen"
+  },
+  "description": "Pop-up kitchen and caterer in the Chicago area cooking Indigenous dishes, founded by Menominee chef Jessica Walks First.",
+  "city": "Stickney",
+  "state": "IL",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Ketapanen Kitchen, an Indigenous-owned pop-up founded by Menominee chef Jessica Walks First",
+    "url": "https://nativeamerica.travel/listings/ketapanen-kitchen"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -87.7797,
+   41.8193
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "mothers-coffee",
+  "name": "Mother's Coffee",
+  "category": "food",
+  "subcategory": "Native-owned cafe",
+  "nation": "Navajo Nation (as tagged by AIANTA)",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Mother's Coffee, a Native-owned, women-led cafe",
+   "url": "https://nativeamerica.travel/listings/mother-s-coffee"
+  },
+  "description": "Women-led coffee shop inside the Chihootso Indian Market in Window Rock, named for the owner's grandmothers.",
+  "website": "https://www.instagram.com/motherscoffee_nm/",
+  "city": "Window Rock",
+  "state": "AZ",
+  "zip": "86515",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Mother's Coffee, a Native-owned, women-led cafe",
+    "url": "https://nativeamerica.travel/listings/mother-s-coffee"
+   },
+   {
+    "title": "Mother's Coffee website",
+    "url": "https://www.instagram.com/motherscoffee_nm/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -109.0581,
+   35.6763
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "star-village-coffee",
+  "name": "Star Village Coffee",
+  "category": "food",
+  "subcategory": "coffee roaster and cafe",
+  "nation": "Reno-Sparks Indian Colony (as tagged by AIANTA)",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Star Village Coffee, a Native American owned and family operated coffee company",
+   "url": "https://nativeamerica.travel/listings/star-village-coffee"
+  },
+  "description": "Native-owned family coffee company and cafe in Reno roasting in the Great Basin tradition.",
+  "website": "https://www.starvillagecoffee.com",
+  "address": "560 Mill St",
+  "city": "Reno",
+  "state": "NV",
+  "zip": "89502",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Star Village Coffee, a Native American owned and family operated coffee company",
+    "url": "https://nativeamerica.travel/listings/star-village-coffee"
+   },
+   {
+    "title": "Star Village Coffee website",
+    "url": "https://www.starvillagecoffee.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -119.8048,
+   39.5257
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "vekol-market-and-cafe",
+  "name": "Vekol Market and Cafe",
+  "category": "food",
+  "subcategory": "tribal market, cafe and fuel station",
+  "nation": "Ak-Chin Indian Community",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Vekol Market and Cafe, a tribally owned community market",
+   "url": "https://nativeamerica.travel/listings/vekol-market-and-cafe"
+  },
+  "description": "Ak-Chin Indian Community market, cafe and fuel stop in Maricopa.",
+  "website": "https://www.facebook.com/VekolMarket/",
+  "address": "47021 W Farrell Rd",
+  "city": "Maricopa",
+  "state": "AZ",
+  "zip": "85139",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Vekol Market and Cafe, a tribally owned community market",
+    "url": "https://nativeamerica.travel/listings/vekol-market-and-cafe"
+   },
+   {
+    "title": "Vekol Market and Cafe website",
+    "url": "https://www.facebook.com/VekolMarket/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -112.0728,
+   33.029
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "red-cliff-fish-company",
+  "name": "Red Cliff Fish Company",
+  "category": "food",
+  "subcategory": "Lake Superior fish market",
+  "nation": "Red Cliff Band of Lake Superior Chippewa",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Red Cliff Fish Company: entirely owned and operated by the Red Cliff Band",
+   "url": "http://redclifffish.com/"
+  },
+  "description": "Tribal fish company selling whitefish, trout and other Lake Superior catch from its Bayfield dock.",
+  "website": "http://redclifffish.com/",
+  "address": "37525 Dock Rd",
+  "city": "Bayfield",
+  "state": "WI",
+  "zip": "54814",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Red Cliff Fish Company: entirely owned and operated by the Red Cliff Band",
+    "url": "http://redclifffish.com/"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Red Cliff Fish Company",
+    "url": "https://nativeamerica.travel/listings/red-cliff-fish-company"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -90.7902,
+   46.8504
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "brigham-fish-market",
+  "name": "Brigham Fish Market",
+  "category": "food",
+  "subcategory": "Columbia River fish market",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Columbia River Salmon Sales: Cascade Locks",
+   "url": "https://nativeamerica.travel/listings/columbia-river-salmon-sales-cascade-locks-oregon"
+  },
+  "description": "Native American family-owned market near the Bridge of the Gods selling fresh and smoked Columbia River fish and chowder.",
+  "website": "http://brighamfish.com",
+  "address": "681 WaNaPa St",
+  "city": "Cascade Locks",
+  "state": "OR",
+  "zip": "97014",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Columbia River Salmon Sales: Cascade Locks",
+    "url": "https://nativeamerica.travel/listings/columbia-river-salmon-sales-cascade-locks-oregon"
+   },
+   {
+    "title": "Brigham Fish Market: Native American family owned business",
+    "url": "http://brighamfish.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -121.8968,
+   45.664
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "next-evolution-coffee-shop",
+  "name": "Next Evolution Coffee Shop",
+  "category": "food",
+  "subcategory": "plant-based coffee shop",
+  "nation": "Walker River Paiute Tribe (as tagged by AIANTA)",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Next Evolution Coffee Shop",
+   "url": "https://nativeamerica.travel/listings/next-evolution-coffee-shop"
+  },
+  "description": "Dairy-free coffee shop in Schurz on the Walker River Reservation, sourcing from other Native-owned businesses.",
+  "website": "https://www.nextevolutioncoffeeshop.com",
+  "address": "4003 Highway 95",
+  "city": "Schurz",
+  "state": "NV",
+  "zip": "89427",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Next Evolution Coffee Shop",
+    "url": "https://nativeamerica.travel/listings/next-evolution-coffee-shop"
+   },
+   {
+    "title": "Next Evolution Coffee Shop website",
+    "url": "https://www.nextevolutioncoffeeshop.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -118.8103,
+   38.9536
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "tahoma-market",
+  "name": "Tahoma Market",
+  "category": "retail",
+  "subcategory": "tribal market and fuel station",
+  "nation": "Puyallup Tribe of Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): The Tahoma Market is owned by the Puyallup Tribe",
+   "url": "https://nativeamerica.travel/listings/tahoma-market"
+  },
+  "description": "Puyallup Tribal Enterprises convenience market with groceries, hot food and fuel.",
+  "website": "https://www.tahomamarket.com/",
+  "address": "6006 Pacific Hwy E",
+  "city": "Fife",
+  "state": "WA",
+  "zip": "98424",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): The Tahoma Market is owned by the Puyallup Tribe",
+    "url": "https://nativeamerica.travel/listings/tahoma-market"
+   },
+   {
+    "title": "Tahoma Market (Puyallup Tribal Enterprises)",
+    "url": "https://www.tahomamarket.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -122.3498,
+   47.243
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "texas-tribal-buffalo-project",
+  "name": "Texas Tribal Buffalo Project",
+  "category": "agriculture",
+  "subcategory": "bison ranch and food sovereignty",
+  "nation": "Lipan Apache",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Texas Tribal Buffalo Project: a Lipan Apache-led nonprofit",
+   "url": "https://www.texastribalbuffaloproject.org"
+  },
+  "description": "Lipan Apache-led, woman-led nonprofit raising a regenerative bison herd and shipping bison meat, with SNAP accepted.",
+  "website": "https://www.texastribalbuffaloproject.org",
+  "city": "Waelder",
+  "state": "TX",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Texas Tribal Buffalo Project: a Lipan Apache-led nonprofit",
+    "url": "https://www.texastribalbuffaloproject.org"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -97.2977,
+   29.6939
+  ],
+  "lonlatPrecision": "town"
+ }
+]

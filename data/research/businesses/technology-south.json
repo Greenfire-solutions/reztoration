@@ -1,0 +1,35 @@
+[
+ {
+  "id": "lumbee-holdings",
+  "name": "Lumbee Holdings, Inc.",
+  "category": "technology",
+  "subcategory": "federal contracting: administrative, IT, construction and support services",
+  "nation": "Lumbee Tribe of North Carolina",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Lumbee Tribe press release: Lumbee Holdings, Inc. is wholly owned by the Lumbee Tribe of North Carolina",
+   "url": "https://www.lumbeetribe.com/single-post/press-release-lumbee-holdings-inc-advances-forward-creating-fourth-business"
+  },
+  "description": "The Lumbee Tribe's business company, whose subsidiaries do government contracting, administrative management, IT and construction work.",
+  "website": "https://www.lumbeetribe.com/",
+  "city": "Pembroke",
+  "state": "NC",
+  "sources": [
+   {
+    "title": "Lumbee Tribe press release, Nov 2023",
+    "url": "https://www.lumbeetribe.com/single-post/press-release-lumbee-holdings-inc-advances-forward-creating-fourth-business"
+   },
+   {
+    "title": "US Army: Director of Small Business Programs visits the Lumbee Tribe",
+    "url": "https://www.army.mil/article/278298/army_director_of_small_business_programs_visits_with_the_lumbee_tribe_of_north_carolina"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -79.1933,
+   34.6801
+  ],
+  "lonlatPrecision": "town"
+ }
+]

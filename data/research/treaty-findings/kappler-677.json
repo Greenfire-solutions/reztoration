@@ -1,0 +1,120 @@
+{
+  "id": "kappler-677",
+  "name": "Treaty of Point Elliott (1855)",
+  "aka": [
+    "Treaty with the Dwamish, Suquamish, etc., 1855",
+    "Point Elliott Treaty"
+  ],
+  "signed": "1855-01-22",
+  "ratified": "1859-03-08",
+  "proclaimed": "1859-04-11",
+  "citation": "12 Stat. 927",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-dwamish-suquamish-etc-1855-0669",
+  "nations": [
+    "Dxʷdəwʔabš (Duwamish)",
+    "Suquamish (suq̓ʷabš)",
+    "Snohomish",
+    "Snoqualmie",
+    "Skagit",
+    "Swinomish",
+    "Lummi (Lhaq'temish)",
+    "Stillaguamish",
+    "Sauk-Suiattle",
+    "Samish",
+    "and other Puget Sound peoples who signed"
+  ],
+  "promises": [
+    "Article 2 reserved four tracts of two sections each, including Port Madison (Noo-sohk-um), and a further township at Tulalip Bay as a general reservation with a school.",
+    "Article 5 secured the right of taking fish at usual and accustomed grounds and stations in common with all citizens of the Territory, with hunting and gathering on open and unclaimed lands.",
+    "Article 6: $150,000 paid over twenty years.",
+    "An agricultural and industrial school, a physician, smith and carpenter for twenty years."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1966-01-21",
+      "what": "The Indian Claims Commission found that the Suquamish Tribe received under this treaty only about 46 percent of the fair market value of its ceded land, an unconscionable consideration, and awarded $78,500 less the $36,329.51 paid, a net $42,170.49 before offsets.",
+      "whoFoundIt": "Indian Claims Commission, Suquamish Tribe of Indians v. United States, Docket 132, 16 Ind. Cl. Comm. 479 (1966)",
+      "source": {
+        "title": "Suquamish Tribe of Indians v. United States, Docket No. 132, Opinion of the Commission, January 21, 1966",
+        "url": "https://dc.library.okstate.edu/digital/collection/p17279coll10/id/2352",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1979-07-02",
+      "what": "The Supreme Court upheld the district court ruling in United States v. Washington (the Boldt decision, 1974) that the treaty fishing clause secures the tribes a share of each fish run, up to 45 to 50 percent, rejecting the State's reading that it gave only access. It recorded that Washington's Game Department refused to comply and state courts barred its Fisheries Department from complying, so the federal court took direct supervision of the fisheries.",
+      "whoFoundIt": "Washington v. Washington State Commercial Passenger Fishing Vessel Assn., 443 U.S. 658 (1979), reviewing United States v. Washington, 384 F. Supp. 312 (W.D. Wash. 1974)",
+      "source": {
+        "title": "Washington v. Washington State Commercial Passenger Fishing Vessel Assn., 443 U.S. 658 (1979)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/443/658",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
+      "quote": "the District Court may assume direct supervision of the fisheries if state recalcitrance or state-law barriers should be continued"
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1983",
+      "what": "The Duwamish Tribe, whose leader Si'ahl was the first Native signer listed on the treaty, describes more than 100 years of broken United States treaty promises and says it has sought federal acknowledgment since 1978.",
+      "whoFoundIt": "Duwamish Tribe, History page",
+      "source": {
+        "title": "History",
+        "url": "https://www.duwamishtribe.org/history",
+        "publisher": "Duwamish Tribe"
+      },
+      "quote": "after more than 100 years of broken United States treaty promises"
+    }
+  ],
+  "landTaken": "The ceded area from the Puget Sound to the Cascades north of the Medicine Creek cession, as described in Article 1. No acreage from a source was recorded.",
+  "compensation": "Suquamish: $42,170.49 net before offsets (1966). Duwamish: a final judgment of $62,000 in 1962 by compromise, on land the Commission valued at $74,000 as of March 8, 1859; the Commission did not reach whether the price was unconscionable (Duwamish Tribe v. United States, Docket 109).",
+  "today": "The Duwamish Tribe is not federally recognised and has no reservation. The fishing right is enforced under the continuing jurisdiction of United States v. Washington.",
+  "nationVoice": [
+    {
+      "nation": "Duwamish Tribe (Dxʷdəwʔabš)",
+      "summary": "The Tribe says the United States broke its treaty promises for more than a century and has not acknowledged the Tribe despite a petition filed in 1978.",
+      "url": "https://www.duwamishtribe.org/history"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Dwamish, Suquamish, etc., 1855 (Kappler, vol. 2, p. 669)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-dwamish-suquamish-etc-1855-0669",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Suquamish Tribe of Indians v. United States, Docket No. 132, Opinion of the Commission, January 21, 1966",
+      "url": "https://dc.library.okstate.edu/digital/collection/p17279coll10/id/2352",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Duwamish Tribe of Indians v. United States, Docket No. 109, Opinion of the Commission, July 20, 1962",
+      "url": "https://dc.library.okstate.edu/digital/collection/p17279coll10/id/414",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Washington v. Washington State Commercial Passenger Fishing Vessel Assn., 443 U.S. 658 (1979)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/443/658",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Washington v. United States, No. 17-269 (2018), per curiam",
+      "url": "https://www.law.cornell.edu/supremecourt/text/17-269",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "History",
+      "url": "https://www.duwamishtribe.org/history",
+      "publisher": "Duwamish Tribe"
+    }
+  ],
+  "openQuestions": [
+    "Indian Claims Commission decisions for the other Point Elliott tribes (Snohomish, Snoqualmie, Skagit, Kikiallus, Stillaguamish) were not read; the Lummi claim was found not unconscionable on its figures ($33,634.13 against a value of $52,067, 1966).",
+    "The Duwamish Tribe's lack of a reservation and of federal recognition is documented by the Tribe; no federal finding that this breached the treaty was located.",
+    "The Boldt decision and the 2017 Ninth Circuit culvert opinion could not be loaded and are recorded through the Supreme Court's accounts.",
+    "treaties.json lists only the Duwamish and Suquamish as present-day tribes for this id; the Oklahoma State University database lists many more successors (Lummi, Muckleshoot, Nooksack, Samish, Sauk-Suiattle, Skokomish, Stillaguamish, Swinomish, Tulalip and others)."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

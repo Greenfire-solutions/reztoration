@@ -1,0 +1,123 @@
+{
+  "id": "kappler-599",
+  "name": "Treaty of Mendota (1851)",
+  "aka": [
+    "Treaty with the Sioux-Mdewakanton and Wahpakoota Bands, 1851"
+  ],
+  "signed": "1851-08-05",
+  "proclaimed": "1853-02-24",
+  "citation": "10 Stat. 954",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-sioux-mdewakanton-and-wahpakoota-bands-1851-0591",
+  "nations": [
+    "Bdewakantunwan (Mdewakanton) Dakota",
+    "Wahpekute Dakota"
+  ],
+  "promises": [
+    "$1,410,000 in all for the bands' lands and claims in Minnesota Territory and Iowa (Articles 2 and 4).",
+    "$220,000 to the chiefs for debts and a year's support after removal, and $30,000 for manual-labour schools, mills, blacksmith shops and farming (Article 4).",
+    "$1,160,000 held in trust with five per cent interest paid for fifty years from July 1, 1852, for an agricultural and civilization fund, education, goods and provisions, and a money annuity (Article 4), and the 1837 treaty annuity paid in money (Article 5).",
+    "Article 3, a reservation on the Minnesota River, was struck out by the Senate; the supplemental article paid ten cents an acre for it instead and let the President, with the bands' consent, mark out another home outside the cession."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1863-02-16",
+      "what": "After the 1862 war in Minnesota, Congress declared all treaties with the Sisseton, Wahpeton, Mdewakanton and Wahpekute bands abrogated and annulled so far as they imposed any future obligation on the United States, and declared their lands and rights of occupancy in Minnesota and their annuities and claims forfeited, appropriating two thirds of the unexpended annuities for damages claims.",
+      "whoFoundIt": "Act of February 16, 1863, ch. 37, 12 Stat. 652",
+      "source": {
+        "title": "An Act for the Relief of Persons for Damages sustained by Reason of Depredations and Injuries by certain Bands of Sioux Indians, 12 Stat. 652 (February 16, 1863)",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-12/pdf/STATUTE-12-Pg652.pdf",
+        "publisher": "U.S. Government Publishing Office, govinfo"
+      },
+      "quote": "are hereby declared to be abrogated and annulled"
+    },
+    {
+      "kind": "litigation",
+      "date": "1967-06-29",
+      "what": "The Indian Claims Commission held in 1962 that the Mdewakanton and Wahpekute (Docket 362) had recognised title to Royce Area 289 at this treaty; their claims and those of the Sisseton and Wahpeton were settled by compromise in 1967 for a net $12,250,000 across Dockets 142 and 359-363, without a finding on the price.",
+      "whoFoundIt": "Indian Claims Commission, Sisseton and Wahpeton Bands et al. v. United States, Dockets 142, 359-363, Interlocutory Order (January 12, 1962) and Order Approving Compromise Settlement (June 29, 1967)",
+      "source": {
+        "title": "Sisseton and Wahpeton Bands et al. v. United States, Dockets 142 et al., Interlocutory Order (January 12, 1962)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/262",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1862",
+      "what": "The Shakopee Mdewakanton Sioux Community states that no annuity payments were made to the Mdewakanton in 1862, which it calls a clear breach of treaty rights.",
+      "whoFoundIt": "Shakopee Mdewakanton Sioux Community, Our History timeline",
+      "source": {
+        "title": "Our History",
+        "url": "https://shakopeedakota.org/culture-history/our-history/",
+        "publisher": "Shakopee Mdewakanton Sioux Community"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "what": "The Lower Sioux Indian Community states that the United States failed for two years before August 1862 to meet its treaty obligations, including payment for the land, health care and food, and afterwards nullified its treaties with the Dakota, voided their annuities and removed them from Minnesota.",
+      "whoFoundIt": "Lower Sioux Indian Community, About Us and History of the Mdewakanton",
+      "source": {
+        "title": "About Us",
+        "url": "https://lowersioux.com/about-us/",
+        "publisher": "Lower Sioux Indian Community"
+      }
+    }
+  ],
+  "landTaken": "Royce Area 289, ceded jointly by this treaty and the Traverse des Sioux treaty (kappler-596). The acreage was not copied here.",
+  "compensation": "The 1863 act forfeited the unpaid annuities. The Indian Claims Commission claims of the four bands for the 1851 cessions and other dockets were compromised in 1967 for a net $12,250,000.",
+  "today": "Descendants include the Lower Sioux Indian Community, Prairie Island Indian Community, Shakopee Mdewakanton Sioux Community, Upper Sioux Community, Santee Sioux Nation and Flandreau Santee Sioux Tribe, as listed in the queue for this cession.",
+  "nationVoice": [
+    {
+      "nation": "Shakopee Mdewakanton Sioux Community",
+      "summary": "The Community's history says the two 1851 treaties, Traverse des Sioux and Mendota, had the four Dakota bands give up over 30 million acres in Minnesota Territory and Iowa for money and a permanent reservation on the Minnesota River, and that by 1862 no annuity payments were being made to the Mdewakanton, a clear breach of treaty rights.",
+      "url": "https://shakopeedakota.org/culture-history/our-history/"
+    },
+    {
+      "nation": "Lower Sioux Indian Community (Mdewakanton Band of Dakota)",
+      "summary": "The Community says 'Lower Sioux' was the name given to its band and homeland after the 1851 treaties, that the 1862 war followed two years of unfulfilled treaty obligations including unpaid land money, health care and food, and that the United States then nullified its treaties, voided the annuities and removed the Dakota from Minnesota.",
+      "url": "https://lowersioux.com/about-us/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Sioux-Mdewakanton and Wahpakoota Bands, 1851 (Kappler, vol. 2, p. 591)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-sioux-mdewakanton-and-wahpakoota-bands-1851-0591",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Act of February 16, 1863, ch. 37, 12 Stat. 652",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-12/pdf/STATUTE-12-Pg652.pdf",
+      "publisher": "U.S. Government Publishing Office, govinfo"
+    },
+    {
+      "title": "Sisseton and Wahpeton Bands et al. v. United States, Dockets 142 et al., Interlocutory Order (January 12, 1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/262",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sisseton and Wahpeton Bands et al. v. United States, Dockets 142, 359-363, Interlocutory Order Approving Compromise Settlement (June 29, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1045",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Our History",
+      "url": "https://shakopeedakota.org/culture-history/our-history/",
+      "publisher": "Shakopee Mdewakanton Sioux Community"
+    },
+    {
+      "title": "About Us",
+      "url": "https://lowersioux.com/about-us/",
+      "publisher": "Lower Sioux Indian Community"
+    }
+  ],
+  "openQuestions": [
+    "The 1863 act's preamble gives Congress's reasons in its own words (the 1862 war); the record states the act's effect only.",
+    "Medawakanton and Wahpakoota Bands v. United States, 57 Ct. Cl. 357 (1922), on the partial restoration of the forfeited annuities, was not opened; it is the main lead for a court finding on this treaty.",
+    "The Senate's amendment striking the Article 3 reservation, and how the bands' assent to it was obtained, is a lead for a deeper pass.",
+    "No account of this treaty by a Dakota nation was located in this pass."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

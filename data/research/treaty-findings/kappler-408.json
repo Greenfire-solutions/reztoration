@@ -1,0 +1,79 @@
+{
+  "id": "kappler-408",
+  "name": "Treaty with the Oto and Missouri, 1833",
+  "aka": [
+    "Treaty of the Otoe Village on the Platte (1833)"
+  ],
+  "signed": "1833-09-21",
+  "proclaimed": "1834-04-12",
+  "citation": "7 Stat. 429",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-oto-and-missouri-1833-0400",
+  "nations": [
+    "Jiwere-Nutachi (Otoe-Missouria)"
+  ],
+  "promises": [
+    "The $2,500 annuity under the 1830 Prairie du Chien treaty continued for ten years from July 15, 1840, and the $500 annuity for farm implements likewise (Articles 2 and 3).",
+    "$500 a year for five years for schools within the tribes' territory (Article 4).",
+    "A horse mill for grinding corn, two farmers for five years and $1,000 in livestock (Articles 5 and 6); Article 7 made Articles 3 to 6 (the implements annuity, the school money, the mill, the farmers and the stock) conditional on the tribes settling in agricultural districts the President chose.",
+    "$400 in goods on signing (Article 9)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1953-03-31",
+      "what": "The Indian Claims Commission found the 792,000 acres the Otoe and Missouria ceded by this treaty were worth 75 cents an acre on September 21, 1833, that the tribes received $39,410.15, about 4.9 cents an acre, and that this was grossly inadequate and an unconscionable consideration. It awarded $554,589.85 for this cession ($594,000.00 less the $39,410.15 paid), part of a total award of $1,179,058.40 less offsets.",
+      "whoFoundIt": "Indian Claims Commission, Otoe and Missouria Tribe of Indians v. United States, Docket 11, Findings of Fact 14 and Opinion of the Commission (March 31, 1953), 2 Ind. Cl. Comm. 335, 355",
+      "source": {
+        "title": "Otoe and Missouria Tribe v. United States, Docket 11, Findings of Fact (March 31, 1953)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/350",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "792,000 acres south of the Little Nemaha River, as the Commission fixed the acreage (Docket 11, finding 14 and opinion on the Third Cause of Action).",
+  "compensation": "The Commission found the tribes received $39,410.15 for this cession and awarded $554,589.85 for it, within a combined award of $1,179,058.40 for this and the 1854 cession, less offsets to be determined; it allowed no interest because it found no taking in the constitutional sense (Opinion, March 31, 1953).",
+  "today": "The claimant was the Otoe and Missouria Tribe of Indians, today the Otoe-Missouria Tribe of Indians in Oklahoma.",
+  "nationVoice": [
+    {
+      "nation": "Otoe-Missouria Tribe (Jiwere-Nut'achi)",
+      "summary": "The Tribe's own history says settlers wanted and moved onto its traditional farming lands in Nebraska, Iowa, Missouri and Kansas, that the Otoe-Missouria fought to protect them, and that the United States acted to protect the settlers until the Tribe was confined to the Big Blue River reservation in 1855.",
+      "url": "https://www.omtribe.org/who-we-are/history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Oto and Missouri, 1833 (Kappler, vol. 2, p. 400)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-oto-and-missouri-1833-0400",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Otoe and Missouria Tribe v. United States, Docket 11, Findings of Fact (March 31, 1953)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/350",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Otoe and Missouria Tribe v. United States, Docket 11, Opinion of the Commission (March 31, 1953)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/0",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Otoe and Missouria Tribe v. United States, Docket 11, Opinion of the Commission on offsets (December 11, 1953)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/312",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History: Otoe and Missouria, Five Hundred Years of History",
+      "url": "https://www.omtribe.org/who-we-are/history/",
+      "publisher": "Otoe-Missouria Tribe"
+    }
+  ],
+  "openQuestions": [
+    "The final net award after offsets was not established: the December 11, 1953 opinion on offsets (OSU id 312) is badly damaged OCR and was not read to its end figure.",
+    "The Court of Claims reviewed this docket (Otoe and Missouria Tribe v. United States, 131 Ct. Cl. 593, 1955, as commonly cited); that decision and the final net award after offsets were not opened.",
+    "The Otoe-Missouria Tribe's own account of this treaty was not looked for in this pass.",
+    "Audit 2026-11-07: the per-cession award of $554,589.85 is stated in the Commission's opinion (2 Ind. Cl. Comm. 355, OSU id 0), not only derived; the earlier note that it was the researcher's arithmetic was removed and the figure moved into the breach and compensation. Promise 3 reworded: Article 7 conditions Articles 3 to 6, not only the mill, farmers and stock."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

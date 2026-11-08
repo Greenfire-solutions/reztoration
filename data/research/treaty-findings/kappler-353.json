@@ -1,0 +1,48 @@
+{
+  "id": "kappler-353",
+  "name": "Treaty with the Winnebago, 1832 (Treaty of Fort Armstrong, Rock Island)",
+  "aka": ["Treaty of Rock Island (1832, Winnebago)"],
+  "signed": "1832-09-15",
+  "proclaimed": "1833-02-13",
+  "citation": "7 Stat. 370",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-winnebago-1832-0345",
+  "nations": ["Ho-Chunk (Winnebago)"],
+  "promises": [
+    "Part of the Neutral Ground west of the Mississippi granted to the Ho-Chunk in exchange, to be held as other Indian lands are held (Article 2).",
+    "$10,000 in specie every year for 27 years, paid at Prairie du Chien and Fort Winnebago (Article 3).",
+    "A school near Fort Crawford or Prairie du Chien for 27 years, up to $3,000 a year (Article 4).",
+    "Up to $2,500 a year for six agriculturists, oxen, ploughs and tools, and $200 a year each for physicians at Prairie du Chien and Fort Winnebago (Article 5).",
+    "Rations for those required to move, up to 60,000 rations (Article 7)."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "litigation",
+      "date": "1970-09-03",
+      "what": "The Ho-Chunk sued before the Indian Claims Commission for the land ceded by this treaty (Royce Area 174). The Commission found the Ho-Chunk ceded their title to it under this treaty and valued it at $1,575,000 as of 13 February 1833, but the case ended in a $4,600,000 compromise covering this and other treaties, without a finding on whether the price paid was unconscionable.",
+      "whoFoundIt": "Indian Claims Commission, Winnebago Tribe and Nation v. United States, Dockets 243, 244 and 245 (findings 1959 and 1965; final judgment on compromise, 3 September 1970, 23 Ind. Cl. Comm. 464)",
+      "source": { "title": "Winnebago Tribe and Nation v. United States, Dockets 243-245, Final Judgment (September 3, 1970)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2308", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+    }
+  ],
+  "landTaken": "Royce Area 174, stipulated before the Indian Claims Commission as 2,101,455 land acres, valued by the Commission at $1,575,000 as of 13 February 1833 (Docket 243, Additional Findings of Fact, 13 October 1965, 16 Ind. Cl. Comm. 81).",
+  "compensation": "On 3 September 1970 the Indian Claims Commission entered a final judgment of $4,600,000 on a compromise of all claims in Dockets 243, 244 and 245, which covered the cessions of 1829, 1832, 1837, 1846, 1855, 1859, 1863 and 1865. The settlement was voted on at meetings in Winnebago, Nebraska (180 for, 39 against) and Black River Falls, Wisconsin (80 for, 27 against) in June 1969; the Wisconsin Business Committee could not reach a quorum to act on it (Findings of Fact on Compromise Settlement, 23 Ind. Cl. Comm. 467).",
+  "today": "The Ho-Chunk are today the Ho-Chunk Nation of Wisconsin and the Winnebago Tribe of Nebraska.",
+  "nationVoice": [
+    { "nation": "Ho-Chunk Nation", "summary": "Ho-Chunk Nation Tribal Historic Preservation Officer Bill Quackenbush traces in a 2026 PBS Wisconsin and ICT interview how treaties and land cessions in the 1800s forced the Ho-Chunk from their homes in the Madison area.", "url": "https://pbswisconsin.org/news-item/bill-quackenbush-on-how-land-cessions-forced-ho-chunk-removal-from-their-ancestral-grounds/" }
+  ],
+  "sources": [
+    { "title": "Treaty with the Winnebago, 1832 (Kappler)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-winnebago-1832-0345", "publisher": "Oklahoma State University Libraries" },
+    { "title": "Winnebago Tribe v. United States, Dockets 243-245, Findings of Fact (August 10, 1959)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/121", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Winnebago Tribe v. United States, Additional Findings of Fact (October 13, 1965)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1096", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Winnebago Tribe v. United States, Findings of Fact on Compromise Settlement (September 3, 1970)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1872", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Winnebago Tribe v. United States, Final Judgment (September 3, 1970)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2308", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+  ],
+  "openQuestions": [
+    "The ICC never ruled whether the consideration for Royce Area 174 was unconscionable; the case was settled. The total consideration paid under this treaty was not established here.",
+    "The treaty followed the Black Hawk War, and Article 9 suspended the annuity until named Ho-Chunk men were surrendered; whether annuities were withheld, and for how long, was not researched.",
+    "The 1970 compromise findings OCR reads 'Royce Area 171' for this treaty; the 1959 interlocutory order and 1965 findings give Royce Area 174, which matches the queue entry.",
+    "The Ho-Chunk Nation's own written account of this treaty was not found; ho-chunknation.com has no treaty history page."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

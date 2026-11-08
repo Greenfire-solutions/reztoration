@@ -1,0 +1,101 @@
+{
+  "id": "kappler-560",
+  "name": "Treaty with the Kansa, 1846",
+  "aka": [
+    "Treaty with the Kansas Indians (January 14, 1846)",
+    "Methodist Mission treaty (1846)"
+  ],
+  "signed": "1846-01-14",
+  "ratified": "1846-04-13",
+  "proclaimed": "1846-04-15",
+  "citation": "9 Stat. 842",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-9/pdf/STATUTE-9-Pg842.pdf",
+  "nations": [
+    "Kaw (Kansa)"
+  ],
+  "promises": [
+    "For two million acres off the east end of the Kansa country, $202,000, of which $200,000 was funded at five per cent with the interest paid yearly for thirty years (Articles 1 and 2).",
+    "From the interest, $1,000 a year for education and $1,000 a year for farming help in their own country, the rest paid to them yearly (Article 2).",
+    "If the President found too little timber on the land left to them, a suitable country near the western line of the cession laid off for the Kansa, to remain for their use forever, in exchange for the rest of their reservation (Article 5).",
+    "The new western line to be surveyed and marked, and $600 toward a mill where they settled (Articles 2 and 3)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1951-09-17",
+      "what": "The Indian Claims Commission found the two million acres ceded by Article 1 were worth $1,000,000 and held the $202,000 paid unconscionable (Docket 35). It also found that under Article 5 the United States took the remaining 4,559,040 acres of the reservation, worth $1,823,616, in exchange for the 255,854.49-acre Council Grove reservation worth $127,927.25, held that unconscionable (Docket 33), and awarded $2,493,688.75 on the two claims, less offsets.",
+      "whoFoundIt": "Indian Claims Commission, Felix McCauley on relation of the Kaw Tribe v. United States, Dockets 33, 34 and 35, Findings of Fact and Opinion (September 17, 1951), 1 Ind. Cl. Comm. 608, 617",
+      "source": {
+        "title": "McCauley (Kaw Tribe) v. United States, Dockets 33-35, Opinion (September 17, 1951)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/486",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "what": "The Kaw Nation states that the United States kept renegotiating its treaties with the Kanza, selling off land and avoiding its commitments, shrinking the homeland treaty by treaty until it forced the tribe to cede all its land in Kansas.",
+      "whoFoundIt": "Kaw Nation, History of Kaw Nation (tribal website)",
+      "source": {
+        "title": "History of Kaw Nation",
+        "url": "https://www.kawnation.gov/history-of-kaw-nation/",
+        "publisher": "Kaw Nation"
+      }
+    }
+  ],
+  "landTaken": "Two million acres off the east end of the 1825 reservation (Article 1), and 4,559,040 acres more taken under Article 5 when the Council Grove reservation of 255,854.49 acres was laid off in its place (Docket 33, findings 5 and 6, 1951).",
+  "compensation": "Awards of $798,000 in Docket 35 and $1,695,688.75 in Docket 33, $2,493,688.75 in all, less offsets (interlocutory order of September 17, 1951, as restated by the Commission on May 15, 1952). The Commission's 1952 decision on offsets allowed some government expenditures against the award; the final net figure was not traced.",
+  "today": "The claimant sued on behalf of all members of the Kansas or Kaw Tribe, today the Kaw Nation in Oklahoma. The Council Grove reservation's later cession is a separate queue entry (cession-1872-06-05-kansa) and the 1859 treaty (kappler-808).",
+  "nationVoice": [
+    {
+      "nation": "Kaw Nation",
+      "summary": "The Nation's history says each new treaty cut down a Kanza homeland once estimated at about 20 million acres while the United States renegotiated, sold off land and avoided its commitments, until the Kanza were forced to cede all their land in Kansas.",
+      "url": "https://www.kawnation.gov/history-of-kaw-nation/"
+    },
+    {
+      "nation": "Kaw Nation",
+      "summary": "The Kanza Timeline published by the Nation lists the January 14, 1846 treaty as ceding 2 million acres to the United States.",
+      "url": "https://www.kawnation.gov/wp-content/uploads/2024/02/KANZATimeline.pdf"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Kansas Indians, January 14, 1846, 9 Stat. 842",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-9/pdf/STATUTE-9-Pg842.pdf",
+      "publisher": "U.S. Government Publishing Office, govinfo"
+    },
+    {
+      "title": "McCauley (Kaw Tribe) v. United States, Dockets 33-35, Findings of Fact (September 17, 1951)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/120",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "McCauley (Kaw Tribe) v. United States, Dockets 33-35, Opinion (September 17, 1951)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/486",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "McCauley (Kaw Tribe) v. United States, Docket 33, Opinion of the Commission on offsets (May 15, 1952)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/309",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History of Kaw Nation",
+      "url": "https://www.kawnation.gov/history-of-kaw-nation/",
+      "publisher": "Kaw Nation"
+    },
+    {
+      "title": "Kanza Timeline",
+      "url": "https://www.kawnation.gov/wp-content/uploads/2024/02/KANZATimeline.pdf",
+      "publisher": "Kaw Nation"
+    }
+  ],
+  "openQuestions": [
+    "The OCR of the 1951 opinion once prints the 4,559,040-acre value as $2,823,616; the finding's 40 cents an acre and the $1,695,688.75 award both match $1,823,616.",
+    "The same proceeding dismissed Docket 34, the claim for the 1825 cession, finding the Kaw had not proved exclusive use and occupancy and that the United States had not recognised their title in 1825; that belongs to kappler-230.",
+    "A 1954 Commission opinion in Docket 33 (pointer 288) concerns a dispute over attorneys and the tribe's acceptance of the awards; not read in full.",
+    "The Kaw Nation's own account of this treaty was not looked for in this pass."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

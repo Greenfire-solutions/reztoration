@@ -1,0 +1,866 @@
+[
+ {
+  "id": "the-artesian-hotel-and-spa",
+  "name": "The Artesian Hotel and Spa",
+  "category": "tourism",
+  "subcategory": "historic hotel and spa",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chickasaw Nation: locations, Artesian Hotel and Spa",
+   "url": "https://www.chickasaw.net/Our-Nation/Locations/Artesian-Hotel-and-Spa"
+  },
+  "description": "Chickasaw Nation hotel and spa in downtown Sulphur, near the Chickasaw National Recreation Area.",
+  "website": "https://www.artesianhotel.com/",
+  "address": "1001 W 1st St",
+  "city": "Sulphur",
+  "state": "OK",
+  "zip": "73086",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Nation: locations, Artesian Hotel and Spa",
+    "url": "https://www.chickasaw.net/Our-Nation/Locations/Artesian-Hotel-and-Spa"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.9686,
+   34.5071
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "chickasaw-council-house-museum",
+  "name": "Chickasaw Council House Museum",
+  "category": "tourism",
+  "subcategory": "museum and art gallery",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chickasaw Nation: locations, Chickasaw Council House Museum",
+   "url": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Council-House-Museum"
+  },
+  "description": "Museum on the Capitol grounds in Tishomingo built around the first Chickasaw council house in Indian Territory, with art and archives.",
+  "website": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Council-House-Museum",
+  "address": "209 N Fisher Ave",
+  "city": "Tishomingo",
+  "state": "OK",
+  "zip": "73460",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Nation: locations, Chickasaw Council House Museum",
+    "url": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Council-House-Museum"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.6796,
+   34.2375
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "chickasaw-nation-capitol-building",
+  "name": "Chickasaw Nation Capitol Building",
+  "category": "tourism",
+  "subcategory": "historic capitol",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chickasaw Nation: locations, Chickasaw Nation Historic Capitol Building",
+   "url": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Nation-Historic-Capitol-Building"
+  },
+  "description": "Historic capitol building of the Chickasaw Nation in Tishomingo, open to visitors.",
+  "website": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Nation-Historic-Capitol-Building",
+  "address": "411 W 9th St",
+  "city": "Tishomingo",
+  "state": "OK",
+  "zip": "73460",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Nation: locations, Chickasaw Nation Historic Capitol Building",
+    "url": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Nation-Historic-Capitol-Building"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.6732,
+   34.2337
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "chickasaw-white-house",
+  "name": "Chickasaw White House",
+  "category": "tourism",
+  "subcategory": "historic home museum",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chickasaw Nation: locations, Chickasaw White House",
+   "url": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-White-House"
+  },
+  "description": "Home of Chickasaw Governor Douglas H. Johnston from 1898 to 1971, now a museum north of Emet.",
+  "website": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-White-House",
+  "address": "6379 E Mansion Rd",
+  "city": "Emet",
+  "state": "OK",
+  "zip": "73450",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Nation: locations, Chickasaw White House",
+    "url": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-White-House"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.5433,
+   34.2067
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "fort-washita",
+  "name": "Fort Washita",
+  "category": "tourism",
+  "subcategory": "historic site",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chickasaw Nation: locations, Fort Washita",
+   "url": "https://www.chickasaw.net/Our-Nation/Locations/Fort-Washita"
+  },
+  "description": "Chickasaw Nation historic site preserving the 1842 frontier fort built under treaty obligations to the Chickasaw and Choctaw, east of Madill.",
+  "website": "https://www.chickasaw.net/Our-Nation/Locations/Fort-Washita",
+  "city": "Durant",
+  "state": "OK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Nation: locations, Fort Washita",
+    "url": "https://www.chickasaw.net/Our-Nation/Locations/Fort-Washita"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.3777,
+   33.992
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "chickasaw-visitor-center",
+  "name": "Chickasaw Visitor Center",
+  "category": "tourism",
+  "subcategory": "visitor center and gallery",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chickasaw Nation: locations, Chickasaw Visitor Center",
+   "url": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Visitor-Center"
+  },
+  "description": "Visitor center in Sulphur with Native art on display and information on the Chickasaw National Recreation Area.",
+  "website": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Visitor-Center",
+  "address": "901 W 1st St",
+  "city": "Sulphur",
+  "state": "OK",
+  "zip": "73086",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Nation: locations, Chickasaw Visitor Center",
+    "url": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Visitor-Center"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.9687,
+   34.5064
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "chickasaw-nation-welcome-center",
+  "name": "Chickasaw Nation Welcome Center",
+  "category": "tourism",
+  "subcategory": "welcome center and art gallery",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chickasaw Nation: locations, Chickasaw Welcome Center",
+   "url": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Welcome-Center"
+  },
+  "description": "Interstate 35 welcome center in Davis with an art gallery and travel information on Chickasaw Country.",
+  "website": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Welcome-Center",
+  "address": "35 N Colbert Rd",
+  "city": "Davis",
+  "state": "OK",
+  "zip": "73030",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Nation: locations, Chickasaw Welcome Center",
+    "url": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Welcome-Center"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -97.1774,
+   34.506
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "chickasaw-nation-information-center",
+  "name": "Chickasaw Nation Information Center",
+  "category": "tourism",
+  "subcategory": "information center and gift shop",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chickasaw Nation: locations, Chickasaw Nation Information Center",
+   "url": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Nation-Information-Center"
+  },
+  "description": "Tishomingo information center with a gift shop of goods by Native artists and Oklahoma Native businesses.",
+  "website": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Nation-Information-Center",
+  "address": "504 W Main St",
+  "city": "Tishomingo",
+  "state": "OK",
+  "zip": "73460",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Nation: locations, Chickasaw Nation Information Center",
+    "url": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Nation-Information-Center"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.6731,
+   34.2322
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "chickasaw-retreat-and-conference-center",
+  "name": "Chickasaw Retreat and Conference Center",
+  "category": "tourism",
+  "subcategory": "lodge and conference center",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chickasaw Nation: locations, Chickasaw Retreat and Conference Center",
+   "url": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Retreat-and-Conference-Center"
+  },
+  "description": "Chickasaw Nation lodge and meeting center in the woods outside Sulphur.",
+  "website": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Retreat-and-Conference-Center",
+  "address": "4205 Goddard Youth Camp Rd",
+  "city": "Sulphur",
+  "state": "OK",
+  "zip": "73086",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Nation: locations, Chickasaw Retreat and Conference Center",
+    "url": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Retreat-and-Conference-Center"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -97.0161,
+   34.4266
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "kullihoma-grounds-and-recreation-area",
+  "name": "Kullihoma Grounds and Recreation Area",
+  "category": "tourism",
+  "subcategory": "cultural grounds and recreation area",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chickasaw Nation: locations, Kullihoma Recreation Area",
+   "url": "https://www.chickasaw.net/Our-Nation/Locations/Kullihoma-Recreation-Area"
+  },
+  "description": "About 1,961 acres between Ada and Allen with a stickball field, cornstalk bow range and traditional gathering spaces.",
+  "website": "https://www.chickasaw.net/Our-Nation/Locations/Kullihoma-Recreation-Area",
+  "address": "13078 County Rd 3680",
+  "city": "Allen",
+  "state": "OK",
+  "zip": "74825",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Nation: locations, Kullihoma Recreation Area",
+    "url": "https://www.chickasaw.net/Our-Nation/Locations/Kullihoma-Recreation-Area"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.4593,
+   34.7973
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "mcswain-theatre",
+  "name": "McSwain Theatre",
+  "category": "tourism",
+  "subcategory": "historic theatre and live music venue",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chickasaw Nation: locations, McSwain Theatre",
+   "url": "https://www.chickasaw.net/Our-Nation/Locations/McSwain-Theatre"
+  },
+  "description": "Historic theatre on Main Street in Ada, owned by the Chickasaw Nation, hosting concerts and shows.",
+  "website": "https://www.chickasaw.net/Our-Nation/Locations/McSwain-Theatre",
+  "address": "130 W Main St",
+  "city": "Ada",
+  "state": "OK",
+  "zip": "74820",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Nation: locations, McSwain Theatre",
+    "url": "https://www.chickasaw.net/Our-Nation/Locations/McSwain-Theatre"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.6783,
+   34.7746
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "lazer-zone-family-fun-center",
+  "name": "Lazer Zone Family Fun Center",
+  "category": "tourism",
+  "subcategory": "bowling, laser tag and mini golf",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chickasaw Nation: locations, Lazer Zone Family Fun Center",
+   "url": "https://www.chickasaw.net/Our-Nation/Locations/Lazer-Zone-Family-Fun-Center"
+  },
+  "description": "Family entertainment center in Ada with 24 bowling lanes, laser tag, batting cages and mini golf.",
+  "website": "https://www.chickasaw.net/Our-Nation/Locations/Lazer-Zone-Family-Fun-Center",
+  "address": "14601 County Rd 3544",
+  "city": "Ada",
+  "state": "OK",
+  "zip": "74820",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Nation: locations, Lazer Zone Family Fun Center",
+    "url": "https://www.chickasaw.net/Our-Nation/Locations/Lazer-Zone-Family-Fun-Center"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.6784,
+   34.7743
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "boggy-depot-park",
+  "name": "Boggy Depot Park",
+  "category": "tourism",
+  "subcategory": "historic park",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chickasaw Nation: locations, Boggy Depot Park",
+   "url": "https://www.chickasaw.net/Our-Nation/Locations/Boggy-Depot-Park"
+  },
+  "description": "Chickasaw Nation park at the site of the historic Boggy Depot community near Atoka.",
+  "website": "https://www.chickasaw.net/Our-Nation/Locations/Boggy-Depot-Park",
+  "address": "475 S Park Ln",
+  "city": "Atoka",
+  "state": "OK",
+  "zip": "74525",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Nation: locations, Boggy Depot Park",
+    "url": "https://www.chickasaw.net/Our-Nation/Locations/Boggy-Depot-Park"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.3029,
+   34.3112
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "winstar-rv-park",
+  "name": "WinStar RV Park",
+  "category": "tourism",
+  "subcategory": "RV park",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chickasaw Nation: locations, WinStar RV Park",
+   "url": "https://www.chickasaw.net/Our-Nation/Locations/WinStar-RV-Park"
+  },
+  "description": "Chickasaw Nation RV park beside WinStar on Interstate 35 at the Texas line.",
+  "website": "https://www.chickasaw.net/Our-Nation/Locations/WinStar-RV-Park",
+  "address": "21902 Merle Wolf Rd",
+  "city": "Thackerville",
+  "state": "OK",
+  "zip": "73459",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Nation: locations, WinStar RV Park",
+    "url": "https://www.chickasaw.net/Our-Nation/Locations/WinStar-RV-Park"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -97.1251,
+   33.7534
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "cherokee-cultural-pathway",
+  "name": "Cherokee Cultural Pathway",
+  "category": "tourism",
+  "subcategory": "outdoor walking path of Cherokee history",
+  "nation": "Cherokee Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Visit Cherokee Nation (Cherokee Nation tourism): Cherokee Cultural Pathway",
+   "url": "https://visitcherokeenation.com/attractions/cherokee-cultural-pathway/"
+  },
+  "description": "Free open-air walk through downtown Tahlequah linking Cherokee Nation museums, public art and history markers.",
+  "website": "https://visitcherokeenation.com/attractions/cherokee-cultural-pathway/",
+  "address": "118 E Keetoowah St",
+  "city": "Tahlequah",
+  "state": "OK",
+  "zip": "74464",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Visit Cherokee Nation (Cherokee Nation tourism): Cherokee Cultural Pathway",
+    "url": "https://visitcherokeenation.com/attractions/cherokee-cultural-pathway/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -94.971,
+   35.912
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "cherokee-national-prison-museum",
+  "name": "Cherokee National Prison Museum",
+  "category": "tourism",
+  "subcategory": "museum",
+  "nation": "Cherokee Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Visit Cherokee Nation (Cherokee Nation tourism): Cherokee National Prison Museum",
+   "url": "https://visitcherokeenation.com/attractions/cherokee-national-prison-museum/"
+  },
+  "description": "Historic Cherokee National Prison in Tahlequah, now a museum on law, order and outlaws in Indian Territory.",
+  "website": "https://visitcherokeenation.com/attractions/cherokee-national-prison-museum/",
+  "address": "124 E Choctaw St",
+  "city": "Tahlequah",
+  "state": "OK",
+  "zip": "74464",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Visit Cherokee Nation (Cherokee Nation tourism): Cherokee National Prison Museum",
+    "url": "https://visitcherokeenation.com/attractions/cherokee-national-prison-museum/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -94.9713,
+   35.9108
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "cherokee-national-supreme-court-museum",
+  "name": "Cherokee National Supreme Court Museum",
+  "category": "tourism",
+  "subcategory": "museum",
+  "nation": "Cherokee Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Visit Cherokee Nation (Cherokee Nation tourism): Cherokee National Supreme Court Museum",
+   "url": "https://visitcherokeenation.com/attractions/cherokee-national-supreme-court-museum/"
+  },
+  "description": "Historic Cherokee court building with exhibits on Cherokee courts and the Cherokee Advocate and Phoenix newspapers.",
+  "website": "https://visitcherokeenation.com/attractions/cherokee-national-supreme-court-museum/",
+  "address": "122 E Keetoowah St",
+  "city": "Tahlequah",
+  "state": "OK",
+  "zip": "74464",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Visit Cherokee Nation (Cherokee Nation tourism): Cherokee National Supreme Court Museum",
+    "url": "https://visitcherokeenation.com/attractions/cherokee-national-supreme-court-museum/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -94.9708,
+   35.912
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "john-ross-museum",
+  "name": "John Ross Museum",
+  "category": "tourism",
+  "subcategory": "museum",
+  "nation": "Cherokee Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Visit Cherokee Nation (Cherokee Nation tourism): John Ross Museum",
+   "url": "https://visitcherokeenation.com/attractions/john-ross-museum/"
+  },
+  "description": "Cherokee Nation museum in Park Hill on Principal Chief John Ross, the Trail of Tears and the Cherokee Golden Age.",
+  "website": "https://visitcherokeenation.com/attractions/john-ross-museum/",
+  "address": "22366 S 530 Rd",
+  "city": "Park Hill",
+  "state": "OK",
+  "zip": "74451",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Visit Cherokee Nation (Cherokee Nation tourism): John Ross Museum",
+    "url": "https://visitcherokeenation.com/attractions/john-ross-museum/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -94.9371,
+   35.8622
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "saline-courthouse-museum",
+  "name": "Saline Courthouse Museum",
+  "category": "tourism",
+  "subcategory": "historic courthouse museum",
+  "nation": "Cherokee Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Visit Cherokee Nation (Cherokee Nation tourism): Saline Courthouse Museum",
+   "url": "https://visitcherokeenation.com/attractions/saline-courthouse-museum/"
+  },
+  "description": "The last standing of nine Cherokee district courthouses, built in 1884 near Rose, with rotating exhibits.",
+  "website": "https://visitcherokeenation.com/attractions/saline-courthouse-museum/",
+  "address": "55870 S 490 Rd",
+  "city": "Rose",
+  "state": "OK",
+  "zip": "74364",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Visit Cherokee Nation (Cherokee Nation tourism): Saline Courthouse Museum",
+    "url": "https://visitcherokeenation.com/attractions/saline-courthouse-museum/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -95.0298,
+   36.2202
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "sequoyah-s-cabin-museum",
+  "name": "Sequoyah's Cabin Museum",
+  "category": "tourism",
+  "subcategory": "museum and park",
+  "nation": "Cherokee Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Visit Cherokee Nation (Cherokee Nation tourism): Sequoyah's Cabin Museum",
+   "url": "https://visitcherokeenation.com/attractions/sequoyahs-cabin-museum/"
+  },
+  "description": "Cabin of Sequoyah, creator of the Cherokee syllabary, on a 10-acre park outside Sallisaw.",
+  "website": "https://visitcherokeenation.com/attractions/sequoyahs-cabin-museum/",
+  "address": "470288 Highway 101",
+  "city": "Sallisaw",
+  "state": "OK",
+  "zip": "74955",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Visit Cherokee Nation (Cherokee Nation tourism): Sequoyah's Cabin Museum",
+    "url": "https://visitcherokeenation.com/attractions/sequoyahs-cabin-museum/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -94.7879,
+   35.4587
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "cherokee-nation-anna-mitchell-cultural-and-welcome-center",
+  "name": "Cherokee Nation Anna Mitchell Cultural and Welcome Center",
+  "category": "tourism",
+  "subcategory": "welcome center and gift shop on Route 66",
+  "nation": "Cherokee Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Visit Cherokee Nation (Cherokee Nation tourism): Anna Mitchell Cultural and Welcome Center",
+   "url": "https://visitcherokeenation.com/attractions/anna-mitchell-cultural-welcome-center/"
+  },
+  "description": "Route 66 welcome center in Vinita with Cherokee art, history exhibits and a gift shop.",
+  "website": "https://visitcherokeenation.com/attractions/anna-mitchell-cultural-welcome-center/",
+  "address": "953 E Illinois Ave",
+  "city": "Vinita",
+  "state": "OK",
+  "zip": "74301",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Visit Cherokee Nation (Cherokee Nation tourism): Anna Mitchell Cultural and Welcome Center",
+    "url": "https://visitcherokeenation.com/attractions/anna-mitchell-cultural-welcome-center/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -95.1441,
+   36.6347
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "ani-art-center",
+  "name": "Ani Art Center",
+  "category": "arts",
+  "subcategory": "Cherokee artist studios and gallery",
+  "nation": "Cherokee Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Visit Cherokee Nation (Cherokee Nation tourism): Ani Art Center",
+   "url": "https://visitcherokeenation.com/attractions/ani-art-center/"
+  },
+  "description": "Cherokee Nation art center in Stilwell with studio space, classes and work by Cherokee artists.",
+  "website": "https://visitcherokeenation.com/attractions/ani-art-center/",
+  "address": "406 W Locust St",
+  "city": "Stilwell",
+  "state": "OK",
+  "zip": "74960",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Visit Cherokee Nation (Cherokee Nation tourism): Ani Art Center",
+    "url": "https://visitcherokeenation.com/attractions/ani-art-center/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -94.632,
+   35.8085
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "citizen-potawatomi-nation-cultural-heritage-center",
+  "name": "Citizen Potawatomi Nation Cultural Heritage Center",
+  "category": "tourism",
+  "subcategory": "museum, archives and gift shop",
+  "nation": "Citizen Potawatomi Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Citizen Potawatomi Nation: Cultural Heritage Center",
+   "url": "https://www.potawatomiheritage.com/"
+  },
+  "description": "Citizen Potawatomi Nation museum, archives and language center in Shawnee, with an aviary and gift shop.",
+  "website": "https://www.potawatomiheritage.com/",
+  "address": "1899 S Gordon Cooper Dr",
+  "city": "Shawnee",
+  "state": "OK",
+  "zip": "74801",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Citizen Potawatomi Nation: Cultural Heritage Center",
+    "url": "https://www.potawatomiheritage.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.924,
+   35.2935
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "firelake-arena",
+  "name": "FireLake Arena",
+  "category": "tourism",
+  "subcategory": "events arena",
+  "nation": "Citizen Potawatomi Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Citizen Potawatomi Nation: enterprises, entertainment",
+   "url": "https://www.potawatomi.org/enterprises/entertainment/"
+  },
+  "description": "Citizen Potawatomi Nation events arena in Shawnee.",
+  "website": "https://www.potawatomi.org/enterprises/entertainment/",
+  "address": "18145 Rangeline Rd",
+  "city": "Shawnee",
+  "state": "OK",
+  "zip": "74801",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Citizen Potawatomi Nation: enterprises, entertainment",
+    "url": "https://www.potawatomi.org/enterprises/entertainment/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.9253,
+   35.3273
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "firelake-golf-course",
+  "name": "FireLake Golf Course",
+  "category": "tourism",
+  "subcategory": "public golf course",
+  "nation": "Citizen Potawatomi Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Citizen Potawatomi Nation: enterprises, recreation",
+   "url": "https://www.potawatomi.org/enterprises/recreation/"
+  },
+  "description": "Citizen Potawatomi Nation public 18-hole golf course in Shawnee.",
+  "website": "https://www.potawatomi.org/enterprises/recreation/",
+  "address": "1901 S Gordon Cooper Dr",
+  "city": "Shawnee",
+  "state": "OK",
+  "zip": "74801",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Citizen Potawatomi Nation: enterprises, recreation",
+    "url": "https://www.potawatomi.org/enterprises/recreation/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.924,
+   35.2935
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "firelake-bowling-center",
+  "name": "FireLake Bowling Center",
+  "category": "tourism",
+  "subcategory": "bowling center",
+  "nation": "Citizen Potawatomi Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Citizen Potawatomi Nation: enterprises, recreation",
+   "url": "https://www.potawatomi.org/enterprises/recreation/"
+  },
+  "description": "Citizen Potawatomi Nation bowling center in Shawnee.",
+  "website": "https://www.potawatomi.org/enterprises/recreation/",
+  "address": "40945 Hardesty Rd",
+  "city": "Shawnee",
+  "state": "OK",
+  "zip": "74801",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Citizen Potawatomi Nation: enterprises, recreation",
+    "url": "https://www.potawatomi.org/enterprises/recreation/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.9253,
+   35.3273
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "fountainhead-creek-golf-course",
+  "name": "Fountainhead Creek Golf Course",
+  "category": "tourism",
+  "subcategory": "public golf course on Lake Eufaula",
+  "nation": "Muscogee (Creek) Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Muscogee Nation: Department of Commerce, Fountainhead Creek Golf Course",
+   "url": "https://www.muscogeenation.com/department-of-commerce/"
+  },
+  "description": "Muscogee Nation 18-hole course above Lake Eufaula near Checotah.",
+  "website": "https://www.fountainheadgolf.com/",
+  "address": "112469 Highway 150",
+  "city": "Checotah",
+  "state": "OK",
+  "zip": "74426",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Muscogee Nation: Department of Commerce, Fountainhead Creek Golf Course",
+    "url": "https://www.muscogeenation.com/department-of-commerce/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -95.5231,
+   35.4701
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "osage-nation-museum",
+  "name": "Osage Nation Museum",
+  "category": "tourism",
+  "subcategory": "tribal museum",
+  "nation": "Osage Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Osage Nation: Osage Nation Museum",
+   "url": "https://www.osageculture.com/culture/museum"
+  },
+  "description": "Opened in 1938 in Pawhuska, the oldest tribally governed museum in the United States, telling Osage history in Osage voices.",
+  "website": "https://www.osageculture.com/culture/museum",
+  "city": "Pawhuska",
+  "state": "OK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Osage Nation: Osage Nation Museum",
+    "url": "https://www.osageculture.com/culture/museum"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.3401,
+   36.6633
+  ],
+  "lonlatPrecision": "town"
+ }
+]

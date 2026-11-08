@@ -1,0 +1,1068 @@
+[
+ {
+  "id": "aaniiih-nakoda-college",
+  "name": "Aaniiih Nakoda College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Fort Belknap Indian Community (Aaniiih and Nakoda)",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Fort Belknap Indian Community (Aaniiih and Nakoda), offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.ancollege.edu/",
+  "city": "Harlem",
+  "state": "MT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -108.7849,
+   48.5325
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "bay-mills-community-college",
+  "name": "Bay Mills Community College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Bay Mills Indian Community",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Bay Mills Indian Community, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.bmcc.edu/",
+  "city": "Brimley",
+  "state": "MI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -84.5723,
+   46.4053
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "blackfeet-community-college",
+  "name": "Blackfeet Community College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Blackfeet Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Blackfeet Nation, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://bfcc.edu/",
+  "city": "Browning",
+  "state": "MT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -113.0173,
+   48.5577
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "california-indian-nations-college",
+  "name": "California Indian Nations College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribally chartered college in the Coachella Valley offering associate degrees with Native studies at the core.",
+  "website": "https://cincollege.org/",
+  "city": "Palm Desert",
+  "state": "CA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -116.3826,
+   33.7288
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "california-tribal-college",
+  "name": "California Tribal College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Young tribally initiated college in Sacramento working toward accreditation, listed by AIHEC as a member.",
+  "city": "Sacramento",
+  "state": "CA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -121.4939,
+   38.5811
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "cankdeska-cikana-community-college",
+  "name": "Cankdeska Cikana Community College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Spirit Lake Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Spirit Lake Nation, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.littlehoop.edu/",
+  "city": "Fort Totten",
+  "state": "ND",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -98.9929,
+   47.98
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "chief-dull-knife-college",
+  "name": "Chief Dull Knife College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Northern Cheyenne Tribe",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Northern Cheyenne Tribe, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.cdkc.edu/",
+  "city": "Lame Deer",
+  "state": "MT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -106.6667,
+   45.623
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "college-of-menominee-nation",
+  "name": "College of Menominee Nation",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Menominee Indian Tribe of Wisconsin",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Menominee Indian Tribe of Wisconsin, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.menominee.edu/",
+  "city": "Keshena",
+  "state": "WI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -88.6337,
+   44.8839
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "college-of-the-muscogee-nation",
+  "name": "College of the Muscogee Nation",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Muscogee (Creek) Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Muscogee (Creek) Nation, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://cmn.edu/",
+  "city": "Okmulgee",
+  "state": "OK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -95.972,
+   35.6231
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "dine-college",
+  "name": "Diné College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Navajo Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Navajo Nation, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.dinecollege.edu/",
+  "city": "Tsaile",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -109.2189,
+   36.303
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "fort-peck-community-college",
+  "name": "Fort Peck Community College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Assiniboine and Sioux Tribes of the Fort Peck Reservation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Assiniboine and Sioux Tribes of the Fort Peck Reservation, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.fpcc.edu/",
+  "city": "Poplar",
+  "state": "MT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -105.197,
+   48.1092
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "haskell-indian-nations-university",
+  "name": "Haskell Indian Nations University",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Intertribal university for students from federally recognised tribes, offering associate and bachelor degrees.",
+  "website": "https://haskell.edu/",
+  "city": "Lawrence",
+  "state": "KS",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -95.2359,
+   38.9719
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "ilisagvik-college",
+  "name": "Iḷisaġvik College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Iñupiat of the North Slope",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Iñupiat of the North Slope, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://ilisagvik.edu/",
+  "city": "Utqiagvik",
+  "state": "AK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -156.7884,
+   71.2905
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "institute-of-american-indian-arts",
+  "name": "Institute of American Indian Arts",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Arts college and museum offering degrees in studio arts, creative writing, film and museum studies to Native students and others.",
+  "website": "https://iaia.edu/",
+  "city": "Santa Fe",
+  "state": "NM",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -105.9385,
+   35.6876
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "keweenaw-bay-ojibwa-community-college",
+  "name": "Keweenaw Bay Ojibwa Community College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Keweenaw Bay Indian Community",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Keweenaw Bay Indian Community, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.kbocc.edu/",
+  "city": "L'Anse",
+  "state": "MI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -88.4529,
+   46.7566
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "lac-courte-oreilles-ojibwe-university",
+  "name": "Lac Courte Oreilles Ojibwe University",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Lac Courte Oreilles Band of Lake Superior Ojibwe",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Lac Courte Oreilles Band of Lake Superior Ojibwe, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.lco.edu/",
+  "city": "Hayward",
+  "state": "WI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -91.4849,
+   46.013
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "leech-lake-tribal-college",
+  "name": "Leech Lake Tribal College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Leech Lake Band of Ojibwe",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Leech Lake Band of Ojibwe, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.lltc.edu/",
+  "city": "Cass Lake",
+  "state": "MN",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -94.6041,
+   47.3794
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "little-big-horn-college",
+  "name": "Little Big Horn College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Apsáalooke (Crow) Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Apsáalooke (Crow) Nation, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "http://www.lbhc.edu/",
+  "city": "Crow Agency",
+  "state": "MT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -107.4611,
+   45.6015
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "little-priest-tribal-college",
+  "name": "Little Priest Tribal College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Winnebago Tribe of Nebraska",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Winnebago Tribe of Nebraska, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.littlepriest.edu/",
+  "city": "Winnebago",
+  "state": "NE",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.4725,
+   42.2355
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "navajo-technical-university",
+  "name": "Navajo Technical University",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Navajo Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Navajo Nation, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.navajotech.edu/",
+  "city": "Crownpoint",
+  "state": "NM",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -108.1443,
+   35.6873
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "nebraska-indian-community-college",
+  "name": "Nebraska Indian Community College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Omaha Tribe of Nebraska and Santee Sioux Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Omaha Tribe of Nebraska and Santee Sioux Nation, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.thenicc.edu/",
+  "city": "Macy",
+  "state": "NE",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.3564,
+   42.1131
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "northwest-indian-college",
+  "name": "Northwest Indian College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Lummi Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Lummi Nation, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.nwic.edu/",
+  "city": "Bellingham",
+  "state": "WA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -122.4788,
+   48.7544
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "nueta-hidatsa-sahnish-college",
+  "name": "Nueta Hidatsa Sahnish College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "MHA Nation (Three Affiliated Tribes)",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the MHA Nation (Three Affiliated Tribes), offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://nhsc.edu/",
+  "city": "New Town",
+  "state": "ND",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -102.4902,
+   47.9808
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "oglala-lakota-college",
+  "name": "Oglala Lakota College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Oglala Sioux Tribe",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Oglala Sioux Tribe, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.olc.edu/",
+  "city": "Kyle",
+  "state": "SD",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -102.1765,
+   43.425
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "red-lake-nation-college",
+  "name": "Red Lake Nation College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Red Lake Band of Chippewa Indians",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Red Lake Band of Chippewa Indians, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.rlnc.edu/",
+  "city": "Red Lake",
+  "state": "MN",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -95.0169,
+   47.8763
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "saginaw-chippewa-tribal-college",
+  "name": "Saginaw Chippewa Tribal College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Saginaw Chippewa Indian Tribe of Michigan",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Saginaw Chippewa Indian Tribe of Michigan, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.sagchip.edu/",
+  "city": "Mount Pleasant",
+  "state": "MI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -84.7668,
+   43.5976
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "salish-kootenai-college",
+  "name": "Salish Kootenai College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Confederated Salish and Kootenai Tribes",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Confederated Salish and Kootenai Tribes, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.skc.edu/",
+  "city": "Pablo",
+  "state": "MT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -114.1132,
+   47.5986
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "san-carlos-apache-college",
+  "name": "San Carlos Apache College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "San Carlos Apache Tribe",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the San Carlos Apache Tribe, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.apachecollege.org/",
+  "city": "San Carlos",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -110.4523,
+   33.3513
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "sinte-gleska-university",
+  "name": "Sinte Gleska University",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Rosebud Sioux Tribe (Sicangu Lakota)",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Rosebud Sioux Tribe (Sicangu Lakota), offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.sintegleska.edu/",
+  "city": "Mission",
+  "state": "SD",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -100.6582,
+   43.3058
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "sisseton-wahpeton-college",
+  "name": "Sisseton Wahpeton College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Sisseton-Wahpeton Oyate",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Sisseton-Wahpeton Oyate, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.swcollege.edu/",
+  "city": "Agency Village",
+  "state": "SD",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -97.0646,
+   45.5631
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "sitting-bull-college",
+  "name": "Sitting Bull College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Standing Rock Sioux Tribe",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Standing Rock Sioux Tribe, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://sittingbull.edu/",
+  "city": "Fort Yates",
+  "state": "ND",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -100.6301,
+   46.0869
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "southwestern-indian-polytechnic-institute",
+  "name": "Southwestern Indian Polytechnic Institute",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Intertribal college offering technical, science and business programs to students from many nations.",
+  "website": "https://www.sipi.edu/",
+  "city": "Albuquerque",
+  "state": "NM",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -106.651,
+   35.0841
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "stone-child-college",
+  "name": "Stone Child College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Chippewa Cree Tribe of the Rocky Boy's Reservation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Chippewa Cree Tribe of the Rocky Boy's Reservation, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.stonechild.edu/",
+  "city": "Box Elder",
+  "state": "MT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -110.0133,
+   48.3172
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "tohono-oodham-community-college",
+  "name": "Tohono O'odham Community College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Tohono O'odham Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Tohono O'odham Nation, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.tocc.edu/",
+  "city": "Sells",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.878,
+   31.9159
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "turtle-mountain-college",
+  "name": "Turtle Mountain College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "Turtle Mountain Band of Chippewa Indians",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the Turtle Mountain Band of Chippewa Indians, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.tm.edu/",
+  "city": "Belcourt",
+  "state": "ND",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -99.7451,
+   48.8398
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "united-tribes-technical-college",
+  "name": "United Tribes Technical College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Intertribal college owned by North Dakota tribes, offering career, technical and bachelor programs.",
+  "website": "https://uttc.edu/",
+  "city": "Bismarck",
+  "state": "ND",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -100.7837,
+   46.8083
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "white-earth-tribal-and-community-college",
+  "name": "White Earth Tribal and Community College",
+  "category": "education",
+  "subcategory": "tribal college or university",
+  "nation": "White Earth Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "AIHEC: the 37 Tribal Colleges and Universities",
+   "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+  },
+  "description": "Tribal college chartered by the White Earth Nation, offering degrees and certificates with the nation's language and culture in the curriculum.",
+  "website": "https://www.wetcc.edu/",
+  "city": "Mahnomen",
+  "state": "MN",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "AIHEC: the 37 Tribal Colleges and Universities",
+    "url": "https://www.aihec.org/tribal-colleges-universities/membership/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -95.969,
+   47.3151
+  ],
+  "lonlatPrecision": "town"
+ }
+]

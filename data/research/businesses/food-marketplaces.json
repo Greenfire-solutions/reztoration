@@ -1,0 +1,233 @@
+[
+ {
+  "id": "ekowah-coffee",
+  "name": "Ekowah Coffee",
+  "category": "food",
+  "subcategory": "coffee roaster",
+  "nation": "Osage Nation",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Ekowah Coffee: \"As a Osage owned and operated business\"",
+   "url": "https://ekowahcoffee.com/"
+  },
+  "description": "Osage-owned coffee roaster, now based on the Osage Nation Reservation, giving part of each bag to Native nonprofits and tribal programs.",
+  "website": "https://ekowahcoffee.com/",
+  "shopOnline": "https://ekowahcoffee.com/",
+  "city": "Pawhuska",
+  "state": "OK",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Ekowah Coffee: \"As a Osage owned and operated business\"",
+    "url": "https://ekowahcoffee.com/"
+   },
+   {
+    "title": "Tocabe Indigenous Marketplace: our partners and producers",
+    "url": "https://shoptocabe.com/pages/our-partners"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.3401,
+   36.6633
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "navajo-mike-s",
+  "name": "Navajo Mike's",
+  "category": "food",
+  "subcategory": "frybread mix, blue cornmeal, sauces and Navajo tea",
+  "nation": "Navajo Nation",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Navajo Mike's: about us, \"100% Native owned and operated\"",
+   "url": "https://www.navajomikes.com/pages/about-us"
+  },
+  "description": "Native-owned Tempe company selling frybread and blue cornmeal mixes, barbecue and hot sauces and Navajo tea, certified Made by American Indians.",
+  "website": "https://www.navajomikes.com/",
+  "shopOnline": "https://www.navajomikes.com/",
+  "city": "Tempe",
+  "state": "AZ",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Navajo Mike's: about us, \"100% Native owned and operated\"",
+    "url": "https://www.navajomikes.com/pages/about-us"
+   },
+   {
+    "title": "Tocabe Indigenous Marketplace: our partners and producers",
+    "url": "https://shoptocabe.com/pages/our-partners"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.94,
+   33.4255
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "red-corn-native-foods",
+  "name": "Red Corn Native Foods",
+  "category": "food",
+  "subcategory": "Osage frybread mixes",
+  "nation": "Osage Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Tocabe Indigenous Marketplace: our partners and producers",
+   "url": "https://shoptocabe.com/pages/our-partners"
+  },
+  "description": "Red Corn family business in downtown Pawhuska making frybread mixes from Osage feast-table recipes since 1973.",
+  "website": "https://shoptocabe.com/pages/our-partners",
+  "city": "Pawhuska",
+  "state": "OK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Tocabe Indigenous Marketplace: our partners and producers",
+    "url": "https://shoptocabe.com/pages/our-partners"
+   },
+   {
+    "title": "Osage News: Wah No'm Bre",
+    "url": "https://osagenews.org/?p=21324"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.3401,
+   36.6633
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "pemmican-patty-food-company",
+  "name": "Pemmican Patty Food Company",
+  "category": "food",
+  "subcategory": "bison and berry pemmican bars",
+  "nation": "Pembina Band / Turtle Mountain Band of Chippewa descendants",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Indigenous Food Lab Market (NATIFS): Blueberries and Sage Pemmican Patty Bar, \"Proudly Indigenous owned\"",
+   "url": "https://iflmarket.com/products/blueberries-sage-pemmican-patty-bars"
+  },
+  "description": "Native family company in Bismarck making bison and beef pemmican bars with berries and sage.",
+  "website": "https://www.pemmicanpatty.com/",
+  "shopOnline": "https://www.pemmicanpatty.com/",
+  "city": "Bismarck",
+  "state": "ND",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indigenous Food Lab Market (NATIFS): Blueberries and Sage Pemmican Patty Bar, \"Proudly Indigenous owned\"",
+    "url": "https://iflmarket.com/products/blueberries-sage-pemmican-patty-bars"
+   },
+   {
+    "title": "Tocabe Indigenous Marketplace: our partners and producers",
+    "url": "https://shoptocabe.com/pages/our-partners"
+   },
+   {
+    "title": "Pride of Dakota: Pemmican Patty Food Company",
+    "url": "https://www.prideofdakota.nd.gov/companies/profile/pemmicanpattyfoodcompany"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -100.7837,
+   46.8083
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "miss-anne-s-maypop-herb-shop",
+  "name": "Miss Anne's Maypop Herb Shop",
+  "category": "retail",
+  "subcategory": "herb shop: bulk herbs, teas and extracts",
+  "nation": "Sicangu Lakota",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "NDN Collective: Miss Anne's MayPop Herb Shop",
+   "url": "https://ndncollective.org/miss-annes-maypop-herb-shop/"
+  },
+  "description": "Lakota woman-owned herb shop in New Orleans with more than 180 bulk herbs, house tea blends and herbal extracts.",
+  "website": "https://missannesmaypopherbshop.com/",
+  "city": "New Orleans",
+  "state": "LA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "NDN Collective: Miss Anne's MayPop Herb Shop",
+    "url": "https://ndncollective.org/miss-annes-maypop-herb-shop/"
+   },
+   {
+    "title": "Indigenous Food Lab Market (NATIFS): Feel Good Loose Leaf Tea, \"Sicangu Lakota owned\"",
+    "url": "https://iflmarket.com/products/feel-good-loose-leaf-tea"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -90.0629,
+   29.9575
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "iinnii-buffalo-products-siyeh",
+  "name": "Iinnii Buffalo Products (Siyeh Corporation)",
+  "category": "food",
+  "subcategory": "grass-fed bison jerky",
+  "nation": "Blackfeet Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Indigenous Food Lab Market (NATIFS): Iinnii Buffalo Jerky, \"Made by the Siyeh Corporation, the federally chartered, tribally owned enterprise of the Blackfeet Nation\"",
+   "url": "https://iflmarket.com/products/iinnii-buffalo-jerky-black-pepper"
+  },
+  "description": "Bison jerky from the Blackfeet Nation herd of more than 500 animals, made by the tribe's Siyeh Corporation as part of the Iinnii buffalo work.",
+  "website": "https://www.siyehcorporation.com/",
+  "shopOnline": "https://iflmarket.com/products/iinnii-buffalo-jerky-black-pepper",
+  "city": "Browning",
+  "state": "MT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indigenous Food Lab Market (NATIFS): Iinnii Buffalo Jerky, \"Made by the Siyeh Corporation, the federally chartered, tribally owned enterprise of the Blackfeet Nation\"",
+    "url": "https://iflmarket.com/products/iinnii-buffalo-jerky-black-pepper"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -113.0173,
+   48.5577
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "leech-lake-band-wild-rice",
+  "name": "Leech Lake Band hand-harvested wild rice",
+  "category": "food",
+  "subcategory": "hand-harvested wild rice",
+  "nation": "Leech Lake Band of Ojibwe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Indigenous Food Lab Market (NATIFS): hand-harvested wild rice, vendor Leech Lake Band of Ojibwe",
+   "url": "https://iflmarket.com/products/hand-harvested-wild-rice-leech-lake"
+  },
+  "description": "Hand-harvested and finished manoomin sold by the Leech Lake Band of Ojibwe.",
+  "shopOnline": "https://iflmarket.com/products/hand-harvested-wild-rice-leech-lake",
+  "city": "Cass Lake",
+  "state": "MN",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indigenous Food Lab Market (NATIFS): hand-harvested wild rice, vendor Leech Lake Band of Ojibwe",
+    "url": "https://iflmarket.com/products/hand-harvested-wild-rice-leech-lake"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -94.6041,
+   47.3794
+  ],
+  "lonlatPrecision": "town"
+ }
+]

@@ -1,0 +1,20 @@
+{
+  "id": "kappler-424",
+  "auditedAt": "2026-11-07",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty date, citation and proclamation (1833-10-09, 7 Stat. 448, proclaimed 1834-04-12) against the OSU Kappler text, p. 416",
+    "Promises against Articles 3 to 8, 10 and 13 of the OSU text (Article 10 conditions Articles 5, 7 and 8)",
+    "ICC Docket 10 Order Amending Findings (OSU id 160): amended finding 86, $148,200 consideration; finding 87, value $4,575,900 and 'so grossly inadequate an amount for lands' (quote exact); Court of Claims Appeal decided April 4, 1962, certiorari denied June 11, 1962",
+    "ICC Docket 10 Final Award (OSU id 293): total $7,325,985.70, offsets $10,000, net $7,315,985.70, July 6, 1962",
+    "ICC Docket 10 Interlocutory Order (OSU id 24): original Indian title south of the Platte bounded by the 1825 Kansas reservation line and the 1851 Fort Laramie line",
+    "Per-claim sum: $4,427,700 + $97,380 (Claim III, OSU id 404 finding 107-108) + $2,794,718.80 + $6,000 (Claim V, findings 157-159) + $155 + $31.90 = $7,325,985.70"
+  ],
+  "changes": [
+    "openQuestions: the OCR note now names where each figure was read and how the sum was confirmed; audit line added"
+  ],
+  "unverifiable": [
+    "Claim I and II digits in the 1962 award are partly lost in OCR; confirmed by subtraction and by the exact sum of all claims",
+    "Court of Claims Appeal No. 7-61 not opened"
+  ]
+}

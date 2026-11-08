@@ -1,0 +1,37 @@
+[
+ {
+  "id": "red-earth-gardens",
+  "name": "Red Earth Gardens",
+  "category": "agriculture",
+  "subcategory": "organic vegetables, herbs, flowers and fruit",
+  "nation": "Meskwaki Nation (Sac and Fox Tribe of the Mississippi in Iowa)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Red Earth Gardens, listed under the Meskwaki Nation's enterprises",
+   "url": "https://www.meskwaki.org/red-earth-gardens/"
+  },
+  "description": "Organic no-till farm of the Meskwaki Nation, started in 2013 from its food sovereignty work, growing vegetables, herbs, flowers and fruit sold through its website.",
+  "website": "https://www.meskwaki.org/red-earth-gardens/",
+  "address": "1506 305th St",
+  "city": "Tama",
+  "state": "IA",
+  "zip": "52339",
+  "sources": [
+   {
+    "title": "Red Earth Gardens",
+    "url": "https://www.meskwaki.org/red-earth-gardens/"
+   },
+   {
+    "title": "Meskwaki Inc.",
+    "url": "https://www.meskwaki.org/meskwaki-inc/"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -92.6665,
+   41.9976
+  ],
+  "lonlatPrecision": "address"
+ }
+]

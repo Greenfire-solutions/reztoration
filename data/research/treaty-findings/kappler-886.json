@@ -1,0 +1,90 @@
+{
+  "id": "kappler-886",
+  "name": "Treaty with the Osage, 1865 (Canville Trading Post)",
+  "aka": [
+    "Canville Treaty"
+  ],
+  "signed": "1865-09-29",
+  "ratified": "1866-06-26",
+  "proclaimed": "1867-01-21",
+  "citation": "14 Stat. 687",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-osage-1865-0878",
+  "nations": [
+    "Wahzhazhe (Osage)"
+  ],
+  "promises": [
+    "For a tract of about fifty by thirty miles sold outright to the United States, $300,000 credited to the Osage in the Treasury with five per cent interest paid half-yearly (Article 1).",
+    "A twenty-mile strip on the north side of the remaining reservation held by the United States in trust and sold for the Osage at no less than $1.25 an acre, the interest to pay for houses, tools, stock, a physician and mechanics, and a quarter of the net proceeds, up to $80,000, to a school fund (Article 2).",
+    "$20,000 to be advanced for survey and sale expenses, repaid from the first land sales (Article 13)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1951-05-01",
+      "what": "The Court of Claims, reversing the Indian Claims Commission, held that the 34 cents an acre paid for the Article 1 tract was an unconscionable consideration and that the Osage were entitled to the land's fair value on September 29, 1865, less the $300,000 paid and the agreed survey and sale expenses.",
+      "whoFoundIt": "Court of Claims, Osage Nation of Indians v. United States, 119 Ct. Cl. 592, 97 F. Supp. 381 (May 1, 1951), as quoted and applied by the Indian Claims Commission on remand, Docket 9 (August 13, 1954)",
+      "source": {
+        "title": "Osage Nation of Indians v. United States, Docket 9, Opinion of the Commission (August 13, 1954)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/307",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1955-03-01",
+      "what": "On remand the Indian Claims Commission valued the 844,632.95 acres at $1.50 an acre, $1,266,949.42, deducted the $327,738.97 the Osage had received or were charged with, and after offsets entered a final order of $864,107.55 for the Osage Nation.",
+      "whoFoundIt": "Indian Claims Commission, Osage Nation of Indians v. United States, Docket 9, Additional Findings of Fact 28-29 (August 13, 1954) and Opinion on offsets (March 1, 1955), 3 Ind. Cl. Comm. 217, 434",
+      "source": {
+        "title": "Osage Nation of Indians v. United States, Docket 9, Additional Findings of Fact (August 13, 1954)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/324",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "The Commission's 1949 opinion describes the Article 1 tract as 865,930.31 acres in Kansas sold for $300,000. On remand it found 844,632.95 acres remained after land excepted for donations, preferred purchases and similar grants (finding 28, 1954).",
+  "compensation": "Value $1,266,949.42 less $327,738.97 ($300,000 paid, $24,372.20 survey cost, sale costs and a civilization fund item) left $939,210.45; after $75,102.90 in offsets the Commission ordered $864,107.55 (March 1, 1955).",
+  "today": "The claimant was the Osage Nation, today in Oklahoma. The trust lands of Article 2 and the later sale of the remaining Kansas reservation are separate records (cession-1870-07-15-great-and-little-osage and following).",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Osage, 1865 (Kappler, vol. 2, p. 878)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-osage-1865-0878",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Osage Nation of Indians v. United States, Docket 9, Opinion of the Commission (December 30, 1949)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/425",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Osage Nation of Indians v. United States, Docket 9, Opinion of the Commission (August 13, 1954)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/307",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Osage Nation of Indians v. United States, Docket 9, Additional Findings of Fact (August 13, 1954)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/324",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Osage Nation of Indians v. United States, Docket 9, Opinion of the Commission on offsets (March 1, 1955)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/511",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Osage Nation of Indians v. United States, 97 F. Supp. 381 (Ct. Cl. 1951), case header",
+      "url": "https://leagle.com/decision/195147897fsupp3811394",
+      "publisher": "Leagle"
+    }
+  ],
+  "openQuestions": [
+    "The Court of Claims opinion (119 Ct. Cl. 592, 1951) was not opened; its holding is taken from the Commission's 1954 opinion, which quotes it. The Commission's 1949 decision that it reversed was opened only in part.",
+    "The OCR of finding 29 garbles the balance as $339,210.45; $939,210.45 is the value ($1,266,949.42) less $327,738.97 ($300,000 + $24,372.20 + $3,177.22 sale costs + $189.55 civilization fund) and, less $75,102.90 in offsets, gives the $864,107.55 ordered (all confirmed in audit 2026-11-07).",
+    "Whether the Article 2 trust lands were sold as the treaty required was not researched; Osage Dockets 105, 106 and 126 may bear on it.",
+    "The Osage Nation's own account of this treaty was not looked for in this pass.",
+    "Audit 2026-11-07: Court of Claims decision date corrected from July 1, 1951 to May 1, 1951. The Commission's 1954 opinion OCR reads '?day 1, 1951' and 'Jday 1, 1951'; July 1, 1951 was a Sunday, and the Leagle header for 97 F. Supp. 381 gives May 1, 1951. A certiorari denial (342 U.S. 896, 1951) appears in search results but was not opened, so it is not recorded."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "kappler-622",
+  "name": "Treaty with the Delawares, 1854",
+  "aka": [
+    "Treaty of Washington with the Delaware, May 6, 1854"
+  ],
+  "signed": "1854-05-06",
+  "ratified": "1854-07-11",
+  "proclaimed": "1854-07-17",
+  "citation": "10 Stat. 1048",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-delawares-1854-0614",
+  "nations": [
+    "Delaware Tribe of Indians (Lenape)",
+    "Delaware Nation (Absentee Delaware)"
+  ],
+  "promises": [
+    "A reserved part of the Kansas lands kept as the Delawares' permanent home (Article 1).",
+    "The ceded 'trust lands' would be surveyed and offered for sale at public auction under the public land laws (Article 2).",
+    "All money from those sales, less the costs of survey and sale, paid to the tribe, plus $10,000 for the 'outlet' strip (Article 3).",
+    "Money not needed for current wants invested by the President in safe stocks, the principal kept unimpaired (Article 7).",
+    "Railroads crossing the reservation would pay just compensation in money for their right of way (Article 12)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1969-09-10",
+      "what": "The Indian Claims Commission found, and the United States conceded, that it did not sell the 557,955 acres of trust lands at public auction as Article 2 required. It held the United States breached its duty, found the lands worth $2,443,516 against $1,057,898.19 realized, and awarded the $1,385,617.81 difference plus 5 per cent simple interest from 30 April 1857, $9,168,171.13 as of 31 August 1969.",
+      "whoFoundIt": "Indian Claims Commission, Absentee Delaware Tribe of Oklahoma et al. and Delaware Tribe of Indians v. United States, Dockets 72 and 298, Final Award of 10 September 1969 (21 Ind. Cl. Comm. 344)",
+      "source": {
+        "title": "Absentee Delaware Tribe v. United States, Dockets 72 and 298, Final Award (1969)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2294",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1977-02-23",
+      "what": "In a case about distributing the award, the Supreme Court stated that the United States breached this treaty in 1856 and 1857 by selling the trust lands privately instead of at public auction.",
+      "whoFoundIt": "Delaware Tribal Business Committee v. Weeks, 430 U.S. 73 (1977)",
+      "source": {
+        "title": "Delaware Tribal Business Committee v. Weeks, 430 U.S. 73 (1977)",
+        "url": "https://caselaw.findlaw.com/us-supreme-court/430/73.html",
+        "publisher": "FindLaw"
+      },
+      "quote": "In 1856 and 1857, the United States breached the treaty by selling the lands privately and not at public auction."
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1971-11-24",
+      "what": "For the Delaware Outlet, the strip released under Article 3 for $10,000, the Commission entered a final award of $435,873.86 after the Court of Claims' 1970 decision, deducting a $150,000 settlement paid earlier and $22,106.14 in offsets from a gross award of $607,980.",
+      "whoFoundIt": "Indian Claims Commission, Delaware Tribe of Indians and Absentee Delaware Tribe v. United States, Dockets 27-A and 241, Final Award of 24 November 1971 (26 Ind. Cl. Comm. 387), following United States v. Delaware Tribe of Indians, 192 Ct. Cl. 385, 427 F.2d 1218 (1970)",
+      "source": {
+        "title": "Delaware Tribe of Indians v. United States, Dockets 27-A and 241, Final Award (1971)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1435",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "The trust lands contained 557,955 acres, exclusive of five townsites including Leavenworth City (Docket 72 findings, 1969).",
+  "compensation": "The trust lands were sold privately in 1856-57 for $1,057,898.19. The Commission awarded $9,168,171.13 (principal plus interest to August 1969) for the trust lands and a net $435,873.86 in 1971 for the Outlet. Congress appropriated the trust-land award and provided for its distribution by Public Law 92-456 (Delaware Tribal Business Committee v. Weeks).",
+  "today": "The 1977 Supreme Court case arose from a dispute over who shared in the distribution under Public Law 92-456, which used an eligibility cut-off of 3 October 1972 (Delaware Tribal Business Committee v. Weeks, footnote 13).",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Delawares, 1854 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-delawares-1854-0614",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Absentee Delaware Tribe v. United States, Dockets 72 and 298, Findings of Fact (1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1194",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Absentee Delaware Tribe v. United States, Dockets 72 and 298, Final Award (1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2294",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Delaware Tribe of Indians v. United States, Dockets 27-A and 241, Final Award (1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1435",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Delaware Tribe of Indians v. United States, Docket 27-A, Findings of Fact (1952)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/36",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Delaware Tribal Business Committee v. Weeks, 430 U.S. 73 (1977)",
+      "url": "https://caselaw.findlaw.com/us-supreme-court/430/73.html",
+      "publisher": "FindLaw"
+    }
+  ],
+  "openQuestions": [
+    "The Commission's reasoning on the Outlet (that the $10,000 consideration was unconscionable, as the tribe alleged) was not read in the opinion itself; only the 1971 final award was opened.",
+    "The Delaware Tribe of Indians (delawaretribe.org) and the Delaware Nation pages checked carry no history of this treaty; a nation statement is still wanted.",
+    "Whether railroads paid for rights of way under Article 12 was not researched; the 1860 and 1866 Delaware treaties (railroad sales) are separate queue entries.",
+    "The holding of Delaware Tribal Business Committee v. Weeks on the distribution dispute was not read in full."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

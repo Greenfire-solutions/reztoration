@@ -1,0 +1,94 @@
+{
+  "id": "kappler-349",
+  "name": "Treaty with the Creeks, 1832 (Treaty of Cusseta)",
+  "aka": [
+    "Treaty of Cusseta",
+    "Treaty of Washington (1832)"
+  ],
+  "signed": "1832-03-24",
+  "proclaimed": "1832-04-04",
+  "citation": "7 Stat. 366",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-creeks-1832-0341",
+  "nations": [
+    "Mvskoke (Muscogee Creek)"
+  ],
+  "promises": [
+    "Article 2: the ceded land in Alabama would be surveyed and each Creek head of family could select a half section (chiefs a full section) to be reserved to them.",
+    "Article 4: after five years, Creeks who wished to stay would receive patents in fee simple for their selections.",
+    "Article 5: intruders on the ceded country would be removed until the survey and selections were made.",
+    "Article 12: removal west at United States expense, with subsistence on the journey and for a year after arrival.",
+    "Article 14: the Creek country west of the Mississippi would be solemnly guaranteed to the Creeks, and no State or Territory would ever have a right to pass laws for their government."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "2020-07-09",
+      "what": "Ruling on the reservation guaranteed by Article 14 of this treaty and later treaties, the Supreme Court said Congress has since broken more than a few of its promises to the Creek, including the division of the tribe's land. It held the reservation was never disestablished and that Oklahoma lacked jurisdiction to prosecute the crimes before it.",
+      "whoFoundIt": "McGirt v. Oklahoma, No. 18-9526 (2020)",
+      "source": {
+        "title": "McGirt v. Oklahoma, 591 U.S. ___ (2020), No. 18-9526",
+        "url": "https://www.law.cornell.edu/supremecourt/text/18-9526",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
+      "quote": "Congress has since broken more than a few of its promises to the Tribe."
+    },
+    {
+      "kind": "historian",
+      "date": "1832",
+      "what": "The Encyclopedia of Alabama records that settlers squatted illegally on the ceded land before allotment was complete and then bought allotments from Creeks below market prices, and that conflict led to the Second Creek War of 1836 and further forced removals.",
+      "whoFoundIt": "Encyclopedia of Alabama, 'Treaty of Cusseta (1832)'",
+      "source": {
+        "title": "Treaty of Cusseta (1832)",
+        "url": "https://encyclopediaofalabama.org/article/h-3083/",
+        "publisher": "Encyclopedia of Alabama, Alabama Humanities Alliance"
+      }
+    }
+  ],
+  "landTaken": "All Creek land remaining east of the Mississippi; the Encyclopedia of Alabama gives it as more than five million acres, of which more than two million were surveyed and reserved for Creeks who wished to stay.",
+  "compensation": "$100,000 at signing and annuities of $12,000 a year for five years and $10,000 a year for fifteen (treaty text, Article 8, and Encyclopedia of Alabama). No later award for the breaches was located.",
+  "today": "McGirt v. Oklahoma (2020) holds that the Creek Reservation in Oklahoma, guaranteed in part by this treaty, still exists for the purposes of the Major Crimes Act.",
+  "nationVoice": [
+    {
+      "nation": "Muscogee (Creek) Nation, in the history published by the Inter-Tribal Council of the Five Civilized Tribes",
+      "summary": "The Muscogee history says that in the removal treaty of 1832 the Nation's leaders gave up the last of the cherished ancestral homelands for land in Indian Territory, that most Muscogee people could not bring themselves to sever ties to that land, and that the U.S. Army enforced the removal of more than 20,000 Muscogee in 1836 and 1837.",
+      "url": "https://www.fivecivilizedtribes.org/Creek-History.html"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Creeks, 1832 (Kappler, vol. 2, p. 341)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-creeks-1832-0341",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "McGirt v. Oklahoma, 591 U.S. ___ (2020), No. 18-9526",
+      "url": "https://www.law.cornell.edu/supremecourt/text/18-9526",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Treaty of Cusseta (1832)",
+      "url": "https://encyclopediaofalabama.org/article/h-3083/",
+      "publisher": "Encyclopedia of Alabama"
+    },
+    {
+      "title": "The Muscogee Creek, 1600-1840",
+      "url": "https://home.nps.gov/liri/learn/historyculture/the-muscogee-creek-1600-1840.htm",
+      "publisher": "National Park Service, Little River Canyon National Preserve"
+    },
+    {
+      "title": "Muscogee (Creek) History",
+      "url": "https://www.fivecivilizedtribes.org/Creek-History.html",
+      "publisher": "Inter-Tribal Council of the Five Civilized Tribes"
+    }
+  ],
+  "openQuestions": [
+    "The frauds in the sale of Creek allotments in Alabama after 1832 were investigated by the federal government in the 1830s; that record was not located or opened. It is the strongest lead for a formal finding on Articles 2 to 5.",
+    "No Indian Claims Commission decision on this treaty was found in a keyword search of the Oklahoma State University collection; the Creek Nation's Docket 21 concerns the 1814 Treaty of Fort Jackson.",
+    "The Muscogee (Creek) Nation's own account of this treaty was not found on its website in this pass (its history page returned 404).",
+    "treaties.json lists no present-day tribe for this id; the Muscogee (Creek) Nation, the Poarch Band of Creek Indians and the creek tribal towns of Oklahoma are the likely successors.",
+    "The breach of the Article 14 guarantee is recorded through McGirt's general statement; the specific Acts (allotment agreement of 1901, 31 Stat. 861; Oklahoma statehood) were not opened."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

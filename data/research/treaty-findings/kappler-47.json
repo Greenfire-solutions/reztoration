@@ -1,0 +1,87 @@
+{
+  "id": "kappler-47",
+  "name": "Treaty of Greenville (1795)",
+  "aka": [
+    "Treaty with the Wyandot, etc., 1795",
+    "Greenville Treaty"
+  ],
+  "signed": "1795-08-03",
+  "proclaimed": "1795-12-02",
+  "citation": "7 Stat. 49",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-wyandot-etc-1795-0039",
+  "nations": [
+    "Wyandot (Wendat)",
+    "Lenape (Delaware)",
+    "Shawnee",
+    "Odawa (Ottawa)",
+    "Ojibwe (Chippewa)",
+    "Bodéwadmi (Potawatomi)",
+    "Myaamia (Miami)",
+    "Eel River Miami",
+    "Wea",
+    "Kickapoo",
+    "Piankeshaw",
+    "Kaskaskia"
+  ],
+  "promises": [
+    "Article 4: in return for the cession of most of present-day Ohio and sixteen tracts for posts, the United States relinquished its claims to all other Indian lands north of the Ohio River, east of the Mississippi and west and south of the Great Lakes.",
+    "Article 5: the tribes with a right to those lands were 'quietly to enjoy them, hunting, planting, and dwelling thereon so long as they please', and could sell them only to the United States.",
+    "Article 6: any United States citizen who settled on those lands would be out of the protection of the United States, and the tribe could drive him off or punish him.",
+    "Article 4: $20,000 in goods at signing and goods delivered every year forever, $1,000 a year to each of the larger nations and $500 to each of the smaller."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "historian",
+      "date": "1800",
+      "what": "The National Park Service's history of the treaty says American expansion quickly nullified it, and that by 1800 numerous tribes had been pushed out of their homelands, the Shawnee and Delaware among them, by settlement and militia attacks.",
+      "whoFoundIt": "National Park Service, 'Summer 1795: The Treaty of Greenville creates an uneasy peace'",
+      "source": {
+        "title": "Summer 1795: The Treaty of Greenville creates an uneasy peace",
+        "url": "https://home.nps.gov/articles/a-long-legacy.htm",
+        "publisher": "National Park Service"
+      },
+      "quote": "American expansion quickly nullified the agreement."
+    }
+  ],
+  "landTaken": "Roughly two-thirds of present-day Ohio and a small part of southeastern Indiana, plus enclaves for military posts, as described by the Indian Claims Commission (Pottawatomie Tribe v. United States, 1978).",
+  "compensation": "$20,000 in goods at signing and perpetual annuities in goods (Article 4). No later award for a breach of this treaty was located.",
+  "today": "Not researched. The lands Article 5 left to the tribes were taken by later cession treaties (Fort Wayne 1803 and 1809, Grouseland 1805, St. Mary's 1818 and others), several of which the Indian Claims Commission later reviewed.",
+  "nationVoice": [
+    {
+      "nation": "Ottawa Tribe of Oklahoma",
+      "summary": "The Tribe's heritage site says the Great Lakes nations were resisting the invasion of their lands by settlers and soldiers, and after defeat at Fallen Timbers ceded claims to southern Ohio at Greenville, with Au-goosh-away as the head Ottawa signer.",
+      "url": "https://www.heritage.ottawatribe.gov/treaty-of-greenville"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Wyandot, etc., 1795 (Kappler, vol. 2, p. 39)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-wyandot-etc-1795-0039",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Summer 1795: The Treaty of Greenville creates an uneasy peace",
+      "url": "https://home.nps.gov/articles/a-long-legacy.htm",
+      "publisher": "National Park Service"
+    },
+    {
+      "title": "Treaty of Greenville",
+      "url": "https://www.heritage.ottawatribe.gov/treaty-of-greenville",
+      "publisher": "Ottawa Tribe of Oklahoma, Adawe Cultural Center"
+    },
+    {
+      "title": "Pottawatomie Tribe of Indians v. United States, Dockets 15-D et al., Opinion of the Commission, Part 1, August 25, 1978",
+      "url": "https://dc.library.okstate.edu/digital/collection/p17279coll10/id/2416",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "No court ruling, claims finding, Act or government admission that this treaty itself was broken was located. A keyword search of the Indian Claims Commission decisions found Greenville cited only as background to claims on later treaties.",
+    "Whether the perpetual annuities of Article 4 are still paid, commuted or stopped was not researched. Leads: later treaties commuting annuities, and the Shawnee, Miami, Wyandotte and Delaware nations' own accounts.",
+    "Settlement on lands north of the Greenville line before the later cessions, against Articles 5 and 6, is described by historians; no formal finding was opened.",
+    "Accounts by the Shawnee Tribe, Miami Tribe of Oklahoma, Wyandotte Nation and the Delaware nations were not found in this pass."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "kappler-634",
+  "name": "Treaty with the Menominee, 1854 (Treaty of Wolf River)",
+  "aka": [
+    "Treaty of Wolf River",
+    "Treaty of the Falls of Wolf River"
+  ],
+  "signed": "1854-05-12",
+  "proclaimed": "1854-08-02",
+  "citation": "10 Stat. 1064",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-menominee-1854-0626",
+  "nations": [
+    "Mamaceqtaw (Menominee)"
+  ],
+  "promises": [
+    "Article 2: a tract on the Wolf River in Wisconsin given to the Menominee 'for a home, to be held as Indian lands are held', which the Supreme Court later held includes the right to hunt and fish there.",
+    "Article 3: $15,000 for a manual-labor school, a grist and saw mill and other improvements; a miller for fifteen years; and a blacksmith shop for twelve years from 1857.",
+    "Article 4: $242,686 paid in fifteen yearly instalments commencing in 1867, for the difference between the lands supposed ceded in 1848 and those actually ceded."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1954-06-17",
+      "what": "The Menominee Termination Act ended federal supervision over the property and members of the Menominee Tribe, including the Wolf River reservation that this treaty gave them to be held as Indian lands are held.",
+      "whoFoundIt": "Act of June 17, 1954, ch. 303, 68 Stat. 250 (25 U.S.C. 891-902, repealed)",
+      "source": {
+        "title": "25 U.S. Code § 891 (omitted), notes on the Menominee Termination Act, 68 Stat. 250",
+        "url": "https://www.law.cornell.edu/uscode/text/25/891",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      }
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1968-05-27",
+      "what": "Wisconsin prosecuted Menominee hunters under state law, and its Supreme Court held that the Termination Act had ended their treaty hunting and fishing rights. The Supreme Court held the 1854 treaty secured those rights and that the Termination Act did not abrogate them.",
+      "whoFoundIt": "Menominee Tribe v. United States, 391 U.S. 404 (1968)",
+      "source": {
+        "title": "Menominee Tribe v. United States, 391 U.S. 404 (1968)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/391/404",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
+      "quote": "the language 'to be held as Indian lands are held' includes the right to fish and to hunt"
+    },
+    {
+      "kind": "government-admission",
+      "date": "1973-12-22",
+      "what": "Congress repealed the Termination Act, restored federal recognition, and reinstated all rights and privileges of the tribe and its members under federal treaty or statute that may have been diminished or lost under it.",
+      "whoFoundIt": "Menominee Restoration Act, Public Law 93-197, 87 Stat. 770",
+      "source": {
+        "title": "Menominee Restoration Act, Public Law 93-197, 87 Stat. 770 (December 22, 1973)",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-87/pdf/STATUTE-87-Pg770.pdf",
+        "publisher": "U.S. Government Publishing Office"
+      },
+      "quote": "there are hereby reinstated all rights and privileges of the tribe or its members under Federal treaty"
+    }
+  ],
+  "landTaken": "Not established from a source in this pass. During termination the reservation became Menominee County and was held by a tribal corporation; land sales in that period were not researched.",
+  "compensation": "None located. In 1968 the Supreme Court held the hunting and fishing rights survived, so the tribe's Court of Claims claim for their loss failed on that ground.",
+  "today": "Federal recognition and treaty rights were restored by the Menominee Restoration Act of December 22, 1973.",
+  "nationVoice": [
+    {
+      "nation": "Menominee Indian Tribe of Wisconsin",
+      "summary": "The Tribe's historical documents pages publish the full text of the May 12, 1854 treaty made at the Falls of Wolf River, alongside its other treaties and its documents on termination and restoration.",
+      "url": "https://www.menominee-nsn.gov/CulturePages/Treaty1854.aspx"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Menominee, 1854 (Kappler, vol. 2, p. 626)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-menominee-1854-0626",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Menominee Tribe v. United States, 391 U.S. 404 (1968)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/391/404",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "25 U.S. Code § 891 (omitted), notes on the Menominee Termination Act, 68 Stat. 250",
+      "url": "https://www.law.cornell.edu/uscode/text/25/891",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Menominee Restoration Act, Public Law 93-197, 87 Stat. 770 (December 22, 1973)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-87/pdf/STATUTE-87-Pg770.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "May 12, 1854 Treaty",
+      "url": "https://www.menominee-nsn.gov/CulturePages/Treaty1854.aspx",
+      "publisher": "Menominee Indian Tribe of Wisconsin"
+    }
+  ],
+  "openQuestions": [
+    "Whether the Menominee consented to termination is disputed in the histories; the Act's consent provisions were not opened.",
+    "Land sold out of Menominee ownership during termination (the Legend Lake development) is described by historians; no formal finding was opened.",
+    "No account by the Menominee Indian Tribe of Wisconsin was found as text on its website (its culture pages load without readable text for a robot).",
+    "treaties.json joins this 1854 Menominee treaty with 'the several tribes of New York Indians' and lists New York nations as present-day tribes; those belong to other cessions (Royce 246 and 403?) and look like a merge error."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

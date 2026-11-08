@@ -1,0 +1,21 @@
+{
+  "id": "kappler-1028",
+  "auditedAt": "2026-11-07",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty dates and citation against the Statutes at Large, 15 Stat. 673 (govinfo): concluded July 3, 1868; ratification advised February 16, 1869; proclaimed February 24, 1869",
+    "Promises against Articles 2, 4 and 11 of the OSU Kappler text, p. 1020 ('absolute and undisturbed use and occupation' exact)",
+    "Shoshone Tribe v. United States, 299 U.S. 476 (Cornell): decided January 1937; Arapaho brought under military escort; warnings that consent had been refused; quote exact as printed ('fufilled')",
+    "ICC Docket 63 opinion of August 20, 1954 (OSU id 434): $27,500, less than 4 cents an acre, 700,642 acres claimed, 80 cents an acre, $560,513.60 as of September 26, 1872, unconscionable",
+    "ICC Docket 157 final judgment of February 24, 1965 (OSU id 759): $120,000 by compromise; recorded only as compensation, correctly",
+    "Herrera v. Wyoming (Cornell): Race Horse concerned the 1868 Shoshone-Bannock treaty and is repudiated to the extent it held treaty rights impliedly extinguished at statehood"
+  ],
+  "changes": [
+    "openQuestions: the February 16 / 26 ratification question settled from the Statutes at Large; audit line added",
+    "Added the Statutes at Large page as a source"
+  ],
+  "unverifiable": [
+    "Shoshone-Bannock Tribes About page not re-opened; Ward v. Race Horse decision day not read (the file gives only the year)",
+    "Docket 63 final award (1958) not opened, as the researcher noted"
+  ]
+}

@@ -1,0 +1,101 @@
+[
+ {
+  "id": "kaloko-coffee",
+  "name": "Kaloko Coffee",
+  "category": "agriculture",
+  "subcategory": "100% Kona coffee farm",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Kaloko Coffee",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-mjxzh"
+  },
+  "description": "Family farm on the slopes above Kailua-Kona growing and roasting 100% Kona coffee.",
+  "website": "1",
+  "city": "Kailua-Kona",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Kaloko Coffee",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-mjxzh"
+   },
+   {
+    "title": "Kaloko Coffee website",
+    "url": "1"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -155.9969,
+   19.6419
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "wannabee-pono-llc",
+  "name": "WannaBee Pono LLC",
+  "category": "agriculture",
+  "subcategory": "beekeeping and local honey",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): WannaBee Pono LLC",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-yzzj5"
+  },
+  "description": "Family beekeepers in South Kona selling raw local honey and offering bee services.",
+  "website": "1",
+  "city": "Kealakekua",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: WannaBee Pono LLC",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-yzzj5"
+   },
+   {
+    "title": "WannaBee Pono LLC website",
+    "url": "1"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -155.9214,
+   19.5177
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "hoola-honey",
+  "name": "Hoʻōla Honey",
+  "category": "agriculture",
+  "subcategory": "bee rescue and raw honey",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Hoʻōla Honey",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-pwekf"
+  },
+  "description": "Hawaii Island bee rescuers who relocate wild colonies instead of exterminating them and sell the honey.",
+  "website": "1",
+  "city": "Hilo",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Hoʻōla Honey",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-pwekf"
+   },
+   {
+    "title": "Hoʻōla Honey website",
+    "url": "1"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -155.0816,
+   19.7074
+  ],
+  "lonlatPrecision": "town"
+ }
+]

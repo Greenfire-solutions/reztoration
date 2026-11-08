@@ -1,0 +1,77 @@
+{
+  "id": "kappler-424",
+  "name": "Treaty with the Pawnee, 1833",
+  "aka": [
+    "Grand Pawnee Village treaty (1833)"
+  ],
+  "signed": "1833-10-09",
+  "proclaimed": "1834-04-12",
+  "citation": "7 Stat. 448",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-pawnee-1833-0416",
+  "nations": [
+    "Chaui (Grand Pawnee)",
+    "Kitkehahki (Republican Pawnee)",
+    "Pitahauerat (Tappage Pawnee)",
+    "Skidi (Loup or Wolf Pawnee)"
+  ],
+  "promises": [
+    "$4,600 a year in goods for twelve years, divided among the four bands (Article 3).",
+    "$500 a year to each band for agricultural implements for five years, and $1,000 a year for ten years for schools (Articles 4 and 5).",
+    "Two blacksmiths and strikers with shop, tools and iron for ten years, a farmer for each band for five years, $1,000 in oxen and other stock, and a horse mill for each band (Articles 6 to 8).",
+    "$1,600 in goods on signing (Article 13). Under Article 10 the schools, farmers and mills were not owed until the bands settled in agricultural districts."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1962-07-06",
+      "what": "The Indian Claims Commission held that the $148,200 total consideration under this treaty was so grossly inadequate for land the Pawnee held by original Indian title, worth $4,575,900 on October 9, 1833, as to be unconscionable, and awarded $4,427,700 for this cession (Claims I and II) within a final award of $7,315,985.70 for all Pawnee claims in the docket.",
+      "whoFoundIt": "Indian Claims Commission, Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Order Amending Findings of Fact and Amended Conclusions of Law and Final Award (July 6, 1962), 10 Ind. Cl. Comm. 410, after the Court of Claims' decision in Appeal No. 7-61 (April 4, 1962)",
+      "source": {
+        "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Order Amending Findings of Fact (July 6, 1962)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/160",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "was so grossly inadequate an amount for lands"
+    }
+  ],
+  "landTaken": "The Commission found the Pawnee held original Indian title, at the time of this treaty, to land south of the Platte River in present Nebraska and Kansas, bounded on the south by the 1825 Kansa reservation line and on the west by the 1851 Fort Laramie treaty line (Docket 10, Interlocutory Order, June 17, 1957). The acreage was not copied here.",
+  "compensation": "The Commission found the total consideration under the treaty was $148,200 and that the land was worth $4,575,900 on October 9, 1833. The award for this cession was $4,427,700 (Claims I and II), within a final award of $7,315,985.70 after $10,000 in offsets (July 6, 1962).",
+  "today": "The claimant was the Pawnee Indian Tribe of Oklahoma, consisting of the four confederated bands. Later Pawnee cessions under this record are kappler-579 (1848) and kappler-772 (1857).",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Pawnee, 1833 (Kappler, vol. 2, p. 416)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-pawnee-1833-0416",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Interlocutory Order (June 17, 1957)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/24",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Order Amending Findings of Fact (July 6, 1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/160",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Amended Conclusions of Law and Final Award (July 6, 1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/293",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Opinion and Interlocutory Order Amending Findings (January 31, 1961)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/540",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The OCR of the 1962 final award (OSU id 293) garbles the per-claim figures. Claims I and II reads '$ &,!l27,?0O', consistent with $4,427,700, which is the $4,575,900 value less the $148,200 consideration in amended finding 87 (OSU id 160). With the other claims as the 1960 findings fix them (Claim III $99,380 less $2,000, Claim V $12,000 less $6,000, OSU id 404) and Claim IV at $2,794,718.80, the per-claim amounts sum exactly to the legible pre-offset total of $7,325,985.70. Check against the printed volume, 10 Ind. Cl. Comm. 410.",
+    "The Court of Claims decision in Appeal No. 7-61 (April 4, 1962, certiorari denied June 11, 1962) changed how the consideration was counted; it was not opened.",
+    "The Pawnee Nation's website was locked to automated readers in this pass, so its own account of the 1833 treaty is not linked yet.",
+    "Audit 2026-11-07: award $4,427,700, consideration $148,200, value $4,575,900, total $7,325,985.70, offsets $10,000 and net $7,315,985.70 re-read from OSU ids 160 and 293. The claim that the per-claim amounts sum exactly to the total was confirmed using the Claim III and Claim V values in the 1960 additional findings (OSU id 404, findings 107-108 and 157-159), since the 1962 OCR of those lines is unreadable; the openQuestions note was reworded to say so."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

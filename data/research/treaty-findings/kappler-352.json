@@ -1,0 +1,55 @@
+{
+  "id": "kappler-352",
+  "name": "Treaty with the Seminole, 1832 (Treaty of Payne's Landing)",
+  "aka": ["Treaty of Payne's Landing"],
+  "signed": "1832-05-09",
+  "proclaimed": "1834-04-12",
+  "citation": "7 Stat. 368",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-seminole-1832-0344",
+  "nations": ["Seminole"],
+  "promises": [
+    "The treaty was to bind only if a Seminole delegation, sent west at US expense, was satisfied with the land among the Creeks and with the Creeks' willingness to reunite with the Seminole as one people (preamble).",
+    "$15,400 for improvements given up in Florida, divided among chiefs and warriors by town and paid on arrival in the west.",
+    "An annuity of $3,000 a year for fifteen years once the whole tribe had removed, and the blacksmith annuity extended by ten years.",
+    "The United States would pay the cost of removal and supply food for up to twelve months after arrival, plus a blanket and frock for each person.",
+    "The United States would investigate claims for stolen or destroyed property and pay verified claims up to $7,000."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "litigation",
+      "date": "1950-08-14",
+      "what": "The Seminole of Florida petitioned the Indian Claims Commission for the value of 4,032,940 acres taken under this treaty; the Seminole Nation of Oklahoma filed a similar claim in 1951. In 1970 the Commission held that the 1832 payment was not unconscionable and awarded nothing on this count, but the claim was later folded into a compromise final award.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 73 and 151, as summarised from Harry A. Kersey Jr., An Assumption of Sovereignty (1996)",
+      "source": { "title": "Summary of Chapter 6, The Seminole Land Claims Case, in An Assumption of Sovereignty (Kersey, 1996)", "url": "https://ahtahthiki.com/downloads/An-Assumption-of-Sovereignty-summary-of-Chapter-6-Land-Claims.pdf", "publisher": "Ah-Tah-Thi-Ki Museum, Seminole Tribe of Florida" },
+      "quote": "was not unconscionable, and on this count the plaintiffs will recover nothing."
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1978-03-02",
+      "what": "Guy Osceola, spokesman for the Traditional Seminoles, told the Senate that the Traditional people were never heard by the Indian Claims Commission, were not consulted on the $16 million award covering the lands taken under this treaty and the 1823 treaty, and would not accept money for their land.",
+      "whoFoundIt": "Traditional Seminoles of Florida, testimony to the Senate Select Committee on Indian Affairs",
+      "source": { "title": "Distribution of Seminole Judgment Funds, Senate Select Committee on Indian Affairs hearing, March 2, 1978", "url": "https://www.govinfo.gov/content/pkg/CHRG-95shrg25417O/pdf/CHRG-95shrg25417O.pdf", "publisher": "US Government Printing Office (govinfo)" },
+      "quote": "We feel that any bill that is passed that is allocated money to us we will not accept any kind of money."
+    }
+  ],
+  "compensation": "In 1970 the Indian Claims Commission found the Seminole Reservation in 1832 was 5,865,600 acres worth $2,050,000 and that the $2,094,809.39 paid was not unconscionable (Kersey summary). On 27 April 1976 the Commission entered a compromise final award of $16,000,000 for about 24 million acres taken under the Treaty of Camp Moultrie (1823) and this treaty (Senate hearing, 1978). The money was divided by Public Law 101-277 in 1990 (Kersey summary).",
+  "today": "The removal this treaty began was resisted in the Second Seminole War; Seminole communities remained in Florida and today are the Seminole Tribe of Florida and the Miccosukee Tribe, while the removed Seminole are the Seminole Nation of Oklahoma. Traditional Seminoles told the Senate in 1978 they would not accept money for their land.",
+  "nationVoice": [
+    { "nation": "Traditional Seminoles of Florida", "summary": "Their spokesman Guy Osceola told the Senate in 1978 that they had been denied a hearing for 28 years and would not accept money for land they still live on.", "url": "https://www.govinfo.gov/content/pkg/CHRG-95shrg25417O/pdf/CHRG-95shrg25417O.pdf" },
+    { "nation": "Seminole Tribe of Florida (Ah-Tah-Thi-Ki Museum)", "summary": "The tribe's museum publishes a summary of the land claims case, including the Florida petition's claim for land taken under Payne's Landing.", "url": "https://ahtahthiki.com/downloads/An-Assumption-of-Sovereignty-summary-of-Chapter-6-Land-Claims.pdf" }
+  ],
+  "sources": [
+    { "title": "Treaty with the Seminole, 1832 (Kappler)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-seminole-1832-0344", "publisher": "Oklahoma State University Libraries" },
+    { "title": "Treaty with the Seminole Indians, March 28, 1833 (Fort Gibson), 7 Stat. 423", "url": "https://www.govinfo.gov/content/pkg/STATUTE-7/pdf/STATUTE-7-Pg423.pdf", "publisher": "US Government Publishing Office (govinfo)" },
+    { "title": "Distribution of Seminole Judgment Funds, Senate Select Committee on Indian Affairs hearing, March 2, 1978", "url": "https://www.govinfo.gov/content/pkg/CHRG-95shrg25417O/pdf/CHRG-95shrg25417O.pdf", "publisher": "US Government Printing Office (govinfo)" },
+    { "title": "Summary of Chapter 6, The Seminole Land Claims Case, in An Assumption of Sovereignty (Kersey, 1996)", "url": "https://ahtahthiki.com/downloads/An-Assumption-of-Sovereignty-summary-of-Chapter-6-Land-Claims.pdf", "publisher": "Ah-Tah-Thi-Ki Museum, Seminole Tribe of Florida" }
+  ],
+  "openQuestions": [
+    "The condition precedent: the Fort Gibson agreement of 28 March 1833 (7 Stat. 423, proclaimed 12 April 1834, no Royce cession so not in the queue) records seven delegates as satisfied with the western land, and the United States treated that as making this treaty binding. Whether the delegates could bind the nation, or the nation in council had to decide, is the core dispute. John K. Mahon, 'Two Seminole Treaties' (Florida Historical Quarterly 41:1, 1962, stars.library.ucf.edu/fhq/vol41/iss1/5) addresses it but could not be loaded by a robot; Florida Memory's Payne's Landing and Fort Gibson lesson pages returned 403.",
+    "No court ruling, Act of Congress or government admission that this treaty specifically was breached was found; the ICC found the 1832 consideration not unconscionable. A deeper pass could check whether the removal subsistence, annuity and $7,000 property-claim promises were met.",
+    "The Seminole Nation of Oklahoma's own account of this treaty was not found online (sno-nsn.gov not reached)."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

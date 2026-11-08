@@ -1,0 +1,88 @@
+{
+  "id": "kappler-357",
+  "name": "Treaty with the Sauk and Foxes, 1832 (Treaty of Fort Armstrong; Black Hawk Purchase)",
+  "aka": [
+    "Black Hawk Purchase",
+    "Treaty of Fort Armstrong (1832, Sauk and Fox)"
+  ],
+  "signed": "1832-09-21",
+  "proclaimed": "1833-02-13",
+  "citation": "7 Stat. 374",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-and-foxes-1832-0349",
+  "nations": [
+    "Sauk (Thâkîwaki)",
+    "Meskwaki (Fox)"
+  ],
+  "promises": [
+    "A reserve of 400 square miles on the Iowa River, including Keokuk's principal village, kept back from the cession (Article 2).",
+    "$20,000 in specie every year for thirty years (Article 3).",
+    "A blacksmith and gunsmith shop for thirty years, with 40 kegs of tobacco and 40 barrels of salt a year (Article 4).",
+    "$40,000 to the traders Farnham and Davenport to clear the tribes' debts (Article 5).",
+    "Immediate provisions for women and children who lost relatives in the war, including corn, flour, pork and beef (Article 10)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1973-11-23",
+      "what": "On remand from the Court of Claims, the Indian Claims Commission found that the Sac and Fox interest in the land ceded under this treaty (Royce Area 175, eastern Iowa) was worth $4,276,320 when the treaty took effect, that the United States paid $745,741.79 for it, held that payment unconscionable and awarded $3,530,578.21.",
+      "whoFoundIt": "Indian Claims Commission, Sac and Fox Tribe of Indians of Oklahoma et al. v. United States, Dockets 158, 209 and 231, Final Award on Remand, 32 Ind. Cl. Comm. 256, 270",
+      "source": {
+        "title": "Sac and Fox Tribe et al. v. United States, Dockets 158, 209, 231, Final Award on Remand (November 23, 1973)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2173",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "was payment of an unconscionable consideration under the Indian Claims Commission Act"
+    }
+  ],
+  "landTaken": "Royce Area 175 in eastern Iowa, the Sac and Fox interest in which the ICC valued at $4,276,320 as of the treaty's effective date in February 1833 (Final Award on Remand, 1973). The ICC first made the same finding on 12 May 1969 (20 Ind. Cl. Comm. 439, 505).",
+  "compensation": "The ICC found the United States paid $745,741.79 under this treaty and the Treaty of 21 October 1837 for Royce Area 175, and awarded $3,530,578.21 in additional compensation (Final Award on Remand, 23 November 1973). The 400-square-mile Iowa River reserve (Royce Area 226) was ceded in 1836; the ICC found the price for the Sac and Fox half-interest in it exceeded its value and awarded nothing for it.",
+  "today": "The successors in the claim are the Sac and Fox Nation (Oklahoma), the Sac and Fox Nation of Missouri in Kansas and Nebraska and the Sac and Fox Tribe of the Mississippi in Iowa (Meskwaki).",
+  "nationVoice": [
+    {
+      "nation": "Meskwaki Nation (Sac and Fox Tribe of the Mississippi in Iowa)",
+      "summary": "The Nation's history says that after the Black Hawk War of 1832 the United States treated the Sauk and Meskwaki as one Sac and Fox group for treaty making, that under that name they lost all their lands by 1845 and were sent to Kansas, and that Meskwaki who stayed or returned bought back their first 80 acres in Iowa in 1857.",
+      "url": "https://www.meskwaki.org/history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Sauk and Foxes, 1832 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-and-foxes-1832-0349",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Sac and Fox Tribe et al. v. United States, Dockets 158, 209, 231, Opinion of the Commission (May 12, 1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1165",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sac and Fox Tribe et al. v. United States, Final Awards (May 12, 1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1977",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sac and Fox Tribe et al. v. United States, Opinion on Remand (November 23, 1973)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2399",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sac and Fox Tribe et al. v. United States, Final Award on Remand (November 23, 1973)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2173",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History",
+      "url": "https://www.meskwaki.org/history/",
+      "publisher": "Meskwaki Nation (Sac and Fox Tribe of the Mississippi in Iowa)"
+    }
+  ],
+  "openQuestions": [
+    "The treaty was imposed after the Black Hawk War; its preamble presents the cession as indemnity for the war. The Sauk and Meskwaki account of this treaty was not found online; add it to nationVoice.",
+    "The ICC gives the effective date as 9 February 1833 in the final award and 8 February 1833 in the remand opinion; Kappler gives the proclamation date as 13 February 1833.",
+    "The Court of Claims decision that remanded the case (cited in the 1973 opinion) was not opened.",
+    "The same final award found the 1837 Sac and Fox cession (Royce Area 244, 7 Stat. 540) paid an unconscionable consideration and awarded $943,799.79; that treaty's queue entry should cite it."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

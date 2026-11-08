@@ -1,0 +1,180 @@
+[
+ {
+  "id": "red-lake-nation-foods",
+  "name": "Red Lake Nation Foods",
+  "category": "food",
+  "subcategory": "hand-harvested wild rice and packaged foods",
+  "nation": "Red Lake Band of Chippewa Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Nawapo, a Red Lake Incorporated company",
+   "url": "https://nawapo.com/"
+  },
+  "description": "Sells Red Lake wild rice, wild rice pancake mix, jams and other foods, now sold online through the tribe's Nawapo marketplace.",
+  "website": "https://redlakenationfoods.com/",
+  "shopOnline": "https://nawapo.com/",
+  "city": "Redby",
+  "state": "MN",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Nawapo, a Red Lake Incorporated company",
+    "url": "https://nawapo.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -94.913,
+   47.8787
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "bedre-fine-chocolate",
+  "name": "Bedré Fine Chocolate",
+  "category": "food",
+  "subcategory": "chocolate maker",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Bedré: Our Story",
+   "url": "https://www.bedrechocolates.com/pages/our-story"
+  },
+  "description": "Chickasaw Nation chocolate company making bars, truffles and chocolate-covered treats.",
+  "website": "https://www.bedrechocolates.com/",
+  "shopOnline": "https://www.bedrechocolates.com/",
+  "city": "Davis",
+  "state": "OK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Bedré: Our Story",
+    "url": "https://www.bedrechocolates.com/pages/our-story"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -97.1189,
+   34.5035
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "seka-hills",
+  "name": "Séka Hills",
+  "category": "food",
+  "subcategory": "olive oil, honey, wine and beef",
+  "nation": "Yocha Dehe Wintun Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Séka Hills: Our Story",
+   "url": "https://www.sekahills.com/"
+  },
+  "description": "Yocha Dehe Wintun Nation brand selling olive oil, honey, wine and grass-fed beef from the nation's lands in the Capay Valley.",
+  "website": "https://www.sekahills.com/",
+  "shopOnline": "https://www.sekahills.com/",
+  "city": "Brooks",
+  "state": "CA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Séka Hills: Our Story",
+    "url": "https://www.sekahills.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -122.148,
+   38.7416
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "suquamish-seafoods",
+  "name": "Suquamish Seafoods",
+  "category": "food",
+  "subcategory": "shellfish and seafood",
+  "nation": "Suquamish Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "The Suquamish Tribe: Suquamish Seafoods",
+   "url": "https://suquamish.nsn.us/"
+  },
+  "description": "Tribal seafood business selling geoduck, oysters, clams and other shellfish harvested from Suquamish home waters.",
+  "website": "https://suquamish.nsn.us/",
+  "city": "Suquamish",
+  "state": "WA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "The Suquamish Tribe: Suquamish Seafoods",
+    "url": "https://suquamish.nsn.us/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -122.553,
+   47.7301
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "kwikpak-fisheries",
+  "name": "Kwik'Pak Fisheries",
+  "category": "food",
+  "subcategory": "Yukon River salmon",
+  "nation": "Lower Yukon River villages (Yukon Delta Fisheries Development Association)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Kwik'Pak Fisheries: Home",
+   "url": "http://www.kwikpakfisheries.com/"
+  },
+  "description": "Fishery set up by the Yukon Delta Fisheries Development Association to buy and process salmon from Lower Yukon River village fishers.",
+  "website": "http://www.kwikpakfisheries.com/",
+  "city": "Emmonak",
+  "state": "AK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kwik'Pak Fisheries: Home",
+    "url": "http://www.kwikpakfisheries.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -164.5297,
+   62.7773
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "tanka",
+  "name": "Tanka",
+  "category": "food",
+  "subcategory": "bison meat bars and sticks",
+  "nation": "Oglala Lakota",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Tanka: About",
+   "url": "https://tankabar.com/"
+  },
+  "description": "Pine Ridge food company making bison and cranberry bars and sticks.",
+  "website": "https://tankabar.com/",
+  "shopOnline": "https://tankabar.com/",
+  "city": "Kyle",
+  "state": "SD",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Tanka: About",
+    "url": "https://tankabar.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -102.1765,
+   43.425
+  ],
+  "lonlatPrecision": "town"
+ }
+]

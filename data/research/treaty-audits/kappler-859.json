@@ -1,0 +1,26 @@
+{
+  "id": "kappler-859",
+  "auditedAt": "2026-11-07",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty dates and citation (signed 1863-10-01, ratified 1866-06-26, proclaimed 1869-10-21, 18 Stat. 689) against the OSU Kappler text, p. 851",
+    "Promises against Articles 6 and 7 (reservations at the President's discretion; $5,000 a year for twenty years for loss of game)",
+    "ICC Docket 326-K opinion of October 11, 1972 (OSU id 2489): restates 11 Ind. Cl. Comm. 387 (1962): title acquired 'without payment of compensation', California title extinguished March 3, 1853, the rest by gradual encroachment and taking; 22,211,753 Nevada acres and 2,184,650 California acres; Nevada valued as of July 1, 1872",
+    "United States v. Dann (Cornell): decided February 20, 1985; $26 million award; distribution plan not submitted owing to the Tribe's refusal to cooperate; deposit was payment",
+    "ICT (Newcomb): National Council notice that the treaty did not cede territory, that the 1952 claim did not need to be filed, and a form to reject the 326-K money",
+    "NBC News / ICT, July 2004: Distribution bill signed July 7; about $145 million; majority of Western Shoshone governments refused the money"
+  ],
+  "changes": [
+    "Removed the United States v. Dann court-ruling breach: the Court ruled for the United States that the award had been paid; it is not a breach finding. Its content moved to compensation and today",
+    "ICC breach: added the Commission's 'without payment of compensation' finding; removed the gloss 'not by any cession'",
+    "compensation: 'about $26 million' to '$26 million' (the Court's figure); NBC wording on refusals aligned with the source",
+    "openQuestions: audit line added"
+  ],
+  "unverifiable": [
+    "Docket 326 opinion of 1962 (OSU id 808) not re-opened; its holding taken from the 1972 restatement",
+    "Exact final award ($26,145,189.89, 1979) not opened, as the researcher noted"
+  ],
+  "treatiesJsonErrors": [
+    "kappler-859 presentDayTribes includes the Northwestern Band of Shoshoni Nation (Washakie), whose 1863 treaty was a separate one at Box Elder; flagged by the researcher and still present in treaties.json (the Box Elder treaty itself was not opened in this audit)"
+  ]
+}

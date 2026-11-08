@@ -1,0 +1,103 @@
+{
+  "id": "kappler-710",
+  "name": "Treaty with the Nez Perces, 1855 (Walla Walla Council)",
+  "aka": [
+    "Treaty of Camp Stevens, 1855",
+    "Nez Perce Treaty of 1855"
+  ],
+  "signed": "1855-06-11",
+  "ratified": "1859-03-08",
+  "proclaimed": "1859-04-29",
+  "citation": "12 Stat. 957",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-nez-perces-1855-0702",
+  "nations": [
+    "Nimiipuu (Nez Perce)"
+  ],
+  "promises": [
+    "Article 2 set apart a reservation for the 'exclusive use and benefit' of the tribe, on which no white man except Indian Department employees could reside without the permission of the tribe and the agent.",
+    "Article 3 secured the exclusive right of taking fish in streams running through or bordering the reservation, and fishing at all usual and accustomed places in common with citizens, with hunting, gathering roots and berries and pasturing on open and unclaimed land.",
+    "Article 4: $200,000 for the cession, part for removal and settling on the reserve and the rest in annuities over twenty years.",
+    "Article 5: two schools, mechanics' shops, a sawmill and flouring mill, a hospital, farmers, teachers and a physician."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1959-12-31",
+      "what": "Gold was found on the reservation in 1860 and thousands of miners and settlers moved onto it. The Indian Claims Commission held the United States liable for failing to prevent those trespasses as Article 2 required and for failing to secure the tribe any return, a failure of fair and honorable dealings. It held the tribe entitled to half the net profit of the gold taken from the reservation between 1860 and 1867, $3,000,000 less offsets.",
+      "whoFoundIt": "Indian Claims Commission, Williams et al. (Nez Perce Tribe) v. United States, Docket 180-A, opinion of December 31, 1959 (8 Ind. Cl. Comm. 300), following liability opinion of August 10, 1955 (3 Ind. Cl. Comm. 571)",
+      "source": {
+        "title": "Charles E. Williams, Joseph Redthunder and Harry Owhi, as representatives of the Nez Perce Tribe v. United States, Docket No. 180-A, Opinion of the Commission, December 31, 1959",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/499",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1960-07-05",
+      "what": "The Commission entered final judgment for the Nez Perce for $3,000,000 on the gold and trespass claim, by a stipulation that settled the government's offsets.",
+      "whoFoundIt": "Indian Claims Commission, Docket 180-A, Final Judgment, July 5, 1960",
+      "source": {
+        "title": "Williams et al. (Nez Perce Tribe) v. United States, Docket No. 180-A, Final Judgment, July 5, 1960",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/105",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1863-06-09",
+      "what": "The Nez Perce Tribe says that once gold was discovered, mass trespass and theft took place on its reservation, and that instead of protecting it the federal government forced a second treaty in 1863 that reduced the reservation to about 750,000 acres.",
+      "whoFoundIt": "Nez Perce Tribe, History page",
+      "source": {
+        "title": "History",
+        "url": "https://nezperce.org/about/history/",
+        "publisher": "Nez Perce Tribe"
+      }
+    }
+  ],
+  "landTaken": "The 1855 cession is described in Article 1. The Nez Perce Tribe states it kept about 7.5 million acres as its reservation in 1855, reduced to about 750,000 acres by the 1863 treaty (Nez Perce Tribe, History).",
+  "compensation": "$3,000,000 final judgment in 1960 on the gold and trespass claim (ICC Docket 180-A). The claim for the 1855 cession price itself was not located in this pass.",
+  "today": "The reservation was reduced again by the 1863 treaty (see kappler-851). The Tribe's treaty fishing, hunting and gathering rights continue to be exercised and litigated; later fishing cases were not researched in this pass.",
+  "nationVoice": [
+    {
+      "nation": "Nez Perce Tribe",
+      "summary": "The Tribe says it insisted on keeping its inherent rights in 1855, kept about 7.5 million acres as an exclusive reservation, and that the government answered the gold-rush trespass by forcing a second treaty instead of protecting the land.",
+      "url": "https://nezperce.org/about/history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Nez Perces, 1855 (Kappler, vol. 2, p. 702)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-nez-perces-1855-0702",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Williams et al. v. United States, Docket No. 180-A, Opinion of the Commission, August 10, 1955",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/197",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Williams et al. v. United States, Docket No. 180-A, Opinion of the Commission, December 31, 1959",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/499",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Williams et al. v. United States, Docket No. 180-A, Final Judgment, July 5, 1960",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/105",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History",
+      "url": "https://nezperce.org/about/history/",
+      "publisher": "Nez Perce Tribe"
+    }
+  ],
+  "openQuestions": [
+    "The OCR of the 1959 opinion is damaged, but its figures agree: $20,000,000 of gold removed from the reservation, 70 percent production cost, net profit approximated at $6,000,000 (one OCR line reads '$5,000,000.03', another '$6,009,000'), and 50 percent of net profit, $3,000,000, matching the 1960 final judgment (checked in audit, 2026-11-07).",
+    "Whether the Nez Perce brought an Indian Claims Commission claim for the price paid for the 1855 cession itself was not found among the Commission's Nez Perce decisions in this pass.",
+    "Columbia River treaty fishing litigation involving the Nez Perce (Sohappy v. Smith / United States v. Oregon, 1969 onward) could not be opened from a free source in this pass.",
+    "Audit 2026-11-07: confirmed. The 1955 liability opinion (OSU id 197) rests the claim on Article 2 and the fair and honorable dealings clause for 1860-1867; the 1960 final judgment (OSU id 105) entered $3,000,000 by stipulation, with offsets for July 1, 1861 to June 30, 1957 settled by a compromise in Docket 175-A. Treaty dates and articles and the Tribe's history page were re-read."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,89 @@
+[
+ {
+  "id": "southcentral-foundation",
+  "name": "Southcentral Foundation",
+  "category": "health",
+  "subcategory": "Alaska Native-owned health system",
+  "nation": "Alaska Native (under Cook Inlet Region, Inc.)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Southcentral Foundation: home",
+   "url": "https://www.southcentralfoundation.com/"
+  },
+  "description": "Alaska Native-owned nonprofit health system known for its Nuka model of care, serving Alaska Native and American Indian people.",
+  "website": "https://www.southcentralfoundation.com/",
+  "city": "Anchorage",
+  "state": "AK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Southcentral Foundation: home",
+    "url": "https://www.southcentralfoundation.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -149.8949,
+   61.2163
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "ke-ola-mamo",
+  "name": "Ke Ola Mamo",
+  "category": "health",
+  "subcategory": "Native Hawaiian Health Care System",
+  "nation": "Native Hawaiian",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Ke Ola Mamo: Native Hawaiian Health Care System for O'ahu",
+   "url": "https://www.keolamamo.org/"
+  },
+  "description": "Native Hawaiian health care system for O'ahu offering health services, outreach and traditional healing.",
+  "website": "https://www.keolamamo.org/",
+  "city": "Honolulu",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Ke Ola Mamo: Native Hawaiian Health Care System for O'ahu",
+    "url": "https://www.keolamamo.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.8557,
+   21.3045
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "hui-no-ke-ola-pono",
+  "name": "Hui No Ke Ola Pono",
+  "category": "health",
+  "subcategory": "Native Hawaiian Health Care System",
+  "nation": "Native Hawaiian",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Hui No Ke Ola Pono: Native Hawaiian Health Care System",
+   "url": "https://www.hnkop.org/"
+  },
+  "description": "Maui's Native Hawaiian health care system with primary care, nutrition, and traditional healing.",
+  "website": "https://www.hnkop.org/",
+  "city": "Wailuku",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Hui No Ke Ola Pono: Native Hawaiian Health Care System",
+    "url": "https://www.hnkop.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -156.5031,
+   20.8905
+  ],
+  "lonlatPrecision": "town"
+ }
+]

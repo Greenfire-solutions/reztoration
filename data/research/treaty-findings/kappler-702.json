@@ -1,0 +1,86 @@
+{
+  "id": "kappler-702",
+  "name": "Treaty with the Wallawalla, Cayuse, etc., 1855 (Umatilla Treaty)",
+  "aka": ["Treaty with the Walla Walla, Cayuse and Umatilla, 1855", "Treaty of Camp Stevens, June 9, 1855"],
+  "signed": "1855-06-09",
+  "ratified": "1859-03-08",
+  "proclaimed": "1859-04-11",
+  "citation": "12 Stat. 945",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-wallawalla-cayuse-etc-1855-0694",
+  "nations": ["Confederated Tribes of the Umatilla Indian Reservation (Cayuse, Umatilla and Walla Walla)"],
+  "promises": [
+    "Article 1 set apart the Umatilla reservation for the tribes' exclusive use, closed to white residents without the agent's and superintendent's permission.",
+    "Article 1 secured the exclusive right of taking fish in streams through and bordering the reservation and at all other usual and accustomed stations in common with citizens, with hunting, gathering and pasturing on unclaimed lands.",
+    "Article 2: annual payments over twenty years, from $8,000 a year falling to $2,000, for those who moved to the reservation.",
+    "Article 4: a sawmill and flouring mill, hospital, two schools, shops and their staff."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "nation-statement",
+      "date": "1871",
+      "what": "The Confederated Tribes of the Umatilla Indian Reservation say they reserved 510,000 acres in 1855 but the reservation as surveyed held about 245,000 acres, that the boundary was mis-surveyed and an agent drew a line removing the southern part, and that allotment later reduced it to 158,000 acres.",
+      "whoFoundIt": "Confederated Tribes of the Umatilla Indian Reservation, Brief History of CTUIR",
+      "source": {
+        "title": "Brief History of CTUIR",
+        "url": "https://ctuir.org/about/brief-history-of-ctuir/",
+        "publisher": "Confederated Tribes of the Umatilla Indian Reservation"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1966-02-11",
+      "what": "The tribes' Indian Claims Commission claims for more pay for the 1855 cession, for lands taken outside it, for the depreciation of their treaty fishing rights, and for reservation land lost through the erroneous 1871 survey were settled together for $2,450,000, without findings on the merits.",
+      "whoFoundIt": "Indian Claims Commission, Confederated Tribes of the Umatilla Indian Reservation v. United States, Dockets 264, 264-A and 264-B, opinion and final judgment of February 11, 1966",
+      "source": {
+        "title": "Confederated Tribes of the Umatilla Indian Reservation v. United States, Dockets 264, 264-A, 264-B, Opinion of the Commission on compromise, February 11, 1966",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2535",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "The Confederated Tribes of the Umatilla Indian Reservation state they ceded 6.4 million acres and that their lands were reduced to 158,000 acres (CTUIR, Brief History).",
+  "compensation": "$2,450,000 by compromise of Dockets 264, 264-A and 264-B (1966). CTUIR states it had been compensated for only about 4.5 million acres of the 6.4 million ceded before the claim was settled.",
+  "today": "CTUIR says its members long had to fight to exercise off-reservation treaty rights and were arrested for doing so (CTUIR, Brief History). Later rulings were not researched in this pass.",
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of the Umatilla Indian Reservation",
+      "summary": "CTUIR says the reservation surveyed was about half of what the treaty reserved, that its lands fell from 6.4 million acres to 158,000, and that the BIA failed to uphold its treaty rights.",
+      "url": "https://ctuir.org/about/brief-history-of-ctuir/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Wallawalla, Cayuse, etc., 1855 (Kappler, vol. 2, p. 694)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-wallawalla-cayuse-etc-1855-0694",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Confederated Tribes of the Umatilla Indian Reservation v. United States, Docket No. 264, Opinion of the Commission, September 28, 1964",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/890",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Confederated Tribes of the Umatilla Indian Reservation v. United States, Dockets 264, 264-A, 264-B, Opinion of the Commission on compromise, February 11, 1966",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2535",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Confederated Tribes of the Umatilla Indian Reservation v. United States, Dockets 264, 264-A, 264-B, Final Judgment, February 11, 1966",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1094",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Brief History of CTUIR",
+      "url": "https://ctuir.org/about/brief-history-of-ctuir/",
+      "publisher": "Confederated Tribes of the Umatilla Indian Reservation"
+    }
+  ],
+  "openQuestions": [
+    "No court, Claims Commission, statute or government finding of a breach was located in this pass; the 1966 settlement resolved the survey and fishing claims without a ruling. The 1871 survey, the Act of March 3, 1885 (Slater Act) and the 1888 cession should be checked for a formal finding.",
+    "Columbia River fishing cases in which the Umatilla took part (United States v. Oregon, from 1968) could not be opened from a free source in this pass.",
+    "The 1964 Commission opinion on title (Docket 264) was read only in part; its holding on recognized versus aboriginal title was not recorded."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

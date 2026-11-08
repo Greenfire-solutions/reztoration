@@ -1,0 +1,104 @@
+{
+  "id": "cession-1855-08-11-coast-tribes-of-oregon",
+  "name": "Treaty with the Coast Tribes of Oregon, 1855 (unratified Coast Treaty)",
+  "aka": ["Palmer Coast Treaty of August 11, 1855", "Treaty of 1855 with the Coos, Lower Umpqua and Siuslaw (unratified)"],
+  "signed": "1855-08-11",
+  "citation": "Never ratified; published in Senate Executive Document No. 25, 53rd Congress, 1st session",
+  "textUrl": "https://www.law.cornell.edu/supremecourt/text/329/40",
+  "nations": ["Tillamook", "Coquille", "Tututni (Too-too-to-ney)", "Chetco", "Coos, Lower Umpqua and Siuslaw", "Alsea and other coast bands"],
+  "promises": [
+    "The bands would cede their lands on the Oregon coast in return for money payments.",
+    "A reservation would be created for them within the ceded area.",
+    "The treaty was to take effect only on ratification by the United States."
+  ],
+  "status": "unratified",
+  "breaches": [
+    {
+      "kind": "never-ratified",
+      "date": "1857-02",
+      "what": "The treaty Superintendent Joel Palmer concluded with the coast tribes on August 11, 1855 was not sent to the Senate until February 1857 and was never ratified.",
+      "whoFoundIt": "United States v. Alcea Band of Tillamooks, 329 U.S. 40 (1946)",
+      "source": {
+        "title": "United States v. Alcea Band of Tillamooks, 329 U.S. 40 (1946)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/329/40",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
+      "quote": "It was not submitted to the Senate until February, 1857, and was never ratified."
+    },
+    {
+      "kind": "government-admission",
+      "date": "1899",
+      "what": "Royce's land cession schedule, published by the Smithsonian's Bureau of American Ethnology, records that Palmer's 1855 coast treaties were not ratified but that United States authorities treated the cession as binding, set apart the promised reservation by Executive Order of November 9, 1855, and mapped the cession as though ratified.",
+      "whoFoundIt": "Charles C. Royce, Indian Land Cessions in the United States, 18th Annual Report of the Bureau of American Ethnology, part 2 (1899), schedule entry for August 11, 1855",
+      "source": {
+        "title": "Indian Land Cessions in the United States (Royce, 1899), full text",
+        "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+        "publisher": "Internet Archive (Smithsonian Institution, Bureau of American Ethnology)"
+      },
+      "quote": "The treaties were not ratified, but the U. S. authorities assumed that the cession was binding"
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1946-11-25",
+      "what": "The Supreme Court upheld the Court of Claims finding that the Tillamook, Coquille, Tututni and Chetco were deprived of their original Indian title by the Executive Order of November 9, 1855 without consent or compensation, the Tillamook confined to part of their land and the others moved to the Coast (Siletz) Reservation, and held they could recover.",
+      "whoFoundIt": "United States v. Alcea Band of Tillamooks, 329 U.S. 40 (1946)",
+      "source": {
+        "title": "United States v. Alcea Band of Tillamooks, 329 U.S. 40 (1946)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/329/40",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
+      "quote": "taking original Indian title without compensation and without consent does not satisfy the 'high standards for fair dealing'"
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1855",
+      "what": "The Confederated Tribes of Coos, Lower Umpqua and Siuslaw say they agreed to the 1855 treaty and waited in vain for ratification, that the government chose to ignore it, and that within a year they were rounded up and held at Fort Umpqua, then marched in 1860 to the Alsea subagency, where half their people died.",
+      "whoFoundIt": "Confederated Tribes of Coos, Lower Umpqua and Siuslaw Indians, History page",
+      "source": {
+        "title": "History",
+        "url": "https://ctclusi.org/history/",
+        "publisher": "Confederated Tribes of Coos, Lower Umpqua and Siuslaw Indians"
+      }
+    }
+  ],
+  "landTaken": "Royce's Area 397 on the Oregon coast, treated by the United States as ceded although the treaty was never ratified (Royce, 1899).",
+  "compensation": "The Tillamook, Coquille, Tututni and Chetco recovered for the taking after the 1946 ruling; the amount was not recorded in this pass. The Coos, Lower Umpqua and Siuslaw were excluded from the 1935 jurisdictional act, and their earlier suit was denied in 1938 for lack of proof of original title (Coos Bay, Lower Umpqua and Siuslaw Tribes v. United States, 87 Ct. Cl. 143, as described in Alcea).",
+  "today": "The Coos, Lower Umpqua and Siuslaw were terminated in 1954 over their opposition and restored by Public Law 98-481 on October 17, 1984 (CTCLUSI, History).",
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of Coos, Lower Umpqua and Siuslaw Indians",
+      "summary": "The Tribes say they kept their side of the 1855 treaty, the government ignored it, and federal promises of just treatment were persistently broken for the next hundred years.",
+      "url": "https://ctclusi.org/history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "United States v. Alcea Band of Tillamooks, 329 U.S. 40 (1946)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/329/40",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Indian Land Cessions in the United States (Royce, 1899), schedule page for 1855",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/812/mode/2up",
+      "publisher": "Internet Archive (Smithsonian Institution, Bureau of American Ethnology)"
+    },
+    {
+      "title": "Indian Land Cessions in the United States (Royce, 1899), full text",
+      "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+      "publisher": "Internet Archive (Smithsonian Institution, Bureau of American Ethnology)"
+    },
+    {
+      "title": "History",
+      "url": "https://ctclusi.org/history/",
+      "publisher": "Confederated Tribes of Coos, Lower Umpqua and Siuslaw Indians"
+    }
+  ],
+  "openQuestions": [
+    "Royce describes 'several treaties' concluded with the coast tribes between August 11 and September 8, 1855; which bands signed which instrument was not sorted out here, and the cession entries dated November 9, 1855 in treaties.json may cover the same lands.",
+    "The amount recovered by the Tillamook and other bands after 1946 (and the later Indian Claims Commission dockets 239 and 240 for Tillamook and Clatsop bands) was not recorded.",
+    "The treaty text in Senate Executive Document No. 25, 53rd Congress, was not opened.",
+    "The Confederated Tribes of Siletz Indians and the Coquille Indian Tribe were not consulted for their own accounts in this pass."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

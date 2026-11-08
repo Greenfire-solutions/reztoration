@@ -1,0 +1,137 @@
+{
+  "id": "kappler-596",
+  "name": "Treaty of Traverse des Sioux (1851)",
+  "aka": [
+    "Treaty with the Sioux-Sisseton and Wahpeton Bands, 1851"
+  ],
+  "signed": "1851-07-23",
+  "proclaimed": "1853-02-24",
+  "citation": "10 Stat. 949",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-sioux-sisseton-and-wahpeton-bands-1851-0588",
+  "nations": [
+    "Sisitunwan (Sisseton) Dakota",
+    "Wahpetunwan (Wahpeton) Dakota"
+  ],
+  "promises": [
+    "$1,665,000 in all for the bands' lands in Iowa and in Minnesota east of the treaty line (Articles 2 and 4).",
+    "$275,000 to the chiefs for settling their affairs, removal and a year's subsistence, and $30,000 for manual-labour schools, mills, blacksmith shops and farms (Article 4).",
+    "The remaining $1,360,000 held in trust, with five per cent interest paid for fifty years from July 1, 1852, for an agricultural and civilization fund, education, goods and provisions, and a money annuity (Article 4).",
+    "Article 3, a reservation on the upper Minnesota River, was struck out by the Senate; the supplemental article paid ten cents an acre for it instead and let the President, with the bands' consent, mark out another home outside the cession."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1863-02-16",
+      "what": "After the 1862 war in Minnesota, Congress declared all treaties with the Sisseton, Wahpeton, Mdewakanton and Wahpekute bands abrogated and annulled as to future obligations of the United States, and declared their lands in Minnesota and their unpaid annuities and claims forfeited, applying two thirds of the unexpended annuity balance to damages claims.",
+      "whoFoundIt": "Act of February 16, 1863, ch. 37, 12 Stat. 652",
+      "source": {
+        "title": "An Act for the Relief of Persons for Damages sustained by Reason of Depredations and Injuries by certain Bands of Sioux Indians, 12 Stat. 652 (February 16, 1863)",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-12/pdf/STATUTE-12-Pg652.pdf",
+        "publisher": "U.S. Government Publishing Office, govinfo"
+      },
+      "quote": "are hereby declared to be abrogated and annulled"
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1908-02-24",
+      "what": "Under a 1906 act letting the Sisseton and Wahpeton recover the annuities due under this treaty as if the 1863 forfeiture had not been passed, less payments chargeable against them, the Court of Claims stated an account and entered judgment for a balance; the Supreme Court affirmed, holding that large set-offs for depredation damages and support were properly charged.",
+      "whoFoundIt": "United States v. Sisseton and Wahpeton Bands of Sioux Indians, 208 U.S. 561 (1908)",
+      "source": {
+        "title": "United States v. Sisseton and Wahpeton Bands of Sioux Indians, 208 U.S. 561 (1908)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/208/561",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1967-06-29",
+      "what": "Before the Indian Claims Commission the Sisseton and Wahpeton bands (Docket 142) and the Mdewakanton and Wahpekute (Dockets 359-363) established recognised title to Royce Area 289 at the 1851 treaties (1962); their claims were then settled by compromise for a net $12,250,000 for all the dockets, without a finding on the price.",
+      "whoFoundIt": "Indian Claims Commission, Sisseton and Wahpeton Bands v. United States, Docket 142 et al., Interlocutory Order (January 12, 1962) and Order Approving Compromise Settlement (June 29, 1967)",
+      "source": {
+        "title": "Sisseton and Wahpeton Bands et al. v. United States, Dockets 142, 359-363, Interlocutory Order Approving Compromise Settlement (June 29, 1967)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1045",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "what": "The Lower Sioux Indian Community states that the United States failed for two years before August 1862 to meet its treaty obligations to the Dakota bands, including payment for the land, health care and food, and afterwards nullified its treaties, voided the annuities and removed the Dakota from Minnesota.",
+      "whoFoundIt": "Lower Sioux Indian Community, About Us and History of the Mdewakanton",
+      "source": {
+        "title": "About Us",
+        "url": "https://lowersioux.com/about-us/",
+        "publisher": "Lower Sioux Indian Community"
+      }
+    }
+  ],
+  "landTaken": "Royce Area 289 is the 1851 cession by this treaty and the Mendota treaty (kappler-599). The acreage was not copied here.",
+  "compensation": "The 1906 act and the Court of Claims judgment affirmed in 1908 restored part of the forfeited annuities after set-offs; the Court's account credits fifty instalments of $73,600 under the treaty. The Indian Claims Commission claims for the 1851 cessions and others were compromised for a net $12,250,000 in 1967.",
+  "today": "The queue names the Sisseton-Wahpeton Oyate of the Lake Traverse Reservation and the Spirit Lake Tribe among the present-day nations for this cession.",
+  "nationVoice": [
+    {
+      "nation": "Shakopee Mdewakanton Sioux Community",
+      "summary": "The Community's history says the two 1851 treaties, Traverse des Sioux and Mendota, had the Sisseton, Wahpeton, Mdewakanton and Wahpekute bands give up over 30 million acres in Minnesota Territory and Iowa in exchange for money and a permanent reservation on the Minnesota River.",
+      "url": "https://shakopeedakota.org/culture-history/our-history/"
+    },
+    {
+      "nation": "Lower Sioux Indian Community (Mdewakanton Band of Dakota)",
+      "summary": "The Community says the 1862 war by young men of all four Dakota bands, including the Sisseton and Wahpeton upper bands, followed two years of unfulfilled treaty obligations, after which the United States nullified its treaties, voided the annuities and removed the Dakota from Minnesota.",
+      "url": "https://lowersioux.com/about-us/"
+    },
+    {
+      "nation": "Upper Sioux Community (Pezihutazizi Oyate)",
+      "summary": "The Community says its people have lived at Pezihutazizi Kapi in the Minnesota River Valley for thousands of years except for a short time after 1862, when the Dakota were killed, forcibly removed or fled, and that survivors defied the governments by returning; 746 acres came back in 1938 and the State returned 1,400 more acres in 2024.",
+      "url": "https://www.uppersiouxcommunity-nsn.gov/history"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Sioux-Sisseton and Wahpeton Bands, 1851 (Kappler, vol. 2, p. 588)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-sioux-sisseton-and-wahpeton-bands-1851-0588",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Act of February 16, 1863, ch. 37, 12 Stat. 652",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-12/pdf/STATUTE-12-Pg652.pdf",
+      "publisher": "U.S. Government Publishing Office, govinfo"
+    },
+    {
+      "title": "United States v. Sisseton and Wahpeton Bands of Sioux Indians, 208 U.S. 561 (1908)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/208/561",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Sisseton and Wahpeton Bands et al. v. United States, Dockets 142 et al., Interlocutory Order (January 12, 1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/262",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sisseton and Wahpeton Bands et al. v. United States, Dockets 142, 359-363, Interlocutory Order Approving Compromise Settlement (June 29, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1045",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Our History",
+      "url": "https://shakopeedakota.org/culture-history/our-history/",
+      "publisher": "Shakopee Mdewakanton Sioux Community"
+    },
+    {
+      "title": "About Us",
+      "url": "https://lowersioux.com/about-us/",
+      "publisher": "Lower Sioux Indian Community"
+    },
+    {
+      "title": "History",
+      "url": "https://www.uppersiouxcommunity-nsn.gov/history",
+      "publisher": "Upper Sioux Community"
+    }
+  ],
+  "openQuestions": [
+    "The 1863 act's preamble gives Congress's reasons in its own words (the 1862 war); the record here states the act's effect, not its characterisation. The Court of Claims found it impossible to determine which members of these bands stayed loyal (39 Ct. Cl. 172, as reported in 208 U.S. 561).",
+    "The Senate's amendment striking the Article 3 reservation, and whether the bands' assent to it was freely given, is a lead for a deeper pass.",
+    "The Sisseton-Wahpeton Oyate's website showed no history page to an automated reader in this pass, so the nation's own account is not linked yet."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

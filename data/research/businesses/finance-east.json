@@ -1,0 +1,72 @@
+[
+ {
+  "id": "seneca-nation-economic-development-company",
+  "name": "Seneca Nation of Indians Economic Development Company (SNIEDC)",
+  "category": "finance",
+  "subcategory": "Native CDFI: loans and help for Native-owned businesses",
+  "nation": "Seneca Nation of Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "SNIEDC: chartered in 1993 by the Seneca Nation of Indians Tribal Council; certified Native CDFI",
+   "url": "https://www.sniedc.org/"
+  },
+  "description": "Lender chartered by the Seneca Nation, offering micro and business loans and working capital to Seneca and other Native entrepreneurs.",
+  "website": "https://www.sniedc.org/",
+  "address": "90 Ohi:yo Way",
+  "city": "Salamanca",
+  "state": "NY",
+  "zip": "14779",
+  "sources": [
+   {
+    "title": "SNIEDC",
+    "url": "https://www.sniedc.org/"
+   },
+   {
+    "title": "Seneca Nation enterprises",
+    "url": "https://sni.org/enterprises/"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -78.7152,
+   42.1579
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "seneca-nation-federal-credit-union",
+  "name": "Seneca Nation Federal Credit Union",
+  "category": "finance",
+  "subcategory": "credit union",
+  "nation": "Seneca Nation of Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Seneca Nation enterprises: Seneca Nation Federal Credit Union",
+   "url": "https://sni.org/enterprises/"
+  },
+  "description": "Credit union listed among the Seneca Nation's enterprises, with offices on the Cattaraugus and Allegany territories.",
+  "website": "https://www.snifcu.org/",
+  "address": "12837 Route 438",
+  "city": "Irving",
+  "state": "NY",
+  "zip": "14081",
+  "sources": [
+   {
+    "title": "Seneca Nation Federal Credit Union",
+    "url": "https://www.snifcu.org/"
+   },
+   {
+    "title": "Seneca Nation enterprises",
+    "url": "https://sni.org/enterprises/"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -78.9985,
+   42.5384
+  ],
+  "lonlatPrecision": "address"
+ }
+]

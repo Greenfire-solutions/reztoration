@@ -1,0 +1,338 @@
+[
+ {
+  "id": "poarch-creek-indians-museum",
+  "name": "Poarch Creek Indians Museum and Welcome Center",
+  "category": "tourism",
+  "subcategory": "tribal museum and gift shop",
+  "nation": "Poarch Band of Creek Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Poarch Creek Indians Museum (site of the Poarch Creek Indians)",
+   "url": "https://pcimuseum.org/"
+  },
+  "description": "Free museum on the Poarch reservation telling Muscogee Creek history in Alabama, with a gift shop of books and goods; open weekdays.",
+  "website": "https://pcimuseum.org/",
+  "address": "5484 Jack Springs Road",
+  "city": "Atmore",
+  "state": "AL",
+  "zip": "36502",
+  "sources": [
+   {
+    "title": "Creek Indian Enterprises Development Authority, Poarch Creek Indians",
+    "url": "https://pci-nsn.gov/enterprises/creek-indian-enterprises-development-authority/"
+   },
+   {
+    "title": "Poarch Creek Indians Museum",
+    "url": "https://pcimuseum.org/"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -87.4939,
+   31.0238
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "magnolia-branch-wildlife-reserve",
+  "name": "Magnolia Branch Wildlife Reserve",
+  "category": "tourism",
+  "subcategory": "camping, trails and river recreation",
+  "nation": "Poarch Band of Creek Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Natural Resources, Poarch Creek Indians",
+   "url": "https://pci-nsn.gov/enterprises/natural-resources/"
+  },
+  "description": "Tribal wildlife reserve on Big Escambia Creek with tent camping, hiking, biking, fishing, bird watching and horseback riding.",
+  "website": "https://magnoliabranch.com/",
+  "address": "24 Big Creek Road",
+  "city": "Atmore",
+  "state": "AL",
+  "zip": "36502",
+  "sources": [
+   {
+    "title": "Magnolia Branch Wildlife Reserve",
+    "url": "https://magnoliabranch.com/"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -87.3722,
+   31.128
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "chahta-immi-cultural-center",
+  "name": "Chahta Immi Cultural Center",
+  "category": "tourism",
+  "subcategory": "tribal cultural center, archives and gift shop",
+  "nation": "Mississippi Band of Choctaw Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chahta Immi Cultural Center, Mississippi Band of Choctaw Indians",
+   "url": "https://www.choctaw.org/?p=630"
+  },
+  "description": "The tribe's cultural center in the Choctaw Town Center, holding exhibits and the tribal archives, with a gift shop selling work by Choctaw artisans.",
+  "website": "https://www.choctaw.org/?p=630",
+  "city": "Pearl River",
+  "state": "MS",
+  "zip": "39350",
+  "sources": [
+   {
+    "title": "Chahta Immi Cultural Center",
+    "url": "https://www.choctaw.org/?p=630"
+   },
+   {
+    "title": "IACB Source Directory: Choctaw Museum of the Southern Indian Gift Shop (tribal enterprise)",
+    "url": "https://www.doi.gov/iacb/artisans/choctaw-museum-southern-indian-gift-shop"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -89.2278,
+   32.7835
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "catawba-cultural-center",
+  "name": "Catawba Cultural Center",
+  "category": "tourism",
+  "subcategory": "cultural center, trading post, pottery and trails",
+  "nation": "Catawba Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Catawba Nation: Catawba Cultural Center",
+   "url": "https://www.catawba.com/"
+  },
+  "description": "The Catawba Nation's cultural center on the reservation, with exhibits, walking trails and a trading post where Catawba pottery is shown and sold.",
+  "website": "https://catawbaculture.org/",
+  "address": "1536 Tom Steven Road",
+  "city": "Rock Hill",
+  "state": "SC",
+  "zip": "29730",
+  "sources": [
+   {
+    "title": "Catawba Nation",
+    "url": "https://www.catawba.com/"
+   },
+   {
+    "title": "Visit York County: learn about the Catawba people",
+    "url": "https://www.visityorkcounty.com/blog/post/learn-about-the-catawba-people/"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -80.883,
+   34.9013
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "catawba-two-kings-casino",
+  "name": "Catawba Two Kings Casino",
+  "category": "tourism",
+  "subcategory": "casino resort",
+  "nation": "Catawba Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Catawba Nation enterprises: Catawba Two Kings Casino",
+   "url": "https://www.catawba.com/"
+  },
+  "description": "Casino of the Catawba Nation on its trust land in Kings Mountain, west of Charlotte, with a full resort being built.",
+  "website": "https://www.twokingscasinoresort.com/",
+  "city": "Kings Mountain",
+  "state": "NC",
+  "sources": [
+   {
+    "title": "Catawba Nation",
+    "url": "https://www.catawba.com/"
+   },
+   {
+    "title": "Tribal Business News: Catawba Nation assumes ownership of NC casino",
+    "url": "https://www.tribalbusinessnews.com/sections/gaming/14621-catawba-nation-assumes-ownership-of-nc-casino-paving-the-way-for-600m-expansion"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -81.3411,
+   35.2451
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "monacan-ancestral-museum",
+  "name": "Monacan Ancestral Museum",
+  "category": "tourism",
+  "subcategory": "tribal museum and gift shop",
+  "nation": "Monacan Indian Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Monacan Indian Nation Museum",
+   "url": "https://www.monacannation.gov/museum.html"
+  },
+  "description": "The Monacan Indian Nation's museum on Bear Mountain, with exhibits and a gift shop; open Thursday to Saturday except the monthly tribal meeting day.",
+  "website": "https://www.monacannation.gov/museum.html",
+  "address": "2009 Kenmore Road",
+  "city": "Amherst",
+  "state": "VA",
+  "zip": "24521",
+  "sources": [
+   {
+    "title": "Monacan Indian Nation Museum",
+    "url": "https://www.monacannation.gov/museum.html"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -79.0514,
+   37.5851
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "miccosukee-indian-village",
+  "name": "Miccosukee Indian Village",
+  "category": "tourism",
+  "subcategory": "village tours, alligator demonstrations, airboat rides and gift shop",
+  "nation": "Miccosukee Tribe of Indians of Florida",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Miccosukee Tribe: Indian Village",
+   "url": "https://miccosukee.com/village"
+  },
+  "description": "The tribe's village on the Tamiami Trail in the Everglades, with cultural exhibits, alligator demonstrations, airboat rides and a gift shop of Miccosukee patchwork and crafts.",
+  "website": "https://miccosukee.com/village",
+  "city": "Miami",
+  "state": "FL",
+  "zip": "33194",
+  "sources": [
+   {
+    "title": "Miccosukee Indian Village",
+    "url": "https://miccosukee.com/village"
+   },
+   {
+    "title": "Miccosukee alligator demonstrations and hours",
+    "url": "https://miccosukee.com/resort/experiences/alligators/"
+   },
+   {
+    "title": "IACB Source Directory: Miccosukee Gift Shop and Cultural Center (tribal enterprise)",
+    "url": "https://www.doi.gov/iacb/artisans/miccosukee-gift-shop-cultural-center"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -80.7748,
+   25.7597
+  ],
+  "lonlatPrecision": "place"
+ },
+ {
+  "id": "billie-swamp-safari",
+  "name": "Billie Swamp Safari",
+  "category": "tourism",
+  "subcategory": "Everglades swamp buggy and airboat tours, wildlife shows",
+  "nation": "Seminole Tribe of Florida",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Seminole Tribe of Florida: Billie Swamp Safari",
+   "url": "https://nat.semtribe.com/attractions/swamp-safari"
+  },
+  "description": "Seminole Tribe attraction on about 2,200 acres of the Big Cypress Reservation with swamp buggy and airboat tours, wildlife shows and school programs.",
+  "website": "https://www.billieswamp.com/",
+  "city": "Clewiston",
+  "state": "FL",
+  "sources": [
+   {
+    "title": "Seminole Tribe of Florida: Billie Swamp Safari",
+    "url": "https://nat.semtribe.com/attractions/swamp-safari"
+   },
+   {
+    "title": "Florida Seminole Tourism",
+    "url": "https://floridaseminoletourism.com/"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -81.0549,
+   26.3302
+  ],
+  "lonlatPrecision": "place"
+ },
+ {
+  "id": "chitimacha-museum",
+  "name": "Chitimacha Museum",
+  "category": "tourism",
+  "subcategory": "tribal museum",
+  "nation": "Chitimacha Tribe of Louisiana",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chitimacha Tribe Cultural Department",
+   "url": "https://chitimacha.gov/departments-services/cultural-department"
+  },
+  "description": "The Chitimacha Tribe's museum on its reservation in Charenton, run by the tribal cultural department, known for its river cane basketry.",
+  "website": "https://chitimacha.gov/departments-services/cultural-department",
+  "address": "3287 Chitimacha Trail",
+  "city": "Charenton",
+  "state": "LA",
+  "zip": "70523",
+  "sources": [
+   {
+    "title": "Chitimacha Tribe Cultural Department",
+    "url": "https://chitimacha.gov/departments-services/cultural-department"
+   },
+   {
+    "title": "Explore Louisiana: Chitimacha Museum",
+    "url": "https://www.explorelouisiana.com/museums/chitimacha-museum"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -91.5282,
+   29.8841
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "tunica-biloxi-museum-cerc",
+  "name": "Tunica-Biloxi Museum and Cultural and Educational Resources Center",
+  "category": "tourism",
+  "subcategory": "tribal museum and cultural center",
+  "nation": "Tunica-Biloxi Tribe of Louisiana",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Tunica-Biloxi Tribe of Louisiana: CERC",
+   "url": "https://www.tunicabiloxi.org/cerc/"
+  },
+  "description": "The tribe's museum and cultural center in Marksville, home of the Tunica Treasure collection of trade goods returned to the tribe; open weekdays.",
+  "website": "https://www.tunicabiloxi.org/cerc/",
+  "address": "150 Melacon Road",
+  "city": "Marksville",
+  "state": "LA",
+  "zip": "71351",
+  "sources": [
+   {
+    "title": "Tunica-Biloxi Tribe: CERC",
+    "url": "https://www.tunicabiloxi.org/cerc/"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -92.0629,
+   31.111
+  ],
+  "lonlatPrecision": "address"
+ }
+]

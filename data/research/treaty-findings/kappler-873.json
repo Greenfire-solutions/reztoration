@@ -1,0 +1,120 @@
+{
+  "id": "kappler-873",
+  "name": "Treaty with the Klamath, etc., 1864 (Treaty of Council Grove / Klamath Lake)",
+  "aka": [
+    "Klamath Treaty of 1864",
+    "Treaty with the Klamath and Moadoc Tribes and Yahooskin Band of Snake Indians"
+  ],
+  "signed": "1864-10-14",
+  "ratified": "1866-07-02",
+  "proclaimed": "1870-02-17",
+  "citation": "16 Stat. 707",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-klamath-etc-1864-0865",
+  "nations": [
+    "The Klamath Tribes: Klamath (Eukshikni maklaks), Modoc (Mowatocknii maklaks) and Yahooskin band of Snake (Northern Paiute)"
+  ],
+  "promises": [
+    "Article 1 set apart a reservation from the cession; no white person except Indian Department employees and Army officers could reside on it, and any others found there were to be expelled.",
+    "Article 1 secured the exclusive right of taking fish in the reservation's streams and lakes and of gathering roots, seeds and berries within it.",
+    "Article 2: $8,000 a year for five years, $5,000 a year for the next five and $3,000 a year for the five after; Article 3: $35,000 more for goods advanced at signing, the first year's subsistence after removal, teams, tools, seeds and employees.",
+    "Articles 4 and 5: sawmill, flouring mill, shops, a manual-labor school and hospital; a farmer, mechanics, a physician, a miller and two teachers for up to twenty years."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1938-04-25",
+      "what": "In 1906 the Secretary of the Interior gave a land company, successor to an Oregon military road grant, 87,000 acres of unallotted reservation land in exchange for allotted land wrongly conveyed earlier. The Supreme Court found the transfer was made without the tribes' knowledge or consent and without compensation, and upheld a Court of Claims judgment of $5,313,347.32 that valued the land with its timber at $2,980,000 and added interest as part of just compensation.",
+      "whoFoundIt": "United States v. Klamath and Moadoc Tribes, 304 U.S. 119 (1938)",
+      "source": {
+        "title": "United States v. Klamath and Moadoc Tribes, 304 U.S. 119 (1938)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/304/119",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
+      "quote": "That transfer was made without the knowledge or consent of plaintiffs and without giving them any compensation for the lands so taken from their reservation."
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1969-05-14",
+      "what": "Government surveyors in 1871 and 1888 left 621,824 acres of the reservation outside its boundaries. When the errors were settled the tribes ceded the omitted land in 1906 for $527,007.20, about 86 cents an acre. The Indian Claims Commission found the land's value on June 21, 1906 far in excess of that price and awarded the difference, $4,162,992.80, without interest because it found no constitutional taking; the parties waived appeal and offsets and it became the final judgment of September 27, 1969.",
+      "whoFoundIt": "Indian Claims Commission, Klamath and Modoc Tribes and Yahooskin Band v. United States, Docket 100-A, opinion of May 14, 1969 (20 Ind. Cl. Comm. 522) and final judgment of September 27, 1969 (21 Ind. Cl. Comm. 343)",
+      "source": {
+        "title": "Klamath and Modoc Tribes and Yahooskin Band of Snake Indians v. United States, Docket No. 100-A, Opinion of the Commission, May 14, 1969",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1633",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "act-of-congress",
+      "date": "1954-08-13",
+      "what": "Congress terminated federal supervision over the Klamath Tribe's trust property and federal services to its members, providing for the sale of tribal property to pay members who withdrew. The Tribes say this was done over their consistent opposition and against a Bureau of Indian Affairs report that recommended against it, and that their reservation of about 1.8 million acres was taken by condemnation. The Act stated that it did not abrogate treaty fishing rights. Recognition was restored in 1986 but the land was not returned.",
+      "whoFoundIt": "Klamath Termination Act, Act of August 13, 1954, Public Law 587, ch. 732, 68 Stat. 718, with the Klamath Tribes' account of its passage and effect",
+      "source": {
+        "title": "Public Law 587, 83rd Congress, August 13, 1954, 68 Stat. 718 (Klamath Termination Act)",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg718.pdf",
+        "publisher": "US Government Publishing Office (govinfo), United States Statutes at Large"
+      }
+    }
+  ],
+  "landTaken": "The Klamath Tribes state they ceded more than 23 million acres in 1864 and that their reservation of about 1.8 million acres was taken under termination (Klamath Tribes, History). 621,824 acres omitted by survey were ceded in 1906 (ICC 1969) and 87,000 acres were transferred to a land company in 1906 (Supreme Court, 1938).",
+  "compensation": "$108,750 paid in 1908 for the 87,000 acres; Court of Claims judgment of $5,313,347.32 as of June 7, 1937, upheld by the Supreme Court in 1938; $4,162,992.80 final award for the omitted 621,824 acres (ICC Docket 100-A, 1969); $2,500,000 compromise on the 1864 cession claim (Docket 100, 1964); $785,000 compromise on a further claim (Docket 100-C, 1975).",
+  "today": "The Klamath Tribes say a federal court ruled in 1974 that they kept their treaty rights to hunt, fish and gather after termination, and that federal recognition was restored in 1986 without the return of the land base (Klamath Tribes, History).",
+  "nationVoice": [
+    {
+      "nation": "The Klamath Tribes",
+      "summary": "The Tribes say they were self-sufficient managers of the largest remaining Ponderosa pine stand in the West when Congress terminated them over their objection, and that restoration in 1986 did not return their land.",
+      "url": "https://klamathtribes.org/history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Klamath, etc., 1864 (Kappler, vol. 2, p. 865)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-klamath-etc-1864-0865",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "United States v. Klamath and Moadoc Tribes, 304 U.S. 119 (1938)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/304/119",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Klamath and Modoc Tribes v. United States, Docket No. 100, Opinion on compromise, January 31, 1964",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/670",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Klamath and Modoc Tribes and Yahooskin Band of Snake Indians v. United States, Docket No. 100-A, Opinion of the Commission, May 14, 1969",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1633",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Klamath and Modoc Tribes and Yahooskin Band of Snake Indians v. United States, Docket No. 100-A, Final Judgment, September 1969",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1694",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Klamath and Modoc Tribe and Yahooskin Band v. United States, Docket No. 100-C, Final Award, October 31, 1975",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1171",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Our History",
+      "url": "https://klamathtribes.org/history/",
+      "publisher": "The Klamath Tribes"
+    },
+    {
+      "title": "Public Law 587, 83rd Congress, August 13, 1954, 68 Stat. 718 (Klamath Termination Act)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg718.pdf",
+      "publisher": "US Government Publishing Office (govinfo), United States Statutes at Large"
+    }
+  ],
+  "openQuestions": [
+    "The Klamath Termination Act was opened in audit (68 Stat. 718, August 13, 1954); the Klamath Restoration Act of 1986 was not. The sale and condemnation of the reservation land rests on the Act's sale provisions and the Tribes' account; the later amendments and the federal purchase of the forest were not opened.",
+    "The 1974 federal ruling on surviving treaty rights (Kimball v. Callahan, 9th Cir.) and later Klamath water-rights rulings (United States v. Adair) were not opened in this pass.",
+    "The 1969 opinion does not state the value in the text read; by subtraction it is $4,690,000 ($4,162,992.80 plus $527,007.20), not recorded as a finding. The Court of Claims held in 1971 that the 1906 disposition was not a constitutional taking (noted in 437 F.2d 458), which bears on that claim.",
+    "The Modoc removed to Indian Territory after 1873 (now the Modoc Nation of Oklahoma) were not researched.",
+    "Audit 2026-11-07: the termination breach now cites and links the statute itself (68 Stat. 718), which the Tribes' page alone did not; its wording follows the Act and notes the Act's saving clause for treaty fishing rights. Docket 100-A: valuation date, no-interest holding and the September 27, 1969 final judgment added. Promise 3 corrected: the $35,000 is Article 3, not Article 2, and was for advances, first-year subsistence, teams and tools as well as removal. The 1938 Supreme Court figures ($5,313,347.32, $2,980,000, $108,750 under the Act of April 30, 1908, 87,000 acres) and quote were re-read and confirmed."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,158 @@
+[
+ {
+  "id": "chickasaw-market",
+  "name": "Chickasaw Market",
+  "category": "retail",
+  "subcategory": "Native art, gifts and Chickasaw goods",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chickasaw Nation: locations, Chickasaw Market",
+   "url": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Market"
+  },
+  "description": "Ada shop selling First American art and jewelry, Bedre chocolate, Mahota textiles, Pendleton goods and books.",
+  "website": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Market",
+  "address": "105 W Main St",
+  "city": "Ada",
+  "state": "OK",
+  "zip": "74820",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Nation: locations, Chickasaw Market",
+    "url": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Market"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.6789,
+   34.7744
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "artesian-gift-shop",
+  "name": "Artesian Gift Shop",
+  "category": "retail",
+  "subcategory": "gift shop",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chickasaw Nation: locations, Artesian Gift Shop",
+   "url": "https://www.chickasaw.net/Our-Nation/Locations/Artesian-Gift-Shop"
+  },
+  "description": "Chickasaw Nation gift shop in downtown Sulphur near the Artesian Hotel.",
+  "website": "https://www.chickasaw.net/Our-Nation/Locations/Artesian-Gift-Shop",
+  "address": "23 W Vinita Ave",
+  "city": "Sulphur",
+  "state": "OK",
+  "zip": "73086",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Nation: locations, Artesian Gift Shop",
+    "url": "https://www.chickasaw.net/Our-Nation/Locations/Artesian-Gift-Shop"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.9674,
+   34.5078
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "exhibit-c-gallery",
+  "name": "Exhibit C Gallery",
+  "category": "arts",
+  "subcategory": "First American fine art gallery",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chickasaw Nation: locations, Exhibit C Gallery",
+   "url": "https://www.chickasaw.net/Our-Nation/Locations/Exhibit-C-Gallery"
+  },
+  "description": "10,000-square-foot Chickasaw Nation gallery in Oklahoma City selling fine art by First American artists, next to First Americans Museum.",
+  "website": "https://www.chickasaw.net/Our-Nation/Locations/Exhibit-C-Gallery",
+  "address": "645 First American Blvd",
+  "city": "Oklahoma City",
+  "state": "OK",
+  "zip": "73129",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Nation: locations, Exhibit C Gallery",
+    "url": "https://www.chickasaw.net/Our-Nation/Locations/Exhibit-C-Gallery"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -97.5171,
+   35.473
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "citizen-potawatomi-nation-gift-shop",
+  "name": "Citizen Potawatomi Nation Gift Shop",
+  "category": "retail",
+  "subcategory": "gift shop",
+  "nation": "Citizen Potawatomi Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Citizen Potawatomi Nation: enterprises, shopping",
+   "url": "https://www.potawatomi.org/enterprises/shopping/"
+  },
+  "description": "Gift shop at the Cultural Heritage Center selling Potawatomi books, art and gifts, also online.",
+  "website": "https://potawatomigifts.com/",
+  "shopOnline": "https://potawatomigifts.com/",
+  "address": "1899 S Gordon Cooper Dr",
+  "city": "Shawnee",
+  "state": "OK",
+  "zip": "74801",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Citizen Potawatomi Nation: enterprises, shopping",
+    "url": "https://www.potawatomi.org/enterprises/shopping/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.924,
+   35.2935
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "firelake-discount-foods",
+  "name": "FireLake Discount Foods",
+  "category": "retail",
+  "subcategory": "grocery store",
+  "nation": "Citizen Potawatomi Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Citizen Potawatomi Nation: enterprises, grocery",
+   "url": "https://www.potawatomi.org/enterprises/grocery/"
+  },
+  "description": "Citizen Potawatomi Nation grocery store in Shawnee, with smaller FireLake Express stores in Tecumseh and McLoud.",
+  "website": "https://firelakefoods.com/",
+  "address": "1570 S Gordon Cooper Dr",
+  "city": "Shawnee",
+  "state": "OK",
+  "zip": "74801",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Citizen Potawatomi Nation: enterprises, grocery",
+    "url": "https://www.potawatomi.org/enterprises/grocery/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.926,
+   35.3034
+  ],
+  "lonlatPrecision": "address"
+ }
+]

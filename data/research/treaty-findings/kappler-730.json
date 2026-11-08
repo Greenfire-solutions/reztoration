@@ -1,0 +1,113 @@
+{
+  "id": "kappler-730",
+  "name": "Treaty with the Flatheads, etc., 1855 (Hellgate Treaty)",
+  "aka": ["Treaty of Hell Gate", "Treaty with the Flathead, Kootenay, and Upper Pend d'Oreilles, 1855"],
+  "signed": "1855-07-16",
+  "ratified": "1859-03-08",
+  "proclaimed": "1859-04-18",
+  "citation": "12 Stat. 975",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-flatheads-etc-1855-0722",
+  "nations": ["Séliš (Bitterroot Salish)", "Ql̓ispé (Upper Pend d'Oreille)", "Ksanka (Kootenai)"],
+  "promises": [
+    "Article 2 reserved the Jocko (Flathead) reservation for the confederated tribes' exclusive use and benefit, closed to white residents without permission.",
+    "Article 3 secured the exclusive right of taking fish in streams through or bordering the reservation, fishing at all usual and accustomed places in common with citizens, and hunting, gathering and pasturing on open and unclaimed land.",
+    "Article 4: $120,000 for the cession, part for removal and the rest in annual payments.",
+    "Article 11: the Bitterroot Valley above the Lolo Fork was to be surveyed and could be set apart as a separate Flathead reservation, and was not to be opened to settlement until the President decided."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1965-09-29",
+      "what": "The Indian Claims Commission found that the 12,005,000 acres ceded by this treaty were worth $5,300,000 on March 8, 1859, and that the $593,377.82 paid was unconscionable.",
+      "whoFoundIt": "Indian Claims Commission, Confederated Salish and Kootenai Tribes v. United States, Docket 61, opinion of September 29, 1965 (16 Ind. Cl. Comm. 1)",
+      "source": {
+        "title": "Confederated Salish and Kootenai Tribes of the Flathead Reservation v. United States, Docket No. 61, Opinion of the Commission, September 29, 1965",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1384",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1966-08-05",
+      "what": "Final judgment of $4,431,622.18 for the Confederated Salish and Kootenai Tribes on the cession claim, after a stipulation on offsets.",
+      "whoFoundIt": "Indian Claims Commission, Docket 61, Final Judgment, August 5, 1966",
+      "source": {
+        "title": "Confederated Salish and Kootenai Tribes v. United States, Docket No. 61, Final Judgment, August 5, 1966",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1804",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "act-of-congress",
+      "date": "1904-04-23",
+      "what": "After the tribes refused to agree to cede part of the reservation, Congress passed the Act of April 23, 1904 to allot the Flathead Reservation and sell the 'surplus' land to settlers. The Court of Claims held the opening was a taking under the Fifth Amendment, in part because substantial proceeds were diverted to benefit non-Indians, and awarded $6,066,668.78 with interest as part of just compensation.",
+      "whoFoundIt": "Act of April 23, 1904, 33 Stat. 302, as found by the Court of Claims in Confederated Salish and Kootenai Tribes v. United States, 437 F.2d 458 (Ct. Cl. 1971)",
+      "source": {
+        "title": "Confederated Salish and Kootenai Tribes of the Flathead Reservation v. United States, 437 F.2d 458 (Ct. Cl. 1971)",
+        "url": "https://law.resource.org/pub/us/case/reporter/F2/437/437.F2d.458.50233.html",
+        "publisher": "Public.Resource.Org"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1855-07-16",
+      "what": "An article in Char-Koosta News, the Confederated Salish and Kootenai Tribes' newspaper, says Chief Victor defended the Bitterroot Valley as his people's homeland, that language differences caused misunderstandings about the treaty, and that the tribes were later forcibly, though not entirely, relocated to the Flathead Reservation.",
+      "whoFoundIt": "Char-Koosta News, 'History: The Hellgate Treaty of 1855' (submitted by Patrick Matt)",
+      "source": {
+        "title": "History: The Hellgate Treaty of 1855",
+        "url": "https://www.charkoosta.com/news/history-the-hellgate-treaty-of-1855/article_b57ce84a-78ff-46d2-b400-0e092665933c.html",
+        "publisher": "Char-Koosta News, Confederated Salish and Kootenai Tribes"
+      }
+    }
+  ],
+  "landTaken": "12,005,000 acres ceded in 1855, including 55,000 acres of Flathead Lake (ICC Docket 61, 1965). The Court of Claims (1971) describes the reserved tract as some 1,245,000 acres, opened to settlement under the 1904 Act.",
+  "compensation": "$4,431,622.18 final judgment for the 1855 cession (ICC, 1966). $6,066,668.78 plus interest as part of just compensation for lands disposed of under the 1904 Act (Court of Claims, 1971).",
+  "today": "Not researched past the 1971 Court of Claims judgment.",
+  "nationVoice": [
+    {
+      "nation": "Confederated Salish and Kootenai Tribes",
+      "summary": "In the Tribes' newspaper, the treaty is described as a turning point that cost millions of acres, made under pressure and with misunderstandings, and followed by forced relocation from the Bitterroot.",
+      "url": "https://www.charkoosta.com/news/history-the-hellgate-treaty-of-1855/article_b57ce84a-78ff-46d2-b400-0e092665933c.html"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Flatheads, etc., 1855 (Kappler, vol. 2, p. 722)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-flatheads-etc-1855-0722",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Confederated Salish and Kootenai Tribes v. United States, Docket No. 61, Opinion of the Commission, August 3, 1959",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/567",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Confederated Salish and Kootenai Tribes v. United States, Docket No. 61, Opinion of the Commission, September 29, 1965",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1384",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Confederated Salish and Kootenai Tribes v. United States, Docket No. 61, Final Judgment, August 5, 1966",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1804",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Confederated Salish and Kootenai Tribes v. United States, 437 F.2d 458 (Ct. Cl. 1971)",
+      "url": "https://law.resource.org/pub/us/case/reporter/F2/437/437.F2d.458.50233.html",
+      "publisher": "Public.Resource.Org"
+    },
+    {
+      "title": "History: The Hellgate Treaty of 1855",
+      "url": "https://www.charkoosta.com/news/history-the-hellgate-treaty-of-1855/article_b57ce84a-78ff-46d2-b400-0e092665933c.html",
+      "publisher": "Char-Koosta News"
+    }
+  ],
+  "openQuestions": [
+    "Article 11 (the Bitterroot Valley) and the removal of the Bitterroot Salish to the Jocko reservation in 1891 were not traced to a finding in this pass; the 1872 Garfield agreement and its disputed signature should be researched.",
+    "The Confederated Salish and Kootenai Tribes' own website (cskt.org) blocked automated access; the nation's voice here comes from a submitted article in the Tribes' newspaper and should be replaced with an official CSKT account if one is available.",
+    "Whether the 1971 Court of Claims judgment was paid, and in what amount with interest, was not found."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

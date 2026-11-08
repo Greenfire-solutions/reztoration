@@ -1,0 +1,55 @@
+{
+  "id": "kappler-115",
+  "name": "Treaty with the Creeks, 1814 (Treaty of Fort Jackson)",
+  "aka": ["Treaty of Fort Jackson", "Articles of agreement and capitulation, 1814"],
+  "signed": "1814-08-09",
+  "proclaimed": "1815-02-16",
+  "citation": "7 Stat. 120",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-creeks-1814-0107",
+  "nations": ["Muscogee (Creek) Nation", "Poarch Band of Creek Indians"],
+  "promises": [
+    "In return for the land taken as an 'equivalent' for the costs of the Creek War, the United States guaranteed the Creek Nation the integrity of all its remaining territory east and north of the new line (Article 2).",
+    "The United States would restore to the formerly hostile Creeks the property and prisoners taken from them since their submission (Article 5).",
+    "The United States would supply the Creeks with the necessaries of life until their corn crops could feed them, and would set up trading houses (Article 7).",
+    "A permanent peace between the Creek Nation and the United States (Article 8)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1952-04-22",
+      "what": "The Indian Claims Commission rejected the government's argument that the land was taken by conquest as war indemnity, noting it was undisputed that the Creek Nation's governing authorities never authorized the hostilities, and held the Creek Nation entitled to an award for land in southern Georgia and southeastern Alabama ceded under this treaty. It also held that the 1856 release of the claim was no bar because its consideration was unconscionable.",
+      "whoFoundIt": "Indian Claims Commission, Creek Nation v. United States, Docket 21, opinion of 22 April 1952 (2 Ind. Cl. Comm. 98)",
+      "source": { "title": "Creek Nation v. United States, Docket 21, Opinion of the Commission (1952)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/346", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1962-09-10",
+      "what": "After further proceedings, the Commission entered a final award to the Creek Nation and the Creek Nation East of the Mississippi of $4,003,000 less $90,000 in offsets, $3,913,000 in all, for 7,612,800 acres in southern Georgia and 1,373,853 acres in southeastern Alabama ceded on 9 August 1814. It denied recovery for a further 16,950,248 acres in Alabama and Mississippi.",
+      "whoFoundIt": "Indian Claims Commission, Creek Nation and Creek Nation East of the Mississippi v. United States, Docket 21, Final Award of 10 September 1962 (11 Ind. Cl. Comm. 53)",
+      "source": { "title": "Creek Nation v. United States, Docket 21, Final Award (1962)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/626", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+    }
+  ],
+  "landTaken": "The National Park Service gives nearly 22 million acres ceded. The Indian Claims Commission dealt with 7,612,800 acres in southern Georgia, 1,373,853 acres in southeastern Alabama and a further 16,950,248 acres in Alabama and Mississippi, all ceded on 9 August 1814 (Docket 21 findings, 1962).",
+  "compensation": "The treaty paid nothing for the land, which Article 1 took as an equivalent for war expenses. Property-loss claims of more than $300,000 accepted by the Secretary of War after the treaty were never paid in full (National Park Service). The Indian Claims Commission awarded a net $3,913,000 in 1962 for about 8.99 million acres and denied recovery for the rest.",
+  "today": "The Poarch Band of Creek Indians, whose community grew on a reserve granted under this treaty, told Congress in June 2024 that the McGhee reserve was never disestablished and that the tribe is a successor to the pre-removal Creek treaties.",
+  "nationVoice": [
+    { "nation": "Poarch Band of Creek Indians", "summary": "Chairwoman Stephanie Bryan told a House subcommittee in 2024 that the tribe's ancestors were Creeks friendly to the United States who were granted individual reservations under the Treaty of Fort Jackson, that a fee patent issued in 1924 was improper, and that the McGhee reserve was never disestablished.", "url": "https://naturalresources.house.gov/UploadedFiles/Testimony_Bryan062624.pdf" }
+  ],
+  "sources": [
+    { "title": "Treaty with the Creeks, 1814 (Kappler)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-creeks-1814-0107", "publisher": "Oklahoma State University Libraries" },
+    { "title": "Creek Nation v. United States, Docket 21, Opinion of the Commission (1952)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/346", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Creek Nation v. United States, Docket 21, Findings of Fact (1962)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/715", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Creek Nation v. United States, Docket 21, Final Award (1962)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/626", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Treaty of Fort Jackson", "url": "https://www.nps.gov/articles/treaty-of-fort-jackson.htm", "publisher": "National Park Service" },
+    { "title": "Testimony of Stephanie Bryan, Chairwoman, Poarch Band of Creek Indians, on H.R. 6180, June 26, 2024", "url": "https://naturalresources.house.gov/UploadedFiles/Testimony_Bryan062624.pdf", "publisher": "House Natural Resources Committee" }
+  ],
+  "openQuestions": [
+    "The Commission's 1952 opinion records Commissioner O'Marr dissenting; whether the United States appealed the award to the Court of Claims was not confirmed.",
+    "The ratification date is not given in the Kappler text (only the proclamation, 16 February 1815).",
+    "A Muscogee (Creek) Nation statement on this treaty was looked for on muscogeenation.com and not found.",
+    "Whether the Article 7 food supplies were delivered was not researched."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

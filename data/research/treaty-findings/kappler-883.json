@@ -1,0 +1,90 @@
+{
+  "id": "kappler-883",
+  "name": "Treaty with the Ponca, 1865",
+  "aka": [
+    "Supplementary treaty with the Ponca (March 10, 1865)"
+  ],
+  "signed": "1865-03-10",
+  "ratified": "1867-03-02",
+  "proclaimed": "1867-03-28",
+  "citation": "14 Stat. 675",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-ponca-1865-0875",
+  "nations": [
+    "Ponca"
+  ],
+  "promises": [
+    "In exchange for the western part of the 1858 reservation, the United States ceded to the Ponca, in the treaty's words for their constant fidelity, townships along the Niobrara (Running Water) River and Ponca Creek and the islands in the Niobrara in front of them (Articles 1 and 2).",
+    "$15,080 as indemnity for spoliation committed against the Ponca, in compliance with the 1858 treaty (Article 3).",
+    "The United States to pay the expenses of making the treaty."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1972-08-23",
+      "what": "The Indian Claims Commission held that the United States took the 96,000-acre Ponca reservation established under the 1858 and 1865 treaties, without Ponca consent, when it included the land in the Great Sioux Reservation by the 1868 Fort Laramie treaty (to which the Ponca were not party) and then removed the Ponca. It found the taking a Fifth Amendment taking as of March 16, 1877 and awarded $1,004,589.49 including interest to June 30, 1972.",
+      "whoFoundIt": "Indian Claims Commission, Ponca Tribe of Indians of Oklahoma et al. v. United States, Docket 323, Opinion (July 26, 1966), 17 Ind. Cl. Comm. 162; Opinion (December 30, 1970), 24 Ind. Cl. Comm. 339; Final Award on Remand (August 23, 1972), 28 Ind. Cl. Comm. 335",
+      "source": {
+        "title": "Ponca Tribe of Indians of Oklahoma v. United States, Docket 323, Final Award on Remand (August 23, 1972)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1572",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1868-04-29",
+      "what": "The Ponca Tribe of Nebraska writes that the 1868 Fort Laramie treaty, for reasons it calls unknown, included the 96,000-acre Ponca reservation within the Great Sioux Reservation, and that the United States forcibly removed the Ponca to Indian Territory in 1877, with many dying on the march.",
+      "whoFoundIt": "Ponca Tribe of Nebraska",
+      "source": {
+        "title": "About the Nation",
+        "url": "https://poncatribe-ne.gov/about-the-nation/",
+        "publisher": "Ponca Tribe of Nebraska"
+      }
+    }
+  ],
+  "landTaken": "The 96,000-acre Ponca reservation in Nebraska (the Commission also refers to it as the Ponca's Dakota reservation, since the area then lay in Dakota Territory), valued at $211,200, or $2.20 an acre, as of March 16, 1877 (Docket 323).",
+  "compensation": "The Commission credited $48,389.46 the United States spent buying land in Indian Territory for the Ponca (conveyed June 14, 1883), set just compensation at a principal of $174,327.06 plus 5 per cent interest from the taking, and awarded $1,004,589.49 to June 30, 1972 plus interest until payment; the United States waived gratuitous offsets.",
+  "today": "The Ponca Tribe of Nebraska says it was later terminated and was restored by the Ponca Restoration Act, signed October 31, 1990, with language added denying it the ability to establish a reservation. The Docket 323 claimant was the Ponca Tribe of Indians of Oklahoma.",
+  "nationVoice": [
+    {
+      "nation": "Ponca Tribe of Nebraska",
+      "summary": "The Tribe says the 1865 treaty shrank its reservation to 96,000 acres, which the 1868 Fort Laramie treaty then placed inside the Sioux reservation, leading to the 1877 forced removal and the loss of nearly a third of the people in the following year.",
+      "url": "https://poncatribe-ne.gov/about-the-nation/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Ponca, 1865 (Kappler, vol. 2, p. 875)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-ponca-1865-0875",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Ponca Tribe of Indians of Oklahoma v. United States, Docket 323, Opinion of the Commission, Part 1 (July 26, 1966)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1044",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Ponca Tribe of Indians of Oklahoma v. United States, Docket 323, Opinion of the Commission (December 30, 1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1534",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Ponca Tribe of Indians of Oklahoma v. United States, Docket 323, Final Award on Remand (August 23, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1572",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "About the Nation",
+      "url": "https://poncatribe-ne.gov/about-the-nation/",
+      "publisher": "Ponca Tribe of Nebraska"
+    }
+  ],
+  "openQuestions": [
+    "The OSU edition estimates the land the Ponca gave up in 1865 at about 30,000 acres; that is the edition's estimate, not a finding.",
+    "The 1972 award followed a remand from the Court of Claims; the appellate decision was not opened.",
+    "The Commission in 1966 found the Act of March 3, 1881 (21 Stat. 414) was meant as compensation for the lost land; how that payment was credited was not traced here beyond the $48,389.46 land purchase.",
+    "The Fort Laramie 1868 record (kappler-1006) could link to this finding, since the same treaty took the Ponca land."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

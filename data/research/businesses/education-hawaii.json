@@ -1,0 +1,35 @@
+[
+ {
+  "id": "ka-hale-hoaka-llc",
+  "name": "Ka Hale Hoaka LLC",
+  "category": "education",
+  "subcategory": "Hawaiian culture and language education",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Ka Hale Hoaka LLC",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-47elg"
+  },
+  "description": "Upcountry Maui school teaching Hawaiian culture, language and practices.",
+  "website": "0",
+  "city": "Kula",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Ka Hale Hoaka LLC",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-47elg"
+   },
+   {
+    "title": "Ka Hale Hoaka LLC website",
+    "url": "0"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -156.3237,
+   20.792
+  ],
+  "lonlatPrecision": "town"
+ }
+]

@@ -1,0 +1,204 @@
+[
+ {
+  "id": "wisconsin-native-loan-fund",
+  "name": "Wisconsin Native Loan Fund",
+  "category": "finance",
+  "subcategory": "Native CDFI: home, consumer and business loans",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Wisconsin Native Loan Fund: about",
+   "url": "https://www.winlf.org/"
+  },
+  "description": "Certified Native CDFI lending to tribal members across Wisconsin for homes, credit repair, consumer needs and small business.",
+  "website": "https://www.winlf.org/",
+  "city": "Lac du Flambeau",
+  "state": "WI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Wisconsin Native Loan Fund: about",
+    "url": "https://www.winlf.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -89.8928,
+   45.9703
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "tiwa-lending-services",
+  "name": "Tiwa Lending Services",
+  "category": "finance",
+  "subcategory": "Native CDFI: home and consumer loans",
+  "nation": "Pueblo of Isleta",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Tiwa Lending Services: about us",
+   "url": "https://www.tiwalending.org/about-us"
+  },
+  "description": "Isleta Pueblo lending entity making home, consumer and business loans and offering credit counselling.",
+  "website": "https://www.tiwalending.org/",
+  "address": "117A Tribal 40 Rd",
+  "city": "Isleta",
+  "state": "NM",
+  "zip": "87022",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Tiwa Lending Services: about us",
+    "url": "https://www.tiwalending.org/about-us"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -106.6952,
+   34.9071
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "hopi-credit-association",
+  "name": "Hopi Credit Association",
+  "category": "finance",
+  "subcategory": "Native CDFI loan fund",
+  "nation": "Hopi Tribe",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Hopi Credit Association: about",
+   "url": "https://www.hopicredit.us/"
+  },
+  "description": "Native CDFI making personal, business, home and mobile home loans to Hopi tribal members on the reservation.",
+  "website": "https://www.hopicredit.us/",
+  "city": "Keams Canyon",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Hopi Credit Association: about",
+    "url": "https://www.hopicredit.us/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -110.1951,
+   35.8125
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "native-community-capital",
+  "name": "Native Community Capital",
+  "category": "finance",
+  "subcategory": "Native CDFI: home and business loans",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Native Community Capital: our story",
+   "url": "https://www.nativecap.org/our-story/"
+  },
+  "description": "Native-led CDFI formed from merged Native lenders, making home and other loans to tribes and Native people in the Southwest.",
+  "website": "https://www.nativecap.org/",
+  "city": "Laguna",
+  "state": "NM",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Native Community Capital: our story",
+    "url": "https://www.nativecap.org/our-story/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -107.3874,
+   35.0352
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "ho-chunk-community-development-corporation",
+  "name": "Ho-Chunk Community Development Corporation",
+  "category": "finance",
+  "subcategory": "community development and lending (Ho-Chunk Community Capital)",
+  "nation": "Winnebago Tribe of Nebraska",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Ho-Chunk Community Development Corporation: about",
+   "url": "https://www.hccdc.org/"
+  },
+  "description": "Winnebago nonprofit doing housing, financial services and food sovereignty work for tribal members, home of the Ho-Chunk Community Capital loan fund.",
+  "website": "https://www.hccdc.org/",
+  "city": "Winnebago",
+  "state": "NE",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Ho-Chunk Community Development Corporation: about",
+    "url": "https://www.hccdc.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.4725,
+   42.2355
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "native360-loan-fund",
+  "name": "Native360 Loan Fund",
+  "category": "finance",
+  "subcategory": "Native CDFI: business loans and training",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Native360 Loan Fund: history and vision",
+   "url": "https://native360.org/about"
+  },
+  "description": "Nebraska Native American CDFI offering credit, capital and business training to Native Americans in its service area.",
+  "website": "https://native360.org",
+  "city": "Grand Island",
+  "state": "NE",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Native360 Loan Fund: history and vision",
+    "url": "https://native360.org/about"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -98.3387,
+   40.9243
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "bay-bank",
+  "name": "Bay Bank",
+  "category": "finance",
+  "subcategory": "community bank owned by the Oneida Nation",
+  "nation": "Oneida Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Bay Bank: About us",
+   "url": "https://www.baybankgb.com/about"
+  },
+  "description": "Green Bay community bank founded with the Oneida Nation in 1995 and wholly owned by the Nation since 2000.",
+  "website": "https://www.baybankgb.com",
+  "city": "Green Bay",
+  "state": "WI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Bay Bank: About us",
+    "url": "https://www.baybankgb.com/about"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -88.0126,
+   44.5126
+  ],
+  "lonlatPrecision": "town"
+ }
+]

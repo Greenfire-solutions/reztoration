@@ -1,0 +1,70 @@
+[
+ {
+  "id": "native-hawaiian-hospitality-association",
+  "name": "Native Hawaiian Hospitality Association",
+  "category": "nonprofit",
+  "subcategory": "Native Hawaiian hospitality organisation",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Native Hawaiian Hospitality Association",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-nbns8"
+  },
+  "description": "Organisation that brings Hawaiian culture and values into the visitor industry and runs the Kuhikuhi directory.",
+  "website": "http://www.nahha.com",
+  "address": "2201 Kalakaua Ave",
+  "city": "Honolulu",
+  "state": "HI",
+  "zip": "96815",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Native Hawaiian Hospitality Association",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-nbns8"
+   },
+   {
+    "title": "Native Hawaiian Hospitality Association website",
+    "url": "http://www.nahha.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.8298,
+   21.28
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "waiwai-collective",
+  "name": "Waiwai Collective",
+  "category": "nonprofit",
+  "subcategory": "Native Hawaiian entrepreneur collective",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Waiwai Collective",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-6p689"
+  },
+  "description": "Group of Native Hawaiian entrepreneurs running vendor markets, events and resources for each other.",
+  "website": "0",
+  "city": "Honolulu",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Waiwai Collective",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-6p689"
+   },
+   {
+    "title": "Waiwai Collective website",
+    "url": "0"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.8557,
+   21.3045
+  ],
+  "lonlatPrecision": "town"
+ }
+]

@@ -1,0 +1,61 @@
+{
+  "id": "cession-1876-09-26-arapaho-northern-cheyenne-sioux",
+  "name": "Manypenny Agreement of 1876 with the Sioux, Northern Cheyenne and Arapaho, enacted by the Act of February 28, 1877 (Black Hills cession)",
+  "aka": ["Agreement with the Sioux, Arapaho and Northern Cheyenne, 1876", "Manypenny Commission agreement", "Black Hills Act"],
+  "signed": "1876-09-26",
+  "ratified": "1877-02-28",
+  "citation": "19 Stat. 254",
+  "textUrl": "https://treaties.okstate.edu/treaties/agreement-with-the-sioux-arapaho-and-northern-cheyenne-1876-22294",
+  "nations": [
+    "Lakota, Dakota and Nakota (Oceti Sakowin) of the Great Sioux Reservation",
+    "Tsétsêhéstâhese (Northern Cheyenne)",
+    "Hinono'ei (Northern Arapaho)"
+  ],
+  "promises": [
+    "The nations were to give up the Black Hills portion of the Great Sioux Reservation and their hunting rights in the unceded territory of the 1868 Fort Laramie treaty.",
+    "In return the United States would provide subsistence rations until the people were able to support themselves.",
+    "The reservation boundary was redrawn, adding some 900,000 acres to the north while removing nearly everything between the 103rd and 104th meridians, including the Black Hills (as the Supreme Court described the 1877 Act)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1877-02-28",
+      "what": "Congress enacted the 1876 'agreement' into law although it had been signed by only about 10% of adult Sioux men, not the three-fourths that Article 12 of the 1868 Fort Laramie treaty required for any cession. The Supreme Court said the Act had the effect of abrogating the Fort Laramie treaty.",
+      "whoFoundIt": "Act of February 28, 1877, 19 Stat. 254, as described in United States v. Sioux Nation of Indians, 448 U.S. 371 (1980)",
+      "source": { "title": "United States v. Sioux Nation of Indians, 448 U.S. 371 (1980)", "url": "https://www.law.cornell.edu/supremecourt/text/448/371", "publisher": "Legal Information Institute, Cornell Law School" },
+      "quote": "the commission ignored the stipulation of the Fort Laramie Treaty"
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1980-06-30",
+      "what": "The Supreme Court held that the 1877 Act was a taking of the Black Hills that required just compensation, and affirmed the Court of Claims award of $17.1 million plus interest from 1877. It upheld the finding that rations were not a fair equivalent for the land.",
+      "whoFoundIt": "United States v. Sioux Nation of Indians, 448 U.S. 371 (1980)",
+      "source": { "title": "United States v. Sioux Nation of Indians, 448 U.S. 371 (1980)", "url": "https://www.law.cornell.edu/supremecourt/text/448/371", "publisher": "Legal Information Institute, Cornell Law School" }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "2023-06-28",
+      "what": "The Oglala Sioux Tribe's president said the Black Hills are not for sale, and the Sioux nations continue to refuse the award and ask for the land.",
+      "whoFoundIt": "Oglala Sioux Tribe President Frank Star Comes Out, as reported by the Christian Science Monitor",
+      "source": { "title": "When $1 billion isn't enough. Why the Sioux won't put a price on land.", "url": "https://www.csmonitor.com/USA/Society/2023/0628/When-1-billion-isn-t-enough.-Why-the-Sioux-won-t-put-a-price-on-land", "publisher": "Christian Science Monitor" }
+    }
+  ],
+  "landTaken": "The Black Hills, which the Supreme Court described as an area of well over 7 million acres, and the hunting rights in the unceded territory (448 U.S. 371).",
+  "compensation": "Rations only at the time. The Court of Claims awarded $17.1 million plus 5% simple interest from 1877, affirmed by the Supreme Court in 1980; the Sioux nations have refused it (448 U.S. 371; Christian Science Monitor, 2023).",
+  "today": "The award remains unaccepted and held in trust; it was reported in 2023 to exceed $1 billion (Christian Science Monitor, 2023-06-28). The same events are recorded under the 1868 treaty in kappler-1006.",
+  "nationVoice": [
+    { "nation": "Oglala Sioux Tribe", "summary": "Its president said in 2023 that the Black Hills are not for sale.", "url": "https://www.csmonitor.com/USA/Society/2023/0628/When-1-billion-isn-t-enough.-Why-the-Sioux-won-t-put-a-price-on-land" }
+  ],
+  "sources": [
+    { "title": "Agreement with the Sioux, Arapaho and Northern Cheyenne, 1876", "url": "https://treaties.okstate.edu/treaties/agreement-with-the-sioux-arapaho-and-northern-cheyenne-1876-22294", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
+    { "title": "United States v. Sioux Nation of Indians, 448 U.S. 371 (1980)", "url": "https://www.law.cornell.edu/supremecourt/text/448/371", "publisher": "Legal Information Institute, Cornell Law School" },
+    { "title": "When $1 billion isn't enough. Why the Sioux won't put a price on land.", "url": "https://www.csmonitor.com/USA/Society/2023/0628/When-1-billion-isn-t-enough.-Why-the-Sioux-won-t-put-a-price-on-land", "publisher": "Christian Science Monitor" }
+  ],
+  "openQuestions": [
+    "The Northern Cheyenne and Arapaho share in this cession (their hunting rights under the 1868 treaties) has no finding recorded here.",
+    "The Christian Science Monitor article was opened on 2026-11-07 and quotes President Star Comes Out directly."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

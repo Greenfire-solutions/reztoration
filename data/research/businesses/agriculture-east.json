@@ -1,0 +1,35 @@
+[
+ {
+  "id": "passamaquoddy-wild-blueberry-company",
+  "name": "Passamaquoddy Wild Blueberry Company",
+  "category": "agriculture",
+  "subcategory": "wild blueberries, fresh, frozen and freeze-dried",
+  "nation": "Passamaquoddy Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Passamaquoddy Wild Blueberry Co.: grown and harvested in Maine by the Passamaquoddy Tribe",
+   "url": "https://www.pquoddyberries.com/"
+  },
+  "description": "The tribe's wild blueberry farm on about 2,000 acres of barrens in Washington County, selling its own label of Maine wild blueberries.",
+  "website": "https://www.pquoddyberries.com/",
+  "city": "Columbia Falls",
+  "state": "ME",
+  "sources": [
+   {
+    "title": "Passamaquoddy Wild Blueberry Co.",
+    "url": "https://www.pquoddyberries.com/"
+   },
+   {
+    "title": "Maine Governor proclamation naming the company owned and operated by the Passamaquoddy Tribe",
+    "url": "https://www.maine.gov/governor/mills/node/3965"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -67.7274,
+   44.6538
+  ],
+  "lonlatPrecision": "town"
+ }
+]

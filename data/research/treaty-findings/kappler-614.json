@@ -1,0 +1,101 @@
+{
+  "id": "kappler-614",
+  "name": "Treaty with the Umpqua-Cow Creek Band, 1853",
+  "aka": [
+    "Cow Creek Treaty of September 19, 1853"
+  ],
+  "signed": "1853-09-19",
+  "ratified": "1854-04-12",
+  "proclaimed": "1855-02-05",
+  "citation": "10 Stat. 1027",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-umpqua-cow-creek-band-1853-0606",
+  "nations": [
+    "Cow Creek Band of Umpqua Tribe of Indians"
+  ],
+  "promises": [
+    "Article 1: the band ceded its lands in the Umpqua Valley of south-western Oregon.",
+    "Article 2: a tract on Cow Creek was to be an Indian reserve until the President selected a permanent home for the band, with buildings and improvements there of equal value.",
+    "Article 3: $12,000 in all: $1,000 in goods by October 1, 1854 and $11,000 in twenty yearly instalments of $550 in blankets, clothing, provisions, stock or farm tools.",
+    "Article 4: two dwelling-houses and a five-acre field fenced, ploughed and seeded, at United States expense."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1954-08-13",
+      "what": "The Western Oregon Indian Termination Act listed the Cow Creek by name among the tribes whose federal trust relationship and federal services as Indians were to be terminated. Congress acted without the band's consent; in 1982 it restored the rights under any federal treaty 'which may have been diminished or lost' under the 1954 Act.",
+      "whoFoundIt": "Act of August 13, 1954, 68 Stat. 724; Cow Creek Band of Umpqua Tribe of Indians Recognition Act, Public Law 97-391 (1982)",
+      "source": {
+        "title": "Act of August 13, 1954, Public Law 588, ch. 733, 68 Stat. 724 (Western Oregon Indian Termination Act)",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg724.pdf",
+        "publisher": "U.S. Government Publishing Office, govinfo"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "what": "The Cow Creek Band says it never received the $12,000 the treaty promised, about 2.3 cents an acre when settlers paid the government $1.25 an acre, and never received the reservation the treaty promised.",
+      "whoFoundIt": "Cow Creek Band of Umpqua Tribe of Indians, tribal history pages",
+      "source": {
+        "title": "Modern History & Today",
+        "url": "https://www.cowcreek-nsn.gov/tribal-story/modern-history-today/",
+        "publisher": "Cow Creek Band of Umpqua Tribe of Indians"
+      },
+      "quote": "Our Tribe never received the reservation our Treaty promised."
+    },
+    {
+      "kind": "litigation",
+      "date": "1984",
+      "what": "After Congress allowed the band's land claim in 1980, the claim was settled in the Court of Claims for $1.5 million, which the band holds as an endowment, as the band reports. A settlement is not a finding.",
+      "whoFoundIt": "Cow Creek Band of Umpqua Tribe of Indians, 'Modern History & Today'",
+      "source": {
+        "title": "Modern History & Today",
+        "url": "https://www.cowcreek-nsn.gov/tribal-story/modern-history-today/",
+        "publisher": "Cow Creek Band of Umpqua Tribe of Indians"
+      }
+    }
+  ],
+  "landTaken": "More than 800 square miles of south-western Oregon, as the band states (Cow Creek tribal history).",
+  "compensation": "The treaty promised $12,000; the band says it was not received. A $1.5 million settlement was reached in 1984, according to the band.",
+  "today": "Congress restored federal recognition on December 29, 1982 (Public Law 97-391). The band says it is buying back land in its homeland.",
+  "nationVoice": [
+    {
+      "nation": "Cow Creek Band of Umpqua Tribe of Indians",
+      "summary": "Says it became landless under the treaty, never received the promised reservation or payment, was ignored for nearly a century and then terminated, and won back recognition in 1982.",
+      "url": "https://www.cowcreek-nsn.gov/tribal-story/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Umpqua-Cow Creek Band, 1853 (Kappler, vol. 2, p. 606)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-umpqua-cow-creek-band-1853-0606",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Act of August 13, 1954, Public Law 588, ch. 733, 68 Stat. 724 (Western Oregon Indian Termination Act)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg724.pdf",
+      "publisher": "U.S. Government Publishing Office, govinfo"
+    },
+    {
+      "title": "Cow Creek Band of Umpqua Tribe of Indians Recognition Act, Public Law 97-391, 96 Stat. 1960 (1982)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-96/pdf/STATUTE-96-Pg1960.pdf",
+      "publisher": "U.S. Government Publishing Office, govinfo"
+    },
+    {
+      "title": "Modern History & Today",
+      "url": "https://www.cowcreek-nsn.gov/tribal-story/modern-history-today/",
+      "publisher": "Cow Creek Band of Umpqua Tribe of Indians"
+    },
+    {
+      "title": "Tribal Story",
+      "url": "https://www.cowcreek-nsn.gov/tribal-story/",
+      "publisher": "Cow Creek Band of Umpqua Tribe of Indians"
+    }
+  ],
+  "openQuestions": [
+    "No court or Claims Commission finding on the 1853 payment or the never-selected reservation was found; the 1984 Court of Claims settlement record itself was not opened, and its amount comes from the band.",
+    "The Rogue River Tribe v. United States litigation in the Court of Claims (No. 45231, 1946 and 1950) also named the Cow Creek band; its outcome could not be read because the opinion is behind a paywall.",
+    "Whether the Termination Act counts as a breach of this treaty in law is a judgement: it ended the federal relationship the treaty created, and Congress's 1982 Act restored treaty rights lost under it."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,132 @@
+{
+  "id": "kappler-602",
+  "name": "Treaty of Fort Laramie (1851)",
+  "aka": [
+    "Horse Creek Treaty",
+    "Fort Laramie Treaty with Sioux, etc., 1851"
+  ],
+  "signed": "1851-09-17",
+  "citation": "11 Stat. 749",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-of-fort-laramie-with-sioux-etc-1851-0594",
+  "nations": [
+    "Lakota, Dakota and Nakota (Sioux)",
+    "Tsétsêhéstâhese (Cheyenne)",
+    "Hinono'ei (Arapaho)",
+    "Apsáalooke (Crow)",
+    "Nakoda (Assiniboine)",
+    "Hidatsa (Gros Ventre of the Missouri)",
+    "Mandan",
+    "Sahnish (Arikara)"
+  ],
+  "promises": [
+    "Article 3: the United States bound itself to protect the signing nations against all depredations by United States citizens.",
+    "Article 5 recognised defined territories for each nation, without the nations abandoning claims to other lands or the privilege of hunting, fishing and passing over any of the tracts.",
+    "Article 7: $50,000 a year for fifty years in provisions, goods, animals and tools, distributed by population. The Senate cut this to ten years (with up to five more at the President's discretion), subject to the nations' acceptance.",
+    "Article 2: in return, the nations recognised the right of the United States to build roads and military posts in their territories."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1930-12-01",
+      "what": "The Court of Claims awarded the Mandan, Hidatsa and Arikara $4,923,093.47 as compensation for 9,846,186.93 acres of the territory this treaty recognised as theirs, measured as the land's value when the United States took it. The Indian Claims Commission later recorded that the United States paid that judgment, without interest for the delay.",
+      "whoFoundIt": "Court of Claims, Fort Berthold Indians v. United States, 71 Ct. Cl. 308 (decided December 1, 1930), as recorded by the Indian Claims Commission in Docket 350 (1955)",
+      "source": {
+        "title": "Three Affiliated Tribes of the Fort Berthold Reservation v. United States, Docket 350, Opinion of the Commission (March 24, 1955), 3 Ind. Cl. Comm. 444",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/447",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "executive-action",
+      "date": "1880-07-13",
+      "what": "After an executive order of April 12, 1870 set aside a reservation for the three tribes, the executive order of July 13, 1880 restored Royce Area 620, part of their 1851 territory, to the public domain. The Commission notes that the 1866 agreement with the tribes was never ratified by the Senate.",
+      "whoFoundIt": "Executive orders of April 12, 1870 and July 13, 1880 (1 Kappler 882-883), as set out by the Indian Claims Commission, Docket 350-A, Findings of Fact 3 (1968)",
+      "source": {
+        "title": "Three Affiliated Tribes of the Fort Berthold Reservation v. United States, Docket 350-A, Findings of Fact (October 29, 1968), 20 Ind. Cl. Comm. 1",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2765",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1980-10-09",
+      "what": "Congress let the Three Affiliated Tribes (Mandan, Hidatsa and Arikara) sue for the taking, in violation of the Fifth Amendment, of the 9,846,186.93 acres defined as their territory in this treaty, land the Court of Claims had valued in 1930 at an average of 50 cents an acre, $4,923,093.47.",
+      "whoFoundIt": "Public Law 96-404, 94 Stat. 1711, referring to Fort Berthold Indians v. United States, 71 Ct. Cl. 308 (1930)",
+      "source": {
+        "title": "Public Law 96-404, 94 Stat. 1711 (October 9, 1980)",
+        "url": "https://www.congress.gov/96/statute/STATUTE-94/STATUTE-94-Pg1711.pdf",
+        "publisher": "Library of Congress, Congress.gov"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "what": "The MHA Nation states that the more than 12 million acres the 1851 Fort Laramie Treaty recognized as Mandan, Hidatsa and Arikara land were reduced to less than 3 million acres by later executive orders, federal acts and policies.",
+      "whoFoundIt": "Mandan, Hidatsa and Arikara Nation, Treaties and Land Loss section of its history page",
+      "source": {
+        "title": "MHA Nation History",
+        "url": "https://www.mhanation.com/history/",
+        "publisher": "Mandan, Hidatsa and Arikara Nation"
+      }
+    }
+  ],
+  "landTaken": "For the Three Affiliated Tribes (Mandan, Hidatsa and Arikara): 9,846,186.93 acres of their 1851 territory, for which the Court of Claims awarded compensation in 1930 (as recorded by the Indian Claims Commission, 1955, and Public Law 96-404). Not settled here for the other signatory nations.",
+  "compensation": "Court of Claims judgment of $4,923,093.47 for the Three Affiliated Tribes' 1851 territory (71 Ct. Cl. 308, 1930), about 50 cents an acre; the Indian Claims Commission recorded in 1955 that the United States had paid it at the land's value when taken, with no interest for the delay. The Commission held the interest claim barred as already decided. Congress in 1980 (Public Law 96-404) let the tribes sue again for damages for that delay; the outcome of that suit was not located.",
+  "today": "Not researched. The Oglala Sioux Tribe and Standing Rock Sioux Tribe asked in 2023 for nation-to-nation consultation with the 1851 and 1868 treaty signatory tribes (see kappler-1006).",
+  "nationVoice": [
+    {
+      "nation": "Mandan, Hidatsa and Arikara Nation (Three Affiliated Tribes)",
+      "summary": "The Nation's history page says the 1851 Fort Laramie Treaty recognized more than 12 million acres as theirs, and that later treaties, executive orders and federal acts cut this to under 3 million acres, a record of great loss and of the Tribes' resilience.",
+      "url": "https://www.mhanation.com/history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty of Fort Laramie with Sioux, etc., 1851 (Kappler, vol. 2, p. 594)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-of-fort-laramie-with-sioux-etc-1851-0594",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Public Law 96-404, 94 Stat. 1711 (October 9, 1980)",
+      "url": "https://www.congress.gov/96/statute/STATUTE-94/STATUTE-94-Pg1711.pdf",
+      "publisher": "Library of Congress, Congress.gov"
+    },
+    {
+      "title": "Crow Tribe of Indians v. United States, Docket No. 54, Opinion of the Commission, June 11, 1954 (on the 1851 treaty's ratification and amendment)",
+      "url": "https://dc.library.okstate.edu/digital/collection/p17279coll10/id/380",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sioux Tribe v. United States, Docket No. 74, Opinion of the Commission, September 10, 1969 (Sioux territory under the 1851 treaty)",
+      "url": "https://dc.library.okstate.edu/digital/collection/p17279coll10/id/1686",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Three Affiliated Tribes of the Fort Berthold Reservation v. United States, Docket 350, Opinion of the Commission (March 24, 1955), 3 Ind. Cl. Comm. 444",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/447",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Three Affiliated Tribes of the Fort Berthold Reservation v. United States, Docket 350-A, Findings of Fact (October 29, 1968), 20 Ind. Cl. Comm. 1",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2765",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "MHA Nation History",
+      "url": "https://www.mhanation.com/history/",
+      "publisher": "Mandan, Hidatsa and Arikara Nation"
+    }
+  ],
+  "openQuestions": [
+    "The 1930 Court of Claims opinion itself (Fort Berthold Indians v. United States, 71 Ct. Cl. 308) was not opened; its award and the land it covered are taken from the Indian Claims Commission's 1955 opinion and Public Law 96-404. Free copies (Midpage, Justia) refused automated access in this pass.",
+    "The outcome of the suit Public Law 96-404 allowed (filed within one year of October 9, 1980, for damages for delay in payment) was still not located.",
+    "Royce's queue already holds this treaty as kappler-602, so no extra- file was made.",
+    "Kappler's note says the Senate ratified the treaty with an amendment cutting the annuity from fifty years to ten, that every nation except the Crow assented (the Indian Claims Commission records the Crow accepting on September 18, 1854), and that the treaty was never formally proclaimed. Whether the ten years of annuities were delivered in full was not researched.",
+    "The Indian Claims Commission determined the Sioux, Crow and other nations held recognised title under this treaty (Sioux Tribe v. United States, 1965 and 1969; Crow Tribe v. United States, 1954); those title decisions are not themselves findings of breach.",
+    "The Commission's 1958 award to the Crow for the 1868 cession of land recognised as theirs by this treaty is recorded under kappler-1016.",
+    "No account of this treaty by a signatory nation was located in this pass.",
+    "The ICC's 1968 findings also record a Fort Buford reservation of 98,645.67 acres set up by executive order on August 18, 1868 inside the tribes' 1851 territory."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

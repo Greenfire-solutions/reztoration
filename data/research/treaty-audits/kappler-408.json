@@ -1,0 +1,21 @@
+{
+  "id": "kappler-408",
+  "auditedAt": "2026-11-07",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty date, citation and proclamation (1833-09-21, 7 Stat. 429, proclaimed 1834-04-12) against the OSU Kappler text, p. 400",
+    "Promises against Articles 2 to 7 and 9 of the OSU text",
+    "ICC Docket 11 Findings (OSU id 350), finding 14: 792,000 acres, $39,410.15 received, 4.9 cents an acre, value 75 cents an acre on September 21, 1833, grossly inadequate and unconscionable",
+    "ICC Docket 11 Opinion (OSU id 0): $594,000.00 value, $554,589.85 award for this cession, $1,179,058.40 total award less offsets, no interest because no taking in the constitutional sense"
+  ],
+  "changes": [
+    "Breach 'what': per-cession award $554,589.85 added as stated by the Commission",
+    "compensation: per-cession award added",
+    "Promise 3 reworded so the Article 7 condition covers Articles 3 to 6",
+    "openQuestions: removed the claim that the per-cession figure was only the researcher's arithmetic; added audit line"
+  ],
+  "unverifiable": [
+    "Final net award after offsets: the December 11, 1953 offsets opinion (OSU id 312) is heavily damaged OCR",
+    "131 Ct. Cl. 593 (1955) not opened"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "kappler-772",
+  "name": "Treaty with the Pawnee, 1857 (Treaty of Table Creek)",
+  "aka": [
+    "Table Creek Treaty"
+  ],
+  "signed": "1857-09-24",
+  "ratified": "1858-03-31",
+  "proclaimed": "1858-05-26",
+  "citation": "11 Stat. 729",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-pawnee-1857-0764",
+  "nations": [
+    "Chaui (Grand Pawnee)",
+    "Kitkehahki (Republican Pawnee)",
+    "Pitahauerat (Tappage Pawnee)",
+    "Skidi (Loup or Wolf Pawnee)"
+  ],
+  "promises": [
+    "A reservation thirty miles long by fifteen miles wide on both banks of the Loup Fork kept by the Pawnee out of their cession north of the Platte (Article 1).",
+    "$40,000 a year for five years, then a perpetual annuity of $30,000 a year, at least half in goods (Article 2).",
+    "Two manual-labour schools with at least $5,000 a year each while the Pawnee complied (Article 3).",
+    "Protection of the Pawnee in possession of their new homes, with blacksmith, gunsmith and tinsmith shops, farming tools and stock worth $1,200 a year for ten years, a farmer, and a steam mill kept for ten years (Article 4)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1962-07-06",
+      "what": "The Indian Claims Commission found the 9,678,000 acres north of the Platte ceded by this treaty were worth $4,939,000 on September 24, 1857, credited the United States with consideration worth $2,144,281.20 (including $600,000 for the perpetual annuity), and held that consideration so grossly inadequate as to be unconscionable. The award for this cession was $2,794,718.80 (Claim IV).",
+      "whoFoundIt": "Indian Claims Commission, Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Additional Findings of Fact 109-140 (June 14, 1960), as amended by the Order Amending Findings of Fact (July 6, 1962), and Amended Conclusions of Law and Final Award (July 6, 1962)",
+      "source": {
+        "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Order Amending Findings of Fact (July 6, 1962)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/160",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "so grossly inadequate an amount for Lands"
+    }
+  ],
+  "landTaken": "The parties stipulated the ceded area (Claim IV) contained 9,678,000 acres in central Nebraska north of the Platte, bounded on the east by the 1854 Omaha cession and on the west by the Sioux lands of the 1851 Fort Laramie treaty (Docket 10, finding 109 and Interlocutory Order of June 17, 1957).",
+  "compensation": "Consideration worth $2,144,281.20: $1,544,281.20 paid plus $600,000 credited as the value of the $30,000 perpetual annuity, which the Commission said the United States was still paying. Award for this cession $2,794,718.80, within the Pawnee final award of $7,315,985.70 (July 6, 1962).",
+  "today": "The claimant was the Pawnee Indian Tribe of Oklahoma, consisting of the four confederated bands. The later sale of the Loup Fork reservation kept by this treaty is a separate queue entry (cession-1876-04-10-pawnee).",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Pawnee, 1857 (Kappler, vol. 2, p. 764)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-pawnee-1857-0764",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Interlocutory Order (June 17, 1957)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/24",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Additional Findings of Fact (June 14, 1960)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/404",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Order Amending Findings of Fact (July 6, 1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/160",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Amended Conclusions of Law and Final Award (July 6, 1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/293",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The OCR of the final award garbles the Claim IV figure (it reads like $2,79?,718.82); $2,794,718.80 is the $4,939,000 value less the $2,144,281.20 credit, and with the other claims it adds exactly to the stated pre-offset total of $7,325,985.70. Check the printed volume (10 Ind. Cl. Comm. 410).",
+    "Whether the Article 4 promise to protect the Pawnee in their new homes was kept (Sioux raids on the Loup Fork reservation are widely described) has no finding in what was read; a lead for a deeper pass.",
+    "The Pawnee Nation's website was locked to automated readers in this pass."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

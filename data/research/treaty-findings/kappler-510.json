@@ -1,0 +1,95 @@
+{
+  "id": "kappler-510",
+  "name": "Treaty with the New York Indians, 1838 (Treaty of Buffalo Creek)",
+  "aka": [
+    "Second Treaty of Buffalo Creek",
+    "Buffalo Creek Treaty of 1838"
+  ],
+  "signed": "1838-01-15",
+  "proclaimed": "1840-04-04",
+  "citation": "7 Stat. 550",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-new-york-indians-1838-0502",
+  "nations": [
+    "Seneca",
+    "Tonawanda Band of Seneca",
+    "Onondaga",
+    "Cayuga",
+    "Tuscarora",
+    "Oneida",
+    "St. Regis Mohawk (Akwesasne)",
+    "Stockbridge-Munsee",
+    "Brothertown"
+  ],
+  "promises": [
+    "In return for the New York Indians' lands at Green Bay, Wisconsin (except one tract), the United States would set apart 1,824,000 acres west of Missouri (in what became Kansas) as a permanent home for all the New York Indians (Articles 1 and 2).",
+    "The United States would pay for removal, subsistence for the first year after removal and related costs (Article 15, as described by the Supreme Court in 1898).",
+    "Special articles recognised and approved a deed by which the Seneca chiefs sold their four remaining New York reservations (Buffalo Creek, Tonawanda, Cattaraugus and Allegany) to Thomas Ludlow Ogden and Joseph Fellows for $202,000, at a treaty held under US authority with a federal commissioner present.",
+    "Separate articles covered the Tuscarora, who conveyed 5,000 acres to the United States in trust and had a deed to Ogden and Fellows approved."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1898-04-11",
+      "what": "The Supreme Court found that after the treaty the United States surveyed the Kansas lands promised as a permanent home, made them public domain and sold them, keeping the proceeds. It rejected the argument that the Indians forfeited the land by not removing, reversed the Court of Claims, and ordered judgment for the net amount the government received for the Kansas lands.",
+      "whoFoundIt": "New York Indians v. United States, 170 U.S. 1 (1898)",
+      "source": {
+        "title": "New York Indians v. United States, 170 U.S. 1 (1898)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/170/1",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
+      "quote": "surveyed and made a part of the public domain, and sold or otherwise disposed of by the United States, which received the consideration therefor"
+    },
+    {
+      "kind": "nation-statement",
+      "date": "2023-05-26",
+      "what": "The Seneca Nation's archive describes the 1838 treaty as fraudulently executed and notes the Tonawanda Senecas refused to take part in the 1838 dealings.",
+      "whoFoundIt": "Seneca Nation Archives / Onöhsagwë:de' Cultural Center, SNI Official Newsletter",
+      "source": {
+        "title": "Seneca Nation Chronology for May (SNI Official Newsletter, May 26, 2023)",
+        "url": "https://sninews.org/2023/05/26/seneca-nation-chronology-for-may/",
+        "publisher": "Seneca Nation of Indians"
+      },
+      "quote": "Considered a compromise to the fraudulently executed Buffalo Creek Treaty of 1838"
+    }
+  ],
+  "landTaken": "The Kansas tract promised by Article 2 contained 1,824,000 acres (New York Indians v. United States, 1898).",
+  "compensation": "The 1898 Supreme Court ordered judgment for the net amount the United States actually received for the Kansas lands, without interest, less the share settled with the Tonawanda Band (who had relinquished their Kansas interest for $256,000 under the 1857 treaty) and other deductions. The final dollar figure of that judgment was not confirmed here.",
+  "today": "The Seneca deed in this treaty was replaced by the 1842 compromise, under which the Seneca Nation kept Allegany and Cattaraugus and lost Buffalo Creek and Tonawanda; the Tonawanda Band later repurchased part of its land under the 1857 treaty.",
+  "nationVoice": [
+    {
+      "nation": "Seneca Nation of Indians",
+      "summary": "The Nation's archive calls the 1838 Buffalo Creek treaty fraudulently executed.",
+      "url": "https://sninews.org/2023/05/26/seneca-nation-chronology-for-may/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the New York Indians, 1838 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-new-york-indians-1838-0502",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "New York Indians v. United States, 170 U.S. 1 (1898)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/170/1",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Treaty with the Seneca, 1842 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-1842-0537",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Seneca Nation Chronology for May",
+      "url": "https://sninews.org/2023/05/26/seneca-nation-chronology-for-may/",
+      "publisher": "Seneca Nation of Indians"
+    }
+  ],
+  "openQuestions": [
+    "The final amount paid under the 1898 judgment, and when, was not confirmed.",
+    "The Indian Claims Commission did not separately value the 1838 Seneca deed: in Dockets 342-A and 368-A the Court of Claims and Commission treated the 1842 compromise, not 1838, as the operative sale (Commission, 1972).",
+    "The circumstances of signing (bribery and alcohol alleged by contemporaries and the Society of Friends, and the Senate's amendment and re-submission before proclamation) were not documented from a primary source in this pass."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

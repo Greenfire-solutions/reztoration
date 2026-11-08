@@ -1,0 +1,928 @@
+[
+ {
+  "id": "1-farm-poultry",
+  "name": "1 Farm Poultry",
+  "category": "agriculture",
+  "subcategory": "organic pasture poultry farm",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Certified organic chicken raised in small batches in northeast Oklahoma, sold direct, wholesale and to tribes.",
+  "website": "https://1farmpoultry.com/",
+  "city": "Salina",
+  "state": "OK",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "1 Farm Poultry website",
+    "url": "https://1farmpoultry.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -95.1533,
+   36.2929
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "apache-coffee",
+  "name": "Apache Coffee",
+  "category": "food",
+  "subcategory": "coffee roaster",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Coffee roaster whose sales support the Apache Knife Foundation, an education and charity fund for the Chiricahua Nation.",
+  "website": "https://apachecoffee.com/",
+  "city": "Moreno Valley",
+  "state": "CA",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Apache Coffee website",
+    "url": "https://apachecoffee.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -117.2306,
+   33.9375
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "bare-beans-foods",
+  "name": "Bare Beans Foods",
+  "category": "food",
+  "subcategory": "ready-to-eat beans",
+  "nation": "Turtle Mountain Band of Chippewa Indians",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Cooked, ready-to-use beans grown on the family farm in Idaho, with a pound donated for every pound sold online.",
+  "website": "http://www.barebeans.com",
+  "city": "Rupert",
+  "state": "ID",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Bare Beans Foods website",
+    "url": "http://www.barebeans.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -113.6772,
+   42.6191
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "camins-2-dreams",
+  "name": "Camins 2 Dreams",
+  "category": "food",
+  "subcategory": "winery",
+  "nation": "Santa Ynez Band of Chumash Indians",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Small Sta. Rita Hills winery co-founded by winemaker Tara Gomez, making natural-yeast wines.",
+  "website": "https://camins2dreams.com/",
+  "city": "Lompoc",
+  "state": "CA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Camins 2 Dreams website",
+    "url": "https://camins2dreams.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -120.4579,
+   34.6392
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "cotton-blossom-gardens",
+  "name": "Cotton Blossom Gardens",
+  "category": "agriculture",
+  "subcategory": "family garden, salsa and dried snacks",
+  "nation": "Pueblo of Isleta",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Garden and orchard at Isleta Pueblo growing vegetables and fruit and turning the harvest into salsa and dried snacks.",
+  "website": "http://www.cottonblossomgardens.com/",
+  "city": "Isleta",
+  "state": "NM",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Cotton Blossom Gardens website",
+    "url": "http://www.cottonblossomgardens.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -106.693,
+   34.9078
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "dx-beef",
+  "name": "DX Beef",
+  "category": "agriculture",
+  "subcategory": "grass-fed beef ranch",
+  "nation": "Cheyenne River Sioux Tribe (Lakota)",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Lakota family ranch on the Cheyenne River Reservation selling regeneratively raised grass-fed beef.",
+  "website": "https://dxbeef.com/",
+  "city": "Gettysburg",
+  "state": "SD",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "DX Beef website",
+    "url": "https://dxbeef.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -99.9557,
+   45.0116
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "golden-eagle-farm",
+  "name": "Golden Eagle Farm",
+  "category": "agriculture",
+  "subcategory": "tribal farm",
+  "nation": "Mesa Grande Band of Mission Indians",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Farm in the hills east of Ramona run by the Mesa Grande Business Development Corporation for the tribe.",
+  "website": "https://thegoldeneaglefarm.com/",
+  "city": "Ramona",
+  "state": "CA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Golden Eagle Farm website",
+    "url": "https://thegoldeneaglefarm.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -116.8681,
+   33.0417
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "gray-fox-farm",
+  "name": "Gray Fox Farm",
+  "category": "agriculture",
+  "subcategory": "berries, honey and preserves",
+  "nation": "Confederated Tribes of Siletz Indians",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Ten-acre no-till farm growing berries and orchard fruit and making honey, jams and sauces.",
+  "website": "https://www.grayfoxfarmwa.com/",
+  "city": "Chimacum",
+  "state": "WA",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Gray Fox Farm website",
+    "url": "https://www.grayfoxfarmwa.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -122.7705,
+   48.0147
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "honey-lodge",
+  "name": "Honey Lodge",
+  "category": "agriculture",
+  "subcategory": "raw honey and beeswax, youth enterprise",
+  "nation": "Lakota",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Lakota youth-led enterprise of Lakota Youth Development producing raw honey, candles and lip balm.",
+  "website": "https://lakotahoneylodge.myshopify.com/",
+  "city": "Herrick",
+  "state": "SD",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Honey Lodge website",
+    "url": "https://lakotahoneylodge.myshopify.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -99.1879,
+   43.115
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "ioway-bee-farm",
+  "name": "Ioway Bee Farm",
+  "category": "agriculture",
+  "subcategory": "honey and beeswax products",
+  "nation": "Iowa Tribe of Kansas and Nebraska",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Tribal bee farm making raw and creamed honey, lotion bars and beeswax candles.",
+  "website": "https://iowaybeefarm.com/",
+  "city": "White Cloud",
+  "state": "KS",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Ioway Bee Farm website",
+    "url": "https://iowaybeefarm.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -95.2959,
+   39.9777
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "little-wolf-foods",
+  "name": "Little Wolf Foods",
+  "category": "food",
+  "subcategory": "beef products and BBQ seasonings",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Native-owned maker of premium beef products, steak seasonings and sauces founded by butcher Tim Vlcek.",
+  "website": "https://littlewolffoods.com/",
+  "city": "La Grange Park",
+  "state": "IL",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Little Wolf Foods website",
+    "url": "https://littlewolffoods.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -87.8677,
+   41.8334
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "lummi-seafood-market",
+  "name": "Lummi Seafood Market",
+  "category": "food",
+  "subcategory": "seafood market",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Seafood market selling fresh, frozen, smoked and canned wild fish and shellfish, giving local tribal fishers a place to sell their catch.",
+  "website": "https://www.lummiseafoodmarket.com/",
+  "address": "4920 Rural Ave",
+  "city": "Ferndale",
+  "state": "WA",
+  "zip": "98248",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Lummi Seafood Market website",
+    "url": "https://www.lummiseafoodmarket.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -122.5546,
+   48.8201
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "moreau-river-honey-co",
+  "name": "Moreau River Honey Co.",
+  "category": "agriculture",
+  "subcategory": "raw honey",
+  "nation": "Cheyenne River Sioux Tribe",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Honey company on the Cheyenne River Reservation selling raw and creamed honey and planting for pollinators.",
+  "website": "https://www.moreauriverhoneyco.com/",
+  "city": "Mobridge",
+  "state": "SD",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Moreau River Honey Co. website",
+    "url": "https://www.moreauriverhoneyco.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -100.4279,
+   45.5372
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "native-american-enterprises",
+  "name": "Native American Enterprises",
+  "category": "food",
+  "subcategory": "meat processing and packing",
+  "nation": "Lower Brule Sioux Tribe",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Meat processor and packer offering custom fresh and frozen beef, chicken and pork and private labelling.",
+  "website": "https://www.nativeamericane.com/",
+  "city": "Wichita",
+  "state": "KS",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Native American Enterprises website",
+    "url": "https://www.nativeamericane.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -97.3375,
+   37.6922
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "native-brews-tap-and-grill",
+  "name": "Native-Brews Tap & Grill",
+  "category": "food",
+  "subcategory": "craft brewery and grill",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Brewpub in Cherokee making craft beer and serving a grill menu, with a second taproom in Bryson City.",
+  "website": "https://native-brews.com/",
+  "address": "1897 Tsali Blvd",
+  "city": "Cherokee",
+  "state": "NC",
+  "zip": "28719",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Native-Brews Tap & Grill website",
+    "url": "https://native-brews.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -83.3061,
+   35.5
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "native-ground-coffee",
+  "name": "Native Ground Coffee",
+  "category": "food",
+  "subcategory": "small-batch coffee roaster",
+  "nation": "Salt River Pima-Maricopa Indian Community",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Small-batch coffee and tea company rooted in the Salt River Pima-Maricopa Indian Community.",
+  "website": "https://www.nativegroundcoffee.com/",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Native Ground Coffee website",
+    "url": "https://www.nativegroundcoffee.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.926,
+   33.4942
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "osage-nation-harvest-land",
+  "name": "Osage Nation Harvest Land",
+  "category": "agriculture",
+  "subcategory": "tribal farm, greenhouse and aquaponics",
+  "nation": "Osage Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Osage Nation working farm with a large greenhouse, aquaponics and food processing, selling produce and meat.",
+  "website": "https://harvest-land-osage-nation.myshopify.com/",
+  "city": "Pawhuska",
+  "state": "OK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Osage Nation Harvest Land website",
+    "url": "https://harvest-land-osage-nation.myshopify.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.3401,
+   36.6633
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "paskenta-mad-river-brewing",
+  "name": "Paskenta Mad River Brewing",
+  "category": "food",
+  "subcategory": "craft brewery and taproom",
+  "nation": "Paskenta Band of Nomlaki Indians",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Long-running Humboldt County craft brewery now owned by the Paskenta Band of Nomlaki Indians.",
+  "website": "http://www.madriverbrewing.com",
+  "address": "101 Taylor Way",
+  "city": "Blue Lake",
+  "state": "CA",
+  "zip": "95525",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Paskenta Mad River Brewing website",
+    "url": "http://www.madriverbrewing.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -123.992,
+   40.8787
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "pistol-creek-cattle",
+  "name": "Pistol Creek Cattle",
+  "category": "agriculture",
+  "subcategory": "beef cattle",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Mission Valley cattle operation selling local beef by the cut, quarter, half or whole.",
+  "website": "https://www.pistolcreekcattle.com/",
+  "city": "Ronan",
+  "state": "MT",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Pistol Creek Cattle website",
+    "url": "https://www.pistolcreekcattle.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -114.1015,
+   47.5288
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "quapaw-cattle-company",
+  "name": "Quapaw Cattle Company",
+  "category": "agriculture",
+  "subcategory": "tribal beef and bison",
+  "nation": "Quapaw Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Quapaw Nation cattle and bison operation supplying hormone-free beef and bison.",
+  "website": "https://quapawnation.com/511/Quapaw-Cattle-Company",
+  "city": "Quapaw",
+  "state": "OK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Quapaw Cattle Company website",
+    "url": "https://quapawnation.com/511/Quapaw-Cattle-Company"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -94.788,
+   36.9545
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "rincon-reservation-road-brewery",
+  "name": "Rincon Reservation Road Brewery",
+  "category": "food",
+  "subcategory": "tribal craft brewery",
+  "nation": "Rincon Band of Luiseño Indians",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "First tribally owned and operated brewery in Southern California, owned by the Rincon Band.",
+  "website": "https://3rbrewery.com/",
+  "address": "777 Harrah's Rincon Way",
+  "city": "Valley Center",
+  "state": "CA",
+  "zip": "92082",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Rincon Reservation Road Brewery website",
+    "url": "https://3rbrewery.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -117.0342,
+   33.2184
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "sacred-bev",
+  "name": "Sacred Bev",
+  "category": "food",
+  "subcategory": "sparkling botanical drinks",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Family-owned maker of sparkling drinks built on plant ingredients.",
+  "website": "http://www.sacredbev.com/",
+  "city": "Encinitas",
+  "state": "CA",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Sacred Bev website",
+    "url": "http://www.sacredbev.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -117.285,
+   33.0432
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "salmon-king-fisheries",
+  "name": "Salmon King Fisheries",
+  "category": "food",
+  "subcategory": "Columbia River salmon, smoked fish and catering",
+  "nation": "Confederated Tribes of Warm Springs",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Native woman-owned business selling tribal-caught Columbia River salmon, smoked and canned fish, and traditional salmon catering.",
+  "website": "https://salmonkingfisheries.com/",
+  "address": "3240 Walsey Lane",
+  "city": "Warm Springs",
+  "state": "OR",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Salmon King Fisheries website",
+    "url": "https://salmonkingfisheries.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -121.2491,
+   44.764
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "san-xavier-co-op-farm",
+  "name": "San Xavier Co-op Farm",
+  "category": "agriculture",
+  "subcategory": "community farm, traditional desert crops",
+  "nation": "Tohono O'odham Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Community farm run by Tohono Oodham Nation members growing tepary beans, Pima lima beans and other desert crops.",
+  "website": "http://sanxaviercoop.org/",
+  "address": "8100 S Oidak Wog",
+  "city": "Tucson",
+  "state": "AZ",
+  "zip": "85746",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "San Xavier Co-op Farm website",
+    "url": "http://sanxaviercoop.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.003,
+   32.1069
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "wahpepahs-kitchen",
+  "name": "Wahpepah's Kitchen",
+  "category": "food",
+  "subcategory": "Indigenous restaurant",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Chef Crystal Wahpepah's restaurant in Fruitvale cooking with Indigenous ingredients, with catering and packaged foods.",
+  "website": "https://wahpepahskitchen.com/",
+  "address": "3301 E 12th St",
+  "city": "Oakland",
+  "state": "CA",
+  "zip": "94601",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Wahpepah's Kitchen website",
+    "url": "https://wahpepahskitchen.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -122.225,
+   37.7762
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "yowela-farms",
+  "name": "Yowela Farms",
+  "category": "agriculture",
+  "subcategory": "Indigenous corn, wild rice and pasture meat",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Indigenous-owned farm growing heirloom corn and raising pasture beef and poultry, with hominy, corn mush and wild rice.",
+  "website": "https://yowelafarms.com/",
+  "city": "Stoughton",
+  "state": "WI",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Yowela Farms website",
+    "url": "https://yowelafarms.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -89.2179,
+   42.9167
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "catspring-yaupon",
+  "name": "CatSpring Yaupon",
+  "category": "food",
+  "subcategory": "yaupon tea",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Texas yaupon tea company selling roasted and loose-leaf yaupon, a naturally caffeinated native holly.",
+  "website": "https://catspringtea.com/",
+  "city": "Cat Spring",
+  "state": "TX",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "CatSpring Yaupon website",
+    "url": "https://catspringtea.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.3255,
+   29.8433
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "jacksons-double-j",
+  "name": "Jacksons Double J",
+  "category": "agriculture",
+  "subcategory": "Brangus cattle ranch",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+   "url": "https://www.indianagfoods.org/directory"
+  },
+  "description": "Registered Brangus cattle ranch in Benton County selling dry-aged beef and breeding bulls.",
+  "website": "http://www.doublejbrangus.com",
+  "city": "Bentonville",
+  "state": "AR",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Intertribal Agriculture Council, Made/Produced by American Indians trademark directory",
+    "url": "https://www.indianagfoods.org/directory"
+   },
+   {
+    "title": "Jacksons Double J website",
+    "url": "http://www.doublejbrangus.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -94.2088,
+   36.3729
+  ],
+  "lonlatPrecision": "town"
+ }
+]

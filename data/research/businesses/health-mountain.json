@@ -1,0 +1,35 @@
+[
+ {
+  "id": "marimn-health",
+  "name": "Marimn Health",
+  "category": "health",
+  "subcategory": "clinic: primary care, behavioral health and wellness",
+  "nation": "Coeur d'Alene Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Marimn Health, owned and operated by the Coeur d'Alene Tribe",
+   "url": "https://www.marimnhealth.org/"
+  },
+  "description": "The Coeur d'Alene Tribe's health and wellness center on the reservation, offering primary care, holistic healing and preventive care to tribal and local families.",
+  "website": "https://www.marimnhealth.org/",
+  "city": "Plummer",
+  "state": "ID",
+  "sources": [
+   {
+    "title": "Marimn Health",
+    "url": "https://www.marimnhealth.org/"
+   },
+   {
+    "title": "Coeur d'Alene Tribe",
+    "url": "https://www.cdatribe-nsn.gov/"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -116.8885,
+   47.3352
+  ],
+  "lonlatPrecision": "town"
+ }
+]

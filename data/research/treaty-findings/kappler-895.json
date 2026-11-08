@@ -1,0 +1,75 @@
+{
+  "id": "kappler-895",
+  "name": "Treaty with the Cheyenne and Arapaho, 1865 (Treaty of the Little Arkansas)",
+  "aka": ["Treaty of the Little Arkansas", "Little Arkansas Treaty"],
+  "signed": "1865-10-14",
+  "ratified": "1866-05-22",
+  "proclaimed": "1867-02-02",
+  "citation": "14 Stat. 703",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-cheyenne-and-arapaho-1865-0887",
+  "nations": [
+    "Tsétsêhéstâhese (Southern Cheyenne)",
+    "Hinono'ei (Southern Arapaho)"
+  ],
+  "promises": [
+    "Article 2 set apart a reservation between the Arkansas and Cimarron rivers for the nations' 'absolute and undisturbed use and occupation'. The Senate amended it so that the President, with the tribes' assent, would designate a reservation with no part in Kansas.",
+    "Article 3: until they moved to the reservation, the nations could live and range freely over the unsettled country between the Arkansas and Platte rivers.",
+    "Article 6: as reparation for the Sand Creek massacre of November 29, 1864, 320 acres to each of four named chiefs, 160 acres to each person widowed or orphaned there, and payment for property destroyed or taken by the troops.",
+    "Article 7: yearly spending for forty years of $20 a person before removal and $40 a person after it.",
+    "Article 4: compensation, as Congress judged just, for injury caused by any roads or military posts built on the reservation."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "government-admission",
+      "what": "The National Park Service, part of the Department of the Interior, states that in Article 6 the government effectively assumed responsibility for the Sand Creek massacre by committing to compensate those who lost property there, and that reparations to many other descendants have never been paid.",
+      "whoFoundIt": "National Park Service, 'Sand Creek Massacre: Legacies' timeline",
+      "source": { "title": "Sand Creek Massacre legacies", "url": "https://home.nps.gov/articles/000/sand_sandcreek_legacies.htm", "publisher": "National Park Service" },
+      "quote": "Reparations to many other descendants have never been paid."
+    },
+    {
+      "kind": "litigation",
+      "date": "2015-12-22",
+      "what": "Descendants of Sand Creek survivors sued for an accounting of the Article 6 reparations and the $39,050 Congress appropriated for them in 1866. The Tenth Circuit described the event as ignominious but affirmed dismissal because the United States had not waived its sovereign immunity; it did not decide whether the reparations were paid.",
+      "whoFoundIt": "Flute v. United States, No. 14-1405 (10th Cir. 2015)",
+      "source": { "title": "Flute v. United States (10th Cir. 2015)", "url": "https://caselaw.findlaw.com/court/us-10th-circuit/1721456.html", "publisher": "FindLaw" },
+      "quote": "This case arises out of an ignominious event in the history of this Nation."
+    },
+    {
+      "kind": "nation-statement",
+      "date": "2005-04-27",
+      "what": "Steve Brady, co-chair of the Northern Cheyenne Sand Creek Massacre Site Committee, told a House committee that Article 6 admits US responsibility and promises reparations, and that the Indian Claims Commission refused to hear it as a tribal claim, saying descendants would have to bring it.",
+      "whoFoundIt": "Testimony of Steve Brady, Northern Cheyenne Sand Creek Massacre Site Committee, House Committee on Resources",
+      "source": { "title": "Testimony of Steve Brady, April 27, 2005", "url": "https://naturalresources.house.gov/UploadedFiles/BradyTestimony04.27.05.pdf", "publisher": "U.S. House Committee on Natural Resources" }
+    },
+    {
+      "kind": "litigation",
+      "date": "1965-10-18",
+      "what": "The Southern Cheyenne and Arapaho land claims arising from this cession and those of 1861 and 1867 were settled by a $15,000,000 compromise in Dockets 329-A and 329-B, without a finding on whether the price paid was unconscionable.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 329-A and 329-B, 16 Ind. Cl. Comm. 162",
+      "source": { "title": "Cheyenne-Arapaho Tribes of Indians of Oklahoma v. United States, Dockets 329-A and 329-B, Opinion of the Commission (1965)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2123", "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions" }
+    }
+  ],
+  "landTaken": "By Article 2 the nations relinquished all claims outside the new reservation, including the country between the forks of the Platte, the Rocky Mountains and the Arkansas. The Indian Claims Commission valued the whole 1851 Cheyenne and Arapaho territory, 51,210,000 acres, at $23,500,000 as of October 14, 1865, the date the parties agreed the United States acquired it (16 Ind. Cl. Comm. 162).",
+  "compensation": "Congress appropriated $39,050 in 1866 for those who suffered at Sand Creek (as recited in Flute v. United States). The Southern Cheyenne and Arapaho accepted a $15,000,000 compromise of their land claims in 1965.",
+  "today": "The Article 2 reservation was never occupied: the ICC found the Senate amendment required a substitute reservation, which the Medicine Lodge treaty of 1867 provided, and that treaty in turn was replaced by the 1869 executive-order reservation in Oklahoma. As of the 2015 Flute ruling, no court had ordered an accounting of the Article 6 reparations.",
+  "nationVoice": [
+    { "nation": "Northern Cheyenne Sand Creek Massacre Site Committee", "summary": "Says Article 6 is the United States admitting responsibility for Sand Creek and promising reparations that the claims process then refused to hear as a tribal claim.", "url": "https://naturalresources.house.gov/UploadedFiles/BradyTestimony04.27.05.pdf" }
+  ],
+  "sources": [
+    { "title": "Treaty with the Cheyenne and Arapaho, 1865 (Kappler, vol. 2, p. 887)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-cheyenne-and-arapaho-1865-0887", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
+    { "title": "Sand Creek Massacre legacies", "url": "https://home.nps.gov/articles/000/sand_sandcreek_legacies.htm", "publisher": "National Park Service" },
+    { "title": "Flute v. United States (10th Cir. 2015)", "url": "https://caselaw.findlaw.com/court/us-10th-circuit/1721456.html", "publisher": "FindLaw" },
+    { "title": "Testimony of Steve Brady, April 27, 2005", "url": "https://naturalresources.house.gov/UploadedFiles/BradyTestimony04.27.05.pdf", "publisher": "U.S. House Committee on Natural Resources" },
+    { "title": "Cheyenne-Arapaho Tribes of Indians of Oklahoma v. United States, Dockets 329 and 348, Findings of Fact (1961)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/242", "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions" },
+    { "title": "Cheyenne-Arapaho Tribes of Indians of Oklahoma v. United States, Dockets 329-A and 329-B, Opinion of the Commission (1965)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2123", "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions" }
+  ],
+  "openQuestions": [
+    "Article 6 is itself a government admission that the massacre happened while the people were at peace and under promised protection. It is a promise made in this treaty, not a breach of it, so it is listed as a promise here; whether it is a breach of Article 4 of the 1861 treaty (kappler-815) is discussed in that file.",
+    "Whether the tribes gave the assent the Senate amendment to Article 2 called for was not found.",
+    "The Flute opinion's account that funds went partly to the tribes and that unspent money returned to surplus in 1872 is the plaintiffs' allegation, not a finding, and is left out of the breaches.",
+    "No Cheyenne and Arapaho Tribes (Oklahoma) page on this treaty was found."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

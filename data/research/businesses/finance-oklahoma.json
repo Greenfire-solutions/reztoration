@@ -1,0 +1,33 @@
+[
+ {
+  "id": "sovereign-bank",
+  "name": "Sovereign Bank",
+  "category": "finance",
+  "subcategory": "tribally owned bank (formerly First National Bank and Trust)",
+  "nation": "Citizen Potawatomi Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Citizen Potawatomi Nation: banking and finance, \"wholly owned by the Citizen Potawatomi Nation\"",
+   "url": "https://www.potawatomi.org/enterprises/finance/"
+  },
+  "description": "The largest tribally owned bank in the country, wholly owned by the Citizen Potawatomi Nation, with branches across Oklahoma.",
+  "website": "https://banksovereign.com/",
+  "address": "130 E MacArthur St",
+  "city": "Shawnee",
+  "state": "OK",
+  "zip": "74804",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Citizen Potawatomi Nation: banking and finance, \"wholly owned by the Citizen Potawatomi Nation\"",
+    "url": "https://www.potawatomi.org/enterprises/finance/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.9221,
+   35.3618
+  ],
+  "lonlatPrecision": "address"
+ }
+]

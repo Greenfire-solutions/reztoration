@@ -1,0 +1,822 @@
+[
+ {
+  "id": "indian-pueblo-cultural-center",
+  "name": "Indian Pueblo Cultural Center",
+  "category": "tourism",
+  "subcategory": "museum and cultural center",
+  "nation": "The 19 Pueblos of New Mexico",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Indian Pueblo Cultural Center: About Us",
+   "url": "https://indianpueblo.org/about-us/"
+  },
+  "description": "Museum, dances, shop and restaurant owned by the 19 Pueblos, the gateway for visitors to Pueblo country.",
+  "website": "https://indianpueblo.org/",
+  "address": "2401 12th St NW",
+  "city": "Albuquerque",
+  "state": "NM",
+  "zip": "87104",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indian Pueblo Cultural Center: About Us",
+    "url": "https://indianpueblo.org/about-us/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -106.6583,
+   35.1105
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "mashantucket-pequot-museum",
+  "name": "Mashantucket Pequot Museum and Research Center",
+  "category": "tourism",
+  "subcategory": "tribal museum",
+  "nation": "Mashantucket Pequot Tribal Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Mashantucket Pequot Museum: Admissions and hours",
+   "url": "https://pequotmuseum.org/visit/admissions-and-hours"
+  },
+  "description": "Large tribal museum and research library on Pequot and Northeastern Native history, with a walk-through village.",
+  "website": "https://www.pequotmuseum.org/",
+  "address": "110 Pequot Trail",
+  "city": "Mashantucket",
+  "state": "CT",
+  "zip": "06338",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Mashantucket Pequot Museum: Admissions and hours",
+    "url": "https://pequotmuseum.org/visit/admissions-and-hours"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -71.9648,
+   41.4643
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "ziibiwing-center",
+  "name": "Ziibiwing Center of Anishinabe Culture and Lifeways",
+  "category": "tourism",
+  "subcategory": "tribal museum and cultural center",
+  "nation": "Saginaw Chippewa Indian Tribe of Michigan",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Saginaw Chippewa Indian Tribe: Ziibiwing Center",
+   "url": "https://www.sagchip.org/ziibiwing/"
+  },
+  "description": "Saginaw Chippewa museum and cultural center telling Anishinabe history in the tribe's own voice.",
+  "website": "https://www.sagchip.org/ziibiwing/",
+  "city": "Mount Pleasant",
+  "state": "MI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Saginaw Chippewa Indian Tribe: Ziibiwing Center",
+    "url": "https://www.sagchip.org/ziibiwing/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -84.7668,
+   43.5976
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "museum-of-the-cherokee-people",
+  "name": "Museum of the Cherokee People",
+  "category": "tourism",
+  "subcategory": "museum",
+  "nation": "Eastern Band of Cherokee Indians",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Museum of the Cherokee People: About",
+   "url": "https://motcp.org/about/"
+  },
+  "description": "Museum on the Qualla Boundary sharing Cherokee history and culture, with a team of enrolled Eastern Band members.",
+  "website": "https://motcp.org/",
+  "city": "Cherokee",
+  "state": "NC",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Museum of the Cherokee People: About",
+    "url": "https://motcp.org/about/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -83.319,
+   35.4766
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "chickasaw-cultural-center",
+  "name": "Chickasaw Cultural Center",
+  "category": "tourism",
+  "subcategory": "cultural center and village",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chickasaw Cultural Center",
+   "url": "https://www.chickasawculturalcenter.com/"
+  },
+  "description": "Chickasaw Nation cultural campus with exhibits, a traditional village, dance and a cafe.",
+  "website": "https://www.chickasawculturalcenter.com/",
+  "city": "Sulphur",
+  "state": "OK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Cultural Center",
+    "url": "https://www.chickasawculturalcenter.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.9747,
+   34.5097
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "choctaw-cultural-center",
+  "name": "Choctaw Cultural Center",
+  "category": "tourism",
+  "subcategory": "cultural center and living village",
+  "nation": "Choctaw Nation of Oklahoma",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Choctaw Nation of Oklahoma: Culture",
+   "url": "https://www.choctawnation.com/about/culture/"
+  },
+  "description": "Choctaw Nation center with living exhibits, a traditional village, classes and a cafe.",
+  "website": "https://choctawculturalcenter.com/",
+  "address": "1919 Hina Hanta Way",
+  "city": "Calera",
+  "state": "OK",
+  "zip": "74730",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Choctaw Nation of Oklahoma: Culture",
+    "url": "https://www.choctawnation.com/about/culture/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.4286,
+   33.9345
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "cherokee-national-history-museum",
+  "name": "Cherokee National History Museum",
+  "category": "tourism",
+  "subcategory": "tribal museum",
+  "nation": "Cherokee Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Visit Cherokee Nation: Cherokee National History Museum",
+   "url": "https://visitcherokeenation.com/attractions/cherokee-national-history-museum/"
+  },
+  "description": "Cherokee Nation museum in the old capitol building telling the nation's history in English and Cherokee.",
+  "website": "https://visitcherokeenation.com/",
+  "city": "Tahlequah",
+  "state": "OK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Visit Cherokee Nation: Cherokee National History Museum",
+    "url": "https://visitcherokeenation.com/attractions/cherokee-national-history-museum/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -94.97,
+   35.9154
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "hopi-cultural-center",
+  "name": "Hopi Cultural Center Restaurant and Inn",
+  "category": "tourism",
+  "subcategory": "inn, restaurant and museum",
+  "nation": "Hopi Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Hopi Tribe Economic Development Corporation",
+   "url": "https://htedc.com/"
+  },
+  "description": "Motel, restaurant and gift shop on Second Mesa owned through the Hopi Tribe's development corporation, a base for visiting Hopi villages.",
+  "website": "https://hopiculturalcenter.com/",
+  "city": "Second Mesa",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Hopi Tribe Economic Development Corporation",
+    "url": "https://htedc.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -110.5051,
+   35.7933
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "monument-valley-navajo-tribal-park",
+  "name": "Monument Valley Navajo Tribal Park",
+  "category": "tourism",
+  "subcategory": "tribal park",
+  "nation": "Navajo Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Navajo Nation Parks and Recreation",
+   "url": "https://navajonationparks.org/"
+  },
+  "description": "Navajo Nation park with the valley drive and guided tours led by Navajo guides.",
+  "website": "https://navajonationparks.org/",
+  "city": "Monument Valley",
+  "state": "UT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Navajo Nation Parks and Recreation",
+    "url": "https://navajonationparks.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -110.1874,
+   37.0111
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "antelope-canyon-navajo-tribal-park",
+  "name": "Antelope Canyon Navajo Tribal Park",
+  "category": "tourism",
+  "subcategory": "tribal park",
+  "nation": "Navajo Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Navajo Nation Parks and Recreation",
+   "url": "https://navajonationparks.org/"
+  },
+  "description": "Slot canyons on Navajo land, visited only with Navajo tour operators licensed by the nation's parks department.",
+  "website": "https://navajonationparks.org/",
+  "city": "Page",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Navajo Nation Parks and Recreation",
+    "url": "https://navajonationparks.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.4573,
+   36.9148
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "grand-canyon-west",
+  "name": "Grand Canyon West",
+  "category": "tourism",
+  "subcategory": "canyon rim park, skywalk and rafting",
+  "nation": "Hualapai Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Grand Canyon West",
+   "url": "https://grandcanyonwest.com/"
+  },
+  "description": "Hualapai-run destination on the west rim with the Skywalk, rafting, and Hualapai cultural experiences.",
+  "website": "https://grandcanyonwest.com/",
+  "city": "Peach Springs",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Grand Canyon West",
+    "url": "https://grandcanyonwest.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -113.4253,
+   35.5295
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "onohsagwede-cultural-center",
+  "name": "Onöhsagwë:de' Cultural Center",
+  "category": "tourism",
+  "subcategory": "tribal museum",
+  "nation": "Seneca Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Onöhsagwë:de' Cultural Center: Seneca-Iroquois National Museum",
+   "url": "https://senecamuseum.org/"
+  },
+  "description": "Seneca Nation museum and cultural center for Seneca and Haudenosaunee history and art.",
+  "website": "https://senecamuseum.org/",
+  "city": "Salamanca",
+  "state": "NY",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Onöhsagwë:de' Cultural Center: Seneca-Iroquois National Museum",
+    "url": "https://senecamuseum.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -78.7152,
+   42.1579
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "tamastslikt-cultural-institute",
+  "name": "Tamástslikt Cultural Institute",
+  "category": "tourism",
+  "subcategory": "museum and living culture village",
+  "nation": "Confederated Tribes of the Umatilla Indian Reservation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Tamástslikt Cultural Institute",
+   "url": "https://www.tamastslikt.org/"
+  },
+  "description": "Museum of the Cayuse, Umatilla and Walla Walla peoples with a living culture village and cafe.",
+  "website": "https://www.tamastslikt.org/",
+  "city": "Pendleton",
+  "state": "OR",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Tamástslikt Cultural Institute",
+    "url": "https://www.tamastslikt.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -118.7886,
+   45.6721
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "museum-at-warm-springs",
+  "name": "The Museum at Warm Springs",
+  "category": "tourism",
+  "subcategory": "tribal museum",
+  "nation": "Confederated Tribes of Warm Springs",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Museum at Warm Springs",
+   "url": "https://museum.warmsprings-nsn.gov/"
+  },
+  "description": "Tribal museum of the Warm Springs, Wasco and Paiute peoples, with exhibits, art shows and language work.",
+  "website": "https://museum.warmsprings-nsn.gov/",
+  "city": "Warm Springs",
+  "state": "OR",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Museum at Warm Springs",
+    "url": "https://museum.warmsprings-nsn.gov/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -121.2663,
+   44.7636
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "makah-cultural-and-research-center",
+  "name": "Makah Cultural and Research Center",
+  "category": "tourism",
+  "subcategory": "tribal museum",
+  "nation": "Makah Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Makah Cultural and Research Center",
+   "url": "https://makahmuseum.com/"
+  },
+  "description": "Makah museum holding objects from the Ozette village site, at the northwest tip of the continental US.",
+  "website": "https://makahmuseum.com/",
+  "city": "Neah Bay",
+  "state": "WA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Makah Cultural and Research Center",
+    "url": "https://makahmuseum.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -124.6155,
+   48.3653
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "suquamish-museum",
+  "name": "Suquamish Museum",
+  "category": "tourism",
+  "subcategory": "tribal museum",
+  "nation": "Suquamish Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Suquamish Museum",
+   "url": "https://suquamishmuseum.org/"
+  },
+  "description": "Suquamish Tribe museum on the history of the people of the clear salt water and Chief Seattle.",
+  "website": "https://suquamishmuseum.org/",
+  "city": "Suquamish",
+  "state": "WA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Suquamish Museum",
+    "url": "https://suquamishmuseum.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -122.553,
+   47.7301
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "hibulb-cultural-center",
+  "name": "Hibulb Cultural Center and Natural History Preserve",
+  "category": "tourism",
+  "subcategory": "tribal museum and preserve",
+  "nation": "Tulalip Tribes",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Hibulb Cultural Center",
+   "url": "https://www.hibulbculturalcenter.org/"
+  },
+  "description": "Tulalip museum, longhouse and nature preserve on the history and values of the Tulalip Tribes.",
+  "website": "https://www.hibulbculturalcenter.org/",
+  "city": "Tulalip",
+  "state": "WA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Hibulb Cultural Center",
+    "url": "https://www.hibulbculturalcenter.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -122.2869,
+   48.0656
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "agua-caliente-cultural-museum",
+  "name": "Agua Caliente Cultural Museum",
+  "category": "tourism",
+  "subcategory": "tribal museum and spa plaza",
+  "nation": "Agua Caliente Band of Cahuilla Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Agua Caliente Cultural Museum",
+   "url": "https://www.accmuseum.org/"
+  },
+  "description": "Agua Caliente Cahuilla museum in the tribe's downtown cultural plaza, beside the hot spring.",
+  "website": "https://www.accmuseum.org/",
+  "city": "Palm Springs",
+  "state": "CA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Agua Caliente Cultural Museum",
+    "url": "https://www.accmuseum.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -116.5403,
+   33.8246
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "alaska-native-heritage-center",
+  "name": "Alaska Native Heritage Center",
+  "category": "tourism",
+  "subcategory": "cultural center with village sites",
+  "nation": "Alaska Native peoples (created by the Alaska Federation of Natives)",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Alaska Native Heritage Center: About",
+   "url": "https://www.alaskanative.net/about/"
+  },
+  "description": "Cultural center with life-size village sites for Alaska's major cultural groups, dance and artists.",
+  "website": "https://www.alaskanative.net/",
+  "address": "8800 Heritage Center Dr",
+  "city": "Anchorage",
+  "state": "AK",
+  "zip": "99504",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Alaska Native Heritage Center: About",
+    "url": "https://www.alaskanative.net/about/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -149.7334,
+   61.2307
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "sealaska-heritage-institute",
+  "name": "Sealaska Heritage Institute",
+  "category": "tourism",
+  "subcategory": "cultural institute, exhibits and arts campus",
+  "nation": "Tlingit, Haida and Tsimshian",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Sealaska Heritage Institute",
+   "url": "https://sealaskaheritage.org/"
+  },
+  "description": "Institute of the Tlingit, Haida and Tsimshian peoples with exhibits, an arts campus and language programs.",
+  "website": "https://sealaskaheritage.org/",
+  "city": "Juneau",
+  "state": "AK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Sealaska Heritage Institute",
+    "url": "https://sealaskaheritage.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -134.4197,
+   58.302
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "icy-strait-point",
+  "name": "Icy Strait Point",
+  "category": "tourism",
+  "subcategory": "cruise port, tours and dining",
+  "nation": "Huna Totem Corporation (Tlingit, Hoonah)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Icy Strait Point: About Us",
+   "url": "https://icystraitpoint.com/about-us/"
+  },
+  "description": "Destination wholly owned by Alaska Native shareholders of Huna Totem, offering Native-owned tours, dining and culture.",
+  "website": "https://icystraitpoint.com/",
+  "city": "Hoonah",
+  "state": "AK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Icy Strait Point: About Us",
+    "url": "https://icystraitpoint.com/about-us/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -135.4444,
+   58.1102
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "acoma-sky-city",
+  "name": "Sky City Cultural Center and Haak'u Museum",
+  "category": "tourism",
+  "subcategory": "museum and guided tours of the mesa village",
+  "nation": "Pueblo of Acoma",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Sky City Acoma",
+   "url": "https://skycityacoma.org/"
+  },
+  "description": "Acoma Pueblo museum, cafe and starting point for guided tours of Sky City on the mesa.",
+  "website": "https://skycityacoma.org/",
+  "city": "Acoma Pueblo",
+  "state": "NM",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Sky City Acoma",
+    "url": "https://skycityacoma.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -107.5824,
+   34.896
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "poeh-cultural-center",
+  "name": "Poeh Cultural Center and Museum",
+  "category": "tourism",
+  "subcategory": "museum and arts center",
+  "nation": "Pueblo of Pojoaque",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Poeh Cultural Center: A Center for Tewa Pueblo Culture",
+   "url": "https://poehcenter.org/"
+  },
+  "description": "Tewa Pueblo museum and arts center of the Pueblo of Pojoaque, north of Santa Fe.",
+  "website": "https://poehcenter.org/",
+  "city": "Santa Fe",
+  "state": "NM",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Poeh Cultural Center: A Center for Tewa Pueblo Culture",
+    "url": "https://poehcenter.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -105.9385,
+   35.6876
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "ah-tah-thi-ki-museum",
+  "name": "Ah-Tah-Thi-Ki Museum",
+  "category": "tourism",
+  "subcategory": "tribal museum and boardwalk",
+  "nation": "Seminole Tribe of Florida",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Ah-Tah-Thi-Ki Museum: Official Museum of the Seminole Tribe of Florida",
+   "url": "https://www.ahtahthiki.com/"
+  },
+  "description": "Seminole Tribe museum on the Big Cypress Reservation with a mile-long cypress boardwalk.",
+  "website": "https://www.ahtahthiki.com/",
+  "city": "Clewiston",
+  "state": "FL",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Ah-Tah-Thi-Ki Museum: Official Museum of the Seminole Tribe of Florida",
+    "url": "https://www.ahtahthiki.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -80.9342,
+   26.7542
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "pamunkey-indian-museum",
+  "name": "Pamunkey Indian Museum and Cultural Center",
+  "category": "tourism",
+  "subcategory": "tribal museum",
+  "nation": "Pamunkey Indian Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Pamunkey Indian Tribe: Museum",
+   "url": "https://www.pamunkey.org/"
+  },
+  "description": "Museum on the Pamunkey Reservation telling the tribe's history and pottery tradition.",
+  "website": "https://www.pamunkey.org/",
+  "city": "King William",
+  "state": "VA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Pamunkey Indian Tribe: Museum",
+    "url": "https://www.pamunkey.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -77.0136,
+   37.6874
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "ute-mountain-tribal-park",
+  "name": "Ute Mountain Tribal Park",
+  "category": "tourism",
+  "subcategory": "tribal park with guided tours",
+  "nation": "Ute Mountain Ute Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Ute Mountain Ute Tribe",
+   "url": "https://utemountainute.com/"
+  },
+  "description": "Ute-guided tours of ancestral Pueblo cliff dwellings and rock art on Ute Mountain Ute land.",
+  "website": "https://utemountainute.com/",
+  "city": "Towaoc",
+  "state": "CO",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Ute Mountain Ute Tribe",
+    "url": "https://utemountainute.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -108.7234,
+   37.2113
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "taos-pueblo",
+  "name": "Taos Pueblo",
+  "category": "tourism",
+  "subcategory": "living village with guided tours",
+  "nation": "Taos Pueblo",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Taos Pueblo",
+   "url": "https://taospueblo.com/"
+  },
+  "description": "Multi-storey adobe village lived in for over a thousand years, open to visitors on guided tours when the pueblo is open.",
+  "website": "https://taospueblo.com/",
+  "city": "Taos",
+  "state": "NM",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Taos Pueblo",
+    "url": "https://taospueblo.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -105.5733,
+   36.4072
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "inn-of-the-mountain-gods",
+  "name": "Inn of the Mountain Gods",
+  "category": "tourism",
+  "subcategory": "resort",
+  "nation": "Mescalero Apache Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Inn of the Mountain Gods",
+   "url": "https://www.innofthemountaingods.com/"
+  },
+  "description": "Resort on Mescalero Apache land in the Sierra Blanca with lodging, golf and dining.",
+  "website": "https://www.innofthemountaingods.com/",
+  "city": "Mescalero",
+  "state": "NM",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Inn of the Mountain Gods",
+    "url": "https://www.innofthemountaingods.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -105.7703,
+   33.1577
+  ],
+  "lonlatPrecision": "town"
+ }
+]

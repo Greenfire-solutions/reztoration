@@ -1,0 +1,101 @@
+{
+  "id": "kappler-780",
+  "name": "Treaty with the Ponca, 1858",
+  "aka": [
+    "Treaty of Washington (Ponca, March 12, 1858)"
+  ],
+  "signed": "1858-03-12",
+  "ratified": "1859-03-08",
+  "proclaimed": "1859-04-11",
+  "citation": "12 Stat. 997",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-ponca-1858-0772",
+  "nations": [
+    "Ponca"
+  ],
+  "promises": [
+    "The United States to protect the Ponca in possession of the land they kept, and in their persons and property, during good behaviour on their part (Article 2, First).",
+    "Annuities for thirty years: $12,000 a year for five years from settlement on the reservation, $10,000 a year for ten years, then $8,000 a year for fifteen years (Article 2, Second).",
+    "$20,000 for subsistence, stock, tools, fencing and houses in the first year after removal, up to $5,000 a year for ten years for manual-labour schools, and up to $10,500 for a mill and shops plus up to $7,500 a year for ten years for farming and mechanical help (Article 2).",
+    "$20,000 to settle the tribe's obligations (Article 2, Sixth), and compensation for Ponca property taken or damaged by military posts, roads or agencies on the reservation (Article 4)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1969-02-04",
+      "what": "The Indian Claims Commission found the Ponca ceded 2,334,000 acres by this treaty (2,411,000 acres less 77,000 kept), worth $1.00 an acre on March 12, 1858, held that the $455,500 paid was unconscionable, and awarded $1,878,000 less credits. The final award was $1,876,500 (September 8, 1971).",
+      "whoFoundIt": "Indian Claims Commission, Ponca Tribe of Oklahoma et al. v. United States, Docket 322, Second Interlocutory Order (February 4, 1969), 20 Ind. Cl. Comm. 308; Final Award (September 8, 1971), 26 Ind. Cl. Comm. 217",
+      "source": {
+        "title": "Ponca Tribe of Oklahoma v. United States, Docket 322, Second Interlocutory Order (February 4, 1969)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2733",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "the consideration so paid and received was unconscionable"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1972-08-23",
+      "what": "The Indian Claims Commission held that the 96,000-acre Ponca reservation established under this treaty and the 1865 treaty was taken without Ponca consent when the United States included it in the Sioux reservation by the 1868 Fort Laramie treaty and then removed the Ponca, a Fifth Amendment taking as of March 16, 1877, and awarded $1,004,589.49 with interest (recorded in full under kappler-883).",
+      "whoFoundIt": "Indian Claims Commission, Ponca Tribe of Indians of Oklahoma et al. v. United States, Docket 323, Opinion (July 26, 1966), 17 Ind. Cl. Comm. 162, and Final Award on Remand (August 23, 1972), 28 Ind. Cl. Comm. 335",
+      "source": {
+        "title": "Ponca Tribe of Indians of Oklahoma v. United States, Docket 323, Opinion of the Commission, Part 1 (July 26, 1966)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1044",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1858-03-12",
+      "what": "The Ponca Tribe of Nebraska writes that treaties between 1817 and 1865 cut its homeland down to an assigned 96,000 acres, and that the 1868 Fort Laramie treaty then included that reservation within the Great Sioux Reservation, setting the stage for the 1877 forced removal to Indian Territory.",
+      "whoFoundIt": "Ponca Tribe of Nebraska",
+      "source": {
+        "title": "About the Nation",
+        "url": "https://poncatribe-ne.gov/about-the-nation/",
+        "publisher": "Ponca Tribe of Nebraska"
+      }
+    }
+  ],
+  "landTaken": "2,334,000 acres net (2,411,000 acres described in the Commission's finding 25(e), less 77,000 acres reserved for the Ponca), valued at $2,334,000 as of March 12, 1858 (Docket 322, 1969).",
+  "compensation": "The Commission found $455,500 was paid. It awarded $1,878,000 less credits (1969) and, refusing to allow any offset for gratuities, entered a net final judgment of $1,876,500 on September 8, 1971.",
+  "today": "The Ponca Tribe of Nebraska was terminated by Congress and restored by the Ponca Restoration Act signed on October 31, 1990, which it says was amended before passage to deny it a reservation (Ponca Tribe of Nebraska). The Docket 322 claimant was the Ponca Tribe of Oklahoma.",
+  "nationVoice": [
+    {
+      "nation": "Ponca Tribe of Nebraska",
+      "summary": "The Tribe describes the 1858 treaty as the first establishing a Ponca reservation, and traces how later treaties, the 1868 Fort Laramie treaty and the 1877 removal took the Nebraska homeland.",
+      "url": "https://poncatribe-ne.gov/about-the-nation/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Ponca, 1858 (Kappler, vol. 2, p. 772)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-ponca-1858-0772",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Ponca Tribe of Oklahoma v. United States, Docket 322, Second Interlocutory Order (February 4, 1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2733",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Ponca Tribe of Oklahoma v. United States, Docket 322, Final Award (September 8, 1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2180",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "About the Nation",
+      "url": "https://poncatribe-ne.gov/about-the-nation/",
+      "publisher": "Ponca Tribe of Nebraska"
+    },
+    {
+      "title": "Ponca Tribe of Indians of Oklahoma v. United States, Docket 323, Opinion of the Commission, Part 1 (July 26, 1966)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1044",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The Ponca Tribe of Nebraska's page gives two termination dates (1962 in its timeline, 1966 in the text); neither is recorded here as fact.",
+    "The Ponca Tribe of Oklahoma's own account was not looked for in this pass."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

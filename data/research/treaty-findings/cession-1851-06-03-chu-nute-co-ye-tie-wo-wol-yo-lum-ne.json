@@ -1,0 +1,100 @@
+{
+  "id": "cession-1851-06-03-chu-nute-co-ye-tie-wo-wol-yo-lum-ne",
+  "name": "Treaty at Camp Burton (1851), unratified California treaty C",
+  "aka": [
+    "Treaty C of the eighteen unratified California treaties of 1851-1852"
+  ],
+  "signed": "1851-06-03",
+  "citation": "Never ratified; printed by order of the Senate, January 19, 1905",
+  "textUrl": "https://digicoll.lib.berkeley.edu/record/83366/files/arfs003-001.pdf",
+  "nations": [
+    "Chu-nute",
+    "Wo-wol",
+    "Yo-lum-ne",
+    "Co-ye-tie"
+  ],
+  "promises": [
+    "Article 3 or 4 set apart a defined tract 'forever' for the occupancy of the signing tribes.",
+    "Beef cattle and flour for subsistence during 1851 and 1852.",
+    "Livestock, ploughs, tools, seed, iron and steel, blankets and clothing, divided by the tribes' numbers.",
+    "A farmer, a blacksmith, a carpenter and school teachers, with a school house, for at least five years."
+  ],
+  "status": "unratified",
+  "breaches": [
+    {
+      "kind": "never-ratified",
+      "date": "1852-07-08",
+      "what": "This treaty (treaty C in the President's schedule) was one of eighteen made with California Indians in 1851-52 that the Senate refused to ratify in executive session on July 8, 1852, and placed under an injunction of secrecy that was removed only on January 18, 1905.",
+      "whoFoundIt": "United States Senate, executive session; record reprinted 1905",
+      "source": {
+        "title": "Robert F. Heizer, The Eighteen Unratified Treaties of 1851-1852 between the California Indians and the United States Government (1972)",
+        "url": "https://digicoll.lib.berkeley.edu/record/83366/files/arfs003-001.pdf",
+        "publisher": "Archaeological Research Facility, University of California, Berkeley"
+      }
+    },
+    {
+      "kind": "government-admission",
+      "date": "1928-05-18",
+      "what": "Congress let the Indians of California sue for lands the United States took without compensation, and declared their loss from failing to secure the lands and compensation in the eighteen unratified treaties sufficient ground for equitable relief.",
+      "whoFoundIt": "Act of May 18, 1928, 45 Stat. 602",
+      "source": {
+        "title": "Act of May 18, 1928, ch. 624, 45 Stat. 602 (Indians of California jurisdictional act)",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg602.pdf",
+        "publisher": "U.S. Government Publishing Office"
+      },
+      "quote": "the loss to the said Indians on account of their failure to secure the lands and compensation provided for in the eighteen unratified treaties"
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1851-06-03",
+      "what": "The Tule River Tribe states that its ancestors signed the Treaty of Paint Creek, which was never ratified, and that the original Tule River Reservation established in its place was mostly taken in 1857 when local Indian agents illegally secured state patents to it.",
+      "whoFoundIt": "Tule River Indian Tribe, presentation with the Native American Rights Fund on the Tule River water settlement, September 24, 2013",
+      "source": {
+        "title": "Tule River Tribe water settlement presentation (September 24, 2013)",
+        "url": "https://narf.org/nill/documents/NARF_water_settlements/Tule/20130924presentation.pdf",
+        "publisher": "Tule River Indian Tribe and Native American Rights Fund"
+      }
+    }
+  ],
+  "landTaken": "The tribes' lands in California, taken without the reserved tract or compensation; Royce areas 282, 283, 284 mark the cession and the intended reservation.",
+  "compensation": "Under the Act of May 18, 1928 the Court of Claims could award the value of the lands and compensation proposed in the eighteen treaties, with land at $1.25 an acre, less offsets. The amount finally paid was not located in this pass.",
+  "today": "The treaty remains unratified. The National Archives' 2013 account describes the rejection as leaving most California Indians without land.",
+  "nationVoice": [
+    {
+      "nation": "Tule River Indian Tribe",
+      "summary": "In a 2013 presentation on its water settlement, the Tribe says its ancestors signed the Treaty of Paint Creek on June 3, 1851, which reserved a tract between the Tule River, Paint Creek and the Sierra Nevada for the Yowlumne, Koyeti and allied tribes, that none of the eighteen treaties was ratified, and that the reservation set up for it in 1856 was largely taken through state patents secured by Indian agents in 1857.",
+      "url": "https://narf.org/nill/documents/NARF_water_settlements/Tule/20130924presentation.pdf"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Robert F. Heizer, The Eighteen Unratified Treaties of 1851-1852 between the California Indians and the United States Government (1972)",
+      "url": "https://digicoll.lib.berkeley.edu/record/83366/files/arfs003-001.pdf",
+      "publisher": "Archaeological Research Facility, University of California, Berkeley"
+    },
+    {
+      "title": "Larisa K. Miller, 'The Secret Treaties with California's Indians', Prologue, Fall/Winter 2013",
+      "url": "https://www.archives.gov/files/publications/prologue/2013/fall-winter/treaties.pdf",
+      "publisher": "National Archives"
+    },
+    {
+      "title": "Act of May 18, 1928, ch. 624, 45 Stat. 602 (Indians of California jurisdictional act)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg602.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Tule River Tribe water settlement presentation (September 24, 2013)",
+      "url": "https://narf.org/nill/documents/NARF_water_settlements/Tule/20130924presentation.pdf",
+      "publisher": "Tule River Indian Tribe and Native American Rights Fund"
+    }
+  ],
+  "openQuestions": [
+    "The Senate never ratified this treaty, so its promises never bound the United States; it is shown as never ratified. The 1928 Act is recorded as the government's own acknowledgment of the loss.",
+    "One record covers the whole set of eighteen treaties for the facts common to all; the other seventeen are the cession-1851-* and cession-1852-* entries for Royce areas 273 to 310.",
+    "The tribal names are as the commissioners wrote them in 1851-52; most are village or local group names, not nations, and how each community names itself today was not established. treaties.json lists as present-day tribes: Picayune Rancheria of Chukchansi Indians of California; Santa Rosa Indian Community of the Santa Rosa Rancheria, California; Table Mountain Rancheria of California; Tule River Indian Tribe of the Tule River Reservation, California.",
+    "The Court of Claims judgment under the 1928 Act (Indians of California v. United States, 98 Ct. Cl. 583, 1942) and the Indian Claims Commission settlement for the Indians of California (Dockets 31 and 37) were not opened in this pass; they are the leads for the amounts paid.",
+    "Article 2 of the treaties had the tribes relinquish all their lands in California; because the Senate rejected the treaties, the United States took the land without the reserved tracts or the promised goods (1928 Act, section 2)."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

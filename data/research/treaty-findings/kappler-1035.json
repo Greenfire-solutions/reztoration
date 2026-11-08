@@ -1,0 +1,103 @@
+{
+  "id": "kappler-1035",
+  "name": "Agreement with the Seneca, 1797 (Treaty of Big Tree)",
+  "aka": [
+    "Treaty of Big Tree",
+    "Morris Purchase",
+    "Contract between Robert Morris and the Seneca nation"
+  ],
+  "signed": "1797-09-15",
+  "citation": "7 Stat. 601",
+  "textUrl": "https://treaties.okstate.edu/treaties/agreement-with-the-seneca-1797-1027",
+  "nations": [
+    "Seneca Nation (Onödowága')",
+    "Tonawanda Band of Seneca"
+  ],
+  "promises": [
+    "Made at a treaty held under the authority of the United States, with a federal commissioner (Jeremiah Wadsworth) present and approving the sale.",
+    "Robert Morris to pay $100,000, invested in bank stock of the United States for the use of the Seneca.",
+    "The Seneca kept reservations named in the deed, among them Allegany (42 square miles), Cattaraugus, Buffalo Creek and Tonawanda (200 square miles together at Buffalo and Tonawanda creeks), and smaller Genesee River tracts, to be laid out as the chiefs at each village decided.",
+    "The Seneca reserved the privilege of fishing and hunting on the land conveyed."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1965",
+      "what": "Reversing the Commission's 1963 dismissal, the Court of Claims held that the Trade and Intercourse Act of 1790 gave the United States a fiduciary duty to see that the Seneca received a conscionable price in the 1797, 1826 and 1842 sales, and sent the claims back for valuation.",
+      "whoFoundIt": "Seneca Nation of Indians v. United States, 173 Ct. Cl. 917 (1965), as recited by the Indian Claims Commission in 1972",
+      "source": {
+        "title": "Seneca Nation and Tonawanda Band v. United States, Dockets 342-A to I and 368, Opinion of the Commission, May 3, 1972 (28 Ind. Cl. Comm. 12)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2526",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1972-05-03",
+      "what": "The Commission valued the 4,030,325 acres ceded at Big Tree at $4,500,000 (about $1.12 an acre) as of September 15, 1797, held the $100,000 paid so grossly inadequate as to be unconscionable, and awarded the difference of $4,400,000.",
+      "whoFoundIt": "Indian Claims Commission, Seneca Nation v. United States, Docket 342-A, 28 Ind. Cl. Comm. 12 (1972)",
+      "source": {
+        "title": "Seneca Nation and Tonawanda Band v. United States, Opinion of the Commission, May 3, 1972",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2526",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "2022-09-16",
+      "what": "The Seneca Nation's newsletter chronology, from its Onöhsagwë:de' Cultural Center, records that the Nation gave up about 4,000,000 acres valued at $4.5 million for $100,000, in dealings it describes as marked by speculators, bribery, fraud and bad faith.",
+      "whoFoundIt": "Seneca Nation of Indians, Onöhsagwë:de' Cultural Center chronology in the SNI Official Newsletter",
+      "source": {
+        "title": "Seneca Nation Chronology for September (SNI Official Newsletter, September 16, 2022)",
+        "url": "https://sninews.org/?p=18050",
+        "publisher": "Seneca Nation of Indians"
+      },
+      "quote": "The Seneca Nation relinquished 4,000,000 acres valued at $4.5M in exchange for $100,000."
+    }
+  ],
+  "landTaken": "4,030,325 acres of western New York, valued as of September 15, 1797 (Indian Claims Commission, 1972).",
+  "compensation": "$100,000 was paid in 1797. On November 22, 1972 the Commission entered a stipulated final award of $5,466,615.04 in Dockets 342-A and 368-A, covering the 1797 Big Tree cession ($4,400,000 of the 1972 determination) and the 1826 and 1842 cessions together.",
+  "today": "The Seneca Nation's reservations at Allegany and Cattaraugus, and the Tonawanda Band's reservation, are remnants of the tracts reserved at Big Tree; Buffalo Creek and the Genesee River tracts were sold off later (1826 and 1842 cessions in the same Commission case).",
+  "nationVoice": [
+    {
+      "nation": "Seneca Nation of Indians",
+      "summary": "The Nation's own chronology records the 1797 sale as 4,000,000 acres worth $4.5 million given up for $100,000 amid bribery, fraud and bad faith.",
+      "url": "https://sninews.org/?p=18050"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Agreement with the Seneca, 1797 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/agreement-with-the-seneca-1797-1027",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Seneca Nation and Tonawanda Band v. United States, Opinion of the Commission, May 3, 1972",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2526",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Seneca Nation and Tonawanda Band v. United States, Dockets 342-A and 368-A, Final Award, November 22, 1972",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1128",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Seneca Nation v. United States, Docket 342-A, Opinion of the Commission, October 24, 1963 (later reversed)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/857",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Seneca Nation Chronology for September",
+      "url": "https://sninews.org/?p=18050",
+      "publisher": "Seneca Nation of Indians"
+    }
+  ],
+  "openQuestions": [
+    "The OSU Kappler page tags this agreement 'not ratified'; whether and when the Senate approved it was not settled here, so no ratification date is given.",
+    "The Court of Claims opinion of 1965 (173 Ct. Cl. 917) was not opened directly; it is cited as the Commission recited it, and its exact decision date is not recorded.",
+    "Whether the reserved hunting and fishing privilege on the ceded land was later litigated was not found."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

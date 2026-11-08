@@ -1,0 +1,60 @@
+{
+  "id": "kappler-14",
+  "name": "Treaty with the Six Nations, 1784 (Treaty of Fort Stanwix)",
+  "aka": ["Treaty of Fort Stanwix (1784)"],
+  "signed": "1784-10-22",
+  "citation": "7 Stat. 15",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-six-nations-1784-0005",
+  "nations": ["Haudenosaunee (Six Nations): Seneca, Mohawk, Onondaga, Cayuga, Oneida, Tuscarora"],
+  "promises": [
+    "Article II: the Oneida and Tuscarora nations, allies of the United States in the Revolution, would be secured in possession of the lands on which they were settled.",
+    "Article III: the Six Nations would be secured in peaceful possession of the lands they inhabited east and north of a boundary running from near Niagara to the Ohio, in return for yielding claims west of it (except six miles square around Fort Oswego).",
+    "Article IV: the United States would deliver goods for the nations' use and comfort.",
+    "The Seneca, Mohawk, Onondaga and Cayuga were given peace and received into US protection, on condition of six hostages held until prisoners were returned (preamble and Article I)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1976-03-19",
+      "what": "The Commission held that Article II created a special obligation of the United States to protect the Oneida in possession of their lands, and that the United States failed it: in 1785 and 1788 New York acquired Oneida land from people forced to sell against their true wishes, under coercive circumstances, and in 1788 by deceit. The United States was held liable if the Oneida did not receive a conscionable price.",
+      "whoFoundIt": "Indian Claims Commission, Oneida Nation v. United States, Docket 301 (Claims 1 and 2), 37 Ind. Cl. Comm. 522 (1976)",
+      "source": { "title": "Oneida Nation of New York et al. v. United States, Docket 301 (Claims 1 and 2), Opinion of the Commission, March 19, 1976", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1844", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1985-03-04",
+      "what": "The Supreme Court recounted that this treaty promised the Oneida security in the lands on which they were settled, and held the Oneida could sue New York counties over 100,000 acres New York acquired in 1795 in violation of federal law, affirming liability.",
+      "whoFoundIt": "County of Oneida v. Oneida Indian Nation of New York, 470 U.S. 226 (1985)",
+      "source": { "title": "County of Oneida v. Oneida Indian Nation of New York State, 470 U.S. 226 (1985)", "url": "https://www.law.cornell.edu/supremecourt/text/470/226", "publisher": "Legal Information Institute, Cornell Law School" }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "2005-07-14",
+      "what": "The chairwoman of the Oneida Nation of Wisconsin told the House Resources Committee that the 1784 treaty assured the Oneida their lands would be secured to them, yet New York took about 300,000 acres in 1785 and nearly five million acres in 1788 over the objection of federal agents.",
+      "whoFoundIt": "Cristina Danforth, Chairwoman, Oneida Tribe of Indians of Wisconsin, testimony to the House Committee on Resources",
+      "source": { "title": "Testimony of Cristina Danforth, House Committee on Resources, July 14, 2005", "url": "https://naturalresources.house.gov/UploadedFiles/DanforthTestimony07.14.05.pdf", "publisher": "US House Committee on Natural Resources" },
+      "quote": "the final treaty assured us that our lands would be secured to us"
+    }
+  ],
+  "today": "The Commission's 1976 holding on the 1785 and 1788 transactions was reported as affirmed by the Court of Claims in United States v. Oneida Nation of New York, 576 F.2d 870 (Ct. Cl. 1978), according to a citing case shown on vLex. The three Oneida nations (New York, Wisconsin, and Thames in Ontario) continue to press land claims in New York.",
+  "nationVoice": [
+    { "nation": "Oneida Nation (Wisconsin)", "summary": "Chairwoman Cristina Danforth told Congress in 2005 that the 1784 treaty secured Oneida lands and that New York's 1785 and 1788 purchases were obtained by duress and fraud.", "url": "https://naturalresources.house.gov/UploadedFiles/DanforthTestimony07.14.05.pdf" }
+  ],
+  "sources": [
+    { "title": "Treaty with the Six Nations, 1784 (Kappler)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-six-nations-1784-0005", "publisher": "Oklahoma State University Libraries" },
+    { "title": "Oneida Nation v. United States, Docket 301 (Claims 1 and 2), Opinion of the Commission, March 19, 1976", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1844", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Oneida Nation v. United States, Docket 301 (Claims 1 and 2), Opinion of the Commission, December 29, 1971", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1607", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "County of Oneida v. Oneida Indian Nation of New York State, 470 U.S. 226 (1985)", "url": "https://www.law.cornell.edu/supremecourt/text/470/226", "publisher": "Legal Information Institute, Cornell Law School" },
+    { "title": "United States v. Oneida Nation of New York (Ct. Cl. 1978), vLex", "url": "https://case-law.vlex.com/vid/united-states-v-oneida-885927348", "publisher": "vLex" },
+    { "title": "Testimony of Cristina Danforth, July 14, 2005", "url": "https://naturalresources.house.gov/UploadedFiles/DanforthTestimony07.14.05.pdf", "publisher": "US House Committee on Natural Resources" }
+  ],
+  "openQuestions": [
+    "Fort Stanwix was made under the Articles of Confederation and has no Senate ratification date; none is given.",
+    "The Commission ruled the other way for the Seneca in 1963, holding Fort Stanwix imposed no liability for state and private purchases (Docket 342-A, 12 Ind. Cl. Comm. 755). The Oneida ruling rests on Article II's specific promise to the Oneida.",
+    "Whether any money was finally awarded or paid on Docket 301 Claims 1 and 2 after 1978 was not found.",
+    "The Pennsylvania part of this cession is a separate queue entry (kappler-13); the Commission's Docket 344 (1963) found no liability for northwestern Pennsylvania and the Erie Triangle and is a lead for it."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

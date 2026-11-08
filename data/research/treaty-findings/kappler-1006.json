@@ -1,0 +1,132 @@
+{
+  "id": "kappler-1006",
+  "name": "Treaty of Fort Laramie (1868)",
+  "aka": [
+    "Sioux Treaty of 1868",
+    "Treaty with the Sioux-Brule, Oglala, Miniconjou, Yanktonai, Hunkpapa, Blackfeet, Cuthead, Two Kettle, Sans Arcs, and Santee-and Arapaho, 1868"
+  ],
+  "signed": "1868-04-29",
+  "ratified": "1869-02-16",
+  "proclaimed": "1869-02-24",
+  "citation": "15 Stat. 635",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-sioux-brule-oglala-miniconjou-yanktonai-hunkpapa-blackfeet-cuthead-two-kettle-sans-arcs-and-santee-and-arapaho-1868-0998",
+  "nations": [
+    "Sičháŋǧu (Brulé) Lakota",
+    "Oglála Lakota",
+    "Mnikȟówožu (Miniconjou) Lakota",
+    "Húŋkpapȟa (Hunkpapa) Lakota",
+    "Sihásapa (Blackfeet) Lakota",
+    "Oóhenuŋpa (Two Kettle) Lakota",
+    "Itázipčho (Sans Arcs) Lakota",
+    "Iháŋkthuŋwaŋna (Yanktonai) Dakota, including the Cuthead band",
+    "Isáŋyathi (Santee) Dakota",
+    "Arapaho"
+  ],
+  "promises": [
+    "Article 2 set apart the Great Sioux Reservation, all of present-day South Dakota west of the Missouri River including the Black Hills, for the 'absolute and undisturbed use and occupation' of the signing nations, and the United States agreed that no unauthorized person would ever be permitted to settle on or pass over it.",
+    "Article 12: no cession of any part of the reservation held in common would be valid unless signed by at least three-fourths of the adult men occupying or interested in it.",
+    "Article 16: the country north of the North Platte River and east of the Big Horn summits would be held as unceded Indian territory, closed to settlement, and the military posts and road there would be abandoned.",
+    "Article 11 reserved the right to hunt north of the North Platte and on the Republican Fork of the Smoky Hill River while the buffalo ranged there.",
+    "Schools, teachers, agency buildings, clothing and goods for thirty years, and four years of rations for those who settled on the reservation."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1877-02-28",
+      "what": "Congress removed the Black Hills, an area of well over 7 million acres, from the Great Sioux Reservation and ended the hunting rights in the unceded territory. The 1876 'agreement' it enacted had been signed by about 10% of adult Sioux men, not the three-fourths Article 12 required.",
+      "whoFoundIt": "Act of February 28, 1877, 19 Stat. 254, as described by the Supreme Court in United States v. Sioux Nation of Indians, 448 U.S. 371 (1980)",
+      "source": {
+        "title": "United States v. Sioux Nation of Indians, 448 U.S. 371 (1980)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/448/371",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
+      "quote": "the commission ignored the stipulation of the Fort Laramie Treaty"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1974-02-15",
+      "what": "The Indian Claims Commission determined that the 1877 Act took the Black Hills portion of the Great Sioux Reservation in violation of the Fifth Amendment, found the land's fair market value on February 28, 1877 was $17.1 million, and held the United States liable for $450,000 in gold removed by trespassing prospectors before that date.",
+      "whoFoundIt": "Indian Claims Commission, determination of February 15, 1974, as recited in United States v. Sioux Nation of Indians, 448 U.S. 371 (1980)",
+      "source": {
+        "title": "United States v. Sioux Nation of Indians, 448 U.S. 371 (1980)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/448/371",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      }
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1980-06-30",
+      "what": "The Supreme Court affirmed that the 1877 Act was a taking of the Black Hills requiring just compensation, and upheld the Court of Claims award of the $17.1 million principal plus 5% annual interest from 1877.",
+      "whoFoundIt": "United States v. Sioux Nation of Indians, 448 U.S. 371 (1980)",
+      "source": {
+        "title": "United States v. Sioux Nation of Indians, 448 U.S. 371 (1980)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/448/371",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
+      "quote": "A more ripe and rank case of dishonorable dealings will never, in all probability, be found in our history"
+    },
+    {
+      "kind": "nation-statement",
+      "date": "2023-11",
+      "what": "The Oglala Sioux Tribe and the Standing Rock Sioux Tribe, in a joint statement, said the relinquishment language in Article 2 was added after the chiefs signed, and asked for nation-to-nation consultation on the 1851 and 1868 treaties.",
+      "whoFoundIt": "Oglala Sioux Tribe President Frank Star Comes Out and Standing Rock Sioux Tribe Chairwoman Janet Alkire, joint statement as reported by the Grand Forks Herald",
+      "source": {
+        "title": "Sioux tribes call for nation-to-nation talks with White House over 1868 treaty land issues",
+        "url": "https://www.grandforksherald.com/news/north-dakota/sioux-tribes-call-for-nation-to-nation-talks-with-white-house-over-1868-treaty-land-issues",
+        "publisher": "Grand Forks Herald"
+      }
+    }
+  ],
+  "landTaken": "The Black Hills portion of the Great Sioux Reservation, which the Supreme Court described as 'an area of well over 7 million acres', taken by the Act of February 28, 1877 (448 U.S. 371).",
+  "compensation": "The Indian Claims Commission valued the Black Hills at $17.1 million as of February 28, 1877, and also held the United States liable for $450,000 in gold removed by trespassing prospectors before that date; the Court of Claims added interest at 5% a year on the $17.1 million from 1877; the Supreme Court affirmed in 1980 (448 U.S. 371). The Sioux nations have refused the award and asked for the land instead.",
+  "today": "As reported in 2023, the Sioux nations still refuse the award, which has grown in trust to over $1 billion (Christian Science Monitor, 2023-06-28). In November 2023 the Oglala Sioux Tribe and Standing Rock Sioux Tribe asked for nation-to-nation talks on the 1868 treaty (Grand Forks Herald).",
+  "nationVoice": [
+    {
+      "nation": "Oglala Sioux Tribe",
+      "summary": "Its president, Frank Star Comes Out, said in 2023 that the Black Hills are not for sale.",
+      "url": "https://www.csmonitor.com/USA/Society/2023/0628/When-1-billion-isn-t-enough.-Why-the-Sioux-won-t-put-a-price-on-land"
+    },
+    {
+      "nation": "Standing Rock Sioux Tribe and Oglala Sioux Tribe",
+      "summary": "Their leaders said the signers never intended a massive land cession and that the relinquishment wording in Article 2 was added after signing.",
+      "url": "https://www.grandforksherald.com/news/north-dakota/sioux-tribes-call-for-nation-to-nation-talks-with-white-house-over-1868-treaty-land-issues"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Sioux-Brule, Oglala, Miniconjou, Yanktonai, Hunkpapa, Blackfeet, Cuthead, Two Kettle, Sans Arcs, and Santee-and Arapaho, 1868 (Kappler, vol. 2, p. 998)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-sioux-brule-oglala-miniconjou-yanktonai-hunkpapa-blackfeet-cuthead-two-kettle-sans-arcs-and-santee-and-arapaho-1868-0998",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "United States v. Sioux Nation of Indians, 448 U.S. 371 (1980)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/448/371",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Fort Laramie Treaty (1868), Milestone Documents",
+      "url": "https://www.archives.gov/milestone-documents/fort-laramie-treaty",
+      "publisher": "National Archives"
+    },
+    {
+      "title": "When $1 billion isn't enough. Why the Sioux won't put a price on land.",
+      "url": "https://www.csmonitor.com/USA/Society/2023/0628/When-1-billion-isn-t-enough.-Why-the-Sioux-won-t-put-a-price-on-land",
+      "publisher": "Christian Science Monitor"
+    },
+    {
+      "title": "Sioux tribes call for nation-to-nation talks with White House over 1868 treaty land issues",
+      "url": "https://www.grandforksherald.com/news/north-dakota/sioux-tribes-call-for-nation-to-nation-talks-with-white-house-over-1868-treaty-land-issues",
+      "publisher": "Grand Forks Herald"
+    }
+  ],
+  "openQuestions": [
+    "The current balance of the Black Hills trust fund: only press figures ('over $1 billion', 2023) were found; no Interior Department statement was opened.",
+    "The joint statement of November 2023 was read only as reported by the Grand Forks Herald; the tribes' own release was not located.",
+    "Later reductions of the Great Sioux Reservation (the Act of March 2, 1889 and the reservation diminishment cases) and the Missouri River dam takings are not yet recorded here.",
+    "Royce cession 597 and 516 are attached to this id in treaties.json; whether they belong to this treaty or to the 1877 Act was not checked.",
+    "Audit 2026-11-07: compensation said '5% simple interest'; the Supreme Court opinion opened says only interest 'at the annual rate of 5%', so 'simple' was removed. The Commission's $450,000 liability for gold taken by trespassers, stated in the same opinion, was added. All quotes, the 10% signature figure, 'well over 7 million acres', the February 15, 1974 determination, the 2023 statements and the treaty's dates and articles were re-read and confirmed."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

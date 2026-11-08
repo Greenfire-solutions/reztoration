@@ -1,0 +1,1659 @@
+[
+ {
+  "id": "afterbay-and-grapevine-campgrounds",
+  "name": "Afterbay and Grapevine Campgrounds",
+  "category": "tourism",
+  "subcategory": "tribal campgrounds on the Bighorn River",
+  "nation": "Apsaalooké Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Crow Tribe Executive Branch: campgrounds",
+   "url": "http://www.crow-nsn.gov/campgrounds.html"
+  },
+  "description": "Crow Tribe campgrounds near Fort Smith, a base for fishing the Bighorn River below Yellowtail Dam.",
+  "website": "http://www.crow-nsn.gov/campgrounds.html",
+  "city": "Fort Smith",
+  "state": "MT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Crow Tribe Executive Branch: campgrounds",
+    "url": "http://www.crow-nsn.gov/campgrounds.html"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Afterbay and Grapevine Campgrounds, listed as Tribal Enterprise of the Apsaalooké Nation",
+    "url": "https://nativeamerica.travel/listings/afterbay-grapevine-campgrounds"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -107.9262,
+   45.3133
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "apsaalooke-glamping",
+  "name": "Apsaalooke Glamping",
+  "category": "tourism",
+  "subcategory": "luxury tipi stays",
+  "nation": "Apsaalooké Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Apsaalooke Glamping, listed as Native Owned Business of the Apsaalooké Nation",
+   "url": "https://nativeamerica.travel/listings/apsaalooke-glamping"
+  },
+  "description": "Furnished tipi stays on Crow land near the Bighorn Canyon, run by an Apsaalooke family.",
+  "website": "https://www.apsaalookeglamping.com/",
+  "city": "Fort Smith",
+  "state": "MT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Apsaalooke Glamping, listed as Native Owned Business of the Apsaalooké Nation",
+    "url": "https://nativeamerica.travel/listings/apsaalooke-glamping"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -107.9262,
+   45.3133
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "antelope-hogan-bed-and-breakfast",
+  "name": "Antelope Hogan Bed and Breakfast",
+  "category": "tourism",
+  "subcategory": "hogan stays, Navajo dinners and canyon tours",
+  "nation": "The Navajo Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Antelope Hogan Bed and Breakfast, listed as Native Owned Business of the The Navajo Nation",
+   "url": "https://nativeamerica.travel/listings/antelope-hogan-bed-and-breakfast"
+  },
+  "description": "Navajo-owned stay near Page where guests sleep in traditional hogans and can book Navajo meals and Antelope Canyon tours.",
+  "website": "https://antelopehoganbedandbreakfast.com/",
+  "city": "Page",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Antelope Hogan Bed and Breakfast, listed as Native Owned Business of the The Navajo Nation",
+    "url": "https://nativeamerica.travel/listings/antelope-hogan-bed-and-breakfast"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.4573,
+   36.9148
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "blue-bay-campground",
+  "name": "Blue Bay Campground",
+  "category": "tourism",
+  "subcategory": "tribal campground and marina on Flathead Lake",
+  "nation": "Confederated Salish & Kootenai Tribes",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "CSKT: Blue Bay Campground",
+   "url": "https://cskt.org/natural-resources/blue-bay/"
+  },
+  "description": "Confederated Salish and Kootenai Tribes campground on the east shore of Flathead Lake.",
+  "website": "https://cskt.org/natural-resources/blue-bay/",
+  "address": "27915 MT Highway 35",
+  "city": "Pablo",
+  "state": "MT",
+  "zip": "59855",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "CSKT: Blue Bay Campground",
+    "url": "https://cskt.org/natural-resources/blue-bay/"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Blue Bay Campground, listed as Tribal Enterprise of the Confederated Salish & Kootenai Tribes",
+    "url": "https://nativeamerica.travel/listings/blue-bay-campground"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -114.1132,
+   47.5986
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "distant-drums-rv-resort",
+  "name": "Distant Drums RV Resort",
+  "category": "tourism",
+  "subcategory": "RV resort",
+  "nation": "Yavapai-Apache Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Distant Drums RV Resort, listed as Tribal Enterprise of the Yavapai-Apache Nation",
+   "url": "https://nativeamerica.travel/listings/distant-drums-rv-resort"
+  },
+  "description": "Yavapai-Apache Nation RV resort beside Cliff Castle Casino in the Verde Valley, a short drive from Sedona.",
+  "website": "https://ddrvresort.com/",
+  "address": "583 W Middle Verde Road",
+  "city": "Camp Verde",
+  "state": "AZ",
+  "zip": "86322",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Distant Drums RV Resort, listed as Tribal Enterprise of the Yavapai-Apache Nation",
+    "url": "https://nativeamerica.travel/listings/distant-drums-rv-resort"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.864,
+   34.6139
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "eddy-s-resort",
+  "name": "Eddy's Resort",
+  "category": "tourism",
+  "subcategory": "lakeside resort and fishing launch on Mille Lacs",
+  "nation": "Mille Lacs Band of Ojibwe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Eddy's Resort, listed as Tribal Enterprise of the Mille Lacs Band of Ojibwe",
+   "url": "https://nativeamerica.travel/listings/eddy-s-resort"
+  },
+  "description": "Mille Lacs Band lakeside resort with lodging, a bar and grill and launch fishing on Lake Mille Lacs.",
+  "website": "https://eddysresort.com/",
+  "address": "41334 Shakopee Lake Road",
+  "city": "Onamia",
+  "state": "MN",
+  "zip": "56359",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Eddy's Resort, listed as Tribal Enterprise of the Mille Lacs Band of Ojibwe",
+    "url": "https://nativeamerica.travel/listings/eddy-s-resort"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -93.724,
+   46.1457
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "grizzly-roadhouse-bed-and-breakfast",
+  "name": "Grizzly Roadhouse Bed and Breakfast",
+  "category": "tourism",
+  "subcategory": "bed and breakfast and vacation rentals",
+  "nation": "Pueblo of Santa Clara",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Grizzly Roadhouse: \"Native American Owned\"",
+   "url": "http://grizzlyroadhouse.com/"
+  },
+  "description": "Native American owned bed and breakfast and rentals outside Cortez, near Mesa Verde and the Four Corners.",
+  "website": "http://grizzlyroadhouse.com/",
+  "city": "Cortez",
+  "state": "CO",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Grizzly Roadhouse: \"Native American Owned\"",
+    "url": "http://grizzlyroadhouse.com/"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Grizzly Roadhouse Bed and Breakfast, listed as Native Owned Business of the Pueblo of Santa Clara",
+    "url": "https://nativeamerica.travel/listings/grizzly-roadhouse-bed-breakfast"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -108.5841,
+   37.3495
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "the-historic-requa-inn",
+  "name": "The Historic Requa Inn",
+  "category": "tourism",
+  "subcategory": "historic inn at the mouth of the Klamath",
+  "nation": "Yurok Tribe",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): The Historic Requa Inn, listed as Native Owned Business of the Yurok Tribe",
+   "url": "https://nativeamerica.travel/listings/historic-requa-inn"
+  },
+  "description": "Inn built in 1914 at Requa, the site of a Yurok village since time immemorial, overlooking the Klamath River estuary.",
+  "website": "https://www.requainn.com/",
+  "address": "451 Requa Road, Klamath, CA, USA",
+  "city": "Klamath",
+  "state": "CA",
+  "zip": "95548",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): The Historic Requa Inn, listed as Native Owned Business of the Yurok Tribe",
+    "url": "https://nativeamerica.travel/listings/historic-requa-inn"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -124.0647,
+   41.5471
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "isleta-lakes-and-rv-park",
+  "name": "Isleta Lakes and RV Park",
+  "category": "tourism",
+  "subcategory": "RV park, camping and fishing lakes",
+  "nation": "Pueblo of Isleta",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Isleta (Pueblo of Isleta enterprises): Lakes and RV Park",
+   "url": "https://www.isleta.com/leisure/lakes-rv-park/"
+  },
+  "description": "Pueblo of Isleta RV park and stocked fishing lakes beside the Rio Grande just south of Albuquerque.",
+  "website": "https://www.isleta.com/leisure/lakes-rv-park/",
+  "address": "4001 NM-47 SE",
+  "city": "Albuquerque",
+  "state": "NM",
+  "zip": "87105",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Isleta (Pueblo of Isleta enterprises): Lakes and RV Park",
+    "url": "https://www.isleta.com/leisure/lakes-rv-park/"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Isleta Lakes and RV Park, listed as Tribal Enterprise of the Pueblo of Isleta",
+    "url": "https://nativeamerica.travel/listings/isleta-lakes-rv-park"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -106.6466,
+   35.0251
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "klamath-river-resort-inn",
+  "name": "Klamath River Resort Inn",
+  "category": "tourism",
+  "subcategory": "riverside motel",
+  "nation": "Karuk Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Karuk Tribe: Klamath River Resort Inn",
+   "url": "https://www.karuk.us/more/klamath-river-resort-inn"
+  },
+  "description": "Karuk Tribe motel on the Klamath River in Happy Camp.",
+  "website": "https://www.karuk.us/more/klamath-river-resort-inn",
+  "address": "61700 Highway 96",
+  "city": "Happy Camp",
+  "state": "CA",
+  "zip": "96039",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Karuk Tribe: Klamath River Resort Inn",
+    "url": "https://www.karuk.us/more/klamath-river-resort-inn"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Klamath River Resort Inn, listed as Tribal Enterprise of the Karuk Tribe",
+    "url": "https://nativeamerica.travel/listings/klamath-river-resort-inn"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -123.3792,
+   41.7932
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "lodgepole-tipi-village",
+  "name": "Lodgepole Tipi Village",
+  "category": "tourism",
+  "subcategory": "tipi camp and Blackfeet cultural tours",
+  "nation": "Blackfeet Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Lodgepole Tipi Village, listed as Native Owned Business of the Blackfeet Nation",
+   "url": "https://nativeamerica.travel/listings/lodgepole-tipi-village"
+  },
+  "description": "Blackfeet-run tipi camp and culture camp near Browning, east of Glacier National Park.",
+  "website": "http://www.blackfeetculturecamp.com/",
+  "city": "Browning",
+  "state": "MT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Lodgepole Tipi Village, listed as Native Owned Business of the Blackfeet Nation",
+    "url": "https://nativeamerica.travel/listings/lodgepole-tipi-village"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -113.0173,
+   48.5577
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "meeks-bay-resort-and-marina",
+  "name": "Meeks Bay Resort and Marina",
+  "category": "tourism",
+  "subcategory": "lakeside cabins, RV sites and marina at Lake Tahoe",
+  "nation": "Washoe Tribe of Nevada and California",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Meeks Bay Resort and Marina, listed as Tribal Enterprise of the Washoe Tribe of Nevada and California",
+   "url": "https://nativeamerica.travel/listings/meeks-bay-resort"
+  },
+  "description": "Washoe Tribe resort on the west shore of Lake Tahoe with cabins, lodges, campsites, marina and the Wa-She-Shu Grille.",
+  "website": "https://www.meeksbayresort.com/",
+  "address": "7941 Emerald Bay Rd.",
+  "city": "Meeks Bay",
+  "state": "CA",
+  "zip": "96142",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Meeks Bay Resort and Marina, listed as Tribal Enterprise of the Washoe Tribe of Nevada and California",
+    "url": "https://nativeamerica.travel/listings/meeks-bay-resort"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -120.1238,
+   39.0395
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "moenkopi-legacy-inn-and-suites",
+  "name": "Moenkopi Legacy Inn and Suites",
+  "category": "tourism",
+  "subcategory": "hotel and Hopi tours",
+  "nation": "Hopi Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Moenkopi Legacy Inn and Suites, listed as Tribal Enterprise of the Hopi Tribe",
+   "url": "https://nativeamerica.travel/listings/moenkopi-legacy-inn-suites"
+  },
+  "description": "First hotel built on Hopi land in 50 years, at Tuba City, with daily guided tours of the Hopi mesas.",
+  "website": "https://experiencehopi.com/",
+  "address": "1 Legacy Lane",
+  "city": "Tuba City",
+  "state": "AZ",
+  "zip": "86045",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Moenkopi Legacy Inn and Suites, listed as Tribal Enterprise of the Hopi Tribe",
+    "url": "https://nativeamerica.travel/listings/moenkopi-legacy-inn-suites"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.2399,
+   36.13
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "redwood-rv-park",
+  "name": "Redwood RV Park",
+  "category": "tourism",
+  "subcategory": "RV park in the redwoods",
+  "nation": "Yurok Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Visit Yurok Country (Yurok Tribe): stay, RV parks and campgrounds",
+   "url": "https://www.visityurokcountry.com/stay"
+  },
+  "description": "Yurok Tribe RV park in Klamath, close to the Klamath River and Redwood National and State Parks.",
+  "website": "https://www.visityurokcountry.com/stay",
+  "address": "145 Alder Camp Rd",
+  "city": "Klamath",
+  "state": "CA",
+  "zip": "95548",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Visit Yurok Country (Yurok Tribe): stay, RV parks and campgrounds",
+    "url": "https://www.visityurokcountry.com/stay"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Redwood RV Park, listed as Tribal Enterprise of the Yurok Tribe",
+    "url": "https://nativeamerica.travel/listings/redwood-rv-park"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -124.0404,
+   41.5258
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "riverside-rv-park-yurok",
+  "name": "Riverside RV Park (Yurok)",
+  "category": "tourism",
+  "subcategory": "RV park on the Klamath River",
+  "nation": "Yurok Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Visit Yurok Country (Yurok Tribe): stay, RV parks and campgrounds",
+   "url": "https://www.visityurokcountry.com/stay"
+  },
+  "description": "Yurok Tribe RV park on Highway 101 along the lower Klamath River.",
+  "website": "https://www.visityurokcountry.com/stay",
+  "address": "17505 Highway 101 North",
+  "city": "Klamath",
+  "state": "CA",
+  "zip": "95548",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Visit Yurok Country (Yurok Tribe): stay, RV parks and campgrounds",
+    "url": "https://www.visityurokcountry.com/stay"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Riverside RV Park (Yurok), listed as Tribal Enterprise of the Yurok Tribe",
+    "url": "https://nativeamerica.travel/listings/riverside-rv-park"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -124.1306,
+   41.709
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "spider-rock-campground",
+  "name": "Spider Rock Campground",
+  "category": "tourism",
+  "subcategory": "campground and hogan stays at Canyon de Chelly",
+  "nation": "The Navajo Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Spider Rock Campground, listed as Native Owned Business of the The Navajo Nation",
+   "url": "https://nativeamerica.travel/listings/spider-rock-campground"
+  },
+  "description": "Navajo family campground near the Spider Rock overlook at Canyon de Chelly, with tent sites and a hogan to rent.",
+  "website": "https://spiderrockcampground.com/",
+  "city": "Chinle",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Spider Rock Campground, listed as Native Owned Business of the The Navajo Nation",
+    "url": "https://nativeamerica.travel/listings/spider-rock-campground"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -109.5813,
+   36.1621
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "tanakon-bed-and-breakfast",
+  "name": "Tanakon Bed and Breakfast",
+  "category": "tourism",
+  "subcategory": "village bed and breakfast with cabins",
+  "nation": "Native Village of Ruby",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Tanakon Bed and Breakfast, listed as Native Owned Business of the Native Village of Ruby",
+   "url": "https://nativeamerica.travel/listings/tanakon-bed-and-breakfast"
+  },
+  "description": "Small bed and breakfast with cabins and a cedar sauna in the Yukon River village of Tanana, with a Native crafts store.",
+  "website": "http://www.tanakonbandb.com/bed-breakfast.html",
+  "city": "Tanana",
+  "state": "AK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Tanakon Bed and Breakfast, listed as Native Owned Business of the Native Village of Ruby",
+    "url": "https://nativeamerica.travel/listings/tanakon-bed-and-breakfast"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -152.0789,
+   65.1719
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "the-dx-ranch",
+  "name": "The DX Ranch",
+  "category": "tourism",
+  "subcategory": "working ranch vacations and horsemanship",
+  "nation": "Cheyenne River Sioux Tribe",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): The DX Ranch, listed as Native Owned Business of the Cheyenne River Sioux Tribe",
+   "url": "https://nativeamerica.travel/listings/the-dx-ranch"
+  },
+  "description": "Family horse and cattle ranch on the Cheyenne River Reservation offering ranch vacations, horsemanship and home-raised beef.",
+  "website": "http://thedxranch.com/",
+  "city": "Isabel",
+  "state": "SD",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): The DX Ranch, listed as Native Owned Business of the Cheyenne River Sioux Tribe",
+    "url": "https://nativeamerica.travel/listings/the-dx-ranch"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -101.4296,
+   45.3941
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "the-hadsten",
+  "name": "The Hadsten",
+  "category": "tourism",
+  "subcategory": "boutique hotel in Solvang",
+  "nation": "Santa Ynez Band of Chumash Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): The Hadsten, listed as Tribal Enterprise of the Santa Ynez Band of Chumash Indians",
+   "url": "https://nativeamerica.travel/listings/the-hadsten-boiler-room"
+  },
+  "description": "Boutique hotel in Solvang owned by the Santa Ynez Band of Chumash Indians.",
+  "website": "https://www.hadsten.com/",
+  "address": "1450 Mission Drive",
+  "city": "Solvang",
+  "state": "CA",
+  "zip": "93463",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): The Hadsten, listed as Tribal Enterprise of the Santa Ynez Band of Chumash Indians",
+    "url": "https://nativeamerica.travel/listings/the-hadsten-boiler-room"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -120.1464,
+   34.5956
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "cottonwood-campground-canyon-de-chelly",
+  "name": "Cottonwood Campground (Tseyi' Dine' Heritage Area)",
+  "category": "tourism",
+  "subcategory": "campground at Canyon de Chelly",
+  "nation": "The Navajo Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Cottonwood Campground (Tseyi' Dine' Heritage Area), listed as Tribal Enterprise of the The Navajo Nation",
+   "url": "https://nativeamerica.travel/listings/tseyi-dine-heritage-cottonwood-campground"
+  },
+  "description": "Navajo Nation campground near the mouth of Canyon de Chelly in Chinle, close to the rim drives and guided canyon tours.",
+  "website": "https://navajonationparks.org/",
+  "city": "Chinle",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Cottonwood Campground (Tseyi' Dine' Heritage Area), listed as Tribal Enterprise of the The Navajo Nation",
+    "url": "https://nativeamerica.travel/listings/tseyi-dine-heritage-cottonwood-campground"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -109.5813,
+   36.1621
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "wellknown-buffalo-culture-campus",
+  "name": "Wellknown Buffalo Culture Campus",
+  "category": "tourism",
+  "subcategory": "tipi stays, cafe, Native art and gift shop",
+  "nation": "Apsaalooké Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Wellknown Buffalo Culture Campus, listed as Native Owned Business of the Apsaalooké Nation",
+   "url": "https://nativeamerica.travel/listings/wellknown-buffalo-tipi-stays"
+  },
+  "description": "Crow family culture campus near Little Bighorn with tipi stays, a coffee house, artists in residence and a Native art shop.",
+  "website": "https://www.wellknownbuffalo.com/",
+  "city": "Garryowen",
+  "state": "MT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Wellknown Buffalo Culture Campus, listed as Native Owned Business of the Apsaalooké Nation",
+    "url": "https://nativeamerica.travel/listings/wellknown-buffalo-tipi-stays"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -107.4166,
+   45.5268
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "xaa-wan-k-wvt-village-and-resort",
+  "name": "Xaa-wan'-k'wvt Village and Resort",
+  "category": "tourism",
+  "subcategory": "oceanfront RV resort and lodging",
+  "nation": "Tolowa Dee-ni' Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Howonquet Village and Resort: about (bought by the Tolowa Dee-ni' Nation in 2016)",
+   "url": "https://xvresort.com/about/"
+  },
+  "description": "Tolowa Dee-ni' Nation resort on the Smith River estuary with RV sites and lodging near the Pacific.",
+  "website": "https://xvresort.com/",
+  "address": "12420 Hwy 101 N",
+  "city": "Smith River",
+  "state": "CA",
+  "zip": "95567",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Howonquet Village and Resort: about (bought by the Tolowa Dee-ni' Nation in 2016)",
+    "url": "https://xvresort.com/about/"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Xaa-wan'-k'wvt Village and Resort, listed as Tribal Enterprise of the Tolowa Dee-ni' Nation",
+    "url": "https://nativeamerica.travel/listings/xaa-wan-k-wvt-village-resort"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -124.147,
+   41.9282
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "pechanga-rv-resort",
+  "name": "Pechanga RV Resort",
+  "category": "tourism",
+  "subcategory": "RV resort",
+  "nation": "Pechanga Band of Luiseño Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Pechanga RV Resort, listed as Tribal Enterprise of the Pechanga Band of Luiseño Indians",
+   "url": "https://nativeamerica.travel/listings/pechanga-rv-resort"
+  },
+  "description": "Pechanga Band RV resort with full-service sites beside Pechanga Resort, near Temecula wine country.",
+  "website": "https://www.pechanga.com/",
+  "address": "45000 Pechanga Pkwy",
+  "city": "Temecula",
+  "state": "CA",
+  "zip": "92592",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Pechanga RV Resort, listed as Tribal Enterprise of the Pechanga Band of Luiseño Indians",
+    "url": "https://nativeamerica.travel/listings/pechanga-rv-resort"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -117.1198,
+   33.4687
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "los-coyotes-campground-and-hiking",
+  "name": "Los Coyotes Campground and Hiking",
+  "category": "tourism",
+  "subcategory": "campground, RV sites and hiking permits",
+  "nation": "Los Coyotes Band of Cahuilla and Cupeño Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Los Coyotes Band of Cahuilla and Cupeno Indians: camping",
+   "url": "https://www.loscoyotestribe.org/camping"
+  },
+  "description": "Camping and permit hiking in the mountains of the Los Coyotes Reservation near Warner Springs.",
+  "website": "https://www.loscoyotestribe.org/camping",
+  "city": "Warner Springs",
+  "state": "CA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Los Coyotes Band of Cahuilla and Cupeno Indians: camping",
+    "url": "https://www.loscoyotestribe.org/camping"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Los Coyotes Campground and Hiking, listed as Tribal Enterprise of the Los Coyotes Band of Cahuilla and Cupeño Indians",
+    "url": "https://nativeamerica.travel/listings/los-coyotes-campground-rv-park-and-hiking"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -116.6336,
+   33.2823
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "sky-city-rv-park",
+  "name": "Sky City RV Park",
+  "category": "tourism",
+  "subcategory": "RV park",
+  "nation": "Pueblo of Acoma",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Sky City RV Park, listed as Tribal Enterprise of the Pueblo of Acoma",
+   "url": "https://nativeamerica.travel/listings/sky-city-rv-park"
+  },
+  "description": "Pueblo of Acoma RV park off Interstate 40, near the road up to Sky City.",
+  "website": "https://skycityacoma.org/",
+  "city": "Acoma",
+  "state": "NM",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Sky City RV Park, listed as Tribal Enterprise of the Pueblo of Acoma",
+    "url": "https://nativeamerica.travel/listings/sky-city-rv-park"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -107.5824,
+   34.896
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "hyatt-regency-tamaya-resort-and-spa",
+  "name": "Hyatt Regency Tamaya Resort and Spa",
+  "category": "tourism",
+  "subcategory": "resort hotel and cultural learning center",
+  "nation": "Pueblo of Santa Ana",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Hyatt Regency Tamaya Resort and Spa, listed as Tribal Enterprise of the Pueblo of Santa Ana",
+   "url": "https://nativeamerica.travel/listings/immerse-in-culture-at-tamaya-resort"
+  },
+  "description": "Resort on Santa Ana Pueblo land along the Rio Grande, owned by the Pueblo, with a Tamaya cultural learning center.",
+  "website": "https://www.hyatt.com/hyatt-regency/en-US/tamay-hyatt-regency-tamaya-resort-and-spa",
+  "address": "1300 Tuyuna Trail",
+  "city": "Santa Ana Pueblo",
+  "state": "NM",
+  "zip": "87004",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Hyatt Regency Tamaya Resort and Spa, listed as Tribal Enterprise of the Pueblo of Santa Ana",
+    "url": "https://nativeamerica.travel/listings/immerse-in-culture-at-tamaya-resort"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -106.5664,
+   35.3435
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "abc-coastal-excursions-of-alaska",
+  "name": "ABC Coastal Excursions of Alaska",
+  "category": "tourism",
+  "subcategory": "small-ship coastal excursions",
+  "nation": "Inupiat Community of the Arctic Slope",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): ABC Coastal Excursions of Alaska, listed as Native Owned Business of the Inupiat Community of the Arctic Slope",
+   "url": "https://nativeamerica.travel/listings/abc-coastal-excursions-of-alaska"
+  },
+  "description": "Native-owned small-boat trips out of Sitka with cabins decorated with local Indigenous art.",
+  "website": "https://www.abc-coastal.com/",
+  "city": "Sitka",
+  "state": "AK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): ABC Coastal Excursions of Alaska, listed as Native Owned Business of the Inupiat Community of the Arctic Slope",
+    "url": "https://nativeamerica.travel/listings/abc-coastal-excursions-of-alaska"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -135.3376,
+   57.0525
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "ancient-wayves-river-and-hiking-adventures",
+  "name": "Ancient Wayves River and Hiking Adventures",
+  "category": "tourism",
+  "subcategory": "river rafting, hiking and photo tours",
+  "nation": "Navajo Nation (Dine)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Ancient Wayves: \"100% Indigenous owned (Dine)\"",
+   "url": "https://www.tourancientwayves.com/"
+  },
+  "description": "Dine-owned guide company running San Juan River trips, hikes and photo tours around Bluff and Monument Valley.",
+  "website": "https://www.tourancientwayves.com/",
+  "city": "Blanding",
+  "state": "UT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Ancient Wayves: \"100% Indigenous owned (Dine)\"",
+    "url": "https://www.tourancientwayves.com/"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Ancient Wayves River and Hiking Adventures, listed as Native Owned Business of the The Navajo Nation",
+    "url": "https://nativeamerica.travel/listings/ancient-wayves-river-and-hiking-adventures"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -109.478,
+   37.624
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "antelope-valley-canyon-tours-ligai-si-anii",
+  "name": "Antelope Valley Canyon Tours (Ligai Si Anii)",
+  "category": "tourism",
+  "subcategory": "guided slot canyon hikes",
+  "nation": "Navajo Nation",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Antelope Valley Canyon Tours: our story, \"a Navajo, female-owned and operated hiking tour business\"",
+   "url": "https://hikingslotcanyons.com/about-antelope-valley-canyon-tours-ligai-si-anii/"
+  },
+  "description": "Navajo woman-owned company guiding hikes through lesser-visited slot canyons near Page since 2016.",
+  "website": "https://hikingslotcanyons.com/",
+  "city": "Page",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Antelope Valley Canyon Tours: our story, \"a Navajo, female-owned and operated hiking tour business\"",
+    "url": "https://hikingslotcanyons.com/about-antelope-valley-canyon-tours-ligai-si-anii/"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Antelope Valley Canyon Tours (Ligai Si Anii), listed as Native Owned Business of the The Navajo Nation",
+    "url": "https://nativeamerica.travel/listings/antelope-valley-canyon-tours"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.4573,
+   36.9148
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "blackfeet-outfitters",
+  "name": "Blackfeet Outfitters",
+  "category": "tourism",
+  "subcategory": "fly fishing, hunting and backcountry trips",
+  "nation": "Blackfeet Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Blackfeet Outfitters, listed as Native Owned Business of the Blackfeet Nation",
+   "url": "https://nativeamerica.travel/listings/blackfeet-outfitters"
+  },
+  "description": "Blackfeet outfitter guiding fly fishing, hunting and backcountry trips on the Blackfeet Reservation.",
+  "website": "https://www.blackfeetoutfitters.com/",
+  "city": "Browning",
+  "state": "MT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Blackfeet Outfitters, listed as Native Owned Business of the Blackfeet Nation",
+    "url": "https://nativeamerica.travel/listings/blackfeet-outfitters"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -113.0173,
+   48.5577
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "eastern-peoples-indigenous-collective-e-p-i-c",
+  "name": "Eastern Peoples Indigenous Collective (E.P.I.C.)",
+  "category": "tourism",
+  "subcategory": "Indigenous tourism, consultation and speakers",
+  "nation": "Mattaponi Tribe",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Eastern Peoples Indigenous Collective (E.P.I.C.), listed as Native Owned Business of the Mattaponi Tribe",
+   "url": "https://nativeamerica.travel/listings/eastern-peoples-indigenous-collective"
+  },
+  "description": "Mattaponi-led collective offering Indigenous tourism experiences, cultural consultation and speakers in Virginia.",
+  "website": "https://www.epicnations.com/",
+  "city": "Aylett",
+  "state": "VA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Eastern Peoples Indigenous Collective (E.P.I.C.), listed as Native Owned Business of the Mattaponi Tribe",
+    "url": "https://nativeamerica.travel/listings/eastern-peoples-indigenous-collective"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -77.105,
+   37.786
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "ken-s-tours-lower-antelope-canyon",
+  "name": "Ken's Tours Lower Antelope Canyon",
+  "category": "tourism",
+  "subcategory": "guided canyon tours",
+  "nation": "Navajo Nation",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Ken's Tours: about, \"a Navajo-owned and operated tour company\"",
+   "url": "https://lowerantelope.com/about-us/"
+  },
+  "description": "Navajo-owned company guiding walks through Lower Antelope Canyon outside Page.",
+  "website": "https://lowerantelope.com/",
+  "city": "Page",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Ken's Tours: about, \"a Navajo-owned and operated tour company\"",
+    "url": "https://lowerantelope.com/about-us/"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Ken's Tours Lower Antelope Canyon, listed as Native Owned Business of the The Navajo Nation",
+    "url": "https://nativeamerica.travel/listings/ken-s-tours-lower-antelope-canyon"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.4573,
+   36.9148
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "klamath-river-jet-boats",
+  "name": "Klamath River Jet Boats",
+  "category": "tourism",
+  "subcategory": "jet boat tours on the Klamath River",
+  "nation": "Yurok Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Visit Yurok Country (Yurok Tribe): adventure",
+   "url": "https://www.visityurokcountry.com/"
+  },
+  "description": "Yurok Tribe jet boat trips on the lower Klamath River.",
+  "website": "https://www.visityurokcountry.com/",
+  "city": "Klamath",
+  "state": "CA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Visit Yurok Country (Yurok Tribe): adventure",
+    "url": "https://www.visityurokcountry.com/"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Klamath River Jet Boats, listed as Tribal Enterprise of the Yurok Tribe",
+    "url": "https://nativeamerica.travel/listings/klamath-river-jet-boats"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -124.0384,
+   41.5265
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "dixie-s-lower-antelope-canyon-tours",
+  "name": "Dixie's Lower Antelope Canyon Tours",
+  "category": "tourism",
+  "subcategory": "guided canyon tours",
+  "nation": "The Navajo Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Dixie's Lower Antelope Canyon Tours, listed as Native Owned Business of the The Navajo Nation",
+   "url": "https://nativeamerica.travel/listings/lower-antelope-canyon-tours-llc"
+  },
+  "description": "Navajo-guided hikes through Lower Antelope Canyon, booked from the canyon entrance off Highway 98.",
+  "website": "https://www.antelopelowercanyon.com/",
+  "city": "Page",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Dixie's Lower Antelope Canyon Tours, listed as Native Owned Business of the The Navajo Nation",
+    "url": "https://nativeamerica.travel/listings/lower-antelope-canyon-tours-llc"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.4573,
+   36.9148
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "native-moto-tours",
+  "name": "Native Moto Tours",
+  "category": "tourism",
+  "subcategory": "guided motorcycle tours of the Navajo Nation",
+  "nation": "The Navajo Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Native Moto Tours, listed as Native Owned Business of the The Navajo Nation",
+   "url": "https://nativeamerica.travel/listings/native-moto-tours"
+  },
+  "description": "Navajo-guided motorcycle tours to Monument Valley, Four Corners, Window Rock and Antelope Canyon.",
+  "website": "https://www.nativemototours.com/",
+  "city": "Flagstaff",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Native Moto Tours, listed as Native Owned Business of the The Navajo Nation",
+    "url": "https://nativeamerica.travel/listings/native-moto-tours"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.6518,
+   35.1988
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "navajo-tours-usa",
+  "name": "Navajo Tours USA",
+  "category": "tourism",
+  "subcategory": "guided Navajo Nation tours",
+  "nation": "The Navajo Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Navajo Tours USA, listed as Native Owned Business of the The Navajo Nation",
+   "url": "https://nativeamerica.travel/listings/navajo-tours-usa"
+  },
+  "description": "Navajo-owned tour company in New Mexico guiding trips across Dine lands.",
+  "website": "https://navajotoursusa.com/",
+  "city": "Cuba",
+  "state": "NM",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Navajo Tours USA, listed as Native Owned Business of the The Navajo Nation",
+    "url": "https://nativeamerica.travel/listings/navajo-tours-usa"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -106.9584,
+   36.0219
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "nez-perce-tourism",
+  "name": "Nez Perce Tourism",
+  "category": "tourism",
+  "subcategory": "cultural tours, van rental and gift shop",
+  "nation": "Nez Perce Tribe",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Nez Perce Tourism, listed as Native Owned Business of the Nez Perce Tribe",
+   "url": "https://nativeamerica.travel/listings/nez-perce-tourism"
+  },
+  "description": "Nez Perce-owned company leading tours through Nimiipuu country, with a gift shop in Lewiston.",
+  "website": "https://www.nezpercetourism.com/",
+  "address": "800 Main Street Suite 4 ",
+  "city": "Lewiston",
+  "state": "ID",
+  "zip": "83501",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Nez Perce Tourism, listed as Native Owned Business of the Nez Perce Tribe",
+    "url": "https://nativeamerica.travel/listings/nez-perce-tourism"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -117.0241,
+   46.4205
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "opos-tours-and-travel",
+  "name": "OPOS Tours and Travel",
+  "category": "tourism",
+  "subcategory": "Native-owned travel agency and tour operator",
+  "nation": "White Earth Nation",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "OPOS Tours and Travel: \"a Native American owned travel agency and tour operator\"",
+   "url": "https://opostours.com/"
+  },
+  "description": "Native-owned tour operator running trips such as the Ojibwe Migration Story tour to Madeline Island and Red Cliff.",
+  "website": "https://opostours.com/",
+  "city": "Red Cliff",
+  "state": "WI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "OPOS Tours and Travel: \"a Native American owned travel agency and tour operator\"",
+    "url": "https://opostours.com/"
+   },
+   {
+    "title": "Destination Native America (AIANTA): OPOS Tours and Travel, listed as Native Owned Business of the White Earth Nation of Minnesota Chippewa",
+    "url": "https://nativeamerica.travel/listings/ojibwe-migration-story-tour"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -90.7903,
+   46.852
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "sitka-tribal-tours-and-naa-kahidi-dancers",
+  "name": "Sitka Tribal Tours and Naa Kahidi Dancers",
+  "category": "tourism",
+  "subcategory": "cultural tours and Tlingit dance performances",
+  "nation": "Sitka Tribe of Alaska",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Sitka Tribal Tours and Naa Kahidi Dancers, listed as Tribal Enterprise of the Sitka Tribe of Alaska",
+   "url": "https://nativeamerica.travel/listings/sitka-tribal-tours"
+  },
+  "description": "Sitka Tribe of Alaska tours and Naa Kahidi dance performances at the Sheet'ka Kwaan Naa Kahidi community house.",
+  "website": "https://sitkatribe.org/our-enterprises/naa-kahidi-dancers/",
+  "address": "200 Katlian St.",
+  "city": "Sitka",
+  "state": "AK",
+  "zip": "99835",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Sitka Tribal Tours and Naa Kahidi Dancers, listed as Tribal Enterprise of the Sitka Tribe of Alaska",
+    "url": "https://nativeamerica.travel/listings/sitka-tribal-tours"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -135.3417,
+   57.0516
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "sun-tours",
+  "name": "Sun Tours",
+  "category": "tourism",
+  "subcategory": "Blackfeet interpretive tours of Glacier National Park",
+  "nation": "Blackfeet Nation",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Sun Tours: about, \"a local Blackfeet tribal business\"",
+   "url": "https://www.suntours.co/about-us/"
+  },
+  "description": "Blackfeet-guided daily tours over Going-to-the-Sun Road, telling Glacier's story from the Blackfeet side, since 1992.",
+  "website": "https://www.suntours.co/",
+  "city": "East Glacier Park",
+  "state": "MT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Sun Tours: about, \"a local Blackfeet tribal business\"",
+    "url": "https://www.suntours.co/about-us/"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Sun Tours, listed as Native Owned Business of the Blackfeet Nation",
+    "url": "https://nativeamerica.travel/listings/sun-tours"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -113.2231,
+   48.4469
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "tse-bighanilini-tours",
+  "name": "Tse Bighanilini Tours",
+  "category": "tourism",
+  "subcategory": "Antelope Canyon guided tours",
+  "nation": "The Navajo Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Tse Bighanilini Tours, listed as Native Owned Business of the The Navajo Nation",
+   "url": "https://nativeamerica.travel/listings/tse-bighanilini-tours"
+  },
+  "description": "Navajo tour company guiding visitors through Antelope Canyon, with hogan stays and Navajo dinners through its partner bed and breakfast.",
+  "website": "https://www.tsebighanilini.com/",
+  "city": "Page",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Tse Bighanilini Tours, listed as Native Owned Business of the The Navajo Nation",
+    "url": "https://nativeamerica.travel/listings/tse-bighanilini-tours"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.4573,
+   36.9148
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "water-people-tours-and-camp-kapapa",
+  "name": "Water People Tours and Camp Kapapa",
+  "category": "tourism",
+  "subcategory": "tours and camp on family land",
+  "nation": "Confederated Salish & Kootenai Tribes",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Water People Tours and Camp Kapapa, listed as Native Owned Business of the Confederated Salish & Kootenai Tribes",
+   "url": "https://nativeamerica.travel/listings/water-people-tours"
+  },
+  "description": "Salish and Kootenai family tours and a camp on ancestral land near Ronan on the Flathead Reservation.",
+  "website": "https://waterpeopletours.com/",
+  "city": "Ronan",
+  "state": "MT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Water People Tours and Camp Kapapa, listed as Native Owned Business of the Confederated Salish & Kootenai Tribes",
+    "url": "https://nativeamerica.travel/listings/water-people-tours"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -114.1015,
+   47.5288
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "whitefeather-native-cultural-tours",
+  "name": "Whitefeather Native Cultural Tours",
+  "category": "tourism",
+  "subcategory": "Native cultural tours of Taos",
+  "nation": "Pueblo of Taos",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Whitefeather Native Cultural Tours, listed as Native Owned Business of the Pueblo of Taos",
+   "url": "https://nativeamerica.travel/listings/whitefeather-native-cultural-tours"
+  },
+  "description": "Taos Pueblo-owned company offering cultural tours in and around Taos.",
+  "website": "https://www.whitefeathertours.com/",
+  "city": "Taos",
+  "state": "NM",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Whitefeather Native Cultural Tours, listed as Native Owned Business of the Pueblo of Taos",
+    "url": "https://nativeamerica.travel/listings/whitefeather-native-cultural-tours"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -105.5733,
+   36.4072
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "walatowa-visitor-center",
+  "name": "Walatowa Visitor Center",
+  "category": "tourism",
+  "subcategory": "visitor center, museum and shop",
+  "nation": "Pueblo of Jemez",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Jemez Enterprises: Walatowa Visitor Center",
+   "url": "https://jemezenterprises.com/walatowa-visitor-center/"
+  },
+  "description": "Pueblo of Jemez visitor center on Highway 4 with exhibits, a shop of Jemez art and guided walks.",
+  "website": "https://jemezenterprises.com/walatowa-visitor-center/",
+  "address": "7413 Hwy 4 ",
+  "city": "Jemez Pueblo",
+  "state": "NM",
+  "zip": "87024",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Jemez Enterprises: Walatowa Visitor Center",
+    "url": "https://jemezenterprises.com/walatowa-visitor-center/"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Walatowa Visitor Center, listed as Tribal Enterprise of the Pueblo of Jemez",
+    "url": "https://nativeamerica.travel/listings/walatowa-visitor-center"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -106.7261,
+   35.6139
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "havasupai-tribe-tourism",
+  "name": "Havasupai Falls (Havasupai Tribe tourism)",
+  "category": "tourism",
+  "subcategory": "permitted campground and lodge at the falls",
+  "nation": "Havasupai Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Havasupai Reservations: Havasupai Tribe official tourism",
+   "url": "https://havasupaireservations.com/"
+  },
+  "description": "Havasupai Tribe permits for the campground and lodge at Havasu, Mooney and Beaver falls below Supai.",
+  "website": "https://havasupaireservations.com/",
+  "city": "Supai",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Havasupai Reservations: Havasupai Tribe official tourism",
+    "url": "https://havasupaireservations.com/"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Havasupai Falls (Havasupai Tribe tourism), listed as Tribal Enterprise of the Havasupai Tribe",
+    "url": "https://nativeamerica.travel/listings/havasupai-falls"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -112.6895,
+   36.2367
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "lake-powell-navajo-tribal-park",
+  "name": "Lake Powell Navajo Tribal Park",
+  "category": "tourism",
+  "subcategory": "tribal park and marina area",
+  "nation": "The Navajo Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Lake Powell Navajo Tribal Park, listed as Tribal Enterprise of the The Navajo Nation",
+   "url": "https://nativeamerica.travel/listings/lake-powell-navajo-tribal-park"
+  },
+  "description": "Navajo Nation park along the south shore of Lake Powell near Page, including Antelope Point.",
+  "website": "https://navajonationparks.org/navajo-tribal-parks/lake-powell/",
+  "city": "Page",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Lake Powell Navajo Tribal Park, listed as Tribal Enterprise of the The Navajo Nation",
+    "url": "https://nativeamerica.travel/listings/lake-powell-navajo-tribal-park"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.4573,
+   36.9148
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "little-colorado-river-gorge-navajo-tribal-park",
+  "name": "Little Colorado River Gorge Navajo Tribal Park",
+  "category": "tourism",
+  "subcategory": "canyon overlooks and vendor stalls",
+  "nation": "The Navajo Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Little Colorado River Gorge Navajo Tribal Park, listed as Tribal Enterprise of the The Navajo Nation",
+   "url": "https://nativeamerica.travel/listings/little-colorado-river-gorge-navajo-tribal-park"
+  },
+  "description": "Navajo Nation overlooks into the Little Colorado River Gorge on the road to the Grand Canyon, with Navajo vendors.",
+  "website": "https://navajonationparks.org/navajo-tribal-parks/little-colorado-river-navajo-tribal-park/",
+  "city": "Cameron",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Little Colorado River Gorge Navajo Tribal Park, listed as Tribal Enterprise of the The Navajo Nation",
+    "url": "https://nativeamerica.travel/listings/little-colorado-river-gorge-navajo-tribal-park"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.4119,
+   35.874
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "four-corners-monument",
+  "name": "Four Corners Monument",
+  "category": "tourism",
+  "subcategory": "tribal park and Native vendor market",
+  "nation": "The Navajo Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Four Corners Monument, listed as Tribal Enterprise of the The Navajo Nation",
+   "url": "https://nativeamerica.travel/listings/four-corners-monument-navajo-tribal-park"
+  },
+  "description": "Navajo Nation monument where four states meet, with stalls of Native artists and food sellers.",
+  "website": "https://navajonationparks.org/navajo-tribal-parks/four-corners-monument/",
+  "city": "Teec Nos Pos",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Four Corners Monument, listed as Tribal Enterprise of the The Navajo Nation",
+    "url": "https://nativeamerica.travel/listings/four-corners-monument-navajo-tribal-park"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -109.0796,
+   36.9189
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "heronswood-garden",
+  "name": "Heronswood Garden",
+  "category": "tourism",
+  "subcategory": "botanical garden",
+  "nation": "Port Gamble S'Klallam Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Heronswood: \"owned and operated by the Port Gamble S'Klallam Tribe\"",
+   "url": "https://www.heronswoodgarden.org/"
+  },
+  "description": "Renowned botanical garden near Kingston owned and run by the Port Gamble S'Klallam Tribe, with plant sales and classes.",
+  "website": "https://www.heronswoodgarden.org/",
+  "address": "7530 NE 288th Street",
+  "city": "Kingston",
+  "state": "WA",
+  "zip": "98346",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Heronswood: \"owned and operated by the Port Gamble S'Klallam Tribe\"",
+    "url": "https://www.heronswoodgarden.org/"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Heronswood Garden, listed as Tribal Enterprise of the Port Gamble S'Klallam Tribe",
+    "url": "https://nativeamerica.travel/listings/heronswood-garden"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -122.5483,
+   47.824
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "the-indian-canyons",
+  "name": "The Indian Canyons",
+  "category": "tourism",
+  "subcategory": "palm oases and hiking trails",
+  "nation": "Agua Caliente Band Of Cahuilla Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): The Indian Canyons, listed as Tribal Enterprise of the Agua Caliente Band Of Cahuilla Indians",
+   "url": "https://nativeamerica.travel/listings/the-indian-canyons"
+  },
+  "description": "Agua Caliente Band canyons of palm oases and hiking trails south of Palm Springs.",
+  "website": "https://www.indian-canyons.com/",
+  "address": "38520 S. Palm Canyon Dr.",
+  "city": "Palm Springs",
+  "state": "CA",
+  "zip": "92264",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): The Indian Canyons, listed as Tribal Enterprise of the Agua Caliente Band Of Cahuilla Indians",
+    "url": "https://nativeamerica.travel/listings/the-indian-canyons"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -116.54,
+   33.7675
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "cskt-bison-range",
+  "name": "CSKT Bison Range",
+  "category": "tourism",
+  "subcategory": "wildlife range and visitor center",
+  "nation": "Confederated Salish & Kootenai Tribes",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "CSKT Bison Range: visit the Bison Range",
+   "url": "https://www.bisonrange.org/"
+  },
+  "description": "Bison range of about 18,700 acres managed by the Confederated Salish and Kootenai Tribes, with a scenic drive and visitor center.",
+  "website": "https://www.bisonrange.org/",
+  "address": "58355 Bison Range Road",
+  "city": "Charlo",
+  "state": "MT",
+  "zip": "59824",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "CSKT Bison Range: visit the Bison Range",
+    "url": "https://www.bisonrange.org/"
+   },
+   {
+    "title": "Destination Native America (AIANTA): CSKT Bison Range, listed as Tribal Enterprise of the Confederated Salish & Kootenai Tribes",
+    "url": "https://nativeamerica.travel/listings/cskt-bison-range"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -114.2544,
+   47.369
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "fort-apache-historic-park",
+  "name": "Fort Apache Historic Park",
+  "category": "tourism",
+  "subcategory": "historic park and Nohwike Bagowa cultural center",
+  "nation": "White Mountain Apache",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Fort Apache Historic Park, listed as Tribal Enterprise of the White Mountain Apache",
+   "url": "https://nativeamerica.travel/listings/fort-apache-historic-park"
+  },
+  "description": "White Mountain Apache historic park at old Fort Apache with the Apache cultural center and museum.",
+  "website": "https://www.fortapachearizona.org/",
+  "address": "127 Scout Street",
+  "city": "Fort Apache",
+  "state": "AZ",
+  "zip": "85926",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Fort Apache Historic Park, listed as Tribal Enterprise of the White Mountain Apache",
+    "url": "https://nativeamerica.travel/listings/fort-apache-historic-park"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -109.9887,
+   33.7906
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "lake-capote-recreation-area",
+  "name": "Lake Capote Recreation Area",
+  "category": "tourism",
+  "subcategory": "fishing lake and campground",
+  "nation": "Southern Ute Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Lake Capote Recreation Area, listed as Tribal Enterprise of the Southern Ute Tribe",
+   "url": "https://nativeamerica.travel/listings/lake-capote"
+  },
+  "description": "Southern Ute Indian Tribe fishing lake and campground near Pagosa Springs with a bait shop.",
+  "website": "https://www.lakecapote.com/",
+  "address": "33658 CO-151",
+  "city": "Pagosa Springs",
+  "state": "CO",
+  "zip": "81147",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Lake Capote Recreation Area, listed as Tribal Enterprise of the Southern Ute Tribe",
+    "url": "https://nativeamerica.travel/listings/lake-capote"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -107.0108,
+   37.2696
+  ],
+  "lonlatPrecision": "town"
+ }
+]

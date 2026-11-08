@@ -1,0 +1,24 @@
+{
+  "id": "kappler-985",
+  "auditedAt": "2026-11-07",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty dates and citation (signed 1867-10-21, ratified 1868-07-25, proclaimed 1868-08-25, 15 Stat. 581) against the OSU Kappler text, p. 977",
+    "Promises against Articles 2, 4, 7, 10, 11, 12 and 14",
+    "ICC Docket 32 opinion of April 9, 1951 (OSU id 201): 2,033,583 acres for $2,000,000; land acquired 'without the consent of the Indians' and in disregard of their rights under the 1867 treaty; Commission did not decide fraud; Act cited as 31 Stat. 677 in this scan",
+    "ICC Docket 32 opinion of December 13, 1955 (OSU id 332): $2.00 an acre, $4,067,166, recover $2,067,166 less offsets; Act cited as 31 Stat. 672",
+    "ICC Docket 32 opinion and final determination of March 12, 1957 (OSU ids 406, 10): net $1,626,015.86 after offsets",
+    "ICC Docket 32 amended final order and opinion of July 18, 1957 (OSU ids 376, 520): offset findings revised on rehearing, interest denied again",
+    "Lone Wolf v. Hitchcock (Wikisource): decided January 1903; quote exact; Court declined to consider the fraud, three-fourths and amendment contentions"
+  ],
+  "changes": [
+    "Promise 4: buildings and employees attributed to Articles 4 and 14 instead of Article 7",
+    "ICC breach and compensation: added the March 12, 1957 net award of $1,626,015.86 and the July 18, 1957 amended final order",
+    "Two ICC sources added (OSU ids 406, 376); openQuestions rewritten; audit line added"
+  ],
+  "unverifiable": [
+    "Net award after the July 18, 1957 amendment: not legible in the OCR",
+    "31 Stat. 672 vs 677: the Act begins at 672 per the 1955 opinion; 677 in the 1951 scan is probably the Kiowa section's page; statute not opened",
+    "Lone Wolf decision day: Wikisource OCR shows 'Decided: January' with the day cut off; January 5, 1903 not independently confirmed"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "kappler-361",
+  "name": "Treaty with the Potawatomi, 1832 (October 20, Camp Tippecanoe)",
+  "aka": [
+    "Treaty of Tippecanoe (1832), Potawatomi of the Prairie and Kankakee",
+    "Treaty of Camp Tippecanoe"
+  ],
+  "signed": "1832-10-20",
+  "proclaimed": "1833-01-21",
+  "citation": "7 Stat. 378",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1832.-(0353)",
+  "nations": [
+    "Bodéwadmi (Potawatomi) of the Prairie and Kankakee"
+  ],
+  "promises": [
+    "An annuity of $15,000 for twenty years in return for the cession of a tract in northeastern Illinois between Lake Michigan, the Kankakee and Illinois rivers and the Indiana line (Articles 1 and 3).",
+    "$45,000 in merchandise on signing and $30,000 more in merchandise at Chicago in 1833, plus $28,746 to pay listed claims against the Potawatomi (Article 4).",
+    "Sections of the ceded land reserved for named Potawatomi people and families (Article 2).",
+    "Hunting and fishing allowed on the ceded land, and on government land on the Wabash and Sangamon rivers, as long as it remained United States property (Article 4)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1978-06-08",
+      "what": "The Indian Claims Commission found the Potawatomi interest in Royce Area 177 was worth $2,153,295.00 on October 20, 1832, that the United States paid consideration worth $343,742.43, and that this was so inadequate as to be unconscionable. It awarded $1,809,552.57, made final on July 14, 1978.",
+      "whoFoundIt": "Indian Claims Commission, Potawatomie Nation of Indians, the Prairie Band, et al. v. United States, Dockets 15-P, 29-N and 306, Interlocutory Order (June 8, 1978), 41 Ind. Cl. Comm. 399, and Final Award (July 14, 1978), 42 Ind. Cl. Comm. 205",
+      "source": {
+        "title": "Potawatomie Nation, the Prairie Band, et al. v. United States, Dockets 15-P, 29-N, 306, Interlocutory Order (June 8, 1978)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1901",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "was so inadequate as to constitute unconscionable consideration"
+    }
+  ],
+  "landTaken": "Royce Area 177 in northeastern Illinois. The Commission held the Potawatomi ceded exclusive recognised title to one part (tract F) and an undivided half interest in two others (tracts D and E), subject to the Article 2 reserves (41 Ind. Cl. Comm. 399). Its acreage was not copied here.",
+  "compensation": "Final award of $1,809,552.57 on July 14, 1978 on behalf of the Potawatomi Tribe as constituted in 1832, with the United States reserving any gratuitous offsets for other dockets (42 Ind. Cl. Comm. 205).",
+  "today": "The award was made on behalf of the Potawatomi Tribe as constituted in 1832; the parties were the Prairie Band, the Hannahville Indian Community, the Citizen Band of Potawatomi Indians of Oklahoma (plaintiffs) and the Potawatomi Indians of Indiana and Michigan, Inc. (intervenors) (42 Ind. Cl. Comm. 205).",
+  "nationVoice": [
+    {
+      "nation": "Forest County Potawatomi Community",
+      "summary": "The Community's cultural preservation pages publish the full text of the treaty of 20 October 1832 made at Camp Tippecanoe with the Potawatomi of the Prairie and Kankakee.",
+      "url": "https://www.fcpotawatomi.com/cultural-preservation/treaties/october-20-1832/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Potawatomi, 1832 (Kappler, vol. 2, p. 353)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1832.-(0353)",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Potawatomie Nation, the Prairie Band, et al. v. United States, Dockets 15-P, 29-N, 306, Interlocutory Order (June 8, 1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1901",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Potawatomie Nation, the Prairie Band, et al. v. United States, Dockets 15-P, 29-N, 306, Opinion of the Commission (June 8, 1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2280",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Potawatomie Nation, the Prairie Band, et al. v. United States, Dockets 15-P, 29-N, 306, Final Award (July 14, 1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2325",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "October 20, 1832",
+      "url": "https://www.fcpotawatomi.com/cultural-preservation/treaties/october-20-1832/",
+      "publisher": "Forest County Potawatomi Community"
+    }
+  ],
+  "openQuestions": [
+    "The Prairie Band Potawatomi Nation's tribal history page (pbpindiantribe.com/about/tribal-history) refused automated access (HTTP 403), so the Nation's own account of this treaty is not linked yet.",
+    "The Commission certified and transferred Dockets 15-P, 29-N and 306 to the Court of Claims on September 29, 1978 (pointer 1126); what remained at issue there was not read.",
+    "The Commission's opinion valued the three subtracts separately; only the total and the award are recorded here."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

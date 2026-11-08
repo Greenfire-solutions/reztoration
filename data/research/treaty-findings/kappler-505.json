@@ -1,0 +1,56 @@
+{
+  "id": "kappler-505",
+  "name": "Treaty with the Sauk and Foxes of the Missouri, 1837",
+  "aka": [
+    "Treaty of Washington with the Sacs and Foxes of Missouri, October 21, 1837"
+  ],
+  "signed": "1837-10-21",
+  "proclaimed": "1838-02-21",
+  "citation": "7 Stat. 543",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-and-foxes-1837-0497",
+  "nations": [
+    "Sauk and Meskwaki of the Missouri (Sac and Fox Nation of Missouri in Kansas and Nebraska)"
+  ],
+  "promises": [
+    "Article 1: the Missouri Sac and Fox gave up their interest in the country between the Missouri and Mississippi recognised in the 1825 Prairie du Chien treaty, and their right to locate on the Article I lands of the 1830 treaty.",
+    "Article 2: $160,000, of which $157,400 was to be invested with a guaranteed yearly income of at least 5%.",
+    "Article 2: from that income, a blacksmith ($1,000 a year), a farmer, tools and other help ($1,600 a year), a teacher and school ($770 a year), and the balance ($4,500) paid yearly in money or goods."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "litigation",
+      "date": "1965-03-02",
+      "what": "The Sac and Fox claims for their share of Royce Area 151, whose interest the ICC found passed to the United States on February 16, 1838 under the treaties of October 21, 1837, were settled by a compromise net judgment of $1,131,533.42 in Docket 138, without a finding on whether the price was unconscionable. Of the $160,000 paid under this treaty, $149,800 was credited to the government against other Sac and Fox cessions.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 11-A and 138, 15 Ind. Cl. Comm. 42 (1965)",
+      "source": {
+        "title": "Otoe and Missouria Tribe v. United States, Dockets 11-A and 138 et al., Additional Findings of Fact on Compromise Settlement of the Sac and Fox Claims (1965), 15 Ind. Cl. Comm. 42",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/822",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "The Missouri Sac and Fox interest in Royce Area 151 in western Iowa, held in common with the Otoe-Missouria, Omaha and Ioway (ICC, Dockets 11-A and 138).",
+  "compensation": "$160,000 under the treaty. The Sac and Fox tribes collectively accepted a $1,131,533.42 compromise for Area 151 in 1965.",
+  "today": "The Sac and Fox Nation of Missouri in Kansas and Nebraska is the successor of the Missouri band.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Sauk and Foxes, 1837 (Kappler, vol. 2, p. 497)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-and-foxes-1837-0497",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Otoe and Missouria Tribe v. United States, Dockets 11-A and 138 et al., Additional Findings of Fact on Compromise Settlement of the Sac and Fox Claims (1965), 15 Ind. Cl. Comm. 42",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/822",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The settlement allocates parts of the 1837 payment to Royce Areas 175, 226, 244 and 262 (Dockets 158, 209, 231 and 153); those areas may carry their own ICC findings, and Royce attaches only Area 151 to this id.",
+    "Whether the guaranteed 5% income on $157,400 was paid was not researched.",
+    "The Sac and Fox Nation of Missouri's website returned no history page on 2026-11-07."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

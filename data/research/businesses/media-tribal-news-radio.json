@@ -1,0 +1,681 @@
+[
+ {
+  "id": "cherokee-phoenix",
+  "name": "Cherokee Phoenix",
+  "category": "media",
+  "subcategory": "tribal newspaper, radio and video",
+  "nation": "Cherokee Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Cherokee Phoenix: About Us (the Cherokee Nation's newspaper under the Cherokee Independent Press Act)",
+   "url": "https://www.cherokeephoenix.org/site/about.html"
+  },
+  "description": "The Cherokee Nation's newspaper, first printed in 1828, now publishing print, online, radio and video news for Cherokee citizens under the tribe's independent press law.",
+  "website": "https://www.cherokeephoenix.org/",
+  "city": "Tahlequah",
+  "state": "OK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Cherokee Phoenix: About Us (the Cherokee Nation's newspaper under the Cherokee Independent Press Act)",
+    "url": "https://www.cherokeephoenix.org/site/about.html"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -94.97,
+   35.9154
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "mvskoke-media",
+  "name": "Mvskoke Media",
+  "category": "media",
+  "subcategory": "tribal newspaper, radio, video and printing",
+  "nation": "Muscogee (Creek) Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "About Mvskoke Media",
+   "url": "https://www.mvskokemedia.com/about/"
+  },
+  "description": "The Muscogee (Creek) Nation's news service, running the Muscogee Nation News, a radio show, video and a design and print shop.",
+  "website": "https://www.mvskokemedia.com/",
+  "city": "Okmulgee",
+  "state": "OK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "About Mvskoke Media",
+    "url": "https://www.mvskokemedia.com/about/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -95.972,
+   35.6231
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "biskinik",
+  "name": "Biskinik",
+  "category": "media",
+  "subcategory": "tribal newspaper",
+  "nation": "Choctaw Nation of Oklahoma",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Biskinik, the Choctaw Nation newspaper",
+   "url": "https://biskinik.com/"
+  },
+  "description": "The Choctaw Nation's monthly newspaper and news site.",
+  "website": "https://biskinik.com/",
+  "city": "Durant",
+  "state": "OK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Biskinik, the Choctaw Nation newspaper",
+    "url": "https://biskinik.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.3777,
+   33.992
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "chickasaw-times",
+  "name": "Chickasaw Times",
+  "category": "media",
+  "subcategory": "tribal newspaper",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chickasaw Times (published from chickasaw.net)",
+   "url": "https://www.chickasawtimes.net/"
+  },
+  "description": "The Chickasaw Nation's monthly newspaper, with archived editions online.",
+  "website": "https://www.chickasawtimes.net/",
+  "city": "Ada",
+  "state": "OK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Times (published from chickasaw.net)",
+    "url": "https://www.chickasawtimes.net/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.6784,
+   34.7743
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "navajo-times",
+  "name": "Navajo Times",
+  "category": "media",
+  "subcategory": "newspaper and print shop",
+  "nation": "Navajo Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Navajo Times corporate information: a for-profit corporation organized under the laws of the Navajo Nation",
+   "url": "https://navajotimes.com/corporate/index.php"
+  },
+  "description": "The weekly newspaper of the Navajo Nation, published since 1959 and run as a Navajo Nation chartered company, with its own print shop.",
+  "website": "https://navajotimes.com/",
+  "address": "58 Highway 264, Suite 13A",
+  "city": "Window Rock",
+  "state": "AZ",
+  "zip": "86515",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Navajo Times corporate information",
+    "url": "https://navajotimes.com/corporate/index.php"
+   },
+   {
+    "title": "Navajo Times: Contact Us",
+    "url": "https://navajotimes.com/contact-us/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -109.0535,
+   35.6634
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "hopi-tutuveni",
+  "name": "Hopi Tutuveni",
+  "category": "media",
+  "subcategory": "tribal newspaper",
+  "nation": "Hopi Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "The Hopi Tribe: Hopi Tutuveni",
+   "url": "https://www.hopi-nsn.gov/news/hopi-tutuveni/"
+  },
+  "description": "The Hopi Tribe's newspaper, covering news from the Hopi villages.",
+  "website": "https://www.hopi-nsn.gov/news/hopi-tutuveni/",
+  "city": "Kykotsmovi",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "The Hopi Tribe: Hopi Tutuveni",
+    "url": "https://www.hopi-nsn.gov/news/hopi-tutuveni/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -110.6184,
+   35.8763
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "kuyi-hopi-radio-88-1-fm",
+  "name": "KUYI Hopi Radio 88.1 FM",
+  "category": "media",
+  "subcategory": "community radio",
+  "nation": "Hopi",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "KUYI Hopi Radio: a program of The Hopi Foundation",
+   "url": "https://www.kuyi.net/"
+  },
+  "description": "Hopi public radio broadcasting music, news and Hopi language programs across the Hopi mesas, run by the Hopi Foundation.",
+  "website": "https://www.kuyi.net/",
+  "city": "Kykotsmovi",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "KUYI Hopi Radio",
+    "url": "https://www.kuyi.net/"
+   },
+   {
+    "title": "The Hopi Foundation",
+    "url": "https://www.hopifoundation.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -110.6184,
+   35.8763
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "kwlp-100-9-fm-the-peach",
+  "name": "KWLP 100.9 FM \"The Peach\"",
+  "category": "media",
+  "subcategory": "tribal radio",
+  "nation": "Hualapai Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Hualapai Tribe website: KWLP 100.9",
+   "url": "https://hualapai-nsn.gov/?p=14"
+  },
+  "description": "The Hualapai Tribe's FM station serving the reservation and nearby towns.",
+  "website": "https://hualapai-nsn.gov/?p=14",
+  "city": "Peach Springs",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Hualapai Tribe website: KWLP 100.9",
+    "url": "https://hualapai-nsn.gov/?p=14"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -113.4253,
+   35.5295
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "char-koosta-news",
+  "name": "Char-Koosta News",
+  "category": "media",
+  "subcategory": "tribal newspaper",
+  "nation": "Confederated Salish and Kootenai Tribes",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Char-Koosta News: About Us",
+   "url": "https://www.charkoosta.com/site/about.html"
+  },
+  "description": "The newspaper of the Confederated Salish and Kootenai Tribes, named for two of their last traditional chiefs.",
+  "website": "https://www.charkoosta.com/",
+  "city": "Pablo",
+  "state": "MT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Char-Koosta News: About Us",
+    "url": "https://www.charkoosta.com/site/about.html"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -114.1132,
+   47.5986
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "kalihwisaks",
+  "name": "Kalihwisaks",
+  "category": "media",
+  "subcategory": "tribal newspaper",
+  "nation": "Oneida Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Oneida Nation: Kalihwisaks, She Looks For News",
+   "url": "https://oneida-nsn.gov/resources/kalihwisaks/"
+  },
+  "description": "The Oneida Nation's newspaper, whose name means \"she looks for news\".",
+  "website": "https://oneida-nsn.gov/resources/kalihwisaks/",
+  "city": "Oneida",
+  "state": "WI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Oneida Nation: Kalihwisaks, She Looks For News",
+    "url": "https://oneida-nsn.gov/resources/kalihwisaks/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -88.1953,
+   44.4992
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "smoke-signals",
+  "name": "Smoke Signals",
+  "category": "media",
+  "subcategory": "tribal newspaper",
+  "nation": "Confederated Tribes of Grand Ronde",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Smoke Signals, a publication of the Confederated Tribes of Grand Ronde",
+   "url": "https://www.smokesignals.org/"
+  },
+  "description": "The newspaper of the Confederated Tribes of Grand Ronde.",
+  "website": "https://www.smokesignals.org/",
+  "city": "Grand Ronde",
+  "state": "OR",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Smoke Signals, a publication of the Confederated Tribes of Grand Ronde",
+    "url": "https://www.smokesignals.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -123.6093,
+   45.0601
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "tribal-tribune",
+  "name": "Tribal Tribune",
+  "category": "media",
+  "subcategory": "tribal newspaper",
+  "nation": "Confederated Tribes of the Colville Reservation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Tribal Tribune: About Us (owned by the Confederated Tribes of the Colville Reservation)",
+   "url": "https://www.tribaltribune.com/site/about.html"
+  },
+  "description": "A twice-monthly newspaper owned by the Confederated Tribes of the Colville Reservation.",
+  "website": "https://www.tribaltribune.com/",
+  "city": "Nespelem",
+  "state": "WA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Tribal Tribune: About Us (owned by the Confederated Tribes of the Colville Reservation)",
+    "url": "https://www.tribaltribune.com/site/about.html"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -118.9747,
+   48.1671
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "tribal-observer",
+  "name": "Tribal Observer",
+  "category": "media",
+  "subcategory": "tribal newspaper",
+  "nation": "Saginaw Chippewa Indian Tribe of Michigan",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Saginaw Chippewa Indian Tribe: Tribal Observer",
+   "url": "https://www.sagchip.org/tribalobserver/"
+  },
+  "description": "The Saginaw Chippewa Indian Tribe's newspaper.",
+  "website": "https://www.sagchip.org/tribalobserver/",
+  "city": "Mount Pleasant",
+  "state": "MI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Saginaw Chippewa Indian Tribe: Tribal Observer",
+    "url": "https://www.sagchip.org/tribalobserver/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -84.7668,
+   43.5976
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "the-cherokee-one-feather",
+  "name": "The Cherokee One Feather",
+  "category": "media",
+  "subcategory": "tribal newspaper",
+  "nation": "Eastern Band of Cherokee Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "The Cherokee One Feather (news site of the Eastern Band of Cherokee Indians)",
+   "url": "https://theonefeather.com/"
+  },
+  "description": "The Eastern Band of Cherokee Indians' newspaper and news site.",
+  "website": "https://theonefeather.com/",
+  "city": "Cherokee",
+  "state": "NC",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "The Cherokee One Feather (news site of the Eastern Band of Cherokee Indians)",
+    "url": "https://theonefeather.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -83.319,
+   35.4766
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "indianz-com",
+  "name": "Indianz.Com",
+  "category": "media",
+  "subcategory": "online news",
+  "nation": "Winnebago Tribe of Nebraska",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "About Indianz.Com: a product of Ho-Chunk, Inc. and Noble Savage Media",
+   "url": "https://indianz.com/about.asp"
+  },
+  "description": "A daily Native news site run by the Winnebago Tribe's economic development company, based on the Winnebago Reservation.",
+  "website": "https://indianz.com/",
+  "city": "Winnebago",
+  "state": "NE",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "About Indianz.Com: a product of Ho-Chunk, Inc. and Noble Savage Media",
+    "url": "https://indianz.com/about.asp"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.4725,
+   42.2355
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "native-news-online",
+  "name": "Native News Online",
+  "category": "media",
+  "subcategory": "online news",
+  "nation": "Prairie Band Potawatomi Nation",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Native News Online: About Us (publisher Levi Rickert, Prairie Band Potawatomi, is the controlling shareholder)",
+   "url": "https://nativenewsonline.net/about-us/"
+  },
+  "description": "A daily Native news site and its sister Tribal Business News, controlled by a Prairie Band Potawatomi publisher.",
+  "website": "https://nativenewsonline.net/",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Native News Online: About Us (publisher Levi Rickert, Prairie Band Potawatomi, is the controlling shareholder)",
+    "url": "https://nativenewsonline.net/about-us/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -85.6679,
+   42.9632
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "ict-indij-public-media",
+  "name": "ICT (IndiJ Public Media)",
+  "category": "media",
+  "subcategory": "national Native news",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "ICT: About Us (independent, Native-led, nonprofit news)",
+   "url": "https://ictnews.org/about-us/"
+  },
+  "description": "A national Native news outlet run by the nonprofit IndiJ Public Media, with newscasts and correspondents across Indian Country.",
+  "website": "https://ictnews.org/",
+  "city": "Phoenix",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "ICT: About Us (independent, Native-led, nonprofit news)",
+    "url": "https://ictnews.org/about-us/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -112.0741,
+   33.4484
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "vision-maker-media",
+  "name": "Vision Maker Media",
+  "category": "media",
+  "subcategory": "Native film funding and distribution",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Vision Maker Media: About (empowering Native people to share stories since 1976)",
+   "url": "https://visionmakermedia.org/about/"
+  },
+  "description": "Funds, trains and distributes Native filmmakers and brings Native stories to public television.",
+  "website": "https://visionmakermedia.org/",
+  "address": "301 S. 13th Street, Ste. 101",
+  "city": "Lincoln",
+  "state": "NE",
+  "zip": "68508",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Vision Maker Media: About (empowering Native people to share stories since 1976)",
+    "url": "https://visionmakermedia.org/about/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.7027,
+   40.8113
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "kipi-93-5-fm",
+  "name": "KIPI 93.5 FM",
+  "category": "media",
+  "subcategory": "tribal radio",
+  "nation": "Cheyenne River Sioux Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Cheyenne River Sioux Tribe: KIPI Radio",
+   "url": "https://www.cheyenneriversioux.com/kipi-radio"
+  },
+  "description": "The Cheyenne River Sioux Tribe's station with local news, sports, obituaries and a Lakota word of the day.",
+  "website": "https://kipiradio.com/",
+  "address": "724 N. Main Street",
+  "city": "Eagle Butte",
+  "state": "SD",
+  "zip": "57625",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Cheyenne River Sioux Tribe: KIPI Radio",
+    "url": "https://www.cheyenneriversioux.com/kipi-radio"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -101.2343,
+   45.0004
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "koya-88-1-fm",
+  "name": "KOYA 88.1 FM",
+  "category": "media",
+  "subcategory": "tribal radio",
+  "nation": "Rosebud Sioux Tribe",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "KOYA FM: Rosebud's voice of the Sicangu Lakota",
+   "url": "https://www.koyaradio.org/"
+  },
+  "description": "Community radio on the Rosebud Sioux Reservation with Lakota history and language programs, daily Native news and music.",
+  "website": "https://www.koyaradio.org/",
+  "city": "Rosebud",
+  "state": "SD",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "KOYA FM: Rosebud's voice of the Sicangu Lakota",
+    "url": "https://www.koyaradio.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -100.8535,
+   43.2328
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "kbft-89-9-fm",
+  "name": "KBFT 89.9 FM",
+  "category": "media",
+  "subcategory": "tribal radio",
+  "nation": "Bois Forte Band of Chippewa",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "KBFT: governed by the Bois Forte Tribal Council",
+   "url": "https://kbft.org/mission/"
+  },
+  "description": "Community radio for Bois Forte with Anishinaabe language segments, local news and music.",
+  "website": "https://kbft.org/",
+  "city": "Nett Lake",
+  "state": "MN",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "KBFT: governed by the Bois Forte Tribal Council",
+    "url": "https://kbft.org/mission/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -93.094,
+   48.1109
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "kiye-88-7-fm",
+  "name": "KIYE 88.7 FM",
+  "category": "media",
+  "subcategory": "tribal radio",
+  "nation": "Nez Perce Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "KIYE: About Us (owned and operated by the Nez Perce Tribe)",
+   "url": "https://kiye.org/mission/"
+  },
+  "description": "The Nez Perce Tribe's station, on the air since 2011 from studios in Kamiah.",
+  "website": "https://kiye.org/",
+  "city": "Kamiah",
+  "state": "ID",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "KIYE: About Us (owned and operated by the Nez Perce Tribe)",
+    "url": "https://kiye.org/mission/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -116.029,
+   46.2271
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "kide-91-3-fm",
+  "name": "KIDE 91.3 FM",
+  "category": "media",
+  "subcategory": "tribal radio",
+  "nation": "Hoopa Valley Tribe",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "KIDE-Hoopa 91.3 FM: tribally owned and operated community radio",
+   "url": "https://kidefm.org/"
+  },
+  "description": "Tribally owned community radio for the Hoopa Valley.",
+  "website": "https://kidefm.org/",
+  "city": "Hoopa",
+  "state": "CA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "KIDE-Hoopa 91.3 FM: tribally owned and operated community radio",
+    "url": "https://kidefm.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -123.6857,
+   41.064
+  ],
+  "lonlatPrecision": "town"
+ }
+]

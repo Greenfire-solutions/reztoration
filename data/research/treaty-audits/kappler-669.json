@@ -1,0 +1,25 @@
+{
+  "id": "kappler-669",
+  "auditedAt": "2026-11-07",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty dates and citation (signed 1854-12-26, ratified 1855-03-03, proclaimed 1855-04-10, 10 Stat. 1132) against the OSU Kappler text, p. 661",
+    "Promises against Articles 2, 3, 4 and 10 of the OSU text; Article 3 quote exact",
+    "ICC Docket 197 opinion (OSU id 2631): Nisqually 40.89% share, $78,893.92 of $192,941.85, about 49%, unconscionable, recover $81,106.08 less offsets",
+    "ICC Docket 197 additional findings (OSU id 2157), finding 31: value $160,000.00 on March 3, 1855; finding 32 restates the award",
+    "ICC Docket 197 final award (OSU id 2471): offsets $1,093.01, final award $80,013.07, July 31, 1974",
+    "Washington v. Washington State Commercial Passenger Fishing Vessel Assn. (Cornell): decided July 2, 1979; quote exact; Game Department refusal; 50% is a ceiling",
+    "Washington v. United States, No. 17-269: affirmed by an equally divided Court, June 11, 2018",
+    "Nisqually Indian Tribe Heritage page: Leschi dispute, 1917 Army, 3,353 acres condemned by Pierce County, land north and east of the river an impact area"
+  ],
+  "changes": [
+    "Resolved the $150,000 / $160,000 question: $160,000 per finding 31 (OSU id 2157); openQuestion rewritten",
+    "compensation: added the 1974 final award of $80,013.07 after $1,093.01 offsets",
+    "Supreme Court breach reworded: 50 percent is a ceiling, not a share 'up to 45 to 50 percent'",
+    "Added two ICC sources (OSU ids 2157, 2471); audit line added"
+  ],
+  "unverifiable": [
+    "Boldt decision 384 F. Supp. 312 and the 2017 Ninth Circuit opinion not opened (as the researcher noted)",
+    "Whether the $80,013.07 was paid not traced"
+  ]
+}

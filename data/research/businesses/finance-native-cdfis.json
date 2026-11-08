@@ -1,0 +1,352 @@
+[
+ {
+  "id": "native-american-bank",
+  "name": "Native American Bank",
+  "category": "finance",
+  "subcategory": "multi-tribally owned bank",
+  "nation": "Owned by tribes, tribal enterprises and Alaska Native corporations",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Native American Bank: About Us",
+   "url": "https://www.nativeamericanbank.com/about/"
+  },
+  "description": "Community development bank owned mostly by tribes and Alaska Native corporations, lending to tribes, Native businesses and homebuyers.",
+  "website": "https://www.nativeamericanbank.com/",
+  "city": "Denver",
+  "state": "CO",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Native American Bank: About Us",
+    "url": "https://www.nativeamericanbank.com/about/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -104.9849,
+   39.7392
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "oweesta-corporation",
+  "name": "Oweesta Corporation",
+  "category": "finance",
+  "subcategory": "Native CDFI intermediary",
+  "nation": "Native-led, intertribal",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Oweesta: National Native CDFI Intermediary",
+   "url": "https://www.oweesta.org/"
+  },
+  "description": "Lends to and trains Native CDFIs, the longest-standing intermediary serving Native community lenders.",
+  "website": "https://www.oweesta.org/",
+  "city": "Longmont",
+  "state": "CO",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Oweesta: National Native CDFI Intermediary",
+    "url": "https://www.oweesta.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -105.1019,
+   40.1672
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "four-bands-community-fund",
+  "name": "Four Bands Community Fund",
+  "category": "finance",
+  "subcategory": "Native CDFI",
+  "nation": "Cheyenne River Sioux Tribe",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "About Four Bands",
+   "url": "https://fourbands.org/about/"
+  },
+  "description": "Community loan fund on the Cheyenne River reservation lending to Native entrepreneurs and homebuyers, with coaching.",
+  "website": "https://fourbands.org/",
+  "city": "Eagle Butte",
+  "state": "SD",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "About Four Bands",
+    "url": "https://fourbands.org/about/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -101.2343,
+   45.0004
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "akiptan",
+  "name": "Akiptan",
+  "category": "finance",
+  "subcategory": "Native CDFI for agriculture",
+  "nation": "Lakota (Cheyenne River)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Akiptan: Native CDFI",
+   "url": "https://www.akiptan.org/"
+  },
+  "description": "Native CDFI lending to farmers and ranchers across Indian Country.",
+  "website": "https://www.akiptan.org/",
+  "city": "Eagle Butte",
+  "state": "SD",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Akiptan: Native CDFI",
+    "url": "https://www.akiptan.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -101.2343,
+   45.0004
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "lakota-funds",
+  "name": "Lakota Funds",
+  "category": "finance",
+  "subcategory": "Native CDFI",
+  "nation": "Oglala Lakota (Pine Ridge)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Lakota Funds: Investing in the Oyate",
+   "url": "https://www.lakotafunds.org/"
+  },
+  "description": "Lender on the Pine Ridge reservation offering business loans, asset building and workforce programs.",
+  "website": "https://www.lakotafunds.org/",
+  "city": "Kyle",
+  "state": "SD",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Lakota Funds: Investing in the Oyate",
+    "url": "https://www.lakotafunds.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -102.1765,
+   43.425
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "mni-sota-fund",
+  "name": "Mni Sota Fund",
+  "category": "finance",
+  "subcategory": "Native CDFI",
+  "nation": "Native communities of Minnesota",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Mni Sota Fund",
+   "url": "https://www.mnisotafund.org/"
+  },
+  "description": "Lender and financial coach for Native families and businesses, with a free tax clinic, based at the Minneapolis American Indian Center.",
+  "website": "https://www.mnisotafund.org/",
+  "address": "1530 E Franklin Ave",
+  "city": "Minneapolis",
+  "state": "MN",
+  "zip": "55404",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Mni Sota Fund",
+    "url": "https://www.mnisotafund.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -93.2534,
+   44.9628
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "sequoyah-fund",
+  "name": "Sequoyah Fund",
+  "category": "finance",
+  "subcategory": "Native CDFI",
+  "nation": "Eastern Band of Cherokee Indians",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Sequoyah Fund",
+   "url": "https://www.sequoyahfund.org/"
+  },
+  "description": "Lends to and trains enrolled Eastern Band Cherokee entrepreneurs, and runs youth and Authentically Cherokee programs.",
+  "website": "https://www.sequoyahfund.org/",
+  "city": "Cherokee",
+  "state": "NC",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Sequoyah Fund",
+    "url": "https://www.sequoyahfund.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -83.319,
+   35.4766
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "chi-ishobak",
+  "name": "Chi Ishobak",
+  "category": "finance",
+  "subcategory": "Native CDFI",
+  "nation": "Pokagon Band of Potawatomi",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Chi Ishobak: About",
+   "url": "https://chiishobak.org/about/"
+  },
+  "description": "Pokagon Potawatomi community lender offering business and consumer loans and financial training.",
+  "website": "https://chiishobak.org/",
+  "city": "Dowagiac",
+  "state": "MI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chi Ishobak: About",
+    "url": "https://chiishobak.org/about/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -86.1089,
+   41.9825
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "citizen-potawatomi-cdc",
+  "name": "Citizen Potawatomi Community Development Corporation",
+  "category": "finance",
+  "subcategory": "Native CDFI",
+  "nation": "Citizen Potawatomi Nation",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "CPCDC: home",
+   "url": "https://cpcdc.org/"
+  },
+  "description": "Lends to Citizen Potawatomi Nation members and businesses and runs financial education.",
+  "website": "https://cpcdc.org/",
+  "city": "Shawnee",
+  "state": "OK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "CPCDC: home",
+    "url": "https://cpcdc.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.9253,
+   35.3273
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "taala-fund",
+  "name": "Táala Fund",
+  "category": "finance",
+  "subcategory": "Native CDFI",
+  "nation": "Quinault Indian Nation",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Táala Fund: home",
+   "url": "https://taalafund.org/"
+  },
+  "description": "Lender serving people and businesses on the Quinault Indian Reservation.",
+  "website": "https://taalafund.org/",
+  "city": "Taholah",
+  "state": "WA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Táala Fund: home",
+    "url": "https://taalafund.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -124.2932,
+   47.3473
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "spruce-root",
+  "name": "Spruce Root",
+  "category": "finance",
+  "subcategory": "Native CDFI and business coaching",
+  "nation": "Indigenous institution of Southeast Alaska (Sealaska)",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Spruce Root: Investing in People and Place",
+   "url": "https://spruceroot.org/"
+  },
+  "description": "Indigenous institution lending to and coaching small businesses across Southeast Alaska.",
+  "website": "https://spruceroot.org/",
+  "city": "Juneau",
+  "state": "AK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Spruce Root: Investing in People and Place",
+    "url": "https://spruceroot.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -134.4197,
+   58.302
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "hawaiian-council",
+  "name": "Hawaiian Council (Council for Native Hawaiian Advancement)",
+  "category": "finance",
+  "subcategory": "Native CDFI and advocacy",
+  "nation": "Native Hawaiian",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Hawaiian Council: We Uplift Lāhui",
+   "url": "https://www.hawaiiancouncil.org/"
+  },
+  "description": "Native Hawaiian community development organisation and Native CDFI offering loans, homebuyer help and the annual Native Hawaiian Convention.",
+  "website": "https://www.hawaiiancouncil.org/",
+  "city": "Kapolei",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Hawaiian Council: We Uplift Lāhui",
+    "url": "https://www.hawaiiancouncil.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -158.0778,
+   21.334
+  ],
+  "lonlatPrecision": "town"
+ }
+]

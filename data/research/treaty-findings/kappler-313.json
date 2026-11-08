@@ -1,0 +1,102 @@
+{
+  "id": "kappler-313",
+  "name": "Treaty with the Sauk and Foxes, etc., 1830 (Fourth Treaty of Prairie du Chien)",
+  "aka": [
+    "Treaty of Prairie du Chien, 1830"
+  ],
+  "signed": "1830-07-15",
+  "ratified": "1831-02-15",
+  "proclaimed": "1831-02-24",
+  "citation": "7 Stat. 328",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-and-foxes-etc-1830-0305",
+  "nations": [
+    "Sauk and Meskwaki (Sac and Fox)",
+    "Bdewakantunwan (Mdewakanton), Wahpekute, Wahpeton and Sisseton Dakota",
+    "Umoⁿhoⁿ (Omaha)",
+    "Báxoje (Ioway)",
+    "Otoe-Missouria",
+    "Yankton and Santee Dakota"
+  ],
+  "promises": [
+    "Article I: the tribes ceded a large tract in western Iowa and north-western Missouri, which was to be assigned to the tribes living on it or to others the President placed there for hunting and other purposes.",
+    "Articles II and III: the Sac and Fox ceded a strip twenty miles wide south of the 1825 line, and the Mississippi Dakota bands a strip twenty miles wide north of it, from the Mississippi to the Des Moines.",
+    "Article IV: yearly payments for ten years to each nation ($3,000 each to the Sacs and the Foxes, $2,000 to the Mississippi Sioux, $3,000 to the Yankton and Santee, $2,500 each to the Omaha, Ioway and Otoe-Missouria, $500 to the Sacs of the Missouri), with blacksmiths and farm tools.",
+    "Article V: $3,000 a year for ten years for the education of the tribes' children.",
+    "Article IX: a tract on Lake Pepin set apart at the Dakota bands' request for their relatives of mixed descent."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1965-05-19",
+      "what": "The Indian Claims Commission found that the Sac and Fox strip ceded in Article II (Royce Area 152, 2,294,400 acres) was worth $1,835,520 on February 15, 1831, and that the $46,318.55 paid for it was unconscionable. It entered a net judgment of $1,789,201.45, with no offsets.",
+      "whoFoundIt": "Indian Claims Commission, Docket 143, 15 Ind. Cl. Comm. 381 (1965)",
+      "source": {
+        "title": "Sac and Fox Tribe of Indians of Oklahoma et al. v. United States, Docket 143, Opinion of the Commission (1965), 15 Ind. Cl. Comm. 381",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/711",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      },
+      "quote": "which was unconscionable for land having a value of $1,835,520 on the date of taking"
+    },
+    {
+      "kind": "litigation",
+      "date": "1965-03-02",
+      "what": "The claims of the four tribes holding the Article I tract in common (Royce Area 151) were settled by compromise; the Sac and Fox share was a net judgment of $1,131,533.42 in Docket 138, without a finding on the consideration.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 11-A and 138, 15 Ind. Cl. Comm. 42 (1965)",
+      "source": {
+        "title": "Otoe and Missouria Tribe v. United States, Dockets 11-A and 138 et al., Additional Findings of Fact on Compromise Settlement of the Sac and Fox Claims (1965), 15 Ind. Cl. Comm. 42",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/822",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "Royce Area 152, the Sac and Fox strip, 2,294,400 acres (Docket 143). The Dakota strip, Royce Area 153, about two million acres (Docket 142 et al., 1962).",
+  "compensation": "Ten years of annuities, blacksmiths and education money, plus $5,132 in merchandise. The ICC awarded the Sac and Fox $1,789,201.45 for Area 152 (1965) and approved a $1,131,533.42 compromise for their share of Area 151 (1965).",
+  "today": "The Sac and Fox successors are the Sac and Fox Nation (Oklahoma), the Sac and Fox Nation of Missouri in Kansas and Nebraska, and the Meskwaki Nation (Sac and Fox Tribe of the Mississippi in Iowa).",
+  "nationVoice": [
+    {
+      "nation": "Meskwaki Nation (Sac and Fox Tribe of the Mississippi in Iowa)",
+      "summary": "Says the United States merged the Sauk and Meskwaki for treaty-making and through a series of land cessions took all their lands, and that Meskwaki families later bought back land in Iowa in 1857.",
+      "url": "https://www.meskwaki.org/history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Sauk and Foxes, etc., 1830 (Kappler, vol. 2, p. 305)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-and-foxes-etc-1830-0305",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Sac and Fox Tribe of Indians of Oklahoma et al. v. United States, Docket 143, Opinion of the Commission (1965), 15 Ind. Cl. Comm. 381",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/711",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sac and Fox Tribe of Indians of Oklahoma et al. v. United States, Docket 143, Final Order (1965)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/674",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Otoe and Missouria Tribe v. United States, Dockets 11-A and 138 et al., Additional Findings of Fact on Compromise Settlement of the Sac and Fox Claims (1965), 15 Ind. Cl. Comm. 42",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/822",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sisseton and Wahpeton Bands et al. v. United States, Dockets 142, 359-363 and 332-A, Opinion of the Commission (1962), 10 Ind. Cl. Comm. 137",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/559",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History",
+      "url": "https://www.meskwaki.org/history/",
+      "publisher": "Meskwaki Nation (Sac and Fox Tribe of the Mississippi in Iowa)"
+    }
+  ],
+  "openQuestions": [
+    "The outcome of the Mdewakanton and Wahpekute claim for the Dakota strip (Royce Area 153, Docket 359) was not traced; the 1962 opinion only settled title.",
+    "The Omaha, Ioway and Otoe-Missouria shares of Area 151 were also compromised (Dockets 11-A and 138); their amounts were not recorded here.",
+    "No Sac and Fox Nation (Oklahoma) page on this treaty was found."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

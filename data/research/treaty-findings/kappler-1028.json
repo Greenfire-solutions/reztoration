@@ -1,0 +1,127 @@
+{
+  "id": "kappler-1028",
+  "name": "Treaty with the Eastern Band Shoshoni and Bannock, 1868 (Fort Bridger Treaty)",
+  "aka": [
+    "Fort Bridger Treaty of 1868",
+    "Treaty of Fort Bridger"
+  ],
+  "signed": "1868-07-03",
+  "ratified": "1869-02-16",
+  "proclaimed": "1869-02-24",
+  "citation": "15 Stat. 673",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-eastern-band-shoshoni-and-bannock-1868-1020",
+  "nations": [
+    "Eastern Shoshone (Wind River)",
+    "Shoshone-Bannock Tribes (Fort Hall)"
+  ],
+  "promises": [
+    "Article 2 set apart the Wind River reservation for the 'absolute and undisturbed use and occupation' of the Shoshone, and promised the Bannock a reservation in the Port Neuf and Kansas Prairie country with the same rights; no unauthorized persons were to settle or reside on them.",
+    "Article 4 kept the right to hunt on the unoccupied lands of the United States so long as game may be found there and peace subsists.",
+    "Article 11: no cession of any part of the reservations held in common would be valid unless signed by a majority of the adult men occupying or interested in it.",
+    "Agency buildings, schools, a physician, farmer and mechanics, clothing and goods each year (Articles 3, 7, 9, 10)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1937-01-04",
+      "what": "In 1878 the United States brought a band of Northern Arapaho onto the Wind River reservation under military escort and kept them there although Shoshone consent had been refused. The Supreme Court held this broke the government's treaty duty to keep strangers off the reservation without Shoshone consent, was an appropriation of half the reservation, and required just compensation with interest.",
+      "whoFoundIt": "Shoshone Tribe v. United States, 299 U.S. 476 (1937)",
+      "source": {
+        "title": "Shoshone Tribe of Indians of the Wind River Reservation v. United States, 299 U.S. 476 (1937)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/299/476",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
+      "quote": "That duty was not fufilled."
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1954-08-20",
+      "what": "By the Brunot agreement of September 26, 1872, the Shoshone ceded the southern part of the Wind River reservation for $27,500, less than four cents an acre. The Indian Claims Commission found the land worth $560,513.60 and the price unconscionable.",
+      "whoFoundIt": "Indian Claims Commission, Shoshone Tribe of the Wind River Reservation v. United States, Docket 63, opinion of August 20, 1954 (3 Ind. Cl. Comm. 313)",
+      "source": {
+        "title": "Shoshone Tribe of Indians of the Wind River Reservation v. United States, Docket No. 63, Opinion of the Commission, August 20, 1954",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/434",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1896",
+      "what": "In Ward v. Race Horse the Supreme Court held that Wyoming's statehood ended the Article 4 hunting right of the Bannock. In 2019 the Court said Race Horse had been repudiated to the extent it held treaty rights can be impliedly extinguished at statehood, leaving the earlier ruling as a denial of the right that the Court itself no longer accepts.",
+      "whoFoundIt": "Ward v. Race Horse, 163 U.S. 504 (1896), as described in Herrera v. Wyoming, 587 U.S. ___ (2019), No. 17-532",
+      "source": {
+        "title": "Herrera v. Wyoming, No. 17-532 (May 20, 2019)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/17-532",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1872",
+      "what": "The Shoshone-Bannock Tribes say the Fort Hall Reservation set aside under this treaty originally held 1.8 million acres, was reduced to 1.2 million acres in 1872 by a survey error, and was reduced further by later legislation and allotment.",
+      "whoFoundIt": "Shoshone-Bannock Tribes, About page",
+      "source": {
+        "title": "About the Shoshone-Bannock Tribes",
+        "url": "https://www.sbtribes.com/about/",
+        "publisher": "Shoshone-Bannock Tribes"
+      }
+    }
+  ],
+  "landTaken": "The southern part of the Wind River reservation ceded in 1872 (Royce's Lander cession; the Commission's 1954 opinion refers to 700,642 acres claimed, with the government arguing for a smaller area). The Shoshone-Bannock Tribes state Fort Hall fell from 1.8 to 1.2 million acres in 1872.",
+  "compensation": "The 1937 Supreme Court ruling led to compensation for the Arapaho settlement; the amount was not recorded in this pass. For the 1872 cession the Commission found the $27,500 paid unconscionable against a value of $560,513.60 (1954). A separate gold trespass claim was settled for $120,000 in 1965 (Docket 157).",
+  "today": "Since Herrera v. Wyoming (2019), the identical hunting clause is read under Mille Lacs, not Race Horse. The Eastern Shoshone and Northern Arapaho share the Wind River Reservation.",
+  "nationVoice": [
+    {
+      "nation": "Shoshone-Bannock Tribes",
+      "summary": "The Tribes say the Fort Hall Reservation guaranteed by this treaty was cut by a third through an 1872 survey error and then reduced again by legislation and allotment.",
+      "url": "https://www.sbtribes.com/about/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Eastern Band Shoshoni and Bannock, 1868 (Kappler, vol. 2, p. 1020)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-eastern-band-shoshoni-and-bannock-1868-1020",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Shoshone Tribe of Indians of the Wind River Reservation v. United States, 299 U.S. 476 (1937)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/299/476",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Shoshone Tribe of Indians of the Wind River Reservation v. United States, Docket No. 63, Opinion of the Commission, August 20, 1954",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/434",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Shoshone Tribe of Indians of the Wind River Reservation v. United States, Docket No. 157, Final Judgment, February 24, 1965",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/759",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Herrera v. Wyoming, No. 17-532 (2019)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/17-532",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "About the Shoshone-Bannock Tribes",
+      "url": "https://www.sbtribes.com/about/",
+      "publisher": "Shoshone-Bannock Tribes"
+    },
+    {
+      "title": "Treaty between the United States of America and the Eastern Band of Shoshonees and the Bannack Tribe of Indians, 15 Stat. 673",
+      "url": "https://www.govinfo.gov/link/statute/15/673",
+      "publisher": "US Government Publishing Office (govinfo), United States Statutes at Large"
+    }
+  ],
+  "openQuestions": [
+    "Settled in audit: the Tribal Treaties Database prints 'Ratified Feb. 26, 1869', but the Statutes at Large (15 Stat. 673) states 'Ratification advised, February 16, 1869' and quotes the Senate resolution of that date; February 16, 1869 is correct and February 26 is a misprint carried into several tribal and reference pages.",
+    "The final award on the 1872 cession (Docket 63, 1958 opinion) and the amount paid after the 1937 and 1938 Supreme Court rulings were not recorded.",
+    "The Fort Hall survey error of 1872 and the later cessions (Pocatello townsite 1888, the 1898 agreement ratified 1900) were not traced to a finding; Docket 326-D for the Shoshone-Bannock ended in a settlement that was not read in full.",
+    "The Eastern Shoshone Tribe's own account was not found online in this pass.",
+    "Audit 2026-11-07: ratification date confirmed as February 16, 1869 from the Statutes at Large (added as a source). Shoshone Tribe v. United States (decided January 1937; quote exact, including the source's spelling 'fufilled'; Arapaho brought under military escort, consent refused), Docket 63 ($27,500, less than 4 cents an acre, 80 cents an acre, $560,513.60 as of September 26, 1872, unconscionable), Docket 157 ($120,000 by compromise, recorded only as compensation), Herrera's account of Race Horse and the treaty articles were re-read and confirmed."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

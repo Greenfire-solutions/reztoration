@@ -1,0 +1,470 @@
+[
+ {
+  "api": "https://www.loc.gov/{collections/edward-s-curtis|audio|photos|search}/?fo=json",
+  "apiKeyNeeded": false,
+  "restricted": false,
+  "id": "loc-curtis",
+  "name": "Edward S. Curtis Collection",
+  "institution": "Library of Congress, Prints & Photographs Division",
+  "url": "https://www.loc.gov/collections/edward-s-curtis/",
+  "kinds": [
+   "photo"
+  ],
+  "rights": "LoC is unaware of any copyright or other restrictions; free to use and reuse. LoC asks users to approach the material with respect for the cultures documented.",
+  "notes": "About 1,200 photographs. Page the whole collection with ?fo=json&c=150 and match nations on the LC subject headings (e.g. \"Navajo Indians--1900-1910\"). Curtis staged and retouched many images; treat captions as his framing, not community voice. Ceremonial, altar, Sun Dance, mask and Pueblo dance images were left out.",
+  "itemsPulled": 337
+ },
+ {
+  "api": "https://www.loc.gov/{collections/omaha-indian-music|audio|photos|search}/?fo=json",
+  "apiKeyNeeded": false,
+  "restricted": false,
+  "id": "loc-afc-omaha",
+  "name": "Omaha Indian Music",
+  "institution": "Library of Congress, American Folklife Center",
+  "url": "https://www.loc.gov/collections/omaha-indian-music/",
+  "kinds": [
+   "audio",
+   "photo"
+  ],
+  "rights": "LoC not aware of U.S. copyright or other restrictions except as noted; access for educational and research purposes; AFC asks for respect for the culture and sensibilities of the people documented (full statement stored on each item).",
+  "notes": "Fletcher and La Flesche wax cylinders (1895 to 1900s) plus 1983 and 1999 Omaha interviews and powwow recordings. Each item JSON (?fo=json) has a public mp3 under resources[].audio. Sacred Pole, Shell Society, Pebble Society and other ceremonial songs exist in the collection and were excluded.",
+  "itemsPulled": 13
+ },
+ {
+  "api": "https://www.loc.gov/{collections/ancestral-voices|audio|photos|search}/?fo=json",
+  "apiKeyNeeded": false,
+  "restricted": false,
+  "id": "loc-afc-ancestral-voices",
+  "name": "Ancestral Voices (Passamaquoddy cylinders)",
+  "institution": "Library of Congress, American Folklife Center",
+  "url": "https://www.loc.gov/collections/ancestral-voices/",
+  "kinds": [
+   "audio"
+  ],
+  "rights": "Collection rights statement stored on each item (see item JSON item.rights).",
+  "notes": "Jesse Walter Fewkes 1890 cylinders of Passamaquoddy speakers in Calais, Maine, among the first field recordings ever made. The Snake song and dance description items were excluded as ceremonial.",
+  "itemsPulled": 14
+ },
+ {
+  "api": "https://www.loc.gov/{collections/united-houma-nation-culture-bearers-in-coastal-communities-of-louisiana|audio|photos|search}/?fo=json",
+  "apiKeyNeeded": false,
+  "restricted": false,
+  "id": "loc-afc-houma",
+  "name": "United Houma Nation Culture Bearers in Coastal Communities of Louisiana",
+  "institution": "Library of Congress, American Folklife Center",
+  "url": "https://www.loc.gov/collections/united-houma-nation-culture-bearers-in-coastal-communities-of-louisiana/",
+  "kinds": [
+   "video",
+   "photo",
+   "document"
+  ],
+  "rights": "Collection rights statement stored on each item.",
+  "notes": "31 items: interviews by Monique Verdin with Houma carvers, basket makers and fishers. Small, all Houma, community-centred.",
+  "itemsPulled": 14
+ },
+ {
+  "api": "https://www.loc.gov/{collections/neah-bays-path-to-wellness|audio|photos|search}/?fo=json",
+  "apiKeyNeeded": false,
+  "restricted": false,
+  "id": "loc-afc-neah-bay",
+  "name": "Neah Bay's Path to Wellness",
+  "institution": "Library of Congress, American Folklife Center",
+  "url": "https://www.loc.gov/collections/neah-bays-path-to-wellness/",
+  "kinds": [
+   "video",
+   "photo",
+   "document"
+  ],
+  "rights": "Collection rights statement stored on each item.",
+  "notes": "19 Makah food and plant-gathering videos and workshops recorded at Neah Bay.",
+  "itemsPulled": 14
+ },
+ {
+  "api": "https://www.loc.gov/{collections/native-american-constitutions-and-legal-materials|audio|photos|search}/?fo=json",
+  "apiKeyNeeded": false,
+  "restricted": false,
+  "id": "loc-law-constitutions",
+  "name": "Native American Constitutions and Legal Materials",
+  "institution": "Library of Congress, Law Library",
+  "url": "https://www.loc.gov/collections/native-american-constitutions-and-legal-materials/",
+  "kinds": [
+   "document"
+  ],
+  "rights": "Collection rights statement stored on each item.",
+  "notes": "About 440 tribal constitutions, charters and codes, mostly 1930s IRA era. Titles name the tribe, which makes nation matching reliable. Good civic layer for the map.",
+  "itemsPulled": 147
+ },
+ {
+  "api": "https://www.loc.gov/{collections/grabill|audio|photos|search}/?fo=json",
+  "apiKeyNeeded": false,
+  "restricted": false,
+  "id": "loc-grabill",
+  "name": "Grabill Collection",
+  "institution": "Library of Congress, Prints & Photographs Division",
+  "url": "https://www.loc.gov/collections/grabill/",
+  "kinds": [
+   "photo"
+  ],
+  "rights": "Collection rights statement stored on each item.",
+  "notes": "John C. H. Grabill photographs, Dakota Territory 1887 to 1892, many Lakota camps. The collection includes photographs of the dead at Wounded Knee; all such images were excluded.",
+  "itemsPulled": 8
+ },
+ {
+  "api": "https://www.loc.gov/{collections/florida-folklife-from-the-works-progress-administration|audio|photos|search}/?fo=json",
+  "apiKeyNeeded": false,
+  "restricted": false,
+  "id": "loc-afc-florida-wpa",
+  "name": "Florida Folklife from the WPA Collections, 1937-1942",
+  "institution": "Library of Congress, American Folklife Center",
+  "url": "https://www.loc.gov/collections/florida-folklife-from-the-works-progress-administration/",
+  "kinds": [
+   "audio",
+   "document",
+   "photo"
+  ],
+  "rights": "Collection rights statement stored on each item.",
+  "notes": "Search the collection for Seminole and Miccosukee; only a small part is Native.",
+  "itemsPulled": 5
+ },
+ {
+  "api": "https://www.loc.gov/audio/?q=<LC subject e.g. Navajo Indians>&fo=json",
+  "apiKeyNeeded": false,
+  "restricted": false,
+  "id": "loc-afc-audio",
+  "name": "American Folklife Center and other LoC audio (search)",
+  "institution": "Library of Congress",
+  "url": "https://www.loc.gov/audio/",
+  "kinds": [
+   "audio"
+  ],
+  "rights": "Per collection; the exact statement is copied onto each item from item.rights.",
+  "notes": "Search by LC subject form (\"Hopi Indians\"), keep only results whose subjects carry that heading, skip the National Jukebox (commercial \"Indian\" novelty records). Many results are catalog records without online audio. Federal Cylinder Project material is catalogued at AFC but most of it is not online; it is reached through AFC reference, not this API. Do not send a spoofed browser user agent: loc.gov answers a plain client but shows a Cloudflare challenge to some agents. Item JSON endpoints returned HTTP 429 after a long run of about one request per second, so pace item lookups more slowly than that.",
+  "itemsPulled": 18
+ },
+ {
+  "api": "https://www.loc.gov/photos/?q=<LC subject e.g. Catawba Indians>&fo=json",
+  "apiKeyNeeded": false,
+  "restricted": false,
+  "id": "loc-pnp",
+  "name": "Prints & Photographs Online Catalog (search, excluding Curtis)",
+  "institution": "Library of Congress, Prints & Photographs Division",
+  "url": "https://www.loc.gov/photos/",
+  "kinds": [
+   "photo"
+  ],
+  "rights": "Per item; the exact item.rights text is fetched for every record (P&P rights vary item to item).",
+  "notes": "Used to fill thin nations. Keep only results whose LC subject heading names the nation. Many P&P photographs are 19th century studio or government portraits.",
+  "itemsPulled": 73
+ },
+ {
+  "api": "https://api.si.edu/openaccess/api/v1.0/search?q=<terms> AND unit_code:NMAI AND online_media_type:Images&api_key=<key>",
+  "apiKeyNeeded": true,
+  "restricted": false,
+  "id": "si-nmai",
+  "name": "National Museum of the American Indian (Smithsonian Open Access)",
+  "institution": "Smithsonian Institution",
+  "url": "https://americanindian.si.edu/collections-search",
+  "kinds": [
+   "photo"
+  ],
+  "rights": "Per record in content.descriptiveNonRepeating.metadata_usage.access; CC0 records are public domain dedication. Non-CC0 records are \"Usage conditions apply\".",
+  "notes": "DEMO_KEY works but is capped at roughly 30 requests per hour and 50 per day per IP, which was hit during this run; a free api.data.gov key is needed for real use (not signed up). Culture/People field gives the nation as NMAI writes it, e.g. \"Diné (Navajo)\". Each NMAI record links a \"Contact us\" page for community corrections.",
+  "itemsPulled": 0
+ },
+ {
+  "api": "https://api.si.edu/openaccess/api/v1.0/search?q=<terms> AND unit_code:NAA&type=ead_component&api_key=<key>",
+  "apiKeyNeeded": true,
+  "restricted": false,
+  "id": "si-naa",
+  "name": "National Anthropological Archives (Smithsonian)",
+  "institution": "Smithsonian Institution, NMNH",
+  "url": "https://naturalhistory.si.edu/research/anthropology/collections-and-archives/national-anthropological-archives",
+  "kinds": [
+   "photo",
+   "document",
+   "audio"
+  ],
+  "rights": "Per record; many NAA records are not CC0. Check metadata_usage.access on each.",
+  "notes": "NAA records are archival components (type=ead_component), not edanmdm objects, so default searches return nothing. Holds BAE photographs, field notes and manuscripts. Not pulled in this run because the DEMO_KEY rate limit was exhausted.",
+  "itemsPulled": 0
+ },
+ {
+  "api": "https://archive.org/advancedsearch.php?q=subject:\"<Nation> Indians\" AND mediatype:texts AND date:[1700-01-01 TO 1928-12-31] AND -collection:inlibrary AND -collection:printdisabled&fl[]=...&output=json",
+  "apiKeyNeeded": false,
+  "restricted": false,
+  "id": "ia-texts",
+  "name": "Internet Archive: American Libraries public domain texts",
+  "institution": "Internet Archive",
+  "url": "https://archive.org/details/americana",
+  "kinds": [
+   "story",
+   "document"
+  ],
+  "rights": "Per item field possible-copyright-status (usually NOT_IN_COPYRIGHT for pre-1929 scans); copied exactly where present, otherwise \"unknown\".",
+  "notes": "Scanned BAE reports, legends, grammars and histories. Excluding inlibrary and printdisabled keeps only openly readable scans. Almost all are written by outsiders. Books whose subjects are religion, rites, ceremonies or sacred material were left out. Published \"legends\" can still include stories some nations only tell in winter; the map should say so.",
+  "itemsPulled": 454
+ },
+ {
+  "api": "https://digitalcollections.lib.washington.edu/digital/bl/dmwebservices/index.php?q=dmQuery/loc/subjec^<term>^all^and/title!date!subjec!descri!rights/nosort/80/1/0/0/0/0/0/0/json",
+  "apiKeyNeeded": false,
+  "restricted": false,
+  "id": "uw-aipnw",
+  "name": "American Indians of the Pacific Northwest",
+  "institution": "University of Washington Libraries Special Collections",
+  "url": "https://digitalcollections.lib.washington.edu/digital/collection/loc",
+  "kinds": [
+   "photo",
+   "document"
+  ],
+  "rights": "Per item; mostly http://rightsstatements.org/vocab/CNE/1.0/ (Copyright Not Evaluated).",
+  "notes": "CONTENTdm; image portion alias \"loc\", text portion alias \"lctext\". robots.txt disallows the HTML /search/ pages but not the dmwebservices API; Crawl-Delay 1. Thumbnails at /digital/api/singleitem/collection/<alias>/id/<ptr>/thumbnail.",
+  "itemsPulled": 205
+ },
+ {
+  "api": "https://vilda.alaska.edu/digital/bl/dmwebservices/index.php?q=dmQuery/all/CISOSEARCHALL^<term>^all^and/.../json",
+  "apiKeyNeeded": false,
+  "restricted": false,
+  "id": "alaska-digital-archives",
+  "name": "Alaska's Digital Archives",
+  "institution": "Alaska State Library, University of Alaska and partner museums",
+  "url": "https://vilda.alaska.edu/",
+  "kinds": [
+   "photo",
+   "audio",
+   "video",
+   "document"
+  ],
+  "rights": "Per item field \"Ordering & Use\" (nickname rights).",
+  "notes": "CONTENTdm across 17 partner collections including Sitka Tribe of Alaska, Igiugig and Museum of the Aleutians. Crawl-Delay 1.",
+  "itemsPulled": 38
+ },
+ {
+  "api": "https://archive.library.nau.edu/digital/bl/dmwebservices/index.php?q=dmQuery/cpa/CISOSEARCHALL^<term>^all^and/.../json",
+  "apiKeyNeeded": false,
+  "restricted": false,
+  "id": "nau-cpda",
+  "name": "Colorado Plateau Digital Archives",
+  "institution": "Northern Arizona University Cline Library",
+  "url": "https://archive.library.nau.edu/digital/collection/cpa",
+  "kinds": [
+   "photo",
+   "audio",
+   "document"
+  ],
+  "rights": "Per item; commonly \"Digital surrogates are the property of the repository. Reproduction requires permission.\"",
+  "notes": "Strong on Navajo, Hopi, Havasupai, Hualapai, Southern Paiute and Apache. Includes oral histories.",
+  "itemsPulled": 43
+ },
+ {
+  "api": "https://archive.library.nau.edu/digital/bl/dmwebservices/index.php?q=dmQuery/hcpo/...",
+  "apiKeyNeeded": false,
+  "restricted": false,
+  "id": "hopi-cpo-nau",
+  "name": "Hopi Cultural Preservation Office collection (hosted at NAU)",
+  "institution": "Hopi Cultural Preservation Office with NAU Cline Library",
+  "url": "https://archive.library.nau.edu/digital/collection/hcpo",
+  "kinds": [
+   "photo"
+  ],
+  "rights": "Digital surrogates are the property of the repository. Reproduction requires permission.",
+  "notes": "About 650 Milton Snow BIA photographs of Hopi roads, schools, farms and daily life, curated with the Hopi Tribe. The Hopi Tribe asks that ceremonies, katsinam and dances not be shown; anything matching those terms was excluded. Ask HCPO before any reuse beyond linking.",
+  "itemsPulled": 6
+ },
+ {
+  "api": "https://archive.library.nau.edu/digital/bl/dmwebservices/index.php?q=dmQuery/nnm/...",
+  "apiKeyNeeded": false,
+  "restricted": false,
+  "id": "navajo-nation-museum-nau",
+  "name": "Navajo Nation Museum collection (hosted at NAU)",
+  "institution": "Navajo Nation Museum with NAU Cline Library",
+  "url": "https://archive.library.nau.edu/digital/collection/nnm",
+  "kinds": [
+   "photo"
+  ],
+  "rights": "Digital surrogates are the property of the repository. Reproduction requires permission.",
+  "notes": "77 photographs from the Navajo Nation Council Public Relations Department, 1950s. A nation-held source; prefer it over outsider photographs where possible.",
+  "itemsPulled": 6
+ },
+ {
+  "api": "https://dlg.usg.edu/records.json?q=\"Cherokee Indians\"&per_page=60",
+  "apiKeyNeeded": false,
+  "restricted": false,
+  "id": "dlg",
+  "name": "Digital Library of Georgia",
+  "institution": "University System of Georgia, GALILEO",
+  "url": "https://dlg.usg.edu/",
+  "kinds": [
+   "document",
+   "photo"
+  ],
+  "rights": "Per item rightsstatements.org URI in dc_right (copied exactly).",
+  "notes": "Blacklight JSON. robots.txt disallows /records? HTML search pages; the .json endpoint is not listed, so it was used lightly (one query per nation, 2 s apart). Match on dcterms_subject to avoid Cherokee County and similar place names. Skip nge_ ids (Georgia Encyclopedia articles).",
+  "itemsPulled": 41
+ },
+ {
+  "api": "https://www.digitalcommonwealth.org/search.json?q=<term>&per_page=50",
+  "apiKeyNeeded": false,
+  "restricted": false,
+  "id": "digital-commonwealth",
+  "name": "Digital Commonwealth",
+  "institution": "Boston Public Library and Massachusetts libraries",
+  "url": "https://www.digitalcommonwealth.org/",
+  "kinds": [
+   "photo",
+   "document"
+  ],
+  "rights": "Per item rights_ss and license_ss (copied exactly).",
+  "notes": "Blacklight JSON; robots Crawl-Delay 5, honoured. Useful for Wampanoag, Nipmuc, Massachusett and Abenaki material.",
+  "itemsPulled": 44
+ },
+ {
+  "api": "https://api.dp.la/v2/items?q=<term>&api_key=<key>",
+  "apiKeyNeeded": true,
+  "restricted": false,
+  "id": "dpla",
+  "name": "Digital Public Library of America",
+  "institution": "DPLA",
+  "url": "https://dp.la/",
+  "kinds": [
+   "photo",
+   "document",
+   "audio",
+   "video"
+  ],
+  "rights": "Per item, aggregated from contributing hubs (rightsstatements.org or CC).",
+  "notes": "Needs a free API key requested by email; not signed up. Aggregates most US state hubs, so it would fill gaps (Plains and Southeast especially). The web search at dp.la is public for people.",
+  "itemsPulled": 0
+ },
+ {
+  "api": "https://catalog.hathitrust.org/api/volumes/brief/oclc/<n>.json",
+  "apiKeyNeeded": false,
+  "restricted": false,
+  "id": "hathitrust",
+  "name": "HathiTrust Digital Library (full view)",
+  "institution": "HathiTrust",
+  "url": "https://www.hathitrust.org/",
+  "kinds": [
+   "document",
+   "story"
+  ],
+  "rights": "Per volume (pd, pdus, ic); only full-view public domain volumes are open.",
+  "notes": "babel and catalog hosts returned a Cloudflare browser challenge to scripted requests, so nothing was pulled. The Bibliographic API works by known OCLC/ISBN number only, no subject search.",
+  "itemsPulled": 0
+ },
+ {
+  "api": null,
+  "apiKeyNeeded": false,
+  "restricted": true,
+  "id": "aps-cnair",
+  "name": "APS Center for Native American and Indigenous Research and Indigenous Subject Guide",
+  "institution": "American Philosophical Society",
+  "url": "https://www.amphilsoc.org/library/CNAIR",
+  "kinds": [
+   "audio",
+   "document",
+   "photo"
+  ],
+  "rights": "APS Protocols for the Treatment of Indigenous Materials; some materials are restricted at the request of communities.",
+  "notes": "Large Native language and audio holdings (Boas, Speck, Sapir and others). APS applies community protocols and restricts culturally sensitive items, and the Indigenous Subject Guide (indigenousguide.amphilsoc.org) served a Cloudflare challenge. Map should link the guide entry per nation and point people to APS and the community, not copy items.",
+  "itemsPulled": 0
+ },
+ {
+  "api": null,
+  "apiKeyNeeded": false,
+  "restricted": true,
+  "id": "plateau-portal",
+  "name": "Plateau Peoples' Web Portal",
+  "institution": "Washington State University with Plateau tribes (Mukurtu)",
+  "url": "https://plateauportal.libraries.wsu.edu/",
+  "kinds": [
+   "photo",
+   "audio",
+   "video",
+   "document",
+   "story"
+  ],
+  "rights": "Tribal cultural protocols and Traditional Knowledge labels set by each participating tribe; some items visible only to community members.",
+  "notes": "Mukurtu portal curated by the Coeur d'Alene, Colville, Spokane, Umatilla, Yakama, Nez Perce, Warm Springs and other Plateau tribes. Scripted requests got HTTP 403, so nothing was pulled. The right pattern is to link each nation to its portal community page and let tribal protocols govern access.",
+  "itemsPulled": 0
+ },
+ {
+  "api": null,
+  "apiKeyNeeded": false,
+  "restricted": true,
+  "id": "cla-berkeley",
+  "name": "California Language Archive",
+  "institution": "UC Berkeley, Survey of California and Other Indian Languages",
+  "url": "https://cla.berkeley.edu/",
+  "kinds": [
+   "audio",
+   "document"
+  ],
+  "rights": "CLA Terms & Conditions; access levels set per item, some restricted by depositors or communities.",
+  "notes": "Has language pages for about 76 California languages (sitemap at https://cla.berkeley.edu//sitemap.xml) and Hearst Museum sound recordings. The item search runs on an undocumented API, so nothing was pulled. Link per-language pages (e.g. /languages/achumawi.html).",
+  "itemsPulled": 0
+ },
+ {
+  "api": null,
+  "apiKeyNeeded": false,
+  "restricted": true,
+  "id": "indiana-atm",
+  "name": "Archives of Traditional Music",
+  "institution": "Indiana University",
+  "url": "https://libraries.indiana.edu/archives-traditional-music",
+  "kinds": [
+   "audio"
+  ],
+  "rights": "Most recordings are listen-on-site or by request; some Native collections carry community restrictions.",
+  "notes": "Holds major Native American cylinder and field collections. Not openly streamable, so the map should link and explain the request process.",
+  "itemsPulled": 0
+ },
+ {
+  "api": "CONTENTdm dmwebservices (blocked)",
+  "apiKeyNeeded": false,
+  "restricted": false,
+  "id": "arizona-memory",
+  "name": "Arizona Memory Project",
+  "institution": "Arizona State Library, Archives and Public Records",
+  "url": "https://azmemory.azlibrary.gov/",
+  "kinds": [
+   "photo",
+   "document"
+  ],
+  "rights": "Per item.",
+  "notes": "CONTENTdm, but every scripted request got a Cloudflare challenge, so nothing was pulled.",
+  "itemsPulled": 0
+ },
+ {
+  "api": null,
+  "apiKeyNeeded": false,
+  "restricted": false,
+  "id": "utah-marriott-doris-duke",
+  "name": "Doris Duke American Indian Oral History (University of Utah)",
+  "institution": "University of Utah J. Willard Marriott Library",
+  "url": "https://collections.lib.utah.edu/",
+  "kinds": [
+   "audio",
+   "document",
+   "story"
+  ],
+  "rights": "Per item.",
+  "notes": "Doris Duke oral histories from the 1960s and 70s, strong for Great Basin nations (Ute, Goshute, Shoshone, Paiute). The site served a JavaScript challenge to scripted requests; not pulled. Sister Doris Duke collections are at Oklahoma, South Dakota, Florida, Arizona, Illinois and New Mexico.",
+  "itemsPulled": 0
+ },
+ {
+  "api": null,
+  "apiKeyNeeded": false,
+  "restricted": false,
+  "id": "hawaii-digital-archives",
+  "name": "Digital Archives of Hawaii",
+  "institution": "Hawaii State Archives",
+  "url": "https://digitalarchives.hawaii.gov/",
+  "kinds": [
+   "photo",
+   "document"
+  ],
+  "rights": "Per item.",
+  "notes": "Open web site, no documented API found. Kingdom-era government records and photographs. Papakilo Database and UH Manoa digital collections served bot challenges.",
+  "itemsPulled": 0
+ }
+]

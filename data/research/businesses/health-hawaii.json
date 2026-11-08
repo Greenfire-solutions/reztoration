@@ -1,0 +1,206 @@
+[
+ {
+  "id": "action-rehab",
+  "name": "Action Rehab",
+  "category": "health",
+  "subcategory": "physical therapy and massage",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Action Rehab",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-bfhzf"
+  },
+  "description": "Honolulu physical therapy and massage clinic.",
+  "website": "http://www.actionrehabhawaii.com",
+  "address": "863 Halekauwila St",
+  "city": "Honolulu",
+  "state": "HI",
+  "zip": "96813",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Action Rehab",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-bfhzf"
+   },
+   {
+    "title": "Action Rehab website",
+    "url": "http://www.actionrehabhawaii.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.8564,
+   21.2977
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "kukui-lifestyle-medicine-clinic",
+  "name": "Kukui Lifestyle Medicine Clinic",
+  "category": "health",
+  "subcategory": "lifestyle medicine clinic",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Kukui Lifestyle Medicine Clinic",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-bp6px"
+  },
+  "description": "South Kona clinic practising lifestyle and preventive medicine.",
+  "website": "http://www.kukuilifestylemedicine.com",
+  "address": "82-6066 Mamalahoa Hwy",
+  "city": "Captain Cook",
+  "state": "HI",
+  "zip": "96704",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Kukui Lifestyle Medicine Clinic",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-bp6px"
+   },
+   {
+    "title": "Kukui Lifestyle Medicine Clinic website",
+    "url": "http://www.kukuilifestylemedicine.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -155.9062,
+   19.4867
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "ke-ola-kino-physical-therapy",
+  "name": "Ke Ola Kino Physical Therapy",
+  "category": "health",
+  "subcategory": "physical therapy",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Ke Ola Kino Physical Therapy",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-nkwhr"
+  },
+  "description": "Hilo physical therapy clinic serving athletes and the Native Hawaiian community.",
+  "website": "0",
+  "city": "Hilo",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Ke Ola Kino Physical Therapy",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-nkwhr"
+   },
+   {
+    "title": "Ke Ola Kino Physical Therapy website",
+    "url": "0"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -155.0816,
+   19.7074
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "hapa-heaven-salon-spa",
+  "name": "Hapa Heaven Salon & Spa",
+  "category": "health",
+  "subcategory": "hair salon and spa",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Hapa Heaven Salon & Spa",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-2wh5p"
+  },
+  "description": "Hawaii Kai salon and day spa.",
+  "website": "http://www.hapaheavensalon.com",
+  "address": "7192 Kalanianaole Hwy",
+  "city": "Honolulu",
+  "state": "HI",
+  "zip": "96825",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Hapa Heaven Salon & Spa",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-2wh5p"
+   },
+   {
+    "title": "Hapa Heaven Salon & Spa website",
+    "url": "http://www.hapaheavensalon.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.7049,
+   21.2761
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "knots-out-llc",
+  "name": "Knots Out LLC",
+  "category": "health",
+  "subcategory": "massage and chronic pain relief",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Knots Out LLC",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-ex8k4"
+  },
+  "description": "Kailua massage practice focused on chronic pain relief.",
+  "website": "1",
+  "city": "Kailua",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Knots Out LLC",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-ex8k4"
+   },
+   {
+    "title": "Knots Out LLC website",
+    "url": "1"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -155.9969,
+   19.6419
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "kelena-lomi-massage-llc",
+  "name": "Kelena Lomi Massage LLC",
+  "category": "health",
+  "subcategory": "lomilomi massage",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Kelena Lomi Massage LLC",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-hcers"
+  },
+  "description": "Kapaa massage practice offering Hawaiian lomilomi.",
+  "website": "1",
+  "city": "Kapaa",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Kelena Lomi Massage LLC",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-hcers"
+   },
+   {
+    "title": "Kelena Lomi Massage LLC website",
+    "url": "1"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -159.3192,
+   22.0747
+  ],
+  "lonlatPrecision": "town"
+ }
+]

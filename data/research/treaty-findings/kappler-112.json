@@ -1,0 +1,79 @@
+{
+  "id": "kappler-112",
+  "name": "Treaty with the Kickapoo, 1809",
+  "aka": [
+    "Treaty of Vincennes with the Kickapoo, December 9, 1809"
+  ],
+  "signed": "1809-12-09",
+  "ratified": "1810-03-05",
+  "citation": "7 Stat. 117",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-kickapoo-1809-0104",
+  "nations": [
+    "Kickapoo Tribe in Kansas",
+    "Kickapoo Tribe of Oklahoma",
+    "Kickapoo Traditional Tribe of Texas"
+  ],
+  "promises": [
+    "For the Kickapoo's assent to the Fort Wayne cession, a permanent additional annuity of $400 and $800 in goods (Article 1).",
+    "For a further cession between that tract, the Wabash and the Vermilion River, an annuity of $100 and $700 in goods (Article 2).",
+    "The Treaty of Greenville's terms on annuity payment and on the Indians' right to hunt on ceded land would apply (Article 3)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1969-12-05",
+      "what": "The Indian Claims Commission found the Kickapoo received $11,500 in value ($1,500 in goods and $500 in annuities commuted at $10,000) for the two tracts ceded under this treaty (Royce Areas 73 and 74, 405,000 and 91,000 acres in the Wabash valley), found them worth $1.40 and $1.50 an acre, held the consideration unconscionable, and found the Kickapoo entitled to $351,750 less the $11,500 credit.",
+      "whoFoundIt": "Indian Claims Commission, Kickapoo Tribe of Kansas v. United States, Docket 317 (consolidated with Dockets 99 and 314-C), Supplemental Findings of Fact of 5 December 1969 (22 Ind. Cl. Comm. 186)",
+      "source": {
+        "title": "Peoria Tribe v. United States, Dockets 99, 314-C and 317, Supplemental Findings of Fact (1969)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2276",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1970-02-11",
+      "what": "The Commission entered a final award of $340,250 to the Kickapoo Tribe of Kansas on behalf of the Kickapoo Tribe.",
+      "whoFoundIt": "Indian Claims Commission, Kickapoo Tribe of Kansas v. United States, Docket 317, Final Award (22 Ind. Cl. Comm. 443)",
+      "source": {
+        "title": "Kickapoo Tribe of Kansas v. United States, Docket 317, Final Award (1970)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2317",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "Royce Area 73 (405,000 acres) and Royce Area 74 (91,000 acres), straddling the Illinois-Indiana line in the Wabash valley (Docket 99/314-C/317 supplemental findings, 1969). The Wea shared in Area 73 (Fort Wayne treaty and convention of 26 October 1809) and joined the cession of Area 74 in 1818.",
+  "compensation": "$1,500 in goods and $500 a year in permanent annuities, valued at $11,500. Final award of $340,250 in 1970, with the United States reserving offset claims for gratuities after 2 January 1810.",
+  "today": "The Commission valued Area 73 as of 5 March 1810, the ratification date of this treaty, and Area 74 as of 7 January 1819, when the Wea consent was ratified.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Kickapoo, 1809 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-kickapoo-1809-0104",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Kickapoo Tribe of Kansas v. United States, Docket 317, Findings of Fact (1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/481",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Peoria Tribe v. United States, Dockets 99, 314-C and 317, Supplemental Findings of Fact (1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2276",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Kickapoo Tribe of Kansas v. United States, Docket 317, Final Award (1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2317",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The Kappler text gives the proclamation date as 'Mar. 8,' with the year cut off in the OSU page.",
+    "A web search for the Kickapoo Tribe in Kansas, Kickapoo Tribe of Oklahoma and Kickapoo Traditional Tribe of Texas accounts of this treaty found no tribal page; a nation statement is still wanted.",
+    "Whether the Greenville hunting rights extended by Article 3 were respected was not researched."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

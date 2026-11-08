@@ -1,0 +1,91 @@
+{
+  "id": "extra-apache-1852",
+  "name": "Treaty with the Apache, 1852 (Treaty of Santa Fe)",
+  "aka": [
+    "Treaty with the Apache Nation, July 1, 1852"
+  ],
+  "signed": "1852-07-01",
+  "ratified": "1853-03-23",
+  "proclaimed": "1853-03-25",
+  "citation": "10 Stat. 979",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-apache-1852-0598",
+  "area": "Apache country in New Mexico Territory, east and west of the Rio Grande (present New Mexico and Arizona); it ceded no land, so Royce has no cession for it.",
+  "presentDayTribes": [
+    "Fort Sill Apache Tribe of Oklahoma",
+    "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico",
+    "Jicarilla Apache Nation, New Mexico"
+  ],
+  "nations": [
+    "Chiricahua Apache (Mangas Coloradas signed at Acoma on July 11, 1852)",
+    "Apache bands east of the Rio Grande (chiefs Cuentas Azules, Blancito, Negrito, Capitan Simon and Capitan Vuelta)"
+  ],
+  "promises": [
+    "Article 9: the United States would, at its earliest convenience, designate, settle and adjust the Apaches' territorial boundaries.",
+    "Article 10: the United States would give donations, presents and implements and adopt other liberal and humane measures as it judged proper.",
+    "Article 2: perpetual peace between the Apache and the United States.",
+    "Article 4: the Apache would refer all aggressions against themselves or their property and territory to the United States for adjustment."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1968-06-28",
+      "what": "The Indian Claims Commission found that, despite the undertaking in this treaty to designate, settle and adjust the Apaches' territorial boundaries, the United States never carried out that obligation. It found that no treaty of cession with the Chiricahua ever became operative and that their lands were taken without consent or compensation, the taking completed on September 4, 1886.",
+      "whoFoundIt": "Indian Claims Commission, Fort Sill Apache Tribe v. United States, Dockets 30-A and 48-A, Finding 10(e), 19 Ind. Cl. Comm. 212 (1968)",
+      "source": {
+        "title": "Fort Sill Apache Tribe et al. v. United States, Dockets 30-A and 48-A, Findings of Fact (1968), 19 Ind. Cl. Comm. 212",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2269",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      },
+      "quote": "this obligation was never carried out by the United States"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1971-08-25",
+      "what": "Final judgment of $15,967,300 to the Fort Sill Apache Tribe and the Chiricahua plaintiffs for their aboriginal lands (Dockets 30-A and 48-A), entered on a stipulation.",
+      "whoFoundIt": "Indian Claims Commission, Final Judgment, Dockets 30, 48, 30-A and 48-A (1971)",
+      "source": {
+        "title": "Fort Sill Apache Tribe of Oklahoma et al. v. United States, Dockets 30, 48, 30-A, 48-A, Final Judgment (1971)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1486",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "compensation": "No land payment under this treaty. The Chiricahua claims for their aboriginal lands ended in a $15,967,300 judgment in 1971 (Dockets 30-A and 48-A).",
+  "today": "The Chiricahua removal and the revocation of their reservation are recorded under cession-1876-10-30-apache. The Fort Sill Apache Tribe says it has since acquired small pieces of land in its home territory in New Mexico and Arizona.",
+  "nationVoice": [
+    {
+      "nation": "Fort Sill Apache Tribe",
+      "summary": "Tells its history as that of Chiricahua survivors imprisoned in Florida and Alabama and then at Fort Sill, about a third of whom kept demanding the lands they had been promised.",
+      "url": "https://fortsillapache-nsn.gov/history-and-traditional-culture/history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Apache, 1852 (Kappler, vol. 2, p. 598)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-apache-1852-0598",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Fort Sill Apache Tribe et al. v. United States, Dockets 30-A and 48-A, Findings of Fact (1968), 19 Ind. Cl. Comm. 212",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2269",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Fort Sill Apache Tribe of Oklahoma et al. v. United States, Dockets 30, 48, 30-A, 48-A, Final Judgment (1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1486",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History",
+      "url": "https://fortsillapache-nsn.gov/history-and-traditional-culture/history/",
+      "publisher": "Fort Sill Apache Tribe"
+    }
+  ],
+  "openQuestions": [
+    "Which present-day nations descend from the five eastern signers was not settled; the Mescalero and Jicarilla are listed as likely, not confirmed.",
+    "The 1855 Meriwether treaties with the Mescalero and Gila Apache, never ratified, are in the OSU database and may deserve extra- files."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

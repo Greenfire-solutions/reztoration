@@ -1,0 +1,43 @@
+{
+  "id": "kappler-418",
+  "name": "Articles Supplementary to the Treaty of Chicago, 1833 (Treaty with the Chippewa, etc., September 27, 1833)",
+  "aka": ["Supplementary Articles of the 1833 Treaty of Chicago"],
+  "signed": "1833-09-27",
+  "proclaimed": "1835-02-21",
+  "citation": "7 Stat. 442",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-etc-1833-0402",
+  "nations": ["Bodéwadmi (Potawatomi) of the Michigan reservations", "Anishinaabe (Ojibwe/Chippewa)", "Odawa (Ottawa)"],
+  "promises": [
+    "A further $100,000: $10,000 for individuals, $25,000 more for claims, $25,000 in goods, provisions and horses, and $40,000 in annuities of $2,000 a year for 20 years.",
+    "The United States would not disturb the Indians on the Michigan reservations in their possession or hunting for three years."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1976-05-26",
+      "what": "The Indian Claims Commission valued the Michigan lands ceded under these articles (Royce Areas 188, 189 and 190, 104,960 acres) together with the main 1833 Chicago cession, found the total consideration of less than $3,000,000 for land worth $6,600,000 unconscionable and awarded $4,239,200.",
+      "whoFoundIt": "Indian Claims Commission, Prairie Band of the Pottawatomie Tribe et al. v. United States, Dockets 15-C, 29-A and 71, 38 Ind. Cl. Comm. 128 (interlocutory order, 26 May 1976; final award, 23 June 1976)",
+      "source": { "title": "Prairie Band of the Pottawatomie Tribe et al. v. United States, Dockets 15-C, 29-A, 71, Interlocutory Order (May 26, 1976)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1764", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+      "quote": "so inadequate as to constitute unconscionable consideration"
+    }
+  ],
+  "landTaken": "104,960 acres in southwestern Michigan (Royce Areas 188, 189 and 190), per the ICC interlocutory order of 26 May 1976.",
+  "compensation": "Included in the $4,239,200 final award of 23 June 1976 for the whole 1833 Chicago cession (38 Ind. Cl. Comm. 389). See kappler-410.",
+  "today": "See kappler-410 for the main treaty.",
+  "nationVoice": [
+    { "nation": "Forest County Potawatomi Community", "summary": "The Community's cultural preservation pages publish the 1833 treaty text, including the receipt of 27 September 1833 for goods delivered.", "url": "https://www.fcpotawatomi.com/cultural-preservation/treaties/september-26-1833/" }
+  ],
+  "sources": [
+    { "title": "Treaty with the Chippewa, etc., 1833, with Articles Supplementary (Kappler)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-etc-1833-0402", "publisher": "Oklahoma State University Libraries" },
+    { "title": "Prairie Band v. United States, Opinion of the Commission, Part 1 (May 26, 1976)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2371", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Prairie Band v. United States, Interlocutory Order (May 26, 1976)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1764", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Prairie Band v. United States, Final Award (June 23, 1976)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2220", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+  ],
+  "openQuestions": [
+    "The Senate struck supplementary Article 4 when ratifying; what it provided was not checked.",
+    "The Pokagon Band's own history of how its people stayed in Michigan after these articles was not looked for; add it to nationVoice."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

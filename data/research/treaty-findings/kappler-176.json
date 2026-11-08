@@ -1,0 +1,88 @@
+{
+  "id": "kappler-176",
+  "name": "Treaty with the Potawatomi, 1818 (Treaty of St. Mary's)",
+  "aka": [
+    "Treaty of St. Mary's (Potawatomi, October 2, 1818)"
+  ],
+  "signed": "1818-10-02",
+  "proclaimed": "1819-01-15",
+  "citation": "7 Stat. 185",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1818-0168",
+  "nations": [
+    "Bodéwadmi (Potawatomi)"
+  ],
+  "promises": [
+    "A perpetual annuity of $2,500 in silver, paid half at Detroit and half at Chicago, for a tract between the Tippecanoe, Wabash and Vermilion rivers and all Potawatomi claims south of the Wabash (Articles 1 and 3).",
+    "Annuities owed under earlier treaties also to be paid in silver (Article 3).",
+    "Sections of land granted to named people, who could not sell without the President's consent (Article 4 and schedule)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1978-08-25",
+      "what": "The Indian Claims Commission valued the Potawatomi interest in Royce Area 98 ceded by this treaty at $357,046, found the only consideration was the $2,500 annuity with a capitalised value of $50,000, held the payment so grossly inadequate as to be unconscionable, and awarded $307,046, made final on September 20, 1978.",
+      "whoFoundIt": "Indian Claims Commission, Pottawatomie Tribe of Indians, the Prairie Band, et al. v. United States, Dockets 15-D, 29-B and 311, Findings of Fact on Value and Consideration (August 25, 1978), 42 Ind. Cl. Comm. 354, and Final Award (September 20, 1978), 43 Ind. Cl. Comm. 308",
+      "source": {
+        "title": "Pottawatomie Tribe et al. v. United States, Dockets 15-D et al., Findings of Fact on Value and Consideration, Part 2 (August 25, 1978)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2085",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "the amounts paid in each instance were so grossly inadequate as to constitute unconscionable consideration"
+    }
+  ],
+  "landTaken": "Part of Royce Area 98, the land between the Tippecanoe, Wabash and Vermilion rivers described in Article 1. The Potawatomi plaintiffs' own valuation treated the Potawatomi interest as an undivided one-third of the 402,870 acres of Tract G and an undivided half of the 351,756 acres of Tract I; the Commission's own division of interests was not copied here.",
+  "compensation": "Award of $307,046 on behalf of the Potawatomi Nation of 1818 (final award, September 20, 1978). The Commission recorded that the $2,500 annuity was reduced to $894.50 after about two thirds of the Potawatomi took citizenship under the 1861 treaty, and was commuted in 1910 under an agreement ratified by the Act of April 4, 1910 (36 Stat. 289).",
+  "today": "The Potawatomi parties in the consolidated proceeding were the Prairie Band, the Hannahville Indian Community, the Forest County Potawatomi Community and the Citizen Band of Potawatomi Indians of Oklahoma, with the Potawatomi Indians of Indiana and Michigan, Inc. intervening; the final award was made on behalf of the Potawatomi Nation of 1818.",
+  "nationVoice": [
+    {
+      "nation": "Pokagon Band of Potawatomi",
+      "summary": "The Band's history says the Neshnabék lived in what is now Wisconsin, southern Michigan, northern Indiana and northern Illinois, and that as the United States frontier moved west, boundary disputes and land cessions became a way of life, followed by removal pressure after 1830.",
+      "url": "https://www.pokagonband-nsn.gov/our-culture/"
+    },
+    {
+      "nation": "Forest County Potawatomi Community",
+      "summary": "The Community's cultural preservation pages publish the full text of the treaty of 2 October 1818 made at St. Mary's.",
+      "url": "https://www.fcpotawatomi.com/cultural-preservation/treaties/october-2-1818/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Potawatomi, 1818 (Kappler, vol. 2, p. 168)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1818-0168",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Pottawatomie Tribe et al. v. United States, Dockets 15-D et al., Findings of Fact on Value and Consideration, Part 2 (August 25, 1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2085",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pottawatomie Tribe et al. v. United States, Dockets 15-D et al., Order Setting Awards Subject to Offsets (August 25, 1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1009",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pottawatomie Tribe et al. v. United States, Dockets 15-D et al., Final Award (September 20, 1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2499",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Our Culture (History)",
+      "url": "https://www.pokagonband-nsn.gov/our-culture/",
+      "publisher": "Pokagon Band of Potawatomi"
+    },
+    {
+      "title": "October 2, 1818",
+      "url": "https://www.fcpotawatomi.com/cultural-preservation/treaties/october-2-1818/",
+      "publisher": "Forest County Potawatomi Community"
+    }
+  ],
+  "openQuestions": [
+    "The same proceeding awarded the Wea $377,874 for their interest in Royce Area 98 under their own 1818 treaty (Docket 314-A); that belongs to the Wea treaty's record, not this one.",
+    "The Commission transferred Docket 15-D and related dockets to the Court of Claims on September 29, 1978 (pointer 931); what remained there was not read.",
+    "No account of this treaty by a Potawatomi nation was found online in this pass."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

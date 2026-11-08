@@ -1,0 +1,180 @@
+[
+ {
+  "id": "navajo-agricultural-products-industry",
+  "name": "Navajo Agricultural Products Industry (NAPI)",
+  "category": "agriculture",
+  "subcategory": "large irrigated farm, Navajo Pride products",
+  "nation": "Navajo Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "NAPI: Farming with Navajo Pride",
+   "url": "https://napi.navajopride.com/"
+  },
+  "description": "Navajo Nation farm enterprise growing corn, beans, potatoes, alfalfa and more under the Navajo Pride label.",
+  "website": "https://napi.navajopride.com/",
+  "city": "Farmington",
+  "state": "NM",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "NAPI: Farming with Navajo Pride",
+    "url": "https://napi.navajopride.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -108.2054,
+   36.7291
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "bow-and-arrow-brand",
+  "name": "Bow and Arrow Brand (Ute Mountain Ute Farm and Ranch)",
+  "category": "agriculture",
+  "subcategory": "corn meal and mill",
+  "nation": "Ute Mountain Ute Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Bow and Arrow Brand: home",
+   "url": "https://bowandarrowbrand.com/"
+  },
+  "description": "Ute Mountain Ute Tribe farm and mill selling stone-ground blue and yellow corn meal and other corn products.",
+  "website": "https://bowandarrowbrand.com/",
+  "shopOnline": "https://bowandarrowbrand.com/",
+  "city": "Towaoc",
+  "state": "CO",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Bow and Arrow Brand: home",
+    "url": "https://bowandarrowbrand.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -108.7234,
+   37.2113
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "tsyunhehkwa",
+  "name": "Tsyunhehkwa",
+  "category": "agriculture",
+  "subcategory": "organic farm, white corn and cannery",
+  "nation": "Oneida Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Oneida Nation: Tsyunhehkwa",
+   "url": "https://oneida-nsn.gov/divisions/environmental/food-ag-area/tsyunhehkwa/"
+  },
+  "description": "Oneida Nation farm growing heirloom white corn and organic produce, with a cannery and retail store.",
+  "website": "https://oneida-nsn.gov/divisions/environmental/food-ag-area/tsyunhehkwa/",
+  "city": "Oneida",
+  "state": "WI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Oneida Nation: Tsyunhehkwa",
+    "url": "https://oneida-nsn.gov/divisions/environmental/food-ag-area/tsyunhehkwa/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -88.1953,
+   44.4992
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "ramona-farms",
+  "name": "Ramona Farms",
+  "category": "agriculture",
+  "subcategory": "tepary beans and heritage grains",
+  "nation": "Akimel O'odham (Pima), Gila River Indian Community",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Ramona Farms: home",
+   "url": "https://ramonafarms.com/"
+  },
+  "description": "Family farm on the Gila River reservation growing tepary beans, heirloom wheat and other traditional crops sold by mail.",
+  "website": "https://ramonafarms.com/",
+  "shopOnline": "https://ramonafarms.com/",
+  "city": "Sacaton",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Ramona Farms: home",
+    "url": "https://ramonafarms.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.7393,
+   33.0767
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "spirit-lake-native-farms",
+  "name": "Spirit Lake Native Farms",
+  "category": "agriculture",
+  "subcategory": "wild rice and native foods",
+  "nation": "Spirit Lake Nation",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Spirit Lake Native Farms",
+   "url": "https://spiritlakenativefarms.com/"
+  },
+  "description": "Spirit Lake business selling wild rice and other foods grown and processed on the reservation.",
+  "website": "https://spiritlakenativefarms.com/",
+  "shopOnline": "https://spiritlakenativefarms.com/",
+  "city": "Fort Totten",
+  "state": "ND",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Spirit Lake Native Farms",
+    "url": "https://spiritlakenativefarms.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -98.9929,
+   47.98
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "sakari-farms",
+  "name": "Sakari Farms",
+  "category": "agriculture",
+  "subcategory": "heirloom seeds, healing oils and hot sauces",
+  "nation": "Inupiaq",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Sakari Farms: home",
+   "url": "https://www.sakarifarms.com/"
+  },
+  "description": "Native and woman owned farm growing tribal heirloom seeds and making oils, teas and hot sauces.",
+  "website": "https://www.sakarifarms.com/",
+  "shopOnline": "https://www.sakarifarms.com/",
+  "city": "Bend",
+  "state": "OR",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Sakari Farms: home",
+    "url": "https://www.sakarifarms.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -121.3153,
+   44.0582
+  ],
+  "lonlatPrecision": "town"
+ }
+]

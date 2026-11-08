@@ -1,0 +1,102 @@
+{
+  "id": "cession-1888-05-01-gros-ventre-piegan",
+  "name": "Agreement with the Indians of the Fort Belknap Agency, 1887 (ratified by the Act of May 1, 1888)",
+  "aka": [
+    "Sweetgrass Hills Agreement (in part)",
+    "Agreement of January 21, 1887"
+  ],
+  "signed": "1887-01-21",
+  "ratified": "1888-05-01",
+  "citation": "25 Stat. 113",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg113.pdf",
+  "nations": [
+    "A'aninin (Gros Ventre)",
+    "Nakoda (Assiniboine) of Fort Belknap",
+    "Amskapi Piikani (Blackfeet Nation)"
+  ],
+  "promises": [
+    "Article II: the Gros Ventre and Assiniboine at Fort Belknap kept a separate reservation on the Milk River, with the Little Rocky Mountains on its south, and gave up their rights in the rest of the joint reservation.",
+    "Article III: $115,000 a year for ten years for the Fort Belknap agency, spent on cattle, goods, clothing, food, tools, schooling, medical care and care of the aged and orphans.",
+    "Article IV: any yearly surplus to be held in the Treasury for the reservation and spent after the ten years ran out.",
+    "Article VI: any member already settled on ceded land could have it allotted to the family."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1967-03-31",
+      "what": "The Indian Claims Commission found that the 14,969,156 acres ceded under the 1886-87 agreements, ratified May 1, 1888, were worth $11,975,324.80 (80 cents an acre) and that the $4,300,000 promised (about 29 cents an acre) was unconscionable on its face. It made interlocutory awards to the Blackfeet Nation, the Assiniboine and the Fort Peck Sioux.",
+      "whoFoundIt": "Indian Claims Commission, Docket 279-A, 18 Ind. Cl. Comm. 241 (1967)",
+      "source": {
+        "title": "Blackfeet and Gros Ventre Tribes v. United States, Docket 279-A, Opinion of the Commission (1967), 18 Ind. Cl. Comm. 241",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2749",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      },
+      "quote": "an agreed consideration of $4,300,000 for lands having a value of $11,975,324.80 as of the date of taking is unconscionable on its face"
+    },
+    {
+      "kind": "nation-statement",
+      "what": "The Fort Belknap Indian Community says its reservation, established in 1888, is what remains of the ancestral territory of the Blackfeet and Assiniboine nations recognised by the treaties of 1851 and 1855, and that pressure from miners forced the tribes to cede parts of the Little Rocky Mountains.",
+      "whoFoundIt": "Fort Belknap Indian Community, History page",
+      "source": {
+        "title": "History",
+        "url": "https://ftbelknap.org/history",
+        "publisher": "Fort Belknap Indian Community"
+      }
+    }
+  ],
+  "landTaken": "The agreements ceded the great joint reservation of the Gros Ventre, Piegan, Blood, Blackfeet and River Crow in northern Montana, except three separate reservations; the ICC put the ceded area at 14,969,156 acres (Docket 279-A findings, 1967).",
+  "compensation": "The 1888 Act promised $4,300,000 over ten years: $165,000 a year for the Fort Peck agency, $115,000 for Fort Belknap and $150,000 for Blackfeet (25 Stat. 113, Art. III). After the 1967 liability finding, the Commission entered final judgments in 1968: $8,679,814.92 to the Blackfeet and Gros Ventre Tribes and $1,161,354.41 to the Fort Peck Sioux, both by compromise of the consideration and offset issues only, and $3,108,506.40 to the Assiniboine of Fort Belknap and Fort Peck, after finding their 1888 payments had already been credited against an earlier Court of Claims award (77 C. Cls. 347).",
+  "today": "The Gros Ventre shared in the 1968 Blackfeet and Gros Ventre final judgment and the Fort Belknap Assiniboine in the Assiniboine award (Docket 279-A). The Little Rocky Mountains part of this reservation was ceded under a further agreement of 1895, not recorded here.",
+  "nationVoice": [
+    {
+      "nation": "Fort Belknap Indian Community (A'aninin and Nakoda)",
+      "summary": "Describes the 1888 reservation as the remnant of the territory the 1851 and 1855 treaties recognised, and the later loss of the Little Rockies as forced by mining pressure.",
+      "url": "https://ftbelknap.org/history"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Act of May 1, 1888, ch. 213, 25 Stat. 113 (ratifying the agreements with the Indians of the Fort Peck, Fort Belknap and Blackfeet agencies)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg113.pdf",
+      "publisher": "U.S. Government Publishing Office, govinfo"
+    },
+    {
+      "title": "Blackfeet and Gros Ventre Tribes v. United States, Docket 279-A, Opinion of the Commission (1967), 18 Ind. Cl. Comm. 241",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2749",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Blackfeet and Gros Ventre Tribes v. United States, Docket 279-A, Findings of Fact (1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1941",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Docket 279-A, Final Judgment for the Blackfeet and Gros Ventre Tribes (1968), 19 Ind. Cl. Comm. 363",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2486",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Docket 279-A, Final Award to Assiniboine Tribes, Intervenors (1968), 19 Ind. Cl. Comm. 361",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2004",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Docket 279-A, Final Judgment for the Sioux Tribe of the Fort Peck Reservation (1968), 19 Ind. Cl. Comm. 365",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1271",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History",
+      "url": "https://ftbelknap.org/history",
+      "publisher": "Fort Belknap Indian Community"
+    }
+  ],
+  "openQuestions": [
+    "Royce lists cession 692 with an executive-order link; whether part of it was taken by executive order rather than by the 1888 Act was not checked.",
+    "Royce's three 1888 cessions (692, 693 and 695) are parts of the one 14,969,156-acre area the ICC valued as a unit; the ICC did not value each agency's part separately.",
+    "The 1888 consideration was not cash to the nations but goods, stock, schooling and agency expenses spent at the Secretary's direction; whether the full ten instalments were spent was not checked."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

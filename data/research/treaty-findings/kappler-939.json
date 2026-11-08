@@ -1,0 +1,102 @@
+{
+  "id": "kappler-939",
+  "name": "Treaty with the Creeks, 1866",
+  "aka": [
+    "Creek Reconstruction Treaty of 1866"
+  ],
+  "signed": "1866-06-14",
+  "ratified": "1866-07-19",
+  "proclaimed": "1866-08-11",
+  "citation": "14 Stat. 785",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-creeks-1866-0931",
+  "nations": [
+    "Mvskoke (Muscogee Creek)"
+  ],
+  "promises": [
+    "Article 3: the Creek retained the eastern half of their 1833 country, which the United States would separate from the ceded western half by a surveyed line, and guaranteed them quiet possession of it.",
+    "Articles 3 and 9: the remaining land would be forever set apart as a home for the Creek Nation, which the treaty called the 'reduced Creek reservation'.",
+    "Payment of thirty cents an acre for the ceded western half, which was to be used as homes for other Indians the United States settled there."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1935-04-29",
+      "what": "The Supreme Court found that government surveys wrongly placed 5,575.57 acres of the unceded Creek land inside the Sac and Fox tract, that the United States disposed of them, and that it owed the Creek just compensation for this appropriation.",
+      "whoFoundIt": "United States v. Creek Nation, 295 U.S. 103 (1935)",
+      "source": {
+        "title": "United States v. Creek Nation, 295 U.S. 103 (1935)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/295/103",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
+      "quote": "the lands were appropriated by the United States in circumstances which involved an implied undertaking by it to make just compensation to the tribe"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1969-06-30",
+      "what": "The Indian Claims Commission found that 1,198.99 acres east of the 1866 dividing line, which the Creek had not ceded, were taken when the United States issued allotment certificates and patents for them, and held that just compensation was owed.",
+      "whoFoundIt": "Indian Claims Commission, Creek Nation v. United States, Docket 167, 21 Ind. Cl. Comm. 278 (1969)",
+      "source": {
+        "title": "Creek Nation v. United States, Docket No. 167, Opinion of the Commission, June 30, 1969",
+        "url": "https://dc.library.okstate.edu/digital/collection/p17279coll10/id/2488",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "court-ruling",
+      "date": "2020-07-09",
+      "what": "The Supreme Court held the reservation that this treaty called the 'reduced Creek reservation' was never disestablished, while saying Congress has since broken more than a few of its promises to the tribe, including the division of its land.",
+      "whoFoundIt": "McGirt v. Oklahoma, No. 18-9526 (2020)",
+      "source": {
+        "title": "McGirt v. Oklahoma, 591 U.S. ___ (2020), No. 18-9526",
+        "url": "https://www.law.cornell.edu/supremecourt/text/18-9526",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      }
+    }
+  ],
+  "landTaken": "The western half of the Creek domain, ceded for thirty cents an acre (McGirt; 21 Ind. Cl. Comm. 278); full title to it was released for $2,280,857.10 under the agreement of January 19, 1889, ratified March 1, 1889, 25 Stat. 757 (Indian Claims Commission, 1969). Separately, 5,575.57 acres (295 U.S. 103) and 1,198.99 acres (21 Ind. Cl. Comm. 278) of the land the Creek kept were taken.",
+  "compensation": "United States v. Creek Nation (1935) required just compensation with an interest increment for the 5,575.57 acres; the Indian Claims Commission (1969) held just compensation owed for the 1,198.99 acres. The amounts finally paid were not located.",
+  "today": "McGirt v. Oklahoma (2020) holds the Creek Reservation described in this treaty still exists for the purposes of the Major Crimes Act.",
+  "nationVoice": [
+    {
+      "nation": "Muscogee (Creek) Nation, in the history published by the Inter-Tribal Council of the Five Civilized Tribes",
+      "summary": "The Muscogee history says the Civil War was disastrous for the Muscogee, that the reconstruction treaty of 1866 required the cession of 3.2 million acres, about half the Nation's domain, and that allotment later failed to end the Nation, which still asserts its sovereign rights.",
+      "url": "https://www.fivecivilizedtribes.org/Creek-History.html"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Creeks, 1866 (Kappler, vol. 2, p. 931)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-creeks-1866-0931",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "United States v. Creek Nation, 295 U.S. 103 (1935)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/295/103",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Creek Nation v. United States, Docket No. 167, Opinion of the Commission, June 30, 1969",
+      "url": "https://dc.library.okstate.edu/digital/collection/p17279coll10/id/2488",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "McGirt v. Oklahoma, 591 U.S. ___ (2020), No. 18-9526",
+      "url": "https://www.law.cornell.edu/supremecourt/text/18-9526",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Muscogee (Creek) History",
+      "url": "https://www.fivecivilizedtribes.org/Creek-History.html",
+      "publisher": "Inter-Tribal Council of the Five Civilized Tribes"
+    }
+  ],
+  "openQuestions": [
+    "Whether thirty cents an acre for the 1866 cession was found unconscionable: no Indian Claims Commission finding on that was located in this pass.",
+    "The final judgments and amounts paid under the 1935 ruling and the 1969 decision were not located.",
+    "The Muscogee (Creek) Nation's own account of this treaty was not found on its website in this pass.",
+    "treaties.json lists no present-day tribe for this id; the Muscogee (Creek) Nation is the successor."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

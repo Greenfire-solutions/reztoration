@@ -1,0 +1,241 @@
+[
+ {
+  "id": "sunbeams-creamery",
+  "name": "Sunbeams Creamery",
+  "category": "food",
+  "subcategory": "ice cream shop and creamery",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Sunbeams Creamery",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-7mmg9"
+  },
+  "description": "Small-batch ice cream shop in Wahiawa making its own flavours, with catering.",
+  "website": "http://www.sunbeamscreamery.com",
+  "address": "712 California Ave",
+  "city": "Wahiawa",
+  "state": "HI",
+  "zip": "96786",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Sunbeams Creamery",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-7mmg9"
+   },
+   {
+    "title": "Sunbeams Creamery website",
+    "url": "http://www.sunbeamscreamery.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -158.0272,
+   21.497
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "bubbly-bleu",
+  "name": "Bubbly & Bleu",
+  "category": "food",
+  "subcategory": "cafe, cheese and wine shop",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Bubbly & Bleu",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-58eaf"
+  },
+  "description": "Kaimuki cafe and shop pairing cheese, charcuterie and sparkling wine, with grab-and-go boards and catering.",
+  "website": "http://www.bubblyandbleu.com",
+  "address": "1142 Koko Head Ave",
+  "city": "Honolulu",
+  "state": "HI",
+  "zip": "96816",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Bubbly & Bleu",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-58eaf"
+   },
+   {
+    "title": "Bubbly & Bleu website",
+    "url": "http://www.bubblyandbleu.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.7985,
+   21.2816
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "hana-koa-brewing-co",
+  "name": "Hana Koa Brewing Co.",
+  "category": "food",
+  "subcategory": "craft brewery and taproom",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Hana Koa Brewing Co.",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-6zrtd"
+  },
+  "description": "Independent Honolulu craft brewery with a taproom, food menu and event space in Kakaako.",
+  "website": "https://www.hanakoabrewing.com",
+  "address": "962 Kawaiahao St",
+  "city": "Honolulu",
+  "state": "HI",
+  "zip": "96814",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Hana Koa Brewing Co.",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-6zrtd"
+   },
+   {
+    "title": "Hana Koa Brewing Co. website",
+    "url": "https://www.hanakoabrewing.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.8532,
+   21.2975
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "ippys-hawaiian-barbeque-waimea",
+  "name": "Ippy's Hawaiian Barbeque - Waimea",
+  "category": "food",
+  "subcategory": "Hawaiian comfort food restaurant",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Ippy's Hawaiian Barbeque - Waimea",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-jxkzt-c34jr"
+  },
+  "description": "Chef Ippy Aiona's counter restaurant serving Hawaiian plate lunches and barbecue in the Queens' MarketPlace food court.",
+  "website": "1",
+  "city": "Waikoloa",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Ippy's Hawaiian Barbeque - Waimea",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-jxkzt-c34jr"
+   },
+   {
+    "title": "Ippy's Hawaiian Barbeque - Waimea website",
+    "url": "1"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -155.7874,
+   19.9469
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "pau-pizza",
+  "name": "Pau Pizza",
+  "category": "food",
+  "subcategory": "family pizza restaurant",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Pau Pizza",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-xarsr"
+  },
+  "description": "Family-run Waimea pizzeria on Hawaii Island using local ingredients, with sandwiches and breakfast burritos.",
+  "website": "0",
+  "city": "Kamuela",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Pau Pizza",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-xarsr"
+   },
+   {
+    "title": "Pau Pizza website",
+    "url": "0"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -155.6686,
+   20.0217
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "liko-lehua-butter",
+  "name": "Liko Lehua Butter",
+  "category": "food",
+  "subcategory": "fruit butters, cafe and farm",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Liko Lehua Butter",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-ae94y"
+  },
+  "description": "Hilo family business making fruit butters from island-grown fruit, sold online and at its cafe.",
+  "website": "0",
+  "city": "Hilo",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Liko Lehua Butter",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-ae94y"
+   },
+   {
+    "title": "Liko Lehua Butter website",
+    "url": "0"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -155.0816,
+   19.7074
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "kailua-seasoning-company",
+  "name": "Kailua Seasoning Company",
+  "category": "food",
+  "subcategory": "sea salts and seasoning blends",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Kailua Seasoning Company",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-yzzj5-j8r9m"
+  },
+  "description": "Kailua maker of Hawaiian sea salt blends and seasonings, sold in its shop and online.",
+  "website": "http://www.kailuaseasoningcompany.com",
+  "address": "402 Uluniu St",
+  "city": "Kailua",
+  "state": "HI",
+  "zip": "96734",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Kailua Seasoning Company",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-yzzj5-j8r9m"
+   },
+   {
+    "title": "Kailua Seasoning Company website",
+    "url": "http://www.kailuaseasoningcompany.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.7434,
+   21.3966
+  ],
+  "lonlatPrecision": "address"
+ }
+]

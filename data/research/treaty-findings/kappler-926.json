@@ -1,0 +1,99 @@
+{
+  "id": "kappler-926",
+  "name": "Treaty with the Choctaw and Chickasaw, 1866",
+  "aka": [
+    "Choctaw-Chickasaw Reconstruction Treaty of 1866",
+    "Treaty of Washington, 1866 (Choctaw and Chickasaw)"
+  ],
+  "signed": "1866-04-28",
+  "ratified": "1866-06-28",
+  "proclaimed": "1866-07-10",
+  "citation": "14 Stat. 769",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-choctaw-and-chickasaw-1866-0918",
+  "nations": [
+    "Choctaw Nation of Oklahoma (Chahta)",
+    "Chickasaw Nation (Chikashsha)"
+  ],
+  "promises": [
+    "$300,000 for the cession of the Leased District west of the 98th meridian, held in trust at no less than five per cent interest until the nations adopted the people formerly enslaved among them (Article 3).",
+    "Any legislation Congress passed for Indian Territory would not interfere with or annul the nations' tribal organization, legislatures or courts (Article 7).",
+    "The United States reaffirmed all treaty obligations made before the Civil War and agreed to resume paying annuities (Article 10).",
+    "All rights and immunities held under earlier treaties stayed in force so far as consistent with this treaty (Article 45)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1950-07-14",
+      "what": "The Indian Claims Commission found that through this treaty the United States obtained the two nations' reversionary interest in 4,499,551 acres of the Leased District, worth about $4.03 million after deducting lease payments ($4,032,654 in finding 11; $4,032,872 in the opinion), for $87,741 paid to the Choctaw and nothing actually received by the Chickasaw, and held that consideration unconscionable. It awarded $2,587,835.47 to the Choctaw Nation and $902,008.11 to the Chickasaw Nation after offsets.",
+      "whoFoundIt": "Indian Claims Commission, Choctaw Nation v. United States (Docket 16) and Chickasaw Nation v. United States (Docket 23), opinion of 14 July 1950 (1 Ind. Cl. Comm. 291)",
+      "source": {
+        "title": "Choctaw Nation v. United States; Chickasaw Nation v. United States, Dockets 16 and 23, Opinion of the Commission (1950)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/92",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "2021-05-01",
+      "what": "The Choctaw Nation's own history says that, at a disadvantage after the Civil War, the Choctaw were forced to cede the Leased District for $300,000, with payment made conditional on adopting their former enslaved people.",
+      "whoFoundIt": "Choctaw Nation of Oklahoma, Iti Fabvssa series, 'A New Chahta Homeland: A History by the Decade, 1860-1870'",
+      "source": {
+        "title": "A New Chahta Homeland: A History by the Decade, 1860-1870 (Iti Fabvssa)",
+        "url": "https://choctawnationculture.com/media/41652/2021.05_a_new_chahta_homeland_a_history_by_the_decade__1860-1870.pdf",
+        "publisher": "Choctaw Nation of Oklahoma, Cultural Services"
+      }
+    }
+  ],
+  "landTaken": "The Commission found the Leased District lands involved, after the Cheyenne and Arapaho reserve was deducted, came to 4,499,551 acres: all of Greer County (1,511,958 acres), 574,010 acres of the Wichita tract and 2,413,583 acres of the Kiowa, Comanche and Apache tract (Docket 16 findings, 1950).",
+  "compensation": "Only $150,000 of the $300,000 stated in Article 3 was paid, to the Choctaw under Article 46 (ICC opinion). In 1891 Congress paid the two nations $2,991,450 (less $48,800) for the Cheyenne and Arapaho part (26 Stat. 989, ICC finding 7). The Commission's 1950 awards came to $2,587,835.47 for the Choctaw and $902,008.11 for the Chickasaw; the Oklahoma Historical Society describes this as a 1951 award of about $3.5 million.",
+  "today": "Earlier, in United States v. Choctaw Nation and Chickasaw Nation, 179 U.S. 494 (1900), the Supreme Court had rejected the Court of Claims' view that the Leased District was held in trust and read Article 3 as an absolute cession; the Indian Claims Commission later granted relief on the separate ground of unconscionable consideration.",
+  "nationVoice": [
+    {
+      "nation": "Choctaw Nation of Oklahoma",
+      "summary": "The Nation describes the 1866 treaty as a reconstruction treaty that still guides Choctaw-US relations, made when the Choctaw and Chickasaw were at a disadvantage, under which they were forced to cede the Leased District for $300,000.",
+      "url": "https://choctawnationculture.com/media/41652/2021.05_a_new_chahta_homeland_a_history_by_the_decade__1860-1870.pdf"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Choctaw and Chickasaw, 1866 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-choctaw-and-chickasaw-1866-0918",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Choctaw Nation v. United States; Chickasaw Nation v. United States, Dockets 16 and 23, Findings of Fact (1950)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/258",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Choctaw Nation v. United States; Chickasaw Nation v. United States, Dockets 16 and 23, Opinion of the Commission (1950)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/92",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "United States v. Choctaw Nation and Chickasaw Nation, 179 U.S. 494 (1900)",
+      "url": "https://law.resource.org/pub/us/case/reporter/US/179/179.US.494.88.89.90.html",
+      "publisher": "Public.Resource.Org"
+    },
+    {
+      "title": "Leased District, Encyclopedia of Oklahoma History and Culture (Jon D. May)",
+      "url": "https://www.okhistory.org/publications/enc/entry?entry=LE002",
+      "publisher": "Oklahoma Historical Society"
+    },
+    {
+      "title": "A New Chahta Homeland: A History by the Decade, 1860-1870 (Iti Fabvssa)",
+      "url": "https://choctawnationculture.com/media/41652/2021.05_a_new_chahta_homeland_a_history_by_the_decade__1860-1870.pdf",
+      "publisher": "Choctaw Nation of Oklahoma, Cultural Services"
+    }
+  ],
+  "openQuestions": [
+    "Whether the United States appealed the 1950 Docket 16 and 23 awards to the Court of Claims, and the final amounts paid, was not confirmed; the Encyclopedia of Oklahoma History gives 1951 and about $3.5 million.",
+    "The award amounts are read from OCR text of the opinion; the Chickasaw offset sum ($106,209.89) and award should be checked against the printed volume (1 Ind. Cl. Comm. 291).",
+    "Whether the Curtis Act of 1898 and the Five Tribes Act of 1906 broke Article 7 for nations that ratified the Atoka Agreement was not settled.",
+    "The Chickasaw Nation's own account of this treaty was not found.",
+    "The finding of fact (id 258) gives the reversionary interest as $4,032,654 and the opinion (id 92) as $4,032,872; the OCR is poor and the printed volume should settle it."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

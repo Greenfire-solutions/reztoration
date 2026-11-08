@@ -1,0 +1,101 @@
+{
+  "id": "kappler-722",
+  "name": "Treaty with the Tribes of Middle Oregon, 1855 (Warm Springs Treaty)",
+  "aka": [
+    "Treaty of Wasco, 1855",
+    "Treaty with the Confederated Tribes of Middle Oregon"
+  ],
+  "signed": "1855-06-25",
+  "ratified": "1859-03-08",
+  "proclaimed": "1859-04-18",
+  "citation": "12 Stat. 963",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-tribes-of-middle-oregon-1855-0714",
+  "nations": [
+    "Confederated Tribes of the Warm Springs Reservation of Oregon (Warm Springs and Wasco bands)"
+  ],
+  "promises": [
+    "Article 1 set apart the Warm Springs reservation for the bands' exclusive use, closed to white residents without the agent's and superintendent's permission.",
+    "Article 1 secured the exclusive right of taking fish in streams through and bordering the reservation and at all other usual and accustomed stations in common with citizens, with hunting, gathering and pasturing on unclaimed lands.",
+    "Article 2: annual payments over twenty years, from $8,000 a year falling to $2,000.",
+    "Article 4: a sawmill and flouring mill, hospital, school, shops, and their staff for twenty years."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1972-12-18",
+      "what": "The Indian Claims Commission found that the 1,605,000 acres of the award area ceded by this treaty were worth $1,650,000 when the treaty took effect on March 8, 1859, and that the $313,682.70 the United States paid was an unconscionable consideration.",
+      "whoFoundIt": "Indian Claims Commission, Confederated Tribes of the Warm Springs Reservation v. United States, Docket 198, opinion of December 18, 1972 (29 Ind. Cl. Comm. 324)",
+      "source": {
+        "title": "Confederated Tribes of the Warm Springs Reservation of Oregon v. United States, Docket No. 198, Opinion of the Commission, December 18, 1972",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1088",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1973-10-17",
+      "what": "Final award of $1,225,000 to the Confederated Tribes of the Warm Springs Reservation, entered on a stipulated settlement.",
+      "whoFoundIt": "Indian Claims Commission, Docket 198, Final Award, October 17, 1973",
+      "source": {
+        "title": "Confederated Tribes of the Warm Springs Reservation of Oregon v. United States, Docket No. 198, Final Award, October 17, 1973",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1931",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1855-06-25",
+      "what": "The Confederated Tribes of Warm Springs say Superintendent Palmer was ordered to clear the Indians from their lands, that the Warm Springs and Wasco gave up about ten million acres, and that they kept the reservation for their exclusive use and their off-reservation fishing, hunting and gathering rights.",
+      "whoFoundIt": "Confederated Tribes of the Warm Springs, History page",
+      "source": {
+        "title": "History",
+        "url": "https://warmsprings-nsn.gov/history/",
+        "publisher": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+      }
+    }
+  ],
+  "landTaken": "The Confederated Tribes of Warm Springs state about ten million acres were relinquished (CTWS, History). The Indian Claims Commission's award area was 1,605,000 acres along the south shore of the Columbia (Docket 198, 1972).",
+  "compensation": "$1,225,000 final award (ICC Docket 198, 1973), by stipulated settlement after the 1972 finding of unconscionable consideration.",
+  "today": "Not researched past the 1973 award.",
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of the Warm Springs Reservation of Oregon",
+      "summary": "The Tribes say the 1855 treaty came from orders to clear Indians from their land, and that they reserved the reservation for exclusive use and kept their rights at usual and accustomed places.",
+      "url": "https://warmsprings-nsn.gov/history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Tribes of Middle Oregon, 1855 (Kappler, vol. 2, p. 714)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-tribes-of-middle-oregon-1855-0714",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Confederated Tribes of the Warm Springs Reservation of Oregon v. United States, Docket No. 198, Opinion of the Commission, April 4, 1967",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1787",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Confederated Tribes of the Warm Springs Reservation of Oregon v. United States, Docket No. 198, Opinion of the Commission, December 18, 1972",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1088",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Confederated Tribes of the Warm Springs Reservation of Oregon v. United States, Docket No. 198, Final Award, October 17, 1973",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1931",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History",
+      "url": "https://warmsprings-nsn.gov/history/",
+      "publisher": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+    }
+  ],
+  "openQuestions": [
+    "The 1865 supplementary treaty (Huntington treaty), by which the bands were recorded as giving up off-reservation fishing and travel rights, was not researched; Docket 198-A was dismissed in 1970 and its subject was not read.",
+    "The flooding of Celilo Falls and other Columbia fishing sites by dams, and Columbia River fishing cases (Sohappy v. Smith / United States v. Oregon), were not researched in this pass."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

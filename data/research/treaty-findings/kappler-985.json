@@ -1,0 +1,117 @@
+{
+  "id": "kappler-985",
+  "name": "Treaty with the Kiowa and Comanche, 1867 (Medicine Lodge Treaty)",
+  "aka": [
+    "Medicine Lodge Treaty",
+    "Treaty of Medicine Lodge Creek"
+  ],
+  "signed": "1867-10-21",
+  "ratified": "1868-07-25",
+  "proclaimed": "1868-08-25",
+  "citation": "15 Stat. 581",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-kiowa-and-comanche-1867-0977",
+  "nations": [
+    "Kiowa (Cáuigú)",
+    "Comanche (Nʉmʉnʉʉ)"
+  ],
+  "promises": [
+    "Article 2 set apart a reservation between the Washita and Red rivers, west of the 98th meridian, for the tribes' 'absolute and undisturbed use and occupation', closed to unauthorized persons.",
+    "Article 12: no cession of any part of the reservation held in common would be valid unless signed by at least three-fourths of the adult men occupying it.",
+    "Article 10: clothing and goods delivered every October for thirty years, plus yearly sums for each person.",
+    "Article 7: schools and teachers; Article 4: agency buildings; Article 14: a physician, teachers, carpenter, miller, engineer, farmer and blacksmiths furnished each year.",
+    "Article 11 reserved the right to hunt south of the Arkansas River while the buffalo ranged there."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1900-06-06",
+      "what": "Congress enacted a changed version of the 1892 Jerome Agreement, taking the reservation's surplus lands for $2,000,000 after allotment. The changes were never put to the tribes, and the Indian Claims Commission found the land was acquired without their consent and in disregard of their rights under the 1867 treaty.",
+      "whoFoundIt": "Act of June 6, 1900, 31 Stat. 672, as found by the Indian Claims Commission in Kiowa, Comanche and Apache Tribes v. United States (1951)",
+      "source": {
+        "title": "Kiowa, Comanche, and Apache Tribes of Indians v. United States, Opinion of the Commission, April 9, 1951 (1 Ind. Cl. Comm. 505)",
+        "url": "https://dc.library.okstate.edu/digital/collection/p17279coll10/id/201",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1903-01-05",
+      "what": "The Supreme Court held that Congress could abrogate the treaty, and declined to consider the tribes' claims that the three-fourths consent Article 12 required was never obtained, that signatures were obtained by misrepresentation, and that Congress changed the agreement without their assent.",
+      "whoFoundIt": "Lone Wolf v. Hitchcock, 187 U.S. 553 (1903)",
+      "source": {
+        "title": "Lone Wolf v. Hitchcock, 187 U.S. 553 (1903), Opinion of the Court",
+        "url": "https://en.wikisource.org/wiki/Lone_Wolf_v._Hitchcock/Opinion_of_the_Court",
+        "publisher": "Wikisource"
+      },
+      "quote": "The power exists to abrogate the provisions of an Indian treaty"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1955-12-13",
+      "what": "The Indian Claims Commission valued the 2,033,583 acres taken under the 1900 Act at $2.00 an acre, $4,067,166, and held the tribes entitled to recover the $2,067,166 difference from the $2,000,000 paid, less offsets; its final determination of March 12, 1957 deducted offsets and awarded $1,626,015.86, and an amended final order of July 18, 1957 revised some offsets on rehearing.",
+      "whoFoundIt": "Indian Claims Commission, Kiowa, Comanche and Apache Tribes v. United States, opinion of December 13, 1955 and final determination of March 12, 1957",
+      "source": {
+        "title": "Kiowa, Comanche and Apache Tribe of Indians v. United States, Opinion of the Commission, December 13, 1955",
+        "url": "https://dc.library.okstate.edu/digital/collection/p17279coll10/id/332",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "2,033,583 acres of the reservation, the 'surplus' after allotment, acquired under the Act of June 6, 1900, as stated by the Indian Claims Commission (1951).",
+  "compensation": "$2,000,000 paid under the 1900 Act. The Indian Claims Commission found the land worth $4,067,166 in 1900 and awarded the difference of $2,067,166 less offsets (1955 opinion). Its March 12, 1957 opinion stated a net of $1,626,015.86 after offsets; on rehearing the July 18, 1957 amended final order revised some offset findings, and the amended net figure was not read. Interest was denied.",
+  "today": "Not researched past the 1957 Indian Claims Commission award.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Kiowa and Comanche, 1867 (Kappler, vol. 2, p. 977)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-kiowa-and-comanche-1867-0977",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Kiowa, Comanche, and Apache Tribes of Indians v. United States, Opinion of the Commission, April 9, 1951",
+      "url": "https://dc.library.okstate.edu/digital/collection/p17279coll10/id/201",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Kiowa, Comanche and Apache Tribe of Indians v. United States, Opinion of the Commission, December 13, 1955",
+      "url": "https://dc.library.okstate.edu/digital/collection/p17279coll10/id/332",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Kiowa, Comanche and Apache Tribes of Indians v. United States, Final Determination, March 12, 1957",
+      "url": "https://dc.library.okstate.edu/digital/collection/p17279coll10/id/10",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Lone Wolf v. Hitchcock, 187 U.S. 553 (1903)",
+      "url": "https://en.wikisource.org/wiki/Lone_Wolf_v._Hitchcock/Opinion_of_the_Court",
+      "publisher": "Wikisource"
+    },
+    {
+      "title": "United States v. Sioux Nation of Indians, 448 U.S. 371 (1980) (summarising the Act of June 6, 1900)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/448/371",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Kiowa, Comanche and Apache Tribes of Indians v. United States, Opinion of the Commission, March 12, 1957",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/406",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Kiowa, Comanche and Apache Tribes of Indians v. United States, Amended Final Order, July 18, 1957",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/376",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The March 12, 1957 final determination's OCR is damaged, but the Commission's opinion of the same day (OSU id 406) legibly states $1,626,015.86 after offsets. An amended final order of July 18, 1957 (OSU id 376, opinion OSU id 520) changed offset findings 28, 30, 31(a), 32 and struck finding 50 on rehearing; the amended net award is not legible in the OCR and was not recorded.",
+    "The Indian Claims Commission (1951) said it did not need to decide whether the Jerome Agreement was obtained by fraud or whether three-fourths of the adult men signed it; the shortfall in signatures is described by historians and was not confirmed from a finding.",
+    "Later Kiowa, Comanche and Apache dockets (compromise settlements of 1967 and 1974) were not read; they may concern other lands or accounting.",
+    "No account by the Kiowa Tribe, Comanche Nation or Apache Tribe of Oklahoma of this treaty was found on their websites in this pass.",
+    "The Act of June 6, 1900 is cited as 31 Stat. 672 from the 1955 opinion; the 1951 opinion's scan reads 31 Stat. 677 (probably the page of section 6).",
+    "Audit 2026-11-07: added the March 1957 net award ($1,626,015.86) and the July 1957 amended order; promise 4 corrected to cite Articles 4 and 14 for buildings and employees (it had attributed them to Article 7). 2,033,583 acres, $2.00 an acre, $4,067,166, $2,067,166 and the 1951 'without the consent' finding re-read and confirmed. Lone Wolf quote and the three-fourths passage confirmed on Wikisource."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

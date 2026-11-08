@@ -1,0 +1,62 @@
+{
+  "id": "extra-box-elder-1863",
+  "name": "Treaty with the Shoshoni-Northwestern Bands, 1863 (Treaty of Box Elder)",
+  "aka": [
+    "Treaty of Box Elder"
+  ],
+  "signed": "1863-07-30",
+  "ratified": "1864-03-07",
+  "proclaimed": "1865-01-17",
+  "citation": "13 Stat. 663",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-shoshoni-northwestern-bands-1863-0850",
+  "area": "Northern Utah and southern Idaho, the country of the Northwestern Shoshone between the Bear River, the Raft River and the Portneuf Mountains; it ceded no land, so Royce has no cession for it.",
+  "presentDayTribes": [
+    "Northwestern Band of the Shoshone Nation",
+    "Shoshone-Bannock Tribes of the Fort Hall Reservation"
+  ],
+  "nations": [
+    "Northwestern Band of the Shoshone Nation (Newe)"
+  ],
+  "promises": [
+    "Article 1: friendly relations re-established and a firm and perpetual peace.",
+    "Article 2: the bands assented to the Fort Bridger treaty of July 2, 1863 with the Shoshone, including its safe-passage and road provisions.",
+    "Article 3: the United States would increase the Shoshone annuity by $5,000, paid as under the Fort Bridger treaty, plus $2,000 in goods given at signing.",
+    "Article 5: nothing in the treaty admitted any greater Indian title to the land than existed under Mexican law."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "No land payment; the treaty took no land. The Supreme Court refused the bands' claim under it in 1945.",
+  "today": "The treaty was signed six months after the Bear River Massacre of January 29, 1863, in which, the Northwestern Band says, U.S. Army volunteers under Colonel Patrick E. Connor killed some 350 Northwestern Shoshone; Connor signed this treaty for the United States.",
+  "nationVoice": [
+    {
+      "nation": "Northwestern Band of the Shoshone Nation",
+      "summary": "Describes Box Elder as a peace treaty with no land cession in which the band allowed safe passage and the government agreed to provide goods and services, signed after the Bear River Massacre.",
+      "url": "https://www.nwbshoshone.com/history"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Shoshoni-Northwestern Bands, 1863 (Kappler, vol. 2, p. 850)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-shoshoni-northwestern-bands-1863-0850",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Northwestern Bands of Shoshone Indians v. United States, 324 U.S. 335 (1945)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/324/335",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "History",
+      "url": "https://www.nwbshoshone.com/history",
+      "publisher": "Northwestern Band of the Shoshone Nation"
+    }
+  ],
+  "openQuestions": [
+    "In Northwestern Bands of Shoshone Indians v. United States, 324 U.S. 335 (1945), the Supreme Court held that the treaty did not recognise Indian title to the lands, so the bands' land claim did not arise under it; Justice Jackson's concurrence nonetheless spoke of a moral obligation to the Shoshone. That ruling is evidence against a breach of this treaty's land terms, not for one.",
+    "Whether the $5,000 annuity increase was paid was not researched.",
+    "The bands' later Indian Claims Commission claim for aboriginal lands (with the Shoshone-Bannock, Docket 326 series) was not traced.",
+    "The Bear River Massacre preceded this treaty and is not counted as a breach of it."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

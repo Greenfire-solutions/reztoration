@@ -1,0 +1,271 @@
+{
+  "_about": "Names archives actually file these peoples under, for territories whose map name is in their own language or script. Searched first. Some are outsider names (Sioux, Papago, Winnebago); they are used only to FIND records, never shown as the nation's name.",
+  "oceti-sakowin-sioux": [
+    "Lakota",
+    "Dakota",
+    "Nakota",
+    "Sioux",
+    "Oglala",
+    "Hunkpapa",
+    "Teton",
+    "Yankton",
+    "Santee",
+    "Brule"
+  ],
+  "anishinabek-ᐊᓂᔑᓈᐯᒃ": [
+    "Ojibwe",
+    "Ojibwa",
+    "Chippewa",
+    "Anishinaabe",
+    "Saulteaux",
+    "Ottawa",
+    "Odawa"
+  ],
+  "navajo": [
+    "Navajo",
+    "Navaho",
+    "Dine"
+  ],
+  "hopi": [
+    "Hopi"
+  ],
+  "tohono-oodham": [
+    "Tohono O'odham",
+    "Papago",
+    "Pima",
+    "O'odham"
+  ],
+  "akimel-oodham": [
+    "Pima",
+    "Akimel O'odham"
+  ],
+  "gwichin": [
+    "Gwich'in",
+    "Gwichin",
+    "Kutchin"
+  ],
+  "denaina": [
+    "Dena'ina",
+    "Tanaina"
+  ],
+  "yupik": [
+    "Yupik",
+    "Yup'ik",
+    "Cup'ik"
+  ],
+  "inupiatun": [
+    "Inupiat",
+    "Inupiaq"
+  ],
+  "muscogee": [
+    "Muscogee",
+    "Creek",
+    "Muskogee"
+  ],
+  "lenape": [
+    "Lenape",
+    "Delaware",
+    "Lenni Lenape"
+  ],
+  "munsee-lenape": [
+    "Munsee",
+    "Delaware"
+  ],
+  "ho-chunk-2": [
+    "Ho-Chunk",
+    "Winnebago"
+  ],
+  "mohawk": [
+    "Mohawk",
+    "Iroquois",
+    "Haudenosaunee"
+  ],
+  "oneida": [
+    "Oneida",
+    "Iroquois"
+  ],
+  "onondowaga-seneca": [
+    "Seneca",
+    "Iroquois"
+  ],
+  "wabanaki-confederacy": [
+    "Abenaki",
+    "Penobscot",
+    "Passamaquoddy",
+    "Maliseet",
+    "Micmac",
+    "Mi'kmaq",
+    "Wabanaki"
+  ],
+  "abenaki-abenaquis": [
+    "Abenaki",
+    "Abnaki"
+  ],
+  "sauk-and-meskwaki": [
+    "Sauk",
+    "Sac",
+    "Fox",
+    "Meskwaki"
+  ],
+  "western-apache": [
+    "Apache",
+    "Western Apache",
+    "White Mountain Apache",
+    "San Carlos Apache"
+  ],
+  "menominee": [
+    "Menominee",
+    "Menomini"
+  ],
+  "miami": [
+    "Miami",
+    "Myaamia"
+  ],
+  "chahta-choctaw": [
+    "Choctaw"
+  ],
+  "chickasaw": [
+    "Chickasaw"
+  ],
+  "cherokee": [
+    "Cherokee"
+  ],
+  "tlingit": [
+    "Tlingit"
+  ],
+  "zuni": [
+    "Zuni"
+  ],
+  "pueblos": [
+    "Pueblo",
+    "Tewa",
+    "Tiwa",
+    "Keres",
+    "Acoma",
+    "Laguna",
+    "Taos",
+    "Santa Clara",
+    "San Ildefonso",
+    "Jemez"
+  ],
+  "northern-paiute": [
+    "Paiute",
+    "Northern Paiute"
+  ],
+  "southern-paiute": [
+    "Paiute",
+    "Southern Paiute"
+  ],
+  "newe-western-shoshone": [
+    "Shoshone",
+    "Western Shoshone",
+    "Shoshoni"
+  ],
+  "eastern-shoshone": [
+    "Shoshone",
+    "Eastern Shoshone",
+    "Shoshoni"
+  ],
+  "apsaalooke-crow": [
+    "Crow",
+    "Apsaalooke"
+  ],
+  "nimiipuu-nez-perce": [
+    "Nez Perce",
+    "Nimiipuu"
+  ],
+  "x̱aayda": [
+    "Haida"
+  ],
+  "pawnee": [
+    "Pawnee"
+  ],
+  "kiowa": [
+    "Kiowa"
+  ],
+  "quapaw": [
+    "Quapaw"
+  ],
+  "shawnee": [
+    "Shawnee"
+  ],
+  "osage": [
+    "Osage"
+  ],
+  "niitsitapi-ᖹᐟᒧᐧᒣᑯ-blackfoot": [
+    "Blackfoot",
+    "Blackfeet",
+    "Siksika",
+    "Piegan",
+    "Pikuni",
+    "Kainai",
+    "Blood",
+    "Niitsitapi"
+  ],
+  "kumeyaay": [
+    "Kumeyaay",
+    "Diegueno",
+    "Kamia",
+    "Ipai",
+    "Tipai"
+  ],
+  "aleut": [
+    "Aleut",
+    "Unangan",
+    "Unangax"
+  ],
+  "kanaka-maoli": [
+    "Hawaiian",
+    "Native Hawaiian",
+    "Kanaka Maoli",
+    "Kanaka Oiwi"
+  ],
+  "ktunaxa": [
+    "Kutenai",
+    "Kootenai",
+    "Ktunaxa"
+  ],
+  "okanagan": [
+    "Okanagan",
+    "Okanogan",
+    "Syilx",
+    "Sinkaietk"
+  ],
+  "papago-tohono-oodham": [
+    "Tohono O'odham",
+    "Papago",
+    "O'odham"
+  ],
+  "haudenosauneega-confederacy": [
+    "Haudenosaunee",
+    "Iroquois",
+    "Six Nations"
+  ],
+  "denendeh": [
+    "Dene",
+    "Athabascan",
+    "Athapaskan",
+    "Gwich'in",
+    "Koyukon",
+    "Tanana"
+  ],
+  "tsimshian": [
+    "Tsimshian",
+    "Metlakatla"
+  ],
+  "metis": [
+    "Metis",
+    "Michif"
+  ],
+  "mikmaq": [
+    "Mi'kmaq",
+    "Micmac"
+  ],
+  "mississauga": [
+    "Mississauga"
+  ],
+  "hulquminum-treaty-group": [
+    "Hul'qumi'num",
+    "Cowichan"
+  ]
+}

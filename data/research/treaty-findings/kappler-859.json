@@ -1,0 +1,98 @@
+{
+  "id": "kappler-859",
+  "name": "Treaty with the Western Shoshoni, 1863 (Treaty of Ruby Valley)",
+  "aka": [
+    "Treaty of Ruby Valley",
+    "Treaty of Peace and Friendship with the Western Bands of Shoshone, 1863"
+  ],
+  "signed": "1863-10-01",
+  "ratified": "1866-06-26",
+  "proclaimed": "1869-10-21",
+  "citation": "18 Stat. 689",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-western-shoshoni-1863-0851",
+  "nations": [
+    "Newe (Western Shoshone): Te-Moak Tribe and other Western Shoshone bands"
+  ],
+  "promises": [
+    "A treaty of peace and friendship: Articles 2 to 4 let travel routes, telegraph and stage lines, a railroad, mines, ranches and settlements pass through or be made in Shoshone country. It contains no cession of land.",
+    "Article 5 records the boundaries of the country claimed and occupied by the Western Shoshone bands, as they described them.",
+    "Article 6: the President could set apart reservations for them within that country.",
+    "Article 7: $5,000 a year for twenty years in cattle or other articles, as compensation for the loss of game caused by travel and settlement."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1972-10-11",
+      "what": "The Indian Claims Commission had concluded that the United States acquired Western Shoshone title without payment of compensation, and that title to their lands in Nevada was extinguished by the gradual encroachment of settlers and by the United States' acquisition, disposal or taking of the lands for its own use and its citizens'. It valued the 22,211,753 Nevada acres and 2,184,650 California acres as of July 1, 1872 and March 3, 1853.",
+      "whoFoundIt": "Indian Claims Commission, Western Shoshone Identifiable Group v. United States, Docket 326-K, opinion of October 11, 1972 (29 Ind. Cl. Comm. 5), restating the 1962 title decision in Docket 326 (11 Ind. Cl. Comm. 387)",
+      "source": {
+        "title": "Western Shoshone Identifiable Group v. United States, Docket No. 326-K, Opinion of the Commission, October 11, 1972",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2489",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1863-10-01",
+      "what": "The Western Shoshone National Council has declared that the 1863 treaty was one of peace and friendship that did not cede Western Shoshone territory, that the claim filed in 1952 did not need to be filed because the United States never acquired the territory, and it issued a notice for Western Shoshone to reject the Docket 326-K payment.",
+      "whoFoundIt": "Western Shoshone National Council notice, as quoted in Indian Country Today",
+      "source": {
+        "title": "Western Shoshone Nation reaffirms land rights (Steven Newcomb)",
+        "url": "https://ictnews.org/archive/newcomb-western-shoshone-nation-reaffirms-land-rights/",
+        "publisher": "ICT (Indian Country Today)"
+      }
+    }
+  ],
+  "landTaken": "22,211,753 acres in Nevada and 2,184,650 acres in California valued by the Indian Claims Commission (Docket 326-K, 1972), whose title it held extinguished by encroachment and taking, not by treaty.",
+  "compensation": "$26 million awarded by the Indian Claims Commission, affirmed by the Court of Claims and deposited in a Treasury trust account; the Secretary of the Interior had not submitted a distribution plan 'owing to the Tribe's refusal to cooperate' (United States v. Dann, 470 U.S. 39, 1985). The award was distributed under the Western Shoshone Claims Distribution Act signed July 7, 2004; Indian Country Today reported about $145 million with interest and that the majority of Western Shoshone governments had refused the money.",
+  "today": "In United States v. Dann (1985), a trespass case against Mary and Carrie Dann for grazing without permits, the Supreme Court held that depositing the award in the trust account was payment, so the Indian Claims Commission Act's 'full discharge' barred their aboriginal title defence. The Western Shoshone National Council and others reject the award and maintain that the treaty left Western Shoshone title intact (ICT). The 2004 Distribution Act is described by NBC News / Indian Country Today, July 9, 2004.",
+  "nationVoice": [
+    {
+      "nation": "Western Shoshone National Council",
+      "summary": "The Council holds that the Treaty of Ruby Valley ceded no land, that the United States never acquired Western Shoshone territory, and that the claims payment should be refused.",
+      "url": "https://ictnews.org/archive/newcomb-western-shoshone-nation-reaffirms-land-rights/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Western Shoshoni, 1863 (Kappler, vol. 2, p. 851)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-western-shoshoni-1863-0851",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Shoshone Tribe of Indians of the Wind River Reservation et al. v. United States, Docket No. 326, Opinion of the Commission, October 16, 1962",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/808",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Western Shoshone Identifiable Group v. United States, Docket No. 326-K, Opinion of the Commission, October 11, 1972",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2489",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "United States v. Dann, 470 U.S. 39 (1985)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/470/39",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Western Shoshone Nation reaffirms land rights",
+      "url": "https://ictnews.org/archive/newcomb-western-shoshone-nation-reaffirms-land-rights/",
+      "publisher": "ICT (Indian Country Today)"
+    },
+    {
+      "title": "Bush signs Western Shoshone legislation (Indian Country Today via NBC News, July 9, 2004)",
+      "url": "https://www.nbcnews.com/id/wbna5404691",
+      "publisher": "NBC News"
+    }
+  ],
+  "openQuestions": [
+    "Whether the Article 7 annuities ($5,000 a year for twenty years) were paid in full was not checked against a General Accounting Office or Commission accounting.",
+    "The exact final award (commonly given as $26,145,189.89, December 1979) was not opened; only the Supreme Court's 'about $26 million' is recorded.",
+    "The Inter-American Commission on Human Rights (2002) and the UN Committee on the Elimination of Racial Discrimination (2006) criticized the United States over Western Shoshone lands; these are not US findings and were not opened.",
+    "Royce's present-day tribe list for this cession in treaties.json includes the Northwestern Band of Shoshone, whose treaty was Box Elder (July 30, 1863), not Ruby Valley; this may be an error in treaties.json.",
+    "Audit 2026-11-07: the United States v. Dann (1985) entry was removed from breaches and moved to compensation and today. The Court decided against the Danns, holding the award had been paid; it is not a finding that the treaty was breached, so it cannot support the status. The status still rests on the Commission's finding (OSU id 2489, restating 11 Ind. Cl. Comm. 387) that title was acquired without payment of compensation. 'About $26 million' changed to '$26 million', the Court's figure. Acreages, valuation dates, treaty dates and the National Council and NBC/ICT statements were re-read and confirmed."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

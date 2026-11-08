@@ -1,0 +1,67 @@
+{
+  "id": "kappler-918",
+  "name": "Treaty with the Seminole, 1866",
+  "aka": [
+    "Seminole Reconstruction Treaty of 1866",
+    "Treaty of Washington, 1866 (Seminole)"
+  ],
+  "signed": "1866-03-21",
+  "ratified": "1866-07-19",
+  "proclaimed": "1866-08-16",
+  "citation": "14 Stat. 755",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-seminole-1866-0910",
+  "nations": [
+    "Seminole Nation of Oklahoma"
+  ],
+  "promises": [
+    "Perpetual peace, and in return the United States guaranteed the Seminole quiet possession of their country and protection against hostilities by other tribes (Article 1).",
+    "For the cession of the whole Seminole domain, estimated at 2,169,080 acres, the United States would pay $325,362 and the Seminole would receive a new national domain bought from the Creek (Article 3).",
+    "A board of commissioners would determine and pay the losses of Seminoles who stayed loyal to the United States during the Civil War (Article 4).",
+    "Agency buildings costing up to $10,000 on one section of land that would revert to the nation when no longer used (Article 6)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Article 3 ceded the Seminole domain estimated at 2,169,080 acres. The Indian Claims Commission described the domain as 2,037,414.62 acres (Docket 205 findings, 1963).",
+  "compensation": "The Indian Claims Commission in 1963 found the $325,362 consideration for the 1866 cession was not unconscionable, that all terms of the treaty were carried out, and dismissed the Seminole claim to the $50,000 deducted from that payment for losses of loyal Seminoles and for 1856-treaty annuities withheld in 1862-1866 (Docket 205). In 1962 it had refused to revise the treaty on the ground that the United States forced the Seminole into the Confederacy by withdrawing its troops (Docket 152).",
+  "today": "Separately, the Commission awarded the Seminole Nation a net $34,053.66 in 1958 because the Interior Department, as trustee, failed to cancel the 1920 sale of the 320-acre Emahaka school tract on the national domain when the buyer did not pay (Docket 150). That finding concerns trust management, not the treaty's terms, so it is not counted here as a breach.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Seminole, 1866 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-seminole-1866-0910",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Seminole Nation v. United States, Docket 205, Findings of Fact (1963)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/633",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Seminole Nation v. United States, Docket 205, Opinion of the Commission (1963)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/601",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Seminole Nation v. United States, Docket 152, Opinion of the Commission (1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/148",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Seminole Nation v. United States, Docket 150, Findings of Fact (1955)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/435",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Seminole Nation v. United States, Docket 150, Conclusions of Law and Final Award (1958)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/103",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The price per acre the Seminole paid the Creek for the new domain under Article 3 was not checked against the price they received; the Seminole Nation own account of the 1866 terms was not found and should be looked for.",
+    "Whether the Curtis Act of 1898 and the Five Tribes Act of 1906 overrode rights in this treaty for the Seminole, who ratified a separate 1897 agreement, was not settled.",
+    "Royce lists two cessions under this entry."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

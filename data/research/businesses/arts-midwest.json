@@ -1,0 +1,39 @@
+[
+ {
+  "id": "essence-of-the-plains",
+  "name": "Essence of the Plains, LLC",
+  "category": "arts",
+  "subcategory": "Kiowa beadwork, demonstrations and work by other Native artists",
+  "nation": "Kiowa Tribe",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "IACB Source Directory: Essence of the Plains, LLC (Kathy Dickerson)",
+   "url": "https://www.doi.gov/iacb/artisans/essence-plains-llc"
+  },
+  "description": "Kiowa artist Kathy Dickerson's business selling her beadwork and the work of other Native artists, with lectures, demonstrations and beadwork commissions; she sells at St. Louis markets.",
+  "website": "https://www.kiowakat.com/",
+  "city": "St. Louis",
+  "state": "MO",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "IACB Source Directory: Essence of the Plains, LLC",
+    "url": "https://www.doi.gov/iacb/artisans/essence-plains-llc"
+   },
+   {
+    "title": "Kathy (KiowaKat) Dickerson",
+    "url": "https://www.kiowakat.com/"
+   },
+   {
+    "title": "Voyage STL interview, January 2022",
+    "url": "https://voyagestl.com/?p=51650"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -90.19,
+   38.6254
+  ],
+  "lonlatPrecision": "town"
+ }
+]

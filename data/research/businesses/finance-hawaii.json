@@ -1,0 +1,107 @@
+[
+ {
+  "id": "c-j-financial-services",
+  "name": "C & J Financial Services",
+  "category": "finance",
+  "subcategory": "accounting and tax services",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): C & J Financial Services",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-gek3c"
+  },
+  "description": "Lihue accounting and tax office.",
+  "website": "http://cjfinancialservices.com",
+  "address": "3175 Elua St",
+  "city": "Lihue",
+  "state": "HI",
+  "zip": "96766",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: C & J Financial Services",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-gek3c"
+   },
+   {
+    "title": "C & J Financial Services website",
+    "url": "http://cjfinancialservices.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -159.3661,
+   21.9792
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "financial-benefits-insurance",
+  "name": "Financial Benefits Insurance",
+  "category": "finance",
+  "subcategory": "insurance and Medicare plans",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Financial Benefits Insurance",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-ww4pw"
+  },
+  "description": "Insurance agency with offices on Oahu and Hawaii Island, focused on Medicare plans.",
+  "website": "http://fbihi.com",
+  "address": "1311 Kapiolani Blvd",
+  "city": "Honolulu",
+  "state": "HI",
+  "zip": "96814",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Financial Benefits Insurance",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-ww4pw"
+   },
+   {
+    "title": "Financial Benefits Insurance website",
+    "url": "http://fbihi.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.8458,
+   21.2945
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "rachel-rooney-insurance-agency-state-farm",
+  "name": "Rachel Rooney Insurance Agency (State Farm)",
+  "category": "finance",
+  "subcategory": "insurance agency",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Rachel Rooney Insurance Agency (State Farm)",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-hc9ez"
+  },
+  "description": "Kapolei auto, home and life insurance agency.",
+  "website": "http://www.kaneoheinsurance.com",
+  "address": "1001 Kamokila Blvd",
+  "city": "Kapolei",
+  "state": "HI",
+  "zip": "96707",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Rachel Rooney Insurance Agency (State Farm)",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-hc9ez"
+   },
+   {
+    "title": "Rachel Rooney Insurance Agency (State Farm) website",
+    "url": "http://www.kaneoheinsurance.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -158.0814,
+   21.3346
+  ],
+  "lonlatPrecision": "address"
+ }
+]

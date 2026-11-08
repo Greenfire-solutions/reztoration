@@ -1,0 +1,111 @@
+{
+  "id": "kappler-447",
+  "name": "Treaty with the Cherokee, 1835 (Treaty of New Echota)",
+  "aka": [
+    "Treaty of New Echota"
+  ],
+  "signed": "1835-12-29",
+  "proclaimed": "1836-05-23",
+  "citation": "7 Stat. 478",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1835-0439",
+  "nations": [
+    "Cherokee Nation (ᏣᎳᎩᎯ ᎠᏰᎵ), signed by the minority Treaty Party"
+  ],
+  "promises": [
+    "Five million dollars for all Cherokee lands east of the Mississippi, with the cost of removal and a year's subsistence paid by the United States.",
+    "Article 5: the lands in the West would never, without the Cherokee Nation's consent, be included within the limits or jurisdiction of any State or Territory, and the Nation's councils would make their own laws there.",
+    "Article 6: protection from domestic strife and foreign enemies, and removal of United States citizens who settled in Cherokee country without consent.",
+    "Article 7: the Cherokee Nation shall be entitled to a delegate in the House of Representatives whenever Congress provides for it.",
+    "A patent for the western lands, including the additional tract bought for $500,000, to the Cherokee Nation."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1906-04-30",
+      "what": "The Supreme Court affirmed, with a modification to how it was to be paid out, a Court of Claims judgment that $1,111,284.70 had been wrongly taken from the treaty's $5,000,000 fund, with 5% interest from June 12, 1838, and described the Cherokees as wronged by the nonfulfilment of the Treaty of New Echota.",
+      "whoFoundIt": "United States v. Cherokee Nation; Eastern Cherokees v. Cherokee Nation; Cherokee Nation v. United States, 202 U.S. 101 (1906)",
+      "source": {
+        "title": "United States v. Cherokee Nation, 202 U.S. 101 (1906)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/202/101",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
+      "quote": "all Cherokees who had been wronged by the nonfulfilment of the treaty of New Echota"
+    },
+    {
+      "kind": "nation-statement",
+      "date": "2022",
+      "what": "The Cherokee Nation says the Article 7 promise of a delegate in the House of Representatives has been denied for 187 years and asks Congress to seat its named delegate, Kim Teehee.",
+      "whoFoundIt": "Cherokee Nation, Delegate to Congress page",
+      "source": {
+        "title": "Delegate to Congress",
+        "url": "https://www.cherokee.org/our-government/delegate-to-congress/",
+        "publisher": "Cherokee Nation"
+      },
+      "quote": "The commitment made in the Treaty of New Echota remains as binding for the United States and Cherokee Nation today as it was in 1835."
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1838",
+      "what": "The Cherokee Nation's history says most Cherokee people refused to leave under the treaty and the United States sent troops under General Winfield Scott in 1838 to round them up into camps and remove them overland on the Trail of Tears.",
+      "whoFoundIt": "Cherokee Nation, history of the Nation",
+      "source": {
+        "title": "History",
+        "url": "https://www.cherokee.org/about-the-nation/history/",
+        "publisher": "Cherokee Nation"
+      }
+    }
+  ],
+  "landTaken": "All Cherokee lands east of the Mississippi River (Article 1). No acreage was taken from a source in this pass.",
+  "compensation": "The 1906 judgment of $1,111,284.70 with interest from June 12, 1838, on the treaty fund (202 U.S. 101). Whether and how it was distributed was not checked.",
+  "today": "The Cherokee Nation named Kim Teehee as its delegate in 2019; as of the Nation's page read on 2026-11-07, the House has not seated her. McGirt v. Oklahoma (2020) and the Oklahoma Court of Criminal Appeals' Hogner decision (2021) are cited by the Nation as recognising that its reservation still exists.",
+  "nationVoice": [
+    {
+      "nation": "Cherokee Nation",
+      "summary": "The Nation says the treaty was the product of President Jackson's determination to remove it, that most Cherokees refused to leave, and that the Army removed them by force in 1838.",
+      "url": "https://www.cherokee.org/about-the-nation/history/"
+    },
+    {
+      "nation": "Cherokee Nation",
+      "summary": "The Nation says Article 7 still binds the United States and asks Congress to seat its delegate.",
+      "url": "https://www.cherokee.org/our-government/delegate-to-congress/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Cherokee, 1835 (Kappler, vol. 2, p. 439)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1835-0439",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "United States v. Cherokee Nation, 202 U.S. 101 (1906)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/202/101",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "History",
+      "url": "https://www.cherokee.org/about-the-nation/history/",
+      "publisher": "Cherokee Nation"
+    },
+    {
+      "title": "Delegate to Congress",
+      "url": "https://www.cherokee.org/our-government/delegate-to-congress/",
+      "publisher": "Cherokee Nation"
+    },
+    {
+      "title": "Cherokee Relations with US Government Before Removal",
+      "url": "https://www.nps.gov/fosm/historyculture/cherokee-relations-with-us-government-before-removal.htm",
+      "publisher": "National Park Service, Fort Smith National Historic Site"
+    }
+  ],
+  "openQuestions": [
+    "Whether the treaty was valid at all: it was signed by the minority Treaty Party and opposed by Principal Chief John Ross and the National Council (NPS). No court finding on its validity was located; this is recorded as context, not as a breach.",
+    "Article 5 (no inclusion in a State or Territory without consent) was overridden by allotment and Oklahoma statehood; the Act or Acts that did so were not opened in this pass. Leads: the Curtis Act of 1898 and the Cherokee allotment act of July 1, 1902.",
+    "Article 12 of the treaty (pre-emption rights for Cherokees who stayed east) was struck by the supplementary articles of March 1, 1836; the effect on the Eastern Band of Cherokee Indians was not researched.",
+    "Indian Claims Commission dockets of the Cherokee Nation concerning this treaty were not searched.",
+    "The year given for the delegate statement (2022) is taken from the page's '187 years' (1835 plus 187); the page itself carries no date.",
+    "Audit 2026-11-07: breach 1 now says the 1906 Supreme Court affirmed the Court of Claims decree with a modification of the paragraph on the $1,111,284.70 (payment to the Eastern and Emigrant Cherokees per capita), as the opinion's closing paragraph states. Figures, dates (decided April 30, 1906), quotes, treaty dates and the Cherokee Nation pages were re-read and confirmed. The Senate's ratification date is not given in Kappler's header and was not added."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

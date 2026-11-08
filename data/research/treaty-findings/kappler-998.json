@@ -1,0 +1,124 @@
+{
+  "id": "kappler-998",
+  "name": "Treaty with the Ute, 1868 (Kit Carson Treaty)",
+  "aka": [
+    "Kit Carson Treaty",
+    "Ute Treaty of 1868"
+  ],
+  "signed": "1868-03-02",
+  "ratified": "1868-07-25",
+  "proclaimed": "1868-11-06",
+  "citation": "15 Stat. 619",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-ute-1868-0990",
+  "nations": [
+    "Núuchi-u (Ute): Tabeguache (Uncompahgre), Muache, Capote, Weeminuche, Yampa, Grand River and Uintah bands; today the Southern Ute Indian Tribe, Ute Mountain Ute Tribe and Ute Indian Tribe of the Uintah and Ouray Reservation"
+  ],
+  "promises": [
+    "Article 2 set apart roughly the western third of Colorado Territory for the 'absolute and undisturbed use and occupation' of the bands, and the United States 'solemnly' agreed that no unauthorized persons would ever pass over, settle upon or reside in it.",
+    "Article 16: no cession of any part of the reservation held in common would be valid unless signed by at least three-fourths of the adult men occupying or interested in it.",
+    "Articles 11 and 12: up to $30,000 a year for thirty years for clothing and blankets, and up to $30,000 a year for food, as Congress judged necessary.",
+    "Articles 9 and 15: seeds and tools for families who farmed, and teachers, carpenters, millers, farmers and blacksmiths."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1962-09-14",
+      "what": "Miners entered the San Juan region of the reservation, and by the Brunot Agreement signed September 13, 1873 there were 1,441 mining claims recorded in the area. The Indian Claims Commission found the area ceded under that agreement worth $8,500,000 on April 29, 1874, and the $507,662.84 paid so grossly inadequate as to be unconscionable, awarding $7,992,337.16 before offsets.",
+      "whoFoundIt": "Indian Claims Commission, Confederated Bands of Ute Indians v. United States, Docket 327, opinion of September 14, 1962 (11 Ind. Cl. Comm. 180)",
+      "source": {
+        "title": "Confederated Bands of Ute Indians v. United States, Docket No. 327, Opinion of the Commission, September 14, 1962",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/645",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1965-02-18",
+      "what": "Final judgment of $7,908,586.16 for the Confederated Bands of Ute Indians on the Brunot cession, after a stipulated settlement of offsets.",
+      "whoFoundIt": "Indian Claims Commission, Docket 327, Final Judgment, February 18, 1965",
+      "source": {
+        "title": "Confederated Bands of the Ute Indians v. United States, Docket No. 327, Final Judgment, February 18, 1965",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/705",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "act-of-congress",
+      "date": "1880-06-15",
+      "what": "After the 1879 killings at the White River agency, Congress passed the Act of June 15, 1880. The Supreme Court described it as Congress taking steps to punish the Indians, to dispossess the Utes of their reservation and to remove them from Colorado. Within two years the White River and Uncompahgre Utes had been moved to Utah.",
+      "whoFoundIt": "Act of June 15, 1880, 21 Stat. 199, as described in Confederated Bands of Ute Indians v. United States, 330 U.S. 169 (1947) and United States v. Southern Ute Tribe, 402 U.S. 159 (1971)",
+      "source": {
+        "title": "Confederated Bands of Ute Indians v. United States, 330 U.S. 169 (1947)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/330/169",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
+      "quote": "to dispossess the Utes of their reservation, and to remove them from Colorado"
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1873-09-13",
+      "what": "The Southern Ute Indian Tribe states that the Brunot Agreement took reservation land secured in 1868 by fraud, because the Utes were led to believe they were permitting mining only in the San Juan Mountains while keeping about four million acres, and were then forced to relinquish that land as well.",
+      "whoFoundIt": "Southern Ute Indian Tribe, tribal history page",
+      "source": {
+        "title": "History",
+        "url": "https://www.southernute-nsn.gov/history/",
+        "publisher": "Southern Ute Indian Tribe"
+      }
+    }
+  ],
+  "landTaken": "The Supreme Court (1971) describes the 1868 reservation as approximately 15.7 million acres wholly within Colorado, reduced by the Brunot Cession of 3.7 million acres (Royce Area 566) and then by the 1880 Act, after which only the Southern Utes remained in Colorado.",
+  "compensation": "$7,908,586.16 final judgment for the Brunot cession (ICC Docket 327, 1965). Court of Claims consent judgments in 1950 for lands ceded under the 1880 Act exceeded $31 million in aggregate (United States v. Southern Ute Tribe, 1971). See also cession-1880-03-06-uta.",
+  "today": "The Southern Ute and Ute Mountain Ute reservations in southwestern Colorado and the Uintah and Ouray Reservation in Utah are what remains of the bands' lands.",
+  "nationVoice": [
+    {
+      "nation": "Southern Ute Indian Tribe",
+      "summary": "The Tribe's history says the 1868 reservation covered the western half of Colorado, about 56 million acres, and that Utes remember the 1873 Brunot Agreement as the fraudulent taking of that land: they believed they were allowing mining only in the San Juan Mountains but were forced to give up far more.",
+      "url": "https://www.southernute-nsn.gov/history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Ute, 1868 (Kappler, vol. 2, p. 990)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-ute-1868-0990",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Confederated Bands of Ute Indians v. United States, Docket No. 327, Opinion of the Commission, September 14, 1962",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/645",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Confederated Bands of the Ute Indians v. United States, Docket No. 327, Additional Findings on offsets, February 18, 1965",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/647",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Confederated Bands of the Ute Indians v. United States, Docket No. 327, Final Judgment, February 18, 1965",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/705",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Confederated Bands of Ute Indians v. United States, 330 U.S. 169 (1947)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/330/169",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "United States v. Southern Ute Tribe or Band of Indians, 402 U.S. 159 (1971)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/402/159",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "History",
+      "url": "https://www.southernute-nsn.gov/history/",
+      "publisher": "Southern Ute Indian Tribe"
+    }
+  ],
+  "openQuestions": [
+    "Whether the Brunot Agreement was signed by three-fourths of the adult men as Article 16 required was not checked.",
+    "The 1880 agreement was put to the Ute bands for consent; whether three-fourths signed, and the Ute account of how signatures were gathered, were not researched. It is recorded here as an Act of Congress because the Supreme Court describes its purpose as dispossession and removal, not as a finding that consent was lacking.",
+    "The websites of the Southern Ute Indian Tribe, Ute Mountain Ute Tribe and Ute Indian Tribe blocked or lacked a treaty history page in this pass; no nation account is recorded."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

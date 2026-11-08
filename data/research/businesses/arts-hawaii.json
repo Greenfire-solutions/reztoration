@@ -1,0 +1,235 @@
+[
+ {
+  "id": "lewiskoa-co",
+  "name": "LewisKoa Co.",
+  "category": "arts",
+  "subcategory": "koa wood furniture and ukuleles",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): LewisKoa Co.",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-h9b5r"
+  },
+  "description": "Hilo woodworkers making koa furniture, lamps, custom woodwork and ukuleles.",
+  "website": "1",
+  "city": "Hilo",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: LewisKoa Co.",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-h9b5r"
+   },
+   {
+    "title": "LewisKoa Co. website",
+    "url": "1"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -155.0816,
+   19.7074
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "kaleilehua-designs",
+  "name": "Kaleilehua Designs",
+  "category": "arts",
+  "subcategory": "watercolour art and prints",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Kaleilehua Designs",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-8afn7"
+  },
+  "description": "Hawaii Island watercolour artist painting native plants and birds, sold as originals and prints.",
+  "website": "1",
+  "city": "Kamuela",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Kaleilehua Designs",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-8afn7"
+   },
+   {
+    "title": "Kaleilehua Designs website",
+    "url": "1"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -155.6686,
+   20.0217
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "hawaiian-at-art",
+  "name": "Hawaiian At Art",
+  "category": "arts",
+  "subcategory": "Hawaiian portrait art",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Hawaiian At Art",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-32lgc"
+  },
+  "description": "Brook Kapukuniahi Parker's portraits and commissioned art of Hawaiian people and history.",
+  "website": "1",
+  "city": "Honolulu",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Hawaiian At Art",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-32lgc"
+   },
+   {
+    "title": "Hawaiian At Art website",
+    "url": "1"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.8557,
+   21.3045
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "kaili-chun-llc",
+  "name": "Kaili Chun, LLC",
+  "category": "arts",
+  "subcategory": "sculpture and installation art",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Kaili Chun, LLC",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-49nz6"
+  },
+  "description": "Honolulu artist whose sculpture and installations explore Hawaiian history and land.",
+  "website": "1",
+  "city": "Honolulu",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Kaili Chun, LLC",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-49nz6"
+   },
+   {
+    "title": "Kaili Chun, LLC website",
+    "url": "1"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.8557,
+   21.3045
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "limahana",
+  "name": "Limahana",
+  "category": "arts",
+  "subcategory": "block prints and apparel",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Limahana",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-6p5ng"
+  },
+  "description": "Jessica Keala Kim's block prints and apparel drawing on Hawaiian moolelo, plants and animals.",
+  "website": "1",
+  "city": "Honolulu",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Limahana",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-6p5ng"
+   },
+   {
+    "title": "Limahana website",
+    "url": "1"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.8557,
+   21.3045
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "opihi-o-na-lani",
+  "name": "ʻOpihi o Nā Lani",
+  "category": "arts",
+  "subcategory": "shell jewellery",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): ʻOpihi o Nā Lani",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-4rwx7"
+  },
+  "description": "Jewellery and accessories made from opihi and other shells, in a Kanaka Maoli tradition of using every part of what is gathered.",
+  "website": "1",
+  "city": "Honolulu",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: ʻOpihi o Nā Lani",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-4rwx7"
+   },
+   {
+    "title": "ʻOpihi o Nā Lani website",
+    "url": "1"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.8557,
+   21.3045
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "hawaiis-heritage-jewelers",
+  "name": "Hawaii's Heritage Jewelers",
+  "category": "arts",
+  "subcategory": "Hawaiian heirloom jewellery",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Hawaii's Heritage Jewelers",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-khwhd"
+  },
+  "description": "Makawao jeweller making Hawaiian heirloom gold bracelets, rings and pendants.",
+  "website": "https://www.hawaiisheritagejewelers.com",
+  "address": "3619 Baldwin Ave",
+  "city": "Makawao",
+  "state": "HI",
+  "zip": "96768",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Hawaii's Heritage Jewelers",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-khwhd"
+   },
+   {
+    "title": "Hawaii's Heritage Jewelers website",
+    "url": "https://www.hawaiisheritagejewelers.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -156.3116,
+   20.8556
+  ],
+  "lonlatPrecision": "address"
+ }
+]

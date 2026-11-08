@@ -1,0 +1,239 @@
+[
+ {
+  "id": "tulbas-roofing-inc",
+  "name": "Tulba's Roofing, Inc.",
+  "category": "trades",
+  "subcategory": "roofing contractor",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Tulba's Roofing, Inc.",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-jtn6p"
+  },
+  "description": "Family-owned roofing contractor serving Oahu.",
+  "website": "0",
+  "city": "Ewa Beach",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Tulba's Roofing, Inc.",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-jtn6p"
+   },
+   {
+    "title": "Tulba's Roofing, Inc. website",
+    "url": "0"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -158.0088,
+   21.3156
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "walters-electric",
+  "name": "Walter's Electric",
+  "category": "trades",
+  "subcategory": "electrical contractor",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Walter's Electric",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-skgyn"
+  },
+  "description": "Hilo electrical contractor for homes and businesses.",
+  "website": "http://www.walterselectricinc.com",
+  "address": "741 Kanoelehua Ave",
+  "city": "Hilo",
+  "state": "HI",
+  "zip": "96720",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Walter's Electric",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-skgyn"
+   },
+   {
+    "title": "Walter's Electric website",
+    "url": "http://www.walterselectricinc.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -155.0641,
+   19.7067
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "murakami-roofing-llc",
+  "name": "Murakami Roofing, LLC",
+  "category": "trades",
+  "subcategory": "roofing contractor",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Murakami Roofing, LLC",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-bld2p"
+  },
+  "description": "Windward Oahu roofing contractor.",
+  "website": "https://www.murakamiroofing.com",
+  "address": "45-558 Kamehameha Hwy",
+  "city": "Kaneohe",
+  "state": "HI",
+  "zip": "96744",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Murakami Roofing, LLC",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-bld2p"
+   },
+   {
+    "title": "Murakami Roofing, LLC website",
+    "url": "https://www.murakamiroofing.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.7985,
+   21.3982
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "pacific-island-cleaning",
+  "name": "Pacific Island Cleaning",
+  "category": "trades",
+  "subcategory": "commercial and home cleaning",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Pacific Island Cleaning",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-cz9ee"
+  },
+  "description": "Cleaning company serving homes and businesses on Oahu.",
+  "website": "0",
+  "city": "Kapolei",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Pacific Island Cleaning",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-cz9ee"
+   },
+   {
+    "title": "Pacific Island Cleaning website",
+    "url": "0"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -158.0778,
+   21.334
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "leak-moisture-detection-hawaii",
+  "name": "Leak & Moisture Detection Hawaii",
+  "category": "trades",
+  "subcategory": "leak and moisture detection",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Leak & Moisture Detection Hawaii",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-gm7yd"
+  },
+  "description": "Honolulu company that finds leaks and moisture problems in buildings.",
+  "website": "0",
+  "city": "Honolulu",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Leak & Moisture Detection Hawaii",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-gm7yd"
+   },
+   {
+    "title": "Leak & Moisture Detection Hawaii website",
+    "url": "0"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.8557,
+   21.3045
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "kauai-island-roofing-llc",
+  "name": "Kauai Island Roofing LLC",
+  "category": "trades",
+  "subcategory": "roofing contractor",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Kauai Island Roofing LLC",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-efnhn"
+  },
+  "description": "Hawaiian owned roofing contractor on Kauai.",
+  "website": "0",
+  "city": "Lihue",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Kauai Island Roofing LLC",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-efnhn"
+   },
+   {
+    "title": "Kauai Island Roofing LLC website",
+    "url": "0"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -159.3688,
+   21.977
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "ohana-freight-llc",
+  "name": "Ohana Freight LLC",
+  "category": "trades",
+  "subcategory": "freight and towing",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Ohana Freight LLC",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-jhe36"
+  },
+  "description": "Kauai freight hauling and towing company.",
+  "website": "http://ohanafreight.com",
+  "address": "4401 Pahee St",
+  "city": "Lihue",
+  "state": "HI",
+  "zip": "96766",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Ohana Freight LLC",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-jhe36"
+   },
+   {
+    "title": "Ohana Freight LLC website",
+    "url": "http://ohanafreight.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -159.3844,
+   21.9683
+  ],
+  "lonlatPrecision": "address"
+ }
+]

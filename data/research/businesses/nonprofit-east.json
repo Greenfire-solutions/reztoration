@@ -1,0 +1,66 @@
+[
+ {
+  "id": "vermont-abenaki-artists-association",
+  "name": "Vermont Abenaki Artists Association",
+  "category": "nonprofit",
+  "subcategory": "Abenaki artists network, exhibitions and Native arts marketplace",
+  "nation": "Abenaki",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Vermont Humanities: Vera Longtoe Sheehan (Elnu Abenaki), Director of the Vermont Abenaki Artists Association",
+   "url": "https://www.vermonthumanities.org/vera-sheehan/"
+  },
+  "description": "Connects the public with Abenaki artists, educators and performers, mounts exhibitions and runs a yearly Native arts marketplace at Lake Champlain.",
+  "website": "https://abenakiart.org/",
+  "city": "South Burlington",
+  "state": "VT",
+  "sources": [
+   {
+    "title": "Vermont Abenaki Artists Association",
+    "url": "https://abenakiart.org/about-us-2/"
+   },
+   {
+    "title": "Vermont Humanities: Vera Sheehan",
+    "url": "https://www.vermonthumanities.org/vera-sheehan/"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -73.1763,
+   44.4643
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "baltimore-american-indian-center",
+  "name": "Baltimore American Indian Center",
+  "category": "nonprofit",
+  "subcategory": "community center, culture classes and heritage museum",
+  "nation": "Lumbee and intertribal",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "About the Baltimore American Indian Center: founded by Lumbee tribal members",
+   "url": "https://www.baltimoreamericanindiancenter.org/about"
+  },
+  "description": "Community center founded in 1968 by Lumbee families in East Baltimore, with weekly culture classes and a heritage museum open for tours.",
+  "website": "https://www.baltimoreamericanindiancenter.org/",
+  "address": "113 South Broadway",
+  "city": "Baltimore",
+  "state": "MD",
+  "zip": "21231",
+  "sources": [
+   {
+    "title": "Baltimore American Indian Center: About",
+    "url": "https://www.baltimoreamericanindiancenter.org/about"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -76.5938,
+   39.2902
+  ],
+  "lonlatPrecision": "address"
+ }
+]

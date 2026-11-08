@@ -1,0 +1,64 @@
+{
+  "id": "kappler-611",
+  "name": "Treaty with the Rogue River, 1853 (Treaty of Table Rock)",
+  "aka": [
+    "Table Rock Treaty"
+  ],
+  "signed": "1853-09-10",
+  "ratified": "1854-04-12",
+  "proclaimed": "1855-02-05",
+  "citation": "10 Stat. 1018",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-rogue-river-1853-0603",
+  "nations": [
+    "Takelma, Shasta and other Rogue River peoples, now members of the Confederated Tribes of Grand Ronde and the Confederated Tribes of Siletz Indians"
+  ],
+  "promises": [
+    "Article 1: the Rogue River tribe ceded its lands in south-western Oregon.",
+    "Article 2: a tract by Table Rock on the Rogue River was to be an Indian reserve until the President selected a permanent home, with buildings and provision for removal.",
+    "Article 3: $60,000, of which $15,000 was kept back for settlers' losses, $5,000 spent on tools, blankets and goods by September 1, 1854, and $40,000 paid in sixteen yearly instalments.",
+    "Article 4: houses for the three principal chiefs, equal improvements on any new reserve, and a further $15,000 in five instalments on removal."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1954-08-13",
+      "what": "The Western Oregon Indian Termination Act listed the Rogue River, Takelma and Shasta peoples, and the Grand Ronde and Siletz confederations where they had been removed, among the tribes whose federal trust relationship and federal services were to be terminated, without their consent. In 1983 Congress restored rights under any federal treaty diminished or lost under the 1954 Act for Grand Ronde.",
+      "whoFoundIt": "Act of August 13, 1954, 68 Stat. 724; Grand Ronde Restoration Act, Public Law 98-165 (1983)",
+      "source": {
+        "title": "Act of August 13, 1954, Public Law 588, ch. 733, 68 Stat. 724 (Western Oregon Indian Termination Act)",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg724.pdf",
+        "publisher": "U.S. Government Publishing Office, govinfo"
+      }
+    }
+  ],
+  "landTaken": "Royce Area 312 in south-western Oregon and northern California; the acreage was not found in a source opened.",
+  "compensation": "$60,000 under the treaty, $15,000 of it held back for settlers' claims. The outcome of the Court of Claims suit by the Rogue River tribe (No. 45231, 1946 and 1950) was not found.",
+  "today": "Congress restored the Confederated Tribes of Siletz Indians in 1977 and the Confederated Tribes of the Grand Ronde Community in 1983 (Public Law 98-165).",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Rogue River, 1853 (Kappler, vol. 2, p. 603)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-rogue-river-1853-0603",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Act of August 13, 1954, Public Law 588, ch. 733, 68 Stat. 724 (Western Oregon Indian Termination Act)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg724.pdf",
+      "publisher": "U.S. Government Publishing Office, govinfo"
+    },
+    {
+      "title": "Grand Ronde Restoration Act, Public Law 98-165, 97 Stat. 1064 (1983)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-97/pdf/STATUTE-97-Pg1064.pdf",
+      "publisher": "U.S. Government Publishing Office, govinfo"
+    }
+  ],
+  "openQuestions": [
+    "The Table Rock reservation was abandoned after the Rogue River War of 1855-56 and its people moved north to the Grand Ronde and Siletz reservations; no finding on whether that removal kept Articles 2 and 4 was found.",
+    "Rogue River Tribe of Indians v. United States, 89 F. Supp. 798 (Ct. Cl. 1950), and the 1946 decision in the same case are the obvious next sources; the full text was behind a paywall.",
+    "The Confederated Tribes of Grand Ronde history page loaded with little text on 2026-11-07; no nation account of this treaty was opened.",
+    "Whether the Termination Act counts as a breach of this treaty in law is a judgement; the 1983 Act's restoration of treaty rights 'diminished or lost' supports it."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

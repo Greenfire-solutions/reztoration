@@ -1,0 +1,148 @@
+{
+  "id": "kappler-690",
+  "name": "Treaty with the Makah, 1855 (Treaty of Neah Bay)",
+  "aka": [
+    "Treaty of Neah Bay",
+    "Stevens Treaty, 1855"
+  ],
+  "signed": "1855-01-31",
+  "ratified": "1859-03-08",
+  "proclaimed": "1859-04-18",
+  "citation": "12 Stat. 939",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-makah-1855-0682",
+  "nations": [
+    "Makah (Qwidiččaʔa·tx̌)"
+  ],
+  "promises": [
+    "Article 2 reserved a tract at Cape Flattery and Neah Bay for the tribe's use and occupation, closed to white residents without permission.",
+    "Article 4 secured 'the right of taking fish and of whaling or sealing at usual and accustomed grounds and stations' in common with all citizens, with hunting and gathering on open and unclaimed lands.",
+    "Article 5: $30,000 paid over twenty years, to be spent on beneficial objects the President chose.",
+    "Article 11: an agricultural and industrial school, mechanics, a physician and medicine for twenty years."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1976-10-15",
+      "what": "The Indian Claims Commission found that Governor Stevens orally promised the Makah fishing, sealing and whaling gear, so the $30,000 of Article 5 was to be delivered as fishing gear. The United States spent $265.40 on fishing gear. The Commission called this a breach of the treaty and found a failure of consideration under Article 5.",
+      "whoFoundIt": "Indian Claims Commission, Makah Tribe v. United States, Docket 60-A, opinion of October 15, 1976 (39 Ind. Cl. Comm. 88)",
+      "source": {
+        "title": "Makah Tribe of Indians v. United States, Docket No. 60-A, Opinion of the Commission, October 15, 1976",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1630",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1977-05-04",
+      "what": "On rehearing the Commission held that limiting recovery to the $29,734.60 difference was an error, and ordered the case to proceed to the full extent of the damages caused by the United States' breach of the 1855 treaty.",
+      "whoFoundIt": "Indian Claims Commission, Makah Tribe v. United States, Docket 60-A, opinion of May 4, 1977 (40 Ind. Cl. Comm. 131)",
+      "source": {
+        "title": "Makah Tribe of Indians v. United States, Docket No. 60-A, Opinion of the Commission, May 4, 1977",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1920",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1979-07-02",
+      "what": "In the case the United States brought in 1970, which names the Treaty of Neah Bay and the Makah, the Supreme Court upheld the ruling that the treaty fishing clause secures the tribes a share of the fish, and recorded that the State Game Department refused to comply with the federal decree.",
+      "whoFoundIt": "Washington v. Washington State Commercial Passenger Fishing Vessel Assn., 443 U.S. 658 (1979)",
+      "source": {
+        "title": "Washington v. Washington State Commercial Passenger Fishing Vessel Assn., 443 U.S. 658 (1979)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/443/658",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      }
+    },
+    {
+      "kind": "court-ruling",
+      "date": "2018-06-11",
+      "what": "In the culvert proceeding of the same case, the courts held that Washington violated the Stevens treaties' fishing clause by building and keeping road culverts that block salmon; an equally divided Supreme Court affirmed the Ninth Circuit.",
+      "whoFoundIt": "United States v. Washington, 853 F.3d 946 (9th Cir. 2017), affirmed by an equally divided Court, Washington v. United States, 584 U.S. 837 (2018)",
+      "source": {
+        "title": "Washington v. United States, No. 17-269, per curiam, June 11, 2018",
+        "url": "https://hallapproved.com/us/cases/supreme/2018/4505998/",
+        "publisher": "HallApproved (from CourtListener bulk data)"
+      }
+    }
+  ],
+  "landTaken": "The cession described in Article 1. The parties stipulated in 1973 a value of $107,377 for the ceded land, less $20,197 for ceded land later returned to the Makah (ICC Docket 60-A, 1976 opinion).",
+  "compensation": "The Commission found a failure of consideration of at least $29,734.60 (1976) and in 1977 reopened the case to measure the full damages. The final amount, if any, was not found.",
+  "today": "Makah treaty fishing, whaling and sealing rights continue under United States v. Washington. The tribe's earlier Docket 60 claim was dismissed in 1959.",
+  "nationVoice": [
+    {
+      "nation": "Makah Tribe",
+      "summary": "The Tribe's history says 42 Makah leaders negotiated the Treaty of Neah Bay in the Chinook language to protect whaling, sealing, fishing and village land rights, ceding title to 300,000 acres in exchange, and that ratification in 1859 opened a period in which federal agents, missionaries and teachers outlawed Makah ceremonies and language.",
+      "url": "https://makah.com/makah-tribal-info/about-history/"
+    },
+    {
+      "nation": "Makah Tribe",
+      "summary": "The Tribe says it explicitly reserved its right to whale in the Treaty of Neah Bay and that it resumed whaling under international and domestic law in 1999, taking its first whale in 70 years.",
+      "url": "https://makah.com/makah-tribal-info/whaling/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Makah, 1855 (Kappler, vol. 2, p. 682)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-makah-1855-0682",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Makah Indian Tribe v. United States, Docket No. 60-A, Opinion of the Commission, May 20, 1970",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1109",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Makah Indian Tribe v. United States, Docket No. 60-A, Opinion on defendant's motion for partial summary judgment, August 14, 1974",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2127",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Makah Tribe of Indians v. United States, Docket No. 60-A, Opinion of the Commission, October 15, 1976",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1630",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Makah Tribe of Indians v. United States, Docket No. 60-A, Opinion of the Commission, May 4, 1977",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1920",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Makah Indian Tribe v. United States, Docket No. 60, Final Order, April 15, 1959",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/438",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Washington v. Washington State Commercial Passenger Fishing Vessel Assn., 443 U.S. 658 (1979)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/443/658",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "UPDATE: Extent of Habitat Protection Required for Indian Treaty Fishing Sites: Washington v. United States (LSB10138, June 12, 2018)",
+      "url": "https://www.everycrsreport.com/files/2018-06-12_LSB10138_39987602bdbf2a4493ccd43260bf20d2d9fe2fe0.pdf",
+      "publisher": "Congressional Research Service"
+    },
+    {
+      "title": "Washington v. United States, No. 17-269 (2018)",
+      "url": "https://hallapproved.com/us/cases/supreme/2018/4505998/",
+      "publisher": "HallApproved (from CourtListener bulk data)"
+    },
+    {
+      "title": "History",
+      "url": "https://makah.com/makah-tribal-info/about-history/",
+      "publisher": "Makah Tribe"
+    },
+    {
+      "title": "Whaling",
+      "url": "https://makah.com/makah-tribal-info/whaling/",
+      "publisher": "Makah Tribe"
+    }
+  ],
+  "openQuestions": [
+    "How Docket 60-A ended after the 1977 rehearing order (a 1978 order certified a question to the Court of Claims) was not traced; no final award amount is recorded.",
+    "The Ninth Circuit culvert opinion itself could not be opened; that the culvert proceeding is part of United States v. Washington and concerns the Stevens treaties is taken from the Congressional Research Service report and the Ninth Circuit's 2017 order denying rehearing en banc (864 F.3d 1017). The list of tribes in the culvert proceeding was not confirmed.",
+    "The Makah Tribe's own published account of the treaty was not found on makah.com in this pass. Whaling litigation (Metcalf v. Daley, Anderson v. Evans) was not researched."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

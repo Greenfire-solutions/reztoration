@@ -1,0 +1,5824 @@
+{
+ "Sakonnet": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on sakonnet|sakonnet",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sakonnet"
+ },
+ "Timpanogos": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on timpanogos|timpanogos",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/timpanogos"
+ },
+ "Bear River": {
+  "primary": "bear-river-band",
+  "allMatches": [
+   "bear-river-band"
+  ],
+  "basis": "name match on bear river|bear river",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/bear-river"
+ },
+ "Kootzaduka’a": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on kootzaduka'a|kootzaduka'a",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kootzadukaa"
+ },
+ "T’eqt’aqtn’mux": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on t'eqt'aqtn'mux|t'eqt'aqtn'mux",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/teqtaqtnmux"
+ },
+ "Choptico": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on choptico|choptico",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/choptico"
+ },
+ "Kanienʼkehá꞉ka (Mohawk)": {
+  "primary": "saint-regis-mohawk-tribe",
+  "allMatches": [
+   "saint-regis-mohawk-tribe"
+  ],
+  "basis": "name match on mohawk|mohawk|kanien'keha ka|kanien'keha ka",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mohawk"
+ },
+ "Spokane": {
+  "primary": "spokane-tribe",
+  "allMatches": [
+   "spokane-tribe"
+  ],
+  "basis": "name match on spokane|spokane",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/spokane"
+ },
+ "Odǫhwęja:deˀ (Cayuga)": {
+  "primary": "cayuga-nation",
+  "allMatches": [
+   "cayuga-nation"
+  ],
+  "basis": "name match on cayuga|cayuga|odohweja de|odohweja de",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cayuga"
+ },
+ "Me-Wuk (Southern Sierra Miwok)": {
+  "primary": "tuolumne-band-of-me-wuk-indians",
+  "allMatches": [
+   "buena-vista-rancheria-of-me-wuk-indians",
+   "chicken-ranch-rancheria-of-me-wuk-indians",
+   "tuolumne-band-of-me-wuk-indians"
+  ],
+  "basis": "name match on southern sierra miwok|southern sierra miwok|me wuk|me wuk",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/southern-sierra-miwok"
+ },
+ "K’ómoks": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on k'omoks|k'omoks",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/komoks"
+ },
+ "Konomihu": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on konomihu|konomihu",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/konomihu"
+ },
+ "Lucayo": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on lucayo|lucayo",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/lucayo"
+ },
+ "Báxoje Máyaⁿ (Ioway)": {
+  "primary": "iowa-tribe-of-kansas-and-nebraska",
+  "allMatches": [
+   "iowa-tribe-of-kansas-and-nebraska",
+   "iowa-tribe-of-oklahoma"
+  ],
+  "basis": "manual: Ioway",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/iowa"
+ },
+ "Newe Sogobia (Eastern Shoshone)": {
+  "primary": "eastern-shoshone-tribe",
+  "allMatches": [
+   "eastern-shoshone-tribe"
+  ],
+  "basis": "name match on eastern shoshone|eastern shoshone|newe sogobia|newe sogobia",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/eastern-shoshone"
+ },
+ "Nüwüwü (Chemehuevi)": {
+  "primary": "chemehuevi-indian-tribe-of-the-chemehuevi-reservation",
+  "allMatches": [
+   "chemehuevi-indian-tribe-of-the-chemehuevi-reservation"
+  ],
+  "basis": "name match on chemehuevi|chemehuevi|nuwuwu|nuwuwu",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chemehuevi"
+ },
+ "Cayuse, Umatilla and Walla Walla": {
+  "primary": "confederated-tribes-of-the-umatilla-indian-reservation",
+  "allMatches": [
+   "confederated-tribes-of-the-umatilla-indian-reservation"
+  ],
+  "basis": "manual: CTUIR",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cayuse-umatilla-and-walla-walla"
+ },
+ "Mexihcah (Triple Alliance)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on triple alliance|triple alliance|mexihcah|mexihcah",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mexihcah-triple-alliance"
+ },
+ "Graton Rancheria": {
+  "primary": "federated-indians-of-graton-rancheria",
+  "allMatches": [
+   "federated-indians-of-graton-rancheria"
+  ],
+  "basis": "name match on graton rancheria|graton rancheria",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/graton-rancheria"
+ },
+ "Southeastern Pomo": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on southeastern pomo|southeastern pomo",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/southeastern-pomo"
+ },
+ "Wixárika (Huichol)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on huichol|huichol|wixarika|wixarika",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/huichol-wixaritari"
+ },
+ "Peoria": {
+  "primary": "peoria-tribe-of-indians-of-oklahoma",
+  "allMatches": [
+   "peoria-tribe-of-indians-of-oklahoma"
+  ],
+  "basis": "manual: Peoria",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/peoria"
+ },
+ "Susquehannock": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on susquehannock|susquehannock",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/susquehannock"
+ },
+ "Coyutecos (Nahua)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nahua|nahua|coyutecos|coyutecos",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/coyutecos-nahuatl"
+ },
+ "Tamien Nation": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tamien nation|tamien nation",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tamyen"
+ },
+ "Achumawi": {
+  "primary": "pit-river-tribe",
+  "allMatches": [
+   "pit-river-tribe"
+  ],
+  "basis": "manual: Pit River Tribe bands",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/achumawi"
+ },
+ "Huachichil (Guachichil)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on guachichil|guachichil|huachichil|huachichil",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/huachichil"
+ },
+ "Passamaquoddy": {
+  "primary": "passamaquoddy-tribe",
+  "allMatches": [
+   "passamaquoddy-tribe"
+  ],
+  "basis": "name match on passamaquoddy|passamaquoddy",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/passamaquoddy"
+ },
+ "Podunks": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on podunks|podunks",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/podunks"
+ },
+ "Shinnecock": {
+  "primary": "shinnecock-indian-nation",
+  "allMatches": [
+   "shinnecock-indian-nation"
+  ],
+  "basis": "name match on shinnecock|shinnecock",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/shinnecock"
+ },
+ "Atsugewi": {
+  "primary": "pit-river-tribe",
+  "allMatches": [
+   "pit-river-tribe"
+  ],
+  "basis": "manual: Pit River Tribe bands",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/atsugewi"
+ },
+ "Jumanos": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on jumanos|jumanos",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/jumanos"
+ },
+ "Mechoopda": {
+  "primary": "mechoopda-indian-tribe-of-chico-rancheria",
+  "allMatches": [
+   "mechoopda-indian-tribe-of-chico-rancheria"
+  ],
+  "basis": "name match on mechoopda|mechoopda",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mechoopda-maidu"
+ },
+ "Na-cho Nyak Dun": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on na cho nyak dun|na cho nyak dun",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/na-cho-nyak-dun"
+ },
+ "Achires": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on achires|achires",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/achires"
+ },
+ "Jiwere": {
+  "primary": "otoe-missouria-tribe-of-indians",
+  "allMatches": [
+   "otoe-missouria-tribe-of-indians"
+  ],
+  "basis": "manual: Otoe",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/oto"
+ },
+ "Kluane": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on kluane|kluane",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kluane"
+ },
+ "Náayerite (Cora)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on cora|cora|naayerite|naayerite",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cora"
+ },
+ "Apsáalooke (Crow)": {
+  "primary": "crow-tribe-of-montana",
+  "allMatches": [
+   "crow-tribe-of-montana"
+  ],
+  "basis": "name match on crow|crow|apsaalooke|apsaalooke",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/apsaalooke-crow"
+ },
+ "Tecuexe": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tecuexe|tecuexe",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tecuexe"
+ },
+ "Yoreme (Mayo)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on mayo|mayo|yoreme|yoreme",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mayo"
+ },
+ "Calusa": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on calusa|calusa",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/calusa"
+ },
+ "Chumash": {
+  "primary": "santa-ynez-band-of-chumash-mission-indians",
+  "allMatches": [
+   "santa-ynez-band-of-chumash-mission-indians"
+  ],
+  "basis": "name match on chumash|chumash",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chumash"
+ },
+ "Dena’ina Ełnena": {
+  "primary": "kenaitze-indian-tribe",
+  "allMatches": [
+   "kenaitze-indian-tribe"
+  ],
+  "basis": "manual: Kenaitze are Dena’ina",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/denaina"
+ },
+ "Wašišiw Ɂítdeʔ (Washoe)": {
+  "primary": "washoe-tribe-of-nevada-and-california",
+  "allMatches": [
+   "washoe-tribe-of-nevada-and-california"
+  ],
+  "basis": "name match on washoe|washoe|wasisiw  itde|wasisiw  itde",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/washoe"
+ },
+ "Kawaiisu": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on kawaiisu|kawaiisu",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kawaiisu"
+ },
+ "Miami (Oklahoma)": {
+  "primary": "miami-tribe-of-oklahoma",
+  "allMatches": [
+   "miami-tribe-of-oklahoma"
+  ],
+  "basis": "name match on miami|miami",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/miami-oklahoma"
+ },
+ "Nisg̱a’a": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nisga'a|nisga'a",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nisg%cc%b1aa"
+ },
+ "Tonkawa (Oklahoma)": {
+  "primary": "tonkawa-tribe-of-indians-of-oklahoma",
+  "allMatches": [
+   "tonkawa-tribe-of-indians-of-oklahoma"
+  ],
+  "basis": "name match on tonkawa|tonkawa",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tonkawa-oklahoma"
+ },
+ "Okwanuchu": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on okwanuchu|okwanuchu",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/okwanuchu"
+ },
+ "ᏣᎳᎫᏪᏘᏱ Tsalaguwetiyi (Cherokee, East)": {
+  "primary": "eastern-band-of-cherokee-indians",
+  "allMatches": [
+   "eastern-band-of-cherokee-indians",
+   "cherokee-nation",
+   "united-keetoowah-band-of-cherokee-indians-in-oklahoma"
+  ],
+  "basis": "manual: Cherokee homeland in the east; Eastern Band remains there",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cherokee"
+ },
+ "Tobosos": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tobosos|tobosos",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tobosos"
+ },
+ "kʷikʷəƛ̓əm": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on kwikw m|kwikw m",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kwikwetlem"
+ },
+ "Ahtna Nenn’": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on ahtna nenn'|ahtna nenn'",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/ahtna"
+ },
+ "Unkechaug": {
+  "primary": "unkechaug-nation",
+  "allMatches": [
+   "unkechaug-nation"
+  ],
+  "basis": "name match on unkechaug|unkechaug",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/unkechaug"
+ },
+ "Cupeño": {
+  "primary": "los-coyotes-band-of-cahuilla-and-cupeno-indians",
+  "allMatches": [
+   "los-coyotes-band-of-cahuilla-and-cupeno-indians"
+  ],
+  "basis": "name match on cupeno|cupeno",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cupeno"
+ },
+ "Lumbee": {
+  "primary": "lumbee-tribe-of-north-carolina",
+  "allMatches": [
+   "lumbee-tribe-of-north-carolina"
+  ],
+  "basis": "name match on lumbee|lumbee",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/lumbee"
+ },
+ "Quinault": {
+  "primary": "quinault-indian-nation",
+  "allMatches": [
+   "quinault-indian-nation"
+  ],
+  "basis": "name match on quinault|quinault",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/quinault"
+ },
+ "Selkirk": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on selkirk|selkirk",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/selkirk"
+ },
+ "nuučaan̓uuɫɁatḥ nism̓a (Nuu-chah-nulth)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nuu chah nulth|nuu chah nulth|nuucaanuu ath nisma|nuucaanuu ath nisma",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nuu-chah-nulth-tribal-council"
+ },
+ "Yoli (Concho)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on concho|concho|yoli|yoli",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/conchos"
+ },
+ "jñatjo/ jñatrjo (Mazahua)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on mazahua|mazahua|jnatjo  jnatrjo|jnatjo|jnatrjo",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mazahua"
+ },
+ "‘Amuwu": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on amuwu|amuwu",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/purisemeno"
+ },
+ "Ventureño Chumash": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on ventureno chumash|ventureno chumash",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/ventureno"
+ },
+ "Nahua (Mexico)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on mexico|mexico|nahua|nahua",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nahuatl"
+ },
+ "Ponca (Oklahoma)": {
+  "primary": "ponca-tribe-of-indians-of-oklahoma",
+  "allMatches": [
+   "ponca-tribe-of-indians-of-oklahoma"
+  ],
+  "basis": "name match on ponca|ponca",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/ponca-oklahoma"
+ },
+ "Hesquiaht": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on hesquiaht|hesquiaht",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/hesquiaht"
+ },
+ "Seminole": {
+  "primary": "seminole-tribe-of-florida",
+  "allMatches": [
+   "seminole-tribe-of-florida"
+  ],
+  "basis": "name match on seminole|seminole",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/seminole"
+ },
+ "Janos": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on janos|janos",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/janos"
+ },
+ "S’ólh Téméxw (Stó:lō)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on sto lo|sto lo|s'olh temexw|s'olh temexw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/stolo-treaty-association"
+ },
+ "Timucua": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on timucua|timucua",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/timucua"
+ },
+ "Washtáge Moⁿzháⁿ (Kaw / Kansa)": {
+  "primary": "kaw-nation",
+  "allMatches": [
+   "kaw-nation"
+  ],
+  "basis": "name match on kaw|kansa|kaw   kansa|washtage monzhan|washtage monzhan",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kaw-kansa"
+ },
+ "Lassik": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on lassik|lassik",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/lassik"
+ },
+ "Nauset": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nauset|nauset",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nauset"
+ },
+ "Popeloutchom (Amah Mutsun)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on amah mutsun|amah mutsun|popeloutchom|popeloutchom",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mutsun"
+ },
+ "ditidaqiic̓aq disib̓aʔk (Ditidaht)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on ditidaht|ditidaht|ditidaqiicaq disiba k|ditidaqiicaq disiba k",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/ditidaht"
+ },
+ "Eastern Shawnee (Oklahoma)": {
+  "primary": "eastern-shawnee-tribe-of-oklahoma",
+  "allMatches": [
+   "eastern-shawnee-tribe-of-oklahoma"
+  ],
+  "basis": "name match on eastern shawnee|eastern shawnee",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/eastern-shawnee-oklahoma"
+ },
+ "White River-Kluane": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on white river kluane|white river kluane",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/white-river"
+ },
+ "Yurok": {
+  "primary": "yurok-tribe",
+  "allMatches": [
+   "puliklatribe-of-yurok-people",
+   "yurok-tribe"
+  ],
+  "basis": "name match on yurok|yurok",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/yurok"
+ },
+ "Cahita": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on cahita|cahita",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cahita"
+ },
+ "Moneton": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on moneton|moneton",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/moneton"
+ },
+ "Manissean": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on manissean|manissean",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/manissean"
+ },
+ "Guaycura": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on guaycura|guaycura",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/guaycura"
+ },
+ "Ñuu Savi (Mixtecapan)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on mixtecapan|mixtecapan|nuu savi|nuu savi",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mixtec"
+ },
+ "Kashaya": {
+  "primary": "kashia-band-of-pomo-indians",
+  "allMatches": [
+   "kashia-band-of-pomo-indians"
+  ],
+  "basis": "manual: Kashia",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kashaya"
+ },
+ "Wôpanâak (Wampanoag)": {
+  "primary": "wampanoag-tribe-of-gay-head-aquinnah",
+  "allMatches": [
+   "mashpee-wampanoag-tribe",
+   "wampanoag-tribe-of-gay-head-aquinnah",
+   "herring-pond-wampanoag-tribe"
+  ],
+  "basis": "name match on wampanoag|wampanoag|wopanaak|wopanaak",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wampanoag"
+ },
+ "Tse’khene": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tse'khene|tse'khene",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sekani"
+ },
+ "Kwanlin Dün": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on kwanlin dun|kwanlin dun",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kwanlin-dun"
+ },
+ "Nahua": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nahua|nahua",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nahuatl-2"
+ },
+ "Nissaquogue": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nissaquogue|nissaquogue",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nissaquogue"
+ },
+ "Natchez": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "manual: no federally or state recognized Natchez nation in this list",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/natchez"
+ },
+ "Onundagaonoga (Onondaga)": {
+  "primary": "onondaga-nation",
+  "allMatches": [
+   "onondaga-nation"
+  ],
+  "basis": "name match on onondaga|onondaga|onundagaonoga|onundagaonoga",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/onondaga"
+ },
+ "Semiahmoo": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on semiahmoo|semiahmoo",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/semiahmoo"
+ },
+ "Wappo": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on wappo|wappo",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wappo"
+ },
+ "Shasta": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on shasta|shasta",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/shasta"
+ },
+ "S’Klallam": {
+  "primary": "jamestown-sklallam-tribe",
+  "allMatches": [
+   "jamestown-sklallam-tribe",
+   "port-gamble-sklallam-tribe"
+  ],
+  "basis": "name match on s'klallam|s'klallam",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/klallam"
+ },
+ "Gáuigú (Kiowa)": {
+  "primary": "kiowa-tribe",
+  "allMatches": [
+   "kiowa-tribe"
+  ],
+  "basis": "name match on kiowa|kiowa|gauigu|gauigu",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kiowa"
+ },
+ "Eastern Pomo": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on eastern pomo|eastern pomo",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/eastern-pomo"
+ },
+ "Tahues": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tahues|tahues",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tahues"
+ },
+ "Kaw (Oklahoma)": {
+  "primary": "kaw-nation",
+  "allMatches": [
+   "kaw-nation"
+  ],
+  "basis": "name match on kaw|kaw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kaw-oklahoma-2"
+ },
+ "Me-Wuk (Northern Sierra Miwok)": {
+  "primary": "chicken-ranch-rancheria-of-me-wuk-indians",
+  "allMatches": [
+   "buena-vista-rancheria-of-me-wuk-indians",
+   "chicken-ranch-rancheria-of-me-wuk-indians",
+   "tuolumne-band-of-me-wuk-indians"
+  ],
+  "basis": "name match on northern sierra miwok|northern sierra miwok|me wuk|me wuk",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/northern-sierra-miwok"
+ },
+ "Dakeł Keyoh (ᑕᗸᒡ ᗲᘏᑋ)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on dake  keyoh|dake  keyoh",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/dakel-%e1%91%95%e1%97%b8%e1%92%a1"
+ },
+ "Wyandotte (Oklahoma)": {
+  "primary": "wyandotte-nation",
+  "allMatches": [
+   "wyandotte-nation"
+  ],
+  "basis": "name match on wyandotte|wyandotte",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wyandotte-oklahoma"
+ },
+ "Qayqayt": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on qayqayt|qayqayt",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/qayqayt"
+ },
+ "Lil’wat": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on lil'wat|lil'wat",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/lilwat"
+ },
+ "Ktunaxa ɁamakɁis": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on ktunaxa  amak is|ktunaxa  amak is",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/ktunaxa"
+ },
+ "Sturgeon Lake Cree": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on sturgeon lake cree|sturgeon lake cree",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sturgeon-lake-cree"
+ },
+ "Mannansett": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on mannansett|mannansett",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mannansett"
+ },
+ "Coast Yuki": {
+  "primary": "round-valley-indian-tribes-round-valley-reservation",
+  "allMatches": [
+   "round-valley-indian-tribes-round-valley-reservation"
+  ],
+  "basis": "manual: Yuki at Round Valley",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/coast-yuki"
+ },
+ "𐓏𐒰𐓓𐒰𐓓𐒷  𐒼𐓂𐓊𐒻  𐓆𐒻𐒿𐒷  𐓀𐒰^𐓓𐒰^(Osage)": {
+  "primary": "osage-nation",
+  "allMatches": [
+   "osage-nation"
+  ],
+  "basis": "name match on osage|osage",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/osage"
+ },
+ "Sac and Fox (Oklahoma)": {
+  "primary": "sac-and-fox-nation",
+  "allMatches": [
+   "sac-and-fox-nation"
+  ],
+  "basis": "name match on sac and fox|sac and fox",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sac-and-fox-oklahoma"
+ },
+ "Irritilas/Lagunero": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on irritilas lagunero|irritilas|lagunero",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/irritilas-lagunero"
+ },
+ "O-ga-xpa Ma-zhoⁿ (O-ga-xpa) (Quapaw)": {
+  "primary": "quapaw-nation",
+  "allMatches": [
+   "quapaw-nation"
+  ],
+  "basis": "name match on o ga xpa|o ga xpa|quapaw|quapaw|o ga xpa ma zhon|o ga xpa ma zhon",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/quapaw"
+ },
+ "Massapequas": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on massapequas|massapequas",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/massapequas"
+ },
+ "Xawiƚƚ kwñchawaay (Cocopah)": {
+  "primary": "cocopah-tribe-of-arizona",
+  "allMatches": [
+   "cocopah-tribe-of-arizona"
+  ],
+  "basis": "name match on cocopah|cocopah|xawi  kwnchawaay|xawi  kwnchawaay",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cocopah"
+ },
+ "Ha Shuta Enima (Mazateco)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on mazateco|mazateco|ha shuta enima|ha shuta enima",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mazatec"
+ },
+ "Quechan (Kwatsáan)": {
+  "primary": "quechan-tribe",
+  "allMatches": [
+   "quechan-tribe"
+  ],
+  "basis": "name match on kwatsaan|kwatsaan|quechan|quechan",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/quechan-kwatsaan"
+ },
+ "Chikashsha I̠yaakni’ (Chickasaw)": {
+  "primary": "chickasaw-nation",
+  "allMatches": [
+   "chickasaw-nation"
+  ],
+  "basis": "manual: Chickasaw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chickasaw"
+ },
+ "Diné Bikéyah": {
+  "primary": "navajo-nation",
+  "allMatches": [
+   "navajo-nation"
+  ],
+  "basis": "manual: Diné Bikéyah is the Navajo (Diné) homeland",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/navajo"
+ },
+ "Ohlone": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on ohlone|ohlone",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/ohlone"
+ },
+ "Palouse": {
+  "primary": "confederated-tribes-of-the-colville-reservation",
+  "allMatches": [
+   "confederated-tribes-of-the-colville-reservation"
+  ],
+  "basis": "manual: Palus",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/palouse"
+ },
+ "Ngi-iva (Popoloca)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on popoloca|popoloca|ngi iva|ngi iva",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/popoluca-puebla"
+ },
+ "Nentego (Nanticoke)": {
+  "primary": "nanticoke-lenni-lenape-tribal-nation",
+  "allMatches": [
+   "nanticoke-indian-association-inc",
+   "nanticoke-lenni-lenape-tribal-nation"
+  ],
+  "basis": "name match on nanticoke|nanticoke|nentego|nentego",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nentego-nanticoke"
+ },
+ "Nahaganset": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nahaganset|nahaganset",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nahaganset"
+ },
+ "Cherokee (Oklahoma)": {
+  "primary": "cherokee-nation",
+  "allMatches": [
+   "cherokee-nation",
+   "united-keetoowah-band-of-cherokee-indians-in-oklahoma"
+  ],
+  "basis": "name match on cherokee|cherokee",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cherokee-oklahoma"
+ },
+ "Southern Pomo": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on southern pomo|southern pomo",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/southern-pomo"
+ },
+ "Gwa’Sala-‘Nakwaxda’xw": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on gwa'sala nakwaxda'xw|gwa'sala nakwaxda'xw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/gwasala-nakwaxdaxw"
+ },
+ "Yuhaaviatam/Maarenga’yam (Serrano)": {
+  "primary": "yuhaaviatam-of-san-manuel-nation",
+  "allMatches": [
+   "yuhaaviatam-of-san-manuel-nation"
+  ],
+  "basis": "name match on serrano|serrano|yuhaaviatam maarenga'yam|yuhaaviatam|maarenga'yam",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/yuhaviatam-serrano"
+ },
+ "dxʷdəwʔabš (Duwamish)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on duwamish|duwamish|dxwd w abs|dxwd w abs",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/duwamish"
+ },
+ "Tepehuán": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tepehuan|tepehuan",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tepehuan-2"
+ },
+ "Nisenan": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nisenan|nisenan",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nisenan"
+ },
+ "Tetlit Gwich’in": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tetlit gwich'in|tetlit gwich'in",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tetlit-gwichin"
+ },
+ "Totorames": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on totorames|totorames",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/totorames"
+ },
+ "Coahuiltecan": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on coahuiltecan|coahuiltecan",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/coahuiltecan"
+ },
+ "Takelma": {
+  "primary": "confederated-tribes-of-siletz-indians-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-siletz-indians-of-oregon",
+   "confederated-tribes-of-the-grand-ronde-community-of-oregon"
+  ],
+  "basis": "manual: Takelma at Siletz and Grand Ronde",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/takelma"
+ },
+ "Tunxis": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tunxis|tunxis",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tunxis"
+ },
+ "Quinnipiac": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on quinnipiac|quinnipiac",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/quinnipiac"
+ },
+ "Taíno": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on taino|taino",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/taino"
+ },
+ "Wichita": {
+  "primary": "wichita-and-affiliated-tribes-wichita-keechi-waco-and-tawakonie",
+  "allMatches": [
+   "wichita-and-affiliated-tribes-wichita-keechi-waco-and-tawakonie"
+  ],
+  "basis": "name match on wichita|wichita",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wichita"
+ },
+ "Omàmìwininìwag (Algonquin)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on algonquin|algonquin|omamiwininiwag|omamiwininiwag",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/algonquin"
+ },
+ "Nimiipuu (Nez Perce)": {
+  "primary": "nez-perce-tribe",
+  "allMatches": [
+   "nez-perce-tribe"
+  ],
+  "basis": "name match on nez perce|nez perce|nimiipuu|nimiipuu",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nimiipuu-nez-perce"
+ },
+ "Holikachuk": {
+  "primary": "organized-village-of-grayling",
+  "allMatches": [
+   "organized-village-of-grayling"
+  ],
+  "basis": "name match on holikachuk|holikachuk",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/holikachuk"
+ },
+ "Hoopa Valley Reservation": {
+  "primary": "hoopa-valley-tribe",
+  "allMatches": [
+   "hoopa-valley-tribe"
+  ],
+  "basis": "manual: Hoopa",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/hoopa"
+ },
+ "Nuwuvi (Southern Paiute)": {
+  "primary": "san-juan-southern-paiute-tribe-of-arizona",
+  "allMatches": [
+   "san-juan-southern-paiute-tribe-of-arizona"
+  ],
+  "basis": "name match on southern paiute|southern paiute|nuwuvi|nuwuvi",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/southern-paiute"
+ },
+ "ᓀᐦᐃᔭᐤ ᐊᐢᑭᕀ Nêhiyaw-Askiy (Plains Cree)": {
+  "primary": "chippewa-cree-indians",
+  "allMatches": [
+   "chippewa-cree-indians"
+  ],
+  "basis": "manual: Cree in Montana",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/plains-cree"
+ },
+ "Mexicanero (Nahuas)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nahuas|nahuas|mexicanero|mexicanero",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mexicanero-nahuatl"
+ },
+ "Chiricahua Apache": {
+  "primary": "fort-sill-chiricahua-warm-springs-apache-tribe",
+  "allMatches": [
+   "fort-sill-chiricahua-warm-springs-apache-tribe",
+   "mescalero-apache-tribe"
+  ],
+  "basis": "manual: Chiricahua",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chiricahua-apache"
+ },
+ "Mandan, Hidatsa, and Arikara": {
+  "primary": "three-affiliated-tribes-of-the-fort-berthold-reservation",
+  "allMatches": [
+   "three-affiliated-tribes-of-the-fort-berthold-reservation"
+  ],
+  "basis": "name match on mandan  hidatsa  and arikara|mandan  hidatsa  and arikara",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mandan-hidatsa-and-arikara"
+ },
+ "Lemhi-Shoshone": {
+  "primary": "shoshone-bannock-tribes-of-the-fort-hall-reservation",
+  "allMatches": [
+   "shoshone-bannock-tribes-of-the-fort-hall-reservation"
+  ],
+  "basis": "manual: Lemhi Shoshone are part of Shoshone-Bannock",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/lemhi-shoshone"
+ },
+ "Setalcott": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on setalcott|setalcott",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/setalcott"
+ },
+ "Molalla": {
+  "primary": "confederated-tribes-of-the-grand-ronde-community-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-the-grand-ronde-community-of-oregon"
+  ],
+  "basis": "manual: Molalla at Grand Ronde",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/molalla"
+ },
+ "Kauwets’a:ka": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on kauwets'a ka|kauwets'a ka",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/meherrin"
+ },
+ "Hopitutskwa": {
+  "primary": "hopi-tribe-of-arizona",
+  "allMatches": [
+   "hopi-tribe-of-arizona"
+  ],
+  "basis": "manual: Hopitutskwa is the Hopi homeland",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/hopi"
+ },
+ "Sihásapa": {
+  "primary": "cheyenne-river-sioux-tribe",
+  "allMatches": [
+   "cheyenne-river-sioux-tribe"
+  ],
+  "basis": "manual: one of four Lakota bands of Cheyenne River",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sihapsa"
+ },
+ "O’ob (Lower Pima)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on lower pima|lower pima|o'ob|o'ob",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pima-tohono-oodham"
+ },
+ "Pâri (Pawnee)": {
+  "primary": "pawnee-nation-of-oklahoma",
+  "allMatches": [
+   "pawnee-nation-of-oklahoma"
+  ],
+  "basis": "name match on pawnee|pawnee|pari|pari",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pawnee"
+ },
+ "Guamares": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on guamares|guamares",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/guamares"
+ },
+ "Big Stone Cree": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on big stone cree|big stone cree",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/big-stone-cree"
+ },
+ "O’odham Jeweḍ": {
+  "primary": "tohono-oodham-nation-of-arizona",
+  "allMatches": [
+   "tohono-oodham-nation-of-arizona",
+   "gila-river-indian-community",
+   "salt-river-pima-maricopa-indian-community",
+   "ak-chin-indian-community"
+  ],
+  "basis": "manual: O’odham lands",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tohono-oodham"
+ },
+ "Á,LEṈENEȻ ȽTE (W̱SÁNEĆ)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on wsanec|wsanec|a lenene   te|a lenene   te",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/w%cc%b1sanec"
+ },
+ "Wuikinuxv (Oweekeno)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on oweekeno|oweekeno|wuikinuxv|wuikinuxv",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wuikinuxv-oweekeno"
+ },
+ "Inupiat": {
+  "primary": "inupiat-community-of-the-arctic-slope",
+  "allMatches": [
+   "inupiat-community-of-the-arctic-slope",
+   "native-village-of-barrow-inupiat-traditional-government"
+  ],
+  "basis": "name match on inupiat|inupiat",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/inupiatun"
+ },
+ "Ko’lew (Kiliwa)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on kiliwa|kiliwa|ko'lew|ko'lew",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kiliwa"
+ },
+ "ᐃᓄᐃᑦ ᓄᓇᖓᑦ (Inuit Nunangat)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on inuit nunangat|inuit nunangat",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/inuit"
+ },
+ "Iowa (Oklahoma)": {
+  "primary": "iowa-tribe-of-oklahoma",
+  "allMatches": [
+   "iowa-tribe-of-oklahoma"
+  ],
+  "basis": "name match on iowa|iowa",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/iowa-oklahoma"
+ },
+ "Salish": {
+  "primary": "confederated-salish-and-kootenai-tribes",
+  "allMatches": [
+   "confederated-salish-and-kootenai-tribes"
+  ],
+  "basis": "name match on salish|salish",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/salish-kootenai-flathead"
+ },
+ "Shoshone-Bannock": {
+  "primary": "shoshone-bannock-tribes-of-the-fort-hall-reservation",
+  "allMatches": [
+   "shoshone-bannock-tribes-of-the-fort-hall-reservation"
+  ],
+  "basis": "name match on shoshone bannock|shoshone bannock",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/shoshone-bannock"
+ },
+ "Lenapehoking (Lenni-Lenape)": {
+  "primary": "delaware-tribe-of-indians",
+  "allMatches": [
+   "delaware-tribe-of-indians",
+   "delaware-nation",
+   "nanticoke-lenni-lenape-tribal-nation",
+   "lenape-indian-tribe-of-delaware",
+   "ramapough-mountain-indians"
+  ],
+  "basis": "manual: Lenape homeland",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/lenape"
+ },
+ "Anishinabewaki ᐊᓂᔑᓈᐯᐗᑭ": {
+  "primary": null,
+  "allMatches": [
+   "bay-mills-indian-community",
+   "grand-traverse-band-of-ottawa-and-chippewa-indians",
+   "hannahville-indian-community",
+   "keweenaw-bay-indian-community",
+   "lac-courte-oreilles-band-of-lake-superior-chippewa-indians-of-wisconsin",
+   "lac-du-flambeau-band-of-lake-superior-chippewa-indians-of-the-lac-du-flambeau-reservation-of-wisconsin",
+   "lac-vieux-desert-band-of-lake-superior-chippewa-indians-of-michigan",
+   "little-river-band-of-ottawa-indians",
+   "little-shell-tribe-of-chippewa-indians-of-montana",
+   "little-traverse-bay-bands-of-odawa-indians",
+   "match-e-be-nash-she-wish-band-of-pottawatomi",
+   "minnesota-chippewa-tribe",
+   "bois-forte-band-of-chippewa",
+   "fond-du-lac-band-of-lake-superior-chippewa",
+   "grand-portage-band-of-lake-superior-chippewa",
+   "leech-lake-band-of-ojibwe",
+   "mille-lacs-band-of-ojibwe",
+   "white-earth-nation",
+   "nottawaseppi-huron-band-of-the-potawatomi",
+   "ottawa-tribe-of-oklahoma",
+   "red-cliff-band-of-lake-superior-chippewa-indians-of-wisconsin",
+   "red-lake-band-of-chippewa-indians",
+   "saginaw-chippewa-indian-tribe-of-michigan",
+   "sault-ste-marie-tribe-of-chippewa-indians",
+   "sokaogon-chippewa-community",
+   "st-croix-chippewa-indians-of-wisconsin",
+   "turtle-mountain-band-of-chippewa-indians-of-north-dakota"
+  ],
+  "basis": "manual: Anishinaabe lands",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/anishinabek-%e1%90%8a%e1%93%82%e1%94%91%e1%93%88%e1%90%af%e1%92%83"
+ },
+ "Yana": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on yana|yana",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/yana"
+ },
+ "Nitaskinan (Atikamekw / Nehirowisi Aski)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on atikamekw|nehirowisi aski|atikamekw   nehirowisi aski|nitaskinan|nitaskinan",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/atikamekw"
+ },
+ "Tongva (Gabrieleno)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on gabrieleno|gabrieleno|tongva|tongva",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tongva-gabrieleno"
+ },
+ "Cow Creek Umpqua": {
+  "primary": "cow-creek-band-of-umpqua-tribe-of-indians",
+  "allMatches": [
+   "cow-creek-band-of-umpqua-tribe-of-indians"
+  ],
+  "basis": "manual: same nation",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cow-creek-umpqua"
+ },
+ "Ta’an Kwäch’än": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on ta'an kwach'an|ta'an kwach'an",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/taan-kwachan"
+ },
+ "Nüümü (Northern Paiute)": {
+  "primary": "pyramid-lake-paiute-tribe",
+  "allMatches": [
+   "pyramid-lake-paiute-tribe",
+   "walker-river-paiute-tribe",
+   "burns-paiute-tribe",
+   "fort-mcdermitt-paiute-and-shoshone-tribes",
+   "summit-lake-paiute-tribe-of-nevada",
+   "lovelock-paiute-tribe",
+   "yerington-paiute-tribe-of-the-yerington-colony-and-campbell-ranch",
+   "reno-sparks-indian-colony"
+  ],
+  "basis": "manual: Northern Paiute nations",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/northern-paiute"
+ },
+ "Dene Tha’": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on dene tha'|dene tha'",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/dene-tha"
+ },
+ "Skaruhreh/Tuscarora (North Carolina)": {
+  "primary": "tuscarora-nation",
+  "allMatches": [
+   "tuscarora-nation"
+  ],
+  "basis": "manual: Tuscarora",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tuscarora"
+ },
+ "In-SHUCK-ch": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on in shuck ch|in shuck ch",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/in-shuck-ch"
+ },
+ "Pequonnock": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on pequonnock|pequonnock",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/poquonock"
+ },
+ "Tsétsėhéstȧhese/Tsitsistas/Só'taeo'o (Cheyenne)": {
+  "primary": "northern-cheyenne-tribe",
+  "allMatches": [
+   "northern-cheyenne-tribe",
+   "cheyenne-and-arapaho-tribes"
+  ],
+  "basis": "manual: Cheyenne",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cheyenne"
+ },
+ "Yekooche": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on yekooche|yekooche",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/yekooche"
+ },
+ "Pawnee (Oklahoma)": {
+  "primary": "pawnee-nation-of-oklahoma",
+  "allMatches": [
+   "pawnee-nation-of-oklahoma"
+  ],
+  "basis": "name match on pawnee|pawnee",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pawnee-oklahoma"
+ },
+ "Pacheedaht": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on pacheedaht|pacheedaht",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pacheedaht"
+ },
+ "Ciguayo": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on ciguayo|ciguayo",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/ciguayo"
+ },
+ "Umoⁿhoⁿ (Omaha)": {
+  "primary": "omaha-tribe-of-nebraska",
+  "allMatches": [
+   "omaha-tribe-of-nebraska"
+  ],
+  "basis": "name match on omaha|omaha|umonhon|umonhon",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/omaha"
+ },
+ "Tepehua": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tepehua|tepehua",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tepehua"
+ },
+ "Nahuas": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nahuas|nahuas",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nahuas"
+ },
+ "ᒋᑦ ᐊᔅᒋᓄᐤ St’aschinuw (Naskapi)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on naskapi|naskapi|st'aschinuw|st'aschinuw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/naskapi"
+ },
+ "Stl’pulmsh (Cowlitz)": {
+  "primary": "cowlitz-indian-tribe",
+  "allMatches": [
+   "cowlitz-indian-tribe"
+  ],
+  "basis": "name match on cowlitz|cowlitz|stl'pulmsh|stl'pulmsh",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cowlitz"
+ },
+ "Odawa": {
+  "primary": "little-traverse-bay-bands-of-odawa-indians",
+  "allMatches": [
+   "little-traverse-bay-bands-of-odawa-indians"
+  ],
+  "basis": "name match on odawa|odawa",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/odawa"
+ },
+ "Tsnungwe": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tsnungwe|tsnungwe",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tsnungwe-2"
+ },
+ "Wiñikoñlojoñbä /Xk’uk’witsob/Ajlumob (Ch’ol)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on ch'ol|ch'ol|winikonlojonba  xk'uk'witsob ajlumob|winikonlojonba|xk'uk'witsob|ajlumob",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chol"
+ },
+ "Cheroenhaka (Nottoway)": {
+  "primary": "cheroenhaka-nottoway-indian-tribe",
+  "allMatches": [
+   "cheroenhaka-nottoway-indian-tribe",
+   "nottoway-indian-tribe-of-virginia"
+  ],
+  "basis": "name match on nottoway|nottoway|cheroenhaka|cheroenhaka",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nottoway-cheroenhaka"
+ },
+ "Kumeyaay/Kumiais": {
+  "primary": "ewiiaapaayp-band-of-kumeyaay-indians",
+  "allMatches": [
+   "viejas-band-of-kumeyaay-indians",
+   "ewiiaapaayp-band-of-kumeyaay-indians",
+   "jamul-indian-village-of-california",
+   "sycuan-band-of-the-kumeyaay-nation"
+  ],
+  "basis": "name match on kumeyaay kumiais|kumeyaay|kumiais",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kumeyaay"
+ },
+ "Monqui": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on monqui|monqui",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/monqui"
+ },
+ "Monacan": {
+  "primary": "monacan-indian-nation",
+  "allMatches": [
+   "monacan-indian-nation"
+  ],
+  "basis": "name match on monacan|monacan",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/monacan"
+ },
+ "Newe Sogobia (Western Shoshone)": {
+  "primary": "te-moak-tribe-of-western-shoshone-indians-of-nevada",
+  "allMatches": [
+   "shoshone-paiute-tribes",
+   "te-moak-tribe-of-western-shoshone-indians-of-nevada"
+  ],
+  "basis": "name match on western shoshone|western shoshone|newe sogobia|newe sogobia",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/newe-western-shoshone"
+ },
+ "Carcross/Tagish First Nation (Yukon)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on yukon|yukon|carcross tagish first nation|carcross|tagish first nation",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/carcross-tagish"
+ },
+ "Sinkyone": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on sinkyone|sinkyone",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sinkyone"
+ },
+ "snʕickstx tmxʷúlaʔxʷ (Sinixt)": {
+  "primary": "confederated-tribes-of-the-colville-reservation",
+  "allMatches": [
+   "confederated-tribes-of-the-colville-reservation"
+  ],
+  "basis": "manual: Lakes (Sinixt) is one of the twelve Colville tribes",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sinixt"
+ },
+ "Sq’ʷayáiɬaqtmš (Chehalis)": {
+  "primary": "confederated-tribes-of-the-chehalis-reservation",
+  "allMatches": [
+   "confederated-tribes-of-the-chehalis-reservation"
+  ],
+  "basis": "name match on chehalis|chehalis|sq'wayai aqtms|sq'wayai aqtms",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chehalis"
+ },
+ "Kalapuya": {
+  "primary": "confederated-tribes-of-the-grand-ronde-community-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-the-grand-ronde-community-of-oregon",
+   "confederated-tribes-of-siletz-indians-of-oregon"
+  ],
+  "basis": "manual: Kalapuya peoples at Grand Ronde and Siletz",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kalapuya"
+ },
+ "Me-Wuk (Lake Miwok)": {
+  "primary": "buena-vista-rancheria-of-me-wuk-indians",
+  "allMatches": [
+   "buena-vista-rancheria-of-me-wuk-indians"
+  ],
+  "basis": "name match on lake miwok|lake miwok|me wuk|me wuk",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/lake-miwok"
+ },
+ "Choctaw (Oklahoma)": {
+  "primary": "choctaw-nation-of-oklahoma",
+  "allMatches": [
+   "choctaw-nation-of-oklahoma"
+  ],
+  "basis": "name match on choctaw|choctaw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/choctaw-oklahoma"
+ },
+ "Northeastern Pomo": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on northeastern pomo|northeastern pomo",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/northeastern-pomo"
+ },
+ "Kelly Lake Metis Settlement Society": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on kelly lake metis settlement society|kelly lake metis settlement society",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kelly-lake-metis-settlement-society"
+ },
+ "Fernandeño Tataviam": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on fernandeno tataviam|fernandeno tataviam",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/fernandeno-tataviam"
+ },
+ "Piipaash (Maricopa)": {
+  "primary": "ak-chin-indian-community",
+  "allMatches": [
+   "ak-chin-indian-community",
+   "salt-river-pima-maricopa-indian-community"
+  ],
+  "basis": "name match on maricopa|maricopa|piipaash|piipaash",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/maricopa-pima"
+ },
+ "Nʉmʉnʉʉ Sookobitʉ (Comanche)": {
+  "primary": "comanche-nation",
+  "allMatches": [
+   "comanche-nation"
+  ],
+  "basis": "name match on comanche|comanche|n m n  sookobit|n m n  sookobit",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/n%ca%89m%ca%89n%ca%89%ca%89-comanche"
+ },
+ "Popoluca (mixe-zoque)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on mixe zoque|mixe zoque|popoluca|popoluca",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/popoluca-mixe-zoque"
+ },
+ "Yup’ik/Cup’ik": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on yup'ik cup'ik|yup'ik|cup'ik",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/yupik"
+ },
+ "Tłı̨chǫ Ndè": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on t cho nde|t cho nde",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tlicho-agreement"
+ },
+ "Gwich’in Settlement Region": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on gwich'in settlement region|gwich'in settlement region",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/gwitchin-settlement-region"
+ },
+ "Miwok": {
+  "primary": "ione-band-of-miwok-indians",
+  "allMatches": [
+   "california-valley-miwok-tribe",
+   "federated-indians-of-graton-rancheria",
+   "ione-band-of-miwok-indians",
+   "shingle-springs-band-of-miwok-indians-shingle-springs-rancheria-verona-tract"
+  ],
+  "basis": "name match on miwok|miwok",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/plains-miwok"
+ },
+ "Corchaug": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on corchaug|corchaug",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/corchaug"
+ },
+ "Alutiiq (Sugpiaq)": {
+  "primary": "alutiiq-tribe-of-old-harbor",
+  "allMatches": [
+   "alutiiq-tribe-of-old-harbor"
+  ],
+  "basis": "name match on sugpiaq|sugpiaq|alutiiq|alutiiq",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/alutiiq-sugpiaq"
+ },
+ "oθaakiiwaki‧hina‧ki (Sauk) & Meškwahki·aša·hina (Fox)": {
+  "primary": "sac-and-fox-tribe-of-the-mississippi-in-iowa",
+  "allMatches": [
+   "sac-and-fox-tribe-of-the-mississippi-in-iowa"
+  ],
+  "basis": "name match on sauk|sauk|fox|fox|o aakiiwaki hina ki    meskwahki asa hina|o aakiiwaki hina ki    meskwahki asa hina",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sauk-and-meskwaki"
+ },
+ "Lekwungen/Songhees": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on lekwungen songhees|lekwungen|songhees",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/lekwungen-songhees"
+ },
+ "np̓əšqʷáw̓səxʷ (Wenatchi)": {
+  "primary": "confederated-tribes-of-the-colville-reservation",
+  "allMatches": [
+   "confederated-tribes-of-the-colville-reservation"
+  ],
+  "basis": "manual: one of the twelve Colville tribes",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/columbia-wenatchi"
+ },
+ "Sahtu Dene and Metis": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on sahtu dene and metis|sahtu dene and metis",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sahtu-dene-and-metis"
+ },
+ "Nipmuc": {
+  "primary": "hassanamisco-nipmuc",
+  "allMatches": [
+   "hassanamisco-nipmuc"
+  ],
+  "basis": "name match on nipmuc|nipmuc",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nipmuck"
+ },
+ "Kaska Dena Kayeh": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on kaska dena kayeh|kaska dena kayeh",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kaska-dena"
+ },
+ "Bodwéwadmi (Potawatomi)": {
+  "primary": "pokagon-band-of-potawatomi-indians",
+  "allMatches": [
+   "forest-county-potawatomi-community",
+   "hannahville-indian-community",
+   "nottawaseppi-huron-band-of-the-potawatomi",
+   "pokagon-band-of-potawatomi-indians"
+  ],
+  "basis": "name match on potawatomi|potawatomi|bodwewadmi|bodwewadmi",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/bodwewadmi-potawatomi"
+ },
+ "Tagé Cho Hudän (Little Salmon/Carmacks)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on little salmon|carmacks|little salmon carmacks|tage cho hudan|tage cho hudan",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/little-salmon-carmacks"
+ },
+ "Lekawe (Rockaway)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on rockaway|rockaway|lekawe|lekawe",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/rockaway"
+ },
+ "Jococobas": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on jococobas|jococobas",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/jococobas"
+ },
+ "Erie": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on erie|erie",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/erie"
+ },
+ "As’in’i’wa’chi Niy’yaw Askiy (Rocky Mountain Cree)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on rocky mountain cree|rocky mountain cree|as'in'i'wa'chi niy'yaw askiy|as'in'i'wa'chi niy'yaw askiy",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/aseniwuche-winewak-rocky-mountain"
+ },
+ "Hul’qumi’num Treaty Group": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on hul'qumi'num treaty group|hul'qumi'num treaty group",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/hulquminum-treaty-group"
+ },
+ "Rumsen": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on rumsen|rumsen",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/rumsen"
+ },
+ "Teslin Tlingit Council (Yukon)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on yukon|yukon|teslin tlingit council|teslin tlingit council",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/teslin-tlingit"
+ },
+ "Woodland Cree": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on woodland cree|woodland cree",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/woodland-cree"
+ },
+ "Kalispel": {
+  "primary": "kalispel-indian-community",
+  "allMatches": [
+   "kalispel-indian-community"
+  ],
+  "basis": "name match on kalispel|kalispel",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kalispel"
+ },
+ "Comcáac (Seri)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on seri|seri|comcaac|comcaac",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/seri"
+ },
+ "Pamunkey": {
+  "primary": "pamunkey-indian-tribe",
+  "allMatches": [
+   "pamunkey-indian-tribe"
+  ],
+  "basis": "name match on pamunkey|pamunkey",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pamunkey"
+ },
+ "Modoc": {
+  "primary": "klamath-tribes",
+  "allMatches": [
+   "klamath-tribes"
+  ],
+  "basis": "name match on modoc|modoc",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/modoc"
+ },
+ "NunatuKavut": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nunatukavut|nunatukavut",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/southern-inuit-nunatukavut"
+ },
+ "shíshálh swíya (Sechelt)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on sechelt|sechelt|shishalh swiya|shishalh swiya",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/shishalh"
+ },
+ "Maya (Yucateco)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on yucateco|yucateco|maya|maya",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/maya-yucateco"
+ },
+ "ᓄᓇᕕᒃ Nunavik": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nunavik|nunavik",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nunavik"
+ },
+ "Peoria (Oklahoma)": {
+  "primary": "peoria-tribe-of-indians-of-oklahoma",
+  "allMatches": [
+   "peoria-tribe-of-indians-of-oklahoma"
+  ],
+  "basis": "name match on peoria|peoria",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/peoria-oklahoma"
+ },
+ "Nyyhmy (Western Mono/Monache)": {
+  "primary": "big-sandy-rancheria-of-western-mono-indians",
+  "allMatches": [
+   "big-sandy-rancheria-of-western-mono-indians"
+  ],
+  "basis": "name match on western mono|monache|western mono monache|nyyhmy|nyyhmy",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/southern-mono-monache"
+ },
+ "Hupacasath": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on hupacasath|hupacasath",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/hupacasath"
+ },
+ "Mi’kma’ki": {
+  "primary": "mikmaq-nation",
+  "allMatches": [
+   "mikmaq-nation"
+  ],
+  "basis": "manual: Mikmaq in Maine",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mikmaq"
+ },
+ "Kulhulmcilh (Nuxalk)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nuxalk|nuxalk|kulhulmcilh|kulhulmcilh",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nuxalk"
+ },
+ "Coos, Lower Umpqua, Siuslaw": {
+  "primary": "confederated-tribes-of-the-coos-lower-umpqua-and-siuslaw-indians",
+  "allMatches": [
+   "confederated-tribes-of-the-coos-lower-umpqua-and-siuslaw-indians"
+  ],
+  "basis": "manual: CTCLUSI",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/coos-lower-umpqua-siuslaw"
+ },
+ "Karkin": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on karkin|karkin",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/karkin"
+ },
+ "Nłeʔkepmx Tmíxʷ (Nlaka’pamux)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nlaka'pamux|nlaka'pamux|n e kepmx tmixw|n e kepmx tmixw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nlakapamux"
+ },
+ "x̣àʼisla w̓áwís (Haisla)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on haisla|haisla|xa'isla wawis|xa'isla wawis",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/haisla"
+ },
+ "Roanoke": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on roanoke|roanoke",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/roanoke"
+ },
+ "Northern Yuki": {
+  "primary": "round-valley-indian-tribes-round-valley-reservation",
+  "allMatches": [
+   "round-valley-indian-tribes-round-valley-reservation"
+  ],
+  "basis": "manual: Yuki at Round Valley",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/northern-yukian"
+ },
+ "Unangam Tanangin (Unangax̂ /Aleut)": {
+  "primary": "pribilof-islands-aleut-communities-of-st-paul-and-st-george-islands",
+  "allMatches": [
+   "pribilof-islands-aleut-communities-of-st-paul-and-st-george-islands"
+  ],
+  "basis": "name match on unangax|aleut|unangax  aleut|unangam tanangin|unangam tanangin",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/aleut"
+ },
+ "Kojomk’awi (Konkow)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on konkow|konkow|kojomk'awi|kojomk'awi",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/konkow-maidu"
+ },
+ "Zacateco": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on zacateco|zacateco",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/zacateco"
+ },
+ "Kickapoo (Oklahoma)": {
+  "primary": "kickapoo-tribe-of-oklahoma",
+  "allMatches": [
+   "kickapoo-tribe-of-oklahoma"
+  ],
+  "basis": "name match on kickapoo|kickapoo",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kickapoo-oklahoma"
+ },
+ "Pequot": {
+  "primary": "mashantucket-pequot-indian-tribe",
+  "allMatches": [
+   "mashantucket-pequot-indian-tribe",
+   "eastern-pequot-tribal-nation"
+  ],
+  "basis": "name match on pequot|pequot",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pequot-mohegan"
+ },
+ "Siuslaw": {
+  "primary": "confederated-tribes-of-the-coos-lower-umpqua-and-siuslaw-indians",
+  "allMatches": [
+   "confederated-tribes-of-the-coos-lower-umpqua-and-siuslaw-indians"
+  ],
+  "basis": "name match on siuslaw|siuslaw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/siuslaw"
+ },
+ "Iréchikwa Ts’intsúntsani (P’urhépecha Kingdom)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on p'urhepecha kingdom|p'urhepecha kingdom|irechikwa ts'intsuntsani|irechikwa ts'intsuntsani",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/purhepecha"
+ },
+ "Kwantlen": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on kwantlen|kwantlen",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kwantlen"
+ },
+ "Hammonassets": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on hammonassets|hammonassets",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/hammonassets"
+ },
+ "Wasco and Wishram": {
+  "primary": "confederated-tribes-of-the-warm-springs-reservation-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-the-warm-springs-reservation-of-oregon",
+   "confederated-tribes-and-bands-of-the-yakama-nation"
+  ],
+  "basis": "manual: Wasco at Warm Springs, Wishram at Yakama",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wasco-and-wishram"
+ },
+ "Salinan": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on salinan|salinan",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/salinan"
+ },
+ "Ralámuli/Rarámari/Rarómari (Tarahumara)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tarahumara|tarahumara|ralamuli raramari raromari|ralamuli|raramari|raromari",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/raramuri"
+ },
+ "Massa-adchu-es-et (Massachusett)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on massachusett|massachusett|massa adchu es et|massa adchu es et",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/massa-adchu-es-et-massachuset-2"
+ },
+ "Hia-Ced O’odham": {
+  "primary": "tohono-oodham-nation-of-arizona",
+  "allMatches": [
+   "tohono-oodham-nation-of-arizona"
+  ],
+  "basis": "manual: Hia-Ced O’odham are within the Tohono O’odham Nation",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/hia-ced-oodham"
+ },
+ "Hän": {
+  "primary": "native-village-of-eagle",
+  "allMatches": [
+   "native-village-of-eagle"
+  ],
+  "basis": "manual: Hän village of Eagle",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/han"
+ },
+ "Chahta Yakni (Choctaw)": {
+  "primary": "mississippi-band-of-choctaw-indians",
+  "allMatches": [
+   "mississippi-band-of-choctaw-indians",
+   "choctaw-nation-of-oklahoma",
+   "jena-band-of-choctaw-indians",
+   "mowa-band-of-choctaw-indians",
+   "clifton-choctaw",
+   "louisiana-choctaw-tribe",
+   "choctaw-apache-community-of-ebarb"
+  ],
+  "basis": "manual: Choctaw homeland; Mississippi Band remains there",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chahta-choctaw"
+ },
+ "Jíwere–Ñút’achi Máyaⁿ (Otoe-Missouria)": {
+  "primary": "otoe-missouria-tribe-of-indians",
+  "allMatches": [
+   "otoe-missouria-tribe-of-indians"
+  ],
+  "basis": "name match on otoe missouria|otoe missouria|jiwere nut'achi mayan|jiwere nut'achi mayan",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/otoe-missouri-oklahoma"
+ },
+ "Massacoes": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on massacoes|massacoes",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/massacoes"
+ },
+ "Totonac": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on totonac|totonac",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/totonac"
+ },
+ "Clatskanie": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on clatskanie|clatskanie",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/clatskanie"
+ },
+ "Ottawa (Oklahoma)": {
+  "primary": "ottawa-tribe-of-oklahoma",
+  "allMatches": [
+   "ottawa-tribe-of-oklahoma"
+  ],
+  "basis": "name match on ottawa|ottawa",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/ottawa-oklahoma"
+ },
+ "Ĩyãħé Nakón mąkóce (Stoney)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on stoney|stoney|iya e nakon makoce|iya e nakon makoce",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/stoney"
+ },
+ "sqaǰətabš (Upper Skagit)": {
+  "primary": "upper-skagit-indian-tribe",
+  "allMatches": [
+   "upper-skagit-indian-tribe"
+  ],
+  "basis": "name match on upper skagit|upper skagit|sqaj tabs|sqaj tabs",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/skagit"
+ },
+ "Piscataway": {
+  "primary": "piscataway-conoy-tribe",
+  "allMatches": [
+   "piscataway-conoy-tribe",
+   "piscataway-indian-nation-and-tayac-territory"
+  ],
+  "basis": "name match on piscataway|piscataway",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/piscataway"
+ },
+ "Sobaipuri": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on sobaipuri|sobaipuri",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sobaipuri"
+ },
+ "Wabanaki (Dawnland Confederacy)": {
+  "primary": null,
+  "allMatches": [
+   "penobscot-nation",
+   "passamaquoddy-tribe",
+   "houlton-band-of-maliseet-indians",
+   "mikmaq-nation"
+  ],
+  "basis": "manual: Wabanaki nations in Maine",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wabanaki-confederacy"
+ },
+ "Yoko T’aan (Chontal)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on chontal|chontal|yoko t'aan|yoko t'aan",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chontal-de-tabasco"
+ },
+ "Vuntut Gwich’in": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on vuntut gwich'in|vuntut gwich'in",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/vuntut-gwitchin"
+ },
+ "Wintʰu• Po•m (Northern Wintu)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on northern wintu|northern wintu|winthu  po m|winthu  po m",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/northern-wintu"
+ },
+ "Pocumtuc": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on pocumtuc|pocumtuc",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pocumtuc"
+ },
+ "Karuk": {
+  "primary": "karuk-tribe",
+  "allMatches": [
+   "karuk-tribe"
+  ],
+  "basis": "name match on karuk|karuk",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/karuk"
+ },
+ "Myaamia": {
+  "primary": "miami-tribe-of-oklahoma",
+  "allMatches": [
+   "miami-tribe-of-oklahoma"
+  ],
+  "basis": "manual: Myaamia is the Miami Tribe",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/miami"
+ },
+ "S’atsoyaha (Yuchi)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on yuchi|yuchi|s'atsoyaha|s'atsoyaha",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tsoyaha-yuchi"
+ },
+ "Coca": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on coca|coca",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/coca"
+ },
+ "Cheraw": {
+  "primary": "sumter-tribe-of-cheraw-indians",
+  "allMatches": [
+   "sumter-tribe-of-cheraw-indians"
+  ],
+  "basis": "name match on cheraw|cheraw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cheraw"
+ },
+ "Mánu: Yį Įsuwą (Catawba)": {
+  "primary": "catawba-indian-nation",
+  "allMatches": [
+   "catawba-indian-nation"
+  ],
+  "basis": "name match on catawba|catawba|manu  yi isuwa|manu  yi isuwa",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/catawba"
+ },
+ "səl̓ilwətaɁɬ təməxʷ (Tsleil-Waututh)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tsleil waututh|tsleil waututh|s lilw ta  t m xw|s lilw ta  t m xw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tsleil-waututh-s%c9%99l%cc%93ilw%c9%99ta%c9%82%c9%ac"
+ },
+ "Tübatulabal": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tubatulabal|tubatulabal",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tubatulabal"
+ },
+ "Cahto": {
+  "primary": "cahto-tribe",
+  "allMatches": [
+   "cahto-tribe"
+  ],
+  "basis": "name match on cahto|cahto",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cahto"
+ },
+ "Comom’ti-pa (Cochimí)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on cochimi|cochimi|comom'ti pa|comom'ti pa",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cochimi"
+ },
+ "Inuvialuit": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on inuvialuit|inuvialuit",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/inuvialuit"
+ },
+ "Potawatomi-Shawnee (Oklahoma)": {
+  "primary": "citizen-potawatomi-nation",
+  "allMatches": [
+   "citizen-potawatomi-nation",
+   "absentee-shawnee-tribe-of-indians-of-oklahoma"
+  ],
+  "basis": "manual: named nations",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/potawatomi-shawnee-oklahoma"
+ },
+ "Tagish": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tagish|tagish",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tagish"
+ },
+ "Chickasaw (Oklahoma)": {
+  "primary": "chickasaw-nation",
+  "allMatches": [
+   "chickasaw-nation"
+  ],
+  "basis": "name match on chickasaw|chickasaw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chickasaw-oklahoma"
+ },
+ "Acjachemen (Juaneño)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on juaneno|juaneno|acjachemen|acjachemen",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/acjachemen-juaneno"
+ },
+ "Haida": {
+  "primary": "hydaburg-cooperative-association",
+  "allMatches": [
+   "hydaburg-cooperative-association",
+   "central-council-of-the-tlingit-and-haida-indian-tribes"
+  ],
+  "basis": "manual: Haida in Alaska",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/x%cc%b1aayda"
+ },
+ "Tŝilhqot’in Nen": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tsilhqot'in nen|tsilhqot'in nen",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tsilqotin"
+ },
+ "Wet’suwet’en Yintikh": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on wet'suwet'en yintikh|wet'suwet'en yintikh",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wetsuweten"
+ },
+ "Matinecock": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on matinecock|matinecock",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/matinecock"
+ },
+ "ɬaʔamɩn gɩǰɛ (Tla’amin)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tla'amin|tla'amin|a am n g j|a am n g j",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sliammon"
+ },
+ "Schitsu’umsh (Coeur d’Alene)": {
+  "primary": "coeur-dalene-tribe",
+  "allMatches": [
+   "coeur-dalene-tribe"
+  ],
+  "basis": "name match on coeur d'alene|coeur d'alene|schitsu'umsh|schitsu'umsh",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/schitsuumsh-coeur-dalene"
+ },
+ "Koyukon": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on koyukon|koyukon",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/koyukon"
+ },
+ "Nongatl": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nongatl|nongatl",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nongatl"
+ },
+ "Kitanemuk": {
+  "primary": "tejon-indian-tribe",
+  "allMatches": [
+   "tejon-indian-tribe"
+  ],
+  "basis": "manual: Tejon",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kitanemuk"
+ },
+ "Akimel O’odham (Upper Pima)": {
+  "primary": "gila-river-indian-community",
+  "allMatches": [
+   "gila-river-indian-community"
+  ],
+  "basis": "name match on upper pima|upper pima|akimel o'odham|akimel o'odham",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/akimel-oodham"
+ },
+ "Yakama": {
+  "primary": "confederated-tribes-and-bands-of-the-yakama-nation",
+  "allMatches": [
+   "confederated-tribes-and-bands-of-the-yakama-nation"
+  ],
+  "basis": "name match on yakama|yakama",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/yakama"
+ },
+ "Julimes": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on julimes|julimes",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/julimes"
+ },
+ "Mohican": {
+  "primary": "stockbridge-munsee-community",
+  "allMatches": [
+   "stockbridge-munsee-community"
+  ],
+  "basis": "manual: Stockbridge-Munsee Community Band of Mohican Indians",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mohican"
+ },
+ "sc̓əwaθenaɁɬ təməxʷ (Tsawwassen)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tsawwassen|tsawwassen|sc wa ena  t m xw|sc wa ena  t m xw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tsawwassen-sc%cc%93%c9%99wa%ce%b8en"
+ },
+ "Mountain Maidu": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on mountain maidu|mountain maidu",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mountain-maidu"
+ },
+ "Očhéthi Šakówiŋ": {
+  "primary": null,
+  "allMatches": [
+   "oglala-sioux-tribe",
+   "rosebud-sioux-tribe",
+   "standing-rock-sioux-tribe-of-north-and-south-dakota",
+   "cheyenne-river-sioux-tribe",
+   "lower-brule-sioux-tribe",
+   "crow-creek-sioux-tribe",
+   "yankton-sioux-tribe-of-south-dakota",
+   "sisseton-wahpeton-oyate-of-the-lake-traverse-reservation",
+   "spirit-lake-tribe",
+   "flandreau-santee-sioux-tribe-of-south-dakota",
+   "santee-sioux-nation",
+   "assiniboine-and-sioux-tribes-of-the-fort-peck-indian-reservation",
+   "shakopee-mdewakanton-sioux-community-of-minnesota",
+   "lower-sioux-indian-community-in-the-state-of-minnesota",
+   "upper-sioux-community",
+   "prairie-island-indian-community-in-the-state-of-minnesota"
+  ],
+  "basis": "manual: Oceti Sakowin, the Seven Council Fires",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/oceti-sakowin-sioux"
+ },
+ "hinono’eino’ biito’owu’ (Arapaho)": {
+  "primary": "northern-arapaho-tribe",
+  "allMatches": [
+   "northern-arapaho-tribe",
+   "cheyenne-and-arapaho-tribes"
+  ],
+  "basis": "manual: Arapaho",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/arapaho"
+ },
+ "Wiyot": {
+  "primary": "wiyot-tribe",
+  "allMatches": [
+   "wiyot-tribe"
+  ],
+  "basis": "name match on wiyot|wiyot",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wiyot"
+ },
+ "Central Pomo": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on central pomo|central pomo",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/central-pomo"
+ },
+ "dxʷsəq̓ʷəbš (Suquamish)": {
+  "primary": "suquamish-indian-tribe",
+  "allMatches": [
+   "suquamish-indian-tribe"
+  ],
+  "basis": "name match on suquamish|suquamish|dxws qw bs|dxws qw bs",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/suquamish"
+ },
+ "Salish & Kootenai Tribes": {
+  "primary": "confederated-salish-and-kootenai-tribes",
+  "allMatches": [
+   "confederated-salish-and-kootenai-tribes"
+  ],
+  "basis": "name match on salish   kootenai tribes|salish   kootenai tribes",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/salish-kootenai-tribes"
+ },
+ "Beaver Lake Cree": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on beaver lake cree|beaver lake cree",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/beaver-lake-cree"
+ },
+ "Kuuvuan KaNianiq": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on kuuvuan kanianiq|kuuvuan kanianiq",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kuuvuan-kanianiq"
+ },
+ "Northern Pomo": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on northern pomo|northern pomo",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/northern-pomo"
+ },
+ "Montaukett": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on montaukett|montaukett",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/montauk"
+ },
+ "Whilkut": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on whilkut|whilkut",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/whilkut"
+ },
+ "Pacaxes": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on pacaxes|pacaxes",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pacaxes"
+ },
+ "Sumas": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on sumas|sumas",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sumas"
+ },
+ "Ineseño": {
+  "primary": "santa-ynez-band-of-chumash-mission-indians",
+  "allMatches": [
+   "santa-ynez-band-of-chumash-mission-indians"
+  ],
+  "basis": "manual: Santa Ynez",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/ineseno"
+ },
+ "Upper Kuskokwim": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on upper kuskokwim|upper kuskokwim",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/upper-kuskokwim"
+ },
+ "Guasaves/Tamazulas": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on guasaves tamazulas|guasaves|tamazulas",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/guasaves-tamazulas"
+ },
+ "Páⁿka tóⁿde ukʰéthiⁿ (Ponca)": {
+  "primary": "ponca-tribe-of-nebraska",
+  "allMatches": [
+   "ponca-tribe-of-nebraska"
+  ],
+  "basis": "name match on ponca|ponca|panka tonde ukhethin|panka tonde ukhethin",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/ponca"
+ },
+ "Beaver": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "manual: Dane-zaa (Beaver) are in Canada",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/beaver"
+ },
+ "Merrick": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on merrick|merrick",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/merrick"
+ },
+ "Patwin": {
+  "primary": "yocha-dehe-wintun-nation",
+  "allMatches": [
+   "yocha-dehe-wintun-nation",
+   "kletsel-dehe-wintun-nation",
+   "cachil-dehe-band-of-wintun-indians"
+  ],
+  "basis": "manual: Patwin",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/patwin"
+ },
+ "Eyak": {
+  "primary": "native-village-of-eyak-cordova",
+  "allMatches": [
+   "native-village-of-eyak-cordova"
+  ],
+  "basis": "name match on eyak|eyak",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/eyak"
+ },
+ "Guanahatabey": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on guanahatabey|guanahatabey",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/guanahatabey"
+ },
+ "Deg Xit’an Ngan’ (Deg Xit’an)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on deg xit'an|deg xit'an|deg xit'an ngan'|deg xit'an ngan'",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/deg-hitan"
+ },
+ "Me-Wuk (Bay Miwok)": {
+  "primary": "buena-vista-rancheria-of-me-wuk-indians",
+  "allMatches": [
+   "buena-vista-rancheria-of-me-wuk-indians",
+   "chicken-ranch-rancheria-of-me-wuk-indians",
+   "tuolumne-band-of-me-wuk-indians"
+  ],
+  "basis": "name match on bay miwok|bay miwok|me wuk|me wuk",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/bay-miwok"
+ },
+ "Q’eqchi’": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on q'eqchi'|q'eqchi'",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/qeqchi"
+ },
+ "Tenino": {
+  "primary": "confederated-tribes-of-the-warm-springs-reservation-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-the-warm-springs-reservation-of-oregon"
+  ],
+  "basis": "manual: Warm Springs",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tenino"
+ },
+ "Dehcho Dene": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on dehcho dene|dehcho dene",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/dehcho-dene"
+ },
+ "Mvskoke (Muscogee)": {
+  "primary": "muscogee-creek-nation",
+  "allMatches": [
+   "muscogee-creek-nation",
+   "poarch-band-of-creek-indians",
+   "alabama-quassarte-tribal-town",
+   "kialegee-tribal-town",
+   "thlopthlocco-tribal-town",
+   "star-clan-of-muscogee-creeks",
+   "ma-chis-lower-creek-indian-tribe-of-alabama"
+  ],
+  "basis": "manual: Muscogee homeland",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/muscogee"
+ },
+ "Chowanoke": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on chowanoke|chowanoke",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chowanoke"
+ },
+ "Seneca-Cayuga (Oklahoma)": {
+  "primary": "seneca-cayuga-nation",
+  "allMatches": [
+   "seneca-cayuga-nation"
+  ],
+  "basis": "name match on seneca cayuga|seneca cayuga",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/seneca-cayuga-oklahoma"
+ },
+ "Kiowa-Comanche-Apache (Oklahoma)": {
+  "primary": "kiowa-tribe",
+  "allMatches": [
+   "kiowa-tribe",
+   "comanche-nation",
+   "apache-tribe-of-oklahoma"
+  ],
+  "basis": "manual: named nations",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kiowa-comanche-apache-oklahoma"
+ },
+ "Da’naxda’xw Awaetlatla": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on da'naxda'xw awaetlatla|da'naxda'xw awaetlatla",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/danaxdaxw-awaetlatla"
+ },
+ "Oma͞eqnomenew-ahkew (Menominee)": {
+  "primary": "menominee-indian-tribe-of-wisconsin",
+  "allMatches": [
+   "menominee-indian-tribe-of-wisconsin"
+  ],
+  "basis": "name match on menominee|menominee|omaeqnomenew ahkew|omaeqnomenew ahkew",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/menominee"
+ },
+ "Tének": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tenek|tenek",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/huasteco-teenek"
+ },
+ "Ópata (Tegüima-Eudebe-Hoba)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on teguima eudebe hoba|teguima eudebe hoba|opata|opata",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/opata"
+ },
+ "Klamath": {
+  "primary": "klamath-tribes",
+  "allMatches": [
+   "klamath-tribes"
+  ],
+  "basis": "name match on klamath|klamath",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/klamath"
+ },
+ "Quatsino": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on quatsino|quatsino",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/quatsino"
+ },
+ "Shawandasse Tula (Shawanwaki/Shawnee)": {
+  "primary": "shawnee-tribe",
+  "allMatches": [
+   "shawnee-tribe",
+   "absentee-shawnee-tribe-of-indians-of-oklahoma",
+   "eastern-shawnee-tribe-of-oklahoma",
+   "piqua-shawnee-tribe"
+  ],
+  "basis": "manual: Shawnee homeland",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/shawnee"
+ },
+ "Pescado": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on pescado|pescado",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pescado"
+ },
+ "Quileute": {
+  "primary": "quileute-tribe",
+  "allMatches": [
+   "quileute-tribe"
+  ],
+  "basis": "name match on quileute|quileute",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/quileute"
+ },
+ "Wolastoqiyik (Maliseet)": {
+  "primary": "houlton-band-of-maliseet-indians",
+  "allMatches": [
+   "houlton-band-of-maliseet-indians"
+  ],
+  "basis": "name match on maliseet|maliseet|wolastoqiyik|wolastoqiyik",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wolastoqiyik"
+ },
+ "Secatogue": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on secatogue|secatogue",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/secatogue"
+ },
+ "Secwepemcúl’ecw (Secwépemc)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on secwepemc|secwepemc|secwepemcul'ecw|secwepemcul'ecw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/secwepemc-secwepemculecw"
+ },
+ "Wangunks": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on wangunks|wangunks",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wangunks"
+ },
+ "Chinantla (Tsa ju jmí’)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tsa ju jmi'|tsa ju jmi'|chinantla|chinantla",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chinanteco"
+ },
+ "Winnimem Wintu": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on winnimem wintu|winnimem wintu",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/winnimem-wintu"
+ },
+ "Lhaq’temish (Lummi)": {
+  "primary": "lummi-tribe",
+  "allMatches": [
+   "lummi-tribe"
+  ],
+  "basis": "name match on lummi|lummi|lhaq'temish|lhaq'temish",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/lummi"
+ },
+ "Cheyenne-Arapaho (Oklahoma)": {
+  "primary": "cheyenne-and-arapaho-tribes",
+  "allMatches": [
+   "cheyenne-and-arapaho-tribes"
+  ],
+  "basis": "name match on cheyenne arapaho|cheyenne arapaho",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cheyenne-arapaho-oklahoma"
+ },
+ "Eeyou Istchee": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on eeyou istchee|eeyou istchee",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cree-nehiyawak-of-eeyou-istchee"
+ },
+ "Tohono O’odham": {
+  "primary": "tohono-oodham-nation-of-arizona",
+  "allMatches": [
+   "tohono-oodham-nation-of-arizona"
+  ],
+  "basis": "name match on tohono o'odham|tohono o'odham",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/papago-tohono-oodham"
+ },
+ "Goshute": {
+  "primary": "confederated-tribes-of-the-goshute-reservation",
+  "allMatches": [
+   "confederated-tribes-of-the-goshute-reservation",
+   "skull-valley-band-of-goshute-indians-of-utah"
+  ],
+  "basis": "name match on goshute|goshute",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/goshute"
+ },
+ "Homalco": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on homalco|homalco",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/homalco"
+ },
+ "Nahua (Guerrero)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on guerrero|guerrero|nahua|nahua",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nahuatl-6"
+ },
+ "Pueblos": {
+  "primary": null,
+  "allMatches": [
+   "ohkay-owingeh",
+   "pueblo-of-acoma",
+   "pueblo-of-cochiti",
+   "pueblo-of-isleta",
+   "pueblo-of-jemez",
+   "pueblo-of-laguna",
+   "pueblo-of-nambe",
+   "pueblo-of-picuris",
+   "pueblo-of-pojoaque",
+   "pueblo-of-san-felipe",
+   "pueblo-of-san-ildefonso",
+   "pueblo-of-sandia",
+   "pueblo-of-santa-ana",
+   "pueblo-of-santa-clara",
+   "pueblo-of-taos",
+   "pueblo-of-tesuque",
+   "pueblo-of-zia",
+   "santo-domingo-pueblo",
+   "ysleta-del-sur-pueblo"
+  ],
+  "basis": "manual: Pueblo nations",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pueblos"
+ },
+ "Osage (Oklahoma)": {
+  "primary": "osage-nation",
+  "allMatches": [
+   "osage-nation"
+  ],
+  "basis": "name match on osage|osage",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/osage-oklahoma"
+ },
+ "Nomlaki": {
+  "primary": "paskenta-band-of-nomlaki-indians",
+  "allMatches": [
+   "paskenta-band-of-nomlaki-indians"
+  ],
+  "basis": "name match on nomlaki|nomlaki",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nomlaki"
+ },
+ "Muscogee (Oklahoma)": {
+  "primary": "muscogee-creek-nation",
+  "allMatches": [
+   "muscogee-creek-nation"
+  ],
+  "basis": "name match on muscogee|muscogee",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/muscogee-oklahoma"
+ },
+ "Denendeh (Dënësųłinë́ Nëné)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on denesu ine nene|denesu ine nene|denendeh|denendeh",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/dene-chipewyan"
+ },
+ "Akaitcho": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on akaitcho|akaitcho",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/akaitcho"
+ },
+ "Havasu Baaja (Havasupai)": {
+  "primary": "havasupai-tribe",
+  "allMatches": [
+   "havasupai-tribe"
+  ],
+  "basis": "name match on havasupai|havasupai|havasu baaja|havasu baaja",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/havasupai"
+ },
+ "Tahltan Nation": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tahltan nation|tahltan nation",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tahltan"
+ },
+ "Gitxsan Laxyip": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on gitxsan laxyip|gitxsan laxyip",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/gitxsan"
+ },
+ "ᐃᓕᓕᐗᔅᑭᔾ | Ililiwaskiy (Moose Cree)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on moose cree|moose cree|ililiwaskiy|ililiwaskiy",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/moose-cree"
+ },
+ "Niitsítpiis-stahkoii ᖹᐟᒧᐧᐨᑯᐧ ᓴᐦᖾᐟ (Blackfoot / Niitsítapi ᖹᐟᒧᐧᒣᑯ)": {
+  "primary": "blackfeet-tribe-of-the-blackfeet-indian-reservation-of-montana",
+  "allMatches": [
+   "blackfeet-tribe-of-the-blackfeet-indian-reservation-of-montana"
+  ],
+  "basis": "manual: Blackfeet",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/niitsitapi-%e1%96%b9%e1%90%9f%e1%92%a7%e1%90%a7%e1%92%a3%e1%91%af-blackfoot"
+ },
+ "Ndee/Nnēē: (Western Apache)": {
+  "primary": "white-mountain-apache-tribe",
+  "allMatches": [
+   "white-mountain-apache-tribe",
+   "san-carlos-apache-tribe",
+   "tonto-apache-tribe-of-arizona",
+   "yavapai-apache-nation"
+  ],
+  "basis": "manual: Western Apache",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/western-apache"
+ },
+ "Nitassinan (Innu)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on innu|innu|nitassinan|nitassinan",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nitassinan-innu"
+ },
+ "Chinook": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on chinook|chinook",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chinook"
+ },
+ "Hoocąk (Ho-Chunk)": {
+  "primary": "ho-chunk-nation-of-wisconsin",
+  "allMatches": [
+   "ho-chunk-nation-of-wisconsin"
+  ],
+  "basis": "name match on ho chunk|ho chunk|hoocak|hoocak",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/ho-chunk-2"
+ },
+ "Seminole (Oklahoma)": {
+  "primary": "seminole-nation-of-oklahoma",
+  "allMatches": [
+   "seminole-nation-of-oklahoma"
+  ],
+  "basis": "name match on seminole|seminole",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/seminole-oklahoma"
+ },
+ "Älsé (Alsea)": {
+  "primary": "confederated-tribes-of-siletz-indians-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-siletz-indians-of-oregon"
+  ],
+  "basis": "manual: Siletz",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/alsea"
+ },
+ "Chalon": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on chalon|chalon",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chalon"
+ },
+ "Assiniboine": {
+  "primary": "assiniboine-and-sioux-tribes-of-the-fort-peck-indian-reservation",
+  "allMatches": [
+   "assiniboine-and-sioux-tribes-of-the-fort-peck-indian-reservation",
+   "fort-belknap-indian-community-of-the-fort-belknap-reservation-of-montana"
+  ],
+  "basis": "name match on assiniboine|assiniboine",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/assiniboine"
+ },
+ "Guarijío/Guarijó": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on guarijio guarijo|guarijio|guarijo",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/guarijio"
+ },
+ "N’dakina (Abenaki / Abénaquis)": {
+  "primary": "elnu-abenaki-tribe",
+  "allMatches": [
+   "elnu-abenaki-tribe",
+   "nulhegan-band-of-the-coosuk-abenaki-nation",
+   "koasek-abenaki-tribe",
+   "missiquoi-abenaki-tribe"
+  ],
+  "basis": "name match on abenaki|abenaquis|abenaki   abenaquis|n'dakina|n'dakina",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/abenaki-abenaquis"
+ },
+ "Chilula": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on chilula|chilula",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chilula"
+ },
+ "Nahua (Michoacan)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on michoacan|michoacan|nahua|nahua",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nahuatl-8"
+ },
+ "Modoc (Oklahoma)": {
+  "primary": "modoc-nation",
+  "allMatches": [
+   "modoc-nation"
+  ],
+  "basis": "name match on modoc|modoc",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/modoc-oklahoma"
+ },
+ "Tanana": {
+  "primary": "native-village-of-tanana",
+  "allMatches": [
+   "native-village-of-tanana"
+  ],
+  "basis": "name match on tanana|tanana",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tanana"
+ },
+ "New River Shasta": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on new river shasta|new river shasta",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/new-river-shasta"
+ },
+ "Totonaco": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on totonaco|totonaco",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/totonaco"
+ },
+ "Me-Wuk (Central Sierra Miwok)": {
+  "primary": "tuolumne-band-of-me-wuk-indians",
+  "allMatches": [
+   "buena-vista-rancheria-of-me-wuk-indians",
+   "chicken-ranch-rancheria-of-me-wuk-indians",
+   "tuolumne-band-of-me-wuk-indians"
+  ],
+  "basis": "name match on central sierra miwok|central sierra miwok|me wuk|me wuk",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/central-sierra-miwok"
+ },
+ "Mattole": {
+  "primary": "bear-river-band",
+  "allMatches": [
+   "bear-river-band"
+  ],
+  "basis": "manual: Bear River Band are Mattole and Wiyot",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mattole"
+ },
+ "La̱xyuubm Ts’msyen (Tsimshian)": {
+  "primary": "metlakatla-indian-community-annette-island-reserve",
+  "allMatches": [
+   "metlakatla-indian-community-annette-island-reserve"
+  ],
+  "basis": "manual: Tsimshian in Alaska",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tsimshian"
+ },
+ "Mescalero Apache": {
+  "primary": "mescalero-apache-tribe",
+  "allMatches": [
+   "mescalero-apache-tribe"
+  ],
+  "basis": "name match on mescalero apache|mescalero apache",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mescalero-apache"
+ },
+ "Paugussett": {
+  "primary": "golden-hill-paugussett",
+  "allMatches": [
+   "golden-hill-paugussett"
+  ],
+  "basis": "name match on paugussett|paugussett",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/paugussett"
+ },
+ "Paipai (Akwa’ala)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on akwa'ala|akwa'ala|paipai|paipai",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/paipai-akwaala"
+ },
+ "Tr’ondëk Hwëch’in": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tr'ondek hwech'in|tr'ondek hwech'in",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/trondek-hwechin"
+ },
+ "Ɂívil̃uwenetem Meytémak (Cahuilla)": {
+  "primary": "cahuilla-band-of-indians",
+  "allMatches": [
+   "agua-caliente-band-of-cahuilla-indians",
+   "augustine-band-of-cahuilla-indians",
+   "cabazon-band-of-cahuilla-indians",
+   "cahuilla-band-of-indians",
+   "los-coyotes-band-of-cahuilla-and-cupeno-indians",
+   "ramona-band-of-cahuilla",
+   "santa-rosa-band-of-cahuilla-indians",
+   "torres-martinez-desert-cahuilla-indians"
+  ],
+  "basis": "name match on cahuilla|cahuilla|iviluwenetem meytemak|iviluwenetem meytemak",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cahuilla"
+ },
+ "sq̓əc̓iy̓aɁɬ təməxʷ (Katzie)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on katzie|katzie|sq ciya  t m xw|sq ciya  t m xw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/katzie"
+ },
+ "Yoeme (Yaqui)": {
+  "primary": "pascua-yaqui-tribe-of-arizona",
+  "allMatches": [
+   "pascua-yaqui-tribe-of-arizona"
+  ],
+  "basis": "manual: Yaqui",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/yaqui"
+ },
+ "Tsuut’ina": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tsuut'ina|tsuut'ina",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tsuu-tina"
+ },
+ "Matlatzinco/matlatzinteca": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on matlatzinco matlatzinteca|matlatzinco|matlatzinteca",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/matlatzinco-matlatzinteca"
+ },
+ "Onʌyote’a•ka (Oneida)": {
+  "primary": "oneida-indian-nation",
+  "allMatches": [
+   "oneida-indian-nation"
+  ],
+  "basis": "name match on oneida|oneida|on yote'a ka|on yote'a ka",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/oneida"
+ },
+ "Wendake-Nionwentsïo": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on wendake nionwentsio|wendake nionwentsio",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/huron-wendat"
+ },
+ "Hualapai": {
+  "primary": "hualapai-indian-tribe",
+  "allMatches": [
+   "hualapai-indian-tribe"
+  ],
+  "basis": "name match on hualapai|hualapai",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/hualapai"
+ },
+ "Chontal de Guerrero – Tuxteco": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on chontal de guerrero   tuxteco|chontal de guerrero   tuxteco",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chontal-de-guerrero-tuxteco"
+ },
+ "Sicaog (Saukiog)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on saukiog|saukiog|sicaog|sicaog",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sicoags"
+ },
+ "Caxcan": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on caxcan|caxcan",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/caxcan"
+ },
+ "Nahua ( Morelos, Puebla, Tlaxcala, Veracruz, Hidalgo, San Luis Potosi, Oaxaca)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on morelos|puebla|tlaxcala|veracruz|hidalgo|san luis potosi|oaxaca|morelos  puebla  tlaxcala  veracruz  hidalgo  san luis potosi  oaxaca|nahua|nahua",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nahuatl-7"
+ },
+ "Pericú": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on pericu|pericu",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pericu"
+ },
+ "Twana/Skokomish": {
+  "primary": "skokomish-indian-tribe",
+  "allMatches": [
+   "skokomish-indian-tribe"
+  ],
+  "basis": "name match on twana skokomish|twana|skokomish",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/twana-skokomish"
+ },
+ "Pipa Aha Macav (Mojave)": {
+  "primary": "fort-mojave-indian-tribe-of-arizona",
+  "allMatches": [
+   "fort-mojave-indian-tribe-of-arizona",
+   "colorado-river-indian-tribes"
+  ],
+  "basis": "manual: Mojave",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mojave"
+ },
+ "Champagne & Aishihik": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on champagne   aishihik|champagne   aishihik",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/champagne-aishihik"
+ },
+ "ƛohos giǰi (Klahoose)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on klahoose|klahoose|ohos giji|ohos giji",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/klahoose"
+ },
+ "Tolowa Dee-ni’": {
+  "primary": "tolowa-dee-ni-nation",
+  "allMatches": [
+   "tolowa-dee-ni-nation"
+  ],
+  "basis": "name match on tolowa dee ni'|tolowa dee ni'",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/coquille-umpqua-chetco-tolowa-tututni"
+ },
+ "Tanacross": {
+  "primary": "native-village-of-tanacross",
+  "allMatches": [
+   "native-village-of-tanacross"
+  ],
+  "basis": "name match on tanacross|tanacross",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tanacross"
+ },
+ "Obispeño": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on obispeno|obispeno",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/obispeno"
+ },
+ "šxʷməθkʷəy̓əmaɁɬ təməxʷ (Musqueam)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on musqueam|musqueam|sxwm kw y ma  t m xw|sxwm kw y ma  t m xw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/x%ca%b7m%c9%99%ce%b8k%ca%b7%c9%99y%cc%93%c9%99m"
+ },
+ "Wailaki": {
+  "primary": "grindstone-indian-rancheria-of-wintun-wailaki-indians",
+  "allMatches": [
+   "grindstone-indian-rancheria-of-wintun-wailaki-indians"
+  ],
+  "basis": "name match on wailaki|wailaki",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wailaki"
+ },
+ "Núu-agha-tʉvʉ-pʉ̱ (Ute)": {
+  "primary": "ute-mountain-ute-tribe",
+  "allMatches": [
+   "southern-ute-indian-tribe",
+   "ute-indian-tribe",
+   "ute-mountain-ute-tribe"
+  ],
+  "basis": "name match on ute|ute|nuu agha t v p|nuu agha t v p",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/ute"
+ },
+ "Michif Piyii (Métis)": {
+  "primary": "little-shell-tribe-of-chippewa-indians-of-montana",
+  "allMatches": [
+   "little-shell-tribe-of-chippewa-indians-of-montana"
+  ],
+  "basis": "manual: Little Shell",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/metis"
+ },
+ "Ramaytush": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on ramaytush|ramaytush",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/ramaytush"
+ },
+ "ChalAt’i’lo t’sikAti (Chalat’)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on chalat'|chalat'|chalat'i'lo t'sikati|chalat'i'lo t'sikati",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/hoh"
+ },
+ "Yokuts": {
+  "primary": "santa-rosa-indian-community",
+  "allMatches": [
+   "santa-rosa-indian-community",
+   "tule-river-indian-tribe",
+   "picayune-rancheria-of-chukchansi-indians"
+  ],
+  "basis": "manual: Yokuts nations",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/yokuts"
+ },
+ "Canarsie": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on canarsie|canarsie",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/canarsie"
+ },
+ "Nā moku ʻehā": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on na moku  eha|na moku  eha",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kanaka-maoli"
+ },
+ "Qʷidiččaʔa•tx̌ (Makah)": {
+  "primary": "makah-indian-tribe",
+  "allMatches": [
+   "makah-indian-tribe"
+  ],
+  "basis": "name match on makah|makah|qwidicca a tx|qwidicca a tx",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/makah"
+ },
+ "Me-Wuk (Coast Miwok)": {
+  "primary": "federated-indians-of-graton-rancheria",
+  "allMatches": [
+   "buena-vista-rancheria-of-me-wuk-indians",
+   "federated-indians-of-graton-rancheria"
+  ],
+  "basis": "name match on coast miwok|coast miwok|me wuk|me wuk",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/coast-miwok"
+ },
+ "Snuneymuxw": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on snuneymuxw|snuneymuxw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/snuneymuxw"
+ },
+ "Awaswas": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on awaswas|awaswas",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/awaswas"
+ },
+ "Kwakwaka’wakw A̱wi’nagwis": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on kwakwaka'wakw awi'nagwis|kwakwaka'wakw awi'nagwis",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kwakwakawakw"
+ },
+ "Cruzeño Chumash (Island Chumash)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on island chumash|island chumash|cruzeno chumash|cruzeno chumash",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/island-chumash"
+ },
+ "Syilx (Okanagan)": {
+  "primary": "confederated-tribes-of-the-colville-reservation",
+  "allMatches": [
+   "confederated-tribes-of-the-colville-reservation"
+  ],
+  "basis": "manual: Okanogan is one of the twelve Colville tribes",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/okanagan"
+ },
+ "Payómkawichum (Luiseño)": {
+  "primary": "pechanga-band-of-indians",
+  "allMatches": [
+   "la-jolla-band-of-luiseno-indians",
+   "pauma-band-of-luiseno-mission-indians",
+   "pechanga-band-of-indians",
+   "rincon-band-of-luiseno-indians",
+   "soboba-band-of-luiseno-indians"
+  ],
+  "basis": "name match on luiseno|luiseno|payomkawichum|payomkawichum",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/luiseno"
+ },
+ "Matlatzinco/Tlahuica/Ocuiltec": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on matlatzinco tlahuica ocuiltec|matlatzinco|tlahuica|ocuiltec",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/matlatzinco-tlahuica-ocuiltec"
+ },
+ "Wichita-Caddo-Delaware (Oklahoma)": {
+  "primary": "wichita-and-affiliated-tribes-wichita-keechi-waco-and-tawakonie",
+  "allMatches": [
+   "wichita-and-affiliated-tribes-wichita-keechi-waco-and-tawakonie",
+   "caddo-nation-of-oklahoma",
+   "delaware-nation"
+  ],
+  "basis": "manual: named nations",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wichita-caddo-delaware-oklahoma"
+ },
+ "Caddo": {
+  "primary": "caddo-nation-of-oklahoma",
+  "allMatches": [
+   "caddo-nation-of-oklahoma",
+   "addai-caddo-tribe"
+  ],
+  "basis": "manual: Caddo",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/caddo"
+ },
+ "híɫzaqv w̓áwís (Heiltsuk)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on heiltsuk|heiltsuk|hi zaqv wawis|hi zaqv wawis",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/heiltsuk"
+ },
+ "Lingít Aaní (Tlingit)": {
+  "primary": "central-council-of-the-tlingit-and-haida-indian-tribes",
+  "allMatches": [
+   "central-council-of-the-tlingit-and-haida-indian-tribes",
+   "yakutat-tlingit-tribe"
+  ],
+  "basis": "name match on tlingit|tlingit|lingit aani|lingit aani",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tlingit"
+ },
+ "Esselen": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on esselen|esselen",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/esselen"
+ },
+ "Tocobaga": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tocobaga|tocobaga",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tocobaga"
+ },
+ "Chimariko (territory)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "manual: no recognized Chimariko nation in this list",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chimariko"
+ },
+ "Te’mexw Treaty Association": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on te'mexw treaty association|te'mexw treaty association",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/temexw-treaty-association"
+ },
+ "Cree": {
+  "primary": "chippewa-cree-indians",
+  "allMatches": [
+   "chippewa-cree-indians"
+  ],
+  "basis": "name match on cree|cree",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cree"
+ },
+ "Denendeh (Acho Dene Koe)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on acho dene koe|acho dene koe|denendeh|denendeh",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/acho-dene-koe"
+ },
+ "Shiwinna (Zuni)": {
+  "primary": "zuni-tribe",
+  "allMatches": [
+   "zuni-tribe"
+  ],
+  "basis": "name match on zuni|zuni|shiwinna|shiwinna",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/zuni"
+ },
+ "Gitga’at Lax Yuup": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on gitga'at lax yuup|gitga'at lax yuup",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/gitgaat"
+ },
+ "Skwxwú7mesh-ulh Temíx̱w (Squamish)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on squamish|squamish|skwxwu7mesh ulh temixw|skwxwu7mesh ulh temixw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/skwxwu7mesh-uxwumixw"
+ },
+ "St̓át̓imc Tmicw (St’at’imc)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on st'at'imc|st'at'imc|statimc tmicw|statimc tmicw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/stlatlimc"
+ },
+ "Ho-de-no-sau-nee-ga (Haudenosaunee)": {
+  "primary": null,
+  "allMatches": [
+   "onondaga-nation",
+   "seneca-nation-of-indians",
+   "tonawanda-band-of-seneca",
+   "cayuga-nation",
+   "oneida-indian-nation",
+   "oneida-nation",
+   "saint-regis-mohawk-tribe",
+   "tuscarora-nation",
+   "seneca-cayuga-nation"
+  ],
+  "basis": "manual: Haudenosaunee",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/haudenosauneega-confederacy"
+ },
+ "Cuitlatec": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on cuitlatec|cuitlatec",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cuitlatec"
+ },
+ "Barbareño Chumash": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on barbareno chumash|barbareno chumash",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/barbareno"
+ },
+ "Tampachoa (Mansos)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on mansos|mansos|tampachoa|tampachoa",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mansos"
+ },
+ "palúspam (Palus)": {
+  "primary": "confederated-tribes-of-the-colville-reservation",
+  "allMatches": [
+   "confederated-tribes-of-the-colville-reservation"
+  ],
+  "basis": "manual: Palus is one of the twelve Colville tribes",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/palus"
+ },
+ "sduhubš (Snohomish)": {
+  "primary": "tulalip-tribes-of-washington",
+  "allMatches": [
+   "tulalip-tribes-of-washington"
+  ],
+  "basis": "manual: Tulalip",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/snohomish"
+ },
+ "Taku River Tlingit": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on taku river tlingit|taku river tlingit",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/taku-river-tlingit"
+ },
+ "Pascua Yaqui": {
+  "primary": "pascua-yaqui-tribe-of-arizona",
+  "allMatches": [
+   "pascua-yaqui-tribe-of-arizona"
+  ],
+  "basis": "name match on pascua yaqui|pascua yaqui",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pascua-yaqui"
+ },
+ "Yahooskin": {
+  "primary": "klamath-tribes",
+  "allMatches": [
+   "klamath-tribes"
+  ],
+  "basis": "name match on yahooskin|yahooskin",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/yahooskin"
+ },
+ "Tseshaht": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tseshaht|tseshaht",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tseshaht"
+ },
+ "Brothertown": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on brothertown|brothertown",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/brothertown"
+ },
+ "NWT Métis Nation": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nwt metis nation|nwt metis nation",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nwt-metis-nation"
+ },
+ "WiYaPeMiAk (Weapemeoc-Yeopim)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on weapemeoc yeopim|weapemeoc yeopim|wiyapemiak|wiyapemiak",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wiyapemiak-weapemeoc-yeopim"
+ },
+ "Karankawa": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on karankawa|karankawa",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/karankawa-2"
+ },
+ "Carcross/Tagish First Nation (BC)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on carcross tagish first nation|carcross|tagish first nation",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/carcross-tagish-first-nation-bc"
+ },
+ "Teslin Tlingit Council (BC)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on teslin tlingit council|teslin tlingit council",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/teslin-tlingit-council"
+ },
+ "Ndé Kónitsąąíí Gokíyaa (Lipan Apache)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on lipan apache|lipan apache|nde konitsaaii gokiyaa|nde konitsaaii gokiyaa",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/lipan-apache"
+ },
+ "Hupa": {
+  "primary": "hoopa-valley-tribe",
+  "allMatches": [
+   "hoopa-valley-tribe"
+  ],
+  "basis": "manual: Hoopa",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/hoopa-3"
+ },
+ "Tonkawa": {
+  "primary": "tonkawa-tribe-of-indians-of-oklahoma",
+  "allMatches": [
+   "tonkawa-tribe-of-indians-of-oklahoma"
+  ],
+  "basis": "manual: Tonkawa",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tonkawa-2"
+ },
+ "Sana": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on sana|sana",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sanan"
+ },
+ "Bidai": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on bidai|bidai",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/bidai"
+ },
+ "Ishak (Atakapa)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on atakapa|atakapa|ishak|ishak",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/atakapa-2"
+ },
+ "Onöndowa’ga:’ (Seneca)": {
+  "primary": "seneca-nation-of-indians",
+  "allMatches": [
+   "seneca-nation-of-indians",
+   "tonawanda-band-of-seneca"
+  ],
+  "basis": "name match on seneca|seneca|onondowa'ga '|onondowa'ga '",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/onondowaga-seneca"
+ },
+ "Tuscarora": {
+  "primary": "tuscarora-nation",
+  "allMatches": [
+   "tuscarora-nation"
+  ],
+  "basis": "manual: Tuscarora",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tuscarora-3"
+ },
+ "Kaskaskia": {
+  "primary": "peoria-tribe-of-indians-of-oklahoma",
+  "allMatches": [
+   "peoria-tribe-of-indians-of-oklahoma"
+  ],
+  "basis": "manual: Kaskaskia are part of the Peoria Tribe",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kaskaskia"
+ },
+ "Houma": {
+  "primary": "united-houma-nation",
+  "allMatches": [
+   "united-houma-nation"
+  ],
+  "basis": "name match on houma|houma",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/houma-2"
+ },
+ "Chitimacha": {
+  "primary": "chitimacha-tribe-of-louisiana",
+  "allMatches": [
+   "chitimacha-tribe-of-louisiana",
+   "bayou-lafourche-band-of-the-biloxi-chitimacha-confederation-of-muskogees",
+   "grand-caillou-dulac-band-of-the-biloxi-chitimacha-confederation-of-muskogees",
+   "isle-de-jean-charles-band-of-the-biloxi-chitimacha-confederation-of-muskogees"
+  ],
+  "basis": "name match on chitimacha|chitimacha",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chitimacha-2"
+ },
+ "Sivuqaq (St. Lawrence Island) Yupik": {
+  "primary": "native-village-of-gambell",
+  "allMatches": [
+   "native-village-of-gambell",
+   "native-village-of-savoonga"
+  ],
+  "basis": "manual: the two St. Lawrence Island villages",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sivuqaq-st-lawrence-island-yupik"
+ },
+ "sdukʷalbixʷ (Snoqualmie)": {
+  "primary": "snoqualmie-indian-tribe",
+  "allMatches": [
+   "snoqualmie-indian-tribe"
+  ],
+  "basis": "name match on snoqualmie|snoqualmie|sdukwalbixw|sdukwalbixw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sduk%ca%b7albix%ca%b7-snoqualmie"
+ },
+ "Atfalati": {
+  "primary": "confederated-tribes-of-the-grand-ronde-community-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-the-grand-ronde-community-of-oregon"
+  ],
+  "basis": "manual: Tualatin Kalapuya at Grand Ronde",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/atfalati"
+ },
+ "Esto’k Gna (Carrizo/Comecrudo)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on carrizo|comecrudo|carrizo comecrudo|esto'k gna|esto'k gna",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/estokgna"
+ },
+ "Nuxwsa’7aq (Nooksack)": {
+  "primary": "nooksack-indian-tribe",
+  "allMatches": [
+   "nooksack-indian-tribe"
+  ],
+  "basis": "name match on nooksack|nooksack|nuxwsa'7aq|nuxwsa'7aq",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nuxwsa7aq-nooksack"
+ },
+ "Samish": {
+  "primary": "samish-indian-nation",
+  "allMatches": [
+   "samish-indian-nation"
+  ],
+  "basis": "name match on samish|samish",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/samish"
+ },
+ "Borikén Taíno": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on boriken taino|boriken taino",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/boriken-taino"
+ },
+ "Nuwhaha": {
+  "primary": "upper-skagit-indian-tribe",
+  "allMatches": [
+   "upper-skagit-indian-tribe"
+  ],
+  "basis": "manual: Upper Skagit",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nuwhaha"
+ },
+ "Pequawket": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on pequawket|pequawket",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pequawket"
+ },
+ "Pennacook": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on pennacook|pennacook",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pennacook-2"
+ },
+ "Penobscot": {
+  "primary": "penobscot-nation",
+  "allMatches": [
+   "penobscot-nation"
+  ],
+  "basis": "name match on penobscot|penobscot",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/penobscot-2"
+ },
+ "Nanrantsouak": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nanrantsouak|nanrantsouak",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nanrantsouak"
+ },
+ "sp̓aƛ̓mul̓əxʷəxʷ (Methow)": {
+  "primary": "confederated-tribes-of-the-colville-reservation",
+  "allMatches": [
+   "confederated-tribes-of-the-colville-reservation"
+  ],
+  "basis": "manual: one of the twelve Colville tribes",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/methow"
+ },
+ "ščəl’ámxəxʷ (Chelan)": {
+  "primary": "confederated-tribes-of-the-colville-reservation",
+  "allMatches": [
+   "confederated-tribes-of-the-colville-reservation"
+  ],
+  "basis": "manual: one of the twelve Colville tribes",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chelan"
+ },
+ "šntiyátkʷəxʷ (Entiat)": {
+  "primary": "confederated-tribes-of-the-colville-reservation",
+  "allMatches": [
+   "confederated-tribes-of-the-colville-reservation"
+  ],
+  "basis": "manual: one of the twelve Colville tribes",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/entiat"
+ },
+ "nspiləm (Nespelem)": {
+  "primary": "confederated-tribes-of-the-colville-reservation",
+  "allMatches": [
+   "confederated-tribes-of-the-colville-reservation"
+  ],
+  "basis": "manual: one of the twelve Colville tribes",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nespelem"
+ },
+ "sńpʕawílx (Sanpoil)": {
+  "primary": "confederated-tribes-of-the-colville-reservation",
+  "allMatches": [
+   "confederated-tribes-of-the-colville-reservation"
+  ],
+  "basis": "manual: one of the twelve Colville tribes",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/san-poil"
+ },
+ "škwáxčənəxʷ (Moses-Columbia)": {
+  "primary": "confederated-tribes-of-the-colville-reservation",
+  "allMatches": [
+   "confederated-tribes-of-the-colville-reservation"
+  ],
+  "basis": "manual: one of the twelve Colville tribes",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/moses-columbia"
+ },
+ "spuyaləpabš (Puyallup)": {
+  "primary": "puyallup-tribe",
+  "allMatches": [
+   "puyallup-tribe"
+  ],
+  "basis": "name match on puyallup|puyallup|spuyal pabs|spuyal pabs",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/puyallup"
+ },
+ "sx̌ʷyʔiɬp (Colville)": {
+  "primary": "confederated-tribes-of-the-colville-reservation",
+  "allMatches": [
+   "confederated-tribes-of-the-colville-reservation"
+  ],
+  "basis": "name match on colville|colville|sxwy i p|sxwy i p",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/colville"
+ },
+ "Pentucket": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on pentucket|pentucket",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pentucket"
+ },
+ "swədəbš (Swinomish)": {
+  "primary": "swinomish-indian-tribal-community",
+  "allMatches": [
+   "swinomish-indian-tribal-community"
+  ],
+  "basis": "name match on swinomish|swinomish|sw d bs|sw d bs",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/swinomish"
+ },
+ "Shoalwater Bay": {
+  "primary": "shoalwater-bay-indian-tribe",
+  "allMatches": [
+   "shoalwater-bay-indian-tribe"
+  ],
+  "basis": "name match on shoalwater bay|shoalwater bay",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/shoalwater-bay"
+ },
+ "Tequesta": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tequesta|tequesta",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tequesta"
+ },
+ "Upper Tanana": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on upper tanana|upper tanana",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/upper-tanana-2"
+ },
+ "Gwich’in Nành": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on gwich'in nanh|gwich'in nanh",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/gwichin"
+ },
+ "Stz’uminus": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on stz'uminus|stz'uminus",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/stzuminus"
+ },
+ "Chimacum": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on chimacum|chimacum",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chimacum"
+ },
+ "Eastern Nehântick": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on eastern nehantick|eastern nehantick",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/eastern-nehantick"
+ },
+ "Western Nehântick": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on western nehantick|western nehantick",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/western-nehantick"
+ },
+ "Clackamas": {
+  "primary": "confederated-tribes-of-the-grand-ronde-community-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-the-grand-ronde-community-of-oregon"
+  ],
+  "basis": "manual: Clackamas at Grand Ronde",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/clackamas"
+ },
+ "Chickahominy": {
+  "primary": "chickahominy-indian-tribe",
+  "allMatches": [
+   "chickahominy-indian-tribe",
+   "chickahominy-indian-tribe-eastern-division"
+  ],
+  "basis": "name match on chickahominy|chickahominy",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chickahominy"
+ },
+ "Akokisa": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on akokisa|akokisa",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/akokisa"
+ },
+ "Hohokam": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on hohokam|hohokam",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/hohokam"
+ },
+ "Jeaga": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on jeaga|jeaga",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/jeaga"
+ },
+ "Jicarilla Apache": {
+  "primary": "jicarilla-apache-nation",
+  "allMatches": [
+   "jicarilla-apache-nation"
+  ],
+  "basis": "name match on jicarilla apache|jicarilla apache",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/jicarilla-apache"
+ },
+ "Huu-ay-aht": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on huu ay aht|huu ay aht",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/huu-ay-aht"
+ },
+ "Hñähñu (Otomí)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on otomi|otomi|hnahnu|hnahnu",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/hnahnu-otomi"
+ },
+ "San Carlos Apache": {
+  "primary": "san-carlos-apache-tribe",
+  "allMatches": [
+   "san-carlos-apache-tribe"
+  ],
+  "basis": "name match on san carlos apache|san carlos apache",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/san-carlos-apache"
+ },
+ "White Mountain Apache": {
+  "primary": "white-mountain-apache-tribe",
+  "allMatches": [
+   "white-mountain-apache-tribe"
+  ],
+  "basis": "name match on white mountain apache|white mountain apache",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/white-mountain-apache"
+ },
+ "Yavapai Apache": {
+  "primary": "yavapai-apache-nation",
+  "allMatches": [
+   "yavapai-apache-nation"
+  ],
+  "basis": "name match on yavapai apache|yavapai apache",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/yavapaiv-apache"
+ },
+ "Miluk Coos": {
+  "primary": "coquille-indian-tribe",
+  "allMatches": [
+   "coquille-indian-tribe",
+   "confederated-tribes-of-the-coos-lower-umpqua-and-siuslaw-indians"
+  ],
+  "basis": "manual: Miluk",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/miluk-coos"
+ },
+ "Chit-dee-ni (Chetco)": {
+  "primary": "confederated-tribes-of-siletz-indians-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-siletz-indians-of-oregon"
+  ],
+  "basis": "manual: Siletz",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chit-dee-ni-chetco"
+ },
+ "Tututni": {
+  "primary": "confederated-tribes-of-siletz-indians-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-siletz-indians-of-oregon"
+  ],
+  "basis": "manual: Siletz",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tututni"
+ },
+ "dxʷsqʷaliʔabš (Nisqually)": {
+  "primary": "nisqually-indian-tribe",
+  "allMatches": [
+   "nisqually-indian-tribe"
+  ],
+  "basis": "name match on nisqually|nisqually|dxwsqwali abs|dxwsqwali abs",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nisqually-2"
+ },
+ "Quuiich (Lower Umpqua)": {
+  "primary": "confederated-tribes-of-the-coos-lower-umpqua-and-siuslaw-indians",
+  "allMatches": [
+   "confederated-tribes-of-the-coos-lower-umpqua-and-siuslaw-indians"
+  ],
+  "basis": "name match on lower umpqua|lower umpqua|quuiich|quuiich",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/quuiich-lower-umpqua"
+ },
+ "Hanis Coos": {
+  "primary": "confederated-tribes-of-the-coos-lower-umpqua-and-siuslaw-indians",
+  "allMatches": [
+   "confederated-tribes-of-the-coos-lower-umpqua-and-siuslaw-indians"
+  ],
+  "basis": "manual: CTCLUSI",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/hanis-coos"
+ },
+ "Tillamook": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tillamook|tillamook",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tillamook-2"
+ },
+ "Nehalem": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nehalem|nehalem",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nehalem"
+ },
+ "Lower Chinook": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on lower chinook|lower chinook",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/lower-chinook-2"
+ },
+ "Salmon River": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on salmon river|salmon river",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/salmon-river"
+ },
+ "Nestucca": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nestucca|nestucca",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nestucca"
+ },
+ "Yamayeka (Yamaye)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on yamaye|yamaye|yamayeka|yamayeka",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/yamayeka-yamaye"
+ },
+ "Yakina": {
+  "primary": "confederated-tribes-of-siletz-indians-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-siletz-indians-of-oregon"
+  ],
+  "basis": "manual: Siletz",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/yakina"
+ },
+ "Siletz": {
+  "primary": "confederated-tribes-of-siletz-indians-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-siletz-indians-of-oregon"
+  ],
+  "basis": "name match on siletz|siletz",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/siletz-2"
+ },
+ "Petun": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on petun|petun",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/petun"
+ },
+ "Opelousas": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on opelousas|opelousas",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/opelousas"
+ },
+ "Seminole Tribe of Florida (Tampa Reservation)": {
+  "primary": "seminole-tribe-of-florida",
+  "allMatches": [
+   "seminole-tribe-of-florida"
+  ],
+  "basis": "manual: same nation",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/seminole-tribe-of-florida-tampa-reservation"
+ },
+ "Seminole Tribe of Florida (Brighton Reservation)": {
+  "primary": "seminole-tribe-of-florida",
+  "allMatches": [
+   "seminole-tribe-of-florida"
+  ],
+  "basis": "name match on brighton reservation|brighton reservation|seminole tribe of florida|seminole tribe of florida",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/seminole-tribe-of-florida-brighton-reservation"
+ },
+ "Seminole Tribe of Florida (Hollywood Reservation)": {
+  "primary": "seminole-tribe-of-florida",
+  "allMatches": [
+   "seminole-tribe-of-florida"
+  ],
+  "basis": "name match on hollywood reservation|hollywood reservation|seminole tribe of florida|seminole tribe of florida",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/seminole-tribe-of-florida-hollywood-reservation"
+ },
+ "Attiwonderonk (Neutral)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on neutral|neutral|attiwonderonk|attiwonderonk",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/attiwonderonk-neutral"
+ },
+ "Wenrohronon": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on wenrohronon|wenrohronon",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wenrohronon"
+ },
+ "Coharie": {
+  "primary": "coharie-intra-tribal-council-inc",
+  "allMatches": [
+   "coharie-intra-tribal-council-inc"
+  ],
+  "basis": "name match on coharie|coharie",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/coharie"
+ },
+ "Seminole Tribe of Florida (Immokalee Reservation)": {
+  "primary": "seminole-tribe-of-florida",
+  "allMatches": [
+   "seminole-tribe-of-florida"
+  ],
+  "basis": "name match on immokalee reservation|immokalee reservation|seminole tribe of florida|seminole tribe of florida",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/seminole-tribe-of-florida-immokalee-reservation"
+ },
+ "Seminole Tribe of Florida (Big Cypress Reservation)": {
+  "primary": "seminole-tribe-of-florida",
+  "allMatches": [
+   "seminole-tribe-of-florida"
+  ],
+  "basis": "name match on big cypress reservation|big cypress reservation|seminole tribe of florida|seminole tribe of florida",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/seminole-tribe-of-florida-big-cypress-reservation"
+ },
+ "Mohegan": {
+  "primary": "mohegan-tribe-of-indians-of-connecticut",
+  "allMatches": [
+   "mohegan-tribe-of-indians-of-connecticut"
+  ],
+  "basis": "name match on mohegan|mohegan",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mohegan-2"
+ },
+ "Aucocisco": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on aucocisco|aucocisco",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/aucocisco"
+ },
+ "Mattaponi": {
+  "primary": "mattaponi-indian-nation",
+  "allMatches": [
+   "upper-mattaponi-tribe",
+   "mattaponi-indian-nation"
+  ],
+  "basis": "name match on mattaponi|mattaponi",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mattaponi"
+ },
+ "Musgamagw Dzawada’enuxw": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on musgamagw dzawada'enuxw|musgamagw dzawada'enuxw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/musgamagw-dzawadaenuxw"
+ },
+ "Mayaimi": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on mayaimi|mayaimi",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mayaimi"
+ },
+ "Ais": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on ais|ais",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/ais-2"
+ },
+ "Wappinger": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on wappinger|wappinger",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wappinger-2"
+ },
+ "Nacotchtank (Anacostan)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on anacostan|anacostan|nacotchtank|nacotchtank",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nacotchtank-anacostan"
+ },
+ "Guacata": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on guacata|guacata",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/guacata"
+ },
+ "Matecumbe": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on matecumbe|matecumbe",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/matecumbe"
+ },
+ "Confederated Tribes of Warm Springs": {
+  "primary": "confederated-tribes-of-the-warm-springs-reservation-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-the-warm-springs-reservation-of-oregon"
+  ],
+  "basis": "name match on confederated tribes of warm springs|confederated tribes of warm springs",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/confederated-tribes-of-warm-springs"
+ },
+ "Kecoughtan": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on kecoughtan|kecoughtan",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kecoughtan"
+ },
+ "Rappahannock": {
+  "primary": "rappahannock-tribe-inc",
+  "allMatches": [
+   "rappahannock-tribe-inc"
+  ],
+  "basis": "name match on rappahannock|rappahannock",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/rappahannock"
+ },
+ "Nansemond": {
+  "primary": "nansemond-indian-nation",
+  "allMatches": [
+   "nansemond-indian-nation"
+  ],
+  "basis": "name match on nansemond|nansemond",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nansemond-2"
+ },
+ "Chesapeake": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on chesapeake|chesapeake",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chesapeake-2"
+ },
+ "Cuttatawomen": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on cuttatawomen|cuttatawomen",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cuttatawomen"
+ },
+ "Patawomeck": {
+  "primary": "patawomeck-indian-tribe-of-virginia",
+  "allMatches": [
+   "patawomeck-indian-tribe-of-virginia"
+  ],
+  "basis": "name match on patawomeck|patawomeck",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/patawomeck"
+ },
+ "Kiskiack": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on kiskiack|kiskiack",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kiskiack"
+ },
+ "Macorix": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on macorix|macorix",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/macorix"
+ },
+ "Moraughtacund": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on moraughtacund|moraughtacund",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/moraughtacund"
+ },
+ "Wicocomico": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on wicocomico|wicocomico",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wicocomico"
+ },
+ "dxʷlilap (Tulalip)": {
+  "primary": "tulalip-tribes-of-washington",
+  "allMatches": [
+   "tulalip-tribes-of-washington"
+  ],
+  "basis": "name match on tulalip|tulalip|dxwlilap|dxwlilap",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tulalip"
+ },
+ "Lheidli T’enneh": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on lheidli t'enneh|lheidli t'enneh",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/lheidli-tenneh"
+ },
+ "Bdewakantuwan (Mdewakanton)": {
+  "primary": "shakopee-mdewakanton-sioux-community-of-minnesota",
+  "allMatches": [
+   "shakopee-mdewakanton-sioux-community-of-minnesota"
+  ],
+  "basis": "name match on mdewakanton|mdewakanton|bdewakantuwan|bdewakantuwan",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mdewakanton"
+ },
+ "Sisíthuŋwaŋ": {
+  "primary": "sisseton-wahpeton-oyate-of-the-lake-traverse-reservation",
+  "allMatches": [
+   "sisseton-wahpeton-oyate-of-the-lake-traverse-reservation",
+   "spirit-lake-tribe"
+  ],
+  "basis": "manual: Sisseton",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sisseton"
+ },
+ "Wyandot": {
+  "primary": "wyandotte-nation",
+  "allMatches": [
+   "wyandotte-nation"
+  ],
+  "basis": "manual: Wyandotte",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wyandot-anderdon"
+ },
+ "Yankton": {
+  "primary": "yankton-sioux-tribe-of-south-dakota",
+  "allMatches": [
+   "yankton-sioux-tribe-of-south-dakota"
+  ],
+  "basis": "name match on yankton|yankton",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/yankton-2"
+ },
+ "Yanktonai": {
+  "primary": "standing-rock-sioux-tribe-of-north-and-south-dakota",
+  "allMatches": [
+   "standing-rock-sioux-tribe-of-north-and-south-dakota",
+   "crow-creek-sioux-tribe",
+   "assiniboine-and-sioux-tribes-of-the-fort-peck-indian-reservation"
+  ],
+  "basis": "manual: Yanktonai",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/yanktonai-2"
+ },
+ "Wahpeton": {
+  "primary": "sisseton-wahpeton-oyate-of-the-lake-traverse-reservation",
+  "allMatches": [
+   "sisseton-wahpeton-oyate-of-the-lake-traverse-reservation",
+   "spirit-lake-tribe"
+  ],
+  "basis": "manual: Wahpeton",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wahpeton"
+ },
+ "Wahpekute": {
+  "primary": "santee-sioux-nation",
+  "allMatches": [
+   "santee-sioux-nation",
+   "flandreau-santee-sioux-tribe-of-south-dakota"
+  ],
+  "basis": "manual: Santee division",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wahpekute"
+ },
+ "Oohenumpa": {
+  "primary": "cheyenne-river-sioux-tribe",
+  "allMatches": [
+   "cheyenne-river-sioux-tribe"
+  ],
+  "basis": "manual: one of four Lakota bands of Cheyenne River",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/oohenumpa"
+ },
+ "Mnicoujou": {
+  "primary": "cheyenne-river-sioux-tribe",
+  "allMatches": [
+   "cheyenne-river-sioux-tribe"
+  ],
+  "basis": "manual: one of four Lakota bands of Cheyenne River",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mnicoujou"
+ },
+ "Itazipco": {
+  "primary": "cheyenne-river-sioux-tribe",
+  "allMatches": [
+   "cheyenne-river-sioux-tribe"
+  ],
+  "basis": "manual: one of four Lakota bands of Cheyenne River",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/itazipco"
+ },
+ "Hunkpapa": {
+  "primary": "standing-rock-sioux-tribe-of-north-and-south-dakota",
+  "allMatches": [
+   "cheyenne-river-sioux-tribe",
+   "standing-rock-sioux-tribe-of-north-and-south-dakota"
+  ],
+  "basis": "name match on hunkpapa|hunkpapa",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/hunkpapa"
+ },
+ "Nüümü Witü (Eastern Mono/Monache)": {
+  "primary": "bishop-paiute-tribe",
+  "allMatches": [
+   "bishop-paiute-tribe",
+   "big-pine-paiute-tribe-of-the-owens-valley",
+   "lone-pine-paiute-shoshone-tribe",
+   "fort-independence-indian-community-of-paiute-indians",
+   "utu-utu-gwaitu-paiute-tribe"
+  ],
+  "basis": "manual: Owens Valley nations",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/eastern-mono-monache"
+ },
+ "Miccosukee": {
+  "primary": "miccosukee-tribe-of-indians",
+  "allMatches": [
+   "miccosukee-tribe-of-indians"
+  ],
+  "basis": "name match on miccosukee|miccosukee",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/miccosukee"
+ },
+ "Sicangu": {
+  "primary": "rosebud-sioux-tribe",
+  "allMatches": [
+   "rosebud-sioux-tribe"
+  ],
+  "basis": "name match on sicangu|sicangu",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sicangu"
+ },
+ "Powhatan": {
+  "primary": "pamunkey-indian-tribe",
+  "allMatches": [
+   "pamunkey-indian-tribe",
+   "mattaponi-indian-nation",
+   "upper-mattaponi-tribe",
+   "chickahominy-indian-tribe",
+   "chickahominy-indian-tribe-eastern-division",
+   "rappahannock-tribe-inc",
+   "nansemond-indian-nation",
+   "patawomeck-indian-tribe-of-virginia"
+  ],
+  "basis": "manual: nations of the Powhatan paramount chiefdom",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/powhatan-2"
+ },
+ "Youghtanund": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on youghtanund|youghtanund",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/youghtanund"
+ },
+ "Nandtaughtacund": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nandtaughtacund|nandtaughtacund",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nandtaughtacund"
+ },
+ "Pissaseck": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on pissaseck|pissaseck",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pissaseck"
+ },
+ "Quiyoughcohannock": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on quiyoughcohannock|quiyoughcohannock",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/quiyoughcohannock"
+ },
+ "Weyanock": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on weyanock|weyanock",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/weyanock"
+ },
+ "Appamattuck": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on appamattuck|appamattuck",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/appamattuck"
+ },
+ "Arrohateck": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on arrohateck|arrohateck",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/arrohatec"
+ },
+ "Warraskoyack": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on warraskoyack|warraskoyack",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/warraskoyack"
+ },
+ "Piankatank": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on piankatank|piankatank",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/piankatank"
+ },
+ "Werowocomoco": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on werowocomoco|werowocomoco",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/werowocomoco"
+ },
+ "Paspahegh": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on paspahegh|paspahegh",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/paspahegh"
+ },
+ "Accomack": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on accomack|accomack",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/accomack"
+ },
+ "Sekakawon": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on sekakawon|sekakawon",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sekakawon"
+ },
+ "Onawmanient": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on onawmanient|onawmanient",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/onawmanient"
+ },
+ "Opiscopank": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on opiscopank|opiscopank",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/opiscopank"
+ },
+ "Saponi": {
+  "primary": "haliwa-saponi-indian-tribe",
+  "allMatches": [
+   "haliwa-saponi-indian-tribe",
+   "occaneechi-band-of-the-saponi-nation"
+  ],
+  "basis": "name match on saponi|saponi",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/saponi"
+ },
+ "Occaneechi": {
+  "primary": "occaneechi-band-of-the-saponi-nation",
+  "allMatches": [
+   "occaneechi-band-of-the-saponi-nation"
+  ],
+  "basis": "name match on occaneechi|occaneechi",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/occaneechi"
+ },
+ "Manahoac": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on manahoac|manahoac",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/manahoac"
+ },
+ "Occohannock": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on occohannock|occohannock",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/occohannock"
+ },
+ "Massawomeck": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on massawomeck|massawomeck",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/massawomeck"
+ },
+ "Calicuas": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on calicuas|calicuas",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/calicuas"
+ },
+ "Yesan (Tutelo)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tutelo|tutelo|yesan|yesan",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/yesan"
+ },
+ "Pasquotank": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on pasquotank|pasquotank",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pasquotank"
+ },
+ "Perquimans": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on perquimans|perquimans",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/perquimans"
+ },
+ "Yeopim": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on yeopim|yeopim",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/yeopim"
+ },
+ "Mattamuskeet": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on mattamuskeet|mattamuskeet",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mattamuskeet"
+ },
+ "Hatteras": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on hatteras|hatteras",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/hatteras"
+ },
+ "Croatan": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on croatan|croatan",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/croatan"
+ },
+ "Poteskeet": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on poteskeet|poteskeet",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/poteskeet"
+ },
+ "Neusiok": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on neusiok|neusiok",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/neusiok-2"
+ },
+ "Pamlico (Pomouik)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on pomouik|pomouik|pamlico|pamlico",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pamlico-pomouik"
+ },
+ "Moratok": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on moratok|moratok",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/moratok"
+ },
+ "Secotan": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on secotan|secotan",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/secotan"
+ },
+ "Wateree": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on wateree|wateree",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wateree"
+ },
+ "Cape Fear": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on cape fear|cape fear",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cape-fear"
+ },
+ "Waccamaw (Woccon)": {
+  "primary": "waccamaw-siouan-tribe",
+  "allMatches": [
+   "waccamaw-siouan-tribe",
+   "waccamaw-indian-people"
+  ],
+  "basis": "name match on woccon|woccon|waccamaw|waccamaw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/waccamaw-woccon"
+ },
+ "Coree": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on coree|coree",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/coree"
+ },
+ "Sissipahaw": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on sissipahaw|sissipahaw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sissipahaw"
+ },
+ "Waxhaw": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on waxhaw|waxhaw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/waxhaw"
+ },
+ "Sugaree": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on sugaree|sugaree",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sugaree"
+ },
+ "Eno": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on eno|eno",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/eno"
+ },
+ "Shakori": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on shakori|shakori",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/shakori"
+ },
+ "Keyauwee": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on keyauwee|keyauwee",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/keyauwee"
+ },
+ "Chemapho": {
+  "primary": "confederated-tribes-of-the-grand-ronde-community-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-the-grand-ronde-community-of-oregon"
+  ],
+  "basis": "manual: Kalapuya band",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chemapho"
+ },
+ "Chelamela": {
+  "primary": "confederated-tribes-of-the-grand-ronde-community-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-the-grand-ronde-community-of-oregon"
+  ],
+  "basis": "manual: Kalapuya band",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/long-tom"
+ },
+ "Yoncalla": {
+  "primary": "confederated-tribes-of-the-grand-ronde-community-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-the-grand-ronde-community-of-oregon"
+  ],
+  "basis": "manual: Kalapuya band",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/yoncalla"
+ },
+ "Ahantchuyuk": {
+  "primary": "confederated-tribes-of-the-grand-ronde-community-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-the-grand-ronde-community-of-oregon"
+  ],
+  "basis": "manual: Kalapuya band",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/ahantchuyuk"
+ },
+ "Yamhill": {
+  "primary": "confederated-tribes-of-the-grand-ronde-community-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-the-grand-ronde-community-of-oregon"
+  ],
+  "basis": "manual: Kalapuya band",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/yamhill"
+ },
+ "Luckiamute": {
+  "primary": "confederated-tribes-of-the-grand-ronde-community-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-the-grand-ronde-community-of-oregon"
+  ],
+  "basis": "manual: Kalapuya band",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/luckiamute"
+ },
+ "Chepenefa": {
+  "primary": "confederated-tribes-of-the-grand-ronde-community-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-the-grand-ronde-community-of-oregon"
+  ],
+  "basis": "manual: Kalapuya band",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chepenefa"
+ },
+ "Chafan": {
+  "primary": "confederated-tribes-of-the-grand-ronde-community-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-the-grand-ronde-community-of-oregon"
+  ],
+  "basis": "manual: Kalapuya band",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chafan"
+ },
+ "Tsankupi": {
+  "primary": "confederated-tribes-of-the-grand-ronde-community-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-the-grand-ronde-community-of-oregon"
+  ],
+  "basis": "manual: Kalapuya band",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tsankupi"
+ },
+ "Santiam": {
+  "primary": "confederated-tribes-of-the-grand-ronde-community-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-the-grand-ronde-community-of-oregon"
+  ],
+  "basis": "manual: Kalapuya band",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/santiam"
+ },
+ "oθaakiiwaki‧hina‧ki (Sauk)": {
+  "primary": "sac-and-fox-nation",
+  "allMatches": [
+   "sac-and-fox-nation",
+   "sac-and-fox-nation-of-missouri-in-kansas-and-nebraska",
+   "sac-and-fox-tribe-of-the-mississippi-in-iowa"
+  ],
+  "basis": "manual: Sauk",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/o%ce%b8aakiiwaki%e2%80%a7hina%e2%80%a7ki-sauk"
+ },
+ "Winefelly": {
+  "primary": "confederated-tribes-of-the-grand-ronde-community-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-the-grand-ronde-community-of-oregon"
+  ],
+  "basis": "manual: Kalapuya band",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/winefelly"
+ },
+ "Kalapuya (Mohawk)": {
+  "primary": "confederated-tribes-of-the-grand-ronde-community-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-the-grand-ronde-community-of-oregon"
+  ],
+  "basis": "manual: Kalapuya band",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mohawk-4"
+ },
+ "Meškwahki·aša·hina (Fox)": {
+  "primary": "sac-and-fox-tribe-of-the-mississippi-in-iowa",
+  "allMatches": [
+   "sac-and-fox-tribe-of-the-mississippi-in-iowa",
+   "sac-and-fox-nation"
+  ],
+  "basis": "manual: Meskwaki",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/meskwahki%c2%b7asa%c2%b7hina-fox"
+ },
+ "Winyah": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on winyah|winyah",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/winyah"
+ },
+ "Santee": {
+  "primary": "santee-indian-organization",
+  "allMatches": [
+   "santee-indian-organization"
+  ],
+  "basis": "name match on santee|santee",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/santee-2"
+ },
+ "Congaree": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on congaree|congaree",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/congaree"
+ },
+ "Saluda": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on saluda|saluda",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/saluda"
+ },
+ "Kusso": {
+  "primary": "edisto-natchez-kusso-tribe-of-south-carolina",
+  "allMatches": [
+   "edisto-natchez-kusso-tribe-of-south-carolina"
+  ],
+  "basis": "name match on kusso|kusso",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kusso"
+ },
+ "Sewee": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on sewee|sewee",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sewee"
+ },
+ "Chicora": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on chicora|chicora",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chicora"
+ },
+ "bəqəlšuɬ (Muckleshoot)": {
+  "primary": "muckleshoot-indian-tribe",
+  "allMatches": [
+   "muckleshoot-indian-tribe"
+  ],
+  "basis": "name match on muckleshoot|muckleshoot|b q lsu|b q lsu",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/muckleshoot"
+ },
+ "Yamasee": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on yamasee|yamasee",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/yamassee"
+ },
+ "Westo": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on westo|westo",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/westo"
+ },
+ "Shigom": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on shigom|shigom",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/shigom"
+ },
+ "Clatsop-Nehalem Confederated Tribes": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on clatsop nehalem confederated tribes|clatsop nehalem confederated tribes",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/clatsop"
+ },
+ "Rayados (Borrados)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on borrados|borrados|rayados|rayados",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/rayados-borrados"
+ },
+ "Chiso": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on chiso|chiso",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chiso"
+ },
+ "Alazapas": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on alazapas|alazapas",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/alazapas"
+ },
+ "Tuqan": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tuqan|tuqan",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tuqan"
+ },
+ "Natchitoches": {
+  "primary": "natchitoches-tribe-of-louisiana",
+  "allMatches": [
+   "natchitoches-tribe-of-louisiana"
+  ],
+  "basis": "name match on natchitoches|natchitoches",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/natchitoches"
+ },
+ "Kiikaapoi (Kickapoo)": {
+  "primary": "kickapoo-tribe-of-oklahoma",
+  "allMatches": [
+   "kickapoo-traditional-tribe-of-texas",
+   "kickapoo-tribe-of-indians-of-the-kickapoo-reservation-in-kansas",
+   "kickapoo-tribe-of-oklahoma"
+  ],
+  "basis": "name match on kickapoo|kickapoo|kiikaapoi|kiikaapoi",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kiikaapoi-kickapoo"
+ },
+ "‘Anyapax": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on anyapax|anyapax",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/anyapax"
+ },
+ "Limuw": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on limuw|limuw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/limuw"
+ },
+ "Wi’ma": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on wi'ma|wi'ma",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wima"
+ },
+ "Kathlamet": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on kathlamet|kathlamet",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kathlamet"
+ },
+ "sqʷax̌sədabš (Squaxin)": {
+  "primary": "squaxin-island-tribe",
+  "allMatches": [
+   "squaxin-island-tribe"
+  ],
+  "basis": "name match on squaxin|squaxin|sqwaxs dabs|sqwaxs dabs",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/squaxin"
+ },
+ "Kuyam": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on kuyam|kuyam",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kuyam"
+ },
+ "Kashtik": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on kashtik|kashtik",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kashtik"
+ },
+ "Hul Kuhk’u": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on hul kuhk'u|hul kuhk'u",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/hul-kuhku"
+ },
+ "Willapa": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on willapa|willapa",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/willapa"
+ },
+ "Wahkiakum": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on wahkiakum|wahkiakum",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wahkiakum"
+ },
+ "Xixime": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on xixime|xixime",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/xixime-2"
+ },
+ "Toquaht": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on toquaht|toquaht",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/toquaht"
+ },
+ "Uchucklesaht": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on uchucklesaht|uchucklesaht",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/uchucklesaht"
+ },
+ "Yuułuʔiłʔatḥ": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on yuu u i ath|yuu u i ath",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/ucluelet"
+ },
+ "Ka:’yu:’k’t’h’/Che:k’tles7et’h’": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on ka 'yu 'k't'h' che k'tles7et'h'|ka 'yu 'k't'h'|che k'tles7et'h'",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kayukth-chektles7eth"
+ },
+ "We Wai Kai": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on we wai kai|we wai kai",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/we-wai-kai"
+ },
+ "Pawtucket": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on pawtucket|pawtucket",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pawtucket"
+ },
+ "Mississauga": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on mississauga|mississauga",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mississauga"
+ },
+ "Mississaugas of the Credit First Nation": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on mississaugas of the credit first nation|mississaugas of the credit first nation",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mississaugas-of-the-credit-first-nation"
+ },
+ "Wei Wai Kum": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on wei wai kum|wei wai kum",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/we-wai-kum"
+ },
+ "Munsee Lenape": {
+  "primary": "stockbridge-munsee-community",
+  "allMatches": [
+   "stockbridge-munsee-community",
+   "delaware-tribe-of-indians"
+  ],
+  "basis": "manual: Munsee",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/munsee-lenape"
+ },
+ "Skykomish": {
+  "primary": "tulalip-tribes-of-washington",
+  "allMatches": [
+   "tulalip-tribes-of-washington"
+  ],
+  "basis": "manual: Tulalip",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/skykomish"
+ },
+ "Shita Got’ine": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on shita got'ine|shita got'ine",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/shita-gotine"
+ },
+ "K’áálǫ Got’ine": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on k'aalo got'ine|k'aalo got'ine",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kaal%c7%ab-gotine"
+ },
+ "Sahtú Got’ine": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on sahtu got'ine|sahtu got'ine",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sahtu-gotine"
+ },
+ "Waco": {
+  "primary": "wichita-and-affiliated-tribes-wichita-keechi-waco-and-tawakonie",
+  "allMatches": [
+   "wichita-and-affiliated-tribes-wichita-keechi-waco-and-tawakonie"
+  ],
+  "basis": "manual: Waco",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/waco"
+ },
+ "Kizh (Gabrieleno)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on gabrieleno|gabrieleno|kizh|kizh",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kizh-gabrieleno"
+ },
+ "K’asho Got’ine": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on k'asho got'ine|k'asho got'ine",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kasho-gotine"
+ },
+ "Cholulteca": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on cholulteca|cholulteca",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cholulteca"
+ },
+ "Tawakoni": {
+  "primary": "wichita-and-affiliated-tribes-wichita-keechi-waco-and-tawakonie",
+  "allMatches": [
+   "wichita-and-affiliated-tribes-wichita-keechi-waco-and-tawakonie"
+  ],
+  "basis": "manual: Tawakonie",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tawakoni"
+ },
+ "Coquille": {
+  "primary": "coquille-indian-tribe",
+  "allMatches": [
+   "coquille-indian-tribe"
+  ],
+  "basis": "name match on coquille|coquille",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/coquille"
+ },
+ "stuləgʷábš (Stillaguamish)": {
+  "primary": "stillaguamish-tribe-of-indians-of-washington",
+  "allMatches": [
+   "stillaguamish-tribe-of-indians-of-washington"
+  ],
+  "basis": "name match on stillaguamish|stillaguamish|stul gwabs|stul gwabs",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/stillaguamish"
+ },
+ "Nicoleño": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nicoleno|nicoleno",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nicoleno"
+ },
+ "Wanapum": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on wanapum|wanapum",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wanapum"
+ },
+ "Takla": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on takla|takla",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/takla"
+ },
+ "ƛaʔuukʷiʔatḥ (Tla-o-qui-aht)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tla o qui aht|tla o qui aht|a uukwi ath|a uukwi ath",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/%c6%9ba%ca%94uuk%ca%b7i%ca%94ath%cc%a3-tla-o-qui-aht"
+ },
+ "Pocomoke-Assateague": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on pocomoke assateague|pocomoke assateague",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pocomoke"
+ },
+ "Esketemculeucw (Esk’etemc)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on esk'etemc|esk'etemc|esketemculeucw|esketemculeucw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/esketemculeucw-esketemc"
+ },
+ "Nadleh Whut’en": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nadleh whut'en|nadleh whut'en",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nadleh-whuten"
+ },
+ "Stellat’en": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on stellat'en|stellat'en",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/stellaten"
+ },
+ "Nyvukagmit (Naukan) Yupik": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on naukan|naukan|nyvukagmit  yupik|nyvukagmit  yupik",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nyvukagmit-naukan"
+ },
+ "Muwekma": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on muwekma|muwekma",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/muwekma"
+ },
+ "Poquonook": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on poquonook|poquonook",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/poquonook"
+ },
+ "Dënéndeh": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on denendeh|denendeh",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/denendeh"
+ },
+ "Konnaack": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on konnaack|konnaack",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/konnaack"
+ },
+ "Pit River": {
+  "primary": "pit-river-tribe",
+  "allMatches": [
+   "alturas-indian-rancheria",
+   "pit-river-tribe"
+  ],
+  "basis": "name match on pit river|pit river",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pit-river"
+ },
+ "Queets": {
+  "primary": "quinault-indian-nation",
+  "allMatches": [
+   "quinault-indian-nation"
+  ],
+  "basis": "manual: Quinault Indian Nation includes Queets",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/queets"
+ },
+ "Atakapa Ishak Chawasha": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on atakapa ishak chawasha|atakapa ishak chawasha",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/atakapa-ishak-chawasha"
+ },
+ "Copuces": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on copuces|copuces",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/copuces"
+ },
+ "Cascades": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on cascades|cascades",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cascades"
+ },
+ "Multnomah": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on multnomah|multnomah",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/multnomah"
+ },
+ "Skilloot": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on skilloot|skilloot",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/skilloot"
+ },
+ "Confederated Tribes of Grand Ronde": {
+  "primary": "confederated-tribes-of-the-grand-ronde-community-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-the-grand-ronde-community-of-oregon"
+  ],
+  "basis": "manual: same nation",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/confederated-tribes-of-grand-ronde"
+ },
+ "Abitibiwinni Aki": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on abitibiwinni aki|abitibiwinni aki",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/abitibiwinni-aki"
+ },
+ "BOḰEĆEN (Pauquachin)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on pauquachin|pauquachin|bokecen|bokecen",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/bo%e1%b8%b1ecen-pauquachin"
+ },
+ "W̱SĺḴEM (Tseycum)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tseycum|tseycum|wslkem|wslkem",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/w%cc%b1sl%e1%b8%b5em-tseycum"
+ },
+ "Taos Pueblo": {
+  "primary": "pueblo-of-taos",
+  "allMatches": [
+   "pueblo-of-taos"
+  ],
+  "basis": "name match on taos pueblo|taos pueblo",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/taos-pueblo"
+ },
+ "W̱JOȽEȽP (Tsartlip)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tsartlip|tsartlip|wjo e p|wjo e p",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/w%cc%b1jo%c6%9ae%c6%9ap-tsartlip"
+ },
+ "MÁLEXEȽ (Malahat)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on malahat|malahat|malexe|malexe",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/malexe%c6%9a-malahat"
+ },
+ "Isle de Jean Charles Biloxi-Chitimacha-Choctaw": {
+  "primary": "isle-de-jean-charles-band-of-the-biloxi-chitimacha-confederation-of-muskogees",
+  "allMatches": [
+   "isle-de-jean-charles-band-of-the-biloxi-chitimacha-confederation-of-muskogees"
+  ],
+  "basis": "manual: same community",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/isle-de-jean-charles-biloxi-chitimacha-choctaw"
+ },
+ "Tigua (Tiwa)": {
+  "primary": "ysleta-del-sur-pueblo",
+  "allMatches": [
+   "ysleta-del-sur-pueblo"
+  ],
+  "basis": "manual: Tigua",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tigua"
+ },
+ "Gitanyow Lax’yip": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on gitanyow lax'yip|gitanyow lax'yip",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/gitanyow-laxyip"
+ },
+ "saʔqʷəbixʷ-suyaƛ̕bixʷ (Sauk Suiattle)": {
+  "primary": "sauk-suiattle-indian-tribe",
+  "allMatches": [
+   "sauk-suiattle-indian-tribe"
+  ],
+  "basis": "name match on sauk suiattle|sauk suiattle|sa qw bixw suya bixw|sa qw bixw suya bixw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/sauk-suiattle"
+ },
+ "Kitsumkalum": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on kitsumkalum|kitsumkalum",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kitsumkalum"
+ },
+ "Gitxaała": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on gitxaa a|gitxaa a",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/gitxaala"
+ },
+ "Kitselas": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on kitselas|kitselas",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kitselas"
+ },
+ "Cuicuilco": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on cuicuilco|cuicuilco",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cuicuilco"
+ },
+ "Mountain Métis": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on mountain metis|mountain metis",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mountain-metis"
+ },
+ "Chukchansi": {
+  "primary": "picayune-rancheria-of-chukchansi-indians",
+  "allMatches": [
+   "picayune-rancheria-of-chukchansi-indians"
+  ],
+  "basis": "name match on chukchansi|chukchansi",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chukchansi"
+ },
+ "Quw’utsun": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on quw'utsun|quw'utsun",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/quwutsun"
+ },
+ "Halalt": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on halalt|halalt",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/halalt"
+ },
+ "Ts’uubaa-asatx": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on ts'uubaa asatx|ts'uubaa asatx",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tsuubaa-asatx"
+ },
+ "Pauquunaukit (Pokanoket)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on pokanoket|pokanoket|pauquunaukit|pauquunaukit",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pokanoket"
+ },
+ "Qwû’lh-hwai-pûm (Klickitat)": {
+  "primary": "confederated-tribes-and-bands-of-the-yakama-nation",
+  "allMatches": [
+   "confederated-tribes-and-bands-of-the-yakama-nation"
+  ],
+  "basis": "manual: Klickitat in Yakama",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/qwulh-hwai-pum-klickitat"
+ },
+ "Doeg": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on doeg|doeg",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/doeg"
+ },
+ "Apalachees": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on apalachees|apalachees",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/apalachees"
+ },
+ "Tayoroniku (Tunica)": {
+  "primary": "tunica-biloxi-indian-tribe",
+  "allMatches": [
+   "tunica-biloxi-indian-tribe"
+  ],
+  "basis": "name match on tunica|tunica|tayoroniku|tayoroniku",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tayoroniku"
+ },
+ "Caldwell": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on caldwell|caldwell",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/caldwell"
+ },
+ "Pee Dee": {
+  "primary": "pee-dee-indian-nation-of-upper-south-carolina",
+  "allMatches": [
+   "pee-dee-indian-nation-of-upper-south-carolina",
+   "pee-dee-indian-tribe"
+  ],
+  "basis": "name match on pee dee|pee dee",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pee-dee"
+ },
+ "KiKiallus": {
+  "primary": "swinomish-indian-tribal-community",
+  "allMatches": [
+   "swinomish-indian-tribal-community"
+  ],
+  "basis": "manual: Swinomish",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kikiallus"
+ },
+ "Confederated Tribes of Siletz Indians": {
+  "primary": "confederated-tribes-of-siletz-indians-of-oregon",
+  "allMatches": [
+   "confederated-tribes-of-siletz-indians-of-oregon"
+  ],
+  "basis": "name match on confederated tribes of siletz indians|confederated tribes of siletz indians",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/confederated-tribes-of-siletz-indians"
+ },
+ "Biloxi": {
+  "primary": "tunica-biloxi-indian-tribe",
+  "allMatches": [
+   "tunica-biloxi-indian-tribe",
+   "bayou-lafourche-band-of-the-biloxi-chitimacha-confederation-of-muskogees",
+   "grand-caillou-dulac-band-of-the-biloxi-chitimacha-confederation-of-muskogees",
+   "isle-de-jean-charles-band-of-the-biloxi-chitimacha-confederation-of-muskogees"
+  ],
+  "basis": "manual: Biloxi",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/biloxi-2"
+ },
+ "Kl’bal Pom Wintu": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on kl'bal pom wintu|kl'bal pom wintu",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/klbal-pom-wintu"
+ },
+ "Nom Ti Pom Wintu": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nom ti pom wintu|nom ti pom wintu",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nom-ti-pom-wintu"
+ },
+ "Nom Sus Wintu": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nom sus wintu|nom sus wintu",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nom-sus-wintu"
+ },
+ "Vanyumé": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on vanyume|vanyume",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/vanyume"
+ },
+ "Mount Tabor Indian Community": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on mount tabor indian community|mount tabor indian community",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mount-tabor-indian-community"
+ },
+ "Nor Rel Muk Wintu": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nor rel muk wintu|nor rel muk wintu",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nor-rel-muk-wintu"
+ },
+ "El Pom Wintu": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on el pom wintu|el pom wintu",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/el-pom-wintu"
+ },
+ "Waymaq": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on waymaq|waymaq",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/waymaq"
+ },
+ "Dau Pom Wintu": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on dau pom wintu|dau pom wintu",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/dau-pom-wintu"
+ },
+ "Dau Nom Wintu": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on dau nom wintu|dau nom wintu",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/dau-nom-wintu"
+ },
+ "Confederated Villages of Lisjan": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on confederated villages of lisjan|confederated villages of lisjan",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/confederated-villages-of-lisjan"
+ },
+ "Steilacoom": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on steilacoom|steilacoom",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/steilacoom"
+ },
+ "Plains Miwok": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on plains miwok|plains miwok",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/plains-miwok-3"
+ },
+ "Niúachi": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on niuachi|niuachi",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/niuachi"
+ },
+ "Koasati (Coushatta)": {
+  "primary": "coushatta-tribe-of-louisiana",
+  "allMatches": [
+   "alabama-coushatta-tribe-of-texas",
+   "coushatta-tribe-of-louisiana"
+  ],
+  "basis": "name match on coushatta|coushatta|koasati|koasati",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/koasati-coushatta"
+ },
+ "Alabama": {
+  "primary": "alabama-coushatta-tribe-of-texas",
+  "allMatches": [
+   "alabama-coushatta-tribe-of-texas",
+   "alabama-quassarte-tribal-town"
+  ],
+  "basis": "manual: Alabama people",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/alabama-2"
+ },
+ "Piro": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on piro|piro",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/piro"
+ },
+ "Lax Kw’Alaams": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on lax kw'alaams|lax kw'alaams",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/lax-kwalaams"
+ },
+ "Snaw-naw-as": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on snaw naw as|snaw naw as",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/snaw-naw-as"
+ },
+ "Piro/Manso/Tiwa Tribe": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on piro manso tiwa tribe|piro|manso|tiwa tribe",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/piro-manso-tiwa-tribe"
+ },
+ "Confederated Tribes of the Colville Reservation": {
+  "primary": "confederated-tribes-of-the-colville-reservation",
+  "allMatches": [
+   "confederated-tribes-of-the-colville-reservation"
+  ],
+  "basis": "name match on confederated tribes of the colville reservation|confederated tribes of the colville reservation",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/confederated-tribes-of-the-colville-reservation"
+ },
+ "Liǧʷiłdax̌ʷ": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on ligwi daxw|ligwi daxw",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/lig%ca%b7ildax%ca%b7"
+ },
+ "Schaghticoke": {
+  "primary": "schaghticoke-tribal-nation",
+  "allMatches": [
+   "schaghticoke-tribal-nation"
+  ],
+  "basis": "name match on schaghticoke|schaghticoke",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/schaghticoke"
+ },
+ "Agawam": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on agawam|agawam",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/agawam"
+ },
+ "Naumkeag": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on naumkeag|naumkeag",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/naumkeag"
+ },
+ "Kwiakah": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on kwiakah|kwiakah",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kwiakah"
+ },
+ "Patuxet": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on patuxet|patuxet",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/patuxet"
+ },
+ "Matlatzinca": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on matlatzinca|matlatzinca",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/matlatzinca"
+ },
+ "Tlahuica": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tlahuica|tlahuica",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tlahuica"
+ },
+ "Ézá’r (Chichimeco Jonaz)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on chichimeco jonaz|chichimeco jonaz|eza'r|eza'r",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/ezar-chichimeco-jonaz"
+ },
+ "Xi úi (Pame)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on pame|pame|xi ui|xi ui",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/xi-ui-pame"
+ },
+ "Nonotuck": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nonotuck|nonotuck",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/nonotuck"
+ },
+ "Sc’ianew": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on sc'ianew|sc'ianew",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/scianew"
+ },
+ "Yabaham (Cuicateco)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on cuicateco|cuicateco|yabaham|yabaham",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/yabaham-cuicateco"
+ },
+ "Acaxee": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on acaxee|acaxee",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/acaxee"
+ },
+ "Matapeake": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on matapeake|matapeake",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/matapeake"
+ },
+ "Choptank": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on choptank|choptank",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/choptank"
+ },
+ "Annemessex": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on annemessex|annemessex",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/annemessex"
+ },
+ "Wicomico": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on wicomico|wicomico",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/wicomico"
+ },
+ "Manokin": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on manokin|manokin",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/manokin"
+ },
+ "Tockwogh": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tockwogh|tockwogh",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tockwogh"
+ },
+ "Ozinie": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on ozinie|ozinie",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/ozinie"
+ },
+ "Chincoteague": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on chincoteague|chincoteague",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chincoteague"
+ },
+ "Transquaking": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on transquaking|transquaking",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/transquaking"
+ },
+ "Mascogo": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on mascogo|mascogo",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mascogo"
+ },
+ "Ku’ahl": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on ku'ahl|ku'ahl",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kuahl"
+ },
+ "Pensacola": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on pensacola|pensacola",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pensacola-2"
+ },
+ "Chatot": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on chatot|chatot",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chatot-2"
+ },
+ "Ofo": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on ofo|ofo",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/ofo-2"
+ },
+ "Hitchiti": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on hitchiti|hitchiti",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/hitchiti"
+ },
+ "Washa": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on washa|washa",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/washa"
+ },
+ "Pascagoula": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on pascagoula|pascagoula",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pascagoula"
+ },
+ "Guale": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on guale|guale",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/guale-2"
+ },
+ "Grigra": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on grigra|grigra",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/grigra"
+ },
+ "Acolapissa": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on acolapissa|acolapissa",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/acolapissa"
+ },
+ "Chawasha": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on chawasha|chawasha",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chawasha"
+ },
+ "Tioux": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tioux|tioux",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tioux"
+ },
+ "Koroa": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on koroa|koroa",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/koroa"
+ },
+ "Yazoo": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on yazoo|yazoo",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/yazoo"
+ },
+ "Anishininiimowin (Oji-Cree)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on oji cree|oji cree|anishininiimowin|anishininiimowin",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/oji-cree"
+ },
+ "Janambre": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on janambre|janambre",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/janambre"
+ },
+ "Okelousa": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on okelousa|okelousa",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/okelousa"
+ },
+ "Pisones": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on pisones|pisones",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pisones"
+ },
+ "Maratines": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on maratines|maratines",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/maratines"
+ },
+ "Pasitas": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on pasitas|pasitas",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pasitas"
+ },
+ "Bayagoula": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on bayagoula|bayagoula",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/bayagoula"
+ },
+ "Pasitas (del norte)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on del norte|del norte|pasitas|pasitas",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pasitas-del-norte"
+ },
+ "Mariguanes": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on mariguanes|mariguanes",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/mariguanes"
+ },
+ "Tepemacas": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tepemacas|tepemacas",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tepemacas"
+ },
+ "Tagualilos": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on tagualilos|tagualilos",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/tagualilos"
+ },
+ "Panguays": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on panguays|panguays",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/panguays"
+ },
+ "Saraguayes": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on saraguayes|saraguayes",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/saraguayes"
+ },
+ "Pasitas (del sur)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on del sur|del sur|pasitas|pasitas",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/pasitas-del-sur"
+ },
+ "Truenos": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on truenos|truenos",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/truenos"
+ },
+ "Garzas": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on garzas|garzas",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/garzas"
+ },
+ "Avoyel": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on avoyel|avoyel",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/avoyel"
+ },
+ "Yatasi": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on yatasi|yatasi",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/yatasi"
+ },
+ "Adai": {
+  "primary": "addai-caddo-tribe",
+  "allMatches": [
+   "addai-caddo-tribe"
+  ],
+  "basis": "name match on adai|adai",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/adai"
+ },
+ "Taensa": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on taensa|taensa",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/taensa"
+ },
+ "Nadut’en": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nadut'en|nadut'en",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/naduten"
+ },
+ "Patuxent": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on patuxent|patuxent",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/patuxent"
+ },
+ "Okchai": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on okchai|okchai",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/okchai"
+ },
+ "Chakchiuma": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on chakchiuma|chakchiuma",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chakchiuma-2"
+ },
+ "Cometunas": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on cometunas|cometunas",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/cometunas"
+ },
+ "Bocasprietas": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on bocasprietas|bocasprietas",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/bocasprietas"
+ },
+ "Comepescados": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on comepescados|comepescados",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/comepescados"
+ },
+ "Kalaallit Nunaat": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on kalaallit nunaat|kalaallit nunaat",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/kalaallit-nunaat"
+ },
+ "Malpucanos": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on malpucanos|malpucanos",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/malpucanos"
+ },
+ "Olives": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on olives|olives",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/olives"
+ },
+ "Comecamotes": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on comecamotes|comecamotes",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/comecamotes"
+ },
+ "Chupícuaro": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on chupicuaro|chupicuaro",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/chupicuaro"
+ },
+ "ᓄᓇᕗᑦ (Nunavut)": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on nunavut|nunavut",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/(nunavut)"
+ },
+ "North Slave Métis Alliance": {
+  "primary": null,
+  "allMatches": [],
+  "basis": "name match on north slave metis alliance|north slave metis alliance",
+  "nativeLandUrl": "https://native-land.ca/listings/territories/north-slave-metis-alliance"
+ }
+}

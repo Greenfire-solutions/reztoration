@@ -1,0 +1,44 @@
+{
+  "id": "kappler-900",
+  "name": "Treaty with the Comanche and Kiowa, 1865 (Treaty of the Little Arkansas)",
+  "aka": ["Little Arkansas Treaty with the Comanche and Kiowa"],
+  "signed": "1865-10-18",
+  "ratified": "1866-05-22",
+  "proclaimed": "1866-05-26",
+  "citation": "14 Stat. 717",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-comanche-and-kiowa-1865-0892",
+  "nations": ["Cáuigú (Kiowa)", "Nʉmʉnʉʉ (Comanche)", "Plains Apache (brought in by the companion treaty of October 17, 1865)"],
+  "promises": [
+    "Article 2 set apart a large district between the northeast corner of New Mexico, the Red River, the 98th meridian, the Cimarron and the Kansas line for the nations' 'absolute and undisturbed use and occupation', closed to white settlement, though the President could designate only a portion of it.",
+    "Article 2: in return the nations gave up their claims outside it, especially north of the Cimarron and west of New Mexico's eastern line.",
+    "Article 4: compensation, as Congress judged just, for injury from roads or military posts built through the reservation.",
+    "Article 5 (as summarised from the text): yearly spending for forty years for the nations' benefit."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "litigation",
+      "date": "1974-07-17",
+      "what": "The Indian Claims Commission held in 1971 that this treaty gave the Kiowa, Comanche and Apache recognised title to the area in Article 2, about 39,630,000 acres (Royce Areas 510 and 511), and noted that the 1867 Medicine Lodge treaty superseded it and greatly reduced the area. Before any finding on the consideration paid, the claims (Dockets 257 and 259-A) were settled by a $35,060,000 compromise.",
+      "whoFoundIt": "Indian Claims Commission, Docket 257, 26 Ind. Cl. Comm. 101 (1971); Dockets 257 and 259-A, 34 Ind. Cl. Comm. 263 (1974)",
+      "source": { "title": "Kiowa, Comanche and Apache Tribes v. United States, Dockets 257 and 259-A, Findings of Fact on Compromise Settlement (1974), 34 Ind. Cl. Comm. 263", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2668", "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions" }
+    }
+  ],
+  "landTaken": "About 39,630,000 acres in north-western Texas and western Oklahoma were recognised by this treaty (Royce Areas 510 and 511, ICC 1971); most was given up under the Medicine Lodge treaty of 1867.",
+  "compensation": "A $35,060,000 compromise judgment in 1974 for Dockets 257 and 259-A, accepted by the Kiowa, Comanche and Apache.",
+  "today": "The later breaches of the Medicine Lodge reservation (the Jerome Agreement and Lone Wolf v. Hitchcock) are recorded under kappler-985 and kappler-990.",
+  "nationVoice": [],
+  "sources": [
+    { "title": "Treaty with the Comanche and Kiowa, 1865 (Kappler, vol. 2, p. 892)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-comanche-and-kiowa-1865-0892", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
+    { "title": "Kiowa, Comanche and Apache Tribes v. United States, Docket 257, Opinion on Motion for Summary Judgment of Recognized Title (1971), 26 Ind. Cl. Comm. 101", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2332", "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions" },
+    { "title": "Kiowa, Comanche and Apache Tribes v. United States, Dockets 257 and 259-A, Findings of Fact on Compromise Settlement (1974), 34 Ind. Cl. Comm. 263", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2668", "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions" },
+    { "title": "Kiowa, Comanche and Apache Tribes v. United States, Order of Consolidation and Final Award (1974)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2003", "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions" }
+  ],
+  "openQuestions": [
+    "Part of the Article 2 district lay in Texas, where the United States held no public land; whether that made the promise impossible to keep was not settled by any source opened.",
+    "No Kiowa Tribe or Comanche Nation page on this treaty was found or opened.",
+    "The 1971 opinion also discusses the Wichita as intervenors in the same area; see cession-1872-10-19-wichita if researched."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

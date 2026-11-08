@@ -1,0 +1,893 @@
+[
+ {
+  "id": "mazaska-owecaso-otipi-financial",
+  "name": "Mazaska Owecaso Otipi Financial",
+  "category": "finance",
+  "subcategory": "Native CDFI: home loans and homebuyer education",
+  "nation": "Oglala Sioux Tribe",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Mazaska Owecaso Otipi Financial: home",
+   "url": "https://www.mazaskacdfi.org/"
+  },
+  "description": "Pine Ridge lender that helps Oglala Lakota families buy, build and repair homes, with homebuyer coaching along the way.",
+  "website": "https://www.mazaskacdfi.org/",
+  "city": "Pine Ridge",
+  "state": "SD",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Mazaska Owecaso Otipi Financial: home",
+    "url": "https://www.mazaskacdfi.org/"
+   },
+   {
+    "title": "Northwest Area Foundation: Native CDFIs in the Upper Midwest",
+    "url": "https://www.nwaf.org/wp-content/uploads/2021/10/NativeCDFIs-List-102021.pdf"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -102.5523,
+   43.0284
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "nacdc-financial-services",
+  "name": "NACDC Financial Services",
+  "category": "finance",
+  "subcategory": "Native CDFI: business, home and credit-builder loans",
+  "nation": "Blackfeet Nation",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "NACDC Financial Services: about",
+   "url": "https://www.nacdcfinancialservices.com/"
+  },
+  "description": "Nonprofit lender on the Blackfeet Reservation financing Native entrepreneurs, homebuyers and people rebuilding credit.",
+  "website": "https://www.nacdcfinancialservices.com/",
+  "address": "201 N Piegan St",
+  "city": "Browning",
+  "state": "MT",
+  "zip": "59417",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "NACDC Financial Services: about",
+    "url": "https://www.nacdcfinancialservices.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -113.0135,
+   48.5526
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "nixyaawii-community-financial-services",
+  "name": "Nixyaawii Community Financial Services",
+  "category": "finance",
+  "subcategory": "Native CDFI: loans, homeownership and business help",
+  "nation": "Confederated Tribes of the Umatilla Indian Reservation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "CTUIR: Nixyaawii Community Financial Services",
+   "url": "https://ctuir.org/tribal-enterprises/nixyaawii-community-financial-services/"
+  },
+  "description": "Umatilla tribal lender joining home buying, business development and consumer loans in one office near Pendleton; also runs a food truck park.",
+  "website": "https://www.nixyaawii-cdfi.org/",
+  "city": "Pendleton",
+  "state": "OR",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "CTUIR: Nixyaawii Community Financial Services",
+    "url": "https://ctuir.org/tribal-enterprises/nixyaawii-community-financial-services/"
+   },
+   {
+    "title": "NCFS: about us",
+    "url": "https://www.nixyaawii-cdfi.org/about-us"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -118.7886,
+   45.6721
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "northwest-native-development-fund",
+  "name": "Northwest Native Development Fund",
+  "category": "finance",
+  "subcategory": "Native CDFI: small business and consumer loans",
+  "nation": "Colville and Spokane reservation communities",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "CDFI Fund awardee profile: Northwest Native Development Fund (Native American CDFI Assistance award)",
+   "url": "https://www.cdfifund.gov/awards/state-awards/awardee-profile/101NA008530"
+  },
+  "description": "Lender in Coulee Dam backing Native-owned businesses and families on and around the Colville and Spokane reservations.",
+  "website": "https://thenndf.org/",
+  "city": "Coulee Dam",
+  "state": "WA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "CDFI Fund awardee profile: Northwest Native Development Fund (Native American CDFI Assistance award)",
+    "url": "https://www.cdfifund.gov/awards/state-awards/awardee-profile/101NA008530"
+   },
+   {
+    "title": "Northwest Area Foundation: Native CDFIs in the Upper Midwest",
+    "url": "https://www.nwaf.org/wp-content/uploads/2021/10/NativeCDFIs-List-102021.pdf"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -118.9759,
+   47.9664
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "salt-river-financial-services-institution",
+  "name": "Salt River Financial Services Institution",
+  "category": "finance",
+  "subcategory": "Native CDFI: mortgages, consumer loans and financial education",
+  "nation": "Salt River Pima-Maricopa Indian Community",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "SRPMIC: Salt River Financial Services Institution",
+   "url": "https://srpmic-nsn.gov/?p=205"
+  },
+  "description": "Community lender offering home loans, credit-builder loans and money classes to Salt River Pima-Maricopa members.",
+  "website": "https://srfsi.com/",
+  "address": "10005 E Osborn Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85256",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "SRPMIC: Salt River Financial Services Institution",
+    "url": "https://srpmic-nsn.gov/?p=205"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.8643,
+   33.4877
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "mvskoke-fund",
+  "name": "Mvskoke Fund",
+  "category": "finance",
+  "subcategory": "Native CDFI: micro-enterprise and consumer loans, business training",
+  "nation": "Muscogee (Creek) Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Muscogee Nation: Department of Commerce, Mvskoke Fund CDFI",
+   "url": "https://www.muscogeenation.com/department-of-commerce/"
+  },
+  "description": "The Muscogee Nation lending fund (formerly Mvskoke Loan Fund) making business and personal loans and running boot camps and free tax help.",
+  "website": "https://mvskokefund.com/",
+  "address": "1523 S Wood Dr",
+  "city": "Okmulgee",
+  "state": "OK",
+  "zip": "74447",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Muscogee Nation: Department of Commerce, Mvskoke Fund CDFI",
+    "url": "https://www.muscogeenation.com/department-of-commerce/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -95.9616,
+   35.6096
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "cherokee-nation-economic-development-trust-authority",
+  "name": "Cherokee Nation Economic Development Trust Authority",
+  "category": "finance",
+  "subcategory": "Native CDFI: commercial, small business and consumer loans",
+  "nation": "Cherokee Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Cherokee Nation: loan programs",
+   "url": "https://cherokee.gov/departments/commerce-services/loan-programs/"
+  },
+  "description": "Cherokee Nation lending arm (CNEDTA) making business, micro and consumer loans across the reservation's 14 counties.",
+  "website": "https://cherokee.gov/departments/commerce-services/loan-programs/",
+  "city": "Tahlequah",
+  "state": "OK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Cherokee Nation: loan programs",
+    "url": "https://cherokee.gov/departments/commerce-services/loan-programs/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -94.97,
+   35.9154
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "alaska-growth-capital",
+  "name": "Alaska Growth Capital",
+  "category": "finance",
+  "subcategory": "Native CDFI and business lender (BIDCO)",
+  "nation": "Bristol Bay Native Corporation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Alaska Growth Capital: footer, \"A Bristol Bay Native Corporation company\"",
+   "url": "https://www.alaskagrowth.com/"
+  },
+  "description": "Anchorage business lender, formerly an Arctic Slope Regional Corporation subsidiary and now a Bristol Bay Native Corporation company, financing rural and Alaska Native businesses.",
+  "website": "https://www.alaskagrowth.com/",
+  "address": "3900 C St",
+  "city": "Anchorage",
+  "state": "AK",
+  "zip": "99503",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Alaska Growth Capital: footer, \"A Bristol Bay Native Corporation company\"",
+    "url": "https://www.alaskagrowth.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -149.8867,
+   61.1864
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "cook-inlet-lending-center",
+  "name": "Cook Inlet Lending Center",
+  "category": "finance",
+  "subcategory": "Native CDFI: home, down payment and small business loans",
+  "nation": "Cook Inlet Housing Authority (Cook Inlet Region)",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Cook Inlet Lending Center: our story",
+   "url": "https://www.cookinletlending.com/about-us"
+  },
+  "description": "Lender started by Cook Inlet Housing Authority and certified as a Native CDFI, specialising in HUD 184 home loans and small business loans for Alaska Native borrowers.",
+  "website": "https://www.cookinletlending.com/",
+  "address": "3600 Spenard Rd",
+  "city": "Anchorage",
+  "state": "AK",
+  "zip": "99503",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Cook Inlet Lending Center: our story",
+    "url": "https://www.cookinletlending.com/about-us"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -149.9096,
+   61.1874
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "haa-yakaawu-financial-corporation",
+  "name": "Haa Yakaawu Financial Corporation",
+  "category": "finance",
+  "subcategory": "Native CDFI: home and small business loans in Southeast Alaska",
+  "nation": "Tlingit and Haida region",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "CDFI Fund awardee profile: Haa Yakaawu Financial Corporation (Native American CDFI Assistance award)",
+   "url": "https://www.cdfifund.gov/awards/state-awards/awardee-profile/241NA064981"
+  },
+  "description": "Juneau lender making below-market home loans and administering small business loans across Southeast Alaska.",
+  "city": "Juneau",
+  "state": "AK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "CDFI Fund awardee profile: Haa Yakaawu Financial Corporation (Native American CDFI Assistance award)",
+    "url": "https://www.cdfifund.gov/awards/state-awards/awardee-profile/241NA064981"
+   },
+   {
+    "title": "Wrangell Sentinel: loan program could help residents build",
+    "url": "https://www.wrangellsentinel.com/story/2024/05/29/news/loan-program-could-help-residents-who-want-to-build-on-subdivision-lots/13282.html"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -134.4197,
+   58.302
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "chehalis-tribal-loan-fund",
+  "name": "Chehalis Tribal Loan Fund",
+  "category": "finance",
+  "subcategory": "Native CDFI: consumer, home improvement and member loans",
+  "nation": "Confederated Tribes of the Chehalis Reservation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chehalis Tribe: Chehalis Tribal Loan Fund",
+   "url": "https://www.chehalistribe.org/businesses/chehalis-tribal-loan-fund/"
+  },
+  "description": "Loan fund set up by the Chehalis Tribe in 2007, offering consumer and home improvement loans plus financial coaching.",
+  "website": "https://www.chehalistribe.org/businesses/chehalis-tribal-loan-fund/",
+  "address": "420 Howanut Rd",
+  "city": "Oakville",
+  "state": "WA",
+  "zip": "98568",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chehalis Tribe: Chehalis Tribal Loan Fund",
+    "url": "https://www.chehalistribe.org/businesses/chehalis-tribal-loan-fund/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -123.1684,
+   46.8154
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "chickasaw-community-bank",
+  "name": "Chickasaw Community Bank",
+  "category": "finance",
+  "subcategory": "tribally owned full-service bank",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chickasaw Nation: Chickasaw Community Bank",
+   "url": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Community-Bank"
+  },
+  "description": "Full-service community bank owned by the Chickasaw Nation, with checking, savings, home loans and tribal housing lending.",
+  "website": "https://www.ccb.bank/",
+  "address": "7500 W Memorial Rd",
+  "city": "Oklahoma City",
+  "state": "OK",
+  "zip": "73142",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Nation: Chickasaw Community Bank",
+    "url": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Community-Bank"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -97.6453,
+   35.6091
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "cdfi-tohono-oodham-nation",
+  "name": "Community Development Financial Institution of the Tohono O'odham Nation",
+  "category": "finance",
+  "subcategory": "Native CDFI: small business and consumer loans",
+  "nation": "Tohono O'odham Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "CDFI Fund awardee profile: CDFI of the Tohono O'odham Nation (Native American CDFI Assistance award)",
+   "url": "https://www.cdfifund.gov/awards/state-awards/awardee-profile/151NA013761"
+  },
+  "description": "Sells-based lender making business and consumer loans to Tohono O'odham members and businesses on or near the Nation.",
+  "website": "https://cdfiton.org/",
+  "city": "Sells",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "CDFI Fund awardee profile: CDFI of the Tohono O'odham Nation (Native American CDFI Assistance award)",
+    "url": "https://www.cdfifund.gov/awards/state-awards/awardee-profile/151NA013761"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.878,
+   31.9159
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "first-nations-community-financial",
+  "name": "First Nations Community Financial",
+  "category": "finance",
+  "subcategory": "Native CDFI: home, business and credit-builder loans",
+  "nation": "Ho-Chunk Nation",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "First Nations Financial: home",
+   "url": "https://firstnationsfinancial.org/"
+  },
+  "description": "Black River Falls lender working with the Ho-Chunk Nation and its housing agency on mortgages, small business loans and financial coaching.",
+  "website": "https://firstnationsfinancial.org/",
+  "address": "206 Roosevelt Rd",
+  "city": "Black River Falls",
+  "state": "WI",
+  "zip": "54615",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "First Nations Financial: home",
+    "url": "https://firstnationsfinancial.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -90.8425,
+   44.2926
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "five-rivers-loan-fund",
+  "name": "Five Rivers Loan Fund",
+  "category": "finance",
+  "subcategory": "Native CDFI: emergency, personal, business and credit-builder loans",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "CDFI Fund awardee profile: Five Rivers Loan Fund (Native American CDFI Assistance award)",
+   "url": "https://www.cdfifund.gov/awards/state-awards/awardee-profile/231NA064591"
+  },
+  "description": "Native-led lender (formerly Karuk Community Loan Fund) serving tribal members and small businesses along the Klamath and Scott rivers.",
+  "website": "https://5rlf.org/",
+  "city": "Yreka",
+  "state": "CA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "CDFI Fund awardee profile: Five Rivers Loan Fund (Native American CDFI Assistance award)",
+    "url": "https://www.cdfifund.gov/awards/state-awards/awardee-profile/231NA064591"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -122.6378,
+   41.7326
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "four-directions-development-corporation",
+  "name": "Four Directions Development Corporation",
+  "category": "finance",
+  "subcategory": "Native CDFI: home, business and community development loans",
+  "nation": "Maliseet, Mi'kmaq, Passamaquoddy and Penobscot (Wabanaki)",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Four Directions Development Corporation: our mission",
+   "url": "https://fourdirectionsmaine.org/"
+  },
+  "description": "Wabanaki lender in Maine making home, small business and community loans and running a Native artisan grant and cultural tourism work.",
+  "website": "https://fourdirectionsmaine.org/",
+  "city": "Orono",
+  "state": "ME",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Four Directions Development Corporation: our mission",
+    "url": "https://fourdirectionsmaine.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -68.6728,
+   44.8836
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "woodland-financial-partners",
+  "name": "Woodland Financial Partners",
+  "category": "finance",
+  "subcategory": "Native CDFI: business and agricultural loans",
+  "nation": "Menominee Indian Tribe of Wisconsin (serves all 11 Wisconsin tribes)",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Woodland Financial Partners: home",
+   "url": "https://woodlandfinancial.org/"
+  },
+  "description": "Keshena lender financing Native entrepreneurs and farmers from Wisconsin's 11 tribes, with training and technical help.",
+  "website": "https://woodlandfinancial.org/",
+  "address": "N559 Library Rd",
+  "city": "Keshena",
+  "state": "WI",
+  "zip": "54135",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Woodland Financial Partners: home",
+    "url": "https://woodlandfinancial.org/"
+   },
+   {
+    "title": "CDFI Fund awardee profile: Woodland Financial Partners (Native American CDFI Assistance award)",
+    "url": "https://www.cdfifund.gov/awards/state-awards/awardee-profile/071NA007165"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -88.6243,
+   44.8729
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "first-american-capital-corporation",
+  "name": "First American Capital Corporation",
+  "category": "finance",
+  "subcategory": "Native CDFI and SBA microlender",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "First American Capital Corporation: about",
+   "url": "https://faccwi.org/"
+  },
+  "description": "Formed by the American Indian Chamber of Commerce of Wisconsin, the first Native CDFI in the state, lending to Native-owned businesses.",
+  "website": "https://faccwi.org/",
+  "address": "10710 W Scharles Ave",
+  "city": "Hales Corners",
+  "state": "WI",
+  "zip": "53130",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "First American Capital Corporation: about",
+    "url": "https://faccwi.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -88.0468,
+   42.9398
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "indian-land-capital-company",
+  "name": "Indian Land Capital Company",
+  "category": "finance",
+  "subcategory": "Native CDFI: tribal land recovery loans",
+  "nation": "Native-owned; lends to Native nations nationwide",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Indian Land Capital Company: home",
+   "url": "https://www.ilcc.net/"
+  },
+  "description": "Native-owned lender that finances tribes buying back land within and near their reservations.",
+  "website": "https://www.ilcc.net/",
+  "city": "Little Canada",
+  "state": "MN",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indian Land Capital Company: home",
+    "url": "https://www.ilcc.net/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -93.0877,
+   45.0269
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "wind-river-development-fund",
+  "name": "Wind River Development Fund",
+  "category": "finance",
+  "subcategory": "Native CDFI: business and agricultural loans",
+  "nation": "Eastern Shoshone and Northern Arapaho (Wind River Reservation)",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Wind River Development Fund: our mission",
+   "url": "https://wrdf.org/"
+  },
+  "description": "Lender for entrepreneurs and ranchers on and near the Wind River Reservation, with business training and meeting space.",
+  "website": "https://wrdf.org/",
+  "city": "Fort Washakie",
+  "state": "WY",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Wind River Development Fund: our mission",
+    "url": "https://wrdf.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -108.8812,
+   43.0039
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "white-earth-investment-initiative",
+  "name": "White Earth Investment Initiative",
+  "category": "finance",
+  "subcategory": "Native CDFI: business, home and consumer loans",
+  "nation": "White Earth Nation",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "White Earth Investment Initiative: home",
+   "url": "https://www.weii.website/"
+  },
+  "description": "Lender for White Earth tribal members and descendants offering business, home and consumer loans, homebuyer classes and free tax help.",
+  "website": "https://www.weii.website/",
+  "city": "Ogema",
+  "state": "MN",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "White Earth Investment Initiative: home",
+    "url": "https://www.weii.website/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -95.9255,
+   47.1041
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "pacific-northwest-tribal-lending",
+  "name": "Pacific Northwest Tribal Lending",
+  "category": "finance",
+  "subcategory": "Native CDFI: business loans and credit building",
+  "nation": "Lummi Nation (formerly Lummi CDFI)",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Pacific Northwest Tribal Lending: about",
+   "url": "https://pntl.org/"
+  },
+  "description": "Native CDFI, formerly Lummi CDFI, lending to Native entrepreneurs across northwest Washington.",
+  "website": "https://pntl.org/",
+  "address": "12 Bellwether Way",
+  "city": "Bellingham",
+  "state": "WA",
+  "zip": "98225",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Pacific Northwest Tribal Lending: about",
+    "url": "https://pntl.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -122.496,
+   48.7542
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "native-american-development-center",
+  "name": "Native American Development Center",
+  "category": "finance",
+  "subcategory": "Native CDFI: credit-builder and micro-business loans",
+  "nation": "North Dakota tribes",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "NADC: about us",
+   "url": "https://www.ndnativecenter.org/about"
+  },
+  "description": "Bismarck lender with an all-Native board making credit-builder and small business loans to Native people across North Dakota.",
+  "website": "https://www.ndnativecenter.org/",
+  "city": "Bismarck",
+  "state": "ND",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "NADC: about us",
+    "url": "https://www.ndnativecenter.org/about"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -100.7837,
+   46.8083
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "native-american-development-corporation",
+  "name": "Native American Development Corporation",
+  "category": "finance",
+  "subcategory": "Native CDFI: business support and loans",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "NADC Billings: about",
+   "url": "https://nadc-nabn.org/"
+  },
+  "description": "Billings organization that has backed Native businesses in Montana, Wyoming and the Dakotas for nearly 30 years with loans and coaching.",
+  "website": "https://nadc-nabn.org/",
+  "city": "Billings",
+  "state": "MT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "NADC Billings: about",
+    "url": "https://nadc-nabn.org/"
+   },
+   {
+    "title": "CDFI Fund awardee profile: Native American Development Corporation",
+    "url": "https://www.cdfifund.gov/awards/state-awards/awardee-profile/21RRP057549"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -108.4961,
+   45.7875
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "people-s-partner-for-community-development",
+  "name": "People's Partner for Community Development",
+  "category": "finance",
+  "subcategory": "Native CDFI: loans, credit building and social enterprises",
+  "nation": "Northern Cheyenne Tribe",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "PPCD: home",
+   "url": "https://www.peoplespartners.org/"
+  },
+  "description": "Native-led lender on the Northern Cheyenne Reservation that also runs Warrior Meat, Warrior Grocery and sponsored the Morning Star credit union.",
+  "website": "https://www.peoplespartners.org/",
+  "address": "509 Cheyenne Ave S",
+  "city": "Lame Deer",
+  "state": "MT",
+  "zip": "59043",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "PPCD: home",
+    "url": "https://www.peoplespartners.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -106.6622,
+   45.6176
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "tatanka-funds",
+  "name": "Tatanka Funds",
+  "category": "finance",
+  "subcategory": "emerging Native CDFI: business coaching and homeownership",
+  "nation": "Sicangu Lakota (Rosebud Sioux Tribe)",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Tatanka Funds: about us",
+   "url": "https://www.tatankafunds.org/"
+  },
+  "description": "Rosebud lender and coach helping Sicangu Lakota people start businesses, manage money and buy homes.",
+  "website": "https://www.tatankafunds.org/",
+  "address": "27565 Research Dr",
+  "city": "Mission",
+  "state": "SD",
+  "zip": "57555",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Tatanka Funds: about us",
+    "url": "https://www.tatankafunds.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -100.6582,
+   43.3058
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "lakota-federal-credit-union",
+  "name": "Lakota Federal Credit Union",
+  "category": "finance",
+  "subcategory": "credit union on the Pine Ridge Reservation",
+  "nation": "Oglala Sioux Tribe",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Lakota FCU: about, history",
+   "url": "https://lakotafcu.com/about-lfcu"
+  },
+  "description": "The first federally insured financial institution on Pine Ridge, started by community leaders with Lakota Funds to give Oglala Lakota people a bank of their own.",
+  "website": "https://lakotafcu.com/",
+  "city": "Kyle",
+  "state": "SD",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Lakota FCU: about, history",
+    "url": "https://lakotafcu.com/about-lfcu"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -102.1765,
+   43.425
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "jamestown-s-klallam-tribal-capital",
+  "name": "Jamestown S'Klallam Tribal Capital",
+  "category": "finance",
+  "subcategory": "Native CDFI: revolving loan fund",
+  "nation": "Jamestown S'Klallam Tribe",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "CDFI Fund awardee profile: Jamestown S'Klallam Tribal Capital (Native American CDFI Assistance award)",
+   "url": "https://www.cdfifund.gov/awards/state-awards/awardee-profile/201NA054403"
+  },
+  "description": "Revolving loan fund set up through the Jamestown S'Klallam Tribe's economic development authority to lend to underserved borrowers on the Olympic Peninsula.",
+  "website": "https://jamestowncapital.org/",
+  "city": "Sequim",
+  "state": "WA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "CDFI Fund awardee profile: Jamestown S'Klallam Tribal Capital (Native American CDFI Assistance award)",
+    "url": "https://www.cdfifund.gov/awards/state-awards/awardee-profile/201NA054403"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -123.1097,
+   48.0849
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "navajo-cdfi",
+  "name": "Navajo CDFI",
+  "category": "finance",
+  "subcategory": "Native CDFI: small business loans",
+  "nation": "Navajo Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Navajo CDFI: home, \"incorporated under the Navajo Nation Corporation\"",
+   "url": "https://www.navajocdfi.com/"
+  },
+  "description": "Window Rock lender incorporated under Navajo Nation law that finances small businesses on the Navajo Nation.",
+  "website": "https://www.navajocdfi.com/",
+  "city": "Window Rock",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Navajo CDFI: home, \"incorporated under the Navajo Nation Corporation\"",
+    "url": "https://www.navajocdfi.com/"
+   },
+   {
+    "title": "CDFI Fund awardee profile: Navajo CDFI",
+    "url": "https://www.cdfifund.gov/awards/state-awards/awardee-profile/221NA060475"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -109.0581,
+   35.6763
+  ],
+  "lonlatPrecision": "town"
+ }
+]

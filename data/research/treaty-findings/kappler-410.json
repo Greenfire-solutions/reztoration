@@ -1,0 +1,109 @@
+{
+  "id": "kappler-410",
+  "name": "Treaty with the Chippewa, etc., 1833 (Treaty of Chicago)",
+  "aka": [
+    "1833 Treaty of Chicago",
+    "Treaty with the United Nation of Chippewa, Ottawa and Potawatomi"
+  ],
+  "signed": "1833-09-26",
+  "proclaimed": "1835-02-21",
+  "citation": "7 Stat. 431 (Articles Supplementary of September 27, 1833: 7 Stat. 442)",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-etc-1833-0402",
+  "nations": [
+    "Bodéwadmi (Potawatomi)",
+    "Anishinaabe (Ojibwe/Chippewa)",
+    "Odawa (Ottawa)"
+  ],
+  "promises": [
+    "A tract of not less than five million acres west of the Mississippi, beginning at the mouth of Boyer's River on the east side of the Missouri, held as other Indian lands are held (Article 2), with boundaries the Senate later had altered by the chiefs' agreement of October 1, 1834.",
+    "Removal at US expense, with subsistence on the journey and for one year after arrival, and three more years under US protection for those living north of the Illinois boundary (Article 2).",
+    "$280,000 in annuities ($14,000 a year for 20 years), $150,000 for mills, houses, shops and farm improvements, $70,000 for education, $100,000 in goods and provisions, and $100,000 for refused reservation claims and to indemnify the Chippewa for Lake Michigan shore lands ceded by the Menominee (Article 3).",
+    "$150,000 to pay claims against the nation, examined by a commissioner under the Senate's amendment (Article 3)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1976-05-26",
+      "what": "The Indian Claims Commission found that the 5,220,868 acres ceded under this treaty and its supplementary articles were worth $6,600,000 in 1835, that the United States paid less than $3,000,000 in all including the Iowa exchange land, held the consideration unconscionable and awarded $4,239,200.",
+      "whoFoundIt": "Indian Claims Commission, Prairie Band of the Pottawatomie Tribe et al. v. United States, Dockets 15-C, 29-A and 71, 38 Ind. Cl. Comm. 128 (interlocutory order, 26 May 1976; final award, 23 June 1976)",
+      "source": {
+        "title": "Prairie Band of the Pottawatomie Tribe et al. v. United States, Dockets 15-C, 29-A, 71, Interlocutory Order (May 26, 1976)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1764",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "so inadequate as to constitute unconscionable consideration"
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1837-03-28",
+      "what": "The Citizen Potawatomi Nation's Cultural Heritage Center records that many removed under this treaty settled on the Platte Purchase in Missouri, were pressed to leave by agents and settlers, and were evicted by presidential proclamation in 1837, then faced pressure at Council Bluffs to move farther west.",
+      "whoFoundIt": "Citizen Potawatomi Nation Cultural Heritage Center, Potawatomi Heritage encyclopedia",
+      "source": {
+        "title": "Platte Purchase, Missouri",
+        "url": "https://www.potawatomiheritage.com/encyclopedia/platte-purchase-missouri/",
+        "publisher": "Citizen Potawatomi Nation"
+      }
+    }
+  ],
+  "landTaken": "5,115,908 acres in Wisconsin and Illinois and 104,960 acres in southwestern Michigan, 5,220,868 acres in all, under this treaty and the Articles Supplementary of 27 September 1833 (ICC interlocutory order, 26 May 1976). The Royce areas are 187, part of 160, and 188, 189 and 190 (38 Ind. Cl. Comm. 128).",
+  "compensation": "The ICC credited the United States with $1,500,000 for the Iowa exchange tract and $860,800 in other payments, excluding $516,606.65 spent on food, rations and provisions, and on 23 June 1976 entered a final award of $4,239,200 for the Potawatomi Tribe or Nation in Dockets 15-C, 29-A and 71 (final award, 38 Ind. Cl. Comm. 389).",
+  "today": "The plaintiffs who shared the award included the Prairie Band Potawatomi Nation, the Hannahville Indian Community and the Citizen Potawatomi Nation. The five-million-acre Iowa tract was itself ceded under the treaty of 1846; that is a separate queue entry (kappler-565).",
+  "nationVoice": [
+    {
+      "nation": "Citizen Potawatomi Nation",
+      "summary": "The Nation's heritage encyclopedia says the treaty sent the Potawatomi to a reserve near Council Bluffs, that many first settled on the Platte Purchase and were evicted in 1837, and that at Council Bluffs they again faced pressure to move west.",
+      "url": "https://www.potawatomiheritage.com/encyclopedia/platte-purchase-missouri/"
+    },
+    {
+      "nation": "Forest County Potawatomi Community",
+      "summary": "The Community's cultural preservation pages publish the full text of the treaty of 26 September 1833.",
+      "url": "https://www.fcpotawatomi.com/cultural-preservation/treaties/september-26-1833/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Chippewa, etc., 1833 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-etc-1833-0402",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Prairie Band v. United States, Opinion of the Commission, Part 1 (May 26, 1976)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2371",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Prairie Band v. United States, Opinion of the Commission, Part 2 (May 26, 1976)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1272",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Prairie Band v. United States, Interlocutory Order (May 26, 1976)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1764",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Prairie Band v. United States, Final Award (June 23, 1976)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2220",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "September 26, 1833 (treaty text)",
+      "url": "https://www.fcpotawatomi.com/cultural-preservation/treaties/september-26-1833/",
+      "publisher": "Forest County Potawatomi Community"
+    },
+    {
+      "title": "Platte Purchase, Missouri",
+      "url": "https://www.potawatomiheritage.com/encyclopedia/platte-purchase-missouri/",
+      "publisher": "Citizen Potawatomi Nation"
+    }
+  ],
+  "openQuestions": [
+    "The ICC award was to the Potawatomi Tribe or Nation; whether the Ojibwe and Odawa signers had separate claims for this cession was not checked (the 1962-1965 Docket 217 records may bear on it).",
+    "Removal of the Wisconsin and Illinois Potawatomi to the west was incomplete; the later history of those who stayed (Forest County Potawatomi, Pokagon Band under the supplementary articles) is not covered here.",
+    "The ICC found the 1835 valuation date from the proclamation date of 21 February 1835; the Commission text also says the cession was effective that day.",
+    "Audit 2026-11-07: all ICC figures re-read and confirmed (OSU ids 1764, 2220, 1272: 5,115,908 + 104,960 = 5,220,868 acres; $6,600,000 on February 21, 1835; $1,500,000 Iowa tract; $860,800; total credit $2,360,800; $516,606.65 for food, rations and provisions left undecided because the total was under $3,000,000 either way; $4,239,200; quote exact). Promise 1 now notes that the Senate ratified on conditions (resolution of May 22, 1834) and accepted the chiefs' boundary alteration of October 1, 1834 for the western tract, as printed with the treaty in Kappler; promise 3 now includes the Chippewa indemnity in the same $100,000. The Senate resolution date is not recorded as a ratification date because the treaty took effect only after the 1834 alteration and the 1835 proclamation."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "cession-1851-08-22-mas-su-ta-ka-ya-po-mo-sai-nell-yu-ki-as",
+  "name": "Treaty at Camp Fernando Feliz (1851), unratified California treaty P",
+  "aka": [
+    "Treaty P of the eighteen unratified California treaties of 1851-1852"
+  ],
+  "signed": "1851-08-22",
+  "citation": "Never ratified; printed by order of the Senate, January 19, 1905",
+  "textUrl": "https://digicoll.lib.berkeley.edu/record/83366/files/arfs003-001.pdf",
+  "nations": [
+    "Sai-nell",
+    "Yu-ki-as",
+    "Mas-su-ta-ka-ya",
+    "Pomo"
+  ],
+  "promises": [
+    "Article 3 or 4 set apart a defined tract 'forever' for the occupancy of the signing tribes.",
+    "Beef cattle and flour for subsistence during 1851 and 1852.",
+    "Livestock, ploughs, tools, seed, iron and steel, blankets and clothing, divided by the tribes' numbers.",
+    "A farmer, a blacksmith, a carpenter and school teachers, with a school house, for at least five years."
+  ],
+  "status": "unratified",
+  "breaches": [
+    {
+      "kind": "never-ratified",
+      "date": "1852-07-08",
+      "what": "This treaty (treaty P in the President's schedule) was one of eighteen made with California Indians in 1851-52 that the Senate refused to ratify in executive session on July 8, 1852, and placed under an injunction of secrecy that was removed only on January 18, 1905.",
+      "whoFoundIt": "United States Senate, executive session; record reprinted 1905",
+      "source": {
+        "title": "Robert F. Heizer, The Eighteen Unratified Treaties of 1851-1852 between the California Indians and the United States Government (1972)",
+        "url": "https://digicoll.lib.berkeley.edu/record/83366/files/arfs003-001.pdf",
+        "publisher": "Archaeological Research Facility, University of California, Berkeley"
+      }
+    },
+    {
+      "kind": "government-admission",
+      "date": "1928-05-18",
+      "what": "Congress let the Indians of California sue for lands the United States took without compensation, and declared their loss from failing to secure the lands and compensation in the eighteen unratified treaties sufficient ground for equitable relief.",
+      "whoFoundIt": "Act of May 18, 1928, 45 Stat. 602",
+      "source": {
+        "title": "Act of May 18, 1928, ch. 624, 45 Stat. 602 (Indians of California jurisdictional act)",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg602.pdf",
+        "publisher": "U.S. Government Publishing Office"
+      },
+      "quote": "the loss to the said Indians on account of their failure to secure the lands and compensation provided for in the eighteen unratified treaties"
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1852",
+      "what": "The Pinoleville Pomo Nation states that the 1851 treaty McKee made with the Pomo tribes, reserving land in exchange for the rest of their territory, was rejected by the Senate under pressure from California, and that the Pomo lost their land because they believed the treaty protected it and were not told they had to file claims under the 1851 Land Claims Act.",
+      "whoFoundIt": "Pinoleville Pomo Nation, Indian Affairs Timeline on its tribal website",
+      "source": {
+        "title": "Indian Affairs Timeline",
+        "url": "https://pinoleville-nsn.gov/heritage/indian-affairs-timeline/",
+        "publisher": "Pinoleville Pomo Nation"
+      }
+    }
+  ],
+  "landTaken": "The tribes' lands in California, taken without the reserved tract or compensation; Royce areas 297 mark the cession and the intended reservation.",
+  "compensation": "Under the Act of May 18, 1928 the Court of Claims could award the value of the lands and compensation proposed in the eighteen treaties, with land at $1.25 an acre, less offsets. The amount finally paid was not located in this pass.",
+  "today": "The treaty remains unratified. The National Archives' 2013 account describes the rejection as leaving most California Indians without land.",
+  "nationVoice": [
+    {
+      "nation": "Pinoleville Pomo Nation",
+      "summary": "The Nation's Indian affairs timeline says Redick McKee made a proposed treaty with the Pomo tribes in 1851 reserving certain lands if they gave up the rest of California, that public pressure from California led the Senate to reject it in 1852, and that the Pomo, believing the treaty had secured their land and never told of the 1851 land claims deadline, lost it to the public domain.",
+      "url": "https://pinoleville-nsn.gov/heritage/indian-affairs-timeline/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Robert F. Heizer, The Eighteen Unratified Treaties of 1851-1852 between the California Indians and the United States Government (1972)",
+      "url": "https://digicoll.lib.berkeley.edu/record/83366/files/arfs003-001.pdf",
+      "publisher": "Archaeological Research Facility, University of California, Berkeley"
+    },
+    {
+      "title": "Larisa K. Miller, 'The Secret Treaties with California's Indians', Prologue, Fall/Winter 2013",
+      "url": "https://www.archives.gov/files/publications/prologue/2013/fall-winter/treaties.pdf",
+      "publisher": "National Archives"
+    },
+    {
+      "title": "Act of May 18, 1928, ch. 624, 45 Stat. 602 (Indians of California jurisdictional act)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg602.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Indian Affairs Timeline",
+      "url": "https://pinoleville-nsn.gov/heritage/indian-affairs-timeline/",
+      "publisher": "Pinoleville Pomo Nation"
+    }
+  ],
+  "openQuestions": [
+    "The Senate never ratified this treaty, so its promises never bound the United States; it is shown as never ratified. The 1928 Act is recorded as the government's own acknowledgment of the loss.",
+    "One record covers the whole set of eighteen treaties for the facts common to all; the other seventeen are the cession-1851-* and cession-1852-* entries for Royce areas 273 to 310.",
+    "The tribal names are as the commissioners wrote them in 1851-52; most are village or local group names, not nations, and how each community names itself today was not established. treaties.json lists as present-day tribes: Big Valley Band of Pomo Indians of the Big Valley Rancheria, California; Cloverdale Rancheria of Pomo Indians of California; Coyote Valley Band of Pomo Indians of California; Dry Creek Rancheria of Pomo Indians of California; Elem Indian Colony of Pomo Indians of the Sulphur Bank Rancheria, California; Hopland Band of Pomo Indians of the Hopland Rancheria, California; Kashia Band of Pomo Indians of the Stewarts Point Rancheria, California; Manchester Band of Pomo Indians of the Manchester-Point Arena Rancheria, California; Middletown Rancheria of Pomo Indians of California; Pinoleville Rancheria of Pomo Indians of California; Redwood Valley Rancheria of Pomo Indians of California; Robinson Rancheria of Pomo Indians of California; Scotts Valley Band of Pomo Indians of California; Sherwood Valley Rancheria of Pomo Indians of California.",
+    "The Court of Claims judgment under the 1928 Act (Indians of California v. United States, 98 Ct. Cl. 583, 1942) and the Indian Claims Commission settlement for the Indians of California (Dockets 31 and 37) were not opened in this pass; they are the leads for the amounts paid.",
+    "Article 2 of the treaties had the tribes relinquish all their lands in California; because the Senate rejected the treaties, the United States took the land without the reserved tracts or the promised goods (1928 Act, section 2)."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

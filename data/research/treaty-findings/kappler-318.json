@@ -1,0 +1,66 @@
+{
+  "id": "kappler-318",
+  "name": "Treaty with the Choctaw, 1830 (Treaty of Dancing Rabbit Creek)",
+  "aka": ["Treaty of Dancing Rabbit Creek"],
+  "signed": "1830-09-27",
+  "proclaimed": "1831-02-24",
+  "citation": "7 Stat. 333",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-choctaw-1830.-(0310)",
+  "nations": ["Choctaw (Chahta)"],
+  "promises": [
+    "Land west of the Mississippi conveyed to the Choctaw Nation in fee simple, to belong to it while it existed as a nation and lived on it (Article 2).",
+    "No territory or state would ever have the right to pass laws for the government of the Choctaw Nation in the west (Article 4).",
+    "Any Choctaw head of family who chose to stay in Mississippi could register for a reservation of one section (640 acres), with more for children, and receive it in fee simple after five years of residence (Article 14).",
+    "The United States would pay for the removal, escort the people west and supply them with food for twelve months after arrival (Article 16).",
+    "Schooling for forty Choctaw youths for twenty years, plus a council house, teachers, blacksmiths, tools and other goods (Article 20).",
+    "Doubtful points in the treaty to be interpreted most favourably towards the Choctaws (Article 18)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1886-11-15",
+      "what": "The Supreme Court held that the treaty was carried out to advance removal rather than to secure the rights the Choctaw had bargained for, upheld the Senate's 1859 net proceeds award as the measure of what was owed, and ordered judgment for the Choctaw Nation on that award, unpaid annuities and land lost in fixing the Arkansas boundary.",
+      "whoFoundIt": "Choctaw Nation v. United States, 119 U.S. 1 (1886)",
+      "source": { "title": "Choctaw Nation v. United States, 119 U.S. 1 (1886)", "url": "https://www.law.cornell.edu/supremecourt/text/119/1", "publisher": "Legal Information Institute, Cornell Law School" },
+      "quote": "it would seem as though it were a case where they had lost their lands without receiving the promised equivalent"
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1978-06-23",
+      "what": "In a case about Choctaw land in Mississippi, the Supreme Court recounted that the federal agent charged with recording Article 14 claims refused to record the claims of Choctaw who chose to stay, and described the later federal efforts to make this good as incompetent or corrupt.",
+      "whoFoundIt": "United States v. John, 437 U.S. 634 (1978)",
+      "source": { "title": "United States v. John, 437 U.S. 634 (1978)", "url": "https://www.law.cornell.edu/supremecourt/text/437/634", "publisher": "Legal Information Institute, Cornell Law School" },
+      "quote": "characterized by incompetence, if not corruption"
+    },
+    {
+      "kind": "nation-statement",
+      "date": "2014-08-01",
+      "what": "The Choctaw Nation's cultural series Iti Fabvssa states that Article 14 was not honored, largely because agent William Ward refused to register nearly all Choctaw applicants, and that scrip later granted by Congress could only be fully redeemed in Indian Territory.",
+      "whoFoundIt": "Choctaw Nation of Oklahoma, Iti Fabvssa (Biskinik, August 2014)",
+      "source": { "title": "Choctaw resistance to removal from ancient homeland, part 3", "url": "https://www.choctawnation.com/news/iti-fabvssa/choctaw-resistance-to-removal-from-ancient-homeland-part-3/", "publisher": "Choctaw Nation of Oklahoma" },
+      "quote": "As a result, Article 14 of the Dancing Rabbit Creek Treaty was simply not honored."
+    }
+  ],
+  "compensation": "The 1855 treaty referred the Choctaw claims to the Senate, which in 1859 awarded the Choctaw the net proceeds of the ceded lands. The Supreme Court in 1886 ordered judgment of $2,981,247.30 on that award less $250,000 already paid under an 1861 act, plus $59,449.32 in unpaid annuities and $68,102 for land taken in fixing the Arkansas boundary (Choctaw Nation v. United States, 119 U.S. 1). The Court of Claims had awarded $408,120.32.",
+  "today": "The Choctaw who stayed in Mississippi are today the Mississippi Band of Choctaw Indians; in 1978 the Supreme Court held their lands are Indian country under federal, not state, criminal jurisdiction (United States v. John, 437 U.S. 634).",
+  "nationVoice": [
+    { "nation": "Choctaw Nation of Oklahoma", "summary": "Chief Gary Batton writes that Choctaw leaders signed under extreme duress after federal agents threatened invasion, and calls the treaty unfair and unjust, the start of the removals the Nation calls the Trail of Tears and Death.", "url": "https://www.choctawnation.com/news/chiefs-blog/the-treaty-that-forever-changed-our-chahta-peoples-story/" },
+    { "nation": "Choctaw Nation of Oklahoma", "summary": "The Iti Fabvssa series says the Choctaw people overwhelmingly opposed the treaty, that the leaders who remained signed out of fear, coercion and false hope, and that Article 14 was simply not honored.", "url": "https://www.choctawnation.com/news/iti-fabvssa/choctaw-resistance-to-removal-from-ancient-homeland-part-2/" }
+  ],
+  "sources": [
+    { "title": "Treaty with the Choctaw, 1830 (Kappler, vol. 2, p. 310)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-choctaw-1830.-(0310)", "publisher": "Oklahoma State University Libraries" },
+    { "title": "Treaty with the Choctaw, 1830, catalog record (7 Stat. 333)", "url": "https://oms.library.okstate.edu/s/oklahoma-built/item/5002", "publisher": "Oklahoma State University Libraries" },
+    { "title": "Choctaw Nation v. United States, 119 U.S. 1 (1886)", "url": "https://www.law.cornell.edu/supremecourt/text/119/1", "publisher": "Legal Information Institute, Cornell Law School" },
+    { "title": "United States v. John, 437 U.S. 634 (1978)", "url": "https://www.law.cornell.edu/supremecourt/text/437/634", "publisher": "Legal Information Institute, Cornell Law School" },
+    { "title": "The treaty that forever changed our Chahta people's story", "url": "https://www.choctawnation.com/news/chiefs-blog/the-treaty-that-forever-changed-our-chahta-peoples-story/", "publisher": "Choctaw Nation of Oklahoma" },
+    { "title": "Choctaw resistance to removal from ancient homeland, part 3", "url": "https://www.choctawnation.com/news/iti-fabvssa/choctaw-resistance-to-removal-from-ancient-homeland-part-3/", "publisher": "Choctaw Nation of Oklahoma" }
+  ],
+  "openQuestions": [
+    "Senate ratification date: sources give both 24 and 25 February 1831; only the proclamation date of 24 February 1831 from the OSU record is recorded here.",
+    "The Mississippi Band of Choctaw Indians' own published history of Article 14 was not found (choctaw.org history page returned 404); add it to nationVoice when located.",
+    "Indian Claims Commission dockets on Choctaw land in Mississippi were not checked."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

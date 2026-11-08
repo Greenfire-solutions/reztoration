@@ -1,0 +1,128 @@
+{
+  "id": "kappler-851",
+  "name": "Treaty with the Nez Perces, 1863 (Lapwai Treaty)",
+  "aka": ["Treaty of Lapwai, 1863"],
+  "signed": "1863-06-09",
+  "ratified": "1867-04-17",
+  "proclaimed": "1867-04-20",
+  "citation": "14 Stat. 647",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-nez-perces-1863-0843",
+  "nations": ["Nimiipuu (Nez Perce)"],
+  "promises": [
+    "Article 2 reserved a smaller tract around Lapwai and the Clearwater 'for a home, and for the sole use and occupation of said tribe'.",
+    "Article 4: $262,500 for the relinquishment, in addition to the 1855 annuities, for removal, ploughing and fencing, mills, schools and other purposes.",
+    "Article 8 kept in force every provision of the 1855 treaty not changed, including the rights outside the reservation."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1959-12-31",
+      "what": "The Indian Claims Commission found that what the United States paid for the land given up under this treaty was grossly inadequate and unconscionable against a fair market value of $4,650,000 as of April 17, 1867, and held the tribe entitled to the difference, less offsets.",
+      "whoFoundIt": "Indian Claims Commission, Nez Perce Tribe v. United States, Docket 175-A, findings and opinion of December 31, 1959 (8 Ind. Cl. Comm. 220)",
+      "source": {
+        "title": "Nez Perce Tribe of Indians v. United States, Docket No. 175-A, Findings of Fact, December 31, 1959",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/179",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1960-06-17",
+      "what": "Final judgment for the Nez Perce for $4,157,605.06 on the 1863 cession, after a negotiated settlement of $140,000 in offsets.",
+      "whoFoundIt": "Indian Claims Commission, Docket 175-A, Final Judgment, June 17, 1960",
+      "source": {
+        "title": "Nez Perce Tribe of Indians v. United States, Docket No. 175-A, Final Judgment, June 17, 1960",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/390",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1969-11-14",
+      "what": "Of the reservation this treaty kept, 549,559 acres left after allotment were ceded under the Agreement of May 1, 1893 for $1,634,664, about $2.97 an acre. After the Court of Claims reversed the Commission's first ruling, the Commission found the price unconscionable and awarded $6,609,926.14.",
+      "whoFoundIt": "Indian Claims Commission, Nez Perce Tribe v. United States, Docket 175-B, opinion and final award of November 14, 1969 (22 Ind. Cl. Comm. 53), on remand from 176 Ct. Cl. 815 (1966)",
+      "source": {
+        "title": "Nez Perce Tribe of Indians v. United States, Docket No. 175-B, Final Award, November 14, 1969",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1098",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1893-05-01",
+      "what": "The Nez Perce Tribe says the government forced the 1863 treaty on it after failing to stop trespass, and later imposed allotment and declared the remaining reservation open to non-Indian settlement.",
+      "whoFoundIt": "Nez Perce Tribe, History page",
+      "source": {
+        "title": "History",
+        "url": "https://nezperce.org/about/history/",
+        "publisher": "Nez Perce Tribe"
+      }
+    }
+  ],
+  "landTaken": "The 1855 reservation outside the new boundaries (Article 1). Later, 549,559 acres of the 1863 reservation were ceded under the 1893 Agreement, as stated by the Indian Claims Commission (1964 and 1969 opinions, Docket 175-B).",
+  "compensation": "$4,157,605.06 final judgment in 1960 for the 1863 cession (Docket 175-A); $6,609,926.14 final award in 1969 for the 1893 cession (Docket 175-B).",
+  "today": "The Nez Perce Tribe says its reservation was reduced to about 750,000 acres by this treaty and opened to settlement after allotment (Nez Perce Tribe, History).",
+  "nationVoice": [
+    {
+      "nation": "Nez Perce Tribe",
+      "summary": "The Tribe describes the 1863 treaty as forced on it after the government failed to protect the 1855 reservation from gold-rush trespass.",
+      "url": "https://nezperce.org/about/history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Nez Perces, 1863 (Kappler, vol. 2, p. 843)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-nez-perces-1863-0843",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Nez Perce Tribe of Indians v. United States, Docket No. 175-A, Opinion of the Commission, December 31, 1959",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/235",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Nez Perce Tribe of Indians v. United States, Docket No. 175-A, Findings of Fact, December 31, 1959",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/179",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Nez Perce Tribe of Indians v. United States, Docket No. 175-A, Opinion on compromise of offsets, June 17, 1960",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/464",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Nez Perce Tribe of Indians v. United States, Docket No. 175-A, Final Judgment, June 17, 1960",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/390",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Nez Perce Tribe of Indians v. United States, Docket No. 175-B, Opinion of the Commission, April 7, 1964",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/707",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Nez Perce Tribe of Indians v. United States, Docket No. 175-B, Opinion of the Commission on remand, November 14, 1969",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1371",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Nez Perce Tribe of Indians v. United States, Docket No. 175-B, Final Award, November 14, 1969",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1098",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History",
+      "url": "https://nezperce.org/about/history/",
+      "publisher": "Nez Perce Tribe"
+    }
+  ],
+  "openQuestions": [
+    "The 1959 findings' OCR is damaged: the acreage of the 1863 cession and the consideration paid could not be read reliably and are left out. The balance before offsets reads as $4,297,605.06, which agrees with the $4,157,605.06 judgment plus the $140,000 offset settlement.",
+    "The 1969 award of $6,609,926.14 appears to include interest; the order also provides simple interest on a principal of $1,387,911.00 from November 15, 1969. Whether that principal is the unconscionability difference was not confirmed.",
+    "Treaty signers came mainly from the bands whose land stayed inside the new reservation; the bands whose homelands were ceded, including Joseph's Wallowa band, did not sign. This is widely reported by historians but was not confirmed from a finding in this pass.",
+    "Docket 175 (a further Nez Perce claim, settled for $3,550,000 in 1971) was not read; its subject was not identified."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

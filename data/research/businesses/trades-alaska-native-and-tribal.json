@@ -1,0 +1,620 @@
+[
+ {
+  "id": "facility-support-services",
+  "name": "Facility Support Services",
+  "category": "trades",
+  "subcategory": "construction services",
+  "nation": "Goldbelt (Tlingit and Haida)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Goldbelt, Inc. subsidiaries directory (Goldbelt is an urban Alaska Native corporation)",
+   "url": "https://www.goldbelt.com/directory/"
+  },
+  "description": "A Goldbelt company offering construction and facility services from western Pennsylvania.",
+  "website": "https://www.gbfss.com/",
+  "address": "4200 Walnut Street, Suite 9",
+  "city": "McKeesport",
+  "state": "PA",
+  "zip": "15132",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Goldbelt, Inc. subsidiaries directory (Goldbelt is an urban Alaska Native corporation)",
+    "url": "https://www.goldbelt.com/directory/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -79.8389,
+   40.3235
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "cardinal-homes",
+  "name": "Cardinal Homes",
+  "category": "trades",
+  "subcategory": "modular home manufacturing",
+  "nation": "Eastern Band of Cherokee Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Kituwah LLC (wholly owned by the Eastern Band of Cherokee Indians): Kituwah Businesses, Cardinal Homes",
+   "url": "https://kituwahllc.com/businesses/"
+  },
+  "description": "A modular home builder in southern Virginia, part of the Eastern Band of Cherokee Indians' Kituwah business group.",
+  "website": "https://cardinalhomes.com/",
+  "address": "525 Barnesville Hwy",
+  "city": "Wylliesburg",
+  "state": "VA",
+  "zip": "23976",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kituwah LLC: Our Businesses",
+    "url": "https://kituwahllc.com/businesses/"
+   },
+   {
+    "title": "Cardinal Homes",
+    "url": "https://cardinalhomes.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -78.589,
+   36.86
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "tyonek-manufacturing-group",
+  "name": "Tyonek Manufacturing Group",
+  "category": "trades",
+  "subcategory": "aviation and defense manufacturing",
+  "nation": "Tyonek Native Corporation (Dena'ina)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Tyonek: contact and company addresses",
+   "url": "https://www.tyonek.com/contact-us/"
+  },
+  "description": "Tyonek Native Corporation's manufacturing company, building and maintaining aviation and defense equipment in north Alabama.",
+  "website": "https://www.tyonek.com/",
+  "address": "229 Palmer Rd.",
+  "city": "Madison",
+  "state": "AL",
+  "zip": "35758",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Tyonek: contact and company addresses",
+    "url": "https://www.tyonek.com/contact-us/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -86.7582,
+   34.6922
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "tyonek-native-corporation",
+  "name": "Tyonek Native Corporation",
+  "category": "trades",
+  "subcategory": "manufacturing, construction and mission support",
+  "nation": "Native Village of Tyonek (Dena'ina)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Tyonek Native Corporation",
+   "url": "https://www.tyonek.com/"
+  },
+  "description": "The village corporation of Tyonek, whose companies do manufacturing, construction and mission support work.",
+  "website": "https://www.tyonek.com/",
+  "address": "880 H Street, Suite 210",
+  "city": "Anchorage",
+  "state": "AK",
+  "zip": "99501",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Tyonek Native Corporation",
+    "url": "https://www.tyonek.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -149.8977,
+   61.2138
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "ahtna-inc",
+  "name": "Ahtna, Inc.",
+  "category": "trades",
+  "subcategory": "construction, environmental, security and land management",
+  "nation": "Ahtna (Ahtna Athabascan)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Ahtna, Inc.: an Alaska Native Regional Corporation",
+   "url": "https://www.ahtna.com/"
+  },
+  "description": "The regional Alaska Native corporation of the Ahtna people, with construction, environmental, security and government contracting businesses.",
+  "website": "https://www.ahtna.com/",
+  "address": "115 Richardson Hwy",
+  "city": "Glennallen",
+  "state": "AK",
+  "zip": "99588",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Ahtna, Inc.: an Alaska Native Regional Corporation",
+    "url": "https://www.ahtna.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -145.5302,
+   62.1073
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "calista-corporation",
+  "name": "Calista Corporation",
+  "category": "trades",
+  "subcategory": "construction, federal contracting and diversified holdings",
+  "nation": "Calista (Yup'ik and Cup'ik)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Calista Corporation: About Us",
+   "url": "https://www.calistacorp.com/"
+  },
+  "description": "The Alaska Native regional corporation for the Yukon-Kuskokwim region, with construction, federal contracting and other businesses.",
+  "website": "https://www.calistacorp.com/",
+  "address": "5015 Business Park Blvd, Ste. 3000",
+  "city": "Anchorage",
+  "state": "AK",
+  "zip": "99503",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Calista Corporation: About Us",
+    "url": "https://www.calistacorp.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -149.8902,
+   61.1754
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "sealaska",
+  "name": "Sealaska",
+  "category": "trades",
+  "subcategory": "seafood, environmental services and natural resources",
+  "nation": "Tlingit, Haida and Tsimshian",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Sealaska",
+   "url": "https://www.sealaska.com/"
+  },
+  "description": "The Alaska Native regional corporation for Southeast Alaska, owned by Tlingit, Haida and Tsimshian shareholders, with seafood, environmental and land businesses.",
+  "website": "https://www.sealaska.com/",
+  "address": "One Sealaska Plaza, Suite 400",
+  "city": "Juneau",
+  "state": "AK",
+  "zip": "99801",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Sealaska",
+    "url": "https://www.sealaska.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -134.4197,
+   58.302
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "ciri-cook-inlet-region-inc",
+  "name": "CIRI (Cook Inlet Region, Inc.)",
+  "category": "trades",
+  "subcategory": "real estate, energy, construction and investments",
+  "nation": "Cook Inlet Region (Dena'ina and others)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "CIRI: Cook Inlet Region, Inc., Alaska Native Corporation",
+   "url": "https://www.ciri.com/"
+  },
+  "description": "The Alaska Native regional corporation for the Cook Inlet region, investing in real estate, energy, construction and government services.",
+  "website": "https://www.ciri.com/",
+  "address": "725 E. Fireweed Lane, Suite 800",
+  "city": "Anchorage",
+  "state": "AK",
+  "zip": "99503",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "CIRI: Cook Inlet Region, Inc., Alaska Native Corporation",
+    "url": "https://www.ciri.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -149.8697,
+   61.1979
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "the-aleut-corporation",
+  "name": "The Aleut Corporation",
+  "category": "trades",
+  "subcategory": "federal contracting, real estate and Adak development",
+  "nation": "Unangax̂ (Aleut)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Aleut Corporation: We are Unangax̂",
+   "url": "https://www.aleutcorp.com/"
+  },
+  "description": "The Unangax̂ regional corporation for the Aleutian Islands, with federal contracting, real estate and land on Adak.",
+  "website": "https://www.aleutcorp.com/",
+  "address": "2550 Denali Street, Suite 1050",
+  "city": "Anchorage",
+  "state": "AK",
+  "zip": "99503",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Aleut Corporation: We are Unangax̂",
+    "url": "https://www.aleutcorp.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -149.8768,
+   61.1975
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "goldbelt-inc",
+  "name": "Goldbelt, Inc.",
+  "category": "trades",
+  "subcategory": "federal contracting, tourism and commercial operations",
+  "nation": "Tlingit and Haida",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Goldbelt, Inc. subsidiaries directory (Goldbelt is an urban Alaska Native corporation)",
+   "url": "https://www.goldbelt.com/directory/"
+  },
+  "description": "The urban Alaska Native corporation for Juneau, with federal contracting, tourism and commercial businesses.",
+  "website": "https://www.goldbelt.com/",
+  "address": "3025 Clinton Drive",
+  "city": "Juneau",
+  "state": "AK",
+  "zip": "99801",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Goldbelt, Inc. subsidiaries directory (Goldbelt is an urban Alaska Native corporation)",
+    "url": "https://www.goldbelt.com/directory/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -134.5994,
+   58.3714
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "tdx-corporation",
+  "name": "TDX Corporation",
+  "category": "trades",
+  "subcategory": "government services, power, construction and hospitality",
+  "nation": "Tanadgusix (Unangax̂ of St. Paul Island)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "TDX Corporation service groups",
+   "url": "https://www.tdxcorp.com/"
+  },
+  "description": "The village corporation of St. Paul Island, with government services, power, construction and hospitality companies.",
+  "website": "https://www.tdxcorp.com/",
+  "address": "3601 C Street, Suite 1000",
+  "city": "Anchorage",
+  "state": "AK",
+  "zip": "99503",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "TDX Corporation service groups",
+    "url": "https://www.tdxcorp.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -149.8865,
+   61.188
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "ukpea-vik-i-upiat-corporation-uic",
+  "name": "Ukpeaġvik Iñupiat Corporation (UIC)",
+  "category": "trades",
+  "subcategory": "construction, government services and Arctic operations",
+  "nation": "Iñupiat of Utqiaġvik",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "UIC Alaska: village corporation of Utqiaġvik",
+   "url": "https://uicalaska.com/"
+  },
+  "description": "The Iñupiat village corporation of Utqiaġvik, with construction, government services, science support and Arctic operations companies.",
+  "website": "https://uicalaska.com/",
+  "city": "Utqiagvik",
+  "state": "AK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "UIC Alaska: village corporation of Utqiaġvik",
+    "url": "https://uicalaska.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -156.7884,
+   71.2905
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "olgoonik-corporation",
+  "name": "Olgoonik Corporation",
+  "category": "trades",
+  "subcategory": "government and commercial contracting",
+  "nation": "Iñupiat of Wainwright",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Olgoonik: a family of contracting companies for Alaska Native shareholders",
+   "url": "https://www.olgoonik.com/"
+  },
+  "description": "The village corporation of Wainwright, running government and commercial contracting companies worldwide.",
+  "website": "https://www.olgoonik.com/",
+  "city": "Wainwright",
+  "state": "AK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Olgoonik: a family of contracting companies for Alaska Native shareholders",
+    "url": "https://www.olgoonik.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -160.0383,
+   70.6369
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "cape-fox-corporation",
+  "name": "Cape Fox Corporation",
+  "category": "trades",
+  "subcategory": "federal contracting, tourism and commercial services",
+  "nation": "Tlingit of Saxman",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Cape Fox Corporation: ANC, Tlingit, Saxman",
+   "url": "https://www.capefoxcorp.com/"
+  },
+  "description": "The Tlingit village corporation of Saxman, with federal contracting, tourism and commercial companies.",
+  "website": "https://www.capefoxcorp.com/",
+  "address": "2851 S Tongass Hwy",
+  "city": "Ketchikan",
+  "state": "AK",
+  "zip": "99901",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Cape Fox Corporation: ANC, Tlingit, Saxman",
+    "url": "https://www.capefoxcorp.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -131.5911,
+   55.3155
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "huna-totem-corporation",
+  "name": "Huna Totem Corporation",
+  "category": "trades",
+  "subcategory": "tourism destinations, government contracting and investments",
+  "nation": "Xunaa Káawu (Tlingit of Hoonah)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Huna Totem Corporation",
+   "url": "https://hunatotem.com/"
+  },
+  "description": "The village corporation of Hoonah, known for Icy Strait Point, with tourism, government contracting and investments.",
+  "website": "https://hunatotem.com/",
+  "address": "9301 Glacier Highway, Suite 200",
+  "city": "Juneau",
+  "state": "AK",
+  "zip": "99801",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Huna Totem Corporation",
+    "url": "https://hunatotem.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -134.5911,
+   58.3667
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "shee-atik",
+  "name": "Shee Atiká",
+  "category": "trades",
+  "subcategory": "diversified Alaska Native village corporation",
+  "nation": "Tlingit of Sitka",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Shee Atiká: Who We Are",
+   "url": "https://sheeatika.com/"
+  },
+  "description": "The urban Alaska Native corporation for Sitka, running a group of companies for its shareholders.",
+  "website": "https://sheeatika.com/",
+  "address": "315 Lincoln Street, Suite 300",
+  "city": "Sitka",
+  "state": "AK",
+  "zip": "99835",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Shee Atiká: Who We Are",
+    "url": "https://sheeatika.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -135.335,
+   57.0502
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "sitnasuak-native-corporation",
+  "name": "Sitnasuak Native Corporation",
+  "category": "trades",
+  "subcategory": "fuel, property and government services",
+  "nation": "Iñupiat, Yup'ik and St. Lawrence Island Yupik of Nome",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Sitnasuak Native Corporation",
+   "url": "https://www.snc.org/"
+  },
+  "description": "The village corporation of Nome, with fuel, property, services and contracting businesses.",
+  "website": "https://www.snc.org/",
+  "address": "214 Front Street, 2nd Floor",
+  "city": "Nome",
+  "state": "AK",
+  "zip": "99762",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Sitnasuak Native Corporation",
+    "url": "https://www.snc.org/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -165.4062,
+   64.4975
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "kikiktagruk-inupiat-corporation",
+  "name": "Kikiktagruk Inupiat Corporation",
+  "category": "trades",
+  "subcategory": "retail, lodging, rentals and federal services",
+  "nation": "Iñupiat of Kotzebue",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Kikiktagruk Inupiat Corporation, Kotzebue",
+   "url": "https://kikiktagruk.com/"
+  },
+  "description": "The village corporation of Kotzebue, with retail, car rental, lodging, property and federal services businesses.",
+  "website": "https://kikiktagruk.com/",
+  "address": "373 A Second Ave",
+  "city": "Kotzebue",
+  "state": "AK",
+  "zip": "99752",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kikiktagruk Inupiat Corporation, Kotzebue",
+    "url": "https://kikiktagruk.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -162.5978,
+   66.8982
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "nana-regional-corporation",
+  "name": "NANA Regional Corporation",
+  "category": "trades",
+  "subcategory": "mining, construction, federal contracting and services",
+  "nation": "Iñupiat of Northwest Alaska",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "NANA Regional Corporation",
+   "url": "https://www.nana.com/"
+  },
+  "description": "The Iñupiat regional corporation for Northwest Alaska, owner of Akima and other construction, resource and service companies.",
+  "website": "https://www.nana.com/",
+  "city": "Kotzebue",
+  "state": "AK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "NANA Regional Corporation",
+    "url": "https://www.nana.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -162.5978,
+   66.8982
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "chenega-corporation",
+  "name": "Chenega Corporation",
+  "category": "trades",
+  "subcategory": "federal security, IT, health and facilities work",
+  "nation": "Sugpiaq of Chenega",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chenega Corporation: an Alaska Native corporation established under ANCSA",
+   "url": "https://www.chenega.com/about/"
+  },
+  "description": "The village corporation of Chenega, whose business units do security, intelligence, IT, health and facilities work.",
+  "website": "https://www.chenega.com/",
+  "address": "3000 C Street, Suite 301",
+  "city": "Anchorage",
+  "state": "AK",
+  "zip": "99503",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chenega Corporation: an Alaska Native corporation established under ANCSA",
+    "url": "https://www.chenega.com/about/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -149.8867,
+   61.1934
+  ],
+  "lonlatPrecision": "address"
+ }
+]

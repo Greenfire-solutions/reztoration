@@ -1,0 +1,82 @@
+{
+  "id": "kappler-1016",
+  "name": "Treaty with the Crow, 1868 (Fort Laramie Treaty with the Crow)",
+  "aka": [
+    "Fort Laramie Treaty with the Crow, 1868",
+    "Treaty with the Crows, 1868"
+  ],
+  "signed": "1868-05-07",
+  "ratified": "1868-07-25",
+  "proclaimed": "1868-08-12",
+  "citation": "15 Stat. 649",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-crows-1868-1008",
+  "nations": [
+    "Apsáalooke (Crow)"
+  ],
+  "promises": [
+    "Article 2 set apart a reservation south of the Yellowstone River, bounded on the east by the 107th meridian, for the Crow's 'absolute and undisturbed use and occupation', and the United States agreed no unauthorized person would ever settle on it.",
+    "Article 4 kept the right to hunt on the unoccupied lands of the United States so long as game may be found there and peace lasts on the borders of the hunting districts.",
+    "Article 11: no cession of reservation land held in common would be valid unless signed by at least a majority of the adult men occupying or interested in it.",
+    "Article 9: clothing and goods each year for thirty years, plus yearly sums for each person for ten years; Article 7: schools and teachers."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1958-02-12",
+      "what": "The Indian Claims Commission found the 30,530,764.8 acres the Crow ceded by this treaty, land recognised as theirs by the 1851 Fort Laramie treaty, were worth $12,212,305 in 1868, that the $1,644,585.49 paid was unconscionable, and awarded the Crow Tribe $10,567,720 less allowable offsets.",
+      "whoFoundIt": "Indian Claims Commission, Crow Tribe of Indians v. United States, Docket 54, interlocutory order of February 12, 1958",
+      "source": {
+        "title": "Crow Tribe of Indians v. United States, Docket No. 54, Interlocutory Order, February 12, 1958",
+        "url": "https://dc.library.okstate.edu/digital/collection/p17279coll10/id/189",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "court-ruling",
+      "date": "2019-05-20",
+      "what": "Wyoming convicted a Crow citizen, Clayvin Herrera, of off-season hunting in Bighorn National Forest after its courts held the Article 4 hunting right ended at Wyoming statehood. The Supreme Court held the right did not expire at statehood and that the forest is not categorically occupied, and vacated the judgment.",
+      "whoFoundIt": "Herrera v. Wyoming, No. 17-532 (2019)",
+      "source": {
+        "title": "Herrera v. Wyoming, No. 17-532 (2019)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/17-532",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
+      "quote": "The Crow Tribe’s hunting rights under the 1868 Treaty did not expire upon Wyoming’s statehood."
+    }
+  ],
+  "landTaken": "30,530,764.8 acres ceded by this treaty, with 8,000,409 acres reserved (Indian Claims Commission, 1958).",
+  "compensation": "$1,644,585.49 paid under the treaty; the Indian Claims Commission awarded $10,567,720 less offsets in 1958. The final judgment after offsets was not read.",
+  "today": "After Herrera v. Wyoming (2019) the case returned to the Wyoming courts on the State's conservation arguments, which the Supreme Court did not decide; the outcome was not researched.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Crows, 1868 (Kappler, vol. 2, p. 1008)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-crows-1868-1008",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Crow Tribe of Indians v. United States, Docket No. 54, Interlocutory Order, February 12, 1958",
+      "url": "https://dc.library.okstate.edu/digital/collection/p17279coll10/id/189",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Crow Tribe of Indians v. United States, Docket No. 54, Opinion of the Commission, February 12, 1958",
+      "url": "https://dc.library.okstate.edu/digital/collection/p17279coll10/id/2",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Herrera v. Wyoming, No. 17-532 (2019)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/17-532",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    }
+  ],
+  "openQuestions": [
+    "The interlocutory order's OCR is damaged at the award ('$10,~67,'720~00'); the award is read as $10,567,720, which matches the order's value ($12,212,305.00) less the consideration ($1,644,585.49, stated legibly in the Commission's opinion), rounded to the dollar. Check against the printed volume, 6 Ind. Cl. Comm. 97.",
+    "The reductions of the Crow Reservation by the Acts of 1882, 1891 and 1904, and whether the majority consent of Article 11 was obtained, were not researched.",
+    "No account by the Crow Tribe (Apsáalooke Nation) of this treaty was found on its website in this pass; its Tribal Historic Preservation Office is the lead.",
+    "Audit 2026-11-07: promise 1 corrected from 'bounded on the west by the 107th meridian' to 'on the east', per Article 2 of the treaty (the line runs north along the 107th meridian to the Yellowstone and the reservation lies west of it). Award, value, consideration and acreages re-read from ICC Docket 54 (OSU ids 189 and 2) and confirmed. The final judgment after offsets is still not read: the 1961 and 1962 Docket 54 entries in the OSU collection are on attorney expenses or have no text."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

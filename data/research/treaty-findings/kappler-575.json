@@ -1,0 +1,69 @@
+{
+  "id": "kappler-575",
+  "name": "Treaty with the Chippewa of the Mississippi and Lake Superior, 1847 (Treaty of Fond du Lac)",
+  "aka": [
+    "Treaty of Fond du Lac (1847)"
+  ],
+  "signed": "1847-08-02",
+  "ratified": "1848-04-03",
+  "proclaimed": "1848-04-07",
+  "citation": "9 Stat. 904",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-of-the-mississippi-and-lake-superior-1847-0567",
+  "nations": [
+    "Ojibwe (Chippewa) of the Mississippi",
+    "Ojibwe (Chippewa) of Lake Superior"
+  ],
+  "promises": [
+    "Article 3: $17,000 in specie to the Lake Superior Ojibwe and $17,000 to the Mississippi Ojibwe within six months of ratification, plus $1,000 a year for forty-six years to the Mississippi bands, which they could direct to schools, blacksmiths and laborers.",
+    "Article 3: Ojibwe of full or mixed blood to be employed as teachers, blacksmiths and laborers when competent people were available.",
+    "Article 2: before the United States used the One-day's Hunt tract north of Long Prairie River, the boundary with the Pillager band would be settled to the Pillagers' satisfaction.",
+    "Article 4: mixed-blood relatives living with the bands to share in all annuities."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1971-03-30",
+      "what": "The Commission held the Ojibwe owned the ceded land (Royce Area 268, in central Minnesota between the Crow Wing, Long Prairie and Mississippi rivers) by recognised title, valued it at $600,000 as of April 3, 1848, and held the $80,000 consideration so grossly inadequate as to be unconscionable.",
+      "whoFoundIt": "Indian Claims Commission, Minnesota Chippewa Tribe v. United States, Docket 18-T, 25 Ind. Cl. Comm. 157 (1971), as restated in 28 Ind. Cl. Comm. 103 (1972)",
+      "source": {
+        "title": "Minnesota Chippewa Tribe v. United States, Docket 18-T, Opinion of the Commission, May 31, 1972",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2334",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "compensation": "Final award of $529,000 (May 31, 1972) in Docket 18-T for the Chippewa of the Mississippi and Lake Superior, being the $600,000 value less $71,000 paid on the claim.",
+  "today": "The land ceded lies in central Minnesota; the Mississippi bands' descendants are within the Minnesota Chippewa Tribe.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Chippewa of the Mississippi and Lake Superior, 1847 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-of-the-mississippi-and-lake-superior-1847-0567",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Minnesota Chippewa Tribe v. United States, Docket 18-T, Order Granting Summary Judgment on Title, August 20, 1968",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2375",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Minnesota Chippewa Tribe v. United States, Docket 18-T, Opinion, May 31, 1972",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2334",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Minnesota Chippewa Tribe v. United States, Docket 18-T, Final Award, May 31, 1972",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1402",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The OCR of the final award is damaged; the $71,000 payment on the claim is read from it and from the $600,000 less $529,000 difference, and should be checked against the printed volume (28 Ind. Cl. Comm. 116).",
+    "The land was ceded to make room for the Winnebago (Ho-Chunk) and Menominee removals of 1846 and 1848; that link was not sourced here.",
+    "The companion treaty with the Pillager band of August 21, 1847 is queue entry kappler-577 (researched separately).",
+    "No tribal account of this treaty was found."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

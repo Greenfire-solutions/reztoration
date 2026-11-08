@@ -1,0 +1,99 @@
+{
+  "id": "cession-1852-01-05-co-com-cah-ra-kah-w-a-san-luis-rey",
+  "name": "Treaty at The village of Temecula (1852), unratified California treaty K",
+  "aka": [
+    "Treaty K of the eighteen unratified California treaties of 1851-1852"
+  ],
+  "signed": "1852-01-05",
+  "citation": "Never ratified; printed by order of the Senate, January 19, 1905",
+  "textUrl": "https://digicoll.lib.berkeley.edu/record/83366/files/arfs003-001.pdf",
+  "nations": [
+    "San Luis Rey (Luiseño)",
+    "Kah-we-a (Cahuilla)",
+    "Co-com-cah-ra"
+  ],
+  "promises": [
+    "Article 3 or 4 set apart a defined tract 'forever' for the occupancy of the signing tribes.",
+    "Beef cattle and flour for subsistence during 1851 and 1852.",
+    "Livestock, ploughs, tools, seed, iron and steel, blankets and clothing, divided by the tribes' numbers.",
+    "A farmer, a blacksmith, a carpenter and school teachers, with a school house, for at least five years."
+  ],
+  "status": "unratified",
+  "breaches": [
+    {
+      "kind": "never-ratified",
+      "date": "1852-07-08",
+      "what": "This treaty (treaty K in the President's schedule) was one of eighteen made with California Indians in 1851-52 that the Senate refused to ratify in executive session on July 8, 1852, and placed under an injunction of secrecy that was removed only on January 18, 1905.",
+      "whoFoundIt": "United States Senate, executive session; record reprinted 1905",
+      "source": {
+        "title": "Robert F. Heizer, The Eighteen Unratified Treaties of 1851-1852 between the California Indians and the United States Government (1972)",
+        "url": "https://digicoll.lib.berkeley.edu/record/83366/files/arfs003-001.pdf",
+        "publisher": "Archaeological Research Facility, University of California, Berkeley"
+      }
+    },
+    {
+      "kind": "government-admission",
+      "date": "1928-05-18",
+      "what": "Congress let the Indians of California sue for lands the United States took without compensation, and declared their loss from failing to secure the lands and compensation in the eighteen unratified treaties sufficient ground for equitable relief.",
+      "whoFoundIt": "Act of May 18, 1928, 45 Stat. 602",
+      "source": {
+        "title": "Act of May 18, 1928, ch. 624, 45 Stat. 602 (Indians of California jurisdictional act)",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg602.pdf",
+        "publisher": "U.S. Government Publishing Office"
+      },
+      "quote": "the loss to the said Indians on account of their failure to secure the lands and compensation provided for in the eighteen unratified treaties"
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1852",
+      "what": "The Pechanga Band states that the Treaty of Temecula, signed by its ancestors, promised land reserved for the signing tribes' sole use and a set amount of livestock and goods, and that the Senate refused to ratify it and the treaty was treated as lost until 1905.",
+      "whoFoundIt": "Pechanga Band of Indians, history pages of its tribal government website",
+      "source": {
+        "title": "History",
+        "url": "https://www.pechanga-nsn.gov/category-blog/history/history",
+        "publisher": "Pechanga Band of Indians"
+      }
+    }
+  ],
+  "landTaken": "The tribes' lands in California, taken without the reserved tract or compensation; Royce areas 307, 308 mark the cession and the intended reservation.",
+  "compensation": "Under the Act of May 18, 1928 the Court of Claims could award the value of the lands and compensation proposed in the eighteen treaties, with land at $1.25 an acre, less offsets. The amount finally paid was not located in this pass.",
+  "today": "The treaty remains unratified. The National Archives' 2013 account describes the rejection as leaving most California Indians without land.",
+  "nationVoice": [
+    {
+      "nation": "Pechanga Band of Indians",
+      "summary": "The Band's history names Ysidro Toshovwul and Lauriano Cahparahpish as Pechanga ancestors who signed the Treaty of Temecula, says the treaties promised land reserved for the tribes' sole use plus livestock and goods, and says the Senate refused to ratify them and the documents were treated as lost until 1905, by which time the agreements no longer held; Temecula families were later evicted in 1875.",
+      "url": "https://www.pechanga-nsn.gov/category-blog/history/history"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Robert F. Heizer, The Eighteen Unratified Treaties of 1851-1852 between the California Indians and the United States Government (1972)",
+      "url": "https://digicoll.lib.berkeley.edu/record/83366/files/arfs003-001.pdf",
+      "publisher": "Archaeological Research Facility, University of California, Berkeley"
+    },
+    {
+      "title": "Larisa K. Miller, 'The Secret Treaties with California's Indians', Prologue, Fall/Winter 2013",
+      "url": "https://www.archives.gov/files/publications/prologue/2013/fall-winter/treaties.pdf",
+      "publisher": "National Archives"
+    },
+    {
+      "title": "Act of May 18, 1928, ch. 624, 45 Stat. 602 (Indians of California jurisdictional act)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg602.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "History",
+      "url": "https://www.pechanga-nsn.gov/category-blog/history/history",
+      "publisher": "Pechanga Band of Indians"
+    }
+  ],
+  "openQuestions": [
+    "The Senate never ratified this treaty, so its promises never bound the United States; it is shown as never ratified. The 1928 Act is recorded as the government's own acknowledgment of the loss.",
+    "One record covers the whole set of eighteen treaties for the facts common to all; the other seventeen are the cession-1851-* and cession-1852-* entries for Royce areas 273 to 310.",
+    "The tribal names are as the commissioners wrote them in 1851-52; most are village or local group names, not nations, and how each community names itself today was not established. treaties.json lists as present-day tribes: Agua Caliente Band of Cahuilla Indians of the Agua Caliente Indian Reservation, California; Cahuilla Band of Mission Indians of the Cahuilla Reservation, California; La Jolla Band of Luiseno Mission Indians of the La Jolla Reservation, California; Los Coyotes Band of Cahuilla & Cupeno Indians of the Los Coyotes Reservation, California; Morongo Band of Cahuilla Mission Indians of the Morongo Reservation, California; Pala Band of Luiseno Mission Indians of the Pala Reservation, California; Pauma Band of Luiseno Mission Indians of the Pauma & Yuima Reservation, California; Pechanga Band of Luiseno Mission Indians of the Pechanga Reservation, California; Ramona Band or Village of Cahuilla Mission Indians of California; Rincon Band of Luiseno Mission Indians of the Rincon Reservation, California; Santa Rosa Band of Cahuilla Mission Indians of the Santa Rosa Reservation, California; Soboba Band of Luiseno Indians, California; Torres Martinez Desert Cahuilla Indians, California.",
+    "The Court of Claims judgment under the 1928 Act (Indians of California v. United States, 98 Ct. Cl. 583, 1942) and the Indian Claims Commission settlement for the Indians of California (Dockets 31 and 37) were not opened in this pass; they are the leads for the amounts paid.",
+    "Article 2 of the treaties had the tribes relinquish all their lands in California; because the Senate rejected the treaties, the United States took the land without the reserved tracts or the promised goods (1928 Act, section 2)."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

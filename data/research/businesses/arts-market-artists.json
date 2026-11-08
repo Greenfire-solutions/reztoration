@@ -1,0 +1,147 @@
+[
+ {
+  "id": "virgil-ortiz-creations",
+  "name": "Virgil Ortiz Creations",
+  "category": "arts",
+  "subcategory": "pottery, sculpture, fashion and apparel",
+  "nation": "Pueblo de Cochiti",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Virgil Ortiz Creations: Cochiti Pueblo artist",
+   "url": "https://www.virgilortiz.com/"
+  },
+  "description": "Clay figures, sculpture, prints and apparel by a Cochiti Pueblo artist whose work retells the 1680 Pueblo Revolt; sold through his own online shop.",
+  "website": "https://www.virgilortiz.com/",
+  "city": "Cochiti",
+  "state": "NM",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Virgil Ortiz Creations: Cochiti Pueblo artist",
+    "url": "https://www.virgilortiz.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -106.3475,
+   35.6076
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "tony-abeyta",
+  "name": "Tony Abeyta",
+  "category": "arts",
+  "subcategory": "painting, prints and silverwork",
+  "nation": "Navajo Nation",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Tony Abeyta: Bio (contemporary Navajo (Diné) artist working in Santa Fe and Berkeley)",
+   "url": "https://www.tonyabeyta.com/bio"
+  },
+  "description": "Mixed media paintings, oil landscapes and prints by a Diné artist, with prints sold on his site.",
+  "website": "https://www.tonyabeyta.com/",
+  "city": "Santa Fe",
+  "state": "NM",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Tony Abeyta: Bio (contemporary Navajo (Diné) artist working in Santa Fe and Berkeley)",
+    "url": "https://www.tonyabeyta.com/bio"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -105.9385,
+   35.6876
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "rose-b-simpson",
+  "name": "Rose B. Simpson",
+  "category": "arts",
+  "subcategory": "ceramic sculpture, metals and installation",
+  "nation": "Santa Clara Pueblo",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Rose B. Simpson: Bio (lives and works at Santa Clara Pueblo)",
+   "url": "https://www.rosebsimpson.com/about"
+  },
+  "description": "Ceramic sculpture, metalwork, fashion and installation by a Santa Clara Pueblo artist working from her home pueblo.",
+  "website": "https://www.rosebsimpson.com/",
+  "city": "Española",
+  "state": "NM",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Rose B. Simpson: Bio (lives and works at Santa Clara Pueblo)",
+    "url": "https://www.rosebsimpson.com/about"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -106.0808,
+   35.9911
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "dyani-white-hawk",
+  "name": "Dyani White Hawk",
+  "category": "arts",
+  "subcategory": "painting, beadwork and public art",
+  "nation": "Rosebud Sioux Tribe (Sičáŋǧu Lakota)",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Dyani White Hawk: About (Sičáŋǧu Lakota, based in Minneapolis)",
+   "url": "https://www.dyaniwhitehawk.com/biography/"
+  },
+  "description": "Paintings, beadwork-based works and public art by a Sičáŋǧu Lakota artist based in Minneapolis.",
+  "website": "https://www.dyaniwhitehawk.com/",
+  "city": "Minneapolis",
+  "state": "MN",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Dyani White Hawk: About (Sičáŋǧu Lakota, based in Minneapolis)",
+    "url": "https://www.dyaniwhitehawk.com/biography/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -93.2655,
+   44.9773
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "karen-ann-hoffman",
+  "name": "Karen Ann Hoffman",
+  "category": "arts",
+  "subcategory": "Haudenosaunee raised beadwork",
+  "nation": "Oneida Nation of Wisconsin",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Karen Ann Hoffman Raised Beadwork Artist, Oneida Nation of Wisconsin",
+   "url": "https://karenannhoffman.com/"
+  },
+  "description": "Haudenosaunee raised beadwork by an Oneida Nation artist and teacher.",
+  "website": "https://karenannhoffman.com/",
+  "city": "Oneida",
+  "state": "WI",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Karen Ann Hoffman Raised Beadwork Artist, Oneida Nation of Wisconsin",
+    "url": "https://karenannhoffman.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -88.1953,
+   44.4992
+  ],
+  "lonlatPrecision": "town"
+ }
+]

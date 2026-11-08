@@ -1,0 +1,41 @@
+{
+  "id": "kappler-1023",
+  "name": "Treaty with the Navajo, 1868 (Treaty of Bosque Redondo)",
+  "aka": ["Navajo Treaty of 1868", "Naaltsoos Sání (Old Paper)", "Treaty with the Navaho, 1868"],
+  "signed": "1868-06-01",
+  "ratified": "1868-07-25",
+  "proclaimed": "1868-08-12",
+  "citation": "15 Stat. 667",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-navaho-1868-1015",
+  "nations": ["Diné (Navajo)"],
+  "promises": [
+    "Article 2 set apart a reservation in the Diné homeland, between the 37th parallel and old Fort Defiance, for the Navajo's use and occupation, ending their confinement at Fort Sumner (Bosque Redondo).",
+    "Article 6: a schoolhouse and teacher for every thirty children between six and sixteen, for not less than ten years.",
+    "Articles 7, 8 and 12: seeds and farm tools, yearly clothing and goods for ten years, and the purchase of fifteen thousand sheep and goats.",
+    "Article 10: no future cession of reservation land held in common would be valid without the agreement of at least three-fourths of the adult men occupying or interested in it.",
+    "Article 13 reserved the right to hunt on adjoining lands formerly theirs."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "The Indian Claims Commission found in 1970 that the Navajo held aboriginal title to lands, outside the Article 2 reservation, that were ceded under this treaty as of July 25, 1868 (Navajo Tribe v. United States, Docket 229, 23 Ind. Cl. Comm. 244). The Navajo Times, reporting the decision, gave the area as 28 million acres; that figure was not checked against the Commission's findings.",
+  "compensation": "Not settled here. A 1981 Court of Claims judgment of $14,800,000 in Docket 229 was seen only in a search snippet (228 Ct. Cl. 924) and its page could not be opened.",
+  "today": "In Arizona v. Navajo Nation (2023) the Supreme Court held that the 1868 treaty reserved necessary water for the reservation but did not require the United States to take affirmative steps to secure water for the Nation, and rejected the Nation's breach-of-trust claim.",
+  "nationVoice": [
+    { "nation": "Navajo Nation", "summary": "The Nation's 150th-anniversary site presents the treaty as the agreement that ended the exile at Fort Sumner and returned the Diné to their homeland, and honours the leaders who signed it.", "url": "https://navajotreaty1868.navajo-nsn.gov/" }
+  ],
+  "sources": [
+    { "title": "Treaty with the Navaho, 1868 (Kappler, vol. 2, p. 1015)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-navaho-1868-1015", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
+    { "title": "Navajo Tribe of Indians v. United States, Docket No. 229, Opinion of the Commission, June 29, 1970 (23 Ind. Cl. Comm. 244)", "url": "https://dc.library.okstate.edu/digital/collection/p17279coll10/id/1367", "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions" },
+    { "title": "50 years ago: Tribe wins lawsuit over lands lost", "url": "https://navajotimes.com/50years/50-years-ago-tribe-wins-lawsuit-over-lands-lost/", "publisher": "Navajo Times" },
+    { "title": "Arizona v. Navajo Nation, No. 21-1484 (decided June 22, 2023)", "url": "https://www.law.cornell.edu/supremecourt/text/21-1484", "publisher": "Legal Information Institute, Cornell Law School" },
+    { "title": "Navajo Treaty 1868", "url": "https://navajotreaty1868.navajo-nsn.gov/", "publisher": "Navajo Nation" }
+  ],
+  "openQuestions": [
+    "No formal finding that the United States broke a term of this treaty was located. Docket 229 was a claim that the price paid for the ceded lands was unconscionably low, not a claim that the treaty's promises were broken, and the 1970 decision found title only; it ended in a 1981 judgment by stipulation, which is a compromise rather than a finding.",
+    "Whether the education promise of Article 6 (a teacher for every thirty children) was met during its ten years: no government record was opened. A lead for a deeper pass is the Commissioner of Indian Affairs annual reports for 1869 to 1878.",
+    "Whether the Navajo Nation has published its own account of unkept 1868 treaty promises: none was found on its sites in this pass.",
+    "The Navajo accounting claims (Dockets 69, 299 and 353) found $10,584.76 of tribal funds improperly spent on agency expenses (Commission order of July 25, 1973, recited in its opinion of September 4, 1975); whether any of those funds were 1868 treaty funds was not established."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

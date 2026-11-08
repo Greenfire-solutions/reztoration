@@ -1,0 +1,342 @@
+[
+ {
+  "id": "isaac-keahi-smith-attorney-at-law",
+  "name": "Isaac Keahi Smith, Attorney at Law",
+  "category": "technology",
+  "subcategory": "law practice",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Isaac Keahi Smith, Attorney at Law",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-zmlt8"
+  },
+  "description": "Honolulu law office.",
+  "website": "https://www.ismithlaw.net",
+  "address": "1188 Bishop St",
+  "city": "Honolulu",
+  "state": "HI",
+  "zip": "96813",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Isaac Keahi Smith, Attorney at Law",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-zmlt8"
+   },
+   {
+    "title": "Isaac Keahi Smith, Attorney at Law website",
+    "url": "https://www.ismithlaw.net"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.8596,
+   21.31
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "wong-leong-cuccia-lllc",
+  "name": "Wong Leong Cuccia, LLLC",
+  "category": "technology",
+  "subcategory": "law firm",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Wong Leong Cuccia, LLLC",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-5d437"
+  },
+  "description": "Wailuku law firm handling business, criminal and family law on Maui.",
+  "website": "http://www.wlchi.com",
+  "address": "2050 Main St",
+  "city": "Wailuku",
+  "state": "HI",
+  "zip": "96793",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Wong Leong Cuccia, LLLC",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-5d437"
+   },
+   {
+    "title": "Wong Leong Cuccia, LLLC website",
+    "url": "http://www.wlchi.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -156.5026,
+   20.8876
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "ulu-hi-tech-inc",
+  "name": "Ulu HI-Tech, Inc",
+  "category": "technology",
+  "subcategory": "IT and government contracting",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Ulu HI-Tech, Inc",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-9mdpf"
+  },
+  "description": "Group of Native Hawaiian Organization owned small businesses in Honolulu providing IT and federal contracting services.",
+  "website": "0",
+  "city": "Honolulu",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Ulu HI-Tech, Inc",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-9mdpf"
+   },
+   {
+    "title": "Ulu HI-Tech, Inc website",
+    "url": "0"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.8557,
+   21.3045
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "point-hawaii",
+  "name": "Point Hawaiʻi",
+  "category": "technology",
+  "subcategory": "design and web agency",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Point Hawaiʻi",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-f8xgb"
+  },
+  "description": "Native Hawaiian owned design agency for branding, websites and social media.",
+  "website": "0",
+  "city": "Honolulu",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Point Hawaiʻi",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-f8xgb"
+   },
+   {
+    "title": "Point Hawaiʻi website",
+    "url": "0"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.8557,
+   21.3045
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "dtl",
+  "name": "DTL",
+  "category": "technology",
+  "subcategory": "strategy and design studio",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): DTL",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-p765b"
+  },
+  "description": "Honolulu studio doing brand, strategy and design work rooted in Hawaiian values.",
+  "website": "0",
+  "city": "Honolulu",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: DTL",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-p765b"
+   },
+   {
+    "title": "DTL website",
+    "url": "0"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.8557,
+   21.3045
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "holoholo-media",
+  "name": "Holoholo Media",
+  "category": "technology",
+  "subcategory": "social media marketing",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Holoholo Media",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-tyezc"
+  },
+  "description": "Honolulu social media and marketing agency.",
+  "website": "http://www.holoholo.media",
+  "address": "1050 Bishop St",
+  "city": "Honolulu",
+  "state": "HI",
+  "zip": "96813",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Holoholo Media",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-tyezc"
+   },
+   {
+    "title": "Holoholo Media website",
+    "url": "http://www.holoholo.media"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.8607,
+   21.3092
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "weekend-digital",
+  "name": "Weekend Digital",
+  "category": "technology",
+  "subcategory": "creative and digital marketing",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Weekend Digital",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-jesgj"
+  },
+  "description": "Kauai creative agency doing digital marketing for hospitality and local business.",
+  "website": "https://weekenddigital.com",
+  "address": "2955 Aukele St",
+  "city": "Lihue",
+  "state": "HI",
+  "zip": "96766",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Weekend Digital",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-jesgj"
+   },
+   {
+    "title": "Weekend Digital website",
+    "url": "https://weekenddigital.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -159.3569,
+   21.9674
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "colab-marketing-advertising-agency",
+  "name": "COLAB Marketing & Advertising Agency",
+  "category": "technology",
+  "subcategory": "marketing and advertising agency",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): COLAB Marketing & Advertising Agency",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-777sd"
+  },
+  "description": "Full-service marketing and advertising agency in Kailua-Kona.",
+  "website": "0",
+  "city": "Kailua-Kona",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: COLAB Marketing & Advertising Agency",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-777sd"
+   },
+   {
+    "title": "COLAB Marketing & Advertising Agency website",
+    "url": "0"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -155.9969,
+   19.6419
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "hawaii-hui-llc",
+  "name": "Hawaiʻi Hui LLC",
+  "category": "technology",
+  "subcategory": "public relations and content",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Hawaiʻi Hui LLC",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-jxzd6"
+  },
+  "description": "Native Hawaiian owned public relations, editing and copywriting firm.",
+  "website": "https://www.hawaiihui.com",
+  "address": "1200 Ala Moana Blvd",
+  "city": "Honolulu",
+  "state": "HI",
+  "zip": "96814",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Hawaiʻi Hui LLC",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-jxzd6"
+   },
+   {
+    "title": "Hawaiʻi Hui LLC website",
+    "url": "https://www.hawaiihui.com"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.8539,
+   21.2931
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "hoku-marketing",
+  "name": "Hoku Marketing",
+  "category": "technology",
+  "subcategory": "e-commerce and email marketing",
+  "nation": "Native Hawaiian",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Kuhikuhi, the Native Hawaiian-owned business directory (NaHHA, OHA, Kamehameha Schools and the Native Hawaiian chambers): Hoku Marketing",
+   "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-k734b"
+  },
+  "description": "Marketing firm managing e-commerce, email and search for online businesses.",
+  "website": "0",
+  "city": "Honolulu",
+  "state": "HI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kuhikuhi listing: Hoku Marketing",
+    "url": "https://www.kuhikuhi.com/listings/lanis-island-snack-shack-4kgrn-p3cwm-52kyg-zsdf9-zdbz2-k734b"
+   },
+   {
+    "title": "Hoku Marketing website",
+    "url": "0"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -157.8557,
+   21.3045
+  ],
+  "lonlatPrecision": "town"
+ }
+]

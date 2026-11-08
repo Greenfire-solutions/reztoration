@@ -1,0 +1,44 @@
+{
+  "id": "kappler-193",
+  "name": "Treaty with the Chippewa, 1819 (Treaty of Saginaw)",
+  "aka": ["Treaty of Saginaw"],
+  "signed": "1819-09-24",
+  "proclaimed": "1820-03-25",
+  "citation": "7 Stat. 203",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-1819-0185",
+  "nations": ["Saginaw Chippewa (Anishinaabe) Indian Tribe of Michigan, including the Saginaw, Swan Creek and Black River bands"],
+  "promises": [
+    "Article 2: sixteen reserved tracts kept for the use of the Chippewa, from 640 to 40,000 acres, including tracts on the Au Sable, Kawkawlin, Flint, Shiawassee and Saginaw rivers and an island in Saginaw Bay.",
+    "Article 3: individual reserves of 640 acres for named persons of Chippewa descent.",
+    "Article 4: $1,000 a year in silver forever, and all annuities due under former treaties to be paid in silver.",
+    "Article 5: the right to hunt on the ceded land while it remained US property, as in the Treaty of Greenville, and to make sugar there."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1973-05-16",
+      "what": "The Commission valued the 7,417,400 acres ceded (Royce Area 111, in the eastern Lower Peninsula of Michigan, less the reserves) at $8,160,000 as of March 25, 1820, against a treaty consideration it valued at $16,667, and held the consideration so grossly inadequate as to be unconscionable.",
+      "whoFoundIt": "Indian Claims Commission, Saginaw Chippewa Indian Tribe v. United States, Docket 57, 30 Ind. Cl. Comm. 295 (1973)",
+      "source": { "title": "Saginaw Chippewa Indian Tribe of Michigan v. United States, Docket 57, Opinion of the Commission, May 16, 1973", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2108", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+    }
+  ],
+  "landTaken": "7,417,400 acres, the cession less the reserved tracts, as agreed by both parties before the Indian Claims Commission (1973).",
+  "compensation": "Final award of $8,117,608 (August 1, 1973) for the Saginaw, Swan Creek and Black River bands, being the $8,143,333 interlocutory award less a $25,725 offset.",
+  "today": "The Saginaw Chippewa Indian Tribe's Ziibiwing Center keeps a copy of the treaty in its digital archive.",
+  "nationVoice": [
+    { "nation": "Saginaw Chippewa Indian Tribe of Michigan (Ziibiwing Center of Anishinabe Culture & Lifeways)", "summary": "The tribe's cultural center lists the 1819 treaty among the treaties related to the tribe in its digital heritage archive.", "url": "https://mukurtu.scit-nsn.gov/subject/treaties-related-saginaw-chippewa-indian-tribe-michigan?page=1" }
+  ],
+  "sources": [
+    { "title": "Treaty with the Chippewa, 1819 (Kappler)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-1819-0185", "publisher": "Oklahoma State University Libraries" },
+    { "title": "Saginaw Chippewa Indian Tribe v. United States, Docket 57, Opinion, May 16, 1973", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2108", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Saginaw Chippewa Indian Tribe v. United States, Docket 57, Final Award, August 1, 1973", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2040", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Treaties related to the Saginaw Chippewa Indian Tribe of Michigan", "url": "https://mukurtu.scit-nsn.gov/subject/treaties-related-saginaw-chippewa-indian-tribe-michigan?page=1", "publisher": "Ziibiwing Center of Anishinabe Culture & Lifeways" }
+  ],
+  "openQuestions": [
+    "The reserved tracts in Article 2 were themselves ceded in the 1837 Saginaw treaties; queue entry kappler-490 (dated 1819-09-24 but listing the reserve cessions, Royce 227 to 241) may in fact be the 1837 treaty and its date should be checked.",
+    "No tribal account of the 1819 negotiations or of the treaty as broken was found on the tribe's own pages in this pass."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

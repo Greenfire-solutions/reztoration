@@ -1,0 +1,256 @@
+[
+ {
+  "id": "wozupi-tribal-gardens",
+  "name": "Wozupi Tribal Gardens",
+  "category": "agriculture",
+  "subcategory": "certified organic farm, orchard and apiary",
+  "nation": "Shakopee Mdewakanton Sioux Community",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Wozupi: \"Owned and operated by the Shakopee Mdewakanton Sioux Community\"",
+   "url": "https://www.wozupi.com/"
+  },
+  "description": "Shakopee Mdewakanton Sioux Community farm growing certified organic vegetables and fruit, with honey, maple syrup and a farm stand.",
+  "website": "https://www.wozupi.com/",
+  "address": "2041 140th St NW",
+  "city": "Prior Lake",
+  "state": "MN",
+  "zip": "55372",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Wozupi: \"Owned and operated by the Shakopee Mdewakanton Sioux Community\"",
+    "url": "https://www.wozupi.com/"
+   },
+   {
+    "title": "Destination Native America (AIANTA): Wozupi Tribal Gardens, listed as Tribal Enterprise of the Shakopee Mdewakanton Sioux Community",
+    "url": "https://nativeamerica.travel/listings/wozupi-tribal-gardens"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -93.4785,
+   44.7466
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "takelma-roasting-company",
+  "name": "Takelma Roasting Company",
+  "category": "food",
+  "subcategory": "specialty coffee roaster",
+  "nation": "Cow Creek Band of Umpqua Tribe of Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Takelma Roasting Company, listed as Tribal Enterprise of the Cow Creek Band of Umpqua Tribe of Indians",
+   "url": "https://nativeamerica.travel/listings/takelma-roasting-company"
+  },
+  "description": "Specialty coffee roaster in Roseburg owned by the Cow Creek Band of Umpqua Tribe of Indians.",
+  "website": "https://takelmaroasting.com/",
+  "shopOnline": "https://takelmaroasting.com/",
+  "address": "2048 NE Airport Road",
+  "city": "Roseburg",
+  "state": "OR",
+  "zip": "97470",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Takelma Roasting Company, listed as Tribal Enterprise of the Cow Creek Band of Umpqua Tribe of Indians",
+    "url": "https://nativeamerica.travel/listings/takelma-roasting-company"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -123.3544,
+   43.2347
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "temalpakh-farm",
+  "name": "Temalpakh Farm",
+  "category": "agriculture",
+  "subcategory": "organic farm, farm boxes and education center",
+  "nation": "Augustine Band of Cahuilla Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Temalpakh Farm, listed as Tribal Enterprise of the Augustine Band of Cahuilla Indians",
+   "url": "https://nativeamerica.travel/listings/temalpakh-farm"
+  },
+  "description": "Augustine Band of Cahuilla Indians farm in Coachella selling farm boxes, market produce and smoothies, with tours and an education center.",
+  "website": "https://www.temalpakhfarm.com/",
+  "address": "1 Roberta Way",
+  "city": "Coachella",
+  "state": "CA",
+  "zip": "92236",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Temalpakh Farm, listed as Tribal Enterprise of the Augustine Band of Cahuilla Indians",
+    "url": "https://nativeamerica.travel/listings/temalpakh-farm"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -116.1763,
+   33.6795
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "hadley-fruit-orchards",
+  "name": "Hadley Fruit Orchards",
+  "category": "food",
+  "subcategory": "dried fruit, nuts and date shakes",
+  "nation": "Morongo Band of Mission Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Hadley Fruit Orchards, listed as Tribal Enterprise of the Morongo Band of Mission Indians",
+   "url": "https://nativeamerica.travel/listings/hadley-s-fruit-orchards"
+  },
+  "description": "Roadside store on Interstate 10 in Cabazon known for dried fruit, nuts and date shakes, a Morongo Band of Mission Indians enterprise.",
+  "website": "https://hadleyfruitorchards.com/",
+  "shopOnline": "https://hadleyfruitorchards.com/",
+  "address": "47993 Morongo Trail",
+  "city": "Cabazon",
+  "state": "CA",
+  "zip": "92230",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Hadley Fruit Orchards, listed as Tribal Enterprise of the Morongo Band of Mission Indians",
+    "url": "https://nativeamerica.travel/listings/hadley-s-fruit-orchards"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -116.7856,
+   33.9191
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "pipa-market",
+  "name": "PIPA Market",
+  "category": "retail",
+  "subcategory": "market and convenience store",
+  "nation": "Quechan Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Fort Yuma Quechan Indian Tribe: enterprises, PIPA Market",
+   "url": "https://quechantribe.com/"
+  },
+  "description": "Quechan Tribe market in Winterhaven on the Fort Yuma Reservation.",
+  "website": "https://quechantribe.com/",
+  "address": "1901 Agnes Road #1",
+  "city": "Winterhaven",
+  "state": "CA",
+  "zip": "92283",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Fort Yuma Quechan Indian Tribe: enterprises, PIPA Market",
+    "url": "https://quechantribe.com/"
+   },
+   {
+    "title": "Destination Native America (AIANTA): PIPA Market, listed as Tribal Enterprise of the Quechan Tribe",
+    "url": "https://nativeamerica.travel/listings/pipa-market"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -114.6347,
+   32.7395
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "passamaquoddy-maple-syrup",
+  "name": "Passamaquoddy Maple Syrup",
+  "category": "food",
+  "subcategory": "maple syrup, maple sugar and candies",
+  "nation": "Passamaquoddy Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Passamaquoddy Maple Syrup, listed as Tribal Enterprise of the Passamaquoddy Tribe",
+   "url": "https://nativeamerica.travel/listings/passamaquoddy-maple-syrup-passamaquoddy-tribe"
+  },
+  "description": "Passamaquoddy Tribe sugarbush near Jackman making maple syrup, maple sugar and candies, sold online.",
+  "website": "https://www.passamaquoddymaple.com/",
+  "shopOnline": "https://www.passamaquoddymaple.com/",
+  "city": "Jackman",
+  "state": "ME",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Passamaquoddy Maple Syrup, listed as Tribal Enterprise of the Passamaquoddy Tribe",
+    "url": "https://nativeamerica.travel/listings/passamaquoddy-maple-syrup-passamaquoddy-tribe"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -70.254,
+   45.6238
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "spirit-mountain-roasting-co",
+  "name": "Spirit Mountain Roasting Co.",
+  "category": "food",
+  "subcategory": "specialty coffee roaster",
+  "nation": "Quechan Tribe",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Spirit Mountain Roasting Co., listed as Native Owned Business of the Quechan Tribe",
+   "url": "https://nativeamerica.travel/listings/spirit-mountain-roasting"
+  },
+  "description": "Native American owned coffee roaster from the Quechan homeland near Yuma, roasting specialty coffee sold online.",
+  "website": "https://www.spiritmountainroasting.com/",
+  "shopOnline": "https://www.spiritmountainroasting.com/",
+  "city": "WINTERHAVEN",
+  "state": "CA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Spirit Mountain Roasting Co., listed as Native Owned Business of the Quechan Tribe",
+    "url": "https://nativeamerica.travel/listings/spirit-mountain-roasting"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -114.6347,
+   32.7395
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "coffee-pot-farms",
+  "name": "Coffee Pot Farms",
+  "category": "agriculture",
+  "subcategory": "family farm",
+  "nation": "The Navajo Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Destination Native America (AIANTA): Coffee Pot Farms, listed as Native Owned Business of the The Navajo Nation",
+   "url": "https://nativeamerica.travel/listings/coffee-pot-farms"
+  },
+  "description": "Navajo family farm near Winslow growing traditional crops.",
+  "website": "https://www.coffeepotfarms.com/",
+  "city": "Winslow",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Destination Native America (AIANTA): Coffee Pot Farms, listed as Native Owned Business of the The Navajo Nation",
+    "url": "https://nativeamerica.travel/listings/coffee-pot-farms"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -110.6973,
+   35.0242
+  ],
+  "lonlatPrecision": "town"
+ }
+]

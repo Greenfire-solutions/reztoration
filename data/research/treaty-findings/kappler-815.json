@@ -1,0 +1,110 @@
+{
+  "id": "kappler-815",
+  "name": "Treaty with the Arapaho and Cheyenne, 1861 (Treaty of Fort Wise)",
+  "aka": [
+    "Treaty of Fort Wise",
+    "Fort Wise Treaty"
+  ],
+  "signed": "1861-02-18",
+  "ratified": "1861-08-06",
+  "proclaimed": "1861-12-05",
+  "citation": "12 Stat. 1163",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-arapaho-and-cheyenne-1861-0807",
+  "nations": [
+    "Tsétsêhéstâhese (Southern Cheyenne)",
+    "Hinono'ei (Southern Arapaho)"
+  ],
+  "promises": [
+    "Article 1 kept a reservation for the two nations between the Arkansas River and the Sandy Fork (Sand Creek) in what became Colorado, in return for ceding all other lands they owned or claimed.",
+    "Article 2: no white person except government employees could live on or enter the reservation without written permission.",
+    "Article 4: the United States would protect the two nations in the quiet and peaceful possession of the reservation, and their persons and property on it, during good behaviour on their part.",
+    "Article 4: $30,000 a year for fifteen years ($450,000 in all), to be spent on houses, farming implements, stock and other help to begin farming.",
+    "Article 5: a mill, mechanic shops and houses for an interpreter, miller, farmers and mechanics, at up to $5,000 a year for five years."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "historian",
+      "what": "The National Park Service's interpretive wayside at Sand Creek Massacre National Historic Site says the treaty promised help in teaching the Cheyenne and Arapaho to farm but that instructors were never sent, that the agency headquarters was never completed, and that conditions on the reservation declined until most who had settled there left. This is an interpretive sign, not a finding, and the treaty text does not promise instructors.",
+      "whoFoundIt": "National Park Service, Sand Creek Massacre National Historic Site, wayside 'Fort Lyon Reservation'",
+      "source": {
+        "title": "Wayside: Fort Lyon Reservation",
+        "url": "https://www.nps.gov/places/wayside-fort-lyon-reservation.htm",
+        "publisher": "National Park Service"
+      },
+      "quote": "The Treaty of Fort Wise promised government assistance with teaching the Cheyenne and Arapaho how to farm; however, instructors were never sent."
+    },
+    {
+      "kind": "nation-statement",
+      "what": "The Sand Creek Massacre Foundation, a descendants' organisation, says the purpose of the Fort Wise treaty was to clear Indian land claims from the Colorado mining region and that it cut the nations' holdings to less than one tenth of what Fort Laramie (1851) had recognised.",
+      "whoFoundIt": "Sand Creek Massacre Foundation, 'Occupation & Broken Treaties'",
+      "source": {
+        "title": "Occupation & Broken Treaties",
+        "url": "https://sandcreekmassacrefoundation.org/occupation",
+        "publisher": "Sand Creek Massacre Foundation"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1965-10-18",
+      "what": "The Southern Cheyenne and Arapaho claims for the lands ceded by this treaty and the 1865 and 1867 treaties ended in a $15,000,000 compromise settlement in consolidated Dockets 329-A and 329-B, before the Commission decided whether the price paid them was unconscionable. A compromise is not a finding of wrongdoing.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 329-A and 329-B, opinion approving compromise settlement, 16 Ind. Cl. Comm. 162",
+      "source": {
+        "title": "Cheyenne-Arapaho Tribes of Indians of Oklahoma v. United States, Dockets 329-A and 329-B, Opinion of the Commission (1965)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2123",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "The Indian Claims Commission found that the Cheyenne and Arapaho lands recognised by the 1851 Fort Laramie treaty, ceded by the southern nations through the treaties of 1861, 1865 and 1867 and by the northern nations in 1868, comprised 51,210,000 acres worth $23,500,000 as of October 14, 1865 (Docket 329, 1961; restated in 16 Ind. Cl. Comm. 162).",
+  "compensation": "Under the treaty the General Accounting Office counted $389,622.34 disbursed under the treaties of February 18, 1861, October 14, 1865 and October 17, 1865 (direct, joint and reservation items together) (ICC findings, Docket 329, 1961). In 1965 the Southern Cheyenne and Arapaho accepted a $15,000,000 compromise of all their claims in Dockets 329-A and 329-B, approved by a tribal general meeting by 338 votes to 2.",
+  "today": "The 1865 Treaty of the Little Arkansas (kappler-895) abrogated all former treaties on its ratification and replaced this reservation. The site of the 1864 Sand Creek massacre, on the creek that formed this reservation's northern boundary, is now Sand Creek Massacre National Historic Site.",
+  "nationVoice": [
+    {
+      "nation": "Sand Creek Massacre Foundation (descendants)",
+      "summary": "Describes Fort Wise as a treaty forced on the nations to clear their claim to the gold region, cutting their land to less than a tenth of the 1851 recognition.",
+      "url": "https://sandcreekmassacrefoundation.org/occupation"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Arapaho and Cheyenne, 1861 (Kappler, vol. 2, p. 807)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-arapaho-and-cheyenne-1861-0807",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Wayside: Fort Lyon Reservation",
+      "url": "https://www.nps.gov/places/wayside-fort-lyon-reservation.htm",
+      "publisher": "National Park Service"
+    },
+    {
+      "title": "Sand Creek Massacre timeline",
+      "url": "https://www.nps.gov/sand/learn/timeline.htm",
+      "publisher": "National Park Service"
+    },
+    {
+      "title": "Cheyenne-Arapaho Tribes of Indians of Oklahoma v. United States, Dockets 329 and 348, Findings of Fact (1961)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/242",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Cheyenne-Arapaho Tribes of Indians of Oklahoma v. United States, Dockets 329-A and 329-B, Opinion of the Commission (1965)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2123",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Occupation & Broken Treaties",
+      "url": "https://sandcreekmassacrefoundation.org/occupation",
+      "publisher": "Sand Creek Massacre Foundation"
+    }
+  ],
+  "openQuestions": [
+    "Sand Creek and Article 4. Article 6 of the 1865 treaty (kappler-895) has the United States condemn the Sand Creek massacre of November 29, 1864, committed while the people 'were at peace with the United States, and under its flag, whose protection they had by lawful authority been promised and induced to seek'. That wording does not name this treaty; the protection it refers to appears to be the assurance given in 1864 by officers at Fort Lyon, and no source opened says whether the camp lay inside this reservation (NPS says only that Sand Creek formed its northern boundary). So the admission is recorded on kappler-895 and is not counted here as a breach of Article 4. A source tying the massacre to Article 4 would make it one.",
+    "The NPS timeline says a majority of Cheyenne and Arapaho chiefs refused to sign and that the signers said they spoke only for their own bands, yet the treaty was applied to all. Whether that is a breach in law was not settled.",
+    "No Cheyenne and Arapaho Tribes (Oklahoma) page on this treaty was found; the tribe's site returned 404 for history pages on 2026-11-07.",
+    "Whether the $450,000 in Article 4 annuities was fully paid before the 1865 treaty abrogated it was not found; the ICC figures combine the 1861 and 1865 treaties.",
+    "Audit 2026-11-07: the National Park Service wayside breach was changed from government-admission to historian and the status from broken to contested. An interpretive sign is the Park Service's history for visitors, not a finding or an acknowledgment of the kind rule 9 means, and it is not tied to an article: the treaty promises no instructors (Article 5 provides only dwelling-houses for farmers and mechanics 'that may be employed'), and ICC Docket 329 findings 41 and 42 record sums disbursed under the 1861 treaty without finding any promise unperformed. A finding that Article 4 or 5 went unperformed would restore broken."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

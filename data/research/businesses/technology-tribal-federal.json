@@ -1,0 +1,514 @@
+[
+ {
+  "id": "asrc-federal",
+  "name": "ASRC Federal",
+  "category": "technology",
+  "subcategory": "federal IT, engineering and mission services",
+  "nation": "Arctic Slope Regional Corporation (Iñupiat)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "ASRC Federal: wholly owned subsidiary of Arctic Slope Regional Corporation, an Alaska Native corporation",
+   "url": "https://www.asrcfederal.com/"
+  },
+  "description": "The federal services arm of Arctic Slope Regional Corporation, owned by Inupiaq shareholders, doing IT, engineering, space and defense work.",
+  "website": "https://www.asrcfederal.com/",
+  "address": "7000 Muirkirk Meadows Drive, Suite 100",
+  "city": "Beltsville",
+  "state": "MD",
+  "zip": "20705",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "ASRC Federal: wholly owned subsidiary of Arctic Slope Regional Corporation, an Alaska Native corporation",
+    "url": "https://www.asrcfederal.com/"
+   },
+   {
+    "title": "ASRC Federal family of companies (addresses)",
+    "url": "https://www.asrcfederal.com/companies/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -76.8876,
+   39.065
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "asrc-federal-mission-solutions",
+  "name": "ASRC Federal Mission Solutions",
+  "category": "technology",
+  "subcategory": "naval combat systems software engineering",
+  "nation": "Arctic Slope Regional Corporation (Iñupiat)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "ASRC Federal: wholly owned subsidiary of Arctic Slope Regional Corporation, an Alaska Native corporation",
+   "url": "https://www.asrcfederal.com/"
+  },
+  "description": "An ASRC Federal company writing and testing software for Navy combat and sensor systems.",
+  "website": "https://www.asrcfederal.com/moorestown/",
+  "address": "121 Whittendale Drive",
+  "city": "Moorestown",
+  "state": "NJ",
+  "zip": "08057",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "ASRC Federal: wholly owned subsidiary of Arctic Slope Regional Corporation, an Alaska Native corporation",
+    "url": "https://www.asrcfederal.com/"
+   },
+   {
+    "title": "ASRC Federal family of companies (addresses)",
+    "url": "https://www.asrcfederal.com/companies/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -74.9427,
+   39.9671
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "asrc-federal-netcentric",
+  "name": "ASRC Federal NetCentric",
+  "category": "technology",
+  "subcategory": "federal IT and network engineering",
+  "nation": "Arctic Slope Regional Corporation (Iñupiat)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "ASRC Federal: wholly owned subsidiary of Arctic Slope Regional Corporation, an Alaska Native corporation",
+   "url": "https://www.asrcfederal.com/"
+  },
+  "description": "An ASRC Federal company with its office on the Jersey Shore.",
+  "website": "https://www.asrcfederal.com/companies/",
+  "address": "3301 State Route 66, Building A, Suite 201",
+  "city": "Neptune",
+  "state": "NJ",
+  "zip": "07753",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "ASRC Federal: wholly owned subsidiary of Arctic Slope Regional Corporation, an Alaska Native corporation",
+    "url": "https://www.asrcfederal.com/"
+   },
+   {
+    "title": "ASRC Federal family of companies (addresses)",
+    "url": "https://www.asrcfederal.com/companies/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -74.0651,
+   40.2291
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "space-coast-aerospace-services",
+  "name": "Space Coast Aerospace Services",
+  "category": "technology",
+  "subcategory": "launch and aerospace support",
+  "nation": "Arctic Slope Regional Corporation (Iñupiat)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "ASRC Federal: wholly owned subsidiary of Arctic Slope Regional Corporation, an Alaska Native corporation",
+   "url": "https://www.asrcfederal.com/"
+  },
+  "description": "An ASRC Federal company supporting launch and aerospace work near Cape Canaveral.",
+  "website": "https://www.asrcfederal.com/companies/",
+  "address": "1970 Michigan Ave., Bldg. H",
+  "city": "Cocoa",
+  "state": "FL",
+  "zip": "32922",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "ASRC Federal: wholly owned subsidiary of Arctic Slope Regional Corporation, an Alaska Native corporation",
+    "url": "https://www.asrcfederal.com/"
+   },
+   {
+    "title": "ASRC Federal family of companies (addresses)",
+    "url": "https://www.asrcfederal.com/companies/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -80.7542,
+   28.3885
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "agile-decision-sciences",
+  "name": "Agile Decision Sciences",
+  "category": "technology",
+  "subcategory": "software, analytics and engineering",
+  "nation": "Arctic Slope Regional Corporation (Iñupiat)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "ASRC Federal: wholly owned subsidiary of Arctic Slope Regional Corporation, an Alaska Native corporation",
+   "url": "https://www.asrcfederal.com/"
+  },
+  "description": "An ASRC Federal company doing software, analytics and engineering for federal clients from Huntsville.",
+  "website": "https://www.asrcfederal.com/companies/",
+  "address": "350 Voyager Way, Suite 100B",
+  "city": "Huntsville",
+  "state": "AL",
+  "zip": "35806",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "ASRC Federal: wholly owned subsidiary of Arctic Slope Regional Corporation, an Alaska Native corporation",
+    "url": "https://www.asrcfederal.com/"
+   },
+   {
+    "title": "ASRC Federal family of companies (addresses)",
+    "url": "https://www.asrcfederal.com/companies/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -86.6778,
+   34.7206
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "akima",
+  "name": "Akima",
+  "category": "technology",
+  "subcategory": "federal IT, facilities, logistics and aerospace",
+  "nation": "NANA Regional Corporation (Iñupiat)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Akima: Our Heritage (NANA Regional Corporation)",
+   "url": "https://www.akima.com/our-heritage/"
+  },
+  "description": "NANA Regional Corporation's family of federal contracting companies, working in IT, facilities, logistics, aerospace and protective services.",
+  "website": "https://www.akima.com/",
+  "address": "2553 Dulles View Drive, Suite 700",
+  "city": "Herndon",
+  "state": "VA",
+  "zip": "20171",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Akima: Our Heritage (NANA Regional Corporation)",
+    "url": "https://www.akima.com/our-heritage/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -77.3859,
+   38.9695
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "koniag-government-services",
+  "name": "Koniag Government Services",
+  "category": "technology",
+  "subcategory": "federal technical and professional services",
+  "nation": "Koniag (Alutiiq)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Koniag Government Services: an Alaska Native Corporation (ANC)",
+   "url": "https://www.koniag-gs.com/"
+  },
+  "description": "Koniag's federal contracting group, providing technical, professional and operations work for defense and civilian agencies.",
+  "website": "https://www.koniag-gs.com/",
+  "city": "Chantilly",
+  "state": "VA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Koniag Government Services: an Alaska Native Corporation (ANC)",
+    "url": "https://www.koniag-gs.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -77.4312,
+   38.8942
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "koniag-government-services-warner-robins",
+  "name": "Koniag Government Services, Warner Robins office",
+  "category": "technology",
+  "subcategory": "federal technical services near Robins Air Force Base",
+  "nation": "Koniag (Alutiiq)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Koniag Government Services: office locations",
+   "url": "https://www.koniag-gs.com/office-locations/"
+  },
+  "description": "The Georgia office of Koniag Government Services, an Alaska Native owned federal contractor.",
+  "website": "https://www.koniag-gs.com/",
+  "city": "Warner Robins",
+  "state": "GA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Koniag Government Services: office locations",
+    "url": "https://www.koniag-gs.com/office-locations/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -83.6066,
+   32.6201
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "goldbelt-government-services",
+  "name": "Goldbelt Government Services",
+  "category": "technology",
+  "subcategory": "federal program management and services",
+  "nation": "Goldbelt (Tlingit and Haida)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Goldbelt, Inc. subsidiaries directory (Goldbelt is an urban Alaska Native corporation)",
+   "url": "https://www.goldbelt.com/directory/"
+  },
+  "description": "Goldbelt's federal contracting group, run from northern Virginia.",
+  "website": "https://www.goldbelt.com/subsidiary/goldbelt-government-services/",
+  "address": "13900 Lincoln Park Dr., Suite 140",
+  "city": "Herndon",
+  "state": "VA",
+  "zip": "20171",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Goldbelt, Inc. subsidiaries directory (Goldbelt is an urban Alaska Native corporation)",
+    "url": "https://www.goldbelt.com/directory/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -77.4263,
+   38.9258
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "goldbelt-c6",
+  "name": "Goldbelt C6",
+  "category": "technology",
+  "subcategory": "defense research, experimentation and solutions",
+  "nation": "Goldbelt (Tlingit and Haida)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Goldbelt, Inc. subsidiaries directory (Goldbelt is an urban Alaska Native corporation)",
+   "url": "https://www.goldbelt.com/directory/"
+  },
+  "description": "A Goldbelt company doing defense development and experimentation work.",
+  "website": "https://www.goldbeltc6.com/",
+  "address": "860 Greenbrier Circle, Suite 405",
+  "city": "Chesapeake",
+  "state": "VA",
+  "zip": "23320",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Goldbelt, Inc. subsidiaries directory (Goldbelt is an urban Alaska Native corporation)",
+    "url": "https://www.goldbelt.com/directory/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -76.2289,
+   36.789
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "goldbelt-hawk",
+  "name": "Goldbelt Hawk",
+  "category": "technology",
+  "subcategory": "cybersecurity and IT",
+  "nation": "Goldbelt (Tlingit and Haida)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Goldbelt, Inc. subsidiaries directory (Goldbelt is an urban Alaska Native corporation)",
+   "url": "https://www.goldbelt.com/directory/"
+  },
+  "description": "A Goldbelt company providing cybersecurity, analysis and IT services.",
+  "website": "https://www.gbhawk.com/",
+  "address": "603 Pilot House Drive, Suite 400",
+  "city": "Newport News",
+  "state": "VA",
+  "zip": "23606",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Goldbelt, Inc. subsidiaries directory (Goldbelt is an urban Alaska Native corporation)",
+    "url": "https://www.goldbelt.com/directory/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -76.4787,
+   37.0805
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "peregrine-technical-solutions",
+  "name": "Peregrine Technical Solutions",
+  "category": "technology",
+  "subcategory": "cyber offense and defense",
+  "nation": "Goldbelt (Tlingit and Haida)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Goldbelt, Inc. subsidiaries directory (Goldbelt is an urban Alaska Native corporation)",
+   "url": "https://www.goldbelt.com/directory/"
+  },
+  "description": "A Goldbelt company building cyber defense and offense tools.",
+  "website": "https://www.gbpts.com/",
+  "address": "114 Ballard Street",
+  "city": "Yorktown",
+  "state": "VA",
+  "zip": "23690",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Goldbelt, Inc. subsidiaries directory (Goldbelt is an urban Alaska Native corporation)",
+    "url": "https://www.goldbelt.com/directory/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -76.5085,
+   37.2368
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "chugach-government-solutions",
+  "name": "Chugach Government Solutions",
+  "category": "technology",
+  "subcategory": "base operations, facilities and federal services",
+  "nation": "Chugach Alaska Corporation (Sugpiaq, Eyak and Chugach)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Chugach Alaska Corporation: owned by nearly 3,000 Alaska Native shareholders",
+   "url": "https://www.chugach.com/"
+  },
+  "description": "Chugach Alaska Corporation's government arm, running base operations, airfields, facilities and personnel services.",
+  "website": "https://www.chugachgov.com/",
+  "city": "Anchorage",
+  "state": "AK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chugach Alaska Corporation: owned by nearly 3,000 Alaska Native shareholders",
+    "url": "https://www.chugach.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -149.8949,
+   61.2163
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "puyenpa",
+  "name": "Puyenpa",
+  "category": "technology",
+  "subcategory": "IT, security systems, construction and engineering",
+  "nation": "Duckwater Shoshone Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Puyenpa: a Duckwater Shoshone Tribal 8(a) organization",
+   "url": "https://puyenpa.com/"
+  },
+  "description": "A tribally owned company of the Duckwater Shoshone Tribe doing IT, security systems, construction and engineering for federal clients.",
+  "website": "https://puyenpa.com/",
+  "address": "511 Duckwater Falls Rd",
+  "city": "Duckwater",
+  "state": "NV",
+  "zip": "89314",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Puyenpa: A Tribally Owned Company",
+    "url": "https://puyenpa.com/"
+   },
+   {
+    "title": "Puyenpa: office locations",
+    "url": "https://puyenpa.com/contact"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -115.7161,
+   38.9656
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "full-circle-indigenous-planning-design",
+  "name": "Full Circle Indigenous Planning + Design",
+  "category": "technology",
+  "subcategory": "architecture and community planning",
+  "nation": "White Earth Nation",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Full Circle Indigenous Planning + Design: About (founder Sam Olbekson, citizen of the White Earth Nation)",
+   "url": "https://www.fullcircleplanning.com/about"
+  },
+  "description": "A Native-owned architecture, planning and cultural design firm that has designed tribal colleges, community centers and cultural spaces.",
+  "website": "https://www.fullcircleplanning.com/",
+  "address": "2619 E Franklin Ave, Suite 2",
+  "city": "Minneapolis",
+  "state": "MN",
+  "zip": "55406",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Full Circle Indigenous Planning + Design: About (founder Sam Olbekson, citizen of the White Earth Nation)",
+    "url": "https://www.fullcircleplanning.com/about"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -93.2342,
+   44.9627
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "kituwah-llc",
+  "name": "Kituwah LLC",
+  "category": "technology",
+  "subcategory": "tribal economic development, investment and consulting",
+  "nation": "Eastern Band of Cherokee Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Kituwah LLC: wholly owned by the Eastern Band of Cherokee Indians",
+   "url": "https://kituwahllc.com/"
+  },
+  "description": "The Eastern Band of Cherokee Indians' business company, running land development, government contracting, real estate and consulting.",
+  "website": "https://kituwahllc.com/",
+  "city": "Cherokee",
+  "state": "NC",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Kituwah LLC: wholly owned by the Eastern Band of Cherokee Indians",
+    "url": "https://kituwahllc.com/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -83.319,
+   35.4766
+  ],
+  "lonlatPrecision": "town"
+ }
+]

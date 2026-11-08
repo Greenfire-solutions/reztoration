@@ -1,0 +1,44 @@
+{
+  "id": "kappler-861",
+  "name": "Treaty with the Chippewa, Red Lake and Pembina Bands, 1863 (Treaty of Old Crossing)",
+  "aka": ["Treaty of Old Crossing", "Old Crossing Treaty"],
+  "signed": "1863-10-02",
+  "ratified": "1864-03-01",
+  "proclaimed": "1864-05-05",
+  "citation": "13 Stat. 667",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-red-lake-and-pembina-bands-1863-0853",
+  "nations": ["Red Lake Band of Ojibwe (Miskwaagamiiwi-zaaga'iganing)", "Pembina Band of Ojibwe (today within the Turtle Mountain, White Earth and Little Shell communities)"],
+  "promises": [
+    "Article 3: $20,000 a year for twenty years, paid per capita after an enrollment, with up to $5,000 a year that the President could direct to agriculture, education and goods.",
+    "Article 4: no punishment for past offences, and a fund to settle traders' depredation claims, with any balance added to the bands' annuities.",
+    "Article 5: payments to chiefs out of the annuities, $500 a year for agriculture and $5,000 for a road from Leech Lake to Red Lake.",
+    "Article 8: a 160-acre homestead within the ceded area for each qualifying adult mixed-blood relative."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1961-10-05",
+      "what": "The Commission valued the lands ceded in the Red River Valley and northwestern Minnesota at $3,369,726 and found the consideration unconscionable; the treaty-date value of what the United States actually paid was $512,518.43.",
+      "whoFoundIt": "Indian Claims Commission, Red Lake, Pembina and White Earth Bands v. United States, Dockets 18-A, 113 and 191, 9 Ind. Cl. Comm. 457 (1961)",
+      "source": { "title": "Red Lake, Pembina and White Earth Bands v. United States, Dockets 18-A, 113, 191, Opinion of the Commission, October 5, 1961", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/174", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+    }
+  ],
+  "compensation": "The Commission's amended final award of April 24, 1964 gave $2,034,889.56 ($3,369,726 less $635,774.87 paid on the claim and $699,061.57 in gratuitous offsets): $1,797,761.74 to the Red Lake Band and $237,127.82 to the Pembina Band.",
+  "today": "The Red Lake Nation holds the lands around Red Lake that it did not cede in 1863.",
+  "nationVoice": [],
+  "sources": [
+    { "title": "Treaty with the Chippewa, Red Lake and Pembina Bands, 1863 (Kappler)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-red-lake-and-pembina-bands-1863-0853", "publisher": "Oklahoma State University Libraries" },
+    { "title": "Red Lake, Pembina and White Earth Bands v. United States, Opinion of the Commission, June 15, 1961", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/16", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Red Lake, Pembina and White Earth Bands v. United States, Opinion of the Commission, October 5, 1961", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/174", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Red Lake, Pembina and White Earth Bands v. United States, Amended Final Award, April 24, 1964", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/618", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+  ],
+  "openQuestions": [
+    "The 1958 valuation opinion (6 Ind. Cl. Comm. 247, OSU pointers 268 and 200) that first held the consideration unconscionable and gives the acreage was not opened; the acreage ceded is left out until it is.",
+    "The 1863 treaty was amended by the Senate and supplemented by the treaty of April 12, 1864 (13 Stat. 689); the supplement's changes to the annuities were not compared.",
+    "The Red Lake Nation's own account of the treaty (redlakenation.org, Red Lake Nation News coverage of Old Crossing commemorations) was not opened. Turtle Mountain's later claims in Docket 113 (1970-1978) concern the Pembina share and are a lead.",
+    "The 'today' sentence is general and should be tied to a dated Red Lake source."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

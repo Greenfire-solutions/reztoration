@@ -1,0 +1,20 @@
+{
+  "id": "kappler-1016",
+  "auditedAt": "2026-11-07",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty dates and citation (signed 1868-05-07, ratified 1868-07-25, proclaimed 1868-08-12, 15 Stat. 649) against the OSU Kappler text, p. 1008",
+    "Promises against Articles 2, 4, 7, 9 and 11 of the OSU text",
+    "ICC Docket 54 interlocutory order (OSU id 189): 30,530,764.8 acres ceded, 8,000,409 acres reserved, value $12,212,305.00 on May 7, 1868, consideration unconscionable, award $10,567,720 less offsets, dated February 12, 1958",
+    "ICC Docket 54 opinion (OSU id 2): consideration $1,644,585.49 stated legibly; value $12,212,305.00 at about 40 cents an acre",
+    "Herrera v. Wyoming (Cornell LII): decided May 20, 2019; facts of the charge; holding; judgment vacated and remanded; quote exact"
+  ],
+  "changes": [
+    "Promise 1: 'bounded on the west by the 107th meridian' corrected to 'on the east' (Article 2)",
+    "openQuestions: award reading note reworded to say which figures were legible and where; audit line added"
+  ],
+  "unverifiable": [
+    "Award digits partly lost in OCR ('$10,~67,'720~00'); confirmed only by subtraction of two legible figures, rounded",
+    "Final judgment after offsets: OSU entries for Docket 54 after 1958 (ids 317, 127, 800, 612) are on attorney fees and expert expenses or have no text"
+  ]
+}

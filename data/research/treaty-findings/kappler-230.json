@@ -1,0 +1,38 @@
+{
+  "id": "kappler-230",
+  "name": "Treaty with the Kansa, 1825",
+  "aka": ["Treaty of St. Louis with the Kanzas Nation, June 3, 1825"],
+  "signed": "1825-06-03",
+  "proclaimed": "1825-12-30",
+  "citation": "7 Stat. 244",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-kansa-1825-0222",
+  "nations": ["Kaw Nation (Kanza)"],
+  "promises": [
+    "Article 2: a reservation thirty miles wide along the Kansas River, including the nation's village, kept for the Kanza.",
+    "Article 3: $3,500 a year for twenty years.",
+    "Article 4: 300 cattle, 300 hogs, 500 fowls, three yoke of oxen, two carts and farm tools, and people employed to help and teach farming.",
+    "Article 5: thirty-six sections on the Big Blue River to be sold to fund schools for Kanza children.",
+    "Article 6: one-mile-square reservations for named Kanza children of mixed descent."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "The Kaw claimed before the Indian Claims Commission that the cession outside the reservation was 18,314,240 acres; the Commission did not accept that the Kaw held title to it (Docket 34, 1951).",
+  "compensation": "No additional award for this cession. The Indian Claims Commission dismissed the Kaw claim for more compensation (Docket 34) in 1951, holding that the Kaw had proved neither recognised title nor aboriginal ownership of the land ceded in 1825. The Commission did make awards for the later cessions of the 1825 reservation under the 1846 treaty (Dockets 33 and 35).",
+  "today": "The Kaw Nation is headquartered in Kaw City, Oklahoma. The reservation this treaty set apart was itself ceded under the 1846 treaty (kappler-560).",
+  "nationVoice": [
+    { "nation": "Kaw Nation", "summary": "Says the United States kept renegotiating treaties and avoiding commitments, shrinking a homeland of about 20 million acres until the nation was forced out of Kansas to about 100,000 acres in Indian Territory.", "url": "https://kawnation.gov/history/" }
+  ],
+  "sources": [
+    { "title": "Treaty with the Kansa, 1825 (Kappler, vol. 2, p. 222)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-kansa-1825-0222", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
+    { "title": "McCauley ex rel. Kaw Tribe v. United States, Dockets 33, 34 and 35, Opinion (1951), 1 Ind. Cl. Comm. 617", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/486", "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions" },
+    { "title": "McCauley ex rel. Kaw Tribe v. United States, Opinion of the Commission on offsets (1952), 2 Ind. Cl. Comm. 144", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/309", "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions" },
+    { "title": "History", "url": "https://kawnation.gov/history/", "publisher": "Kaw Nation" }
+  ],
+  "openQuestions": [
+    "The ICC dismissal turned on proof of title, not on whether the 1825 promises were kept. No record was found on whether the Article 3 annuities, the Article 4 livestock and the Article 5 school lands were delivered.",
+    "Whether the Article 6 reservations for Kanza children of mixed descent were later lost to sale or fraud was not researched; it is a lead.",
+    "The Kaw Nation's history page is general and does not name this treaty, so it is shown as the nation's voice, not as a breach."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

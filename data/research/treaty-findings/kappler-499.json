@@ -1,0 +1,135 @@
+{
+  "id": "kappler-499",
+  "name": "Treaty with the Chippewa, 1837 (Treaty of St. Peters)",
+  "aka": [
+    "Treaty of St. Peters",
+    "White Pine Treaty",
+    "1837 Treaty"
+  ],
+  "signed": "1837-07-29",
+  "proclaimed": "1838-06-15",
+  "citation": "7 Stat. 536",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-1837-0491",
+  "nations": [
+    "Ojibwe (Chippewa) bands of the Mississippi and Lake Superior, including Mille Lacs, Leech Lake, Fond du Lac, St. Croix, Lac Courte Oreilles and Lac du Flambeau"
+  ],
+  "promises": [
+    "Article 5: the privilege of hunting, fishing and gathering wild rice on the lands, rivers and lakes ceded was guaranteed to the Ojibwe, during the pleasure of the President.",
+    "Article 2: for twenty years, $9,500 a year in money, $19,000 in goods, $3,000 for three blacksmith shops, $1,000 for farmers and farm supplies, $2,000 in provisions and $500 in tobacco.",
+    "Article 3: $100,000 to the mixed-blood relatives of the Ojibwe; Article 4: $70,000 toward named traders' claims against the Ojibwe.",
+    "The treaty says nothing about removal from the ceded land (Supreme Court, 1999)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "executive-action",
+      "date": "1850-02-06",
+      "what": "President Zachary Taylor ordered the Ojibwe's hunting, fishing and gathering privileges under Article 5 revoked and the Ojibwe removed to their unceded lands. The Supreme Court later held the order was not authorized by any Act of Congress or by the treaty, and was ineffective.",
+      "whoFoundIt": "Executive Order of February 6, 1850, as described and held invalid in Minnesota v. Mille Lacs Band of Chippewa Indians, 526 U.S. 172 (1999)",
+      "source": {
+        "title": "Minnesota v. Mille Lacs Band of Chippewa Indians, opinion of the Court (No. 97-1337)",
+        "url": "https://www.law.cornell.edu/supct/html/97-1337.ZO.html",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      }
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1999-03-24",
+      "what": "In a case begun over Minnesota's refusal to recognise the rights, the Supreme Court held the Ojibwe retain the usufructuary rights guaranteed by this treaty: the 1850 order did not end them, the Mille Lacs Band did not give them up in the 1855 treaty, and Minnesota's statehood in 1858 did not extinguish them.",
+      "whoFoundIt": "Minnesota v. Mille Lacs Band of Chippewa Indians, 526 U.S. 172 (1999)",
+      "source": {
+        "title": "Minnesota v. Mille Lacs Band of Chippewa Indians, syllabus (No. 97-1337)",
+        "url": "https://www.law.cornell.edu/supct/html/97-1337.ZS.html",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
+      "quote": "The Chippewa retain the usufructuary rights guaranteed to them by the 1837 Treaty."
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1983-01-25",
+      "what": "The Seventh Circuit held that the Lac Courte Oreilles Band holds treaty-recognised usufructuary rights under the 1837 and 1842 treaties, that the 1850 Removal Order was invalid, and that the 1854 treaty did not release the rights, reversing a judgment for Wisconsin officials.",
+      "whoFoundIt": "Lac Courte Oreilles Band of Lake Superior Chippewa Indians v. Voigt, 700 F.2d 341 (7th Cir. 1983)",
+      "source": {
+        "title": "Lac Courte Oreilles Band v. Voigt, 700 F.2d 341 (7th Cir. 1983)",
+        "url": "https://law.resource.org/pub/us/case/reporter/F2/700/700.F2d.341.78-2398.78-2443.79-1014.html",
+        "publisher": "Public.Resource.Org"
+      },
+      "quote": "The Removal Order of 1850 did not abrogate those rights because the Order was invalid."
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1971-07-21",
+      "what": "The Commission found the land ceded (Royce Area 242, in Minnesota and Wisconsin) had a fair market value of $9,875,000 and that the $870,000 consideration in the treaty was unconscionable.",
+      "whoFoundIt": "Indian Claims Commission, Minnesota Chippewa Tribe v. United States, Docket 18-C, 26 Ind. Cl. Comm. 22 (1971), as restated in 32 Ind. Cl. Comm. 192 (1973)",
+      "source": {
+        "title": "Minnesota Chippewa Tribe v. United States, Docket 18-C, Opinion of the Commission, November 7, 1973",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1264",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "what": "The Great Lakes Indian Fish and Wildlife Commission, the agency of its Ojibwe member tribes, states that the tribes kept the right to hunt, fish and gather when they ceded land, and that state governments aggressively denied those rights.",
+      "whoFoundIt": "Great Lakes Indian Fish and Wildlife Commission (GLIFWC)",
+      "source": {
+        "title": "Treaty Rights",
+        "url": "https://www.glifwc.org/TreatyRights/",
+        "publisher": "Great Lakes Indian Fish and Wildlife Commission"
+      },
+      "quote": "State governments aggressively denied the Tribes' lawfully retained rights to hunt, fish, and gather."
+    }
+  ],
+  "compensation": "On November 7, 1973 the Commission entered a final award of $9,027,559.60 in Docket 18-C, after deducting $835,378.08 paid on the claim and $12,062.32 in offsets, allocated one third to the Chippewas of the Mississippi and two thirds to the Chippewas of Lake Superior.",
+  "today": "The 1999 Supreme Court ruling that the 1837 rights survive stands. GLIFWC, acting for its Ojibwe member tribes, describes tribal hunting, fishing and gathering on public lands and waters in the ceded territories (GLIFWC Treaty Rights page).",
+  "nationVoice": [
+    {
+      "nation": "Great Lakes Indian Fish and Wildlife Commission (Ojibwe member tribes)",
+      "summary": "The tribes' own commission says the rights were retained, not granted, and that states aggressively denied them until the courts affirmed them.",
+      "url": "https://www.glifwc.org/TreatyRights/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Chippewa, 1837 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-1837-0491",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Minnesota v. Mille Lacs Band of Chippewa Indians, syllabus",
+      "url": "https://www.law.cornell.edu/supct/html/97-1337.ZS.html",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Minnesota v. Mille Lacs Band of Chippewa Indians, opinion",
+      "url": "https://www.law.cornell.edu/supct/html/97-1337.ZO.html",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Lac Courte Oreilles Band v. Voigt, 700 F.2d 341 (7th Cir. 1983)",
+      "url": "https://law.resource.org/pub/us/case/reporter/F2/700/700.F2d.341.78-2398.78-2443.79-1014.html",
+      "publisher": "Public.Resource.Org"
+    },
+    {
+      "title": "Minnesota Chippewa Tribe v. United States, Docket 18-C, Opinion, November 7, 1973",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1264",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Minnesota Chippewa Tribe v. United States, Docket 18-C, Final Award, November 7, 1973",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1293",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Treaty Rights",
+      "url": "https://www.glifwc.org/TreatyRights/",
+      "publisher": "Great Lakes Indian Fish and Wildlife Commission"
+    }
+  ],
+  "openQuestions": [
+    "How the rights are co-managed with Minnesota and Wisconsin today was not documented from a dated source in this pass.",
+    "The 1850 removal effort led to the Sandy Lake deaths of 1850-51; a primary or tribal source documenting it was not opened in this pass.",
+    "The 1971 valuation opinion (26 Ind. Cl. Comm. 22) was not opened directly; its figures are taken from the 1973 opinion's restatement."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

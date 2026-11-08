@@ -1,0 +1,112 @@
+{
+  "id": "cession-1891-03-03-gros-ventre-mandan",
+  "name": "Agreement with the Arikara, Gros Ventre and Mandan of Fort Berthold, 1886 (ratified by the Act of March 3, 1891)",
+  "aka": [
+    "Fort Berthold Agreement of December 14, 1886"
+  ],
+  "signed": "1886-12-14",
+  "ratified": "1891-03-03",
+  "citation": "26 Stat. 989, 1032",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-26/pdf/STATUTE-26-Pg989.pdf",
+  "nations": [
+    "Numakaki (Mandan)",
+    "Hidatsa (Gros Ventre of the Missouri)",
+    "Sahnish (Arikara)"
+  ],
+  "promises": [
+    "Article I: the three nations ceded the part of the Fort Berthold Reservation north of the 48th parallel and the part west of a line six miles west of the big bend of the Missouri, keeping the rest.",
+    "Article II: $80,000 a year for ten years, spent at the Secretary of the Interior's direction for the nations' benefit.",
+    "Articles IV and VI: allotments and the remaining tribal land held in trust for 25 years and then patented to the allottees and the tribes free of all charge.",
+    "Article VII: the nations' wishes to be consulted and to govern, as far as practicable, how the money was spent, with tribal members preferred for agency jobs."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1968-10-29",
+      "what": "The Indian Claims Commission found the 1,782,831.64 acres ceded were worth $2,585,105.88 (an average of $1.45 an acre) on March 3, 1891, and that the $800,000 paid was unconscionable on its face. It awarded $1,785,105.88 less any offsets.",
+      "whoFoundIt": "Indian Claims Commission, Docket 350-A, 20 Ind. Cl. Comm. 37 (1968)",
+      "source": {
+        "title": "Three Affiliated Tribes v. United States, Docket 350-A, Opinion of the Commission (1968), 20 Ind. Cl. Comm. 37",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2708",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      },
+      "quote": "petitioner received consideration of $800,000, which is unconscionable on its face in comparison with the value of the land"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1975-01-02",
+      "what": "The Indian Claims Commission held that the nations' aboriginal title to a large tract north and east of the Missouri, outside the reservation, was extinguished by Congress through this Act on May 20, 1891, and ordered the land valued as of that date. The claim (Docket 350-C) was then settled for $6,500,000 in 1976.",
+      "whoFoundIt": "Indian Claims Commission, Docket 350-C, 35 Ind. Cl. Comm. 269 (1975)",
+      "source": {
+        "title": "Three Affiliated Tribes v. United States, Docket 350-C, Opinion of the Commission (1975), 35 Ind. Cl. Comm. 269",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1566",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1969-06-18",
+      "what": "Dockets 350-A, 350-E and 350-H were closed together by a compromise judgment of $1,850,000.",
+      "whoFoundIt": "Indian Claims Commission, final judgment, 21 Ind. Cl. Comm. 92 (1969)",
+      "source": {
+        "title": "Three Affiliated Tribes v. United States, Dockets 350-A, 350-E and 350-H, Final Judgment (1969), 21 Ind. Cl. Comm. 92",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2590",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "what": "The MHA Nation says the 1851 Fort Laramie treaty recognised over 12 million acres as its homeland and that later treaties, executive orders and Acts of Congress reduced this to less than 3 million.",
+      "whoFoundIt": "MHA Nation (Three Affiliated Tribes), History page",
+      "source": {
+        "title": "History",
+        "url": "https://www.mhanation.com/history",
+        "publisher": "MHA Nation (Three Affiliated Tribes)"
+      }
+    }
+  ],
+  "landTaken": "1,782,831.64 acres in northwestern North Dakota, part south of the Missouri held under the 1851 Fort Laramie treaty and part north-east of it added to the reservation by the executive order of July 13, 1880 (Docket 350-A, 1968).",
+  "compensation": "$800,000 under the agreement ($80,000 a year for ten years). The ICC found $2,585,105.88 to be the value; the claim ended in a $1,850,000 compromise judgment covering Dockets 350-A, 350-E and 350-H in 1969.",
+  "today": "The diminished reservation was further opened by the Act of June 1, 1910 (Docket 350-F) and flooded by the Garrison Dam; neither is recorded here.",
+  "nationVoice": [
+    {
+      "nation": "MHA Nation (Three Affiliated Tribes)",
+      "summary": "Counts the executive orders and federal acts after 1851 as the steps by which over 12 million recognised acres became less than 3 million.",
+      "url": "https://www.mhanation.com/history"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Act of March 3, 1891, ch. 543, sec. 23, 26 Stat. 989, 1032 (ratifying the Fort Berthold agreement of December 14, 1886)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-26/pdf/STATUTE-26-Pg989.pdf",
+      "publisher": "U.S. Government Publishing Office, govinfo"
+    },
+    {
+      "title": "Three Affiliated Tribes v. United States, Docket 350-A, Opinion of the Commission (1968), 20 Ind. Cl. Comm. 37",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2708",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Three Affiliated Tribes v. United States, Dockets 350-A, 350-E and 350-H, Final Judgment (1969), 21 Ind. Cl. Comm. 92",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2590",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History",
+      "url": "https://www.mhanation.com/history",
+      "publisher": "MHA Nation (Three Affiliated Tribes)"
+    },
+    {
+      "title": "Three Affiliated Tribes v. United States, Docket 350-C, Opinion of the Commission (1975), 35 Ind. Cl. Comm. 269",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1566",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "Royce lists two areas (712 and 713) under this id; 713 appears to be the remaining reservation later opened under the 1910 Act (Docket 350-F), which this file does not cover.",
+    "How the 1969 compromise was divided among the three dockets was not found."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

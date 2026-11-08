@@ -1,0 +1,39 @@
+{
+  "id": "kappler-198",
+  "name": "Treaty with the Wea, 1820",
+  "aka": ["Treaty of Vincennes with the Wea, August 11, 1820"],
+  "signed": "1820-08-11",
+  "proclaimed": "1821-01-08",
+  "citation": "7 Stat. 209",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-wea-1820-0190",
+  "nations": ["Wea (now part of the Peoria Tribe of Indians of Oklahoma)"],
+  "promises": [
+    "$5,000 in money and goods for the Wabash reservation kept under the 1818 treaty (Article 2).",
+    "The Wea annuity under the 1818 treaty would be paid at Kaskaskia, Illinois, after their move (Article 3)."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "litigation",
+      "date": "1967-07-18",
+      "what": "The Wea claimed before the Indian Claims Commission that $5,000, about 18 cents an acre, was not a fair or conscionable price for the 27,330.66-acre reservation ceded by this treaty. The parties settled for a net final judgment of $33,262.92, approved by the Peoria Tribe's Business Committee, without a ruling on the merits.",
+      "whoFoundIt": "Indian Claims Commission, Peoria Tribe of Indians of Oklahoma on behalf of the Wea Nation v. United States, Docket 314-E, Findings of Fact and Final Judgment of 18 July 1967 (18 Ind. Cl. Comm. 463)",
+      "source": { "title": "Peoria Tribe on behalf of the Wea Nation v. United States, Docket 314-E, Findings of Fact (1967)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2704", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+    }
+  ],
+  "landTaken": "Royce Area 114, the Wea reservation on the Wabash in Indiana, 27,330.66 acres by the Bureau of Land Management's survey plats (Docket 314-E findings, 1967).",
+  "compensation": "$5,000 in money and goods, about 18 cents an acre. Settlement judgment of $33,262.92 in 1967.",
+  "today": "The Wea united with the Piankeshaw, Peoria and Kaskaskia in 1849, formally recognized by the treaty of 30 May 1854, and their claims are carried by the Peoria Tribe of Indians of Oklahoma (Docket 314-E findings).",
+  "nationVoice": [],
+  "sources": [
+    { "title": "Treaty with the Wea, 1820 (Kappler)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-wea-1820-0190", "publisher": "Oklahoma State University Libraries" },
+    { "title": "Peoria Tribe on behalf of the Wea Nation v. United States, Docket 314-E, Findings of Fact (1967)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2704", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Peoria Tribe on behalf of the Wea Nation v. United States, Docket 314-E, Final Judgment (1967)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2747", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+  ],
+  "openQuestions": [
+    "The settlement made no finding that the price was unconscionable, so this treaty is shown as contested, not broken.",
+    "A Peoria Tribe statement on this treaty was not found."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

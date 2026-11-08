@@ -1,0 +1,37 @@
+[
+ {
+  "id": "four-winds-south-bend",
+  "name": "Four Winds South Bend",
+  "category": "tourism",
+  "subcategory": "casino and restaurants",
+  "nation": "Pokagon Band of Potawatomi Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Four Winds South Bend (copyright Pokagon Band of Potawatomi Indians)",
+   "url": "https://fourwindscasino.com/southbend/"
+  },
+  "description": "Casino of the Pokagon Band on its trust land in South Bend, the first tribal casino in Indiana.",
+  "website": "https://fourwindscasino.com/southbend/",
+  "address": "3000 Prairie Avenue",
+  "city": "South Bend",
+  "state": "IN",
+  "zip": "46614",
+  "sources": [
+   {
+    "title": "Four Winds South Bend",
+    "url": "https://fourwindscasino.com/southbend/"
+   },
+   {
+    "title": "Inside Indiana Business: opening date set for South Bend casino",
+    "url": "https://www.insideindianabusiness.com/articles/opening-date-set-for-south-bend-casino-four-winds-pokagon-band-potawatomi-indians-tribal"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -86.291,
+   41.6448
+  ],
+  "lonlatPrecision": "address"
+ }
+]

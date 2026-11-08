@@ -1,0 +1,23 @@
+{
+  "id": "kappler-211",
+  "auditedAt": "2026-11-07",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty date, citation and proclamation (1823-09-18, 7 Stat. 224, proclaimed 1824-01-02) against the OSU Kappler text, p. 203",
+    "Promises against Articles III to VI ($6,000 stock and tools, $5,000 a year for twenty years, twelve months' rations, $4,500 for improvements, up to $2,000 transport, $1,000 a year each for school and smith)",
+    "ICC Dockets 73 and 151 opinion and findings of May 13, 1970 (OSU ids 920, 1708, 1281): 23,892,626 acres valued as of September 18, 1823; payment $152,500.00 for land worth over $12 million clearly unconscionable; recovery $12,347,500.00; 1832 reservation payment of $2,094,603.33 not unconscionable",
+    "ICC final award of October 22, 1970 (OSU id 2630): offsets $84,719.37, award $12,262,780.63",
+    "ICC compromise findings and final award of April 27, 1976 (OSU ids 1148, 1268): history including the Court of Claims remand of February 18, 1972 (197 Ct. Cl. 350); $16,000,000 compromise on behalf of the Seminole Nation as it existed in Florida on September 18, 1823",
+    "Senate hearing of March 2, 1978 (govinfo PDF): Bartlett statement and quote exact; Traditional Seminole testimony on 28 years without a hearing"
+  ],
+  "changes": [
+    "Breach 1 now cites the ICC opinion directly (OSU id 920) instead of a secondary summary; quote corrected ('.oo' to '.00'); $12,347,500 award, the 1970 final award and the 1972 remand added to 'what'",
+    "Breach 2 kind changed from claims-commission to litigation (a compromise settlement, per the auditor rules)",
+    "compensation: first final award date corrected from 12 October 1970 to 22 October 1970, cents and offsets added",
+    "landTaken now cites the ICC opinion; 'about' removed from two exact treaty amounts; four ICC sources added; audit line added"
+  ],
+  "unverifiable": [
+    "Court of Claims remand, 197 Ct. Cl. 350 (1972), not opened; known only through the Commission's 1976 history",
+    "Public Law 101-277 (1990) and the Kersey summary not re-opened"
+  ]
+}

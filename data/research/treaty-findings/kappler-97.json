@@ -1,0 +1,51 @@
+{
+  "id": "kappler-97",
+  "name": "Treaty with the Piankashaw, 1805",
+  "aka": ["Treaty of Vincennes with the Piankeshaw, December 30, 1805"],
+  "signed": "1805-12-30",
+  "ratified": "1807-05-22",
+  "proclaimed": "1807-05-23",
+  "citation": "7 Stat. 100",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-piankashaw-1805-0089",
+  "nations": ["Piankeshaw (now part of the Peoria Tribe of Indians of Oklahoma)"],
+  "promises": [
+    "The United States took the Piankeshaw under its 'immediate care and patronage' with protection as effectual as that given the Kaskaskia (Article 2).",
+    "An additional permanent annuity of $300 a year, plus $1,100 delivered at signing (Articles 3 and 4).",
+    "The right to live and hunt on the ceded lands as long as they remained United States property, and a reserved tract of 1,280 acres held in fee forever (Article 5)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1969-12-05",
+      "what": "The Indian Claims Commission found that the 2,622,000 acres ceded under this treaty (Royce Area 63, southeastern Illinois) were worth $1.25 an acre on 23 May 1807, against a consideration worth $7,100 (the $1,100 payment and the $300 annuity commuted at $6,000), and held that consideration unconscionable. It found the Piankeshaw entitled to $3,277,500 less the $7,100 credit.",
+      "whoFoundIt": "Indian Claims Commission, Peoria Tribe of Indians of Oklahoma on behalf of the Piankeshaw Nation v. United States, Docket 99, Supplemental Findings of Fact of 5 December 1969 (22 Ind. Cl. Comm. 186)",
+      "source": { "title": "Peoria Tribe v. United States, Docket 99 (with 314-C and 317), Supplemental Findings of Fact (1969)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2276", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+      "quote": "The Commission concludes that the value of the consideration for Royce Area 63 was unconscionable"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1970-02-11",
+      "what": "The Commission entered a final award of $3,270,400 to the Peoria Tribe of Indians of Oklahoma on behalf of the Piankeshaw Nation.",
+      "whoFoundIt": "Indian Claims Commission, Docket 99, Final Award of 11 February 1970 (22 Ind. Cl. Comm. 442)",
+      "source": { "title": "Peoria Tribe v. United States, Docket 99, Final Award (1970)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1923", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+    }
+  ],
+  "landTaken": "Royce Area 63, 2,622,000 acres in the Wabash valley in southeastern Illinois (Docket 99 supplemental findings, 1969).",
+  "compensation": "$1,100 at signing and a permanent $300 annuity, valued together by the Commission at $7,100. Final award of $3,270,400 in 1970, with the United States reserving the right to claim offsets for gratuities after 23 May 1807.",
+  "today": "In earlier findings (Docket 99, 1966) the Commission held the Piankeshaw had recognized title to the whole area, so they did not have to prove aboriginal occupancy.",
+  "nationVoice": [],
+  "sources": [
+    { "title": "Treaty with the Piankashaw, 1805 (Kappler)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-piankashaw-1805-0089", "publisher": "Oklahoma State University Libraries" },
+    { "title": "Peoria Tribe v. United States, Docket 99, Findings of Fact (1966)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1122", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Peoria Tribe v. United States, Docket 99 (with 314-C and 317), Supplemental Findings of Fact (1969)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2276", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+    { "title": "Peoria Tribe v. United States, Docket 99, Final Award (1970)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1923", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+  ],
+  "openQuestions": [
+    "The Peoria Tribe of Indians of Oklahoma website (peoriatribe.com) has no history page on this treaty; a nation statement is still wanted.",
+    "What became of the 1,280-acre fee tract reserved by Article 5 was not researched.",
+    "The queue also lists the Miami Tribe of Oklahoma for this entry; the ICC award ran to the Peoria Tribe on behalf of the Piankeshaw."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

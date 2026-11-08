@@ -1,0 +1,495 @@
+[
+ {
+  "id": "seattle-indian-health-board",
+  "name": "Seattle Indian Health Board",
+  "category": "health",
+  "subcategory": "urban Indian health center",
+  "nation": "Urban Indian community",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Indian Health Service: Title V Urban Indian Organizations, Portland Area",
+   "url": "https://www.ihs.gov/urban/urban-indian-organizations/portland/"
+  },
+  "description": "Community health center for Native people in Seattle offering medical, dental, behavioural health and traditional medicine.",
+  "website": "https://www.sihb.org/",
+  "city": "Seattle",
+  "state": "WA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indian Health Service: Title V Urban Indian Organizations, Portland Area",
+    "url": "https://www.ihs.gov/urban/urban-indian-organizations/portland/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -122.3301,
+   47.6038
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "native-american-health-center",
+  "name": "Native American Health Center",
+  "category": "health",
+  "subcategory": "urban Indian health center",
+  "nation": "Urban Indian community",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Indian Health Service: Title V Urban Indian Organizations, California Area",
+   "url": "https://www.ihs.gov/urban/urban-indian-organizations/california/"
+  },
+  "description": "Bay Area community health center with medical, dental, behavioural health and youth programs.",
+  "website": "https://www.nativehealth.org/",
+  "city": "Oakland",
+  "state": "CA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indian Health Service: Title V Urban Indian Organizations, California Area",
+    "url": "https://www.ihs.gov/urban/urban-indian-organizations/california/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -122.2714,
+   37.8045
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "native-health-phoenix",
+  "name": "Native Health",
+  "category": "health",
+  "subcategory": "urban Indian health center",
+  "nation": "Urban Indian community",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Indian Health Service: Title V Urban Indian Organizations, Phoenix Area",
+   "url": "https://www.ihs.gov/urban/urban-indian-organizations/phoenix/"
+  },
+  "description": "Phoenix community health center with medical, dental, behavioural health and wellness programs.",
+  "website": "https://www.nativehealthphoenix.org/",
+  "city": "Phoenix",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indian Health Service: Title V Urban Indian Organizations, Phoenix Area",
+    "url": "https://www.ihs.gov/urban/urban-indian-organizations/phoenix/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -112.0741,
+   33.4484
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "first-nations-community-healthsource",
+  "name": "First Nations Community HealthSource",
+  "category": "health",
+  "subcategory": "urban Indian health center",
+  "nation": "Urban Indian community",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Indian Health Service: Title V Urban Indian Organizations, Albuquerque Area",
+   "url": "https://www.ihs.gov/urban/urban-indian-organizations/albuquerque/"
+  },
+  "description": "Albuquerque health center caring for American Indian and Alaska Native families and other underserved people.",
+  "website": "https://www.fnch.org/",
+  "city": "Albuquerque",
+  "state": "NM",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indian Health Service: Title V Urban Indian Organizations, Albuquerque Area",
+    "url": "https://www.ihs.gov/urban/urban-indian-organizations/albuquerque/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -106.651,
+   35.0841
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "denver-indian-health-and-family-services",
+  "name": "Denver Indian Health and Family Services",
+  "category": "health",
+  "subcategory": "urban Indian health center",
+  "nation": "Urban Indian community",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Indian Health Service: Title V Urban Indian Organizations, Albuquerque Area",
+   "url": "https://www.ihs.gov/urban/urban-indian-organizations/albuquerque/"
+  },
+  "description": "Urban Indian health program giving culturally grounded care to Native adults, children and families in Denver.",
+  "website": "https://www.dihfs.org/",
+  "city": "Denver",
+  "state": "CO",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indian Health Service: Title V Urban Indian Organizations, Albuquerque Area",
+    "url": "https://www.ihs.gov/urban/urban-indian-organizations/albuquerque/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -104.9849,
+   39.7392
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "american-indian-health-and-family-services",
+  "name": "American Indian Health and Family Services",
+  "category": "health",
+  "subcategory": "urban Indian health center",
+  "nation": "Urban Indian community",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Indian Health Service: Title V Urban Indian Organizations, Bemidji Area",
+   "url": "https://www.ihs.gov/urban/urban-indian-organizations/bemidji/"
+  },
+  "description": "Southeast Michigan clinic offering primary care, behavioural health and family programs.",
+  "website": "https://aihfs.org/",
+  "city": "Detroit",
+  "state": "MI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indian Health Service: Title V Urban Indian Organizations, Bemidji Area",
+    "url": "https://www.ihs.gov/urban/urban-indian-organizations/bemidji/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -83.0466,
+   42.3316
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "american-indian-health-service-of-chicago",
+  "name": "American Indian Health Service of Chicago",
+  "category": "health",
+  "subcategory": "urban Indian health center",
+  "nation": "Urban Indian community",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Indian Health Service: Title V Urban Indian Organizations, Bemidji Area",
+   "url": "https://www.ihs.gov/urban/urban-indian-organizations/bemidji/"
+  },
+  "description": "Chicago clinic for primary care, dental and behavioural health.",
+  "website": "https://aihschgo.org/",
+  "city": "Chicago",
+  "state": "IL",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indian Health Service: Title V Urban Indian Organizations, Bemidji Area",
+    "url": "https://www.ihs.gov/urban/urban-indian-organizations/bemidji/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -87.6244,
+   41.8756
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "indian-health-board-of-minneapolis",
+  "name": "Indian Health Board of Minneapolis",
+  "category": "health",
+  "subcategory": "urban Indian health center",
+  "nation": "Urban Indian community",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Indian Health Service: Title V Urban Indian Organizations, Bemidji Area",
+   "url": "https://www.ihs.gov/urban/urban-indian-organizations/bemidji/"
+  },
+  "description": "Long-running Minneapolis clinic with medical, dental and counselling services.",
+  "website": "https://www.ihb-mpls.org/",
+  "city": "Minneapolis",
+  "state": "MN",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indian Health Service: Title V Urban Indian Organizations, Bemidji Area",
+    "url": "https://www.ihs.gov/urban/urban-indian-organizations/bemidji/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -93.2655,
+   44.9773
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "gerald-l-ignace-indian-health-center",
+  "name": "Gerald L. Ignace Indian Health Center",
+  "category": "health",
+  "subcategory": "urban Indian health center",
+  "nation": "Urban Indian community",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Indian Health Service: Title V Urban Indian Organizations, Bemidji Area",
+   "url": "https://www.ihs.gov/urban/urban-indian-organizations/bemidji/"
+  },
+  "description": "Milwaukee health center caring for the urban Indian community and neighbours.",
+  "website": "https://gliihc.net/",
+  "city": "Milwaukee",
+  "state": "WI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indian Health Service: Title V Urban Indian Organizations, Bemidji Area",
+    "url": "https://www.ihs.gov/urban/urban-indian-organizations/bemidji/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -87.9091,
+   43.0386
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "indian-health-care-resource-center-of-tulsa",
+  "name": "Indian Health Care Resource Center of Tulsa",
+  "category": "health",
+  "subcategory": "urban Indian health center",
+  "nation": "Urban Indian community",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Indian Health Service: Title V Urban Indian Organizations, Oklahoma City Area",
+   "url": "https://www.ihs.gov/urban/urban-indian-organizations/oklahoma-city/"
+  },
+  "description": "Tulsa clinic offering medical, dental, behavioural health and wellness care.",
+  "website": "https://www.ihcrc.org/",
+  "city": "Tulsa",
+  "state": "OK",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indian Health Service: Title V Urban Indian Organizations, Oklahoma City Area",
+    "url": "https://www.ihs.gov/urban/urban-indian-organizations/oklahoma-city/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -95.9928,
+   36.1563
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "texas-native-health",
+  "name": "Texas Native Health (Urban Inter-Tribal Center of Texas)",
+  "category": "health",
+  "subcategory": "urban Indian health center",
+  "nation": "Urban Indian community",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Indian Health Service: Title V Urban Indian Organizations, Oklahoma City Area",
+   "url": "https://www.ihs.gov/urban/urban-indian-organizations/oklahoma-city/"
+  },
+  "description": "Dallas health and community services center for the Native community.",
+  "website": "https://texasnativehealth.org/",
+  "city": "Dallas",
+  "state": "TX",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indian Health Service: Title V Urban Indian Organizations, Oklahoma City Area",
+    "url": "https://www.ihs.gov/urban/urban-indian-organizations/oklahoma-city/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -96.7969,
+   32.7763
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "native-project-spokane",
+  "name": "The NATIVE Project",
+  "category": "health",
+  "subcategory": "urban Indian health center",
+  "nation": "Urban Indian community",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Indian Health Service: Title V Urban Indian Organizations, Portland Area",
+   "url": "https://www.ihs.gov/urban/urban-indian-organizations/portland/"
+  },
+  "description": "Spokane health center and youth programs serving Native families and neighbours.",
+  "website": "https://nativeproject.org/",
+  "city": "Spokane",
+  "state": "WA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indian Health Service: Title V Urban Indian Organizations, Portland Area",
+    "url": "https://www.ihs.gov/urban/urban-indian-organizations/portland/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -117.4235,
+   47.6572
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "nara-northwest",
+  "name": "Native American Rehabilitation Association of the Northwest (NARA)",
+  "category": "health",
+  "subcategory": "urban Indian health center",
+  "nation": "Urban Indian community",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Indian Health Service: Title V Urban Indian Organizations, Portland Area",
+   "url": "https://www.ihs.gov/urban/urban-indian-organizations/portland/"
+  },
+  "description": "Portland health center with medical, mental health and addiction treatment, serving Native people since 1970.",
+  "website": "https://www.naranorthwest.org/",
+  "city": "Portland",
+  "state": "OR",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indian Health Service: Title V Urban Indian Organizations, Portland Area",
+    "url": "https://www.ihs.gov/urban/urban-indian-organizations/portland/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -122.6742,
+   45.5202
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "sacramento-native-american-health-center",
+  "name": "Sacramento Native American Health Center",
+  "category": "health",
+  "subcategory": "urban Indian health center",
+  "nation": "Urban Indian community",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Indian Health Service: Title V Urban Indian Organizations, California Area",
+   "url": "https://www.ihs.gov/urban/urban-indian-organizations/california/"
+  },
+  "description": "Sacramento health center offering medical, dental and behavioural care.",
+  "website": "https://snahc.org/",
+  "city": "Sacramento",
+  "state": "CA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indian Health Service: Title V Urban Indian Organizations, California Area",
+    "url": "https://www.ihs.gov/urban/urban-indian-organizations/california/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -121.4939,
+   38.5811
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "native-american-lifelines",
+  "name": "Native American LifeLines",
+  "category": "health",
+  "subcategory": "urban Indian health center",
+  "nation": "Urban Indian community",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Indian Health Service: Title V Urban Indian Organizations, Nashville Area",
+   "url": "https://www.ihs.gov/urban/urban-indian-organizations/nashville/"
+  },
+  "description": "Urban Indian health program in Baltimore and Boston offering behavioural health, dental help and outreach.",
+  "website": "https://nativeamericanlifelines.org/",
+  "city": "Baltimore",
+  "state": "MD",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indian Health Service: Title V Urban Indian Organizations, Nashville Area",
+    "url": "https://www.ihs.gov/urban/urban-indian-organizations/nashville/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -76.6108,
+   39.2909
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "native-americans-for-community-action",
+  "name": "Native Americans for Community Action (NACA)",
+  "category": "health",
+  "subcategory": "urban Indian health center",
+  "nation": "Urban Indian community",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Indian Health Service: Title V Urban Indian Organizations, Navajo Area",
+   "url": "https://www.ihs.gov/urban/urban-indian-organizations/navajo/"
+  },
+  "description": "Northern Arizona health and wellness services honouring Native customs and beliefs.",
+  "website": "https://nacainc.org/",
+  "city": "Flagstaff",
+  "state": "AZ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indian Health Service: Title V Urban Indian Organizations, Navajo Area",
+    "url": "https://www.ihs.gov/urban/urban-indian-organizations/navajo/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -111.6518,
+   35.1988
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "nevada-urban-indians",
+  "name": "Nevada Urban Indians",
+  "category": "health",
+  "subcategory": "urban Indian health center",
+  "nation": "Urban Indian community",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Indian Health Service: Title V Urban Indian Organizations, Phoenix Area",
+   "url": "https://www.ihs.gov/urban/urban-indian-organizations/phoenix/"
+  },
+  "description": "Reno health and community services for Native people in northern Nevada.",
+  "website": "https://www.nevadaurbanindians.org/",
+  "city": "Reno",
+  "state": "NV",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Indian Health Service: Title V Urban Indian Organizations, Phoenix Area",
+    "url": "https://www.ihs.gov/urban/urban-indian-organizations/phoenix/"
+   }
+  ],
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -119.8127,
+   39.5262
+  ],
+  "lonlatPrecision": "town"
+ }
+]

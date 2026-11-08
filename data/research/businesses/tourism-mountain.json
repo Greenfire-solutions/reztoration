@@ -1,0 +1,125 @@
+[
+ {
+  "id": "zims-hot-springs",
+  "name": "Zims Hot Springs",
+  "category": "tourism",
+  "subcategory": "hot springs pools",
+  "nation": "Nez Perce Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Nez Perce Tribe Enterprises",
+   "url": "https://nezperce.org/enterprises"
+  },
+  "description": "Natural hot springs pools near New Meadows, one of the Nez Perce Tribe's enterprises.",
+  "website": "https://nezperce.org/enterprises",
+  "address": "2995 Zims Rd",
+  "city": "New Meadows",
+  "state": "ID",
+  "sources": [
+   {
+    "title": "Nez Perce Tribe Enterprises",
+    "url": "https://nezperce.org/enterprises"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -116.2887,
+   45.0388
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "shoshone-bannock-tribal-museum",
+  "name": "Shoshone-Bannock Tribal Museum",
+  "category": "tourism",
+  "subcategory": "tribal museum and store",
+  "nation": "Shoshone-Bannock Tribes",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Shoshone-Bannock Tribes Language and Culture: Tribal Museum",
+   "url": "https://www.sbtribes.com/language-culture/"
+  },
+  "description": "Tribal museum on the Oregon Trail at Fort Hall; its store sells beadwork and jewelry made by Shoshone-Bannock tribal members, books and music.",
+  "website": "https://www.sbtribes.com/language-culture/",
+  "city": "Fort Hall",
+  "state": "ID",
+  "sources": [
+   {
+    "title": "Shoshone-Bannock Tribes Language and Culture",
+    "url": "https://www.sbtribes.com/language-culture/"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -112.4383,
+   43.0332
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "wind-river-hotel-casino",
+  "name": "Wind River Hotel and Casino",
+  "category": "tourism",
+  "subcategory": "hotel, casino and Northern Arapaho cultural room",
+  "nation": "Northern Arapaho Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Wind River Hotel and Casino is 100% owned by the Northern Arapaho Tribe",
+   "url": "https://www.windriverhotelcasino.com/"
+  },
+  "description": "Hotel and casino on the Wind River Reservation, wholly owned by the Northern Arapaho Tribe, with a cultural room about Arapaho history.",
+  "website": "https://www.windriverhotelcasino.com/",
+  "address": "180 Red Wolf Place",
+  "city": "Riverton",
+  "state": "WY",
+  "zip": "82501",
+  "sources": [
+   {
+    "title": "Wind River Hotel and Casino",
+    "url": "https://www.windriverhotelcasino.com/"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -108.3807,
+   43.0247
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "shoshone-rose-casino-hotel",
+  "name": "Shoshone Rose Casino and Hotel",
+  "category": "tourism",
+  "subcategory": "hotel and casino",
+  "nation": "Eastern Shoshone Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Eastern Shoshone Tribe links: Shoshone Rose Casino and Hotel",
+   "url": "https://easternshoshone.org/links/"
+  },
+  "description": "The Eastern Shoshone Tribe's casino and hotel on the Wind River Reservation near Lander.",
+  "website": "https://shoshonerose.com/",
+  "city": "Lander",
+  "state": "WY",
+  "sources": [
+   {
+    "title": "Shoshone Rose Casino and Hotel",
+    "url": "https://shoshonerose.com/"
+   },
+   {
+    "title": "Eastern Shoshone Tribe",
+    "url": "https://easternshoshone.org/links/"
+   }
+  ],
+  "homeBased": false,
+  "checkedAt": "2026-11-07",
+  "lonlat": [
+   -108.7307,
+   42.8331
+  ],
+  "lonlatPrecision": "town"
+ }
+]

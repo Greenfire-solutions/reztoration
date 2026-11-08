@@ -1,0 +1,20 @@
+{
+  "id": "kappler-616",
+  "auditedAt": "2026-11-07",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty dates and citation (signed 1854-03-15, ratified 1854-04-17, proclaimed 1854-06-21, 10 Stat. 1038) against the OSU Kappler text, p. 608",
+    "Promises against Articles 1, 4, 5, 7 and 8 of the OSU text",
+    "ICC Docket 11 Findings (OSU id 350), findings 12(3), 15 to 18: 1,250,000 acres by stipulation, 162,107.71-acre reservation outside the ceded area, net 1,087,892.29 acres, value $1.00 an acre, $463,423.74 received, 'may not, in a strict sense' be unconscionable but 'unquestionably unfair', 120,000 acres sold under the 1876 act, remainder under 21 Stat. 380 (1881)",
+    "ICC Docket 11 Opinion (OSU id 0): award $624,468.55 for this cession, about 42 cents an acre, total $1,179,058.40 less offsets, no interest",
+    "Separate opinion (OSU id 239): Commissioner O'Marr dissented from the $624,468.55 award"
+  ],
+  "changes": [
+    "Breach 'what' and compensation: per-cession award $624,468.55 added as stated by the Commission",
+    "openQuestions: replaced the note calling $624,468.55 the researcher's arithmetic; recorded the 19 Stat. 209 / 208 conflict between two Commission documents; added audit line"
+  ],
+  "unverifiable": [
+    "1876 act citation: ICC finding 18 OCR reads 19 Stat. 209, the offsets opinion reads 19 Stat. 208; statute not opened",
+    "131 Ct. Cl. 593 (1955) and the final net award after offsets not opened"
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "kappler-706",
+  "name": "Treaty with the Yakima, 1855 (Treaty with the Yakamas)",
+  "aka": [
+    "Yakama Treaty of 1855",
+    "Treaty of Camp Stevens, June 9, 1855"
+  ],
+  "signed": "1855-06-09",
+  "ratified": "1859-03-08",
+  "proclaimed": "1859-04-18",
+  "citation": "12 Stat. 951",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-yakima-1855-0698",
+  "nations": [
+    "Confederated Tribes and Bands of the Yakama Nation (fourteen tribes and bands)"
+  ],
+  "promises": [
+    "Article 2 reserved a tract between the Attah-nam (Ahtanum) River, the Cascades and the Klickitat divide for the confederated tribes' use and occupation, closed to white residents without permission.",
+    "Article 3 secured the exclusive right of taking fish in streams through or bordering the reservation, fishing at all usual and accustomed places in common with citizens, and hunting, gathering and pasturing on open and unclaimed land.",
+    "Article 4: $200,000 for the cession, part for removal and the rest in annuities.",
+    "Article 10 reserved a further tract of up to six miles square at the forks of the Wenatshapam River, the 'Wenatshapam Fishery', to be surveyed whenever the President directed."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1956-06-05",
+      "what": "The Indian Claims Commission found that the United States failed for decades to locate and survey the Wenatshapam Fishery reserved by Article 10, then obtained its cession by an agreement of January 8, 1894 for $20,000. It found the 23,000 acres worth $69,000 and the price unconscionable, and that additional signatures were not gathered in open council.",
+      "whoFoundIt": "Indian Claims Commission, Yakima Tribe v. United States, Docket 162, findings and opinion of June 5, 1956 (4 Ind. Cl. Comm. 269)",
+      "source": {
+        "title": "Yakima Tribe v. United States, Docket No. 162, Findings of Fact, June 5, 1956",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/370",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1965-06-25",
+      "what": "Reservation land in Tract C, near Ahtanum Creek, was left outside the boundary the government recognized and was patented to others. The Commission entered final judgment for the fair market value of 17,669.10 acres as of January 24, 1923 with interest as part of just compensation, a total of $61,991.40.",
+      "whoFoundIt": "Indian Claims Commission, Yakima Tribe v. United States, Docket 47-A, Final Award, June 25, 1965, on the interlocutory order of November 29, 1957 (5 Ind. Cl. Comm. 636), affirmed 158 Ct. Cl. 672 (1962)",
+      "source": {
+        "title": "Yakima Tribe of Indians v. United States, Docket No. 47-A, Final Award, June 25, 1965",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/608",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1905-05-15",
+      "what": "Non-Indian owners holding federal patents and Washington State fish-wheel licenses had excluded Yakama fishers from their usual fishing places on the Columbia. The Supreme Court held that the treaty right is a servitude on the land that patentees and the State cannot extinguish.",
+      "whoFoundIt": "United States v. Winans, 198 U.S. 371 (1905)",
+      "source": {
+        "title": "United States v. Winans, 198 U.S. 371 (1905)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/198/371",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
+      "quote": "They imposed a servitude upon every piece of land as though described therein."
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1942-03-30",
+      "what": "Washington had prosecuted Sampson Tulee, a Yakama man, for fishing without a state license. The Supreme Court held the State has no power to charge the Yakamas a fee for fishing at their treaty places.",
+      "whoFoundIt": "Tulee v. Washington, 315 U.S. 681 (1942)",
+      "source": {
+        "title": "Tulee v. Washington, 315 U.S. 681 (1942)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/315/681",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      }
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1979-07-02",
+      "what": "In the case brought by the United States in 1970, in which the Yakima Nation and the Treaty with the Yakamas are named, the Supreme Court largely upheld the ruling that the treaty fishing clause secures the tribes a share of the fish, with 50 percent as a ceiling, and recorded that the State Game Department refused to comply with the federal decree.",
+      "whoFoundIt": "Washington v. Washington State Commercial Passenger Fishing Vessel Assn., 443 U.S. 658 (1979)",
+      "source": {
+        "title": "Washington v. Washington State Commercial Passenger Fishing Vessel Assn., 443 U.S. 658 (1979)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/443/658",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1855-07",
+      "what": "The Yakama Nation says that one month after the treaty was signed, and nearly four years before it was ratified, Governor Stevens declared all the ceded lands open to white settlement through Northwest newspapers.",
+      "whoFoundIt": "Yakama Nation, History page",
+      "source": {
+        "title": "Yakama Nation History",
+        "url": "https://www.yakama.com/about/",
+        "publisher": "Confederated Tribes and Bands of the Yakama Nation"
+      }
+    }
+  ],
+  "landTaken": "The Yakama Nation states that over 12 million acres were ceded in 1855 (Yakama Nation, History). The Indian Claims Commission valued 8,176,000 acres of the cession, in a compromise in Dockets 161, 222 and 224, at $4,088,000 as of March 8, 1859. The Wenatshapam Fishery (23,000 acres) was ceded in 1894 and 17,669.10 acres of Tract C were patented to others.",
+  "compensation": "$49,000 final award for the Wenatshapam Fishery (Docket 162, 1965); $61,991.40 for Tract C (Docket 47-A, 1965); $3,446,700 compromise judgment for the 1855 cession lands of the Yakama and Colville-represented bands (Dockets 161, 222, 224, 1965).",
+  "today": "The treaty fishing right is enforced in the continuing United States v. Washington case; in 2018 an equally divided Supreme Court left in place the Ninth Circuit ruling that Washington's barrier culverts violate the Stevens treaties' fishing clause (Washington v. United States, No. 17-269). Whether the Yakama Nation is a party to the culvert proceeding was not confirmed in this pass.",
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes and Bands of the Yakama Nation",
+      "summary": "The Nation says its leaders reserved the right to fish, hunt and gather on the reservation and the ceded area, and that Governor Stevens opened the ceded land to settlers within a month of signing.",
+      "url": "https://www.yakama.com/about/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Yakima, 1855 (Kappler, vol. 2, p. 698)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-yakima-1855-0698",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Yakima Tribe v. United States, Docket No. 162, Findings of Fact, June 5, 1956",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/370",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Yakima Tribe v. United States, Docket No. 162, Opinion of the Commission on final judgment, August 31, 1965",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/695",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Yakima Tribe v. United States, Docket No. 162, Final Award, August 31, 1965",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/699",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Yakima Tribe of Indians v. United States, Docket No. 47, Opinion of the Commission, November 29, 1957",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/359",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Yakima Tribe of Indians v. United States, Docket No. 47-A, Final Award, June 25, 1965",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/608",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Yakima Tribe v. United States, Dockets 161, 222, 224, Findings of Fact on compromise, April 5, 1965",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/793",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "United States v. Winans, 198 U.S. 371 (1905)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/198/371",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Tulee v. Washington, 315 U.S. 681 (1942)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/315/681",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Washington v. Washington State Commercial Passenger Fishing Vessel Assn., 443 U.S. 658 (1979)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/443/658",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "UPDATE: Extent of Habitat Protection Required for Indian Treaty Fishing Sites: Washington v. United States (LSB10138, June 12, 2018)",
+      "url": "https://www.everycrsreport.com/files/2018-06-12_LSB10138_39987602bdbf2a4493ccd43260bf20d2d9fe2fe0.pdf",
+      "publisher": "Congressional Research Service"
+    },
+    {
+      "title": "Yakama Nation History",
+      "url": "https://www.yakama.com/about/",
+      "publisher": "Confederated Tribes and Bands of the Yakama Nation"
+    }
+  ],
+  "openQuestions": [
+    "The 1956 findings' OCR is damaged, but finding 12 (OSU id 370) reads legibly enough that the additional signatures 'were not obtained in open council on January 8, 1894' and that a majority of the male adult Yakimas did not sign in council that day (checked in audit, 2026-11-07); the printed volume (4 Ind. Cl. Comm. 269) is still the best check.",
+    "The 1965 compromise for the 1855 cession was a settlement, not a finding that the 1855 price was unconscionable; it is recorded as compensation only.",
+    "The flooding of Celilo Falls by The Dalles Dam (1957) and the compensation paid for it were not researched.",
+    "Columbia River treaty fishing rulings (Sohappy v. Smith / United States v. Oregon, 1969 onward) could not be opened from a free source in this pass.",
+    "Audit 2026-11-07: all figures re-read and confirmed (Docket 162: 23,000 acres, $20,000, $3.00 an acre, $69,000, final judgment $49,000 entered by consent on August 31, 1965; Docket 47-A: 17,669.10 acres at $1.25 an acre, $22,086.38 plus interest, $61,991.40; Dockets 161, 222, 224: 8,176,000 acres, $4,088,000 at 50 cents an acre as of March 8, 1859, compromise $3,446,700). The 1979 breach wording now says the Court fixed 50 percent as a ceiling."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}

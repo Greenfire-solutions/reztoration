@@ -1,0 +1,111 @@
+{
+  "id": "kappler-211",
+  "name": "Treaty with the Florida Tribes of Indians, 1823 (Treaty of Moultrie Creek)",
+  "aka": [
+    "Treaty of Moultrie Creek",
+    "Treaty of Camp Moultrie"
+  ],
+  "signed": "1823-09-18",
+  "proclaimed": "1824-01-02",
+  "citation": "7 Stat. 224 (Additional Article: 7 Stat. 226)",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-florida-tribes-of-indians-1823-0203",
+  "nations": [
+    "Seminole (Florida tribes)",
+    "Apalachicola band"
+  ],
+  "promises": [
+    "The United States would take the Florida Indians under its care and protection (Article 3).",
+    "A reserved area in central Florida kept in their peaceful possession, with white settlers and hunters barred from it.",
+    "An annuity of $5,000 a year for twenty years, $6,000 in farming tools, cattle and hogs, and food for twelve months to ease the move.",
+    "$1,000 a year for twenty years for a school and $1,000 a year for twenty years for a blacksmith and gunsmith.",
+    "Compensation of $4,500 for improvements left behind and up to $2,000 for transport to the reserved area."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1970-05-13",
+      "what": "The Indian Claims Commission found that on September 18, 1823 the Seminole held aboriginal title to 23,892,626 acres worth $12,500,000, ceded under this treaty for $152,500, held that payment clearly unconscionable, and awarded the $12,347,500 difference less offsets (final award of $12,262,780.63, October 22, 1970). In 1972 the Court of Claims remanded the case for more specific findings on value (197 Ct. Cl. 350), and it ended in the 1976 compromise.",
+      "whoFoundIt": "Indian Claims Commission, Seminole Indians of the State of Florida and Seminole Nation of Oklahoma v. United States, Dockets 73 and 151, Opinion of the Commission, May 13, 1970, 23 Ind. Cl. Comm. 108",
+      "source": {
+        "title": "Seminole Indians of the State of Florida v. United States, Dockets 73 and 151, Opinion of the Commission, May 13, 1970",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/920",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      },
+      "quote": "The payment of $152,500.00 for land having a fair market value in excess of $12 million was clearly unconscionable"
+    },
+    {
+      "kind": "litigation",
+      "date": "1976-04-27",
+      "what": "The Indian Claims Commission approved a compromise and entered a final award of $16,000,000 in consolidated Dockets 73 and 151 for the Seminole Nation as it existed in Florida in 1823, as compensation for about 24 million acres taken under this treaty and the Treaty of Payne's Landing.",
+      "whoFoundIt": "Indian Claims Commission final award on compromise, Dockets 73 and 151, April 27, 1976 (38 Ind. Cl. Comm. 91), as stated by Senator Dewey F. Bartlett to the Senate Select Committee on Indian Affairs, 2 March 1978",
+      "source": {
+        "title": "Distribution of Seminole Judgment Funds: Hearing before the Senate Select Committee on Indian Affairs on S. 2000 and S. 2188, 95th Congress, 2nd Session, March 2, 1978",
+        "url": "https://www.govinfo.gov/content/pkg/CHRG-95shrg25417O/pdf/CHRG-95shrg25417O.pdf",
+        "publisher": "US Government Printing Office (govinfo)"
+      },
+      "quote": "The award is compensation for the approximately 24 million acres of aboriginal lands taken by the United States"
+    }
+  ],
+  "landTaken": "The Indian Claims Commission found the Seminole held aboriginal title on September 18, 1823 to 23,892,626 acres, ceded under this treaty (Docket 73 and 151, opinion and additional findings of May 13, 1970).",
+  "compensation": "Under the treaty the Seminole received $152,500 (ICC opinion, May 13, 1970). The ICC first awarded $12,262,780.63 on 22 October 1970 after $84,719.37 in offsets (24 Ind. Cl. Comm. 1); after the Court of Claims remand of 1972 a compromise final award of $16,000,000 for this treaty and Payne's Landing was entered on 27 April 1976. Distribution was disputed between the Seminole Nation of Oklahoma and the Florida Seminole groups until Public Law 101-277 of 30 April 1990 (Kersey summary). Traditional Seminoles told the Senate in 1978 they would not accept money for land they still live on.",
+  "today": "Per the Kersey summary published by the Seminole Tribe of Florida's museum, the 1990 Act gave about 75 percent to the Seminole Nation of Oklahoma and 25 percent to the Florida groups, split among the Seminole Tribe of Florida, the Miccosukee Tribe and independent Seminoles; the Miccosukee and independent shares were still in federal trust accounts as of 1996.",
+  "nationVoice": [
+    {
+      "nation": "Seminole Tribe of Florida (Ah-Tah-Thi-Ki Museum)",
+      "summary": "The tribe's museum publishes a summary of the forty-year land claims case, presenting the ICC finding that the 1823 payment was clearly unconscionable and the outcome as an affirmation of Seminole sovereignty.",
+      "url": "https://ahtahthiki.com/downloads/An-Assumption-of-Sovereignty-summary-of-Chapter-6-Land-Claims.pdf"
+    },
+    {
+      "nation": "Traditional Seminoles of Florida",
+      "summary": "Their spokesman Guy Osceola told the Senate in 1978 that the Traditional people had been denied a hearing before the Indian Claims Commission for 28 years, were never consulted on the $16 million, and would not accept money for their land.",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-95shrg25417O/pdf/CHRG-95shrg25417O.pdf"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Florida Tribes of Indians, 1823 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-florida-tribes-of-indians-1823-0203",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Distribution of Seminole Judgment Funds, Senate Select Committee on Indian Affairs hearing, March 2, 1978",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-95shrg25417O/pdf/CHRG-95shrg25417O.pdf",
+      "publisher": "US Government Printing Office (govinfo)"
+    },
+    {
+      "title": "Summary of Chapter 6, The Seminole Land Claims Case, in An Assumption of Sovereignty (Kersey, 1996)",
+      "url": "https://ahtahthiki.com/downloads/An-Assumption-of-Sovereignty-summary-of-Chapter-6-Land-Claims.pdf",
+      "publisher": "Ah-Tah-Thi-Ki Museum, Seminole Tribe of Florida"
+    },
+    {
+      "title": "Seminole Indians of the State of Florida v. United States, Dockets 73 and 151, Opinion of the Commission, May 13, 1970",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/920",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Seminole Indians of the State of Florida v. United States, Dockets 73 and 151, Final Award, October 22, 1970",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2630",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Seminole Indians of the State of Florida v. United States, Dockets 73 and 151, Findings of Fact on Compromise Settlement, April 27, 1976",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1148",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Seminole Indians of the State of Florida v. United States, Dockets 73 and 151, Final Award, April 27, 1976",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1268",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The Court of Claims remand of February 18, 1972 (197 Ct. Cl. 350), which sent the valuation back for more specific findings, was not opened; its effect on the 1970 unconscionability holding is read only from the Commission's 1976 history. The case ended in a compromise, so no later finding re-states the 1823 value.",
+    "Whether the annuities, school and blacksmith funds of Articles 4 to 6 were paid in full was not researched.",
+    "Public Law 101-277 (30 April 1990) was not opened; its date and shares come from the Kersey summary.",
+    "Royce lists several cessions (118, 119, 173, 176, 184, 185) under this entry; the 1823 treaty also made reservations for Apalachicola chiefs, whose later treatment is covered under kappler-407.",
+    "Audit 2026-11-07: breach 1 now cites the ICC opinion itself (OSU id 920, 23 Ind. Cl. Comm. 108) instead of the Kersey summary; quote corrected to the opinion's '$152,500.00'; the $12,347,500 award and the 1972 remand added. First final award date corrected from 12 October to 22 October 1970 (OSU id 2630). Breach 2 kind changed from claims-commission to litigation, because the 1976 award was a compromise settlement (OSU ids 1148, 1268). 'About' removed from the $6,000 and $4,500 treaty amounts, which Article 3 and 5 state exactly. Note for kappler-407: the same 1970 opinion held the $2,094,603.33 paid for the 1832 reservation was not unconscionable."
+  ],
+  "researchedAt": "2026-11-07",
+  "researcher": "treaty-researcher"
+}
