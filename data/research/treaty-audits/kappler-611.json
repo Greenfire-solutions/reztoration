@@ -1,0 +1,17 @@
+{
+  "id": "kappler-611",
+  "auditedAt": "2026-11-08",
+  "verdict": "downgraded",
+  "checked": [
+    "Western Oregon Indian Termination Act, Public Law 588, August 13, 1954, 68 Stat. 724 (govinfo scan): lists Rogue River, Shasta, Takelma among the tribes; it does not mention this treaty",
+    "Treaty promises: the Table Rock reserve was temporary, 'until the President selected a permanent home', and the annuities ran sixteen years",
+    "Grand Ronde Restoration Act, 97 Stat. 1064, restores treaty rights only in general words"
+  ],
+  "changes": [
+    "Removed the Termination Act breach; status broken -> no-breach-found. Rule 9 needs an Act that took or overrode what this treaty secured, and nothing this treaty secured survived to 1954 on any source opened",
+    "Termination moved to today; audit line added"
+  ],
+  "unverifiable": [
+    "Rogue River Tribe of Indians v. United States, 64 F. Supp. 339 (Ct. Cl. 1946) and 89 F. Supp. 798 (Ct. Cl. 1950), on the Table Rock reservation, are behind paywalls (Leagle sign-in, Midpage returned 429); they are the likely finding"
+  ]
+}

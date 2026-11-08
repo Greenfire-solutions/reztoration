@@ -1,13 +1,17 @@
 {
   "id": "kappler-525",
   "name": "Treaty with the Oneida, 1838",
-  "aka": ["Treaty with the First Christian and Orchard parties of the Oneida"],
+  "aka": [
+    "Treaty with the First Christian and Orchard parties of the Oneida"
+  ],
   "signed": "1838-02-03",
   "ratified": "1838-05-12",
   "proclaimed": "1838-05-17",
   "citation": "7 Stat. 566",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-oneida-1838-0517",
-  "nations": ["Oneida Nation (Wisconsin), the First Christian and Orchard parties at Green Bay"],
+  "nations": [
+    "Oneida Nation (Wisconsin), the First Christian and Orchard parties at Green Bay"
+  ],
   "promises": [
     "Article 2: from the land ceded, a reservation of 100 acres for each individual, held as other Indian lands are held, drawn to include all Oneida settlements and improvements near Green Bay (surveyed at about 65,000 acres).",
     "Article 3: $3,000 to the Orchard party and $30,500 to the First Christian party, of which $3,000 could go to a church and parsonage.",
@@ -17,11 +21,34 @@
   "breaches": [],
   "compensation": "No Indian Claims Commission award was found for this treaty. In Docket 159 the Commission dismissed the Oneida Tribe of Wisconsin's claim that the United States failed to protect reservation timber (12 Ind. Cl. Comm. 1, December 6, 1962).",
   "today": "On July 30, 2020 the Seventh Circuit held that Congress never diminished or disestablished the reservation created by this treaty, so the entire 1838 reservation remains Indian country, even though allotment beginning under the Dawes Act let much of the land pass out of Indian hands (Oneida Nation v. Village of Hobart, No. 19-1981).",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Oneida Nation",
+      "summary": "On the treaty's 180th anniversary the Nation said the 1838 treaty, signed in Washington on February 3, 1838, reserved 100 acres for each Oneida around their settlements near Green Bay, that this is the basis of the just over 65,400 acre reservation it lives on today, and that the reservation is its home, where it will go on governing its people and land.",
+      "url": "https://oneida-nsn.gov/?p=24985"
+    }
+  ],
   "sources": [
-    { "title": "Treaty with the Oneida, 1838 (Kappler)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-oneida-1838-0517", "publisher": "Oklahoma State University Libraries" },
-    { "title": "Oneida Tribe of Indians of Wisconsin v. United States, Docket 159, Opinion of the Commission, December 6, 1962", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/813", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Oneida Nation v. Village of Hobart, No. 19-1981 (7th Cir. July 30, 2020)", "url": "https://turtletalk.blog/wp-content/uploads/2020/07/oneida-nation-v.-village-of-hobart.pdf", "publisher": "Turtle Talk (Michigan State University College of Law), copy of the slip opinion" }
+    {
+      "title": "Treaty with the Oneida, 1838 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-oneida-1838-0517",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Oneida Tribe of Indians of Wisconsin v. United States, Docket 159, Opinion of the Commission, December 6, 1962",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/813",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Oneida Nation v. Village of Hobart, No. 19-1981 (7th Cir. July 30, 2020)",
+      "url": "https://turtletalk.blog/wp-content/uploads/2020/07/oneida-nation-v.-village-of-hobart.pdf",
+      "publisher": "Turtle Talk (Michigan State University College of Law), copy of the slip opinion"
+    },
+    {
+      "title": "180 Year Anniversary of the 1838 Treaty with the Oneida (Pressroom Blog, February 2, 2018)",
+      "url": "https://oneida-nsn.gov/?p=24985",
+      "publisher": "Oneida Nation"
+    }
   ],
   "openQuestions": [
     "Loss of most of the reservation through allotment and fee patents (the General Allotment Act and the 1906 act that allowed fee patents on Oneida allotments) is the main lead. The 2020 ruling held those acts did not shrink the reservation, but whether any finding treats the land loss as a breach of Article 2 was not found.",

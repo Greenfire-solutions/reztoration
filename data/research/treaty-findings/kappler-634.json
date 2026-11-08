@@ -22,25 +22,13 @@
     {
       "kind": "act-of-congress",
       "date": "1954-06-17",
-      "what": "The Menominee Termination Act ended federal supervision over the property and members of the Menominee Tribe, including the Wolf River reservation that this treaty gave them to be held as Indian lands are held.",
+      "what": "The Menominee Termination Act ended federal supervision over the property and members of the Menominee Tribe, including the Wolf River reservation that this treaty gave them to be held as Indian lands are held, and provided for tribal property to pass to a tribal corporation or trustee with state law applying.",
       "whoFoundIt": "Act of June 17, 1954, ch. 303, 68 Stat. 250 (25 U.S.C. 891-902, repealed)",
       "source": {
         "title": "25 U.S. Code § 891 (omitted), notes on the Menominee Termination Act, 68 Stat. 250",
         "url": "https://www.law.cornell.edu/uscode/text/25/891",
         "publisher": "Legal Information Institute, Cornell Law School"
       }
-    },
-    {
-      "kind": "court-ruling",
-      "date": "1968-05-27",
-      "what": "Wisconsin prosecuted Menominee hunters under state law, and its Supreme Court held that the Termination Act had ended their treaty hunting and fishing rights. The Supreme Court held the 1854 treaty secured those rights and that the Termination Act did not abrogate them.",
-      "whoFoundIt": "Menominee Tribe v. United States, 391 U.S. 404 (1968)",
-      "source": {
-        "title": "Menominee Tribe v. United States, 391 U.S. 404 (1968)",
-        "url": "https://www.law.cornell.edu/supremecourt/text/391/404",
-        "publisher": "Legal Information Institute, Cornell Law School"
-      },
-      "quote": "the language 'to be held as Indian lands are held' includes the right to fish and to hunt"
     },
     {
       "kind": "government-admission",
@@ -57,7 +45,7 @@
   ],
   "landTaken": "Not established from a source in this pass. During termination the reservation became Menominee County and was held by a tribal corporation; land sales in that period were not researched.",
   "compensation": "None located. In 1968 the Supreme Court held the hunting and fishing rights survived, so the tribe's Court of Claims claim for their loss failed on that ground.",
-  "today": "Federal recognition and treaty rights were restored by the Menominee Restoration Act of December 22, 1973.",
+  "today": "Federal recognition and treaty rights were restored by the Menominee Restoration Act of December 22, 1973. Earlier, when Wisconsin prosecuted Menominee hunters after termination, the Supreme Court held that the 1854 treaty's words 'to be held as Indian lands are held' include the right to hunt and fish and that those rights survived the Termination Act (Menominee Tribe v. United States, 391 U.S. 404, May 27, 1968).",
   "nationVoice": [
     {
       "nation": "Menominee Indian Tribe of Wisconsin",
@@ -96,7 +84,8 @@
     "Whether the Menominee consented to termination is disputed in the histories; the Act's consent provisions were not opened.",
     "Land sold out of Menominee ownership during termination (the Legend Lake development) is described by historians; no formal finding was opened.",
     "No account by the Menominee Indian Tribe of Wisconsin was found as text on its website (its culture pages load without readable text for a robot).",
-    "treaties.json joins this 1854 Menominee treaty with 'the several tribes of New York Indians' and lists New York nations as present-day tribes; those belong to other cessions (Royce 246 and 403?) and look like a merge error."
+    "treaties.json joins this 1854 Menominee treaty with 'the several tribes of New York Indians' and lists New York nations as present-day tribes; those belong to other cessions (Royce 246 and 403?) and look like a merge error.",
+    "Audit 2026-11-08: removed Menominee Tribe v. United States (1968) from breaches and moved it to today. The Court held the treaty hunting and fishing rights survived the Termination Act, so the ruling found no breach of that promise by the United States (the prosecution was Wisconsin's). Status still rests on the 1954 Act, which ended federal supervision of the reservation this treaty created, and on the 1973 Restoration Act. The finding names only the Menominee; it does not take on the New York Indians that treaties.json merges into this entry."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

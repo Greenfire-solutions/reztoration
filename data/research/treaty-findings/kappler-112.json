@@ -46,7 +46,13 @@
   "landTaken": "Royce Area 73 (405,000 acres) and Royce Area 74 (91,000 acres), straddling the Illinois-Indiana line in the Wabash valley (Docket 99/314-C/317 supplemental findings, 1969). The Wea shared in Area 73 (Fort Wayne treaty and convention of 26 October 1809) and joined the cession of Area 74 in 1818.",
   "compensation": "$1,500 in goods and $500 a year in permanent annuities, valued at $11,500. Final award of $340,250 in 1970, with the United States reserving offset claims for gratuities after 2 January 1810.",
   "today": "The Commission valued Area 73 as of 5 March 1810, the ratification date of this treaty, and Area 74 as of 7 January 1819, when the Wea consent was ratified.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Kickapoo Tribe in Kansas",
+      "summary": "Chairman Lester Randall told the Senate in 2018 that the United States moved the Tribe several times, from Wisconsin through Illinois and Missouri to Kansas, under nine treaties made between 1809 and 1862, and that today the Tribe holds 4,859 acres in trust and 2,189 acres in fee within its 30 square mile reservation.",
+      "url": "https://www.narf.org/nill/documents/20180711_kickapoo_testimony_s2154.html"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Kickapoo, 1809 (Kappler)",
@@ -67,6 +73,11 @@
       "title": "Kickapoo Tribe of Kansas v. United States, Docket 317, Final Award (1970)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2317",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Testimony of Lester Randall, Chairman, Kickapoo Tribe in Kansas, in support of S. 2154, Senate Committee on Indian Affairs, July 18, 2018",
+      "url": "https://www.narf.org/nill/documents/20180711_kickapoo_testimony_s2154.html",
+      "publisher": "Kickapoo Tribe in Kansas (copy held by the National Indian Law Library, NARF)"
     }
   ],
   "openQuestions": [

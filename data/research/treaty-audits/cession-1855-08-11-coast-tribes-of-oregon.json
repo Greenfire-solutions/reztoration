@@ -1,0 +1,16 @@
+{
+  "id": "cession-1855-08-11-coast-tribes-of-oregon",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Alcea, 329 U.S. 40, decided November 25, 1946: August 11, 1855 treaty, not submitted until February 1857, never ratified (quote exact); Executive Order of November 9, 1855; Tillamook confined, other three tribes moved to the Coast (Siletz) Reservation; 'high standards for fair dealing' quote exact.",
+    "Royce 1899 schedule entry for the coast treaties: quote exact, Executive Order of Nov. 9, 1855, cession mapped as though ratified; Royce area 397 matches treaties.json.",
+    "CTCLUSI history page: 1855 treaty, Fort Umpqua, 1860 march to the Alsea subagency, fifty percent died, promises 'persistently broken', 1954 termination, Public Law 98-481 on October 17, 1984."
+  ],
+  "changes": [
+    "compensation: removed the unsupported statement that the Coos, Lower Umpqua and Siuslaw were excluded from the 1935 Act; the 1938 denial (87 Ct. Cl. 143) is described as Alcea describes it."
+  ],
+  "unverifiable": [
+    "The treaty text in Senate Executive Document No. 25, 53rd Congress, was not opened, so the promises rest on Alcea's summary."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cession-1880-07-13-arikara-gros-ventre-mandan",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "ICC Docket 350-A opinion, 20 Ind. Cl. Comm. 37 (OSU id 2708): the 1880 order added the north-east tract in exchange for Fort Laramie lands south of the river",
+    "ICC Docket 350-D opinion of June 17, 1970, 23 Ind. Cl. Comm. 236 (OSU id 1812): recites Fort Berthold Indians v. United States, 71 Ct. Cl. 308 (1930), finding 11,424,512.76 acres taken under the 1868, 1870 and 1880 orders, 1,578,325.83 added, net 9,846,186.93 'for which no compensation was received', valued at 50 cents an acre; the 1880 order added 1,378,645.83 acres (table sums correctly)",
+    "ICC Docket 350-C/D compromise findings (OSU id 2186) and 350-D final award (OSU id 2341): $3,200,000, March 17, 1976, for the difference in value between lands lost and added",
+    "Consent: no source opened records consent to the 1880 order; the Court of Claims treated the lands as taken"
+  ],
+  "changes": [
+    "Added a court-ruling breach: Fort Berthold Indians v. United States, 71 Ct. Cl. 308 (1930), as recited by the ICC in 1970, so the status now rests on a court finding rather than on the executive order alone",
+    "landTaken filled with the Court of Claims acreages; compensation now records the 1930 judgment at 50 cents an acre",
+    "Two open questions on consent and acreage replaced with what was found; audit line added"
+  ],
+  "unverifiable": [
+    "The 1930 Court of Claims opinion itself was not opened; it is cited as the Commission recited it",
+    "The order's text (1 Kappler 883) and the treaties.json executive-order scans (ops.libs.uga.edu) did not load",
+    "treaties.json lists Fort Belknap Indian Community as a present-day tribe for this entry and the state MT; the Fort Berthold 'Gros Ventre' are Hidatsa, not the Gros Ventre (A'aninin) of Fort Belknap. Possible merge of a separate July 13, 1880 Montana order; not verified"
+  ]
+}

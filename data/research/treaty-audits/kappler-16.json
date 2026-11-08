@@ -1,0 +1,16 @@
+{
+  "id": "kappler-16",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Worcester v. Georgia, 31 U.S. 515, January Term 1832 (Cornell): discusses the Hopewell and Holston treaties; Georgia law void as repugnant to the treaties",
+    "NPS Fort Smith page (now at home.nps.gov/fosm/learn/...): says Georgia ignored the ruling and federal branches did nothing to enforce it; does not mention Hopewell"
+  ],
+  "changes": [
+    "NPS statement changed from government-admission to historian, as on kappler-815; status stays broken on Worcester",
+    "NPS url updated to the page it redirects to; audit line added"
+  ],
+  "unverifiable": [
+    "Exact day of the Worcester decision not on the page read; left as 1832"
+  ]
+}

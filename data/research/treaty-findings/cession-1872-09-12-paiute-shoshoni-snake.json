@@ -1,0 +1,82 @@
+{
+  "id": "cession-1872-09-12-paiute-shoshoni-snake",
+  "name": "Executive order of September 12, 1872 (Malheur Reservation set apart)",
+  "aka": [
+    "Malheur Reservation executive order, 1872"
+  ],
+  "signed": "1872-09-12",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+  "nations": [
+    "Wadatika band of Northern Paiute (Burns Paiute Tribe)",
+    "Snake or Paiute bands of southeastern Oregon who were parties to the unratified treaty of 10 December 1868"
+  ],
+  "promises": [
+    "The President set apart the Malheur Reservation in southeastern Oregon, from the mouth of the North Fork of the Malheur River to Castle Rock, Strawberry Butte, the Silvies River, Malheur Lake and the South Fork (Royce schedule).",
+    "The rest of the country withdrawn in 1871 was restored to the public domain (Royce schedule)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1959-04-15",
+      "what": "The Indian Claims Commission had determined that the Snake or Paiute bands who were parties to the unratified treaty of 10 December 1868 were deprived of their original Indian title to the former Malheur Reservation, as defined by the executive order of 28 January 1876, in January 1879 without any compensation. It valued those lands at $579,722.00 as of January 1879 and awarded that sum less offsets. Royce records that the reservation as defined in 1876 was composed of all of the reserve set apart by this order and a portion of the 1875 addition.",
+      "whoFoundIt": "Indian Claims Commission, Snake or Piute Indians of the Former Malheur Reservation in Oregon v. United States, Docket 17, Second Interlocutory Order of 15 April 1959, reciting the amended order of 4 February 1957",
+      "source": {
+        "title": "Snake or Piute Indians of the Former Malheur Reservation v. United States, Docket 17, Second Interlocutory Order (1959)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/32",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "Royce Area 537 is the land restored to the public domain by this order. The reservation itself was largely restored to the public domain by executive orders of 13 September 1882 and 21 May 1883 (Royce schedule). The Commission dated the taking of the reservation lands to January 1879.",
+  "compensation": "Award of $579,722.00 less offsets (1959 interlocutory order). No later payment was traced.",
+  "today": "The Commission first dismissed the claim in 1950; the Court of Claims set that aside in 1953 (125 Ct. Cl. 241) and sent it back, after which the Commission found the taking (1956 opinion).",
+  "nationVoice": [
+    {
+      "nation": "Burns Paiute Tribe",
+      "summary": "The tribe writes that an executive order reservation of 1.8 million acres was set aside for its people but was short-lived: survivors were marched more than 300 miles in deep snow to Fort Simcoe and Fort Vancouver, and in their absence the Malheur Reservation was returned to the public domain.",
+      "url": "https://burnspaiute-nsn.gov/about-bpt/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Snake or Piute Indians of the Former Malheur Reservation v. United States, Docket 17, Second Interlocutory Order (1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/32",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Snake or Piute Indians of the Former Malheur Reservation v. United States, Docket 17, Additional Findings of Fact (1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/54",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Snake or Piute Indians of the Former Malheur Reservation v. United States, Docket 17, Opinion of the Commission (1950)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/469",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Snake or Piute Indians of the Former Malheur Reservation v. United States, Docket 17, Opinion of the Commission (1956)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/513",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
+      "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+      "publisher": "Internet Archive"
+    },
+    {
+      "title": "About the Burns Paiute Tribe",
+      "url": "https://burnspaiute-nsn.gov/about-bpt/",
+      "publisher": "Burns Paiute Tribe"
+    }
+  ],
+  "openQuestions": [
+    "The map draws Royce Area 537 for this entry, which is the land restored in 1872, not the reservation the finding is about (Royce Areas 638 and 646). Jordan may want the card to say so, or the reservation polygon added.",
+    "A final award in Docket 17 after the 1959 interlocutory order was not found in the collection; whether and when the $579,722.00 was paid was not traced.",
+    "The Burns Paiute Tribe's page dates the executive order reservation to 1869; Royce and the Commission date the orders 1871, 1872 and 1875.",
+    "The Northern Paiute claim (Docket 87) found in 1959 that the United States took the Oregon Paiute lands without compensation, but the 1965 final judgment covers only the Owens Valley and western Nevada groups; what became of the Oregon claim was not traced.",
+    "The executive order texts were read through Royce's schedule, not the orders themselves."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

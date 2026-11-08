@@ -1,13 +1,17 @@
 {
   "id": "kappler-440",
   "name": "Treaty with the Caddo, 1835",
-  "aka": ["Caddo Treaty of July 1, 1835"],
+  "aka": [
+    "Caddo Treaty of July 1, 1835"
+  ],
   "signed": "1835-07-01",
   "ratified": "1836-01-26",
   "proclaimed": "1836-02-02",
   "citation": "7 Stat. 470",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-caddo-1835-0432",
-  "nations": ["Caddo Nation (Hasinai, Kadohadacho and allied peoples)"],
+  "nations": [
+    "Caddo Nation (Hasinai, Kadohadacho and allied peoples)"
+  ],
   "promises": [
     "Article I: the Caddo ceded all their land in north-western Louisiana and south-western Arkansas, between the Red River and the boundary with Mexico.",
     "Article II: the Caddo agreed to move at their own expense out of the United States within one year and never return to live there as a nation.",
@@ -20,27 +24,70 @@
       "date": "1960-01-22",
       "what": "The Indian Claims Commission found that the 617,967.4 acres ceded were worth an average of 75 cents an acre on January 26, 1836, when the treaty took effect, and that the $80,000 paid was an unconscionable consideration. It made an interlocutory award of $383,475.55, the difference, less any offsets.",
       "whoFoundIt": "Indian Claims Commission, Docket 226, interlocutory order of January 22, 1960, 8 Ind. Cl. Comm. 391",
-      "source": { "title": "Caddo Tribe of Oklahoma v. United States, Docket 226, Interlocutory Order (1960)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/348", "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions" }
+      "source": {
+        "title": "Caddo Tribe of Oklahoma v. United States, Docket 226, Interlocutory Order (1960)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/348",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
     },
     {
       "kind": "claims-commission",
       "date": "1977-08-04",
       "what": "After refusing in 1968 to let the government offset the value of the Caddo's later Oklahoma reservation (holding that the Caddo were settled there in discharge of a US duty to protect them, not as a gift), the Commission entered final judgment of $383,475.55 for the 1835 cession, with no offsets.",
       "whoFoundIt": "Indian Claims Commission, Docket 226, final award of August 4, 1977, 40 Ind. Cl. Comm. 298; opinion of August 30, 1968, 19 Ind. Cl. Comm. 385",
-      "source": { "title": "Caddo Tribe of Oklahoma v. United States, Docket 226 (1835 Treaty), Final Award (1977)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1445", "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions" }
+      "source": {
+        "title": "Caddo Tribe of Oklahoma v. United States, Docket 226 (1835 Treaty), Final Award (1977)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1445",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
     }
   ],
   "landTaken": "617,967.4 acres in north-western Louisiana and south-western Arkansas, as found by the Indian Claims Commission (Docket 226, 1960).",
   "compensation": "$80,000 under the treaty. The ICC found the land worth about $463,475 (75 cents an acre) and entered final judgment for $383,475.55 in 1977.",
   "today": "Removed beyond the then US border into Texas, the Caddo were later moved to a Texas reservation and in 1859 to the Wichita Reservation in present Oklahoma (ICC, 19 Ind. Cl. Comm. 385). The Caddo Nation is headquartered in Binger, Oklahoma.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Caddo Nation",
+      "summary": "The Nation's history calls the July 1, 1835 agreement a removal treaty, signed near what became Shreveport by the Caddo of northwestern Louisiana under principal chief Tsauninot, after which its people scattered and were removed again and again before reuniting in Indian Territory, with further losses when reservation lands were sold under allotment.",
+      "url": "https://mycaddonation.com/history-1"
+    }
+  ],
   "sources": [
-    { "title": "Treaty with the Caddo, 1835 (Kappler, vol. 2, p. 432)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-caddo-1835-0432", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
-    { "title": "Caddo Tribe of Oklahoma v. United States, Docket 226, Opinion of the Commission on title (1956), 4 Ind. Cl. Comm. 214", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/432", "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions" },
-    { "title": "Caddo Tribe of Oklahoma v. United States, Docket 226, Opinion of the Commission on value (1960), 8 Ind. Cl. Comm. 373", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/394", "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions" },
-    { "title": "Caddo Tribe of Oklahoma v. United States, Docket 226, Interlocutory Order (1960)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/348", "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions" },
-    { "title": "Caddo Tribe of Oklahoma v. United States, Docket 226, Opinion of the Commission on offsets (1968), 19 Ind. Cl. Comm. 385", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2147", "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions" },
-    { "title": "Caddo Tribe of Oklahoma v. United States, Docket 226 (1835 Treaty), Final Award (1977)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1445", "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions" }
+    {
+      "title": "Treaty with the Caddo, 1835 (Kappler, vol. 2, p. 432)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-caddo-1835-0432",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Caddo Tribe of Oklahoma v. United States, Docket 226, Opinion of the Commission on title (1956), 4 Ind. Cl. Comm. 214",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/432",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Caddo Tribe of Oklahoma v. United States, Docket 226, Opinion of the Commission on value (1960), 8 Ind. Cl. Comm. 373",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/394",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Caddo Tribe of Oklahoma v. United States, Docket 226, Interlocutory Order (1960)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/348",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Caddo Tribe of Oklahoma v. United States, Docket 226, Opinion of the Commission on offsets (1968), 19 Ind. Cl. Comm. 385",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2147",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Caddo Tribe of Oklahoma v. United States, Docket 226 (1835 Treaty), Final Award (1977)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1445",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History",
+      "url": "https://mycaddonation.com/history-1",
+      "publisher": "Caddo Nation"
+    }
   ],
   "openQuestions": [
     "The OCR of the 1960 order is damaged: it reads both 611,967.4 and 617,967.4 acres and a land value of '$b53,475.55'. The figures used here (617,967.4 acres, $0.75 an acre, about $463,475.55, award $383,475.55 after the $80,000 paid) are consistent with each other and with the 1977 final award, but the page image was not checked.",

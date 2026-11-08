@@ -1,0 +1,31 @@
+[
+ {
+  "id": "meskwaki-settlement-school",
+  "name": "Meskwaki Settlement School",
+  "category": "education",
+  "subcategory": "tribal K-12 school",
+  "nation": "Meskwaki Nation (Sac and Fox Tribe of the Mississippi in Iowa)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Meskwaki Nation: Meskwaki Settlement School",
+   "url": "https://www.meskwaki.org/settlement-school/"
+  },
+  "description": "The Meskwaki Nation's own school on the Settlement, governed by a board the community elects.",
+  "website": "https://www.meskwaki.org/settlement-school/",
+  "city": "Tama",
+  "state": "IA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Meskwaki Nation: Meskwaki Settlement School",
+    "url": "https://www.meskwaki.org/settlement-school/"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -92.5793,
+   41.9626
+  ],
+  "lonlatPrecision": "town"
+ }
+]

@@ -1,0 +1,44 @@
+{
+  "id": "kappler-196",
+  "name": "Treaty with the Ottawa and Chippewa, 1820 (St. Martin Islands)",
+  "aka": [
+    "Treaty of L'Arbre Croche and Michilimackinac, 1820"
+  ],
+  "signed": "1820-07-06",
+  "proclaimed": "1821-03-08",
+  "citation": "7 Stat. 207",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-ottawa-and-chippewa-1820-0188",
+  "nations": [
+    "Odawa (Ottawa)",
+    "Anishinaabe (Chippewa)"
+  ],
+  "promises": [
+    "Article 1: the Ottawa and Chippewa ceded the St. Martin Islands in Lake Huron, which contained plaster of Paris (gypsum).",
+    "Article 2: the nations acknowledged receiving a quantity of goods in full satisfaction; the treaty states no other payment."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The Indian Claims Commission held in 1959 (Dockets 18-E and 58) that the claimants had not established Indian title, by exclusive use and occupancy or by recognition, to Royce Area 113, the St. Martin Islands, so no claim for the 1820 cession went forward. This ruling went against the nations and is not a breach.",
+  "sources": [
+    {
+      "title": "Treaty with the Ottawa and Chippewa, 1820 (Kappler, vol. 2, p. 188)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-ottawa-and-chippewa-1820-0188",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Red Lake Band et al. (Bay Mills Indian Community, Ottawa and Chippewa Indians of Michigan) v. United States, Dockets 18-E and 58, Interlocutory Order (May 20, 1959), 7 Ind. Cl. Comm. 576",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/571",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Red Lake Band et al. v. United States, Dockets 18-E and 58, Findings of Fact (May 20, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/551",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The value of the goods delivered in 1820 was not found."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

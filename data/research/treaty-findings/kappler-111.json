@@ -51,7 +51,13 @@
   "landTaken": "Royce Area 73, 405,000 acres, and Royce Area 71, 2,095,688 acres, in Indiana and Illinois (Commission findings, 1969).",
   "compensation": "The Wea received a $100 annuity (valued at $2,000) for Area 73 and $7,500 in value for Area 71. The final Wea award under Docket 314-C, covering Areas 73 and 74, was $349,750 (28 January 1970); the Kickapoo award for the same two areas is recorded under kappler-112.",
   "today": "The Peoria Tribe of Indians of Oklahoma brought the Wea claims as successor to the Wea Nation.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Kickapoo Tribe in Kansas",
+      "summary": "Chairman Lester Randall told the Senate in 2018 that the United States moved the Tribe several times, from Wisconsin through Illinois and Missouri to Kansas, under nine treaties made between 1809 and 1862, and that today the Tribe holds 4,859 acres in trust and 2,189 acres in fee within its 30 square mile reservation.",
+      "url": "https://www.narf.org/nill/documents/20180711_kickapoo_testimony_s2154.html"
+    }
+  ],
   "sources": [
     {
       "title": "Convention with the Wea, 1809 (Kappler)",
@@ -77,6 +83,11 @@
       "title": "Miami Tribe of Oklahoma v. United States, Dockets 253, 131 and 314-D, Final Award (1969)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2633",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Testimony of Lester Randall, Chairman, Kickapoo Tribe in Kansas, in support of S. 2154, Senate Committee on Indian Affairs, July 18, 2018",
+      "url": "https://www.narf.org/nill/documents/20180711_kickapoo_testimony_s2154.html",
+      "publisher": "Kickapoo Tribe in Kansas (copy held by the National Indian Law Library, NARF)"
     }
   ],
   "openQuestions": [

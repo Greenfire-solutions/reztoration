@@ -1,0 +1,88 @@
+{
+  "id": "kappler-85",
+  "name": "Treaty with the Wyandot, etc., 1805 (Treaty of Fort Industry)",
+  "aka": [
+    "Treaty of Fort Industry (1805)"
+  ],
+  "signed": "1805-07-04",
+  "proclaimed": "1806-04-24",
+  "citation": "7 Stat. 87",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-wyandot-etc-1805-0077",
+  "nations": [
+    "Wyandot (Wyandotte Nation)",
+    "Ottawa (Odawa) bands of the Maumee, Blanchard's Fork, Auglaize and Roche de Boeuf (Ottawa Tribe of Oklahoma)",
+    "Saginaw Chippewa (Anishinaabe)",
+    "Munsee and Delaware (Lenape)",
+    "Shawnee",
+    "Potawatomi (Bodéwadmi)"
+  ],
+  "promises": [
+    "A new boundary: a meridian line 120 miles west of Pennsylvania, with the land east of it ceded (Articles 2 and 3).",
+    "A permanent annuity of $1,000 a year to the Wyandot, Munsee and Delaware, and the Shawnee and Seneca living with the Wyandot, paid at Detroit or another convenient place, $175 of it secured from the Connecticut Land Company (Article 4).",
+    "For the Ottawa, Chippewa and Huron River Potawatomi, $4,000 paid and a further $12,000 secured in trust with the President, payable in six annual instalments (Article 5).",
+    "The nations could hunt and fish on the ceded land so long as they remained peaceable (Article 6)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1978-08-10",
+      "what": "The Indian Claims Commission valued Royce Areas 53 and 54, 2,589,807 acres in north-central Ohio, at $1.10 an acre or $2,848,787.70 on 4 July 1805, found the total consideration was $32,666.65, and held that consideration so grossly inadequate as to be unconscionable. Each of the five tribes held an undivided one-fifth interest.",
+      "whoFoundIt": "Indian Claims Commission, James Strong et al. v. United States, Dockets 13-E, 27-E, 29-D, 133-A, 139, 202 and 302, Opinion of 10 August 1978 (42 Ind. Cl. Comm. 264)",
+      "source": {
+        "title": "James Strong et al. v. United States, Dockets 13-E et al., Opinion of the Commission (1978)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1169",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "so grossly inadequate as to render it unconscionable"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1978-08-17",
+      "what": "Final awards for the Fort Industry cession: $566,024.21 to the Potawatomi Tribe as constituted in 1805 (Docket 29-D), $563,624.21 to the Ottawa bands of the Maumee, Blanchard's Fork, AuGlaize and Roche de Boeuf (Dockets 133-A and 302), and $561,424.21 to the Wyandot Tribe (Docket 139).",
+      "whoFoundIt": "Indian Claims Commission, Final Awards of 17 August 1978 in Dockets 29-D (42 Ind. Cl. Comm. 350), 133-A and 302 (42 Ind. Cl. Comm. 352) and 139 (42 Ind. Cl. Comm. 353)",
+      "source": {
+        "title": "Hannahville Indian Community et al. v. United States, Docket 29-D, Final Award (1978)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2376",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "Royce Areas 53 and 54, 2,589,807 acres in north-central Ohio, bounded by Lake Erie, the Cuyahoga and Tuscarawas Rivers and the Greeneville Treaty line (Commission opinion of 1978). Area 53 lay within the Connecticut Western Reserve.",
+  "compensation": "Consideration of $32,666.65 (Commission finding). Net awards set in 1978: Wyandot $561,424.21, Delaware $561,424.21, Chippewa $563,624.21, Ottawa $563,624.21, Potawatomi and intervenors $566,024.21, less offsets. Final awards entered 17 August 1978 for the Potawatomi, Ottawa and Wyandot.",
+  "today": "The Commission's title decision (30 Ind. Cl. Comm. 8, 1973) was affirmed by the Court of Claims in 1975 (207 Ct. Cl. 958) and certiorari was denied, as recited in the 1978 opinion. Whether the Delaware and Chippewa shares were paid as final awards was not traced.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Wyandot, etc., 1805 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-wyandot-etc-1805-0077",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "James Strong et al. v. United States, Dockets 13-E et al., Opinion of the Commission (1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1169",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Hannahville Indian Community et al. v. United States, Docket 29-D, Final Award (1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2376",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Ottawa Tribe v. United States, Dockets 133-A and 302, Final Award (1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1488",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Lawrence Zane et al. ex rel. Wyandot Tribe v. United States, Docket 139, Final Award (1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2249",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "Final awards for the Delaware (Dockets 27-E and 202) and Chippewa (Docket 13-E) shares were not found; Docket 13-E was certified to the Court of Claims on 29 September 1978 according to the Commission index, which was not opened.",
+    "No statement by a present-day nation about this treaty was found in the time available."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

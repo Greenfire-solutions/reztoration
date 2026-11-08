@@ -45,7 +45,13 @@
   "landTaken": "The Commission's 1949 opinion describes the Article 1 tract as 865,930.31 acres in Kansas sold for $300,000. On remand it found 844,632.95 acres remained after land excepted for donations, preferred purchases and similar grants (finding 28, 1954).",
   "compensation": "Value $1,266,949.42 less $327,738.97 ($300,000 paid, $24,372.20 survey cost, sale costs and a civilization fund item) left $939,210.45; after $75,102.90 in offsets the Commission ordered $864,107.55 (March 1, 1955).",
   "today": "The claimant was the Osage Nation, today in Oklahoma. The trust lands of Article 2 and the later sale of the remaining Kansas reservation are separate records (cession-1870-07-15-great-and-little-osage and following).",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Osage Nation",
+      "summary": "The Nation says that, after a series of treaties from 1808 on ceding its land, in 1865 it sold its Kansas reservation lands to buy a permanent reservation in Indian Territory, and that its present 1,470,559 acre reservation was not a gift from the United States but was bought from the Cherokee Nation for $1,099,137.41 paid out of the proceeds of the Kansas lands.",
+      "url": "https://www.osagenation-nsn.gov/node/10632"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Osage, 1865 (Kappler, vol. 2, p. 878)",
@@ -76,6 +82,11 @@
       "title": "Osage Nation of Indians v. United States, 97 F. Supp. 381 (Ct. Cl. 1951), case header",
       "url": "https://leagle.com/decision/195147897fsupp3811394",
       "publisher": "Leagle"
+    },
+    {
+      "title": "The Osage Nation Reservation",
+      "url": "https://www.osagenation-nsn.gov/node/10632",
+      "publisher": "Osage Nation"
     }
   ],
   "openQuestions": [

@@ -1,0 +1,89 @@
+{
+  "id": "kappler-305",
+  "name": "Treaty with the Chippewa, etc., 1829 (Treaty of Prairie du Chien)",
+  "aka": [
+    "Treaty of Prairie du Chien (1829), with the United Nation of Chippewa, Ottawa and Potawatomi"
+  ],
+  "signed": "1829-07-29",
+  "ratified": "1829-12-30",
+  "proclaimed": "1830-01-02",
+  "citation": "7 Stat. 320",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-etc-1829-0297",
+  "nations": [
+    "United Nation of Chippewa, Ottawa and Potawatomi of the Illinois, Milwaukee and Manitowoc rivers (Bodéwadmi, Odawa, Anishinaabe)"
+  ],
+  "promises": [
+    "$16,000 in specie every year forever, paid at Chicago, and $12,000 in goods as a present (Article II).",
+    "Fifty barrels of salt a year forever at Chicago, and a permanent blacksmith's shop at Chicago for the Indians' use (Article II).",
+    "Reserved tracts for named chiefs and grants to certain descendants (Articles III and IV).",
+    "The right to hunt on the ceded land so long as it remained the property of the United States (Article VII)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1962-11-29",
+      "what": "The Indian Claims Commission found that 3,528,949 acres ceded by this treaty in Royce Areas 147 and 148 (northern Illinois and southwestern Wisconsin) had a fair market value of $2,470,264.30 and that the consideration was so grossly inadequate as to make it unconscionable.",
+      "whoFoundIt": "Indian Claims Commission, Citizen Band of Potawatomi Indians et al. v. United States, Dockets 217, 15-K and 29-J, Opinion and Interlocutory Order of 29 November 1962 (11 Ind. Cl. Comm. 693)",
+      "source": {
+        "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 217 et al., Opinion of the Commission (1962)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/726",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1973-04-25",
+      "what": "On remand the Commission vacated its 1965 award and awarded the Potawatomi Tribe or Nation as it existed between 1795 and 1833 $4,104,818.98: the land value of $4,480,510.26, less the $364,901.00 consideration and $10,790.28 in offsets.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 217, 15-K and 29-J, Final Award of 25 April 1973 (30 Ind. Cl. Comm. 144)",
+      "source": {
+        "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 217 et al., Final Award (1973)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2207",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "3,528,949 acres in Royce Area 147 and the part of Royce Area 148 west of the Fox River (1962 findings). The 1973 opinion gives Area 147 as 1,525,746 acres and Area 148 as 2,162,523 acres.",
+  "compensation": "Consideration $364,901.00. A 1965 final award of $2,094,573.02 was vacated after the Court of Claims ruling; the final award of 25 April 1973 was $4,104,818.98.",
+  "today": "In 1967 the Court of Claims held that the Commission had wrongly left the lead deposits in Area 147 out of the valuation and sent the case back (Citizen Band of Potawatomi Indians v. United States, 179 Ct. Cl. 473, 391 F.2d 614, cert. denied 1968, as recited in the Commission's 1973 opinion). The Commission held the claim arose under clause 3 of its Act (unconscionable consideration), so the award bore no interest.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Chippewa, etc., 1829 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-etc-1829-0297",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 217 et al., Opinion of the Commission (1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/726",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 217 et al., Interlocutory Order (1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/753",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 217 et al., Final Award (1965)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/729",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 217 et al., Opinion of the Commission on remand (1973)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1345",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 217 et al., Final Award (1973)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2207",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The Court of Claims opinion (179 Ct. Cl. 473) was not opened directly; its holding is taken from the Commission's 1973 opinion. Its exact decision date was not found, so only the year is given.",
+    "Whether the perpetual $16,000 annuity and the salt were paid as promised was not traced; the Commission noted the annuity was paid pro rata to all Potawatomi for years after 1843.",
+    "No nation statement about this treaty was found."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

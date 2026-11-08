@@ -1,0 +1,62 @@
+{
+  "id": "kappler-72",
+  "name": "Treaty with the Delawares, etc., 1803 (Treaty of Fort Wayne)",
+  "aka": [
+    "Treaty of Fort Wayne (1803)"
+  ],
+  "signed": "1803-06-07",
+  "proclaimed": "1803-12-26",
+  "citation": "7 Stat. 74",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-delawares-etc-1803-0064",
+  "nations": [
+    "Delaware (Lenape)",
+    "Shawnee",
+    "Potawatomi (Bodéwadmi)",
+    "Miami (Myaamia)",
+    "Eel River Miami",
+    "Wea",
+    "Kickapoo",
+    "Piankeshaw",
+    "Kaskaskia"
+  ],
+  "promises": [
+    "The boundaries of the Vincennes tract, reserved to the United States at Greeneville in 1795, were fixed, and the United States gave up any claim to lands adjoining it (Articles 1 and 2).",
+    "In return for the great salt spring on Saline Creek and up to four miles square around it, the United States would deliver up to 150 bushels of salt every year for the tribes (Article 3).",
+    "Tribal members could cross any ferry on the new road toll free in high water (Article 4).",
+    "If settlers' lands fell outside the Vincennes lines, the lines would be moved and an equal quantity of land given to the tribes (Article 5)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce Area 26 (the Vincennes tract, Indiana and Illinois) and Royce Area 47 (the salt spring tract on Saline Creek, Illinois).",
+  "compensation": "The salt annuity of Article 3. In a 1978 valuation case the Indian Claims Commission counted the Kickapoo share of this salt annuity, which the Kickapoo released in a later treaty, as part of the consideration for that later cession (Dockets 15-D et al., 42 Ind. Cl. Comm. 379).",
+  "today": "In 1973 the Indian Claims Commission found that no tribe held aboriginal title to Royce Area 26 at the 1795 Greeneville Treaty, and that the boundaries fixed by this treaty were the tribes' acknowledgment of the Vincennes reservation; the related claims in Dockets 13-G, 18-M and 40-F were dismissed (31 Ind. Cl. Comm. 89). That is a ruling against the claimants, not a breach. No claim for Royce Area 47 was found.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Delawares, etc., 1803 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-delawares-etc-1803-0064",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "James Strong et al. v. United States, Dockets 13-G et al., Opinion of the Commission (1973)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/976",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "James Strong et al. v. United States, Dockets 13-G et al., Final Order Dismissing the Claims in Dockets 13-G, 18-M and 40-F (1973)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1179",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pottawatomie Tribe v. United States, Dockets 15-D et al., Opinion of the Commission, Part 2 (1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1956",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "Whether the salt was delivered every year as Article 3 promised was not traced.",
+    "No nation statement about this treaty was found."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

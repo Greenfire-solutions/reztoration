@@ -1,0 +1,92 @@
+{
+  "id": "cession-1874-02-12-paiute",
+  "name": "Executive Order of February 12, 1874 enlarging the Moapa River Reservation",
+  "aka": [
+    "Moapa River Reservation enlargement, 1874"
+  ],
+  "signed": "1874-02-12",
+  "citation": "Executive Order of February 12, 1874 (Royce cessions 558 and 576)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/870/mode/2up",
+  "nations": [
+    "Moapa Band of Paiute Indians (Southern Paiute)"
+  ],
+  "promises": [
+    "Not a treaty: a presidential order. It enlarged the Moapa River Reservation in southeastern Nevada set apart in 1873; the Band's counsel describes the enlarged reservation as well over 2,000,000 acres, including the Moapa and lower Virgin watersheds.",
+    "It set the land apart for the Southern Paiute of the region, who had been told by Indian agents since 1869 that Moapa would be their homeland (counsel's letter, citing Kelly and Fowler, Handbook of North American Indians)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1875-03-03",
+      "what": "Less than thirteen months later, Congress reduced the reservation to 1,000 acres to be selected by the Secretary of the Interior, who made the selection on July 3, 1875; the rest of the enlarged reservation went back to the public domain. No consent of the Paiute was sought in the record opened.",
+      "whoFoundIt": "Act of Congress of March 3, 1875, and order of the Secretary of the Interior of July 3, 1875, as recorded in Royce's schedule (Bureau of American Ethnology, 1899)",
+      "source": {
+        "title": "Royce, Schedule of Indian Land Cessions, 1874 entries (Moapa reserve)",
+        "url": "https://archive.org/stream/annualreportofbu218smit#page/870/mode/2up",
+        "publisher": "Bureau of American Ethnology, 18th Annual Report, part 2 (Royce, Indian Land Cessions, 1899), Internet Archive"
+      },
+      "quote": "reducing this reserve to 1,000 acres"
+    },
+    {
+      "kind": "nation-statement",
+      "date": "2004-05-18",
+      "what": "The Moapa Band's general counsel wrote that the February 12, 1874 order expanded the reservation to well over 2,000,000 acres, that Congress cut it to 1,000 acres in an appropriations rider, and that 99.5% of the reservation was lost when the Secretary made the 1,000-acre selection on July 3, 1875.",
+      "whoFoundIt": "Ziontz, Chestnut, Varnell, Berley & Slonim, general counsel to the Moapa Band of Paiutes, letter to the US EPA",
+      "source": {
+        "title": "Letter of Ziontz, Chestnut, Varnell, Berley & Slonim, general counsel to the Moapa Band of Paiutes, to the US EPA (May 18, 2004)",
+        "url": "https://archive.epa.gov/ozonedesignations/web/pdf/moapa_atty.pdf",
+        "publisher": "US Environmental Protection Agency archive"
+      },
+      "quote": "99.5% of the Reservation was lost to the Tribe at the stroke of a pen"
+    },
+    {
+      "kind": "litigation",
+      "date": "1965-01-18",
+      "what": "The Southern Paiute claims, including the Moapa band, were settled by compromise before the Indian Claims Commission, which entered a final judgment for the Southern Paiute Nation of $7,253,165.19 under a stipulation of the parties. A compromise is not a finding of breach.",
+      "whoFoundIt": "Indian Claims Commission, Southern Paiute Nation v. United States, Dockets 88, 330 and 330-A, final judgment on a compromise settlement",
+      "source": {
+        "title": "Southern Paiute Nation v. United States, Dockets 88, 330 and 330-A, Final Judgment (January 18, 1965)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/824",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "compensation": "No payment for the 1875 reduction itself was found. The Southern Paiute claims were settled by compromise for $7,253,165.19 (Indian Claims Commission, January 18, 1965).",
+  "today": "Congress restored land to the Moapa reservation by Public Law 96-491, signed on December 2, 1980; President Carter's signing statement gives approximately 70,500 acres, and the Band's counsel gives 70,565 acres and a present reservation of about 72,000 acres (letter of May 18, 2004).",
+  "nationVoice": [
+    {
+      "nation": "Moapa Band of Paiute Indians",
+      "summary": "Through its general counsel, the Band describes the 1875 reduction as the loss of 99.5% of its reservation, and says the 1980 restoration of about 70,565 acres was meant to redress that loss in part and give it land for development.",
+      "url": "https://archive.epa.gov/ozonedesignations/web/pdf/moapa_atty.pdf"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Royce, Schedule of Indian Land Cessions, 1874 entries",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/870/mode/2up",
+      "publisher": "Bureau of American Ethnology, 18th Annual Report, part 2 (Royce, Indian Land Cessions, 1899), Internet Archive"
+    },
+    {
+      "title": "Letter of Ziontz, Chestnut, Varnell, Berley & Slonim, general counsel to the Moapa Band of Paiutes, to the US EPA (May 18, 2004)",
+      "url": "https://archive.epa.gov/ozonedesignations/web/pdf/moapa_atty.pdf",
+      "publisher": "US Environmental Protection Agency archive"
+    },
+    {
+      "title": "Southern Paiute Nation v. United States, Dockets 88, 330 and 330-A, Final Judgment (January 18, 1965)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/824",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Moapa Band of Paiutes: Statement on Signing S. 1135 Into Law (December 5, 1980)",
+      "url": "https://www.presidency.ucsb.edu/documents/moapa-band-paiutes-statement-signing-s-1135-into-law",
+      "publisher": "The American Presidency Project, UC Santa Barbara"
+    }
+  ],
+  "openQuestions": [
+    "The Statutes at Large page for the 1875 reduction was not opened: the Band's counsel cites 18 Stat. 475, while secondary listings cite 18 Stat. 445. Royce gives only 'act of Congress of Mar. 3, 1875'. Confirm against the Statutes at Large before adding a citation.",
+    "Royce cession 558 is attached to this id in treaties.json alongside 576; Royce's text links 558 to the Moapa reserve but the OCR of the 1874 page is broken, so which polygon is which was not settled."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

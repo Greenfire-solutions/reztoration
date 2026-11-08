@@ -14,10 +14,10 @@
     "Pomo"
   ],
   "promises": [
-    "Article 3 or 4 set apart a defined tract 'forever' for the occupancy of the signing tribes.",
-    "Beef cattle and flour for subsistence during 1851 and 1852.",
-    "Livestock, ploughs, tools, seed, iron and steel, blankets and clothing, divided by the tribes' numbers.",
-    "A farmer, a blacksmith, a carpenter and school teachers, with a school house, for at least five years."
+    "This treaty set apart no land of its own. Article 4 bound the tribes to move, within about a year or when the United States required, from the Russian river to the Clear Lake reservation made by the Camp Lu-pi-yu-ma treaty of August 20, 1851, at federal expense, and to share its rights.",
+    "Article 4: one hundred head of beef cattle and two hundred sacks of flour in 1851, and the same for two years after their removal and settlement on the reservation.",
+    "Article 4: brood stock, farming implements, mechanics and instructors on an equal footing with the Indians already at Clear Lake, under the terms of the Lu-pi-yu-ma treaty.",
+    "A physician employed by the agent to live on the reservation and vaccinate the tribes (Kappler, vol. 4, as excerpted by Oklahoma State University)."
   ],
   "status": "unratified",
   "breaches": [
@@ -56,7 +56,7 @@
       }
     }
   ],
-  "landTaken": "The tribes' lands in California, taken without the reserved tract or compensation; Royce areas 297 mark the cession and the intended reservation.",
+  "landTaken": "The tribes' lands on the Russian river, taken without the promised share in the Clear Lake reservation or compensation; Royce area 297 marks the cession. This treaty reserved no tract of its own.",
   "compensation": "Under the Act of May 18, 1928 the Court of Claims could award the value of the lands and compensation proposed in the eighteen treaties, with land at $1.25 an acre, less offsets. The amount finally paid was not located in this pass.",
   "today": "The treaty remains unratified. The National Archives' 2013 account describes the rejection as leaving most California Indians without land.",
   "nationVoice": [
@@ -86,6 +86,11 @@
       "title": "Indian Affairs Timeline",
       "url": "https://pinoleville-nsn.gov/heritage/indian-affairs-timeline/",
       "publisher": "Pinoleville Pomo Nation"
+    },
+    {
+      "title": "Kappler, Indian Affairs: Laws and Treaties, vol. 4 (p. 1112), treaty P as excerpted",
+      "url": "https://oms.library.okstate.edu/s/oklahoma-built/item/21834",
+      "publisher": "Oklahoma State University Library"
     }
   ],
   "openQuestions": [
@@ -93,7 +98,9 @@
     "One record covers the whole set of eighteen treaties for the facts common to all; the other seventeen are the cession-1851-* and cession-1852-* entries for Royce areas 273 to 310.",
     "The tribal names are as the commissioners wrote them in 1851-52; most are village or local group names, not nations, and how each community names itself today was not established. treaties.json lists as present-day tribes: Big Valley Band of Pomo Indians of the Big Valley Rancheria, California; Cloverdale Rancheria of Pomo Indians of California; Coyote Valley Band of Pomo Indians of California; Dry Creek Rancheria of Pomo Indians of California; Elem Indian Colony of Pomo Indians of the Sulphur Bank Rancheria, California; Hopland Band of Pomo Indians of the Hopland Rancheria, California; Kashia Band of Pomo Indians of the Stewarts Point Rancheria, California; Manchester Band of Pomo Indians of the Manchester-Point Arena Rancheria, California; Middletown Rancheria of Pomo Indians of California; Pinoleville Rancheria of Pomo Indians of California; Redwood Valley Rancheria of Pomo Indians of California; Robinson Rancheria of Pomo Indians of California; Scotts Valley Band of Pomo Indians of California; Sherwood Valley Rancheria of Pomo Indians of California.",
     "The Court of Claims judgment under the 1928 Act (Indians of California v. United States, 98 Ct. Cl. 583, 1942) and the Indian Claims Commission settlement for the Indians of California (Dockets 31 and 37) were not opened in this pass; they are the leads for the amounts paid.",
-    "Article 2 of the treaties had the tribes relinquish all their lands in California; because the Senate rejected the treaties, the United States took the land without the reserved tracts or the promised goods (1928 Act, section 2)."
+    "The article in which the signing tribes gave up their other lands was not checked for this treaty; because the Senate rejected the treaties, the United States took the land without the reserved tracts or the promised goods (1928 Act, section 2).",
+    "Audit 2026-11-08: promises corrected against treaty P as printed in Heizer (1972), the treaty text at https://digicoll.lib.berkeley.edu/record/83366/files/arfs003-001.pdf; Heizer omits some of this treaty's articles, so the goods and staff are taken from Oklahoma State University's excerpt of Kappler vol. 4 (https://oms.library.okstate.edu/s/oklahoma-built/item/21834), and any subsistence (beef and flour) article was not checked; the earlier 'beef and flour during 1851 and 1852' line was removed because it was copied from the other treaties.",
+    "Audit 2026-11-08: landTaken said Royce area 297 marked 'the cession and the intended reservation'; this treaty reserved no land of its own (Article 4 sends the tribes to the Clear Lake reservation of treaty O), so the wording was corrected."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

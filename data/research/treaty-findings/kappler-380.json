@@ -1,0 +1,69 @@
+{
+  "id": "kappler-380",
+  "name": "Treaty with the Potawatomi, 1832 (Treaty of Tippecanoe, 27 October)",
+  "aka": [
+    "Treaty of Tippecanoe (October 27, 1832)"
+  ],
+  "signed": "1832-10-27",
+  "proclaimed": "1833-01-21",
+  "citation": "7 Stat. 399",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1832-0372",
+  "nations": [
+    "Potawatomi of Indiana and Michigan (Bodéwadmi), including Pokagon's band and the Nottawaseppi band"
+  ],
+  "promises": [
+    "Reservations kept from the cession, including one at Pokagon's village for his band and one for the Potawatomi at Nottawaseppi (Article II).",
+    "Grants of land by patent to named persons (Article III).",
+    "$15,000 a year for twelve years, $32,000 in goods soon after signing and $10,000 in goods the next spring at Nottawaseppi, and payment of listed debts of $20,721 (Article IV).",
+    "An annual $2,000 for educating Indian youths (Article IV)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1978-09-08",
+      "what": "The Indian Claims Commission found that for the Potawatomi interest in Royce Area 181 ceded by this treaty, lands with a fair market value of $862,967.10, the United States paid $242,998.00 in consideration plus $39,250.64 for food, rations and provisions, and that this was so grossly inadequate as to render the consideration unconscionable.",
+      "whoFoundIt": "Indian Claims Commission, Citizen Band of Potawatomi Indians et al. v. United States, Dockets 128 et al., Opinion and Order Setting Awards of 8 September 1978 (43 Ind. Cl. Comm. 74)",
+      "source": {
+        "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 128 et al., Opinion of the Commission (1978)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1472",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "so grossly inadequate as to render the consideration unconscionable"
+    }
+  ],
+  "landTaken": "Royce Area 181 in northern Indiana. The Commission divided it into Tract *5 (260,134 acres, all Potawatomi) and Tract Y-3 (575,866 acres, half Potawatomi and half Miami); the Potawatomi interest was valued as of 21 January 1833.",
+  "compensation": "The Potawatomi award of $4,497,815.59 set on 8 September 1978 covers four cessions together (1826, 1828, 26 October 1832 and this treaty), less any offsets.",
+  "today": "The Commission certified Dockets 128 et al. to the Court of Claims on 29 September 1978, according to the collection index.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Potawatomi, 1832 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1832-0372",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 128 et al., Opinion of the Commission (1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1472",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 128 et al., Order Setting Awards (1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2599",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 128 et al., Additional Findings of Fact, Part 2 (1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2160",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The collection index dates the opinion 28 September 1978, but the Order Setting Awards dated 8 September 1978 says the opinion was entered the same day; 8 September is used.",
+    "The transfer order and the Court of Claims outcome were not opened.",
+    "treaties.json lists Royce cessions 188, 190, 201, 204, 208 and 221 to 225 under this id as well as 181; only Area 181 was traced.",
+    "Statements by the Pokagon Band or the Nottawaseppi Huron Band on this treaty were not looked for in the time available."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

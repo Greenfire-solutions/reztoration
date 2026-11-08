@@ -1,0 +1,19 @@
+{
+  "id": "kappler-614",
+  "auditedAt": "2026-11-08",
+  "verdict": "downgraded",
+  "checked": [
+    "68 Stat. 724 (govinfo scan): names Cow Creek among the tribes; does not mention this treaty",
+    "Cow Creek Band Recognition Act, Public Law 97-391, December 29, 1982, 96 Stat. 1960: section 3(b) restores rights under any federal treaty 'which may have been diminished or lost' under the 1954 Act; quote exact",
+    "The band's own account (cowcreek-nsn.gov) says the reservation and payment were never received"
+  ],
+  "changes": [
+    "Removed the Termination Act breach; status broken -> contested. The band never received a reservation under this treaty, so termination took nothing this treaty secured on any source opened",
+    "Removed the unsourced statement that Congress acted without the band's consent",
+    "Termination and restoration moved to today; audit line added"
+  ],
+  "unverifiable": [
+    "Rogue River Tribe v. United States (Ct. Cl. 1946, 1950), which reportedly dismissed the Cow Creek claim, is behind paywalls",
+    "The 1984 Court of Claims settlement record was not opened; its $1.5 million figure is the band's"
+  ]
+}

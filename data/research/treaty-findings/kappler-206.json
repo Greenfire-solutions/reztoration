@@ -1,0 +1,112 @@
+{
+  "id": "kappler-206",
+  "name": "Treaty with the Ottawa, etc., 1821 (Treaty of Chicago)",
+  "aka": [
+    "Treaty of Chicago (1821)"
+  ],
+  "signed": "1821-08-29",
+  "proclaimed": "1822-03-25",
+  "citation": "7 Stat. 218",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-ottawa-etc-1821-0198",
+  "nations": [
+    "Ottawa (Odawa) of the Grand River",
+    "St. Joseph River Band of Potawatomi (Bodéwadmi)",
+    "Chippewa (Anishinaabe)",
+    "Match-E-Be-Nash-She-Wish Band of Pottawatomi (Gun Lake Tribe)"
+  ],
+  "promises": [
+    "Five reserved tracts for the Indians, including six miles square at Mang-ach-qua and at Mick-ke-saw-be, four miles square at Na-to-wa-se-pe, three miles square at Prairie Ronde, and a tract at Match-e-be-nash-she-wish's village at the head of the Kalamazoo River (Article 2).",
+    "For the Ottawa, $1,000 in specie a year forever, and $1,500 a year for ten years for a blacksmith, a teacher and farming instruction (Article 4).",
+    "For the Potawatomi, $5,000 in specie a year for twenty years, and $1,000 a year for fifteen years for a blacksmith and a teacher (Article 4).",
+    "The Greeneville right to hunt on the ceded land while it remained United States property (Article 5)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1964-12-23",
+      "what": "The Indian Claims Commission valued the St. Joseph River Band of Potawatomi tract in Royce Area 117 (2,857,494 acres) at $2,428,869.90 and the Grand River Ottawa tract (1,140,740 acres) at $969,629.00 on 25 March 1822, and found the consideration of $108,499.20 and $32,337.33 paid for them unconscionable.",
+      "whoFoundIt": "Indian Claims Commission, Citizen Band of Potawatomi Indians et al. v. United States, Dockets 146, 15-M and 40-K, Findings of Fact and Opinion of 23 December 1964 (14 Ind. Cl. Comm. 518)",
+      "source": {
+        "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 146 et al., Additional Findings of Fact (1964)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/847",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1974-04-19",
+      "what": "Final award of $2,296,870.70 to the Potawatomi Tribe or Nation for the Potawatomi share of the cession, after an offset of $23,500.00.",
+      "whoFoundIt": "Indian Claims Commission, Citizen Band of Potawatomi Indians et al. v. United States, Dockets 146, 15-M and 29-K, Final Award (34 Ind. Cl. Comm. 1)",
+      "source": {
+        "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 146 et al., Final Award (1974)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1945",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1827",
+      "what": "The Gun Lake Tribe states that it kept a three-square-mile reservation at present-day downtown Kalamazoo under this treaty and lost it in 1827, receiving neither payment nor land.",
+      "whoFoundIt": "Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians (Gun Lake Tribe)",
+      "source": {
+        "title": "Our Heritage",
+        "url": "https://gunlaketribe-nsn.gov/about/heritage/",
+        "publisher": "Gun Lake Tribe"
+      }
+    }
+  ],
+  "landTaken": "Royce Area 117 in southwestern Michigan and northern Indiana; the Commission found 2,857,494 acres in the Potawatomi part and 1,140,740 acres in the Ottawa part (1964 findings).",
+  "compensation": "Potawatomi: consideration $108,499.20, final award $2,296,870.70 (1974). Grand River Ottawa: consideration $32,337.33; a final judgment of $932,620.01 was entered on 27 March 1968 in Docket 40-K after the parties compromised the offsets only.",
+  "today": "The Commission's 1958 title decision found the Grand River Ottawa held the northern part of Area 117 and the St. Joseph Band of Potawatomi the southern part (as recited in the 1964 opinion in Docket 29-K). The Michigan reserves made by Article 2 were ceded by the Potawatomi in 1827 and 1833.",
+  "nationVoice": [
+    {
+      "nation": "Gun Lake Tribe (Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians)",
+      "summary": "The tribe writes that the 1821 treaty left it a three-square-mile reservation at present-day Kalamazoo, which its chief ceded in 1827 without the band ever receiving payment or land.",
+      "url": "https://gunlaketribe-nsn.gov/about/heritage/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Ottawa, etc., 1821 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-ottawa-etc-1821-0198",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 146 et al., Additional Findings of Fact (1964)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/847",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 146 et al., Opinion of the Commission (1964)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/616",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 146 et al., Final Award (1974)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1945",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Robert Dominic et al. v. United States, Docket 40-K, Final Judgment (1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2331",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Hannahville Indian Community v. United States, Docket 29-K, Opinion of the Commission (1964)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/667",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Our Heritage",
+      "url": "https://gunlaketribe-nsn.gov/about/heritage/",
+      "publisher": "Gun Lake Tribe"
+    }
+  ],
+  "openQuestions": [
+    "The final award text is dated 19 April 1974; the collection index dates it 19 May 1974.",
+    "Payments under the Potawatomi annuity were not traced."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "kappler-353",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "ICC Docket 243 additional findings of October 13, 1965, 16 Ind. Cl. Comm. 81 (OSU id 1096): Royce Area 174, 2,101,455 land acres, valued as of February 13, 1833 at $1,575,000",
+    "Compromise findings of September 3, 1970 (OSU id 1872): votes 180 to 39 and 80 to 27; Wisconsin committee without quorum; OCR 'Royce Area 171' for the 1832 treaty",
+    "Final judgment (OSU id 2308): $4,600,000"
+  ],
+  "changes": [
+    "Final judgment citation corrected to 23 Ind. Cl. Comm. 482 (464 is the opinion); audit line added"
+  ],
+  "unverifiable": []
+}

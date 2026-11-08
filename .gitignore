@@ -9,3 +9,6 @@ data/research/harvest/trial-*
 # storing or redistributing them without written permission. Kept local only.
 data/raw/nativeland-territories.json
 public/data/territories.json
+
+# Private draft, has Jordan's email
+data/research/nativeland-letter.md

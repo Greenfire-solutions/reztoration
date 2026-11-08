@@ -1,0 +1,102 @@
+{
+  "id": "kappler-100",
+  "name": "Treaty with the Ottawa, etc., 1807 (Treaty of Detroit)",
+  "aka": [
+    "Treaty of Detroit (1807)"
+  ],
+  "signed": "1807-11-17",
+  "proclaimed": "1808-01-27",
+  "citation": "7 Stat. 105",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-ottawa-etc-1807-0092",
+  "nations": [
+    "Ottawa (Odawa) bands of the Maumee, Blanchard's Fork, Auglaize and Roche de Boeuf (Ottawa Tribe of Oklahoma)",
+    "Saginaw Chippewa (Anishinaabe), including the Swan Creek and Black River bands (Saginaw Chippewa Indian Tribe of Michigan)",
+    "Wyandot (Wyandotte Nation)",
+    "Potawatomi (Bodéwadmi)"
+  ],
+  "promises": [
+    "$10,000 in money, goods, tools or animals after ratification, and a permanent annuity of $2,400 at Detroit divided among the four nations (Article 2).",
+    "A reasonable commutation of the annuity if the nations later asked for one (Article 3).",
+    "Two blacksmiths for ten years, one with the Chippewa at Saginaw and one with the Ottawa at the Miami (Article 4).",
+    "Hunting and fishing on the ceded land so long as it remained the property of the United States (Article 5).",
+    "Reserved tracts within the cession for the nations, including six miles square above Roche de Boeuf, four miles square on Miami Bay and three miles square at Macon on the River Raisin (Article 6)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1978-05-11",
+      "what": "The Indian Claims Commission valued the lands ceded in Royce Area 66 (southeastern Michigan and northwestern Ohio) as of 27 January 1808 at $600,000 for the Ottawa tract, $2,300,000 for the Potawatomi tract and $3,500,000 for the Chippewa tract, found the consideration paid to all three together was $57,717.32, and concluded the consideration was unconscionable.",
+      "whoFoundIt": "Indian Claims Commission, Saginaw Chippewa Indian Tribe of Michigan et al. v. United States, Dockets 59, 29-E and 133-B, Interlocutory Order of 11 May 1978 (41 Ind. Cl. Comm. 327)",
+      "source": {
+        "title": "Saginaw Chippewa Indian Tribe v. United States, Dockets 59 et al., Interlocutory Order (1978)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2515",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1978-06-22",
+      "what": "Final awards for the 1807 cession: $2,292,000.00 to the Potawatomi Tribe as constituted in 1808 (Docket 29-E) and $579,308.00 to the Ottawa bands of the Maumee, Blanchard's Fork, Au Glaize and Roche de Boeuf (Docket 133-B).",
+      "whoFoundIt": "Indian Claims Commission, Final Awards of June 1978 in Docket 29-E (42 Ind. Cl. Comm. 160) and Docket 133-B (42 Ind. Cl. Comm. 163)",
+      "source": {
+        "title": "Hannahville Indian Community et al. v. United States, Docket 29-E, Final Award (1978)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1936",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "Royce Area 66. The parties agreed the Ottawa tract held 469,116 acres, the Potawatomi tract 1,843,779 acres and the Chippewa tract 3,298,637 acres, 5,611,532 acres in all (Commission opinion of 1978).",
+  "compensation": "Consideration of $57,717.32 to the three tribes (Commission finding). Net sums set in 1978: Ottawa $579,308.00, Potawatomi $2,292,000.00, Chippewa $3,479,308.00, less offsets. Final awards entered in June 1978 for the Potawatomi and Ottawa.",
+  "today": "The Commission's title decision (30 Ind. Cl. Comm. 388, 1973) was affirmed by the Court of Claims (207 Ct. Cl. 960, 1975). In that decision the Commission dismissed the Wyandot claim to Royce Area 66 (Docket 140) for want of evidence; that dismissal is a ruling against the Wyandot and is not counted as a breach. The Ottawa reserves made by Article 6 were ceded under later treaties of 1831 and 1833.",
+  "nationVoice": [
+    {
+      "nation": "Ottawa Tribe of Oklahoma",
+      "summary": "The tribe's heritage site describes how its Maumee River villages, including Roche de Boeuf and Blanchard's Fork, were expelled from their Ohio homelands and removed to Kansas after an 1831 treaty, with about half of those who left dying within a few years.",
+      "url": "https://www.heritage.ottawatribe.gov/removal-from-ohio"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Ottawa, etc., 1807 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-ottawa-etc-1807-0092",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Saginaw Chippewa Indian Tribe v. United States, Dockets 59 et al., Opinion of the Commission (1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1932",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Saginaw Chippewa Indian Tribe v. United States, Dockets 59 et al., Interlocutory Order (1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2515",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Hannahville Indian Community et al. v. United States, Docket 29-E, Final Award (1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1936",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Ottawa Tribe v. United States, Docket 133-B, Final Award (1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1725",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Saginaw Chippewa Indian Tribe v. United States, Dockets 59 et al., Findings of Fact on title (1973)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2519",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Removal From Ohio",
+      "url": "https://www.heritage.ottawatribe.gov/removal-from-ohio",
+      "publisher": "Ottawa Tribe of Oklahoma"
+    }
+  ],
+  "openQuestions": [
+    "A final award for the Saginaw Chippewa share (Docket 59) was not found; the Commission index lists an order transferring Docket 59 to the Court of Claims on 29 September 1978, not opened.",
+    "Whether the annuity was ever commuted under Article 3 was not traced."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

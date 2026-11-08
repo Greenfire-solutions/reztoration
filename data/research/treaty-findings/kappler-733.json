@@ -1,0 +1,96 @@
+{
+  "id": "kappler-733",
+  "name": "Treaty with the Ottawa and Chippewa, 1855 (Treaty of Detroit)",
+  "aka": [
+    "Treaty of Detroit (1855)"
+  ],
+  "signed": "1855-07-31",
+  "ratified": "1856-04-15",
+  "proclaimed": "1856-09-10",
+  "citation": "11 Stat. 621",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-ottawa-and-chippewa-1855-0725",
+  "nations": [
+    "Odawa (Ottawa) of Michigan, today including the Little Traverse Bay Bands of Odawa Indians, the Little River Band of Ottawa Indians and the Grand Traverse Band of Ottawa and Chippewa Indians",
+    "Anishinaabe (Chippewa) of Michigan, today including the Sault Ste. Marie Tribe of Chippewa Indians and the Bay Mills Indian Community"
+  ],
+  "promises": [
+    "Article 1: the United States would withdraw from sale named tracts of unsold public land in Michigan for the use of each band (Sault Ste. Marie, north of the Straits, Beaver Island, Cross Village and L'Arbre Croche, Grand Traverse, Grand River, Cheboygan, Thunder Bay).",
+    "Article 1: each head of family would receive 80 acres and each single adult 40 acres within those tracts, held in trust by the United States, with certificates barring sale, and patents after ten years.",
+    "The treaty settled the bands' claims under the 1836 Treaty of Washington and was made, in its own words, 'in view of the existing condition' and 'legal and equitable claims' of the Ottawa and Chippewa."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "government-admission",
+      "date": "1994-07-25",
+      "what": "The House Committee on Natural Resources reported that the treaty's allotment provision was used, through mismanagement and fraud, to take most Odawa land, and that the declared end of the federal trust relationship with the Odawa was arbitrary and unilateral.",
+      "whoFoundIt": "US House of Representatives, Committee on Natural Resources, H. Rept. 103-621 (to accompany S. 1357)",
+      "source": {
+        "title": "H. Rept. 103-621, Little Traverse Bay Bands of Odawa Indians and the Little River Band of Ottawa Indians Act (July 25, 1994)",
+        "url": "https://turtletalk.blog/wp-content/uploads/2019/09/h.-rep.-103-621.pdf",
+        "publisher": "US House of Representatives, via Turtle Talk (Michigan State University College of Law)"
+      },
+      "quote": "used, through mismanagement and fraud, to take most Ottawa/Odawa land"
+    },
+    {
+      "kind": "government-admission",
+      "date": "1994-09-21",
+      "what": "Congress found that the Little Traverse Bay Bands and the Little River Band, descendants of the 1836 and 1855 signatories, had been denied the chance to reorganize in the 1930s and that the Bureau of Indian Affairs failed to act on their 1975 petition, and it reaffirmed their federal recognition.",
+      "whoFoundIt": "Public Law 103-324, section 2 (findings), 108 Stat. 2156",
+      "source": {
+        "title": "Public Law 103-324, 108 Stat. 2156 (September 21, 1994)",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-108/pdf/STATUTE-108-Pg2156.pdf",
+        "publisher": "US Government Publishing Office, govinfo"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "2022-03-08",
+      "what": "The Little Traverse Bay Bands say the 1855 treaty set aside a reservation for their ancestors, which their constitution still uses to define the reservation.",
+      "whoFoundIt": "Tribal Chairperson Regina Gasco-Bentley, Little Traverse Bay Bands of Odawa Indians",
+      "source": {
+        "title": "Tribal Chairperson's Statement Regarding Reservation Litigation",
+        "url": "https://ltbbodawa-nsn.gov/?p=19927",
+        "publisher": "Little Traverse Bay Bands of Odawa Indians"
+      }
+    }
+  ],
+  "today": "In 2015 the Little Traverse Bay Bands sued Michigan for a ruling that the treaty created a reservation that still exists. The district court ruled against the tribe in 2019, the Sixth Circuit affirmed in 2021, and the Supreme Court declined review on February 28, 2022 (tribal chairperson's statement). Separately, the 1994 House report notes that a federal court held in United States v. Michigan, 471 F. Supp. 192 (W.D. Mich. 1979), that the 1855 treaty did not end the Odawa bands' tribal status.",
+  "nationVoice": [
+    {
+      "nation": "Little Traverse Bay Bands of Odawa Indians",
+      "summary": "The chairperson said the court ruling does not touch the tribe's trust lands, its treaty hunting, fishing and gathering rights, or the fact that the region remains the tribe's home.",
+      "url": "https://ltbbodawa-nsn.gov/?p=19927"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Ottawa and Chippewa, 1855 (Kappler, vol. 2, p. 725)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-ottawa-and-chippewa-1855-0725",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "H. Rept. 103-621 (July 25, 1994)",
+      "url": "https://turtletalk.blog/wp-content/uploads/2019/09/h.-rep.-103-621.pdf",
+      "publisher": "US House of Representatives, via Turtle Talk"
+    },
+    {
+      "title": "Public Law 103-324, 108 Stat. 2156",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-108/pdf/STATUTE-108-Pg2156.pdf",
+      "publisher": "US Government Publishing Office, govinfo"
+    },
+    {
+      "title": "Tribal Chairperson's Statement Regarding Reservation Litigation",
+      "url": "https://ltbbodawa-nsn.gov/?p=19927",
+      "publisher": "Little Traverse Bay Bands of Odawa Indians"
+    }
+  ],
+  "openQuestions": [
+    "The 1905 to 1907 Court of Claims case (Petoskey, Kewakendo et al. v. United States) and its award of about $131,000 described in H. Rept. 103-621 was not opened; which treaty obligations it covered (1836, 1855 or both) is disputed in the secondary sources.",
+    "No Indian Claims Commission finding specific to the 1855 treaty's land provisions was found; the Commission's Michigan Ottawa and Chippewa awards opened concern the 1836 treaty (Docket 18-E and 58).",
+    "The 2019 district court, 2021 Sixth Circuit and 2022 certiorari denial were read only as reported by the tribe; the opinions were not opened.",
+    "treaties.json attaches 21 Royce cessions (375 to 395) to this id; whether they are the 1855 withdrawn tracts was not checked one by one."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

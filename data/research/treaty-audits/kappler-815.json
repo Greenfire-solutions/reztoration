@@ -1,0 +1,18 @@
+{
+  "id": "kappler-815",
+  "auditedAt": "2026-11-08",
+  "verdict": "downgraded",
+  "checked": [
+    "Treaty dates and citation (signed 1861-02-18, ratified 1861-08-06, proclaimed 1861-12-05, 12 Stat. 1163) and Articles 1, 2, 4, 5 against the OSU Kappler text",
+    "NPS wayside 'Fort Lyon Reservation': says instructors were never sent and the agency headquarters was never completed; it is an interpretive sign, not a finding",
+    "ICC Dockets 329-A and 329-B, 16 Ind. Cl. Comm. 162 (OSU id 2123): $15,000,000 compromise approved October 18, 1965, tribal vote 338 to 2, decided before any finding on unconscionability; 51,210,000 acres and $23,500,000 as of October 14, 1865 restated",
+    "Searched for a court, ICC or Congressional finding that Article 4 or 5 of this treaty went unperformed; none found"
+  ],
+  "changes": [
+    "None this round. The status had already been lowered from broken to contested on 2026-11-07, with the NPS sign recorded as historian; this audit confirms that downgrade because no court, Commission or Congressional source for a breach of this treaty was found"
+  ],
+  "unverifiable": [
+    "Joint Committee on the Conduct of the War report on Sand Creek (1865) not opened; it concerns the massacre, not this treaty's articles",
+    "Sand Creek Massacre Foundation page not re-opened"
+  ]
+}

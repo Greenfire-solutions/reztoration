@@ -1,0 +1,16 @@
+{
+  "id": "kappler-218",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "ICC Docket 14 findings of March 15, 1951 (OSU id 137): $28,037 paid, land worth $987,092 as of November 15, 1824, grossly inadequate, unconscionable",
+    "Opinion of December 12, 1951 (OSU id 241): offsets $75,638.55; final award OCR '$911,453 ,b5', which the file already resolves as $911,453.45",
+    "Additional findings (OSU id 349, 1 Ind. Cl. Comm. 644): Red River, Caddo refusal, return to Arkansas"
+  ],
+  "changes": [
+    "Offsets opinion citation corrected from 1 Ind. Cl. Comm. 644 to 652; audit line added"
+  ],
+  "unverifiable": [
+    "Quapaw Nation Saracen page not re-opened"
+  ]
+}

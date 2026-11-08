@@ -1,0 +1,45 @@
+{
+  "id": "cession-1807-03-03-chippewa-delaware-ottawa-potawatomi-sene",
+  "name": "Act of March 3, 1807, ch. 49 (the thirteen Delaware sections in Ohio)",
+  "aka": [
+    "An Act making provision for the disposal of the public lands, situated between the United States military tract and the Connecticut reserve"
+  ],
+  "signed": "1807-03-03",
+  "citation": "2 Stat. 448",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-2/pdf/STATUTE-2-Pg448.pdf",
+  "nations": [
+    "Delaware (Lenape) of the lower town in Ohio"
+  ],
+  "promises": [
+    "Section 2 excepted from public sale thirteen sections including the lower town of the Delaware and their improvements, to be reserved for the use of the tribe and their descendants so long as they continued to reside on and cultivate them."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce lists these sections with the cession of Royce Areas 90 and 91 in Ohio; the Delaware ceded all claim to the thirteen sections in Article 18 of the Treaty of 29 September 1817.",
+  "compensation": "This entry is an Act of Congress that reserved land rather than a treaty; it promised no payment.",
+  "today": "The Delaware cession of these sections is part of the 1817 treaty (kappler-153), on which the Indian Claims Commission entered interlocutory awards in 1978. No separate finding on the thirteen sections was found.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Statutes at Large, vol. 2, p. 448: Act of March 3, 1807, ch. 49",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-2/pdf/STATUTE-2-Pg448.pdf",
+      "publisher": "U.S. Government Publishing Office (govinfo)"
+    },
+    {
+      "title": "Treaty with the Wyandot, etc., 1817, Article 18 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-wyandot-etc-1817-0145",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
+      "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+      "publisher": "Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json names this entry as a cession by the Chippewa, Delaware, Ottawa, Potawatomi, Seneca, Shawnee and Wyandot; the Act concerns only the Delaware sections. The tribe list seems to be carried over from the 1817 treaty schedule. Needs checking.",
+    "Which Royce polygon the map draws for this entry (90 and 91 are also listed under kappler-153) should be checked so the same area is not shown twice."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

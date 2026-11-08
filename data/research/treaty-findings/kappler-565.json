@@ -1,0 +1,105 @@
+{
+  "id": "kappler-565",
+  "name": "Treaty with the Potawatomi Nation, 1846",
+  "aka": [
+    "Potawatomi Treaty of 1846 (Council Bluffs and Osage River)"
+  ],
+  "signed": "1846-06-17",
+  "ratified": "1846-07-22",
+  "proclaimed": "1846-07-23",
+  "citation": "9 Stat. 853",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-nation-1846-0557",
+  "nations": [
+    "Potawatomi Nation (Bodéwadmi): the United Nation of Council Bluffs and the bands on the Osage River (today the Citizen Potawatomi Nation and the Prairie Band Potawatomi Nation)"
+  ],
+  "promises": [
+    "Peace and friendship forever, with the United States promising all proper care and parental protection (Article 1).",
+    "$850,000 for the cession of the Iowa and Osage River lands, subject to the deductions in later articles (Article 3).",
+    "Possession and title to a thirty-mile-square tract of 576,000 acres on both sides of the Kansas River, with a guarantee of full and complete possession (Article 4).",
+    "The balance of the $850,000 held in trust at 5 percent interest (Article 7)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1956-09-19",
+      "what": "The Indian Claims Commission valued the Iowa tract and the Osage River tract ceded by this treaty at $4,341,217 in all (the Osage River tract at $591,217), found the Potawatomi were paid $1,051,000, less than one-fourth of the value, and held the consideration unconscionable.",
+      "whoFoundIt": "Indian Claims Commission, Prairie Band of Potawatomi Indians et al. v. United States, Dockets 15-J and 71-A, Opinion of the Commission on General Issues of 19 September 1956",
+      "source": {
+        "title": "Prairie Band of Potawatomi Indians v. United States, Dockets 15-J and 71-A, Opinion of the Commission on General Issues (1956)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/588",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1954-04-23",
+      "what": "The Commission found that the Act of 1 July 1862 granted a railroad right of way through the Kansas reservation this treaty guaranteed, appropriating 1,454.65 acres of Potawatomi land without the tribe's consent or any payment, and that the tribe was entitled to just compensation. A final award of $4,363.95 with interest from 1 July 1862 followed on 8 August 1955.",
+      "whoFoundIt": "Indian Claims Commission, Pottawatomie Tribe et al. v. United States, Dockets 15-B and 111, Findings of Fact (1954) and Conclusions of Law and Final Award (1955)",
+      "source": {
+        "title": "Pottawatomie Tribe v. United States, Dockets 15-B and 111, Findings of Fact (1954)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/298",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "The Potawatomi lands at Council Bluffs, Iowa, and on the Osage River, Kansas (Royce Areas 265 and 266), ceded by this treaty; and 1,454.65 acres of the new Kansas River reservation taken for the railroad in 1862 (Commission findings).",
+  "compensation": "Consideration of $1,051,000 for the 1846 cession (1956 opinion). The 1959 final award in Dockets 15-J and 71-A is in the collection, but its scan is not legible enough to quote the amount. Railroad taking: $4,363.95 with interest (1955 final award).",
+  "today": "The Kansas River reservation was later divided by the treaties of 1861 and 1867, and the Citizen Band moved to Indian Territory.",
+  "nationVoice": [
+    {
+      "nation": "Citizen Potawatomi Nation",
+      "summary": "The Nation recalls that in 1846 all the Potawatomi west of the Mississippi were moved onto one Kansas River reservation they were promised as their home, and that the later treaties were not applied as written, costing many members their land.",
+      "url": "https://www.potawatomi.org/blog/2021/11/15/160th-anniversary-of-becoming-the-citizen-potawatomi/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Potawatomi Nation, 1846 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-nation-1846-0557",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Prairie Band of Potawatomi Indians v. United States, Dockets 15-J and 71-A, Opinion of the Commission on General Issues (1956)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/588",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Prairie Band of Potawatomi Indians v. United States, Dockets 15-J and 71-A, Findings of Fact on General Issues (1956)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/266",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Prairie Band of Potawatomi Indians v. United States, Dockets 15-J and 71-A, Opinion of the Commission (1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/63",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pottawatomie Tribe v. United States, Dockets 15-B and 111, Findings of Fact (1954)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/298",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pottawatomie Tribe v. United States, Dockets 15-B and 111, Opinion of the Commission (1954)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/21",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pottawatomie Tribe v. United States, Dockets 15-B and 111, Conclusions of Law and Final Award (1955)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/557",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "160th anniversary of becoming the Citizen Potawatomi",
+      "url": "https://www.potawatomi.org/blog/2021/11/15/160th-anniversary-of-becoming-the-citizen-potawatomi/",
+      "publisher": "Citizen Potawatomi Nation"
+    }
+  ],
+  "openQuestions": [
+    "The net award in Dockets 15-J and 71-A is printed illegibly in the scans ($3,29?,217); read the 1959 final award in a clean copy before quoting a figure.",
+    "The Commission's ruling on the railroad taking rests on the Act of 1 July 1862 (12 Stat. 489), which was not opened directly.",
+    "The treaty was signed on 5 June 1846 at Council Bluffs and 17 June 1846 on the Osage River; the later date is used as signed."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

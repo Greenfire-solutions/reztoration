@@ -1,0 +1,218 @@
+[
+ {
+  "id": "foxwoods-resort-casino",
+  "name": "Foxwoods Resort Casino",
+  "category": "tourism",
+  "subcategory": "resort, casino and entertainment",
+  "nation": "Mashantucket Pequot Tribal Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Foxwoods: owned and operated by the Mashantucket Pequot Tribal Nation",
+   "url": "https://www.foxwoods.com/about-us/"
+  },
+  "description": "Large resort with hotels, gaming, dining and shows on the Mashantucket Pequot reservation; its revenue funds the tribal government.",
+  "website": "https://www.foxwoods.com/",
+  "address": "350 Trolley Line Blvd",
+  "city": "Mashantucket",
+  "state": "CT",
+  "zip": "06338",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Foxwoods: owned and operated by the Mashantucket Pequot Tribal Nation",
+    "url": "https://www.foxwoods.com/about-us/"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -71.9597,
+   41.4733
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "mohegan-sun",
+  "name": "Mohegan Sun",
+  "category": "tourism",
+  "subcategory": "resort, casino and entertainment",
+  "nation": "Mohegan Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "About Mohegan Sun: created by the Mohegan Tribe",
+   "url": "https://mohegansun.com/about-mohegan-sun.html"
+  },
+  "description": "Resort with hotel, arena, dining and gaming on the Mohegan reservation by the Thames River.",
+  "website": "https://mohegansun.com/",
+  "address": "1 Mohegan Sun Blvd",
+  "city": "Uncasville",
+  "state": "CT",
+  "zip": "06382",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "About Mohegan Sun: created by the Mohegan Tribe",
+    "url": "https://mohegansun.com/about-mohegan-sun.html"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -72.0962,
+   41.4926
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "mohegan-pennsylvania",
+  "name": "Mohegan Pennsylvania",
+  "category": "tourism",
+  "subcategory": "casino, hotel and harness racing",
+  "nation": "Mohegan Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "About Mohegan Pennsylvania: owned by the Mohegan Tribe of Indians of Connecticut",
+   "url": "https://mohegansunpocono.com/about-mohegan-pennsylvania.html"
+  },
+  "description": "Casino, hotel and live harness racing track near Wilkes-Barre, owned by the Mohegan Tribe since 2005.",
+  "website": "https://mohegansunpocono.com/",
+  "address": "1280 Highway 315",
+  "city": "Wilkes-Barre",
+  "state": "PA",
+  "zip": "18702",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "About Mohegan Pennsylvania: owned by the Mohegan Tribe of Indians of Connecticut",
+    "url": "https://mohegansunpocono.com/about-mohegan-pennsylvania.html"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -75.8216,
+   41.2666
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "wind-creek-bethlehem",
+  "name": "Wind Creek Bethlehem",
+  "category": "tourism",
+  "subcategory": "casino resort",
+  "nation": "Poarch Band of Creek Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Pennsylvania Gaming Control Board: Wind Creek owned by PCI Gaming Authority of the Poarch Band of Creek Indians",
+   "url": "https://gamingcontrolboard.pa.gov/node/618870"
+  },
+  "description": "Casino resort on the old Bethlehem Steel site, run by the Poarch Creek tribe's gaming authority.",
+  "website": "https://windcreek.com/bethlehem",
+  "address": "77 Wind Creek Blvd",
+  "city": "Bethlehem",
+  "state": "PA",
+  "zip": "18015",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Pennsylvania Gaming Control Board: Wind Creek owned by PCI Gaming Authority of the Poarch Band of Creek Indians",
+    "url": "https://gamingcontrolboard.pa.gov/node/618870"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -75.3787,
+   40.6179
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "pearl-river-resort",
+  "name": "Pearl River Resort",
+  "category": "tourism",
+  "subcategory": "casinos, hotels, golf and water park",
+  "nation": "Mississippi Band of Choctaw Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Pearl River Resort: a development of the Mississippi Band of Choctaw Indians",
+   "url": "https://www.pearlriverresort.com/"
+  },
+  "description": "The Choctaw tribe's resort group, with the Golden Moon and Silver Star hotel casinos and Bok Homa Casino.",
+  "website": "https://www.pearlriverresort.com/",
+  "city": "Pearl River",
+  "state": "MS",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Pearl River Resort: a development of the Mississippi Band of Choctaw Indians",
+    "url": "https://www.pearlriverresort.com/"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "zip": "39350",
+  "lonlat": [
+   -89.2278,
+   32.7835
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "meskwaki-bingo-casino-hotel",
+  "name": "Meskwaki Bingo Casino Hotel",
+  "category": "tourism",
+  "subcategory": "casino, hotel and events",
+  "nation": "Meskwaki Nation (Sac and Fox Tribe of the Mississippi in Iowa)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Meskwaki Nation: Meskwaki Bingo Casino Hotel",
+   "url": "https://www.meskwaki.org/meskwaki-bingo-casino-hotel/"
+  },
+  "description": "Casino and hotel on the Meskwaki Settlement, with live music and displays of Meskwaki history in the lobby.",
+  "website": "https://www.meskwaki.org/meskwaki-bingo-casino-hotel/",
+  "address": "1504 305th St",
+  "city": "Tama",
+  "state": "IA",
+  "zip": "52339",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Meskwaki Nation: Meskwaki Bingo Casino Hotel",
+    "url": "https://www.meskwaki.org/meskwaki-bingo-casino-hotel/"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -92.667,
+   41.9978
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "sequoyah-birthplace-museum",
+  "name": "Sequoyah Birthplace Museum",
+  "category": "tourism",
+  "subcategory": "museum and gift shop",
+  "nation": "Eastern Band of Cherokee Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "National Park Service: Sequoyah Birthplace Museum, a property of the Eastern Band of Cherokee Indians",
+   "url": "https://www.nps.gov/places/sequoyah-birthplace-museum.htm"
+  },
+  "description": "Museum on Tellico Lake about Sequoyah, who created the Cherokee syllabary, and Cherokee history in the area, with a gift shop.",
+  "website": "https://www.nps.gov/places/sequoyah-birthplace-museum.htm",
+  "address": "576 State Highway 360",
+  "city": "Vonore",
+  "state": "TN",
+  "zip": "37885",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "National Park Service: Sequoyah Birthplace Museum, a property of the Eastern Band of Cherokee Indians",
+    "url": "https://www.nps.gov/places/sequoyah-birthplace-museum.htm"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -84.2154,
+   35.5799
+  ],
+  "lonlatPrecision": "address"
+ }
+]

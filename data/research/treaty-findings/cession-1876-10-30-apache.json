@@ -40,9 +40,9 @@
       }
     },
     {
-      "kind": "claims-commission",
+      "kind": "litigation",
       "date": "1971-08-25",
-      "what": "Final judgment of $15,967,300 to the Fort Sill Apache Tribe and Chiricahua plaintiffs for their aboriginal lands (Dockets 30-A and 48-A) and $521,796 on Dockets 30 and 48, entered on a stipulation.",
+      "what": "Final judgment of $15,967,300 to the Fort Sill Apache Tribe and Chiricahua plaintiffs for their aboriginal lands (Dockets 30-A and 48-A) and $521,796 on Dockets 30 and 48, entered on a stipulation the parties filed on August 17, 1971 (a settlement, recorded as litigation).",
       "whoFoundIt": "Indian Claims Commission, Fort Sill Apache Tribe v. United States, Final Judgment, August 25, 1971 (26 Ind. Cl. Comm. 193)",
       "source": {
         "title": "Fort Sill Apache Tribe of Oklahoma et al. v. United States, Dockets 30, 48, 30-A, 48-A, Final Judgment, August 25, 1971",
@@ -52,7 +52,7 @@
     }
   ],
   "landTaken": "The Chiricahua reservation of 1872 (Royce Area 600), and the wider Chiricahua aboriginal territory in southwestern New Mexico and southeastern Arizona found by the Indian Claims Commission (Finding 13(a), 1968), taken as of September 4, 1886.",
-  "compensation": "$15,967,300 for the aboriginal lands (Dockets 30-A and 48-A) and $521,796 (Dockets 30 and 48), by stipulated final judgment, August 25, 1971.",
+  "compensation": "$15,967,300 for the aboriginal lands (Dockets 30-A and 48-A) and $521,796 (Dockets 30 and 48), by final judgment on a stipulated settlement, August 25, 1971.",
   "today": "Not researched past the 1971 judgment.",
   "nationVoice": [
     {
@@ -97,7 +97,8 @@
     "The 1872 reservation followed General O. O. Howard's agreement with Cochise; that agreement's terms were not located in a primary source in this pass.",
     "The Treaty with the Apaches of July 1, 1852 (10 Stat. 979) is not in the Royce queue because it ceded no land; the Commission's finding that its boundary obligation was never carried out could support an extra-<slug> file.",
     "The Chiricahua's 27 years as prisoners of war (Florida, Alabama, Fort Sill) and the 1913 division between Fort Sill and Mescalero were not researched for findings.",
-    "The Fort Sill Apache Tribe's own account was not sought in this pass. treaties.json lists no present-day tribes for this cession; the Fort Sill Apache Tribe of Oklahoma is the plaintiff successor in the Commission's case."
+    "treaties.json lists no present-day tribes for this cession; the Fort Sill Apache Tribe of Oklahoma is the plaintiff successor in the Commission's case.",
+    "Audit 2026-11-08: the 1971 final judgment was entered on the parties' stipulation, so it is a settlement and its kind was changed from claims-commission to litigation; the 1968 findings of a taking without consent or compensation remain the claims-commission finding. The open question saying the Tribe's own account was not sought was dropped because nationVoice now holds it."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

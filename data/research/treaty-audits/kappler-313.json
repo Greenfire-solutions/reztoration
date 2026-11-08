@@ -1,0 +1,14 @@
+{
+  "id": "kappler-313",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "ICC Docket 143 opinion of May 19, 1965, 15 Ind. Cl. Comm. 381 (OSU id 711): Area 152, 2,294,400 acres, $1,835,520 on February 15, 1831, $46,318.55 unconscionable, $1,789,201.45, no offsets; quote exact",
+    "ICC Dockets 11-A and 138 compromise findings of March 2, 1965, 15 Ind. Cl. Comm. 42 (OSU id 822)"
+  ],
+  "changes": [
+    "Area 151 Sac and Fox compromise corrected: the Commission entered judgment for $1,096,533.42 ($1,131,533.42 stipulated less $35,000 offsets), with $150,000 withheld pending the Yankton claim in Docket 332-A; the file had recorded $1,131,533.42 as the net judgment",
+    "Compensation field corrected to match; audit line added"
+  ],
+  "unverifiable": []
+}

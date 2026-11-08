@@ -48,7 +48,13 @@
   "landTaken": "30,530,764.8 acres ceded by this treaty, with 8,000,409 acres reserved (Indian Claims Commission, 1958).",
   "compensation": "$1,644,585.49 paid under the treaty; the Indian Claims Commission awarded $10,567,720 less offsets in 1958. The final judgment after offsets was not read.",
   "today": "After Herrera v. Wyoming (2019) the case returned to the Wyoming courts on the State's conservation arguments, which the Supreme Court did not decide; the outcome was not researched.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Apsáalooke (Crow Tribe)",
+      "summary": "After the Supreme Court's 2019 ruling in Herrera v. Wyoming, Chairman Alvin Not Afraid Jr. called it a victory for the Apsáalooke and all treaty tribes, said the right to hunt in the Bighorn Mountains on and off the reservation mattered to the ancestors and still matters, and said he looked forward to Wyoming finally respecting the Crow's 1868 treaty rights.",
+      "url": "https://www.hcn.org/articles/tribal-affairs-treaty-rights-prevail-in-supreme-court"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Crows, 1868 (Kappler, vol. 2, p. 1008)",
@@ -69,6 +75,11 @@
       "title": "Herrera v. Wyoming, No. 17-532 (2019)",
       "url": "https://www.law.cornell.edu/supremecourt/text/17-532",
       "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Treaty rights prevail in Supreme Court (May 21, 2019)",
+      "url": "https://www.hcn.org/articles/tribal-affairs-treaty-rights-prevail-in-supreme-court",
+      "publisher": "High Country News"
     }
   ],
   "openQuestions": [

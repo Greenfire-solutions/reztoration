@@ -43,12 +43,29 @@
         "publisher": "Public.Resource.Org"
       },
       "quote": "fishing rights preserved to the Indians in the 1836 Treaty, including the aboriginal rights to engage in gill net fishing, continue to the present day"
+    },
+    {
+      "kind": "nation-statement",
+      "date": "2024-08-13",
+      "what": "The Sault Ste. Marie Tribe says the 2023 Great Lakes Fishing Decree was imposed on it without its consent, after it was kept out of negotiations and denied a trial, and that the decree violates the fishing rights it reserved in the 1836 treaty and its right to due process.",
+      "whoFoundIt": "Sault Ste. Marie Tribe of Chippewa Indians Chairman Austin Lowes, guest commentary in Bridge Michigan, August 13, 2024",
+      "source": {
+        "title": "Opinion: Why the Sault Tribe cannot accept a court-imposed fishing decree",
+        "url": "https://bridgemi.com/guest-commentary/opinion-why-sault-tribe-cannot-accept-court-imposed-fishing-decree/",
+        "publisher": "Bridge Michigan"
+      }
     }
   ],
   "landTaken": "The Commission found the plaintiffs held aboriginal title to 12,044,934 acres in Royce Area 205 ceded by this treaty, reduced to 11,923,483.25 acres after deducting 121,450.75 acres in allotments (Commission, 1971).",
   "compensation": "Amended final award of $10,109,003.55 (March 15, 1972) in Dockets 18-E and 58, on behalf of the Ottawa and Chippewa nations who signed the treaties of July 6, 1820 and March 28, 1836.",
   "today": "The 1981 ruling allowed Michigan to regulate treaty fishing only on a strict showing of need. In 1994 Congress reaffirmed the federal recognition of the Little Traverse Bay Bands and the Little River Band as descendants of the 1836 signatories, finding that the Bureau of Indian Affairs had failed to act on their 1935 and 1975 requests to reorganize (S. 1357, 103rd Congress).",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Sault Ste. Marie Tribe of Chippewa Indians",
+      "summary": "Chairman Austin Lowes wrote in 2024 that in the 1836 Treaty of Washington the tribe's ancestors ceded 14 million acres of land and 13 million acres of water but kept the right to hunt, fish and gather in perpetuity, and that the 2023 Great Lakes Fishing Decree, imposed by the court without the tribe's consent or a trial, violated those treaty rights.",
+      "url": "https://bridgemi.com/guest-commentary/opinion-why-sault-tribe-cannot-accept-court-imposed-fishing-decree/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Ottawa, etc., 1836 (Kappler)",
@@ -79,6 +96,11 @@
       "title": "S. 1357 (103rd Congress), Little Traverse Bay Bands of Odawa Indians and the Little River Band of Ottawa Indians Act, enrolled bill",
       "url": "https://www.congress.gov/103/bills/s1357/BILLS-103s1357enr.pdf",
       "publisher": "US Congress (congress.gov)"
+    },
+    {
+      "title": "Opinion: Why the Sault Tribe cannot accept a court-imposed fishing decree (Austin Lowes, Chairman, Sault Ste. Marie Tribe of Chippewa Indians)",
+      "url": "https://bridgemi.com/guest-commentary/opinion-why-sault-tribe-cannot-accept-court-imposed-fishing-decree/",
+      "publisher": "Bridge Michigan"
     }
   ],
   "openQuestions": [

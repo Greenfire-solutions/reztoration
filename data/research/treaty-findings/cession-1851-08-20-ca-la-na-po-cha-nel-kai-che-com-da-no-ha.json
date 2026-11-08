@@ -18,10 +18,10 @@
     "Me-dam-a-dec"
   ],
   "promises": [
-    "Article 3 or 4 set apart a defined tract 'forever' for the occupancy of the signing tribes.",
-    "Beef cattle and flour for subsistence during 1851 and 1852.",
-    "Livestock, ploughs, tools, seed, iron and steel, blankets and clothing, divided by the tribes' numbers.",
-    "A farmer, a blacksmith, a carpenter and school teachers, with a school house, for at least five years."
+    "Article 4 set apart as a reservation, its use 'forever guaranteed' to the tribes and to other tribes the United States might move there, the part of the Clear Lake valley west of Mount McKee, the habitable part estimated at about twelve miles by six, with the exclusive right of fishing in that part of the lake.",
+    "Article 5: one hundred head of beef cattle and two hundred fifty-pound sacks of flour in 1851, and the same in each of 1852 and 1853.",
+    "Article 6: clothing, cloth, blankets, iron and steel in each of the two years after ratification, and in the first year brood mares, milch cows, work cattle, wagons, mules, ploughs, seed and tools.",
+    "Article 7: a farmer with two assistants, a carpenter, a blacksmith, a principal school teacher with two male and two female assistant teachers, paid by the United States for five years and as long after as the President thought advisable."
   ],
   "status": "unratified",
   "breaches": [
@@ -90,6 +90,11 @@
       "title": "About Us",
       "url": "https://www.bvrancheria.com/about-us",
       "publisher": "Big Valley Band of Pomo Indians"
+    },
+    {
+      "title": "Kappler, Indian Affairs: Laws and Treaties, vol. 4 (p. 1108), treaty O as excerpted",
+      "url": "https://oms.library.okstate.edu/s/oklahoma-built/item/21833",
+      "publisher": "Oklahoma State University Library"
     }
   ],
   "openQuestions": [
@@ -97,7 +102,8 @@
     "One record covers the whole set of eighteen treaties for the facts common to all; the other seventeen are the cession-1851-* and cession-1852-* entries for Royce areas 273 to 310.",
     "The tribal names are as the commissioners wrote them in 1851-52; most are village or local group names, not nations, and how each community names itself today was not established. treaties.json lists as present-day tribes: Big Valley Band of Pomo Indians of the Big Valley Rancheria, California; Middletown Rancheria of Pomo Indians of California; Robinson Rancheria of Pomo Indians of California.",
     "The Court of Claims judgment under the 1928 Act (Indians of California v. United States, 98 Ct. Cl. 583, 1942) and the Indian Claims Commission settlement for the Indians of California (Dockets 31 and 37) were not opened in this pass; they are the leads for the amounts paid.",
-    "Article 2 of the treaties had the tribes relinquish all their lands in California; because the Senate rejected the treaties, the United States took the land without the reserved tracts or the promised goods (1928 Act, section 2)."
+    "In Article 3 the signing tribes gave up their claims to other lands; because the Senate rejected the treaty, the United States took the land without the reserved tract or the promised goods (1928 Act, section 2).",
+    "Audit 2026-11-08: promises corrected against treaty O as printed in Heizer (1972), the treaty text at https://digicoll.lib.berkeley.edu/record/83366/files/arfs003-001.pdf."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

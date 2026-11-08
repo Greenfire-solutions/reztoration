@@ -1,12 +1,18 @@
 {
   "id": "kappler-373",
   "name": "Treaty with the Kickapoo, 1832",
-  "aka": ["Treaty of Castor Hill with the Kickapoo, October 24, 1832"],
+  "aka": [
+    "Treaty of Castor Hill with the Kickapoo, October 24, 1832"
+  ],
   "signed": "1832-10-24",
   "proclaimed": "1833-02-13",
   "citation": "7 Stat. 391",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-kickapoo-1832-0365",
-  "nations": ["Kickapoo Tribe in Kansas", "Kickapoo Tribe of Oklahoma", "Kickapoo Traditional Tribe of Texas"],
+  "nations": [
+    "Kickapoo Tribe in Kansas",
+    "Kickapoo Tribe of Oklahoma",
+    "Kickapoo Traditional Tribe of Texas"
+  ],
   "promises": [
     "A country south-west of the Missouri River as the Kickapoo's permanent place of residence 'as long as they remain a tribe' (Article 2; the supplemental article fixed a reservation in north-east Kansas).",
     "$18,000 for one year, $12,000 of it applied to the tribe's debts, then $5,000 a year for nineteen years (Articles 3 and 4).",
@@ -19,19 +25,54 @@
       "date": "1968-02-29",
       "what": "The Kickapoo claimed before the Indian Claims Commission that they ceded their 1,868,500-acre Missouri tract under this treaty for an unconscionable consideration, about $143,000 in payments and a 768,000-acre reservation in Kansas. The claim was settled for a net final judgment of $540,000, approved by both Kickapoo tribes, without a ruling on the merits.",
       "whoFoundIt": "Indian Claims Commission, Kickapoo Tribe of Kansas, Kickapoo Tribe of Oklahoma et al. v. United States, Docket 193, Findings of Fact on Compromise Settlement and Final Judgment of 29 February 1968 (19 Ind. Cl. Comm. 37)",
-      "source": { "title": "Kickapoo Tribe of Kansas v. United States, Docket 193, Findings of Fact on Compromise Settlement (1968)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1795", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+      "source": {
+        "title": "Kickapoo Tribe of Kansas v. United States, Docket 193, Findings of Fact on Compromise Settlement (1968)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1795",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
     }
   ],
   "landTaken": "The Missouri tract of 1,868,500 acres the Kickapoo had received under the treaty of 19 July 1820 (Royce Area 179) (Docket 193 findings, 1968).",
   "compensation": "Payments and expenditures said to amount to $143,000 plus a Kansas reservation of 768,000 acres. Settlement judgment of $540,000 in 1968, net of the treaty consideration.",
   "today": "The 'permanent' Kansas reservation was itself reduced by the treaty of 18 May 1854, when 618,000 acres were ceded and 150,000 kept; the Commission later awarded a net $771,441.26 for that cession (Docket 316, 1967).",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Kickapoo Tribe in Kansas",
+      "summary": "Chairman Lester Randall told the Senate in 2018 that the Tribe has lived in northeast Kansas since the 1832 Treaty of Castor Hill, that this treaty gives it senior water rights reserving enough of the Delaware River to make the reservation a permanent homeland, and that later cessions in 1854 and 1862, the second opposed by the Tribe, cut the land down and opened it to allotment and homesteading.",
+      "url": "https://www.narf.org/nill/documents/20180711_kickapoo_testimony_s2154.html"
+    }
+  ],
   "sources": [
-    { "title": "Treaty with the Kickapoo, 1832 (Kappler)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-kickapoo-1832-0365", "publisher": "Oklahoma State University Libraries" },
-    { "title": "Kickapoo Tribe of Kansas v. United States, Docket 193, Findings of Fact on Compromise Settlement (1968)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1795", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Kickapoo Tribe of Kansas v. United States, Docket 193, Final Judgment (1968)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1650", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Kickapoo Tribe of Kansas v. United States, Docket 316, Findings of Fact (1962)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/310", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Kickapoo Tribe of Kansas v. United States, Docket 316, Final Award (1967)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2754", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+    {
+      "title": "Treaty with the Kickapoo, 1832 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-kickapoo-1832-0365",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Kickapoo Tribe of Kansas v. United States, Docket 193, Findings of Fact on Compromise Settlement (1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1795",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Kickapoo Tribe of Kansas v. United States, Docket 193, Final Judgment (1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1650",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Kickapoo Tribe of Kansas v. United States, Docket 316, Findings of Fact (1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/310",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Kickapoo Tribe of Kansas v. United States, Docket 316, Final Award (1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2754",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Testimony of Lester Randall, Chairman, Kickapoo Tribe in Kansas, in support of S. 2154, Senate Committee on Indian Affairs, July 18, 2018",
+      "url": "https://www.narf.org/nill/documents/20180711_kickapoo_testimony_s2154.html",
+      "publisher": "Kickapoo Tribe in Kansas (copy held by the National Indian Law Library, NARF)"
+    }
   ],
   "openQuestions": [
     "The settlement made no finding of unconscionable consideration, so this treaty is shown as contested. The 1854 reduction of the Kansas reservation may support a breach of the Article 2 'permanent residence' promise, but the 1854 cession was by treaty and is a separate queue entry (kappler-642).",

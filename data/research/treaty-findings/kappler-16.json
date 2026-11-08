@@ -1,11 +1,15 @@
 {
   "id": "kappler-16",
   "name": "Treaty with the Cherokee, 1785 (Treaty of Hopewell)",
-  "aka": ["Treaty of Hopewell"],
+  "aka": [
+    "Treaty of Hopewell"
+  ],
   "signed": "1785-11-28",
   "citation": "7 Stat. 18",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1785-0008",
-  "nations": ["Cherokee (ᏣᎳᎩ)"],
+  "nations": [
+    "Cherokee (ᏣᎳᎩ)"
+  ],
   "promises": [
     "Article 4 fixed the boundary of the lands allotted to the Cherokees for their hunting grounds.",
     "Article 5: any United States citizen who settled on those lands, or did not leave within six months of ratification, would forfeit the protection of the United States, and the Cherokees could punish him as they pleased.",
@@ -19,32 +23,61 @@
       "date": "1832",
       "what": "The Supreme Court held that Georgia's law extending its jurisdiction over Cherokee territory was void as repugnant to the treaties of Hopewell and Holston, and that the Cherokee Nation was a distinct community in which Georgia's laws had no force.",
       "whoFoundIt": "Worcester v. Georgia, 31 U.S. (6 Pet.) 515 (1832)",
-      "source": { "title": "Worcester v. Georgia, 31 U.S. 515 (1832)", "url": "https://www.law.cornell.edu/supremecourt/text/31/515", "publisher": "Legal Information Institute, Cornell Law School" }
+      "source": {
+        "title": "Worcester v. Georgia, 31 U.S. 515 (1832)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/31/515",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      }
     },
     {
-      "kind": "government-admission",
+      "kind": "historian",
       "date": "1832",
-      "what": "The National Park Service states that Georgia ignored the Worcester ruling and the federal judicial and executive branches did nothing to enforce it.",
+      "what": "The National Park Service history page for Fort Smith National Historic Site states that Georgia ignored the Worcester ruling and that the federal judicial and executive branches did nothing to enforce it. This is the Park Service history for visitors, not a finding, and the page does not name this treaty.",
       "whoFoundIt": "National Park Service, Fort Smith National Historic Site",
-      "source": { "title": "Cherokee Relations with US Government Before Removal", "url": "https://www.nps.gov/fosm/historyculture/cherokee-relations-with-us-government-before-removal.htm", "publisher": "National Park Service" }
+      "source": {
+        "title": "Cherokee Relations with US Government Before Removal",
+        "url": "https://home.nps.gov/fosm/learn/historyculture/cherokee-relations-with-us-government-before-removal.htm",
+        "publisher": "National Park Service"
+      }
     }
   ],
   "landTaken": "The hunting grounds bounded by Article 4 east of the Mississippi were ceded by later treaties, finally by the Treaty of New Echota (1835); see kappler-447.",
   "compensation": "None located for the breaches recorded here.",
   "today": "Not researched beyond the removal; see the Treaty of New Echota (kappler-447).",
   "nationVoice": [
-    { "nation": "Cherokee Nation", "summary": "The Nation's history describes the removal forced on it after the 1835 treaty.", "url": "https://www.cherokee.org/about-the-nation/history/" }
+    {
+      "nation": "Cherokee Nation",
+      "summary": "The Nation's history describes the removal forced on it after the 1835 treaty.",
+      "url": "https://www.cherokee.org/about-the-nation/history/"
+    }
   ],
   "sources": [
-    { "title": "Treaty with the Cherokee, 1785 (Kappler, vol. 2, p. 8)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1785-0008", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
-    { "title": "Worcester v. Georgia, 31 U.S. 515 (1832)", "url": "https://www.law.cornell.edu/supremecourt/text/31/515", "publisher": "Legal Information Institute, Cornell Law School" },
-    { "title": "Cherokee Relations with US Government Before Removal", "url": "https://www.nps.gov/fosm/historyculture/cherokee-relations-with-us-government-before-removal.htm", "publisher": "National Park Service" },
-    { "title": "History", "url": "https://www.cherokee.org/about-the-nation/history/", "publisher": "Cherokee Nation" }
+    {
+      "title": "Treaty with the Cherokee, 1785 (Kappler, vol. 2, p. 8)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1785-0008",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Worcester v. Georgia, 31 U.S. 515 (1832)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/31/515",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Cherokee Relations with US Government Before Removal",
+      "url": "https://home.nps.gov/fosm/learn/historyculture/cherokee-relations-with-us-government-before-removal.htm",
+      "publisher": "National Park Service"
+    },
+    {
+      "title": "History",
+      "url": "https://www.cherokee.org/about-the-nation/history/",
+      "publisher": "Cherokee Nation"
+    }
   ],
   "openQuestions": [
     "Kappler gives no ratification or proclamation date for this treaty, made under the Articles of Confederation; none is recorded here.",
     "Settlement on Cherokee lands inside the Article 4 boundary in the years after 1785 (North Carolina and the State of Franklin) is described by historians; no formal finding was opened.",
-    "Worcester v. Georgia found that Georgia, a state, acted against the treaty; the federal failure to enforce rests on the National Park Service's statement, not on a ruling."
+    "Worcester v. Georgia found that Georgia, a state, acted against the treaty; the federal failure to enforce rests on the National Park Service's statement, not on a ruling.",
+    "Audit 2026-11-08: the National Park Service statement was changed from government-admission to historian, as on kappler-815: an interpretive history page is not a finding or an admission of the kind rule 9 means, and it does not mention the Treaty of Hopewell. Its url was updated to the page it now redirects to. Status stays broken on Worcester v. Georgia (1832), which names the Hopewell and Holston treaties and holds Georgia law void as repugnant to them."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

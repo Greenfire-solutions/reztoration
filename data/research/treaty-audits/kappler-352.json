@@ -1,0 +1,20 @@
+{
+  "id": "kappler-352",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "ICC Dockets 73 and 151 opinion of May 13, 1970, 23 Ind. Cl. Comm. 108 (OSU id 920): 1832 payment not unconscionable, nothing recovered on that count; quote exact",
+    "Additional findings of May 13, 1970 (OSU id 1708): reservation 5,865,600 acres valued as of May 9, 1832; total consideration $2,094,809.39 (the opinion OCR reads $2,094,603.33)",
+    "Compromise findings of April 27, 1976 (OSU id 1148) and final award (OSU id 1268): $16,000,000; claims covered 1823 aboriginal lands (23,892,626 acres) and the 1832 reservation; no recovery had been allowed for the 1832 land"
+  ],
+  "changes": [
+    "Commission entry re-sourced from a museum summary of a history book to the Commission's own opinion and findings; wording made plain that neither the 1970 ruling nor the 1976 compromise is a finding of breach; kind stays litigation, status stays contested",
+    "Dropped the 4,032,940-acre petition figure taken from the summary",
+    "Compensation corrected: the $16,000,000 covered about 24 million acres of 1823 land plus the 1832 reservation, not 24 million acres under both treaties",
+    "Three ICC sources added; audit line added"
+  ],
+  "unverifiable": [
+    "Senate hearing PDF of March 2, 1978 not re-opened",
+    "Public Law 101-277 not opened"
+  ]
+}

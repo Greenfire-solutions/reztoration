@@ -36,7 +36,13 @@
   "landTaken": "4,982,097.87 acres in northeastern Nebraska, including all of Cedar, Pierce, Wayne, Stanton, Cuming, Dakota, Dodge, Washington, Douglas, Burt and Sarpy counties and parts of others (Docket 225-A, finding 31).",
   "compensation": "The Commission found $975,739.54 was paid. It disallowed a claimed offset of $374,465.02, allowed a stipulated offset of $25,000, and entered a final award of $2,735,833.86 on May 6, 1959.",
   "today": "The claimant was the Omaha Tribe of Nebraska. Later reductions of the reservation kept by this treaty are separate queue entries (kappler-880, 1865; cession-1874-06-22-omaha; cession-1882-08-07-omaha).",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Omaha Tribe of Nebraska",
+      "summary": "In a 2013 release on the Pender boundary case, the Tribe said its reservation was established in 1854 by treaty with the United States with original boundaries covering all of present-day Thurston County, that an 1865 treaty ceded the northern part for the Winnebago, and that it was defending the undiminished reservation in court against claims that an 1882 law had shrunk it.",
+      "url": "https://www.prnewswire.com/news-releases/omaha-tribes-effort-to-defend-reservation-boundary-lawsuit-gets-support-of-national-tribal-organization-214814201.html"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Omaha, 1854 (Kappler, vol. 2, p. 611)",
@@ -62,6 +68,11 @@
       "title": "Omaha Tribe of Nebraska v. United States, Docket 225-A, Conclusions of Law and Final Award (May 6, 1959)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/516",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Omaha Tribe's effort to defend reservation boundary lawsuit gets support of national tribal organization (press release, July 9, 2013)",
+      "url": "https://www.prnewswire.com/news-releases/omaha-tribes-effort-to-defend-reservation-boundary-lawsuit-gets-support-of-national-tribal-organization-214814201.html",
+      "publisher": "Omaha Tribe of Nebraska, via PR Newswire"
     }
   ],
   "openQuestions": [

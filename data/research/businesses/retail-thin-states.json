@@ -1,0 +1,31 @@
+[
+ {
+  "id": "meskwaki-travel-plaza",
+  "name": "Meskwaki Travel Plaza",
+  "category": "retail",
+  "subcategory": "travel plaza and fuel",
+  "nation": "Meskwaki Nation (Sac and Fox Tribe of the Mississippi in Iowa)",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Meskwaki Nation: Meskwaki Inc. companies include the Meskwaki Travel Plaza",
+   "url": "https://www.meskwaki.org/meskwaki-inc/"
+  },
+  "description": "Fuel and convenience stop run by Meskwaki Inc., the tribe's wholly owned business corporation.",
+  "website": "https://www.meskwaki.org/meskwaki-inc/",
+  "city": "Tama",
+  "state": "IA",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Meskwaki Nation: Meskwaki Inc. companies include the Meskwaki Travel Plaza",
+    "url": "https://www.meskwaki.org/meskwaki-inc/"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -92.5793,
+   41.9626
+  ],
+  "lonlatPrecision": "town"
+ }
+]

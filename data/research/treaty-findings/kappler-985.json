@@ -61,7 +61,18 @@
   "landTaken": "2,033,583 acres of the reservation, the 'surplus' after allotment, acquired under the Act of June 6, 1900, as stated by the Indian Claims Commission (1951).",
   "compensation": "$2,000,000 paid under the 1900 Act. The Indian Claims Commission found the land worth $4,067,166 in 1900 and awarded the difference of $2,067,166 less offsets (1955 opinion). Its March 12, 1957 opinion stated a net of $1,626,015.86 after offsets; on rehearing the July 18, 1957 amended final order revised some offset findings, and the amended net figure was not read. Interest was denied.",
   "today": "Not researched past the 1957 Indian Claims Commission award.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Comanche Nation",
+      "summary": "Chairman Forrest Tahdooahnippah, in a 2024 University of Oklahoma keynote on treaty rights, pointed to the Medicine Lodge Creek treaty as the United States acknowledging the Comanche as a sovereign nation, and said treaty rights are birthrights won by the ancestors' sacrifice, not special treatment.",
+      "url": "https://ou.edu/news/articles/2024/november/ou-hosts-comanche-nation-chairman-for-tribal-engagement-series"
+    },
+    {
+      "nation": "Kiowa Tribe",
+      "summary": "The Tribe's history says that under the Medicine Lodge Treaty of 1867 the Kiowa agreed to settle on a reservation in southwestern Oklahoma, that Kiowa land there was opened to white settlement on August 6, 1901 after each head of household was allotted 160 acres, and that the only land still in tribal ownership is the scattered grassland parcels once leased to settlers for grazing.",
+      "url": "https://kiowatribe.org/about-us"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Kiowa and Comanche, 1867 (Kappler, vol. 2, p. 977)",
@@ -102,6 +113,16 @@
       "title": "Kiowa, Comanche and Apache Tribes of Indians v. United States, Amended Final Order, July 18, 1957",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/376",
       "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "OU Hosts Comanche Nation Chairman for Tribal Engagement Series (November 15, 2024)",
+      "url": "https://ou.edu/news/articles/2024/november/ou-hosts-comanche-nation-chairman-for-tribal-engagement-series",
+      "publisher": "University of Oklahoma"
+    },
+    {
+      "title": "About Us",
+      "url": "https://kiowatribe.org/about-us",
+      "publisher": "Kiowa Tribe"
     }
   ],
   "openQuestions": [

@@ -43,7 +43,13 @@
   "landTaken": "The Mescalero aboriginal lands described in the Commission's Finding No. 37, in New Mexico east of the Rio Grande and south of about the 35th parallel, less confirmed Spanish and Mexican grants (Docket 22-B, 1966). The acreage was not found in a source opened.",
   "compensation": "None at the time. Final judgment of $8,500,000 by compromise in 1967 (Docket 22-B).",
   "today": "The Mescalero Apache Tribe holds the Mescalero Apache Reservation in south-central New Mexico, the reservation this order began.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Mescalero Apache Tribe",
+      "summary": "The Tribe's history says the mountains, plains and deserts of the region belonged to the Mescalero long before settlers came, that its reservation, long recognized by Spanish, Mexican and American treaties, was formally set up by President Grant's Executive Order of May 29, 1873, and that today's 463,000 acres are only part of what was once the heartland of its aboriginal homelands.",
+      "url": "https://mescaleroapachetribe.com/our-culture/"
+    }
+  ],
   "sources": [
     {
       "title": "Mescalero Apache Tribe v. United States, Docket 22-B, Opinion of the Commission (1966), 17 Ind. Cl. Comm. 150",
@@ -69,6 +75,11 @@
       "title": "Mescalero Apache Tribe v. United States, Docket 22-B, Final Judgment (1967), 18 Ind. Cl. Comm. 380",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1524",
       "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Our Culture: Tribal History and Reservation History",
+      "url": "https://mescaleroapachetribe.com/our-culture/",
+      "publisher": "Mescalero Apache Tribe"
     }
   ],
   "openQuestions": [

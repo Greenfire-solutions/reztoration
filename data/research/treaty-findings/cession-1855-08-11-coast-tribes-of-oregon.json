@@ -1,11 +1,21 @@
 {
   "id": "cession-1855-08-11-coast-tribes-of-oregon",
   "name": "Treaty with the Coast Tribes of Oregon, 1855 (unratified Coast Treaty)",
-  "aka": ["Palmer Coast Treaty of August 11, 1855", "Treaty of 1855 with the Coos, Lower Umpqua and Siuslaw (unratified)"],
+  "aka": [
+    "Palmer Coast Treaty of August 11, 1855",
+    "Treaty of 1855 with the Coos, Lower Umpqua and Siuslaw (unratified)"
+  ],
   "signed": "1855-08-11",
   "citation": "Never ratified; published in Senate Executive Document No. 25, 53rd Congress, 1st session",
   "textUrl": "https://www.law.cornell.edu/supremecourt/text/329/40",
-  "nations": ["Tillamook", "Coquille", "Tututni (Too-too-to-ney)", "Chetco", "Coos, Lower Umpqua and Siuslaw", "Alsea and other coast bands"],
+  "nations": [
+    "Tillamook",
+    "Coquille",
+    "Tututni (Too-too-to-ney)",
+    "Chetco",
+    "Coos, Lower Umpqua and Siuslaw",
+    "Alsea and other coast bands"
+  ],
   "promises": [
     "The bands would cede their lands on the Oregon coast in return for money payments.",
     "A reservation would be created for them within the ceded area.",
@@ -62,7 +72,7 @@
     }
   ],
   "landTaken": "Royce's Area 397 on the Oregon coast, treated by the United States as ceded although the treaty was never ratified (Royce, 1899).",
-  "compensation": "The Tillamook, Coquille, Tututni and Chetco recovered for the taking after the 1946 ruling; the amount was not recorded in this pass. The Coos, Lower Umpqua and Siuslaw were excluded from the 1935 jurisdictional act, and their earlier suit was denied in 1938 for lack of proof of original title (Coos Bay, Lower Umpqua and Siuslaw Tribes v. United States, 87 Ct. Cl. 143, as described in Alcea).",
+  "compensation": "The Tillamook, Coquille, Tututni and Chetco recovered for the taking after the 1946 ruling; the amount was not recorded in this pass. An earlier suit by the Coos, Lower Umpqua and Siuslaw, under a jurisdictional act worded like the 1935 Act, was denied in 1938 because original Indian title had not been proved (Coos Bay, Lower Umpqua and Siuslaw Indian Tribes v. United States, 87 Ct. Cl. 143, as described in Alcea).",
   "today": "The Coos, Lower Umpqua and Siuslaw were terminated in 1954 over their opposition and restored by Public Law 98-481 on October 17, 1984 (CTCLUSI, History).",
   "nationVoice": [
     {
@@ -97,7 +107,8 @@
     "Royce describes 'several treaties' concluded with the coast tribes between August 11 and September 8, 1855; which bands signed which instrument was not sorted out here, and the cession entries dated November 9, 1855 in treaties.json may cover the same lands.",
     "The amount recovered by the Tillamook and other bands after 1946 (and the later Indian Claims Commission dockets 239 and 240 for Tillamook and Clatsop bands) was not recorded.",
     "The treaty text in Senate Executive Document No. 25, 53rd Congress, was not opened.",
-    "The Confederated Tribes of Siletz Indians and the Coquille Indian Tribe were not consulted for their own accounts in this pass."
+    "The Confederated Tribes of Siletz Indians and the Coquille Indian Tribe were not consulted for their own accounts in this pass.",
+    "Audit 2026-11-08: compensation no longer says the Coos, Lower Umpqua and Siuslaw were excluded from the 1935 Act; Alcea (329 U.S. 40) says only that their 1938 suit, under an earlier act in identical language, failed for want of proof of original title."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

@@ -18,19 +18,8 @@
     "Article 3: $12,000 in all: $1,000 in goods by October 1, 1854 and $11,000 in twenty yearly instalments of $550 in blankets, clothing, provisions, stock or farm tools.",
     "Article 4: two dwelling-houses and a five-acre field fenced, ploughed and seeded, at United States expense."
   ],
-  "status": "broken",
+  "status": "contested",
   "breaches": [
-    {
-      "kind": "act-of-congress",
-      "date": "1954-08-13",
-      "what": "The Western Oregon Indian Termination Act listed the Cow Creek by name among the tribes whose federal trust relationship and federal services as Indians were to be terminated. Congress acted without the band's consent; in 1982 it restored the rights under any federal treaty 'which may have been diminished or lost' under the 1954 Act.",
-      "whoFoundIt": "Act of August 13, 1954, 68 Stat. 724; Cow Creek Band of Umpqua Tribe of Indians Recognition Act, Public Law 97-391 (1982)",
-      "source": {
-        "title": "Act of August 13, 1954, Public Law 588, ch. 733, 68 Stat. 724 (Western Oregon Indian Termination Act)",
-        "url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg724.pdf",
-        "publisher": "U.S. Government Publishing Office, govinfo"
-      }
-    },
     {
       "kind": "nation-statement",
       "what": "The Cow Creek Band says it never received the $12,000 the treaty promised, about 2.3 cents an acre when settlers paid the government $1.25 an acre, and never received the reservation the treaty promised.",
@@ -56,7 +45,7 @@
   ],
   "landTaken": "More than 800 square miles of south-western Oregon, as the band states (Cow Creek tribal history).",
   "compensation": "The treaty promised $12,000; the band says it was not received. A $1.5 million settlement was reached in 1984, according to the band.",
-  "today": "Congress restored federal recognition on December 29, 1982 (Public Law 97-391). The band says it is buying back land in its homeland.",
+  "today": "The Western Oregon Indian Termination Act of August 13, 1954 (68 Stat. 724) named the Cow Creek among the tribes whose federal supervision and services were to end; it does not mention this treaty. Congress restored federal recognition on December 29, 1982 (Public Law 97-391), restoring rights under any federal treaty 'which may have been diminished or lost' under the 1954 Act. The band says it is buying back land in its homeland.",
   "nationVoice": [
     {
       "nation": "Cow Creek Band of Umpqua Tribe of Indians",
@@ -94,7 +83,7 @@
   "openQuestions": [
     "No court or Claims Commission finding on the 1853 payment or the never-selected reservation was found; the 1984 Court of Claims settlement record itself was not opened, and its amount comes from the band.",
     "The Rogue River Tribe v. United States litigation in the Court of Claims (No. 45231, 1946 and 1950) also named the Cow Creek band; its outcome could not be read because the opinion is behind a paywall.",
-    "Whether the Termination Act counts as a breach of this treaty in law is a judgement: it ended the federal relationship the treaty created, and Congress's 1982 Act restored treaty rights lost under it."
+    "Audit 2026-11-08: removed the 1954 Termination Act as a breach and changed the status from broken to contested. Rule 9 needs an Act that took or overrode what this treaty secured; the Act does not name the treaty, the band never received the reservation the treaty promised, so termination took no treaty land, and the 1982 Act restores treaty rights only in general words. The removed text also said Congress acted without the band's consent, which no source opened states. A finding that the $12,000 or the Cow Creek reserve was never provided would make this broken."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

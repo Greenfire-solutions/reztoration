@@ -1,0 +1,32 @@
+{
+  "id": "cession-1892-11-21-chippewa",
+  "name": "Executive Order of November 21, 1892 adding land to the diminished Red Lake Reservation",
+  "aka": [
+    "Red Lake Reservation addition, 1892"
+  ],
+  "signed": "1892-11-21",
+  "citation": "Executive Order of November 21, 1892 (Royce cession 719)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/944/mode/2up",
+  "nations": [
+    "Red Lake Band of Chippewa Indians"
+  ],
+  "promises": [
+    "Not a treaty: a presidential order. It set apart as an addition to the diminished Red Lake reservation fractional section 33 of township 152 north, range 32 west, and fractional sections 4, 9, 16, 17, 19 and 20 and section 21 of township 151 north, range 32 west (Royce's schedule)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "Royce lists this order as an addition to the Red Lake reservation, which had been diminished under the 1889 agreements (the Nelson Act cessions). No record was found that the added sections were later taken.",
+  "sources": [
+    {
+      "title": "Royce, Schedule of Indian Land Cessions, 1892 entries (cession 719)",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/944/mode/2up",
+      "publisher": "Bureau of American Ethnology, 18th Annual Report, part 2 (Royce, Indian Land Cessions, 1899), Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "Whether these added sections remain within the Red Lake reservation today was not checked against a current source.",
+    "The Indian Claims Commission's Red Lake dockets (for example Red Lake, Pembina and White Earth Bands v. United States) concern earlier cessions and the 1889 agreements; none opened addresses this addition."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

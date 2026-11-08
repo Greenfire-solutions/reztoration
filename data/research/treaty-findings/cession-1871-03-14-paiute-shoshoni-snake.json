@@ -1,0 +1,68 @@
+{
+  "id": "cession-1871-03-14-paiute-shoshoni-snake",
+  "name": "Executive order of March 14, 1871 (temporary withdrawal to select the Malheur reservation)",
+  "aka": [
+    "Malheur reservation withdrawal, 1871"
+  ],
+  "signed": "1871-03-14",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+  "nations": [
+    "Wadatika band of Northern Paiute (Burns Paiute Tribe)",
+    "Snake or Paiute bands of southeastern Oregon who were parties to the unratified treaty of 10 December 1868"
+  ],
+  "promises": [
+    "The President withdrew from market, for eighteen months, the country in Oregon between 42 and 44 degrees north and 117 and 120 degrees west, so that a reservation, later called Malheur, could be selected from it (Royce schedule)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce Area 537: the part of this withdrawal that the executive order of 12 September 1872 restored to the public domain, everything outside the reservation then set apart (Royce schedule).",
+  "compensation": "An executive order; it promised no payment.",
+  "today": "This order made no promise to the Paiute beyond holding land while a reservation was chosen. The reservation chosen from it is the subject of the Indian Claims Commission finding in Docket 17 (see cession-1872-09-12-paiute-shoshoni-snake). Royce notes that part of Area 537 was added back to the reserve in 1875 and relinquished again in 1876 and 1883.",
+  "nationVoice": [
+    {
+      "nation": "Burns Paiute Tribe",
+      "summary": "The tribe writes that an executive order reservation of 1.8 million acres was set aside for its people but was short-lived: survivors were marched more than 300 miles in deep snow to Fort Simcoe and Fort Vancouver, and in their absence the Malheur Reservation was returned to the public domain.",
+      "url": "https://burnspaiute-nsn.gov/about-bpt/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Snake or Piute Indians of the Former Malheur Reservation v. United States, Docket 17, Second Interlocutory Order (1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/32",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Snake or Piute Indians of the Former Malheur Reservation v. United States, Docket 17, Additional Findings of Fact (1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/54",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Snake or Piute Indians of the Former Malheur Reservation v. United States, Docket 17, Opinion of the Commission (1950)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/469",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Snake or Piute Indians of the Former Malheur Reservation v. United States, Docket 17, Opinion of the Commission (1956)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/513",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
+      "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+      "publisher": "Internet Archive"
+    },
+    {
+      "title": "About the Burns Paiute Tribe",
+      "url": "https://burnspaiute-nsn.gov/about-bpt/",
+      "publisher": "Burns Paiute Tribe"
+    }
+  ],
+  "openQuestions": [
+    "A final award in Docket 17 after the 1959 interlocutory order was not found in the collection; whether and when the $579,722.00 was paid was not traced.",
+    "The Burns Paiute Tribe's page dates the executive order reservation to 1869; Royce and the Commission date the orders 1871, 1872 and 1875.",
+    "The Northern Paiute claim (Docket 87) found in 1959 that the United States took the Oregon Paiute lands without compensation, but the 1965 final judgment covers only the Owens Valley and western Nevada groups; what became of the Oregon claim was not traced.",
+    "The executive order texts were read through Royce's schedule, not the orders themselves."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

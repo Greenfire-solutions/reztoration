@@ -18,23 +18,11 @@
     "Article 3: $60,000, of which $15,000 was kept back for settlers' losses, $5,000 spent on tools, blankets and goods by September 1, 1854, and $40,000 paid in sixteen yearly instalments.",
     "Article 4: houses for the three principal chiefs, equal improvements on any new reserve, and a further $15,000 in five instalments on removal."
   ],
-  "status": "broken",
-  "breaches": [
-    {
-      "kind": "act-of-congress",
-      "date": "1954-08-13",
-      "what": "The Western Oregon Indian Termination Act listed the Rogue River, Takelma and Shasta peoples, and the Grand Ronde and Siletz confederations where they had been removed, among the tribes whose federal trust relationship and federal services were to be terminated, without their consent. In 1983 Congress restored rights under any federal treaty diminished or lost under the 1954 Act for Grand Ronde.",
-      "whoFoundIt": "Act of August 13, 1954, 68 Stat. 724; Grand Ronde Restoration Act, Public Law 98-165 (1983)",
-      "source": {
-        "title": "Act of August 13, 1954, Public Law 588, ch. 733, 68 Stat. 724 (Western Oregon Indian Termination Act)",
-        "url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg724.pdf",
-        "publisher": "U.S. Government Publishing Office, govinfo"
-      }
-    }
-  ],
+  "status": "no-breach-found",
+  "breaches": [],
   "landTaken": "Royce Area 312 in south-western Oregon and northern California; the acreage was not found in a source opened.",
   "compensation": "$60,000 under the treaty, $15,000 of it held back for settlers' claims. The outcome of the Court of Claims suit by the Rogue River tribe (No. 45231, 1946 and 1950) was not found.",
-  "today": "Congress restored the Confederated Tribes of Siletz Indians in 1977 and the Confederated Tribes of the Grand Ronde Community in 1983 (Public Law 98-165).",
+  "today": "The Western Oregon Indian Termination Act of August 13, 1954 (68 Stat. 724) listed the Rogue River, Takelma and Shasta peoples among the tribes whose federal supervision and services were to end; it does not mention this treaty, and the Table Rock reserve this treaty set apart had been abandoned after the Rogue River War of 1855-56. Congress restored the Confederated Tribes of Siletz Indians in 1977 and the Confederated Tribes of the Grand Ronde Community in 1983 (Public Law 98-165).",
   "nationVoice": [],
   "sources": [
     {
@@ -57,7 +45,7 @@
     "The Table Rock reservation was abandoned after the Rogue River War of 1855-56 and its people moved north to the Grand Ronde and Siletz reservations; no finding on whether that removal kept Articles 2 and 4 was found.",
     "Rogue River Tribe of Indians v. United States, 89 F. Supp. 798 (Ct. Cl. 1950), and the 1946 decision in the same case are the obvious next sources; the full text was behind a paywall.",
     "The Confederated Tribes of Grand Ronde history page loaded with little text on 2026-11-07; no nation account of this treaty was opened.",
-    "Whether the Termination Act counts as a breach of this treaty in law is a judgement; the 1983 Act's restoration of treaty rights 'diminished or lost' supports it."
+    "Audit 2026-11-08: removed the 1954 Termination Act as a breach and changed the status from broken to no breach found yet. Rule 9 needs an Act that took or overrode what this treaty secured; the Act does not name the treaty, the temporary Table Rock reserve and the annuities it secured were gone long before 1954, and the 1983 Grand Ronde Act restores treaty rights only in general words. The Court of Claims decisions in Rogue River Tribe v. United States (64 F. Supp. 339, 1946, and 89 F. Supp. 798, 1950), which concern the Table Rock reservation, are the likely finding; both were behind paywalls (Leagle, Midpage) on 2026-11-08."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

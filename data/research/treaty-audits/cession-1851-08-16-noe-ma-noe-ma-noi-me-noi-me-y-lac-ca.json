@@ -1,0 +1,20 @@
+{
+  "id": "cession-1851-08-16-noe-ma-noe-ma-noi-me-noi-me-y-lac-ca",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty H name, place, date and signing tribes against the President's 1852 schedule and the treaty text in Heizer (1972); the nations list matches this treaty, not a sibling.",
+    "Senate refusal in executive session on July 8, 1852 and removal of the injunction of secrecy on January 18, 1905 (Heizer, introduction and Senate record).",
+    "Act of May 18, 1928, 45 Stat. 602: the quote is exact and the $1.25 an acre measure is in section 3.",
+    "Royce areas in landTaken match treaties.json.",
+    "Each promise against the article it cites."
+  ],
+  "changes": [
+    "Promises rewritten from this treaty's own articles; the four generic promises copied across the California files ('Article 3 or 4', beef and flour 'during 1851 and 1852', staff 'for at least five years') did not fit this treaty or could not be checked for it.",
+    "Open question on relinquishment: the generic 'Article 2' replaced with this treaty's article, or marked unchecked.",
+    "Added Oklahoma State University's Kappler vol. 4 excerpt as a source."
+  ],
+  "unverifiable": [
+    "Full text of the articles Heizer omits (subsistence, and the length of the staff promise where the excerpt does not give it); Kappler vol. 4 p. 1107 was not opened in full."
+  ]
+}

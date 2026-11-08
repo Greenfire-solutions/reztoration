@@ -1,0 +1,125 @@
+{
+  "id": "cession-1874-03-23-paiute",
+  "name": "Executive Order of March 23, 1874 establishing the Pyramid Lake Reservation",
+  "aka": [
+    "Pyramid Lake Indian Reservation executive order"
+  ],
+  "signed": "1874-03-23",
+  "citation": "Executive Order of March 23, 1874 (1 Kappler 869; Royce cessions 561 and 562)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/872/mode/2up",
+  "nations": [
+    "Pyramid Lake Paiute Tribe (Northern Paiute)"
+  ],
+  "promises": [
+    "Not a treaty: a presidential order. President Grant set apart the Pyramid Lake Reservation in Nevada for the Paiute and other Indians, as surveyed in January 1865 (Royce 561).",
+    "The Indian Claims Commission held that the reservation was in fact established on November 29, 1859 by Interior Department action, and that the 1874 order formalised it.",
+    "The Commission held that the reservation carried with it sufficient Truckee River water to maintain Pyramid Lake, its fishery and the spawning reaches of the river, and that the United States had an obligation to preserve those waters and fisheries.",
+    "Royce records the rest of the Paiute country (Royce 562) under this entry as taken by the United States without formal relinquishment by the Indians."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1959-06-04",
+      "what": "The Indian Claims Commission found that the Nevada portion of the Paviotso (western Nevada Paiute) lands outside the Pyramid Lake and Walker River reservations was taken by the United States without payment of compensation on December 31, 1862, the date those reservations had come into operation.",
+      "whoFoundIt": "Indian Claims Commission, Northern Paiute Nation v. United States, Docket 87, Additional Finding of Fact 30",
+      "source": {
+        "title": "Northern Paiute Nation v. United States, Docket 87, Additional Findings of Fact (June 4, 1959), 7 Ind. Cl. Comm. 615",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/230",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "was taken by the United States, without payment of compensation on December 31, 1862"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1965-11-04",
+      "what": "The Commission found the Nevada portion of the Paviotso tract worth $15,750,000.00 on December 31, 1862 and the California portion $250,000.00 on March 3, 1853, and awarded the Paiutes of western Nevada $16,000,000.00 less $210,000.00 in offsets, a net $15,790,000.00.",
+      "whoFoundIt": "Indian Claims Commission, Docket 87, Final Judgment",
+      "source": {
+        "title": "Northern Paiute Nation v. United States, Docket 87, Final Judgment (November 4, 1965), 16 Ind. Cl. Comm. 215",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1860",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "government-admission",
+      "date": "1899",
+      "what": "The government's own schedule of land cessions records, under the 1874 Pyramid Lake order, that the remainder of the Paiute country was taken by the United States without formal relinquishment.",
+      "whoFoundIt": "Charles C. Royce, Indian Land Cessions in the United States, Bureau of American Ethnology, 18th Annual Report, part 2 (cession 562)",
+      "source": {
+        "title": "Royce, Schedule of Indian Land Cessions, 1874 entries (cessions 560 to 562)",
+        "url": "https://archive.org/stream/annualreportofbu218smit#page/872/mode/2up",
+        "publisher": "Bureau of American Ethnology, 18th Annual Report, part 2 (Royce, Indian Land Cessions, 1899), Internet Archive"
+      },
+      "quote": "Remainder of Pai Ute country taken possession of by U. S. without formal relinquishment by the Indians."
+    },
+    {
+      "kind": "litigation",
+      "date": "1975-07-23",
+      "what": "After the Commission ruled in 1973 that the reservation carried reserved Truckee River water and that the United States had a duty to preserve the lake and fishery, the tribe's claim for damages from not receiving all its water was settled by compromise for $8,000,000. The settlement stipulation says no water rights were lost by it.",
+      "whoFoundIt": "Indian Claims Commission, Pyramid Lake Paiute Tribe v. United States, Docket 87-B, findings on compromise settlement",
+      "source": {
+        "title": "Pyramid Lake Paiute Tribe v. United States, Docket 87-B, Findings of Fact on Compromise Settlement (July 23, 1975), 36 Ind. Cl. Comm. 256",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2655",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "The Paviotso tract outside the reservations, taken without compensation on December 31, 1862 for the Nevada portion and March 3, 1853 for the California portion (Docket 87). The acreage was not read from an opened source.",
+  "compensation": "Docket 87: net $15,790,000.00 for the Paviotso tract (final judgment, November 4, 1965). Docket 87-B: $8,000,000 compromise for water not received (July 23, 1975). The Commission also held the United States liable in 1972 for minerals and timber removed from the Nevada Paviotso tract between 1848 and December 31, 1862 (Docket 87-A); the amount was not found.",
+  "today": "In its 1972 complaint in United States v. Nevada, quoted by the Commission in 1973, the United States said diversions from the Truckee River had dropped Pyramid Lake more than 70 feet since 1906, destroying fisheries. Docket 87-A was transferred to the Court of Claims in 1978; its outcome was not found.",
+  "sources": [
+    {
+      "title": "Royce, Schedule of Indian Land Cessions, 1874 entries",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/872/mode/2up",
+      "publisher": "Bureau of American Ethnology, 18th Annual Report, part 2 (Royce, Indian Land Cessions, 1899), Internet Archive"
+    },
+    {
+      "title": "Northern Paiute Nation v. United States, Docket 87, Additional Findings of Fact (June 4, 1959), 7 Ind. Cl. Comm. 615",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/230",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Northern Paiute Nation v. United States, Docket 87, Final Judgment (November 4, 1965), 16 Ind. Cl. Comm. 215",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1860",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Northern Paiute Nation v. United States, Docket 87-A, Opinion on dates of establishment of Pyramid Lake and Walker River reservations (February 16, 1972), 27 Ind. Cl. Comm. 39",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1728",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Northern Paiute Nation v. United States, Docket 87-A, Order fixing dates of establishment (February 16, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1441",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Northern Paiute Nation v. United States, Docket 87-A, Opinion on Pyramid Lake water (April 25, 1973), 30 Ind. Cl. Comm. 210",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1909",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Northern Paiute Nation v. United States, Docket 87-A, Order (April 25, 1973), 30 Ind. Cl. Comm. 210",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1680",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Northern Paiute Nation v. United States, Docket 87-A, Opinion on liability for resources removed from the Nevada portion of the Paviotso Tract (August 1, 1972), 28 Ind. Cl. Comm. 256",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2496",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pyramid Lake Paiute Tribe v. United States, Docket 87-B, Findings of Fact on Compromise Settlement (July 23, 1975), 36 Ind. Cl. Comm. 256",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2655",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "Pyramid Lake Paiute Tribe of Indians v. Morton, 354 F. Supp. 252 (D.D.C. 1972), which held the Secretary of the Interior's Truckee River regulation violated his trust duty to the tribe, could not be opened (Justia and CourtListener blocked the request); it would be a court-ruling breach once read.",
+    "The tribe's own history of the reservation was not located online; nationVoice is empty for that reason.",
+    "Nevada v. United States, 463 U.S. 110 (1983), which went against the tribe on its water claim, belongs in today once opened."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

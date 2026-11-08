@@ -1,0 +1,79 @@
+{
+  "id": "kappler-291",
+  "name": "Treaty with the Potawatomi, 1827 (Treaty of St. Joseph)",
+  "aka": [
+    "Treaty of St. Joseph (1827)"
+  ],
+  "signed": "1827-09-19",
+  "proclaimed": "1829-02-23",
+  "citation": "7 Stat. 305",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1827-0283",
+  "nations": [
+    "Potawatomi (Bodéwadmi), including the Huron River and Detroit-area bands",
+    "Match-E-Be-Nash-She-Wish Band of Pottawatomi (Gun Lake Tribe)",
+    "Nottawaseppi band (Nottawaseppi Huron Band of the Potawatomi)"
+  ],
+  "promises": [
+    "Stated purpose: to gather some of the dispersed Potawatomi bands in Michigan at a place away from the Detroit to Chicago road and as far as practicable from white settlements.",
+    "In exchange for ninety-nine and a half sections of earlier reserves (on the River Rouge, at Macon on the River Raisin, at Mang ach qua, Mickesawbe, Prairie Ronde and Match e be nash she wish), a continuous reservation of ninety-nine sections next to the Nottawa Sape reserve, held on the usual terms of Indian reservations.",
+    "Half a section at Macon kept for the chief Moran."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "nation-statement",
+      "date": "1827-09-19",
+      "what": "The Gun Lake Tribe states that under this treaty its chief ceded the Kalamazoo reserve granted in 1821 and that neither payment nor land was ever provided to his band, which then moved north to avoid removal.",
+      "whoFoundIt": "Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians (Gun Lake Tribe)",
+      "source": {
+        "title": "Our Heritage",
+        "url": "https://gunlaketribe-nsn.gov/about/heritage/",
+        "publisher": "Gun Lake Tribe"
+      },
+      "quote": "Neither payment nor land was ever provided to the Chief's Band"
+    }
+  ],
+  "landTaken": "The ceded reserves include Royce Areas 135, 136 and 137 in Michigan (Indian Claims Commission findings of 1972 and 1973). The consolidated reserve this treaty created, Royce Area 189 of 63,360 acres, was added to the Nottawaseppi reserve and later ceded under the Articles Supplementary of 27 September 1833 to the Treaty of Chicago (Commission findings of 1976 in Docket 15-C).",
+  "compensation": "The treaty gave land in exchange for land; it names no money.",
+  "today": "The Indian Claims Commission referred to this treaty as the one under which the Potawatomi ceded the last of their lands near Detroit (Dockets 71 et al., 27 Ind. Cl. Comm. 187, 1972). No Commission award for the 1827 cession itself was found. The cession of the consolidated reserve in 1833 belongs to the 1833 treaty.",
+  "nationVoice": [
+    {
+      "nation": "Gun Lake Tribe (Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians)",
+      "summary": "The tribe writes that its chief gave up the Kalamazoo reserve under this treaty, the band received neither payment nor land, and it moved north, settling near Gun Lake around 1838.",
+      "url": "https://gunlaketribe-nsn.gov/about/heritage/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Potawatomi, 1827 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1827-0283",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Our Heritage",
+      "url": "https://gunlaketribe-nsn.gov/about/heritage/",
+      "publisher": "Gun Lake Tribe"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 71 et al., Findings of Fact, Part 1 (1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1240",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Saginaw Chippewa Indian Tribe v. United States, Dockets 59 et al., Findings of Fact (1973)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2519",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Prairie Band of the Pottawatomie Tribe v. United States, Docket 15-C et al., Findings of Fact, Part 1 (1976)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1260",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json names this entry \"Potawatomi, Winnebago, Creek, Cherokee nation west of Mississippi river, 1827-09-19\" and lists Royce cessions 135 to 146, 149 and 189. Only the Potawatomi treaty of 19 September 1827 was researched; the other nations and areas appear to come from different Royce entries and may have been merged by date. Needs checking in treaties.json.",
+    "Whether the Saginaw Chippewa interest in Areas 135 and 136, relinquished for $1,000 in 1837, was ever litigated was not traced."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

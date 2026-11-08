@@ -1,0 +1,127 @@
+[
+ {
+  "id": "native-american-indian-association-of-tennessee",
+  "name": "Native American Indian Association of Tennessee",
+  "category": "nonprofit",
+  "subcategory": "job training, education support and the Tennessee Indian Education Pow Wow",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Native American Indian Association of Tennessee: Natives working for Natives",
+   "url": "https://www.naiatn.org/about"
+  },
+  "description": "Statewide Native service group that helps Native people with job training, school and hard times, and hosts a yearly pow wow; it sells a few goods online to fund the work.",
+  "website": "https://www.naiatn.org/",
+  "shopOnline": "https://www.naiatn.org/",
+  "address": "230 Spence Lane",
+  "city": "Nashville",
+  "state": "TN",
+  "zip": "37210",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Native American Indian Association of Tennessee: Natives working for Natives",
+    "url": "https://www.naiatn.org/about"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -86.7218,
+   36.1505
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "nanticoke-indian-center",
+  "name": "Nanticoke Indian Center",
+  "category": "nonprofit",
+  "subcategory": "tribal office and community hall for rent",
+  "nation": "Nanticoke Indian Tribe (state recognised, Delaware)",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Nanticoke Indian Tribe: Nanticoke Indian Center",
+   "url": "https://nanticokeindians.org/locations/nanticoke-indian-center/"
+  },
+  "description": "The Nanticoke tribal office and community hall, which can be rented for dinners and gatherings.",
+  "website": "https://nanticokeindians.org/",
+  "address": "27073 John J. Williams Hwy",
+  "city": "Millsboro",
+  "state": "DE",
+  "zip": "19966",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Nanticoke Indian Tribe: Nanticoke Indian Center",
+    "url": "https://nanticokeindians.org/locations/nanticoke-indian-center/"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -75.2112,
+   38.6066
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "missisquoi-abenaki-food-pantry",
+  "name": "Abenaki Nation of Missisquoi Food Pantry",
+  "category": "nonprofit",
+  "subcategory": "food pantry",
+  "nation": "Abenaki Nation of Missisquoi (state recognised, Vermont)",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Abenaki Nation of Missisquoi: Food Pantry",
+   "url": "https://abenakination.com/food-pantry"
+  },
+  "description": "Food pantry run by the Missisquoi Abenaki and their nonprofit Maquam Bay of Missisquoi, open three days a week and funded by grants and donations.",
+  "website": "https://abenakination.com/food-pantry",
+  "address": "100 Grand Ave",
+  "city": "Swanton",
+  "state": "VT",
+  "zip": "05488",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Abenaki Nation of Missisquoi: Food Pantry",
+    "url": "https://abenakination.com/food-pantry"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -73.1242,
+   44.9182
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "native-american-advancement-corporation",
+  "name": "Native American Advancement Corporation (Cohanzick Nature Reserve)",
+  "category": "nonprofit",
+  "subcategory": "land return, conservation and Lenape culture",
+  "nation": "Nanticoke Lenni-Lenape Tribal Nation (state recognised, New Jersey)",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "The Nature Conservancy: 63 acres in Salem County returned to Indigenous conservationists",
+   "url": "https://nature.org/en-us/newsroom/new-jersey-lands-returned-indigenous-peoples"
+  },
+  "description": "Lenape-led nonprofit that owns and runs the 63 acre Cohanzick Nature Reserve, with tours and a yearly Lenape symposium.",
+  "city": "Bridgeton",
+  "state": "NJ",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "The Nature Conservancy: 63 acres in Salem County returned to Indigenous conservationists",
+    "url": "https://nature.org/en-us/newsroom/new-jersey-lands-returned-indigenous-peoples"
+   },
+   {
+    "title": "WHYY: An ancestral land returns to a Lenape family building a center there",
+    "url": "https://whyy.org/articles/cohanzick-nature-reserve-lenape-culture-new-jersey"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -75.2342,
+   39.427
+  ],
+  "lonlatPrecision": "town"
+ }
+]

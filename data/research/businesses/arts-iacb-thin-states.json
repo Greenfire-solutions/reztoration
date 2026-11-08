@@ -1,0 +1,111 @@
+[
+ {
+  "id": "pequot-made",
+  "name": "Pequot Made",
+  "category": "arts",
+  "subcategory": "ash and pine needle baskets",
+  "nation": "Mashantucket Pequot Tribal Nation",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Pequot Made",
+   "url": "https://www.doi.gov/iacb/artisans/pequot-made"
+  },
+  "description": "Ash splint and pine needle baskets made by a Mashantucket Pequot basketmaker.",
+  "city": "Mashantucket",
+  "state": "CT",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Pequot Made",
+    "url": "https://www.doi.gov/iacb/artisans/pequot-made"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -71.9691,
+   41.4571
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "glenns-native-metal-artwork",
+  "name": "Glenn's Native Metal Artwork",
+  "category": "arts",
+  "subcategory": "metal sculpture",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Glenn's Native Metal Artwork",
+   "url": "https://www.doi.gov/iacb/artisans/glenns-native-metal-artwork"
+  },
+  "description": "Hand cut three dimensional metal art, coloured with a torch.",
+  "city": "Kinnear",
+  "state": "WY",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Glenn's Native Metal Artwork",
+    "url": "https://www.doi.gov/iacb/artisans/glenns-native-metal-artwork"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -108.6776,
+   43.1519
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "la-ray-turquoise-co",
+  "name": "La Ray Turquoise Co.",
+  "category": "arts",
+  "subcategory": "silver, beadwork and rugs; custom and repair work",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: La Ray Turquoise Co.",
+   "url": "https://www.doi.gov/iacb/artisans/la-ray-turquoise-co"
+  },
+  "description": "Silver jewelry, beadwork and rugs, with custom orders and jewelry repair.",
+  "city": "Cody",
+  "state": "WY",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: La Ray Turquoise Co.",
+    "url": "https://www.doi.gov/iacb/artisans/la-ray-turquoise-co"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -109.0564,
+   44.5263
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "shoshone-ceramics",
+  "name": "Shoshone Ceramics",
+  "category": "arts",
+  "subcategory": "ceramics, beadwork and clothing; free ceramics classes",
+  "ownership": "certified-member-owned",
+  "ownershipSource": {
+   "title": "Indian Arts and Crafts Board Source Directory: Shoshone Ceramics",
+   "url": "https://www.doi.gov/iacb/artisans/shoshone-ceramics"
+  },
+  "description": "Ceramic lamps, clocks and figures alongside beadwork and clothing, plus ceramics classes where students only pay for materials.",
+  "city": "Fort Washakie",
+  "state": "WY",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Indian Arts and Crafts Board Source Directory: Shoshone Ceramics",
+    "url": "https://www.doi.gov/iacb/artisans/shoshone-ceramics"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -108.8812,
+   43.0039
+  ],
+  "lonlatPrecision": "town"
+ }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "kappler-289",
+  "name": "Treaty with the Chippewa, etc., 1827 (Treaty of Butte des Morts)",
+  "aka": [
+    "Treaty of Butte des Morts",
+    "Treaty with the Chippewa, Menominee and Winnebago, 1827"
+  ],
+  "signed": "1827-08-11",
+  "proclaimed": "1829-02-23",
+  "citation": "7 Stat. 303",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-etc-1827-0281",
+  "nations": [
+    "Anishinaabe (Chippewa)",
+    "Menominee",
+    "Ho-Chunk (Winnebago)"
+  ],
+  "promises": [
+    "Article 1: fixed the southern boundary of Chippewa country from the Plover Portage of the Wisconsin River to Green Bay.",
+    "Article 2: the Menominee and Ho-Chunk referred their dispute with the New York Indians to the President, whose decision would be final.",
+    "Article 3: the Menominee acknowledged United States title and jurisdiction over a tract at Green Bay, with the President allowed to change its boundaries without enlarging it.",
+    "Articles 4 and 5: goods worth $15,682 distributed at the treaty, and $1,000 a year for three years and then $1,500 a year, as long as Congress thought proper, for the education of the children of the tribes and the New York Indians."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The Senate ratified the treaty with a proviso that it would not impair any right or claim of the New York Indians to the lands it mentions (note to the Kappler text).",
+  "sources": [
+    {
+      "title": "Treaty with the Chippewa, etc., 1827 (Kappler, vol. 2, p. 281)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-etc-1827-0281",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Treaty with the Chippewa, etc., 1827, 7 Stat. 303",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-7/pdf/STATUTE-7-Pg303.pdf",
+      "publisher": "US Government Publishing Office, govinfo"
+    }
+  ],
+  "openQuestions": [
+    "No Indian Claims Commission or court finding on this treaty was found. The OSU collection returned no Menominee decisions at all, so Menominee claims (which went through the Court of Claims) were not checked; a deeper pass should look there.",
+    "Royce cession 134 is attached to this id; Royce's 1827 page is badly scanned and which tract it maps (the Green Bay tract of Article 3 is the likely one) was not confirmed.",
+    "Whether the Article 5 education money was paid was not checked."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,31 @@
+[
+ {
+  "id": "narragansett-indian-health-center",
+  "name": "Narragansett Indian Health Center",
+  "category": "health",
+  "subcategory": "tribal health clinic",
+  "nation": "Narragansett Indian Tribe",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Narragansett Indian Tribe: Health and Human Services, Narragansett Indian Health Center",
+   "url": "https://narragansettindiannation.org/health-and-human-services/"
+  },
+  "description": "The Narragansett Indian Tribe's community health center, serving tribal members and other American Indian and Alaska Native patients.",
+  "website": "https://narragansettindiannation.org/health-and-human-services/",
+  "city": "Charlestown",
+  "state": "RI",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Narragansett Indian Tribe: Health and Human Services, Narragansett Indian Health Center",
+    "url": "https://narragansettindiannation.org/health-and-human-services/"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -71.6417,
+   41.3832
+  ],
+  "lonlatPrecision": "town"
+ }
+]

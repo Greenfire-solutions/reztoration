@@ -30,6 +30,16 @@
       }
     },
     {
+      "kind": "court-ruling",
+      "what": "Under a 1920 jurisdictional act the nations sued for the lands taken from their Fort Laramie reservation by the executive orders of 1868, 1870 and 1880. The Court of Claims found 11,424,512.76 acres taken and 1,578,325.83 added under those orders, held the nations entitled to just compensation for the net 9,846,186.93 acres 'for which no compensation was received', and valued them at 50 cents an acre.",
+      "whoFoundIt": "Fort Berthold Indians v. United States, 71 Ct. Cl. 308 (1930), as set out by the Indian Claims Commission in Docket 350-D, 23 Ind. Cl. Comm. 236 (1970)",
+      "source": {
+        "title": "Three Affiliated Tribes v. United States, Docket 350-D, Opinion of the Commission (June 17, 1970), 23 Ind. Cl. Comm. 236",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1812",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
       "kind": "litigation",
       "date": "1976-03-17",
       "what": "The nations' claim for the difference in value between the lands lost and the lands added by the 1870 and 1880 executive orders was tried on value and then settled by a $3,200,000 compromise judgment, without a finding.",
@@ -51,7 +61,7 @@
       }
     }
   ],
-  "compensation": "No payment at the time. Docket 350-D was compromised for $3,200,000 in 1976.",
+  "compensation": "None at the time. The Court of Claims (71 Ct. Cl. 308, 1930) awarded 50 cents an acre for the net 9,846,186.93 acres taken under the 1868, 1870 and 1880 orders. Docket 350-D, for the difference in value between the lands lost and the lands added, was compromised for $3,200,000 in 1976.",
   "today": "The north-east tract added in 1880 was ceded in turn under the 1886 agreement ratified in 1891 (see cession-1891-03-03-gros-ventre-mandan).",
   "nationVoice": [
     {
@@ -80,13 +90,19 @@
       "title": "History",
       "url": "https://www.mhanation.com/history",
       "publisher": "MHA Nation (Three Affiliated Tribes)"
+    },
+    {
+      "title": "Three Affiliated Tribes v. United States, Docket 350-D, Opinion of the Commission (June 17, 1970), 23 Ind. Cl. Comm. 236",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1812",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
     }
   ],
   "openQuestions": [
     "The text of the 1880 order (1 Kappler 883) was not opened; textUrl points to the ICC opinion that describes it.",
-    "Whether the nations consented to the 1880 exchange was not found; the ICC opinions opened do not say. If they did, this would be contested rather than broken.",
-    "The acreage lost south of the river was not found in a source opened."
+    "Consent: no source opened says the nations consented to the 1880 order, and the 1930 Court of Claims judgment, as the Commission describes it, treats the lands as taken from them without compensation. The 1930 opinion itself (71 Ct. Cl. 308) was not opened.",
+    "Audit 2026-11-08: added a court-ruling breach, Fort Berthold Indians v. United States, 71 Ct. Cl. 308 (1930), from the Commission's 1970 Docket 350-D opinion (23 Ind. Cl. Comm. 236), which records that the Court of Claims held the lands taken under the 1868, 1870 and 1880 orders compensable and found no compensation had been received; landTaken and compensation filled from the same opinion. The status rests on this ruling, not on the executive order alone."
   ],
   "researchedAt": "2026-11-07",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "landTaken": "The Court of Claims found 11,424,512.76 acres taken from the Fort Berthold reservation under the executive orders of 1868, 1870 and 1880, and 1,578,325.83 acres added under the orders of 1870, 1880 and 1892, a net 9,846,186.93 acres taken without compensation (Fort Berthold Indians v. United States, 71 Ct. Cl. 308 (1930), as quoted in 23 Ind. Cl. Comm. 236). The Commission's table gives 1,378,645.83 acres added by the 1880 order; the acreage taken by the 1880 order alone is not legible in the scan."
 }

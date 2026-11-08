@@ -1,0 +1,53 @@
+{
+  "id": "kappler-107",
+  "name": "Treaty with the Chippewa, etc., 1808 (Treaty of Brownstown)",
+  "aka": [
+    "Treaty of Brownstown (1808)"
+  ],
+  "signed": "1808-11-25",
+  "ratified": "1809-03-01",
+  "proclaimed": "1809-03-03",
+  "citation": "7 Stat. 112",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-etc-1808-0099",
+  "nations": [
+    "Chippewa (Anishinaabe)",
+    "Ottawa (Odawa)",
+    "Potawatomi (Bodéwadmi)",
+    "Wyandot (Wyandotte Nation)",
+    "Shawnee"
+  ],
+  "promises": [
+    "The nations granted a road 120 feet wide from the foot of the Maumee rapids to the western line of the Connecticut Reserve, with the land one mile on each side, and a road only from Lower Sandusky to the Greeneville line (Article 2).",
+    "The nations kept the privilege of hunting and fishing on the ceded land so long as it remained the property of the United States (Article 4).",
+    "The United States renewed its promise to protect the nations as stated in former treaties (Article 5)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce Area 70, the road strips in northwestern Ohio described in Article 2.",
+  "compensation": "The treaty states the grant was made in consideration of friendship; it names no payment.",
+  "today": "In its 1973 title decision on the 1817 treaty the Indian Claims Commission treated the lands ceded at Brownstown in 1808 as already ceded and excluded them from the 1817 claims (James Strong et al. v. United States, Dockets 13-F et al., 30 Ind. Cl. Comm. 337). No Commission claim or award for the 1808 cession itself was found.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Chippewa, etc., 1808 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-etc-1808-0099",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "James Strong et al. v. United States, Dockets 13-F et al., Findings of Fact (1973)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/929",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "James Strong et al. v. United States, Dockets 13-F et al., Opinion of the Commission (1973)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2293",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The Commission's full-text collection is searched by title only; a claim for Royce Area 70 under another docket may exist and was not found.",
+    "No nation statement about this treaty was found."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

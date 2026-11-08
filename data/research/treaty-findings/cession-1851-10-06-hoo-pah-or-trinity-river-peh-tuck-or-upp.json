@@ -13,10 +13,9 @@
     "Hoo-pah (Trinity River)"
   ],
   "promises": [
-    "Article 3 or 4 set apart a defined tract 'forever' for the occupancy of the signing tribes.",
-    "Beef cattle and flour for subsistence during 1851 and 1852.",
-    "Livestock, ploughs, tools, seed, iron and steel, blankets and clothing, divided by the tribes' numbers.",
-    "A farmer, a blacksmith, a carpenter and school teachers, with a school house, for at least five years."
+    "Article 4 set apart as a reservation, its use 'forever guarantied' to the three tribes and to other tribes the United States might move there from the Trinity and Klamath valleys, a tract beginning at the mouth of John's creek on the Trinity river, estimated at twenty miles by twelve, with six or seven square miles of farming land.",
+    "The tribes could never sell the land except to the United States, and no white person could settle, work or trade on it without the agent's written permission.",
+    "Farmers, mechanics and school teachers as the President thought proper (Kappler, vol. 4, as excerpted by Oklahoma State University)."
   ],
   "status": "unratified",
   "breaches": [
@@ -105,6 +104,11 @@
       "title": "Land Management",
       "url": "https://www.karuk.us/departments/public-works/land-management",
       "publisher": "Karuk Tribe"
+    },
+    {
+      "title": "Kappler, Indian Affairs: Laws and Treaties, vol. 4 (p. 1117), treaty Q as excerpted",
+      "url": "https://oms.library.okstate.edu/s/oklahoma-built/item/21838",
+      "publisher": "Oklahoma State University Library"
     }
   ],
   "openQuestions": [
@@ -112,7 +116,8 @@
     "One record covers the whole set of eighteen treaties for the facts common to all; the other seventeen are the cession-1851-* and cession-1852-* entries for Royce areas 273 to 310.",
     "The tribal names are as the commissioners wrote them in 1851-52; most are village or local group names, not nations, and how each community names itself today was not established. treaties.json lists as present-day tribes: Hoopa Valley Tribe, California; Klamath Tribes, Oregon.",
     "The Court of Claims judgment under the 1928 Act (Indians of California v. United States, 98 Ct. Cl. 583, 1942) and the Indian Claims Commission settlement for the Indians of California (Dockets 31 and 37) were not opened in this pass; they are the leads for the amounts paid.",
-    "Article 2 of the treaties had the tribes relinquish all their lands in California; because the Senate rejected the treaties, the United States took the land without the reserved tracts or the promised goods (1928 Act, section 2)."
+    "The article in which the signing tribes gave up their other lands was not checked for this treaty; because the Senate rejected the treaties, the United States took the land without the reserved tracts or the promised goods (1928 Act, section 2).",
+    "Audit 2026-11-08: promises corrected against treaty Q as printed in Heizer (1972), the treaty text at https://digicoll.lib.berkeley.edu/record/83366/files/arfs003-001.pdf; Heizer omits some of this treaty's articles, so the goods and staff are taken from Oklahoma State University's excerpt of Kappler vol. 4 (https://oms.library.okstate.edu/s/oklahoma-built/item/21838), and any subsistence (beef and flour) article was not checked; the earlier 'beef and flour during 1851 and 1852' line was removed because it was copied from the other treaties."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

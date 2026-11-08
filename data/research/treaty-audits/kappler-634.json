@@ -1,0 +1,20 @@
+{
+  "id": "kappler-634",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty: signed May 12, 1854, proclaimed August 2, 1854, 10 Stat. 1064; Article 2 'to be held as Indian lands are held'; Article 3 and 4 figures, against the OSU Kappler text, which does not mention the New York Indians",
+    "Menominee Tribe v. United States, 391 U.S. 404, decided May 27, 1968 (Cornell): rights survived the Termination Act; quote exact",
+    "Menominee Restoration Act, Public Law 93-197, December 22, 1973, 87 Stat. 770 (govinfo scan): section 3(b) repeal and reinstatement clause; quote exact",
+    "Nations field lists only the Menominee; the New York Indians merge in treaties.json is not inherited"
+  ],
+  "changes": [
+    "Removed Menominee Tribe v. United States from breaches: the Court held the hunting and fishing rights survived, so it found no breach of that promise by the United States; moved to today",
+    "Termination Act breach text tightened to the Act's terms; status stays broken on the 1954 Act ending federal supervision of the treaty reservation, with the 1973 Act",
+    "Audit line added"
+  ],
+  "unverifiable": [
+    "Cornell's 25 U.S.C. 891 notes page not re-opened",
+    "treaties.json error: kappler-634 merges 'the several tribes of New York Indians' (Royce 246 and 403) and seven New York nations into this Menominee treaty"
+  ]
+}

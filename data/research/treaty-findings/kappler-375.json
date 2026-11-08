@@ -1,0 +1,74 @@
+{
+  "id": "kappler-375",
+  "name": "Treaty with the Potawatomi, October 26, 1832 (Treaty of Tippecanoe)",
+  "aka": [
+    "Treaty of Tippecanoe (1832)",
+    "Second Treaty of Tippecanoe"
+  ],
+  "signed": "1832-10-26",
+  "proclaimed": "1833-01-21",
+  "citation": "7 Stat. 394",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1832-0367",
+  "nations": [
+    "Potawatomi of Indiana, today including the Citizen Potawatomi Nation, Prairie Band Potawatomi Nation, Pokagon Band, Forest County Potawatomi, Hannahville Indian Community, Match-e-be-nash-she-wish Band and Nottawaseppi Huron Band"
+  ],
+  "promises": [
+    "Article 1: the Potawatomi ceded their land in northwestern Indiana between Lake Michigan, the Illinois line and earlier cession lines (Royce Area 180).",
+    "Article 2: reservations were kept for named bands, including thirty-six sections for Aub-be-naub-bee's band and twenty-two sections for the bands of Menominee, No-taw-kah, Muck-kah-tah-mo-way and Pee-pin-oh-waw.",
+    "Article 3: an annuity of $20,000 for twenty years, $100,000 in goods, and a further $30,000 in goods in 1833.",
+    "Articles 4 to 6: payment of $62,412 in listed debts, help equal to that given other emigrating tribes if the Potawatomi chose to move, and a sawmill."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1978-09-08",
+      "what": "The Indian Claims Commission found that the United States paid $453,698.00 under this treaty for the Potawatomi interest in Royce Area 180, plus $128,856.60 in food and provisions, a combined $582,554.60, for land with a fair market value of $2,440,941.85, and that the consideration was unconscionable.",
+      "whoFoundIt": "Indian Claims Commission, Citizen Band of Potawatomi Indians of Oklahoma et al. v. United States, Dockets 128, 309, 310 and others, 43 Ind. Cl. Comm. 74",
+      "source": {
+        "title": "Citizen Band of Potawatomi Indians of Oklahoma et al. v. United States, Dockets 128 et al., Opinion of the Commission, 43 Ind. Cl. Comm. 74",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1472",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "so grossly inadequate as to render the consideration unconscionable"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1978-09-08",
+      "what": "The Commission's order setting awards gave the Potawatomi plaintiffs a total of $4,497,815.59 in additional compensation for four cessions together, one of them the October 26, 1832 cession of Royce Area 180, subject to any gratuitous offsets.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 128 et al., Order Setting Awards",
+      "source": {
+        "title": "Citizen Band of Potawatomi Indians of Oklahoma et al. v. United States, Dockets 128 et al., Order Setting Awards (September 8, 1978)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2599",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "compensation": "The Commission's 1978 award of $4,497,815.59 to the Potawatomi covers the 1826, 1828 and both October 1832 cessions together; the share for this treaty alone is not stated in the order opened, and gratuitous offsets were still to be decided.",
+  "today": "The later fate of the Article 2 band reservations, and the removal of Menominee's band from Indiana in 1838 (the Trail of Death), were not traced to a finding in this pass.",
+  "sources": [
+    {
+      "title": "Treaty with the Potawatomi, 1832 (Oct. 26) (Kappler, vol. 2, p. 367)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1832-0367",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma et al. v. United States, Dockets 128 et al., Opinion of the Commission, 43 Ind. Cl. Comm. 74",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1472",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma et al. v. United States, Dockets 128 et al., Order Setting Awards (September 8, 1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2599",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The OSU collection dates the opinion September 28, 1978 and the order setting awards September 8, 1978; both are 43 Ind. Cl. Comm. 74. The order's own text says it was dated the 8th day of September 1978, which is used here.",
+    "The 1978 case was later transferred to the Court of Claims (order of September 29, 1978 in a related docket); the final paid amount was not found.",
+    "treaties.json attaches eight Royce cessions (180, 200, 209, 210, 218, 325, 436, 437) to this id; only 180 belongs to this treaty, the others are later cessions of the reserved lands and of Kansas lands. Worth correcting in treaties.json.",
+    "Whether the reserved band lands of Article 2 were later ceded without the bands' consent (Menominee's refusal of the 1836 Yellow River treaty) was not traced to a finding. No nation statement was found in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

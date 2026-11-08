@@ -24,7 +24,13 @@
   "landTaken": "Article 3 ceded the Seminole domain estimated at 2,169,080 acres. The Indian Claims Commission described the domain as 2,037,414.62 acres (Docket 205 findings, 1963).",
   "compensation": "The Indian Claims Commission in 1963 found the $325,362 consideration for the 1866 cession was not unconscionable, that all terms of the treaty were carried out, and dismissed the Seminole claim to the $50,000 deducted from that payment for losses of loyal Seminoles and for 1856-treaty annuities withheld in 1862-1866 (Docket 205). In 1962 it had refused to revise the treaty on the ground that the United States forced the Seminole into the Confederacy by withdrawing its troops (Docket 152).",
   "today": "Separately, the Commission awarded the Seminole Nation a net $34,053.66 in 1958 because the Interior Department, as trustee, failed to cancel the 1920 sale of the 320-acre Emahaka school tract on the national domain when the buyer did not pay (Docket 150). That finding concerns trust management, not the treaty's terms, so it is not counted here as a breach.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Seminole Nation of Oklahoma",
+      "summary": "In 2022 Senate testimony, Chief Lewis Johnson and Assistant Chief Brian Palmer said Article II of the 1866 Treaty made the Seminole Freedmen citizens of the Nation, that the treaty has never been terminated and still binds both the Nation and the United States, and that the Nation cannot improve its people's condition until the federal government honors its treaties and obligations.",
+      "url": "https://indianz.com/News/wp-content/uploads/2022/07/27/LewisJohnson.pdf"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Seminole, 1866 (Kappler)",
@@ -55,6 +61,11 @@
       "title": "Seminole Nation v. United States, Docket 150, Conclusions of Law and Final Award (1958)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/103",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Written Testimony of Chief Lewis Johnson and Assistant Chief Brian Palmer, Seminole Nation of Oklahoma, Senate Committee on Indian Affairs, July 27, 2022",
+      "url": "https://indianz.com/News/wp-content/uploads/2022/07/27/LewisJohnson.pdf",
+      "publisher": "Seminole Nation of Oklahoma (copy posted by Indianz.com)"
     }
   ],
   "openQuestions": [

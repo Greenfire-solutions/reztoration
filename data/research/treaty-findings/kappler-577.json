@@ -1,12 +1,16 @@
 {
   "id": "kappler-577",
   "name": "Treaty with the Pillager Band of Chippewa Indians, 1847 (Treaty of Leech Lake)",
-  "aka": ["Treaty of Leech Lake (1847)"],
+  "aka": [
+    "Treaty of Leech Lake (1847)"
+  ],
   "signed": "1847-08-21",
   "proclaimed": "1848-04-07",
   "citation": "9 Stat. 908",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-pillager-band-of-chippewa-indians-1847-0569",
-  "nations": ["Pillager Band of Ojibwe (Chippewa), today within the Leech Lake Band of Ojibwe"],
+  "nations": [
+    "Pillager Band of Ojibwe (Chippewa), today within the Leech Lake Band of Ojibwe"
+  ],
   "promises": [
     "Article 3: the ceded country would be held by the United States as Indian land until the President ordered otherwise.",
     "Article 4: for five years, annual goods (blankets, cloth, prints, twine, thread, needles, kettles, tobacco, salt and other items), with 200 beaver traps and 75 guns as a present at the first payment."
@@ -18,18 +22,45 @@
       "date": "1973-10-25",
       "what": "The Commission found the 814,500 acres ceded (Royce Area 269, between Otter Tail Lake, Long Prairie River and the Crow Wing and Leaf rivers in Minnesota) worth $425,000 on April 7, 1848, against $19,706.94 paid, and held the consideration so grossly inadequate as to be unconscionable.",
       "whoFoundIt": "Indian Claims Commission, Pillager Bands of Chippewa Indians v. United States, Docket 144, 32 Ind. Cl. Comm. 156 (1973)",
-      "source": { "title": "Pillager Bands of Chippewa Indians v. United States, Docket 144, Final Award, October 25, 1973", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1039", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+      "source": {
+        "title": "Pillager Bands of Chippewa Indians v. United States, Docket 144, Final Award, October 25, 1973",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1039",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
       "quote": "was so grossly inadequate as to render that consideration unconscionable"
     }
   ],
   "landTaken": "814,500 acres of land and water (Indian Claims Commission, 1973).",
   "compensation": "Final award of $405,293.06 to the Pillager Bands (October 25, 1973), the $425,000 value less the $19,706.94 paid; the government's claimed offsets of $1,470 were disallowed.",
   "today": "The Pillager band's descendants are part of the Leech Lake Band of Ojibwe.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Leech Lake Band of Ojibwe",
+      "summary": "The Band's history says the Mississippi and Pillager Ojibwe made Leech Lake their home from the mid to late 1700s, that the 1847 treaties took the southwest corner of their lands for the Menominee and Winnebago the United States meant to move from Wisconsin, and that the rest was ceded in 1855, when the reservation was set up.",
+      "url": "https://llojibwe.org/drm/subnav/llbohistory.html"
+    }
+  ],
   "sources": [
-    { "title": "Treaty with the Pillager Band of Chippewa Indians, 1847 (Kappler)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-pillager-band-of-chippewa-indians-1847-0569", "publisher": "Oklahoma State University Libraries" },
-    { "title": "Pillager Bands v. United States, Docket 144, Order Granting Summary Judgment on Title, October 10, 1968", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2250", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Pillager Bands v. United States, Docket 144, Final Award, October 25, 1973", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1039", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+    {
+      "title": "Treaty with the Pillager Band of Chippewa Indians, 1847 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-pillager-band-of-chippewa-indians-1847-0569",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Pillager Bands v. United States, Docket 144, Order Granting Summary Judgment on Title, October 10, 1968",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2250",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pillager Bands v. United States, Docket 144, Final Award, October 25, 1973",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1039",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Leech Lake Band of Ojibwe History",
+      "url": "https://llojibwe.org/drm/subnav/llbohistory.html",
+      "publisher": "Leech Lake Band of Ojibwe, Division of Resource Management"
+    }
   ],
   "openQuestions": [
     "The land was ceded for the Winnebago (Ho-Chunk) removal to Long Prairie; a source for that link was not opened.",

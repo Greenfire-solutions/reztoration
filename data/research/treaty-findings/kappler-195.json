@@ -1,0 +1,70 @@
+{
+  "id": "kappler-195",
+  "name": "Treaty with the Chippewa, 1820 (Treaty of Sault Ste. Marie)",
+  "aka": [
+    "Treaty of Sault Ste. Marie (1820)"
+  ],
+  "signed": "1820-06-16",
+  "proclaimed": "1821-03-02",
+  "citation": "7 Stat. 206",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-1820-0187",
+  "nations": [
+    "Sault Ste. Marie Band of Chippewa (Anishinaabe), today represented by the Bay Mills Indian Community and the Sault Ste. Marie Tribe of Chippewa Indians"
+  ],
+  "promises": [
+    "Article 1: the Chippewa ceded sixteen square miles on the St. Mary's River at the falls (Royce Area 112).",
+    "Article 2: the Chippewa acknowledged receiving a quantity of goods in full satisfaction.",
+    "Article 3: the United States would secure to the Indians a perpetual right of fishing at the falls of St. Mary's and a place of encampment on the ceded tract near the fishing ground."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1973-12-26",
+      "what": "The Indian Claims Commission found the 10,240 acres ceded were worth $15,000 on March 2, 1821, that the United States paid only goods of nominal value, and that this consideration was unconscionable. It awarded the Sault Ste. Marie Band $15,000.",
+      "whoFoundIt": "Indian Claims Commission, Bay Mills Indian Community, Sault Ste. Marie Bands v. United States, Docket 18-R, opinion and final award",
+      "source": {
+        "title": "Bay Mills Indian Community v. United States, Docket 18-R, Opinion of the Commission (December 26, 1973), 32 Ind. Cl. Comm. 303",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2145",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "the payment by defendant of a nominal consideration for the cession of land worth $15,000 was unconscionable"
+    }
+  ],
+  "landTaken": "Royce Area 112, sixteen square miles which the Commission found contained 10,240 acres (Docket 18-R, opinion of November 19, 1969).",
+  "compensation": "The Commission awarded $15,000 in full satisfaction of all claims in Docket 18-R (final award, December 26, 1973).",
+  "today": "Whether the United States kept the Article 3 fishing and encampment promise was not examined in the decisions opened.",
+  "sources": [
+    {
+      "title": "Treaty with the Chippewa, 1820 (Kappler, vol. 2, p. 187)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-1820-0187",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Bay Mills Indian Community v. United States, Docket 18-R, Opinion of the Commission (November 19, 1969), 22 Ind. Cl. Comm. 85",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1130",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Bay Mills Indian Community v. United States, Docket 18-R, Opinion of the Commission (December 26, 1973)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2145",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Bay Mills Indian Community v. United States, Docket 18-R, Additional Findings of Fact (December 26, 1973)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1618",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Bay Mills Indian Community v. United States, Docket 18-R, Final Award (December 26, 1973)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/958",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The fate of the Article 3 perpetual fishing right at the falls (the St. Marys canal and locks were built on the rapids from 1853) was not traced to a finding; a deeper pass should look for one and for the Sault Tribe's or Bay Mills' own account.",
+    "No nation statement about this treaty was found in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

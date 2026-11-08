@@ -1,0 +1,91 @@
+{
+  "id": "kappler-153",
+  "name": "Treaty with the Wyandot, etc., 1817 (Treaty of Fort Meigs, or of the Foot of the Rapids)",
+  "aka": [
+    "Treaty of Fort Meigs (1817)",
+    "Treaty of the Maumee Rapids (1817)"
+  ],
+  "signed": "1817-09-29",
+  "proclaimed": "1819-01-04",
+  "citation": "7 Stat. 160",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-wyandot-etc-1817-0145",
+  "nations": [
+    "Wyandot (Wyandotte Nation)",
+    "Seneca of Sandusky (Seneca-Cayuga Nation)",
+    "Delaware (Lenape)",
+    "Shawnee",
+    "Potawatomi (Bodéwadmi)",
+    "Ottawa (Odawa) (Ottawa Tribe of Oklahoma)",
+    "Chippewa (Anishinaabe)"
+  ],
+  "promises": [
+    "Permanent annuities in specie: $4,000 to the Wyandot at Upper Sandusky, $500 to the Seneca and $2,000 to the Shawnee, and annuities for fifteen years to the Potawatomi, Ottawa and Chippewa (Article 4).",
+    "Tracts granted by patent in fee simple to the chiefs for their people: twelve miles square at Upper Sandusky for the Wyandot, 30,000 acres on the Sandusky River for the Seneca, ten miles square at Wapakoneta and 25 square miles on Hog Creek for the Shawnee, and 48 square miles at Lewistown for the Shawnee and Seneca (Article 6).",
+    "Tracts reserved for the Ottawa on Blanchard's Fork and the Little Auglaize (Article 6).",
+    "Payment for improvements the Indians had to abandon because of the new lines (Article 17)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1978-09-22",
+      "what": "The Indian Claims Commission found the fair market value of Royce Areas 87 and 88 on 4 January 1819 was $5,698,821.60, or $1.20 an acre, that total consideration under this treaty and the supplementary treaty of 17 September 1818 was $220,000, and that the disparity made the consideration unconscionable.",
+      "whoFoundIt": "Indian Claims Commission, James Strong et al. v. United States, Dockets 13-F, 15-I, 27, 29-G, 64-A, 133-C, 141 and 308, Interlocutory Order of 22 September 1978 (43 Ind. Cl. Comm. 311)",
+      "source": {
+        "title": "James Strong et al. v. United States, Dockets 13-F et al., Interlocutory Order (1978)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1337",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "Royce Areas 87 and 88 in northwestern Ohio, with small parts of Indiana and Michigan (Commission opinion of 1973).",
+  "compensation": "Consideration of $220,000: Wyandot $90,000, Shawnee $50,000, Potawatomi $19,500, Delaware $500, Chippewa $15,000, Ottawa $45,000 (Commission order of 1978). Net sums awarded less offsets: Wyandot $2,348,679.60, Ottawa $1,692,028.56, Delaware $487,235.92, Shawnee $437,735.92, Chippewa $258,820.80, Potawatomi $254,320.80.",
+  "today": "The Commission ran out of time before entering final awards and on 29 September 1978 certified and transferred these dockets to the United States Court of Claims.",
+  "nationVoice": [
+    {
+      "nation": "Ottawa Tribe of Oklahoma",
+      "summary": "The tribe's heritage site describes how the Ottawa villages at Blanchard's Fork and Roche de Boeuf were removed from Ohio to Kansas after an 1831 treaty and how all the Maumee River villages were expelled from their homelands.",
+      "url": "https://www.heritage.ottawatribe.gov/removal-from-ohio"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Wyandot, etc., 1817 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-wyandot-etc-1817-0145",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "James Strong et al. v. United States, Dockets 13-F et al., Interlocutory Order (1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1337",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "James Strong et al. v. United States, Dockets 13-F et al., Opinion of the Commission and Additional Findings of Fact (1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2315",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "James Strong et al. v. United States, Dockets 13-F et al., Order Certifying and Transferring Cases to the Court of Claims (1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1029",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "James Strong et al. v. United States, Dockets 13-F et al., Opinion of the Commission on title (1973)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2293",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Removal From Ohio",
+      "url": "https://www.heritage.ottawatribe.gov/removal-from-ohio",
+      "publisher": "Ottawa Tribe of Oklahoma"
+    }
+  ],
+  "openQuestions": [
+    "The scanned 1978 opinion prints the value once as $5,698,833.60; the interlocutory order and the conclusions of law print $5,698,821.60, which is used here.",
+    "How the Court of Claims disposed of these transferred dockets was not traced.",
+    "The many fee-simple and reserved tracts granted by Articles 6 and 8 were ceded in later removal treaties (1829 to 1842); those losses belong to those treaties and were not researched here.",
+    "treaties.json lists Royce cessions 89 to 91, 150, 163 to 168, 182, 211, 212 and 259 under this id as well as 87 and 88; the Commission finding covers Areas 87 and 88 only."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

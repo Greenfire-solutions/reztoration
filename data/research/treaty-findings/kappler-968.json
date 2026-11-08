@@ -1,0 +1,89 @@
+{
+  "id": "kappler-968",
+  "name": "Treaty with the Seneca, Mixed Seneca and Shawnee, Quapaw, etc., 1867 (Omnibus Treaty)",
+  "aka": [
+    "Omnibus Treaty of 1867"
+  ],
+  "signed": "1867-02-23",
+  "ratified": "1868-06-18",
+  "proclaimed": "1868-10-14",
+  "citation": "15 Stat. 513",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-mixed-seneca-and-shawnee-quapaw-etc-1867-0960",
+  "nations": [
+    "Seneca (today the Seneca-Cayuga Nation)",
+    "Shawnee (Mixed Seneca and Shawnee, today the Eastern Shawnee Tribe)",
+    "Quapaw",
+    "Odawa of Blanchard's Fork and Roche de Boeuf (today the Ottawa Tribe of Oklahoma)",
+    "Peoria, Kaskaskia, Wea and Piankeshaw (today the Peoria Tribe of Indians of Oklahoma)",
+    "Wyandotte Nation",
+    "Miami (Article 26)"
+  ],
+  "promises": [
+    "Articles 1 to 4: the Seneca, Shawnee and Quapaw ceded parts of their lands in the Indian Territory and Kansas for stated payments.",
+    "Article 12: a commission would investigate the losses of the Seneca, Shawnee and Quapaw, who had been driven from their homes during the Civil War.",
+    "Article 13: land ceded by the Seneca would be set apart as a home for the Wyandotte; Article 16 sold part of the Shawnee cession to the Ottawa; Article 22 sold land to the Peoria and confederated tribes.",
+    "Article 19: the Ottawa's school trust under the sixth article of their 1862 treaty would continue, with Ottawa children aged six to eighteen entitled to be received, fed, clothed and educated at the institution.",
+    "Article 24: the Indian Office's books would be examined and an account of the tribes' funds prepared."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1960-06-29",
+      "what": "The Indian Claims Commission held the United States liable to the Ottawa bands that made the 1862 and 1867 treaties for the loss of the school trust lands and funds set up for their education, after finding that the school trustees had made profits and failed to invest proceeds as the treaty required, and that the Interior Department had been too slow to check it.",
+      "whoFoundIt": "Indian Claims Commission, Ottawa Tribe v. United States, Docket 303, opinion and interlocutory order",
+      "source": {
+        "title": "Ottawa Tribe v. United States, Docket 303, Opinion of the Commission (June 29, 1960), 8 Ind. Cl. Comm. 831",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/475",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1965-02-11",
+      "what": "The Commission awarded the Ottawa bands that entered into the treaties of June 24, 1862 and February 23, 1867 the sum of $358,039.55, with 4% interest on $30,603.94 from March 22, 1934.",
+      "whoFoundIt": "Indian Claims Commission, Docket 303, Amended Final Award",
+      "source": {
+        "title": "Ottawa Tribe v. United States, Docket 303, Amended Final Award (February 11, 1965), 14 Ind. Cl. Comm. 677",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/619",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "compensation": "Docket 303: $358,039.55 plus interest at 4% a year on $30,603.94 from March 22, 1934 (amended final award, February 11, 1965).",
+  "today": "The Commission found no substantial evidence that the remaining Ottawa trust lands sold to Ottawa University under the 1867 treaty went below market value (Docket 303 opinion, 1960); that part of the claim failed.",
+  "sources": [
+    {
+      "title": "Treaty with the Seneca, Mixed Seneca and Shawnee, Quapaw, etc., 1867 (Kappler, vol. 2, p. 960)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-mixed-seneca-and-shawnee-quapaw-etc-1867-0960",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Ottawa Tribe v. United States, Docket 303, Findings of Fact (June 29, 1960)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/456",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Ottawa Tribe v. United States, Docket 303, Opinion of the Commission (June 29, 1960)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/475",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Ottawa Tribe v. United States, Docket 303, Opinion of the Commission (November 26, 1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/731",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Ottawa Tribe v. United States, Docket 303, Amended Final Award (February 11, 1965)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/619",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "Only the Ottawa provisions were traced to a finding. Claims by the Seneca, Shawnee, Quapaw, Peoria and Wyandotte under this treaty (for example the Article 12 war losses commission and the Article 24 accounting) were not searched in this pass.",
+    "The Docket 303 award rests on the 1862 treaty's school trust as continued by Article 19 of this treaty; part of the award may belong to the 1862 treaty alone.",
+    "No nation statement about this treaty was found in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

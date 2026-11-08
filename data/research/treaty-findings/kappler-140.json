@@ -1,0 +1,66 @@
+{
+  "id": "kappler-140",
+  "name": "Treaty with the Ottawa, etc., 1816 (Treaty of St. Louis)",
+  "aka": [
+    "Treaty of St. Louis (1816)"
+  ],
+  "signed": "1816-08-24",
+  "proclaimed": "1816-12-30",
+  "citation": "7 Stat. 146",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-ottawa-etc-1816-0132",
+  "nations": [
+    "United Ottawa, Chippewa and Potawatomi of the Illinois and Milwaukee rivers (Bodéwadmi, Odawa, Anishinaabe)"
+  ],
+  "promises": [
+    "Merchandise delivered at signing and $1,000 in goods a year for twelve years, delivered on the Illinois River no lower than Peoria (Article 2).",
+    "The United States relinquished to the tribes the part of the 1804 Sac and Fox cession north of a line west from the south end of Lake Michigan, except tracts the President might reserve not exceeding five leagues square (Article 2).",
+    "The tribes could hunt and fish on the ceded land while it remained the property of the United States (Article 1)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1978-09-28",
+      "what": "The Indian Claims Commission found the Potawatomi held recognized title to Royce Area 78 (783,150.47 acres in northeastern Illinois, including the Chicago portage), set its value at $1.15 an acre, or $900,623.04, credited the $12,000 disbursed under the treaty, and entered a final award of $888,623.04 to the Potawatomi Tribe as constituted in 1816.",
+      "whoFoundIt": "Indian Claims Commission, Citizen Band of Potawatomi Indians et al. v. United States, Dockets 216, 15-L and 29-I, Interlocutory Order of 30 August 1978 (42 Ind. Cl. Comm. 524) and Final Award of 28 September 1978 (43 Ind. Cl. Comm. 476)",
+      "source": {
+        "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 216 et al., Final Award (1978)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1619",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "Royce Area 78, 783,150.47 acres (stipulated by the parties, Commission order of 1978). The Potawatomi did not claim further compensation for Royce Area 77.",
+  "compensation": "$12,000 credited as consideration; final award of $888,623.04 in 1978.",
+  "today": "The value was fixed by a 1975 stipulation tying Area 78 to the per-acre value the Commission later found for Royce Area 98 in Dockets 15-D et al.; the stipulation concerned how value would be measured, not a compromise of the claim. The Commission's 1973 title decision is 32 Ind. Cl. Comm. 400.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Ottawa, etc., 1816 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-ottawa-etc-1816-0132",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 216 et al., Interlocutory Order (1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1895",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 216 et al., Final Award (1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1619",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 216 et al., Opinion of the Commission on title (1973)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2110",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The final award order does not use the word unconscionable; the auditor may want to confirm the legal basis of the award in the 1973 opinion before this is cited publicly.",
+    "Ottawa and Chippewa claims in Dockets 13-K, 18-P and 40-I were dismissed in 1973 (Commission index); the order was not opened.",
+    "No nation statement about this treaty was found."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

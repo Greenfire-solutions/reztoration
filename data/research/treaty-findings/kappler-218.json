@@ -35,7 +35,7 @@
       "kind": "claims-commission",
       "date": "1951-12-12",
       "what": "After deducting $75,638.55 in offsets from the $987,092 found due, the Commission entered a final award of $911,453.45 to the Quapaw.",
-      "whoFoundIt": "Indian Claims Commission, Quapaw Tribe of Indians et al. v. United States, Docket 14, Opinion of 12 December 1951 (1 Ind. Cl. Comm. 644)",
+      "whoFoundIt": "Indian Claims Commission, Quapaw Tribe of Indians et al. v. United States, Docket 14, Opinion of 12 December 1951 (1 Ind. Cl. Comm. 652)",
       "source": {
         "title": "Quapaw Tribe of Indians v. United States, Docket 14, Opinion of the Commission on offsets (1951)",
         "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/241",
@@ -100,7 +100,8 @@
     "The final award figure is read from OCR text that shows '$911,453 ,b5'; $987,092.00 less $75,638.55 is $911,453.45.",
     "The Quapaw Nation's history pages on quapawtribe.com were checked and carry no text about this treaty; a nation statement is still wanted.",
     "Whether the 1824 award was appealed to the Court of Claims was not checked.",
-    "The OSU collection dates the additional findings (id 349) to 1995, which looks like a cataloguing error for 1951."
+    "The OSU collection dates the additional findings (id 349) to 1995, which looks like a cataloguing error for 1951.",
+    "Audit 2026-11-08: the 12 December 1951 opinion on offsets is at 1 Ind. Cl. Comm. 652; page 644 is the additional findings of fact (OSU id 349). Citation corrected. The $987,092, $28,037, $75,638.55 and unconscionability finding were checked against the opened texts."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"
