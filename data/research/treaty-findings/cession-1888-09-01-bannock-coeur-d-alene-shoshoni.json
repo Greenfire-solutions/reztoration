@@ -1,0 +1,48 @@
+{
+  "id": "cession-1888-09-01-bannock-coeur-d-alene-shoshoni",
+  "name": "Act of September 1, 1888 ratifying the agreement of May 27, 1887 for the Pocatello townsite on the Fort Hall Reservation",
+  "aka": [
+    "Pocatello townsite cession"
+  ],
+  "signed": "1887-05-27",
+  "ratified": "1888-09-01",
+  "citation": "25 Stat. 452, ch. 936",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg452.pdf",
+  "nations": [
+    "Shoshone-Bannock Tribes of the Fort Hall Reservation"
+  ],
+  "promises": [
+    "The Shoshone and Bannack gave up about 1,840 acres in Township 6 South, Range 34 East, to be laid out as a townsite and sold at public auction after appraisal (Article I).",
+    "The proceeds, after the costs of survey, appraisal and sale, would be deposited in the Treasury to the Indians' credit at five per cent interest (Article I).",
+    "All unexecuted provisions of existing treaties not affected by the agreement would remain in force (Article III)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The Act records the agreement as signed by a majority of adult men as article 11 of the 1868 treaty required. No finding about the townsite sale was located; the 1968 Commission settlement of the Fort Hall dockets covered the 1889 and 1898 cessions and other claims, not this one.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Act of September 1, 1888, ch. 936, 25 Stat. 452",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg452.pdf",
+      "publisher": "US Government Publishing Office (Statutes at Large)"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 926",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/926/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Shoshone-Bannock Tribes et al. v. United States, Dockets 326-D to 326-H, 366, 367, Findings of Fact on Settlement, 19 Ind. Cl. Comm. 3 (February 13, 1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2557",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json lists Coeur d'Alene among the schedule tribes and repeats the Shoshone-Bannock Tribes twice; Royce and the Act name only the Shoshone and Bannock of Fort Hall.",
+    "The Act's preamble states the Utah and Northern Railroad had run through the reservation since about 1878 without paying the Indians anything for the land; that right of way belongs to a separate record.",
+    "What the townsite lots sold for and whether the proceeds were credited were not found.",
+    "The Shoshone-Bannock Tribes' own account of the Pocatello cession was not located."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

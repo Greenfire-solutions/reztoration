@@ -1,0 +1,34 @@
+{
+  "id": "cession-1884-11-26-cheyenne-northern",
+  "name": "Executive order of November 26, 1884 setting apart the Tongue River (Northern Cheyenne) Reservation",
+  "aka": [
+    "Tongue River Reservation order"
+  ],
+  "signed": "1884-11-26",
+  "citation": "Executive Order of November 26, 1884",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/918/mode/2up",
+  "nations": [
+    "Northern Cheyenne Tribe (Tsétsêhéstâhese)"
+  ],
+  "promises": [
+    "Royce records that the order set apart a reservation for the Northern Cheyennes along the Rosebud River in Montana, excluding tracts located, resided on and improved by settlers before October 1, 1884."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The order created a reservation and took no land; no finding about it was located.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 918",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/918/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json also lists the Cheyenne and Arapaho Tribes of Oklahoma; this order concerned the Northern Cheyenne only.",
+    "The exclusion of settlers' tracts inside the boundaries, and the Northern Cheyenne Commission dockets (329), were not followed up.",
+    "The Northern Cheyenne Tribe's own account of the 1884 order was not located."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

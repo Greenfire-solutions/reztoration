@@ -1,0 +1,75 @@
+{
+  "id": "cession-1884-01-09-yuma",
+  "name": "Executive order of January 9, 1884 establishing the Fort Yuma Reservation on the California side of the Colorado River",
+  "aka": [
+    "Fort Yuma Reservation order"
+  ],
+  "signed": "1884-01-09",
+  "citation": "Executive Order of January 9, 1884",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/914/mode/2up",
+  "nations": [
+    "Quechan Tribe of the Fort Yuma Indian Reservation (Kwatsáan)"
+  ],
+  "promises": [
+    "Royce records that the order restored to the public domain the Arizona reserve set apart for the Yuma by executive order of July 6, 1883, at the junction of the Gila and Colorado rivers (area 648).",
+    "It established a new reserve for the Yuma on the California side of the Colorado River (area 652)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1959-09-30",
+      "what": "The Indian Claims Commission held that through this order's reserve and the tribe's removal onto it, the United States extinguished Quechan Indian title to their lands in Arizona on January 9, 1884, and adjudged the United States liable for the value of those lands.",
+      "whoFoundIt": "Indian Claims Commission, Quechan Tribe v. United States, Docket 319, 8 Ind. Cl. Comm. 111 (1959)",
+      "source": {
+        "title": "Quechan Tribe of the Fort Yuma Reservation v. United States, Docket 319, Opinion of the Commission (September 30, 1959)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/552",
+        "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+      },
+      "quote": "on January 9, 1884, the United States had extinguished Indian occupancy in Arizona"
+    }
+  ],
+  "compensation": "After the liability finding the parties compromised on value: in 1965 the Commission approved a settlement of $520,000.00, of which it said $353,000.00 was for the Arizona land, about 40 cents an acre.",
+  "today": "On December 21, 1978 the Interior Department restored 25,000 acres inside the 1884 reservation boundaries to the Quechan, the Solicitor having concluded that the 1893 cession was conditional and the United States never met its conditions. That concerns the 1893 agreement, a separate event.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 914",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/914/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Quechan Tribe of the Fort Yuma Reservation v. United States, Docket 319, Opinion of the Commission (September 30, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/552",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Quechan Tribe of the Fort Yuma Reservation v. United States, Docket 319, Findings of Fact (September 30, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/323",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Quechan Tribe of the Fort Yuma Reservation v. United States, Docket 319, Opinion of the Commission, 15 Ind. Cl. Comm. 489 (August 5, 1965)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/716",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Andrus orders 25,000 acres restored to Quechan Indians reservation (December 21, 1978)",
+      "url": "https://www.bia.gov/as-ia/opa/online-press-release/andrus-orders-25000-acres-restored-quechan-indians-reservation",
+      "publisher": "US Department of the Interior, Bureau of Indian Affairs"
+    }
+  ],
+  "openQuestions": [
+    "The Commission treated the tribe's acceptance of the 1884 reserve as a relinquishment of its Arizona title and still held the United States liable for value; the claim was then compromised on value, not tried.",
+    "The scanned 1965 opinion gives the Arizona acreage both as 381,644 and 881,644 acres, and the California share is smudged; those figures are left out.",
+    "Whether the 1883 Arizona reserve (area 648) lies inside the Arizona tract the Commission described (Finding 21) was not checked against a map.",
+    "The Quechan Tribe's own account of the 1884 order was not located."
+  ],
+  "plain": {
+    "promised": "This 1884 order set a reservation for the Quechan (Yuma) on the California side of the Colorado River and ended a reserve set apart for them on the Arizona side in 1883.",
+    "happened": "The Indian Claims Commission held in 1959 that through this order and the tribe's move, the United States ended Quechan title to their Arizona lands in 1884, and found the United States liable for the land's value.",
+    "today": "The claim was settled in 1965 for $520,000.00, of which $353,000.00 was for the Arizona land. In 1978 Interior restored 25,000 acres inside the 1884 boundaries over a separate 1893 agreement."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

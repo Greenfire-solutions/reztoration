@@ -1,0 +1,52 @@
+{
+  "id": "cession-1883-03-24-apache-mescalero",
+  "name": "Executive order of March 24, 1883 fixing the boundaries of the Mescalero Apache Reservation",
+  "aka": [],
+  "signed": "1883-03-24",
+  "citation": "Executive Order of March 24, 1883",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/910/mode/2up",
+  "nations": [
+    "Mescalero Apache Tribe"
+  ],
+  "promises": [
+    "The Indian Claims Commission found that this order defined the final boundaries of the reservation, adding two townships at the northwest corner including the Sierra Blanca, for a reservation of 474,240 acres, which became the Mescaleros' permanent home.",
+    "Royce maps the lands that earlier executive orders had included in the reservation and that were later relinquished (area 643)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The Commission held in 1966 that the United States took the Mescalero Apache Tribe's Indian title to its New Mexico lands without compensation on May 29, 1873, the date of the first reservation order, not on the date of this order. The claim (Docket 22-B) was settled by compromise in 1967 for a final judgment of $8,500,000.00.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 910",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/910/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 862",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/862/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Mescalero Apache Tribe et al. v. United States, Docket 22-B, Findings of Fact (July 7, 1966)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1403",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Mescalero Apache Tribe et al. v. United States, Docket 22-B, Opinion of the Commission, 17 Ind. Cl. Comm. 150 (July 7, 1966)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2074",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Mescalero Apache Tribe et al. v. United States, Docket 22-B, Findings of Fact on Compromise Settlement, 18 Ind. Cl. Comm. 367 (April 27, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2237",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "Lands dropped from the reservation by this and earlier orders (Royce area 643) were part of the aboriginal claim the Commission dated to 1873; no finding ties a loss to this 1883 order, and an executive-order reduction alone is not a breach under the project rule.",
+    "The Mescalero Apache Tribe's own account of the 1883 boundaries was not located."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

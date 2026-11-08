@@ -1,0 +1,43 @@
+{
+  "id": "cession-1883-08-15-iowa",
+  "name": "Executive order of August 15, 1883 setting apart the Iowa Reservation in Indian Territory",
+  "aka": [],
+  "signed": "1883-08-15",
+  "citation": "Executive Order of August 15, 1883",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/912/mode/2up",
+  "nations": [
+    "Iowa Tribe of Oklahoma (Báxoje)"
+  ],
+  "promises": [
+    "The order set apart a reservation in Indian Territory for the Iowa (Royce; Iowa Tribe of Oklahoma)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The Iowa Tribe of Oklahoma says its original reservation in Oklahoma was established by this order and that Iowas who wished to stay on the northern lands were allowed to. How the reservation was later reduced is a separate event.",
+  "nationVoice": [
+    {
+      "nation": "Iowa Tribe of Oklahoma",
+      "summary": "The Tribe says its original Oklahoma reservation was established by executive order of August 15, 1883, after some Ioways were moved to Indian Territory.",
+      "url": "https://iowanation.org/about-us/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 912",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/912/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "About Us",
+      "url": "https://iowanation.org/about-us/",
+      "publisher": "Iowa Tribe of Oklahoma"
+    }
+  ],
+  "openQuestions": [
+    "This order created a reservation and took no land; no finding about it was located.",
+    "treaties.json also lists the Iowa Tribe of Kansas and Nebraska; the 1883 reserve was for the Iowa in Indian Territory, today the Iowa Tribe of Oklahoma.",
+    "The Commission's Iowa dockets were not searched for findings on the 1890 agreement that later reduced this reservation; that belongs to its own record."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

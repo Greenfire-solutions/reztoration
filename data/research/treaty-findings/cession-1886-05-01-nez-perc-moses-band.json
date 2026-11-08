@@ -1,0 +1,57 @@
+{
+  "id": "cession-1886-05-01-nez-perc-moses-band",
+  "name": "Executive order of May 1, 1886 restoring the Columbia (Moses) Reservation to the public domain",
+  "aka": [
+    "Moses agreement allotments order"
+  ],
+  "signed": "1886-05-01",
+  "citation": "Executive Order of May 1, 1886 (carrying out the agreement of July 7, 1883, ratified by the Act of July 4, 1884, 23 Stat. 76, 79-80)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up",
+  "nations": [
+    "Confederated Tribes of the Colville Reservation (Chief Moses' people: Columbia (Sinkiuse), Chelan, Entiat and Wenatchi)"
+  ],
+  "promises": [
+    "Under the agreement of July 7, 1883, ratified by Congress on July 4, 1884, the United States undertook that if Chief Moses' people moved to the Colville Reservation they would have equal rights with all other Indians there (ICC summary).",
+    "Royce records that the agreement restored the remaining Columbia Reservation lands to the public domain except certain individual allotments, whose boundaries this order proclaimed."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The Colville Tribes' claim in Docket 181-A, that moving Moses' groups onto the Colville Reservation from about 1886 took an interest in Colville lands without compensation, was settled by compromise together with Docket 181-B for a net judgment of $3,500,000.00 in 1967, with no finding of liability. Royce notes the allotments to Sar-sarp-kin and his band had become individual property and are not mapped.",
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of the Colville Reservation",
+      "summary": "The Colville Tribes' fish and wildlife program records that in 1886 Chief Moses' people were moved from the old Moses Reserve to the Colville Reservation by executive order.",
+      "url": "https://cctfnw.squarespace.com/ct-fish-history"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 920",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 862",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/862/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Confederated Tribes of the Colville Reservation v. United States, Dockets 177, 181-A, 181-B, Findings of Fact on Compromise Settlement, 18 Ind. Cl. Comm. 531 (September 7, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2196",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "History of the Confederated Tribes of the Colville Reservation",
+      "url": "https://cctfnw.squarespace.com/ct-fish-history",
+      "publisher": "Colville Tribes Fish & Wildlife"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json lists the present-day tribe as the Nez Perce Tribe of Idaho; Chief Moses' people are today part of the Confederated Tribes of the Colville Reservation.",
+    "This order shrank an executive-order reservation under a ratified agreement; no court, Commission or government finding about this land and event was located.",
+    "Whether the 1883 agreement's promises to Moses' people were kept was not researched here; it likely belongs to the record for the July 4, 1884 Act, if the queue has one.",
+    "The order's own text was not opened."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "cession-1881-03-03-missouri-oto",
+  "name": "Act of March 3, 1881 providing for the sale of the remainder of the Otoe and Missouria reservation",
+  "aka": [
+    "Otoe and Missouria Sale Act of 1881"
+  ],
+  "signed": "1881-03-03",
+  "citation": "21 Stat. 380, ch. 128",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-21/pdf/STATUTE-21-Pg380.pdf",
+  "nations": [
+    "Otoe-Missouria Tribe of Indians"
+  ],
+  "promises": [
+    "The remainder of the reservation in Kansas and Nebraska would be sold only with the consent of the Otoe and Missouria expressed in open council (section 1).",
+    "The land would be appraised by three commissioners, one chosen by the Indians in open council (section 2).",
+    "Royce records that the Otoes and Missourias were to be removed to a new reserve selected for them in Indian Territory."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The Indian Claims Commission ruled against the tribe on this sale in 1953: the lands sold for an average of $12.22 per acre, twice their appraised value, and the Commission found neither an unconscionable consideration nor unfair and dishonorable dealings, and that the tribe's consent was fairly secured (Docket 11, 2 Ind. Cl. Comm. 355).",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Act of March 3, 1881, ch. 128, 21 Stat. 380",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-21/pdf/STATUTE-21-Pg380.pdf",
+      "publisher": "US Government Publishing Office (Statutes at Large)"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 904",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/904/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Otoe and Missouria Tribe of Indians v. United States, Docket 11, Opinion of the Commission, 2 Ind. Cl. Comm. 355 (March 31, 1953)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/0",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Otoe and Missouria Tribe of Indians v. United States, Docket 11, Findings of Fact (March 31, 1953)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/350",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "The 1953 ruling was appealed on other causes of action (Otoe and Missouria Tribe v. United States in the Court of Claims); whether the appeal touched this sixth cause of action was not checked.",
+    "Royce area 626 (the new Indian Territory reserve) is grouped with this Act; how that reserve was later allotted and opened is a separate event.",
+    "The Otoe-Missouria Tribe's own account of the 1881 sale was not located."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

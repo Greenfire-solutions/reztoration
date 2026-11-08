@@ -1,0 +1,39 @@
+{
+  "id": "cession-1888-07-04-winnebago",
+  "name": "Act of July 4, 1888 authorizing the sale of a portion of the Winnebago Reservation in Nebraska",
+  "aka": [],
+  "signed": "1888-07-04",
+  "citation": "25 Stat. 240, ch. 519",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg240.pdf",
+  "nations": [
+    "Winnebago Tribe of Nebraska (Ho-Chunk)"
+  ],
+  "promises": [
+    "No sale of the described land in Township 27 North, Range 6 East would be made unless the Winnebago tribe in Nebraska gave its assent (section 2).",
+    "The land would be sold at public auction for cash, and the proceeds credited to the tribe and divided pro rata among its members (section 2).",
+    "Allottees on the land could give up their allotments only with their consent and select other land on the reservation (section 2)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "Royce says the tract was too small to show on his map. No finding about this sale was located.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Act of July 4, 1888, ch. 519, 25 Stat. 240",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg240.pdf",
+      "publisher": "US Government Publishing Office (Statutes at Large)"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 926",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/926/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "Whether the tribe gave its assent and what the land sold for were not found.",
+    "treaties.json also lists the Ho-Chunk Nation of Wisconsin; the Act concerned the Nebraska reservation of the Winnebago Tribe of Nebraska.",
+    "The Commission's Winnebago Docket 243 decisions read for this round do not mention 1888."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

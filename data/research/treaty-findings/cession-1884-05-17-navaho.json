@@ -1,0 +1,38 @@
+{
+  "id": "cession-1884-05-17-navaho",
+  "name": "Executive order of May 17, 1884 changing the Navajo Reservation (Utah addition; New Mexico townships relinquished)",
+  "aka": [],
+  "signed": "1884-05-17",
+  "citation": "Executive Order of May 17, 1884",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/916/mode/2up",
+  "nations": [
+    "Navajo Nation (Diné)"
+  ],
+  "promises": [
+    "Royce records that the order set apart an addition to the Navajo Reservation bounded by the Colorado and San Juan rivers and the Utah line (area 655).",
+    "Royce records that the order relinquished townships south of the San Juan River in New Mexico that the January 6, 1880 order had added (area 658); they were added back by executive order of April 24, 1886."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "Royce records that a later order modified this one so that the lands it described west of 110 degrees west longitude and within Utah were restored to the public domain. That later order is a separate event.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 916",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/916/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 920",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "This order both enlarged and reduced an executive-order reservation; under the project rule an executive-order reduction alone is not a breach, and no court, Commission or government finding about this land and order was located. The Navajo Commission dockets (229) concern aboriginal title, a different event.",
+    "The scanned Royce schedule is jumbled; the date of the later Utah restoration order was not read cleanly.",
+    "The Navajo Nation's own account of the 1884 order was not located."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}
