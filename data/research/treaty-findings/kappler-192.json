@@ -1,0 +1,87 @@
+{
+  "id": "kappler-192",
+  "name": "Treaty with the Kickapoo of the Vermilion, 1819 (Treaty of Fort Harrison)",
+  "aka": [
+    "Treaty with the Kickapoo, August 30, 1819"
+  ],
+  "signed": "1819-08-30",
+  "proclaimed": "1820-05-10",
+  "citation": "7 Stat. 202",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-kickapoo-1819-0184",
+  "nations": [
+    "Kickapoo of the Vermilion (successors: Kickapoo Tribe in Kansas, Kickapoo Tribe of Oklahoma)"
+  ],
+  "promises": [
+    "Articles 1 and 2: the Kickapoo of the Vermilion ceded all their lands on the Wabash and its waters, within bounds from the Vincennes tract to the Vermilion River and Pine Creek.",
+    "Article 3: they gave up their existing $1,000 annuity; the United States would pay $2,000 a year in specie for ten years, which with $3,000 then delivered was to be full compensation for the cession and all their treaty claims.",
+    "Article 4: the annuity to be paid where later agreed, since the tribe contemplated removing."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1978-08-25",
+      "what": "The Indian Claims Commission treated this treaty and the Kickapoo treaty of July 30, 1819 together as the Kickapoo cession of Royce Area 110, valued the Kickapoo interest at $11,833,330 against net consideration of $406,200 (which counts this treaty's $2,000 annuity for ten years and cash), found the consideration unconscionable, and awarded $11,427,130 subject to offsets.",
+      "whoFoundIt": "Indian Claims Commission, Kickapoo Tribe of Kansas et al. v. United States, Docket 315 (consolidated with Docket 15-D and others), Findings 75, 87 and 88 and Order of August 25, 1978 (42 Ind. Cl. Comm. 354)",
+      "source": {
+        "title": "Pottawatomie Tribe et al. v. United States, Findings of Fact on Value and Consideration, Part 2 (August 25, 1978)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2085",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "Part of Royce Area 110 in Illinois and Indiana; the Commission valued the Kickapoo interest in the whole of Area 110 ceded by the two 1819 treaties and did not state a separate acreage for this treaty.",
+  "compensation": "The Commission credited $426,700 in gross consideration under both 1819 treaties, less $20,500 for the annuities the Kickapoo released, leaving $406,200. The award of $11,427,130 was subject to offsets. On September 29, 1978 the case was certified and transferred to the United States Court of Claims.",
+  "today": "The same award is recorded for the July 30, 1819 treaty (kappler-190); it is one award for the two treaties and should not be counted twice. The final outcome in the Court of Claims was not traced in this pass.",
+  "plain": {
+    "promised": "The Kickapoo of the Vermilion gave up their Wabash lands and a $1,000 annuity for $2,000 a year for ten years and $3,000 in hand, called full compensation.",
+    "happened": "In 1978 the Indian Claims Commission valued the Kickapoo cession under this and the July 1819 treaty at $11,833,330, found the $406,200 paid unconscionable, and awarded $11,427,130 subject to offsets.",
+    "today": "The case was transferred to the Court of Claims in 1978; the final outcome has not been traced. The award is shared with the July 1819 Kickapoo treaty."
+  },
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Kickapoo, 1819 (Kappler, vol. 2, p. 184)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-kickapoo-1819-0184",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Pottawatomie Tribe et al. v. United States, Findings of Fact on Value and Consideration, Part 2 (August 25, 1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2085",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pottawatomie Tribe et al. v. United States, Opinion of the Commission, Part 1 (August 25, 1978), 42 Ind. Cl. Comm. 354",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2416",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pottawatomie Tribe et al. v. United States, Dockets 15-D, 29-B, 311, 313, 314-A and 315, Opinion of the Commission, Part 2 (August 25, 1978), 42 Ind. Cl. Comm. 354",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1956",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pottawatomie Tribe et al. v. United States, Order Setting Awards Subject to Offsets (August 25, 1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1009",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Order Certifying and Transferring Cases to the United States Court of Claims, Dockets 15-D, 29-B, 311, 313, 314-A and 315 (September 29, 1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/931",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), area 110",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/698/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The Commission's Part 1 opinion says this treaty was ratified on May 10, 1820 but takes January 13, 1821, the ratification of the amended July 30, 1819 treaty, as the valuation date for both.",
+    "Findings Part 2 cites this treaty as '78 Stat. 202', a scan or typing error for 7 Stat. 202.",
+    "The Court of Claims outcome after the 1978 transfer was not found here; kappler-190 notes search results pointing to a January 5, 1979 judgment for $11,427,130 that could not be loaded.",
+    "No Kickapoo Tribe in Kansas or Kickapoo Tribe of Oklahoma account of this treaty was found."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "cession-1889-08-21-mississippi-chippewa-white-oak-band-pill",
+  "name": "Leech Lake and Lake Winnibigoshish agreement under the Nelson Act (Pillager and Lake Winnibigoshish bands), signed August 21, 1889",
+  "aka": [
+    "Nelson Act cession, Pillager and Lake Winnibigoshish bands",
+    "Royce area 710"
+  ],
+  "signed": "1889-08-21",
+  "citation": "Act of January 14, 1889, ch. 24, 25 Stat. 642; agreement printed in H. R. Ex. Doc. 247, 51st Cong., 1st sess.",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg642.pdf",
+  "nations": [
+    "Leech Lake Band of Ojibwe (Pillager and Lake Winnibigoshish bands)"
+  ],
+  "promises": [
+    "Royce records that the Pillager and Lake Winnibigoshish bands ceded the Leech Lake reservation and the two other tracts set apart for them by the treaty of February 22, 1855, the executive addition of May 26, 1874, and their rights in the Red Lake Reservation not needed for allotments.",
+    "Section 1: the cession valid only if assented to in writing by two-thirds of the male adults over eighteen of the band; an Indian already holding an allotment not to be deprived of it or disturbed without his own separate consent.",
+    "Section 3: allotments in severalty; an Indian could take his allotment on the reservation where he lived instead of removing to White Earth.",
+    "Sections 4 and 5: pine lands examined, appraised and sold at public auction for no less than the appraised value.",
+    "Section 6: agricultural land not allotted sold to actual settlers under the homestead law at $1.25 an acre.",
+    "Section 7: net proceeds held in the Treasury as a permanent fund for all the Chippewa in Minnesota, drawing 5 percent interest paid yearly for fifty years, then divided among them."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "litigation",
+      "date": "1999-05",
+      "what": "The Minnesota Chippewa Tribe claimed in Indian Claims Commission Dockets 19 and 188 that Nelson Act land and timber proceeds were misspent and that land and timber were sold for less than full value. The claims were settled for $20 million, which the Court of Federal Claims awarded in May 1999.",
+      "whoFoundIt": "Minnesota Chippewa Tribe v. United States, Dockets 19 and 188 (settlement), as described in the Bureau of Indian Affairs' testimony to the House Subcommittee on Indian and Alaska Native Affairs, March 1, 2012",
+      "source": {
+        "title": "Testimony of Mike Black, Director, Bureau of Indian Affairs, on H.R. 1272, Minnesota Chippewa Tribe Judgment Fund Distribution Act (March 1, 2012)",
+        "url": "https://www.doi.gov/node/3522",
+        "publisher": "US Department of the Interior"
+      }
+    }
+  ],
+  "landTaken": "Royce records the cession of the 1855 Leech Lake and Winnibigoshish reservations and the 1874 executive addition, except land needed for allotments. Leech Lake testimony in 2012 says the Band now holds about 4 percent of the reservation lands promised by treaty and executive order, about 29,000 acres of trust land.",
+  "compensation": "Net sale proceeds were to go into the Chippewa permanent fund (Section 7). The 1999 settlement of $20 million covers all six member bands of the Minnesota Chippewa Tribe. Leech Lake testimony says the Tribe's own appraisal for the settlement put Leech Lake's share of the land and timber damages at 68.9 percent.",
+  "today": "In Chippewa Indians of Minnesota v. United States, 307 U.S. 1 (1939), the Supreme Court held that the 1889 Act and the cessions under it did not create a technical trust and did not bind Congress to the plan, so spending from the fund for the Indians' benefit was not a diversion; that ruling went against the Chippewa and is not counted as a breach. The Bureau of Indian Affairs testified in 2012 that no funds remained to divide in equal shares after the fifty years, and that the 1999 settlement money had been held in trust since June 22, 1999. Leech Lake testified in 2012 that the Morris Act of June 27, 1902 amended the Nelson Act and created the forest reserve now called the Chippewa National Forest from Leech Lake reservation land, and that about 75 percent of the forest lies within the reservation's treaty boundaries.",
+  "plain": {
+    "promised": "Allotments where people lived, no existing allotment taken without consent, and all land and timber sale money held in a fund for all Minnesota Chippewa at 5 percent interest for fifty years, then divided among them.",
+    "happened": "The Minnesota Chippewa Tribe claimed the money was misspent and land and timber sold below full value. Leech Lake says the Act violated its treaties and a 1902 law took its land for a national forest. No formal finding has been located.",
+    "today": "The claims were settled for $20 million in 1999 for six bands; Leech Lake says its land bore 68.9 percent of the damages. Leech Lake says it now holds about 4 percent of its promised reservation land."
+  },
+  "nationVoice": [
+    {
+      "nation": "Leech Lake Band of Ojibwe",
+      "summary": "Chairman Arthur LaRose told the Senate Committee on Indian Affairs that the Nelson Act sought to open the bands' reservations to settlers and logging companies in clear violation of existing treaties, that the 1902 Morris Act took most of Leech Lake's treaty lands for a forest, that the Band now holds about 4 percent of its reservation, and that its land bore 68.9 percent of the settled damages.",
+      "url": "https://web.archive.org/web/20231009055507/https://www.indian.senate.gov/sites/default/files/Arthur%20LaRose%20testimony.pdf"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Act of January 14, 1889, ch. 24, 25 Stat. 642 (Nelson Act)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg642.pdf",
+      "publisher": "US Government Publishing Office"
+    },
+    {
+      "title": "Testimony of Mike Black, Director, Bureau of Indian Affairs, on H.R. 1272, Minnesota Chippewa Tribe Judgment Fund Distribution Act (March 1, 2012)",
+      "url": "https://www.doi.gov/node/3522",
+      "publisher": "US Department of the Interior"
+    },
+    {
+      "title": "Testimony of Chairman Arthur LaRose of the Leech Lake Band of Ojibwe on S. 1739, Senate Committee on Indian Affairs (Wayback Machine copy)",
+      "url": "https://web.archive.org/web/20231009055507/https://www.indian.senate.gov/sites/default/files/Arthur%20LaRose%20testimony.pdf",
+      "publisher": "Leech Lake Band of Ojibwe, via U.S. Senate Committee on Indian Affairs"
+    },
+    {
+      "title": "Chippewa Indians of Minnesota v. United States, 307 U.S. 1 (1939)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/307/1",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule for 1889, pp. 936-937, area 710",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/936/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The 1999 settlement is a compromise and is recorded as litigation, not a finding. No court or Commission finding specific to the Leech Lake cession was found.",
+    "The Morris Act of June 27, 1902 was not opened; its terms here are as quoted in the Leech Lake testimony. Whether it was an Act of Congress overriding the 1889 agreement is a question for a deeper pass; the 1939 Supreme Court ruling held Congress was not bound to the 1889 plan.",
+    "treaties.json gives both this entry and cession-1889-09-06 the scheduleTribes 'Mississippi Chippewa, White Oak band; Pillager; Winnibagoshish'. Royce dates the Pillager and Winnibigoshish agreement August 21, 1889 and the White Oak band agreement September 6, 1889.",
+    "The agreement itself (H. R. Ex. Doc. 247) was not opened."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

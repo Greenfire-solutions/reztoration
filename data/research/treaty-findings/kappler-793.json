@@ -41,7 +41,13 @@
     "happened": "In 1863 Congress declared all treaties with the Sisseton, Wahpeton, Mdewakanton and Wahpekute abrogated and their Minnesota lands and annuities forfeited, taking the reservation land the Sisseton and Wahpeton held under this treaty.",
     "today": "A 1967 compromise gave $5,097,575 to the Sisseton and Wahpeton, but nothing for the forfeited reservation, for which no claim had been filed. A compromise is not a finding of breach."
   },
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Sisseton Wahpeton Oyate",
+      "summary": "The Oyate's history says Dakota leaders went to Washington in 1858 and signed two treaties ceding the reservation north of the Minnesota River, and that the rush of settlers, the government's want of more land, its failure to pay promised annuities and the loss of hunting and fishing grounds led toward the war of 1862, after which the government moved to revoke the treaties and expel the Dakota from Minnesota.",
+      "url": "https://web.archive.org/web/20240204222627/https://www.swo-nsn.gov/tribal-history/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Sioux, 1858 (Kappler, vol. 2, p. 785)",
@@ -67,6 +73,11 @@
       "title": "Dockets 142, 359-363, Final Judgments (August 9, 1967)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1553",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Tribal History (archived copy of the Oyate's website, February 2024)",
+      "url": "https://web.archive.org/web/20240204222627/https://www.swo-nsn.gov/tribal-history/",
+      "publisher": "Sisseton Wahpeton Oyate"
     }
   ],
   "openQuestions": [

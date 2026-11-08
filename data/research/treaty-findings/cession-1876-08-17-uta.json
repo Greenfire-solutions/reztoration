@@ -1,0 +1,65 @@
+{
+  "id": "cession-1876-08-17-uta",
+  "name": "Executive order of August 17, 1876 declaring a tract in the Uncompahgre Valley part of the Ute reservation",
+  "aka": [
+    "Uncompahgre Park order",
+    "Royce area 566 (cross-reference)"
+  ],
+  "signed": "1876-08-17",
+  "citation": "Executive order of August 17, 1876",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/886/mode/2up",
+  "nations": [
+    "Southern Ute Indian Tribe (Muache and Capote bands)",
+    "Ute Mountain Ute Tribe (Weeminuche band)",
+    "Ute Indian Tribe of the Uintah and Ouray Reservation (Tabeguache or Uncompahgre, Yampa, Grand River and Uintah bands)"
+  ],
+  "promises": [
+    "Not a cession: the President declared a tract 4 miles square in the Uncompahgre Valley, measured from the 53rd milepost on the north line of the 1875 survey of the Ute cession, to be part of the Ute reservation, in accordance with the agreement ratified April 29, 1874 (Royce).",
+    "Royce explains that the 1874 agreement kept Uncompahgre Valley out of the cession; when the north line of the ceded tract was surveyed, part of the valley lay south of it, so this order declared that remnant still a portion of the Ute reserve."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "None by this order; it confirmed land as reservation. The Commission later found Uncompahgre Park to be about 10,240 acres, not part of the 1873 cession (Docket 327, Finding 6).",
+  "compensation": "Nothing was due under this order. For the cession it clarified, see cession-1873-09-13-uta: final judgment of $7,908,586.16 in 1965 (Docket 327).",
+  "today": "The later history of this tract was not traced here; see cession-1880-03-06-uta for the 1880 agreement under which the Ute bands gave up their Colorado reservation.",
+  "nationVoice": [
+    {
+      "nation": "Southern Ute Indian Tribe",
+      "summary": "The Tribe says the 1873 Brunot Agreement ceded about 3.7 million acres of the San Juan Mountains, a major loss to the reservation and to its hunting way of life, but that the hunting right reserved in it remains undiminished; since a 2008 agreement with Colorado its members can once again hunt and fish there.",
+      "url": "https://www.southernute-nsn.gov/natural-resources/wildlife-resource-management/hunting/brunot-area-hunting-and-fishing/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pages 886-887, executive order of August 17, 1876",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/886/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Brunot Agreement with Ute Nation, 1874: Act of April 29, 1874 ratifying the agreement of September 13, 1873, transcribed from Kappler, vol. 1, pp. 151-152",
+      "url": "https://ocs.fortlewis.edu/forestPlan/roundtable/brunotAgreement.pdf",
+      "publisher": "Fort Lewis College, Office of Community Services"
+    },
+    {
+      "title": "Confederated Bands of Ute Indians v. United States, Docket 327, Findings of Fact, Part 1, September 14, 1962",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/841",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Confederated Bands of Ute Indians v. United States, Docket 327, Opinion of the Commission, September 14, 1962, 11 Ind. Cl. Comm. 180",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/645",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json gives this order Royce area 566, the Brunot cession, but the order kept land in the reservation rather than taking it; Royce numbers 566 under the 1874 Act and only cross-refers to this order. treaties.json also links Royce page 864 for it; the entry is on pages 886-887. Not edited.",
+    "Whether Uncompahgre Park passed out of Ute hands under the 1880 agreement was not checked."
+  ],
+  "plain": {
+    "promised": "Not a cession. The President confirmed that a 4 mile square tract in the Uncompahgre Valley, left out of the 1873 Brunot cession, was still part of the Ute reservation.",
+    "happened": "No breach of this order was found. The Brunot cession it clarified was found unconscionable by the Indian Claims Commission; that finding is in the 1873 record.",
+    "today": "Nothing was owed under this order itself. What later became of the tract was not traced in this record."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

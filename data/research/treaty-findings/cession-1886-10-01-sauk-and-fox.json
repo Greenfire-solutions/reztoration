@@ -1,0 +1,51 @@
+{
+  "id": "cession-1886-10-01-sauk-and-fox",
+  "name": "Land bought and held by the Sauk and Fox (Meskwaki) in Tama County, Iowa (Royce Area 690)",
+  "aka": [
+    "Royce 690, Sauk and Fox living in Iowa: land owned and occupied by them in Tama County",
+    "Meskwaki Settlement"
+  ],
+  "citation": "No treaty or statute: Royce's schedule records land owned and occupied by them in Tama County, Iowa",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up",
+  "nations": [
+    "Meskwaki Nation (Sac and Fox Tribe of the Mississippi in Iowa)"
+  ],
+  "promises": [
+    "Not a cession. Royce records that these Indians, mostly Fox, had lived with the Sauk and Fox of the Mississippi on the tribal reserve in Kansas, became dissatisfied with allotment there and returned to Iowa.",
+    "Royce records that since 1867 they had been paid their share of the tribal annuities, with which they bought from time to time the lands shown, about 1,500 acres in all."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The Meskwaki Nation states that it bought its first 80 acres in Tama County on July 13, 1857, that the Settlement is privately purchased land and not a reservation set apart from the public domain, and that it continues to buy land. Earlier Sauk and Meskwaki cessions in Iowa are recorded under their own treaties (for example kappler-554, the 1842 treaty).",
+  "nationVoice": [
+    {
+      "nation": "Meskwaki Nation",
+      "summary": "The Nation says the Sauk and Meskwaki lost all their Iowa land through cessions up to 1845 and were removed to Kansas, that some stayed or returned, and that the purchase of 80 acres in Tama County on July 13, 1857 began the privately owned Meskwaki Settlement, which it describes as a sovereign nation rather than a reservation.",
+      "url": "https://www.meskwaki.org/history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule for 1886, pp. 922-923, area 690",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "The Meskwaki Nation's History",
+      "url": "https://www.meskwaki.org/history/",
+      "publisher": "Meskwaki Nation (Sac and Fox Tribe of the Mississippi in Iowa)"
+    }
+  ],
+  "openQuestions": [
+    "The date 1886-10-01 in treaties.json is not a date of any event here; Royce prints area 690 under 'Cessions of 1886' after an entry headed 'Oct. 1, Act of Congress' that belongs to the Pueblo grants. Royce area 690 is land the Meskwaki bought, not land they ceded. Not edited.",
+    "treaties.json lists the Sac and Fox Nation of Missouri and the Sac and Fox Nation, Oklahoma as present-day tribes; Royce and the Nation tie this land to the Meskwaki in Iowa only.",
+    "The statute link in treaties.json (ops.libs.uga.edu, 690c.pdf) did not load."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher",
+  "plain": {
+    "promised": "Nothing by treaty. Royce records land the Meskwaki bought in Tama County, Iowa, with their share of the tribal annuities.",
+    "happened": "This is land the Meskwaki bought, not land they gave up. No breach has been found.",
+    "today": "The Meskwaki Nation says it still holds and adds to its privately purchased Settlement."
+  }
+}

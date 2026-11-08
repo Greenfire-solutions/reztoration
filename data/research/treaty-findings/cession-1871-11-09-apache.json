@@ -1,0 +1,171 @@
+{
+  "id": "cession-1871-11-09-apache",
+  "name": "Executive orders of November 9, 1871 approving the White Mountain (Camp Apache), Camp Grant and Camp Verde reservations in Arizona",
+  "aka": [
+    "White Mountain reservation, 1871",
+    "Camp Grant reservation, 1871",
+    "Camp Verde (Rio Verde) reservation, 1871",
+    "Royce areas 541, 573, 582, 603"
+  ],
+  "signed": "1871-11-09",
+  "citation": "Executive orders of November 9, 1871 (Royce areas 541, 573, 582 and 603)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/854/mode/2up",
+  "nations": [
+    "White Mountain Apache Tribe",
+    "San Carlos Apache Tribe",
+    "Yavapai-Apache Nation (Yavapai and Dilzhe'e Apache)",
+    "Fort McDowell Yavapai Nation",
+    "Tonto Apache Tribe"
+  ],
+  "promises": [
+    "These were executive orders, not treaties. Royce records that on November 9, 1871 the President approved the selection of three reservations: one at Camp Apache known as the White Mountain reservation, one at Camp Grant bounded on the north by the Gila River, and one at Camp Verde running about 10 miles on both sides of the Verde River above the military post.",
+    "Royce records that the White Mountain reservation was enlarged by executive order of December 14, 1872 and then reduced by executive orders of August 5, 1873, July 21, 1874, April 27, 1876, January 26, 1877 and March 31, 1877; its original boundaries include areas 573 and 603. He records the Camp Grant reserve (area 541) restored to the public domain by executive order of December 14, 1872, and the Camp Verde reserve (area 582) by executive order of April 23, 1875.",
+    "No cession was signed and no payment was offered for the Apache and Yavapai lands outside or inside these reservations."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1969-06-27",
+      "what": "The Indian Claims Commission held that by cutting down the enlarged White Mountain reservation through the executive orders of August 5, 1873, July 21, 1874, April 27, 1876, January 26, 1877, March 31, 1877 and December 22, 1902, the United States wrongfully took Western Apache aboriginal title lands without paying for them, and that Western Apache lands outside the reservation were wrongfully taken on May 1, 1873.",
+      "whoFoundIt": "Indian Claims Commission, San Carlos Apache Tribe et al. (Western Apache) v. United States, Docket 22-D, opinion and interlocutory order, 21 Ind. Cl. Comm. 189 (June 27, 1969)",
+      "source": {
+        "title": "San Carlos Apache Tribe et al. (Western Apache) v. United States, Docket 22-D, Opinion of the Commission, June 27, 1969, 21 Ind. Cl. Comm. 189",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1611",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1969-06-27",
+      "what": "The Commission held that by placing the Northern Tonto on the Camp Verde reservation the United States wrongfully took their lands outside it, and that by restoring the Camp Verde reservation to the public domain on April 23, 1875 it wrongfully took their remaining lands, both without any compensation.",
+      "whoFoundIt": "Indian Claims Commission, Northern Tonto Apache et al. v. United States, Docket 22-J, opinion, 21 Ind. Cl. Comm. 223 (June 27, 1969)",
+      "source": {
+        "title": "Northern Tonto Apache et al. v. United States, Docket 22-J, Opinion of the Commission, June 27, 1969, 21 Ind. Cl. Comm. 223",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1516",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1965-03-03",
+      "what": "The Commission found that about 2,000 Indians, most of them Yavapai, were taken to the Camp Verde reservation on May 1, 1873 and kept there until March 1875, when they were removed in a body, despite their opposition, to the San Carlos reservation outside their country; it held that the United States extinguished Yavapai title without compensation on May 1, 1873.",
+      "whoFoundIt": "Indian Claims Commission, Yavapai et al. v. United States, Docket 22-E, Findings of Fact No. 19 and interlocutory order, 15 Ind. Cl. Comm. 68 (March 3, 1965)",
+      "source": {
+        "title": "Yavapai et al. v. United States, Docket 22-E, Findings of Fact, March 3, 1965, 15 Ind. Cl. Comm. 68",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/643",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "2011-02-20",
+      "what": "The Yavapai-Apache Nation marks Exodus Day each year; its public relations manager said it commemorates the forced removal of the Yavapai and Apache from the Verde Valley in 1875.",
+      "whoFoundIt": "Fran Chavez, Public Relations Manager, Yavapai-Apache Nation, as reported by ICT, February 20, 2011",
+      "source": {
+        "title": "Exodus Day Commemorates Removal, Restoration of Two People (Debra Utacia Krol, February 20, 2011)",
+        "url": "https://ictnews.org/archive/exodus-day-commemorates-removal-restoration-of-two-people/",
+        "publisher": "ICT (Indian Country Today)"
+      },
+      "quote": "The event commemorates the forced removal of the Yavapai and Apache from the Verde Valley in 1875"
+    }
+  ],
+  "landTaken": "Royce areas 541 (Camp Grant reserve, restored December 14, 1872), 582 (Camp Verde reserve, restored April 23, 1875), and 573 and 603, parts of the original White Mountain reservation later cut off (area 573 is the part east of 109 degrees 30 minutes west restored by the order of July 21, 1874). No acreage for these areas was found in a source opened.",
+  "compensation": "None at the time. All three claims ended in compromise settlements, not awards after trial: Docket 22-D (Western Apache) for $4,900,000 and Docket 22-J (Northern Tonto) for $685,800, both entered September 12, 1972; Dockets 22-E and 22-F (Yavapai) for $5,100,000 on March 13, 1969.",
+  "today": "The Fort Apache (White Mountain) and San Carlos reservations remain. The Yavapai-Apache Nation is in the Verde Valley; the Commission found the Yavapai were held at San Carlos for about twenty-five years after 1875 (Docket 22-E opinion).",
+  "nationVoice": [
+    {
+      "nation": "Yavapai-Apache Nation",
+      "summary": "The Nation holds Exodus Day each year to remember the forced removal of the Yavapai and Apache from the Verde Valley in 1875 and those who died on the march.",
+      "url": "https://ictnews.org/archive/exodus-day-commemorates-removal-restoration-of-two-people/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pages 854-855, executive orders of November 9, 1871",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/854/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pages 860-861, executive orders of December 14, 1872",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/860/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pages 876-877, executive order of July 21, 1874 (area 573)",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/876/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "San Carlos Apache Tribe et al. (Western Apache) v. United States, Docket 22-D, Opinion of the Commission, June 27, 1969, 21 Ind. Cl. Comm. 189",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1611",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "San Carlos Apache Tribe et al. (Western Apache) v. United States, Docket 22-D, Interlocutory Order, June 1969",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/932",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "San Carlos Apache Tribe et al. (Western Apache) v. United States, Docket 22-D, Findings of Fact, June 27, 1969",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2005",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Northern Tonto Apache et al. v. United States, Docket 22-J, Opinion of the Commission, June 27, 1969, 21 Ind. Cl. Comm. 223",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1516",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Northern Tonto Apache et al. v. United States, Docket 22-J, Findings of Fact, June 27, 1969",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1888",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Yavapai et al. v. United States, Docket 22-E, Findings of Fact, March 3, 1965, 15 Ind. Cl. Comm. 68",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/643",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Yavapai et al. v. United States, Docket 22-E, Interlocutory Order, March 3, 1965",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/624",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Yavapai et al. v. United States, Dockets 22-E and 22-F, Final Judgment, March 13, 1969",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1681",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Dockets 22-D and 22-J, Findings of Fact on Compromise Settlements, September 12, 1972, 28 Ind. Cl. Comm. 399",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1616",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Docket 22-D, Final Award, September 12, 1972",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1055",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Exodus Day Commemorates Removal, Restoration of Two People (Debra Utacia Krol, February 20, 2011)",
+      "url": "https://ictnews.org/archive/exodus-day-commemorates-removal-restoration-of-two-people/",
+      "publisher": "ICT (Indian Country Today)"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json lists no present-day tribes for this entry; the nations above are the plaintiffs and beneficiaries named in ICC Dockets 22-D, 22-E and 22-J. treaties.json was not edited.",
+    "treaties.json gives cession-1871-11-09-apache-southern (the Tularosa reserve) the same date; Royce lists four separate orders of November 9, 1871.",
+    "The Docket 22-D interlocutory order, as scanned, names the orders of \"November 7, 1871\" and December 14, 1872; the opinion and findings say November 9, 1871. The order's own dating line reads \"2 3 -day of June, 1969\" in the scan; the 1972 settlement findings say the Commission decided it on June 27, 1969, which is used here.",
+    "Which reducing order area 603 belongs to was not checked on the map; Royce numbers area 592 under the order of April 27, 1876.",
+    "No Commission finding speaks specifically to the restoration of the Camp Grant reserve on December 14, 1872; Royce records that part of that land was put into the San Carlos addition the same day.",
+    "The White Mountain Apache Tribe's website (wmat.us) returned nothing on 2026-11-08; no White Mountain or San Carlos account of these orders was found.",
+    "The orders themselves were read only in Royce's summary, not in Kappler vol. 1."
+  ],
+  "plain": {
+    "promised": "Not a treaty. In 1871 the President set apart three Arizona reservations, at Camp Apache (White Mountain), Camp Grant and Camp Verde. No payment was offered for the Apache and Yavapai lands.",
+    "happened": "Camp Grant was closed in 1872, Camp Verde in 1875, and White Mountain cut down by later orders. The Indian Claims Commission held these were wrongful takings without payment. The Yavapai-Apache Nation remembers the 1875 forced removal.",
+    "today": "The claims were settled, not won at trial: $4,900,000 for the Western Apache, $685,800 for the Northern Tonto and $5,100,000 for the Yavapai."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -26,7 +26,13 @@
   "landTaken": "Royce area 61, in Mississippi and Alabama. No acreage was found in a source opened. Royce records that the Fuketcheepoonta reserve was later covered by the general Choctaw cession of September 27, 1830 (area 157) and that the Mitchell reserve was partitioned and sold by the Mitchell family.",
   "compensation": "$50,500 in lump sums, $3,000 a year in goods, and payments to the three medal chiefs, as set out in Articles 2 and 3. Of the lump sum, $48,000 was to let the chiefs pay debts to merchants and traders and for depredations.",
   "today": "No Indian Claims Commission decision on this cession was found among the 18 decisions returned by node scripts/research/icc.mjs search choctaw on 2026-11-08; those opened concern later treaties and tribal funds.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Choctaw Nation of Oklahoma",
+      "summary": "The Nation's historical documents page describes the 1805 Treaty of Mount Dexter as almost identical in wording to the 1805 Treaty of Limits, ceding more Choctaw land to the federal government and setting out what pay would be given in compensation.",
+      "url": "https://www.choctawnation.com/about/history/historical-documents/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Choctaw, 1805 (Kappler vol. 2, p. 87), 7 Stat. 98",
@@ -37,6 +43,11 @@
       "title": "Royce, Indian Land Cessions in the United States (1899), schedule pp. 672-673, areas 61, 62 and 157",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/672/mode/2up",
       "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Historical Documents",
+      "url": "https://www.choctawnation.com/about/history/historical-documents/",
+      "publisher": "Choctaw Nation of Oklahoma"
     }
   ],
   "openQuestions": [

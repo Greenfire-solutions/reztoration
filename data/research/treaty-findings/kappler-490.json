@@ -41,6 +41,11 @@
       "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
       "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
       "publisher": "Internet Archive"
+    },
+    {
+      "title": "History (Ziibiwing Center)",
+      "url": "http://www.scit-nsn.gov/ziibiwing/aboutus/history.htm",
+      "publisher": "Saginaw Chippewa Indian Tribe of Michigan"
     }
   ],
   "openQuestions": [
@@ -48,7 +53,13 @@
     "The Commission's opinion cites the treaty as 7 Stat. 538; Kappler gives 7 Stat. 528.",
     "No Saginaw Chippewa Indian Tribe account of this treaty was found."
   ],
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Saginaw Chippewa Indian Tribe of Michigan (Ziibiwing Center of Anishinabe Culture & Lifeways)",
+      "summary": "The Tribe, made up of the Saginaw, Black River and Swan Creek bands, says sixteen treaties made between 1795 and 1864 ceded almost all of its land, that settlers came to claim all but a few acres of its ancestors' homes, and that its last treaties, of 1855 and 1864, set up the Isabella Reservation.",
+      "url": "http://www.scit-nsn.gov/ziibiwing/aboutus/history.htm"
+    }
+  ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"
 }

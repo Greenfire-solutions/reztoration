@@ -1,0 +1,96 @@
+{
+  "id": "cession-1857-06-30-confederated-bands-of-willamette-valley",
+  "name": "Executive Order of June 30, 1857 establishing the Grand Ronde Reservation",
+  "aka": [
+    "Grand Ronde Reservation executive order",
+    "Royce cession 407"
+  ],
+  "signed": "1857-06-30",
+  "citation": "Executive order of June 30, 1857 (Royce, schedule entry 407); no treaty or statute",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/818/mode/2up",
+  "nations": [
+    "Confederated Bands of the Willamette Valley (parties to the treaty of January 22, 1855)",
+    "Confederated Tribes of Grand Ronde"
+  ],
+  "promises": [
+    "No treaty. Royce records that the President established a reserve at Grand Ronde \"in accordance with\" the Willamette Valley treaty of January 22, 1855, made up of Ts. 5 and 6 S., R. 8 W., and parts of Ts. 5 and 6 S., R. 7 W., Willamette district, Oregon.",
+    "The Grand Ronde Tribes say the reservation was originally 61,000 acres on the headwaters of the South Yamhill River in the Coast Range."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1954-08-13",
+      "what": "Congress ended federal supervision over the trust and restricted property of the Confederated Tribes of the Grand Ronde Community, the community this reservation was made for. The Act provided for tribal property to be transferred or sold, lifted restrictions on members' trust land, ended federal services and revoked the Community's charter. It required no tribal consent to termination itself.",
+      "whoFoundIt": "Act of August 13, 1954, Public Law 588, 68 Stat. 724, sections 1, 2(a), 5, 6, 13 and 14",
+      "source": {
+        "title": "Act of August 13, 1954, Public Law 588, ch. 733, 68 Stat. 724 (Western Oregon Indian termination)",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg724.pdf",
+        "publisher": "US Government Publishing Office (govinfo)"
+      },
+      "quote": "the corporate charter of the Confederated Tribes of the Grand Ronde Community, Oregon"
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1954-08-13",
+      "what": "The Confederated Tribes of Grand Ronde say the termination act stripped the Tribe of its federal status and that from 1954 to 1983 its members were landless.",
+      "whoFoundIt": "Confederated Tribes of Grand Ronde, Termination & Restoration",
+      "source": {
+        "title": "Termination & Restoration",
+        "url": "https://www.grandronde.org/culture-history/termination-restoration/",
+        "publisher": "Confederated Tribes of Grand Ronde"
+      },
+      "quote": "Between 1954 and 1983, Grand Ronde tribal members were a landless people in their own land."
+    }
+  ],
+  "landTaken": "The Grand Ronde Tribes say the reservation was originally 61,000 acres and that federal actions in the late 1800s quickly reduced it. No source opened gives the acreage left in trust in 1954.",
+  "compensation": "None found for the termination itself.",
+  "today": "Congress restored the Confederated Tribes of Grand Ronde on November 22, 1983 (Public Law 98-165), and on September 9, 1988 made approximately 9,811.32 acres in Oregon their reservation again, held in trust (102 Stat. 1594). The Tribe says it regained 9,811 acres of the original reservation.",
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of Grand Ronde",
+      "summary": "The Tribes say the Grand Ronde Reservation was established by executive order on June 30, 1857, originally about 61,000 acres, that federal actions in the late 1800s quickly reduced it, that termination in 1954 left members landless, and that they regained 9,811 acres in 1988.",
+      "url": "https://www.grandronde.org/culture-history/termination-restoration/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule entry 407",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/818/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Act of August 13, 1954, Public Law 588, ch. 733, 68 Stat. 724 (Western Oregon Indian termination)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg724.pdf",
+      "publisher": "US Government Publishing Office (govinfo)"
+    },
+    {
+      "title": "Act of September 9, 1988, Public Law 100-425, 102 Stat. 1594 (Grand Ronde Reservation Act)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-102/pdf/STATUTE-102-Pg1594.pdf",
+      "publisher": "US Government Publishing Office (govinfo)"
+    },
+    {
+      "title": "Termination & Restoration",
+      "url": "https://www.grandronde.org/culture-history/termination-restoration/",
+      "publisher": "Confederated Tribes of Grand Ronde"
+    },
+    {
+      "title": "Treaties",
+      "url": "https://www.grandronde.org/history-culture/history/treaties/",
+      "publisher": "Confederated Tribes of Grand Ronde"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json: this is not a cession but the executive order creating the Grand Ronde Reservation; the cession of the Willamette Valley itself is the treaty of January 22, 1855 (kappler-673).",
+    "The 1954 Act is counted because it ended the trust status of the Grand Ronde Community's property, the community for which this order made the reservation. The Act does not name the reservation or its acreage; what tribal land remained in 1954 and how it was disposed of under section 5 was not found in a source opened.",
+    "The surplus land sale of about 1901 that reduced the reservation, and whether the tribe consented, was not researched.",
+    "The 1983 restoration date and law number are from the Tribe's page; the statute (97 Stat. 1064) was not opened for this file."
+  ],
+  "plain": {
+    "promised": "No treaty. In 1857 the President set apart the Grand Ronde Reservation in the Coast Range for the Willamette Valley bands, as their 1855 treaty had arranged.",
+    "happened": "In 1954 Congress ended federal trust over the Grand Ronde Community's property, provided for it to be transferred or sold, and revoked its charter. The Tribe says its members were then landless in their own land.",
+    "today": "Congress restored the Confederated Tribes of Grand Ronde in 1983 and in 1988 made about 9,811 acres their reservation again."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

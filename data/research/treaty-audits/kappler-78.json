@@ -1,0 +1,19 @@
+{
+  "id": "kappler-78",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Kappler header (OSU): Aug. 18, 1804, 7 Stat. 81, ratified Jan. 21, proclaimed Feb. 14, 1805; Articles 2, 4 and 5 checked.",
+    "ICC Docket 289 title order of March 27, 1968 (OSU id 936, 19 Ind. Cl. Comm. 125): each tribe held recognized title to an undivided 1/2 of Royce 49.",
+    "Final award of February 24, 1971 (OSU id 1954): each plaintiff awarded $1,505,250.00; Delaware deductions $5,700.00 and $2,303.89; Delaware net $1,497,246.11 checks by subtraction; quote exact.",
+    "kappler-78 vs kappler-80: the $1,505,250 is awarded to each plaintiff, so it correctly appears on both the Delaware and the Piankeshaw treaty files."
+  ],
+  "changes": [
+    "whoFoundIt: title order page corrected from 19 Ind. Cl. Comm. 107 (the findings) to 125.",
+    "openQuestions: audit line on the shared figure.",
+    "kappler-80 finding file: audit line added confirming the figure is per plaintiff and noting the computed Piankeshaw net ($1,501,294.35), kept out of the record."
+  ],
+  "unverifiable": [
+    "December 11, 1970 interlocutory order not in the online collection."
+  ]
+}

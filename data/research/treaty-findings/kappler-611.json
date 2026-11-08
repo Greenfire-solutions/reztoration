@@ -23,7 +23,13 @@
   "landTaken": "Royce Area 312 in south-western Oregon and northern California; the acreage was not found in a source opened.",
   "compensation": "$60,000 under the treaty, $15,000 of it held back for settlers' claims. The outcome of the Court of Claims suit by the Rogue River tribe (No. 45231, 1946 and 1950) was not found.",
   "today": "The Western Oregon Indian Termination Act of August 13, 1954 (68 Stat. 724) listed the Rogue River, Takelma and Shasta peoples among the tribes whose federal supervision and services were to end; it does not mention this treaty, and the Table Rock reserve this treaty set apart had been abandoned after the Rogue River War of 1855-56. Congress restored the Confederated Tribes of Siletz Indians in 1977 and the Confederated Tribes of the Grand Ronde Community in 1983 (Public Law 98-165).",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of Grand Ronde",
+      "summary": "The Tribe lists the Rogue River treaties of September 10, 1853 and November 15, 1854 among the treaties its Takelma, Shasta and other member peoples signed, says the treaties brought the forced removal of its people from their homelands, and says members kept their ties to places such as the Table Rocks.",
+      "url": "https://www.grandronde.org/history-culture/history/treaties/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Rogue River, 1853 (Kappler, vol. 2, p. 603)",
@@ -39,6 +45,11 @@
       "title": "Grand Ronde Restoration Act, Public Law 98-165, 97 Stat. 1064 (1983)",
       "url": "https://www.govinfo.gov/content/pkg/STATUTE-97/pdf/STATUTE-97-Pg1064.pdf",
       "publisher": "U.S. Government Publishing Office, govinfo"
+    },
+    {
+      "title": "Treaties",
+      "url": "https://www.grandronde.org/history-culture/history/treaties/",
+      "publisher": "Confederated Tribes of Grand Ronde"
     }
   ],
   "openQuestions": [

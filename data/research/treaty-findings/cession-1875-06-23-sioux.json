@@ -33,6 +33,11 @@
       "title": "Sioux Tribe v. United States, Docket 74, Opinion on Scope and Meaning of Articles 11 and 16 of the 1868 Treaty (1970)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1459",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History (archived copy of the Tribe's website, June 2021)",
+      "url": "https://web.archive.org/web/20210615102625/https://www.standingrock.org/History/",
+      "publisher": "Standing Rock Sioux Tribe"
     }
   ],
   "openQuestions": [
@@ -41,7 +46,13 @@
     "Whether the agreement had the consent of three-fourths of adult Sioux men, which Article 12 of the 1868 treaty required for any cession, was not found.",
     "Audit 2026-11-08: the second promise said the United States was to pay a sum Congress had appropriated; neither Royce nor the OSU record says so, so it was replaced."
   ],
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Standing Rock Sioux Tribe",
+      "summary": "The Tribe's history says Article 11 of the 1868 Fort Laramie Treaty kept for the Great Sioux Nation hunting rights over a far larger area than the reservation, south to the Republican and Platte rivers, that no cession was valid without three-fourths of the adult men, and that it holds its 1851 and 1868 treaty rights as binding today as when they were made.",
+      "url": "https://web.archive.org/web/20210615102625/https://www.standingrock.org/History/"
+    }
+  ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"
 }

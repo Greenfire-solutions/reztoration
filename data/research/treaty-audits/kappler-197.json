@@ -1,0 +1,17 @@
+{
+  "id": "kappler-197",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "OSU Tribal Treaties Database text: 7 Stat. 208, proclaimed January 13, 1821; amended Article 6, Pommes de Terre tract possessed as the Illinois lands; $3,000 in merchandise.",
+    "ICC Docket 193 compromise findings and final judgment, February 29, 1968 (pointers 1795, 1650): 1,868,500-acre Missouri tract ceded October 24, 1832; settlement $540,000.",
+    "Royce full text has the supplementary treaty of St. Louis, July 19, 1820."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "Royce 179 was granted by this treaty, not ceded; the cession was October 24, 1832."
+  ]
+}

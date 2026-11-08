@@ -1,0 +1,21 @@
+{
+  "id": "kappler-468",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Kappler header (OSU Tribal Treaties Database) matches signing, proclamation and Statutes at Large citation: Apr. 23, 1836, 7 Stat. 502; Kappler header gives Proclamation May 16, 1836.",
+    "ICC Dockets 212 and 213 interlocutory order of August 5, 1976 (OSU id 1385): Royce 211, 212 and 213 worth $104,640 on April 23, 1836; 38,400, 640 and 160 acres in the opinion (OSU id 2247).",
+    "February 9, 1977 opinion (OSU id 2766): consideration and offsets still to be decided.",
+    "Transfer order (OSU id 2035), dated July 13, 1978 in the collection, under Public Law 94-465.",
+    "Court of Claims outcome: Public Law 98-602, 98 Stat. 3149 (October 30, 1984), govinfo PDF read: funds appropriated in satisfaction of the judgment awarded the Wyandotte Tribe in Dockets 212 and 213 before the United States Claims Court, distributed with Docket 139 and Docket 141 funds."
+  ],
+  "changes": [
+    "proclaimed 1836-05-16 added from the Kappler header.",
+    "today rewritten: the Claims Court did award a judgment in Dockets 212 and 213 (P.L. 98-602), basis and amount not found; source added.",
+    "Lead in openQuestions rewritten; proclamation open question removed.",
+    "Status left at no-breach-found: no finding of unconscionability for the 1836 cession was found, and the dockets also covered the 1818, 1832 and 1842 cessions."
+  ],
+  "unverifiable": [
+    "The Claims Court judgment in Dockets 212 and 213 (amount, date, whether adjudicated or compromised) was not found online; web searches and the NARF and Tenth Circuit summaries say only that about $4.7 million was distributed under P.L. 98-602 across all four dockets."
+  ]
+}

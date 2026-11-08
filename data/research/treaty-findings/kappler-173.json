@@ -1,12 +1,16 @@
 {
   "id": "kappler-173",
   "name": "Treaty with the Peoria, etc., 1818 (Treaty of Edwardsville)",
-  "aka": ["Treaty with the Illinois nation, September 25, 1818"],
+  "aka": [
+    "Treaty with the Illinois nation, September 25, 1818"
+  ],
   "signed": "1818-09-25",
   "proclaimed": "1819-01-05",
   "citation": "7 Stat. 181",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-peoria-etc-1818-0165",
-  "nations": ["Peoria, Kaskaskia, Michigamea, Cahokia and Tamaroa of the Illinois Confederacy, today the Peoria Tribe of Indians of Oklahoma"],
+  "nations": [
+    "Peoria, Kaskaskia, Michigamea, Cahokia and Tamaroa of the Illinois Confederacy, today the Peoria Tribe of Indians of Oklahoma"
+  ],
   "promises": [
     "The five Illinois tribes ceded the land bounded from the mouth of the Ohio along the Saline Creek and river divides to the Illinois River, which the treaty's preamble says the 1803 Kaskaskia treaty had not included (Article 1).",
     "The stipulations of the 1803 Vincennes treaty with the Kaskaskia would stay binding (Article 2).",
@@ -19,11 +23,34 @@
   "landTaken": "Royce Area 96a in Illinois, described in Article 1.",
   "compensation": "$2,000 in merchandise, $300 a year for twelve years and a 640-acre tract (Articles 4 and 5).",
   "today": "The Indian Claims Commission dismissed the Peoria Tribe's claim to Royce Areas 48 and 96a on behalf of the Peoria Nation on April 4, 1973, concluding that at the time of this treaty the Peoria held neither recognized nor Indian title to Area 96a, having left it to other tribes before 1775. This ruling went against the claim and is not a breach. The Commission dated the Kaskaskia cession of Area 48 to the 1803 treaty, not this one.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Peoria Tribe of Indians of Oklahoma",
+      "summary": "The Tribe's history says that after the treaty of Edwardsville in 1818 the Peoria were forced from their ancestral lands in Illinois, Indiana, Michigan, Ohio, Iowa and Missouri and moved first to Missouri, then to Kansas and finally to northeastern Oklahoma, and that by 1915 the tribe held no tribal land at all.",
+      "url": "https://web.archive.org/web/20260531224612/https://peoriatribe.com/welcome/history/"
+    }
+  ],
   "sources": [
-    { "title": "Treaty with the Peoria, etc., 1818 (Kappler, vol. 2, p. 165)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-peoria-etc-1818-0165", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
-    { "title": "Potawatomi Tribe et al. v. United States, Dockets 15-D et al. (including Docket 313), Order (April 4, 1973)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2114", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Peoria Tribe et al. v. United States, Docket 313, Opinion Denying Plaintiffs' Motion with Respect to Valuation Date of Lands Ceded by the Illinois (August 22, 1974)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2089", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+    {
+      "title": "Treaty with the Peoria, etc., 1818 (Kappler, vol. 2, p. 165)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-peoria-etc-1818-0165",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Potawatomi Tribe et al. v. United States, Dockets 15-D et al. (including Docket 313), Order (April 4, 1973)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2114",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Peoria Tribe et al. v. United States, Docket 313, Opinion Denying Plaintiffs' Motion with Respect to Valuation Date of Lands Ceded by the Illinois (August 22, 1974)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2089",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History (archived copy of the Tribe's website, May 2026)",
+      "url": "https://web.archive.org/web/20260531224612/https://peoriatribe.com/welcome/history/",
+      "publisher": "Peoria Tribe of Indians of Oklahoma"
+    }
   ],
   "openQuestions": [
     "treaties.json links Royce Area 48 to this entry. The Commission held Area 48 was ceded by the Kaskaskia treaty of August 13, 1803, effective December 23, 1803; this treaty only confirmed that cession (Article 2). The Kaskaskia award of $7,142,750 in Docket 313 (final award, September 20, 1978) belongs to the 1803 treaty, not this one. treaties.json also lists the Miami Tribe of Oklahoma as a present-day tribe, though the Tribal Treaties Database names only the Peoria Tribe as successor. Not edited.",

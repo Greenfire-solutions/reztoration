@@ -1,0 +1,21 @@
+{
+  "id": "cession-1826-10-23-miami",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "OSU Tribal Treaties Database text: 7 Stat. 300; 14 sections at Seek's village, 36 sections, goods of $31,040.53 and $26,259.47, permanent $25,000 annuity 'as long as they exist together as a tribe', Article 6 $2,000 for the poor and infirm.",
+    "ICC Docket 128 et al., Order Setting Awards, September 8, 1978 (pointer 2599): Miami plaintiffs in Dockets 124-B and 254 awarded $1,259,147.80 for the October 23, 1826 cession of Royce Areas 132 (Y-1), 146 (Y-4), 180 (Y-2) and 181 (Y-3), subject to gratuitous offsets.",
+    "ICC Additional Findings Part 2 (pointer 2160): consideration $232,095.00, fair market value $1,491,242.80, quote \"so grossly inadequate as to render the consideration unconscionable\" exact.",
+    "ICC Additional Findings Part 1 (pointer 1089): Miami 70 percent of Tract Y-1 and undivided 50 percent interests in the other tracts, as landTaken says.",
+    "Kind claims-commission is right: an adjudicated award, not a compromise. Plain fields match the file; no em dashes."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [
+    "Public Law 97-376 and the 1979 appropriation were not reopened."
+  ],
+  "treatiesJsonErrors": [
+    "cessions 192-195, 199 and 255 are reserves this treaty made, not the cession; the ICC placed the Miami cession in Royce 132, 146, 180 and 181."
+  ]
+}

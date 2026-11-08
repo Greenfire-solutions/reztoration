@@ -1,0 +1,54 @@
+{
+  "id": "cession-1788-09-03-christian-indians",
+  "name": "Congress's reservation of September 3, 1788 of three tracts on the Muskingum for the Christian (Moravian) Indians, and their purchase under the Act of March 3, 1823",
+  "aka": [
+    "Gnadenhutten, Schoenbrunn and Salem tracts",
+    "Royce areas 4, 5 and 6"
+  ],
+  "signed": "1788-09-03",
+  "citation": "Resolution of the Continental Congress of September 3, 1788 (per Royce); Act of March 3, 1823, ch. 27, 3 Stat. 749",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-3/pdf/STATUTE-3-Pg750.pdf",
+  "nations": [
+    "Christian Indians (Royce: 'Moravian or Christian Indians')"
+  ],
+  "promises": [
+    "Royce records that Congress set apart three tracts of 4,000 acres each on the Muskingum River, at Schoenbrunn, Gnadenhutten and Salem, for the Christian Indians.",
+    "The 1823 Act describes these tracts as granted by Congress in 1796 to the Society of United Brethren, on trust, for the sole benefit of the said Indians."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "The Act of March 3, 1823 appropriated one thousand dollars for the President to purchase the right, title and interest of these Indians in the three tracts in Tuscarawas County, Ohio, the purchase to be made with the consent of the Society.",
+  "today": "No court, Indian Claims Commission or government finding about these tracts was found. No present-day nation is listed for this entry in treaties.json.",
+  "plain": {
+    "promised": "Congress set apart three tracts of 4,000 acres on the Muskingum River in Ohio for the Christian (Moravian) Indians, later held in trust for their sole benefit by the Society of United Brethren.",
+    "happened": "In 1823 Congress appropriated $1,000 to buy the Indians' interest in the three tracts, with the Society's consent. No finding that a promise was broken has been located.",
+    "today": "No claim or finding about these tracts was found, and no present-day nation is recorded for them."
+  },
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule for 1788, pp. 650-651, areas 4, 5 and 6",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/650/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Act of March 3, 1823, ch. 27, 3 Stat. 749",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-3/pdf/STATUTE-3-Pg749.pdf",
+      "publisher": "US Government Publishing Office"
+    },
+    {
+      "title": "Act of March 3, 1823, ch. 27, 3 Stat. 749-750 (military appropriations, including the purchase of the Christian Indians' tracts)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-3/pdf/STATUTE-3-Pg750.pdf",
+      "publisher": "US Government Publishing Office"
+    }
+  ],
+  "openQuestions": [
+    "The 1823 Act describes the tracts as 'four hundred acres each'; Royce gives 4,000 acres each in both the 1788 and 1823 entries. Not resolved.",
+    "The 1788 resolution of the Continental Congress and the Act of 1796 granting the tracts to the Society of United Brethren were not opened; they are described from Royce and the 1823 Act.",
+    "Whether the purchase was made, from whom, and whether the Indians consented was not traced.",
+    "presentDayTribes is empty in treaties.json. The Christian Indians' descendants may include the Delaware Nation at Moraviantown in Ontario, which is outside the United States; not confirmed from a source.",
+    "The statute link in treaties.json (loc.gov, 17th Congress c17.pdf) returned a web page rather than the statute; the govinfo copy was used."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

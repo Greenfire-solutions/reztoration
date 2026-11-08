@@ -26,7 +26,13 @@
   "landTaken": "Royce Area 70, the road strips in northwestern Ohio described in Article 2.",
   "compensation": "The treaty states the grant was made in consideration of friendship; it names no payment.",
   "today": "In its 1973 title decision on the 1817 treaty the Indian Claims Commission treated the lands ceded at Brownstown in 1808 as already ceded and excluded them from the 1817 claims (James Strong et al. v. United States, Dockets 13-F et al., 30 Ind. Cl. Comm. 337). No Commission claim or award for the 1808 cession itself was found.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Wyandotte Nation",
+      "summary": "The Nation's history says the Wyandot, long tied to the French at Detroit, settled Upper Sandusky in Ohio, and that pressure from settlers forced the treaty it dates to 1843 and removal west of the Mississippi, leaving the Wyandot the last tribe to leave Ohio, in July 1843.",
+      "url": "https://wyandotte-nation.org/culture/our-history/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Chippewa, etc., 1808 (Kappler)",
@@ -42,6 +48,11 @@
       "title": "James Strong et al. v. United States, Dockets 13-F et al., Opinion of the Commission (1973)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2293",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Our History",
+      "url": "https://wyandotte-nation.org/culture/our-history/",
+      "publisher": "Wyandotte Nation"
     }
   ],
   "openQuestions": [

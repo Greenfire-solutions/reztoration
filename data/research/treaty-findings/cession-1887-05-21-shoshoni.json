@@ -17,7 +17,13 @@
   "status": "no-breach-found",
   "breaches": [],
   "today": "An executive order of January 31, 1906 redrew the military reservation after a new survey, moving a corner to exclude land the Indian school buildings stood on, and repeated that the Indians' rights were preserved and the land would be vacated when their interest required.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Eastern Shoshone Tribe (Newe)",
+      "summary": "The Tribe says its reservation in the Warm Valley of the Wind River Basin, where the army post was renamed Fort Washakie, took the name Wind River after the Northern Arapaho were placed there in the 1870s, and that later agreements and allotment cut it from 4.4 million acres to about 2.2 million.",
+      "url": "https://easternshoshone.org/about/"
+    }
+  ],
   "sources": [
     {
       "title": "Executive Order: Approving Secretary of War Request on Wind River Reserve (May 1887)",
@@ -33,6 +39,11 @@
       "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
       "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
       "publisher": "Internet Archive"
+    },
+    {
+      "title": "About",
+      "url": "https://easternshoshone.org/about/",
+      "publisher": "Eastern Shoshone Tribe"
     }
   ],
   "openQuestions": [

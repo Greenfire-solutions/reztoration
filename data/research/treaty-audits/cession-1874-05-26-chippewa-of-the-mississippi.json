@@ -1,0 +1,17 @@
+{
+  "id": "cession-1874-05-26-chippewa-of-the-mississippi",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce full text, remarks on the treaty of March 19, 1867: second additions to the Leech Lake (567) and Lake Winnibigoshish (568) reservations by Executive Orders of May 26, 1874, inside cession 507.",
+    "Royce full text, Nelson Act entry: the Pillager and Lake Winnibigoshish bands ceded their 1855 reservations and the executive addition of May 26, 1874 (signed August 21, 1889).",
+    "no-breach-found is right: the orders added land."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "presentDayTribes lists Mille Lacs and White Earth but not the Leech Lake Band of Ojibwe, whose reserves these were."
+  ]
+}

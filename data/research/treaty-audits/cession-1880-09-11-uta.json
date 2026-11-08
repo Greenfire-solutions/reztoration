@@ -1,0 +1,23 @@
+{
+  "id": "cession-1880-09-11-uta",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "402 U.S. 159 (Cornell LII): decided April 26, 1971; 220,000 acres as free homesteads; 15-by-110-mile southern strip; White River and Uncompahgre left for Utah before 1882; 1950 settlements exceeded $31 million.",
+    "KSL / Deseret News: \"moved out of Colorado at gunpoint\" exact; \"forced death march\"; demand to restore the Uncompahgre Reservation homelands; article published October 13, 2022 about a statement made Wednesday, October 12.",
+    "Royce full text: Ute assent obtained between June 29 and September 11, 1880.",
+    "Docket 349 settlement and 330 U.S. 169 cross-checked against the second-pass audit of cession-1880-03-06-uta done the same day; both litigation entries correctly not counted as findings. Contested is right.",
+    "Plain fields match the file; no em dashes."
+  ],
+  "changes": [
+    "Nation-statement date changed from 2022-10-13 to 2022-10-12, the day the statement was made, matching cession-1880-03-06-uta.",
+    "Rewrote the stale open question that said cession-1880-03-06-uta still carried the note-3 admission; that file was corrected in its own audit.",
+    "Added an open question confirming the treaties.json duplicate with cession-1880-03-06-uta."
+  ],
+  "unverifiable": [
+    "21 Stat. 199 itself was not opened; the terms rest on the 1971 opinions, as the file says."
+  ],
+  "treatiesJsonErrors": [
+    "duplicate of cession-1880-03-06-uta (same agreement, same Royce areas 616 and 617); September 11, 1880 is only the end of the Ute assent."
+  ]
+}

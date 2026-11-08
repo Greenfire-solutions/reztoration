@@ -1,0 +1,16 @@
+{
+  "id": "kappler-134",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "OSU Tribal Treaties Database text: 7 Stat. 141, proclaimed December 30, 1816; same footing as before the war if property returned by the first day of July; forfeiture of annuities otherwise; signed by Mucketamachekaka, or Black Sparrow Hawk.",
+    "Black Hawk autobiography (Project Gutenberg 7097): touched the goose quill not knowing he consented to give away his village; would never have signed had it been explained. Summary accurate."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "scheduleTribes Sauk and Fox and all three Sac and Fox nations; the treaty was with the Sauk of Rock River only."
+  ]
+}

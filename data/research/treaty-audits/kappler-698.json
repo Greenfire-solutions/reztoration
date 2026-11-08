@@ -1,0 +1,16 @@
+{
+  "id": "kappler-698",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Kappler header (OSU Tribal Treaties Database) matches signing, proclamation and Statutes at Large citation: Feb. 27, 1855, 10 Stat. 1172, ratified Mar. 3, proclaimed Mar. 23, 1855.",
+    "Article 1 (897,900 acres) and Article 2 (permanent home quote) checked.",
+    "Act of February 21, 1863, ch. 53, 12 Stat. 658 (govinfo PDF read): removal, appraisal, preemption and sale of the diminished reservation; no consent clause.",
+    "ICC compromise findings (OSU id 1872): Docket 243 claims include Royce 361 and 439; net $4,600,000. Kind litigation right.",
+    "Winnebago Tribe of Nebraska history page: treeless plains and Missouri River journey confirmed."
+  ],
+  "changes": [
+    "Removed 'After the Dakota war of 1862' from the breach 'what' and plain.happened: not in the Act or any source in the file."
+  ],
+  "unverifiable": []
+}

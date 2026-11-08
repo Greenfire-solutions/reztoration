@@ -17,7 +17,13 @@
   "breaches": [],
   "landTaken": "The Carlin Farms reservation, about 521.61 acres by the 1877 order, was restored to the public domain (Royce).",
   "today": "The Indian Claims Commission, ruling on offsets in the Western Shoshone claim in 1977, found that Western Shoshone had settled and farmed at Carlin, that some refused to move to the Duck Valley reservation created in 1877, and that cattle provided to the Ruby Valley Western Shoshone were moved to Carlin. It recorded Chief Temoak's reply when asked to move there: \"If you move my country, I go too. Have my ground here, I can't move.\" The Commission did not rule on the cancellation itself.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Te-Moak Tribe of Western Shoshone",
+      "summary": "The Tribe says the 1863 Treaty of Ruby Valley granted it ownership of much of eastern Nevada, that settlers took the most fertile Newe lands, that the Bureau of Indian Affairs tried to push all Great Basin Shoshone onto the Duck Valley reservation, and that the tribe refused the $26 million later offered for its land and asked for the land back.",
+      "url": "https://temoaktribe.com/history.shtml"
+    }
+  ],
   "sources": [
     {
       "title": "Executive Order: Cancelling Carlin Farms (January 16, 1879)",
@@ -38,6 +44,11 @@
       "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
       "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
       "publisher": "Internet Archive"
+    },
+    {
+      "title": "History & Culture",
+      "url": "https://temoaktribe.com/history.shtml",
+      "publisher": "Te-Moak Tribe of Western Shoshone"
     }
   ],
   "openQuestions": [

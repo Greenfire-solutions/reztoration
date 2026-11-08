@@ -1,0 +1,20 @@
+{
+  "id": "cession-1889-07-08-chippewa-of-minnesota",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "25 Stat. 642 (govinfo PDF): two-thirds assent of the male adults of all the Chippewa in Minnesota; $3 per thousand feet of pine; forty-acre parcels; $1.25 an acre; 5 percent for fifty years split one-half, one-fourth, one-fourth; $90,000 a year advanced.",
+    "Royce full text: Red Lake cession of all the reservation outside the Thief River, upper and lower Red Lake, Hay Creek and Clear Water River boundary (Rand McNally map of 1888), signed July 8, 1889.",
+    "ICC Docket 189-B opinion, November 29, 1972 (pointer 1565): the taking claim for Royce 706 fails on Chippewa Indians v. United States, 80 Ct. Cl. 410, consent given, Band counsel admitted the assent; accounting claim consolidated with Dockets 19 and 189-A.",
+    "ICC transfer order, December 15, 1976 (pointer 2229): Dockets 19, 189-A and 189-B sent to the Court of Claims. Litigation kind is right.",
+    "Bemidji Pioneer via Yahoo: Seki quote exact; false map; theft; likely litigation.",
+    "Contested is right; plain fields match; no em dashes. The file already names the duplicate with cession-1889-07-08-chippewa-red-lake-and-pembina-bands."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "duplicate transaction with cession-1889-07-08-chippewa-red-lake-and-pembina-bands; presentDayTribes leads with Rocky Boy rather than the Red Lake Band."
+  ]
+}

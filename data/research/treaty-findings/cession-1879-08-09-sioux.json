@@ -28,13 +28,24 @@
       "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
       "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
       "publisher": "Internet Archive"
+    },
+    {
+      "title": "History (archived copy of the Tribe's website, June 2021)",
+      "url": "https://web.archive.org/web/20210615102625/https://www.standingrock.org/History/",
+      "publisher": "Standing Rock Sioux Tribe"
     }
   ],
   "openQuestions": [
     "The order's text was read through Royce's schedule and the Supreme Court's account of it; the UGA scan linked in treaties.json returned 403.",
     "No tribal statement about the 1875 and 1876 additions east of the Missouri was found."
   ],
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Standing Rock Sioux Tribe",
+      "summary": "The Tribe's history says the 1868 Fort Laramie Treaty fixed the Great Sioux Reservation's bounds and made no cession valid without three-fourths of the adult men, that an 1875 executive order moved Standing Rock's line north to the Cannon Ball River before Congress broke the reservation up in 1889, and that it holds its 1851 and 1868 treaty rights as binding today as when they were made.",
+      "url": "https://web.archive.org/web/20210615102625/https://www.standingrock.org/History/"
+    }
+  ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"
 }

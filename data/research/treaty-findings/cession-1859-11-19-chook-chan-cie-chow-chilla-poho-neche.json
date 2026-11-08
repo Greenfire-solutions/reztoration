@@ -17,7 +17,13 @@
   "status": "no-breach-found",
   "breaches": [],
   "today": "The Indian Claims Commission held in 1959 that the original Indian title to lands in \"Area B\" of California, which is all of the state except the areas of the tribes the order names, was extinguished by the United States under the Act of March 3, 1851. That holding concerns the land of the whole region, not the Fresno River reservation or any treaty promise.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Table Mountain Rancheria",
+      "summary": "The Rancheria says the Chukchansi were among the tribes that signed the Treaty of Camp Barbour on April 29, 1851, that the lands promised in it were never given and the treaty never ratified, and that new reservations were then set up on the Fresno River where Hensley Lake is now.",
+      "url": "https://tablemountainrancheria.com/our-story/"
+    }
+  ],
   "sources": [
     {
       "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
@@ -28,6 +34,11 @@
       "title": "Indians of California v. United States, Dockets 31 and 37, Interlocutory Order (July 31, 1959)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/362",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Our Story",
+      "url": "https://tablemountainrancheria.com/our-story/",
+      "publisher": "Table Mountain Rancheria"
     }
   ],
   "openQuestions": [

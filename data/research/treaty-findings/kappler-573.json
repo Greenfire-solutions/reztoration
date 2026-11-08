@@ -1,0 +1,87 @@
+{
+  "id": "kappler-573",
+  "name": "Treaty with the Winnebago, 1846",
+  "aka": [
+    "Treaty of Washington, October 13, 1846",
+    "Neutral Ground cession",
+    "Royce cession 267"
+  ],
+  "signed": "1846-10-13",
+  "proclaimed": "1847-02-04",
+  "citation": "9 Stat. 878",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-winnebago-1846-0565",
+  "nations": [
+    "Ho-Chunk Nation (Winnebago)",
+    "Winnebago Tribe of Nebraska"
+  ],
+  "promises": [
+    "Article 1: perpetual peace, with the United States giving the Ho-Chunk \"promise of all proper care and parental protection\".",
+    "Article 3: the United States to buy and give the Ho-Chunk as their home a tract north of the St. Peter's and west of the Mississippi of not less than 800,000 acres, suitable to their habits, wants and wishes, provided it could be had on just and reasonable terms.",
+    "Article 4: $150,000 for the land and $40,000 for release of hunting privileges, including $20,000 for removal, $20,000 for subsistence the first year, $10,000 for breaking and fencing land, $10,000 for manual-labor schools and $5,000 for a saw and grist mill.",
+    "Article 4: $85,000 of the total kept in trust by the United States, with 5 percent interest paid yearly for thirty years.",
+    "In return the Ho-Chunk ceded all their land claims, especially the \"neutral ground\" in Iowa assigned to them by the 1832 treaty of Fort Armstrong."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "litigation",
+      "date": "1970-09-03",
+      "what": "Before the Indian Claims Commission the Ho-Chunk claimed compensation for the land (Royce Area 267) ceded by this treaty. The claim was settled, with their other land claims in Dockets 243 to 245, by a compromise for $4,600,000 that the Commission approved.",
+      "whoFoundIt": "Indian Claims Commission, Winnebago Tribe and Nation v. United States, Dockets 243-245, Findings of Fact on Compromise Settlement and Final Judgment (23 Ind. Cl. Comm. 467)",
+      "source": {
+        "title": "Winnebago Tribe and Nation v. United States, Dockets 243, 244 and 245, Findings of Fact on Compromise Settlement, September 3, 1970 (23 Ind. Cl. Comm. 467)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1872",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "compensation": "The treaty sums in Article 4 ($190,000 in all). In 1970 a compromise final judgment of $4,600,000 covered the Ho-Chunk claims in Dockets 243, 244 and 245, including this cession; members meeting at Winnebago, Nebraska voted 180 to 39 to accept and at Black River Falls, Wisconsin 80 to 27.",
+  "today": "The land the Ho-Chunk received north of the St. Peter's River was itself ceded by the treaty of February 27, 1855 (10 Stat. 1172, Royce Area 361), according to the Indian Claims Commission's 1959 findings. The Ho-Chunk Nation of Wisconsin and the Winnebago Tribe of Nebraska are the successors.",
+  "nationVoice": [
+    {
+      "nation": "Winnebago Tribe of Nebraska",
+      "summary": "The Tribe's history page says its people were moved from what is now northeast Iowa to Minnesota and then South Dakota before reaching Nebraska.",
+      "url": "https://winnebagotribe.com/tribal-history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Winnebago, 1846, Kappler vol. 2",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-winnebago-1846-0565",
+      "publisher": "Oklahoma State University, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Winnebago Tribe and Nation v. United States, Dockets 243-245, Findings of Fact, August 10, 1959 (8 Ind. Cl. Comm. 78)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/121",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Winnebago Tribe and Nation v. United States, Dockets 243, 244 and 245, Findings of Fact on Compromise Settlement, September 3, 1970 (23 Ind. Cl. Comm. 467)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1872",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Winnebago Tribe and Nation v. United States, Dockets 243, 244 and 245, Final Judgment, September 3, 1970",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2308",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Tribal History",
+      "url": "https://winnebagotribe.com/tribal-history/",
+      "publisher": "Winnebago Tribe of Nebraska"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json lists Royce cessions 267 and 361 for this entry; 361 was ceded by the treaty of February 27, 1855, not by this treaty (ICC Docket 243 findings).",
+    "No Commission or court finding was found on whether the Long Prairie land met the Article 3 test of being \"suitable to their habits, wants, and wishes\", or on whether the trust interest was paid for thirty years.",
+    "The compromise does not allocate the $4,600,000 among the separate cessions.",
+    "No Ho-Chunk Nation account of this treaty was opened."
+  ],
+  "plain": {
+    "promised": "The Ho-Chunk sold the Neutral Ground in Iowa. The United States promised them a home of at least 800,000 acres north of the St. Peter's River, $190,000, schools and a mill.",
+    "happened": "No court or Commission finding of a breach was found. The Ho-Chunk claimed before the Indian Claims Commission for the land they ceded, and the claim was settled by compromise.",
+    "today": "A 1970 compromise paid $4,600,000 for this and other Ho-Chunk land claims after tribal members voted to accept it."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

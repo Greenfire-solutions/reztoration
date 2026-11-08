@@ -1,0 +1,51 @@
+{
+  "id": "cession-1873-11-04-chippewa-of-the-mississippi",
+  "name": "Executive order of November 4, 1873 making an addition to the Leech Lake reservation",
+  "aka": [
+    "Royce area 550"
+  ],
+  "signed": "1873-11-04",
+  "citation": "Executive order of November 4, 1873",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/866/mode/2up",
+  "nations": [
+    "Pillager band of Chippewa (Ojibwe), now within the Leech Lake Band of Ojibwe"
+  ],
+  "promises": [
+    "An addition, not a cession: the President set apart an addition to the Leech Lake reservation established by the second clause of the second article of the treaty of February 22, 1855, from the mouth of the Little Boy River through its lakes to the south end of Leech Lake, including all the islands in it (Royce).",
+    "Royce records that the addition was taken from the land ceded by the first article of the treaty of March 19, 1867, and refers to the executive order of May 26, 1874."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The Leech Lake Band says the Nelson Act of 1889 opened the unallotted reservation land to timber companies, railroads and settlers.",
+  "nationVoice": [
+    {
+      "nation": "Leech Lake Band of Ojibwe",
+      "summary": "The Band's history says treaties set aside reservations that would forever be home of the Ojibwe, but the Nelson Act of 1889 opened the unallotted land to timber companies, railroads and settlers, and allotments were later lost through tax forfeiture, sales and fraud.",
+      "url": "https://www.llojibwe.org/aboutUs/history.html"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pages 866-867, executive order of November 4, 1873",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/866/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Leech Lake Band of Ojibwe, History",
+      "url": "https://www.llojibwe.org/aboutUs/history.html",
+      "publisher": "Leech Lake Band of Ojibwe"
+    }
+  ],
+  "openQuestions": [
+    "The order gave land to the bands, so no promise of its own was found to have been broken. The loss came with the Nelson Act agreements of 1889, which have their own queue entries; the Minnesota Chippewa Tribe's Nelson Act claims before the Indian Claims Commission were not reopened here.",
+    "treaties.json lists Mille Lacs and White Earth as present-day tribes; the additions were to the Leech Lake and Winnibigoshish reserves, now part of the Leech Lake Band of Ojibwe, which is not listed. Not edited.",
+    "The order was read only in Royce's summary, not in Kappler vol. 1."
+  ],
+  "plain": {
+    "promised": "An addition, not a cession. The President added land around the south end of Leech Lake, including its islands, to the Leech Lake reservation.",
+    "happened": "No breach of this order was found. The Leech Lake Band says the reservation was later opened to timber companies and settlers under the Nelson Act of 1889.",
+    "today": "Nothing was paid or returned under this order. The Nelson Act losses have their own records."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

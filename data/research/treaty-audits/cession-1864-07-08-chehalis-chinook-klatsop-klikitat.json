@@ -1,0 +1,23 @@
+{
+  "id": "cession-1864-07-08-chehalis-chinook-klatsop-klikitat",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "ICC Docket 237 interlocutory order, March 14, 1960 (pointer 330): Indian title acquired March 3, 1855 without consent and without payment; quote exact.",
+    "ICC Docket 237 compromise findings, October 7, 1963 (pointer 823): Lower Chehalis 517,700 and Upper Chehalis 320,500 acres, 838,200 in all, 90 cents an acre net, $754,380.00, vote 94 to 43. Correctly recorded as litigation.",
+    "ICC Docket 234 opinion and final award, November 4, 1970 (pointers 1399, 1470): Lower Band of Chinook and Clatsop title extinguished August 5 and 9, 1851; 76,639 acres; value $75,000.00; $26,307.95 paid, clearly unconscionable; final judgment $48,692.05.",
+    "ICC Docket 237 opinion of June 25, 1956 (pointer 352): Secretary approved 4,224.63 acres on July 8, 1864; 3,753.63 acres restored in 1886.",
+    "Chehalis Tribe, People of the Sands: 1855 council, three days, a treaty was never signed, executive order of July 1864, executive-order tribe; quote exact.",
+    "Plain fields match the file; no em dashes."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [
+    "The Shoalwater Bay executive order of September 22, 1866 was not found in the opened ICC texts; it rests on the researcher's reading.",
+    "Whether the Clatsop land valued in Docket 234 lies inside Royce 458 remains open, as the file says."
+  ],
+  "treatiesJsonErrors": [
+    "not a cession agreement: 1864-07-08 is the Secretary approving the Chehalis reserve; Royce says the land was taken without a treaty. Klatsop land lay south of the Columbia, outside Royce 458 as described."
+  ]
+}

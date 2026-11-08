@@ -1,12 +1,16 @@
 {
   "id": "kappler-172",
   "name": "Treaty with the Wyandot, 1818 (Treaty of St. Mary's)",
-  "aka": ["Wyandot treaty of September 20, 1818"],
+  "aka": [
+    "Wyandot treaty of September 20, 1818"
+  ],
   "signed": "1818-09-20",
   "proclaimed": "1819-01-07",
   "citation": "7 Stat. 180",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-wyandot-1818-0164",
-  "nations": ["Wyandot (Wendat) of Brownstown and Maguagua, Michigan, today the Wyandotte Nation"],
+  "nations": [
+    "Wyandot (Wendat) of Brownstown and Maguagua, Michigan, today the Wyandotte Nation"
+  ],
   "promises": [
     "The Wyandot gave up their rights in the Brownstown and Maguagua tracts in Michigan, reserved to them for fifty years by the Act of February 28, 1809 (Article 1).",
     "In exchange the United States would reserve 4,996 acres south of the Huron River for the Wyandot and their descendants, to hold so long as they occupied it, on the terms the 1809 Act gave the Alabama Indians (Article 2)."
@@ -16,11 +20,34 @@
   "landTaken": "The Brownstown and Maguagua leasehold reservations, Royce Areas 95 and 96, about 5,000 acres together (Article 1; Docket 212, 1976).",
   "compensation": "The Huron River reserve, Royce Area 260, given in exchange (Article 2).",
   "today": "The Indian Claims Commission held in 1976 that the value of the Wyandot leasehold in Areas 95 and 96 was no more than the value of Area 260 on the same date, agreeing with the government's expert that the 1818 exchange gave the Wyandot full compensation; this is evidence against a breach. Area 260 was ceded by the treaty of March 17, 1842, which the Commission valued separately at $21,000 (Dockets 212 and 213).",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Wyandotte Nation",
+      "summary": "The Nation's history says the Wyandot, long tied to the French at Detroit, settled Upper Sandusky in Ohio, and that pressure from settlers forced the treaty it dates to 1843 and removal west of the Mississippi, leaving the Wyandot the last tribe to leave Ohio, in July 1843.",
+      "url": "https://wyandotte-nation.org/culture/our-history/"
+    }
+  ],
   "sources": [
-    { "title": "Treaty with the Wyandot, 1818 (Kappler, vol. 2, p. 164)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-wyandot-1818-0164", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
-    { "title": "Zane et al. on behalf of the Wyandotte Tribe v. United States, Dockets 212 and 213, Opinion of the Commission (August 5, 1976)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2247", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Zane et al. v. United States, Dockets 212 and 213, Interlocutory Order (August 5, 1976)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1385", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+    {
+      "title": "Treaty with the Wyandot, 1818 (Kappler, vol. 2, p. 164)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-wyandot-1818-0164",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Zane et al. on behalf of the Wyandotte Tribe v. United States, Dockets 212 and 213, Opinion of the Commission (August 5, 1976)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2247",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Zane et al. v. United States, Dockets 212 and 213, Interlocutory Order (August 5, 1976)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1385",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Our History",
+      "url": "https://wyandotte-nation.org/culture/our-history/",
+      "publisher": "Wyandotte Nation"
+    }
   ],
   "openQuestions": [
     "treaties.json links Royce Area 260 to this entry; it was granted by this treaty but ceded by the 1842 treaty. The statute link in treaties.json points to the 10th Congress, which matches the 1809 Act the treaty cites rather than the treaty itself. Not edited.",

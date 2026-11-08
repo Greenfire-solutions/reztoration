@@ -1,0 +1,17 @@
+{
+  "id": "kappler-542",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Kappler header (OSU Tribal Treaties Database) matches signing, proclamation and Statutes at Large citation: Mar. 17, 1842, 11 Stat. 581, proclaimed Oct. 5, 1842.",
+    "Articles 1 to 5 checked; 109,144 and 4,996 acres in Article 1.",
+    "Treaty of April 1, 1850 (OSU, 9 Stat. 987, ratified Sept. 24, proclaimed Sept. 30, 1850): preamble quote exact; $185,000 at $1.25 an acre, $100,000 invested and $85,000 paid. Kind government-admission is right.",
+    "ICC 1976 order (OSU id 1385): Royce 259 $510,430 and Royce 260 $21,000."
+  ],
+  "changes": [
+    "today and plain.today updated with Public Law 98-602 (judgment in Dockets 212 and 213 distributed 1984); source added."
+  ],
+  "unverifiable": [
+    "Claims Court judgment terms not found (see kappler-468)."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "kappler-312",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Kappler header (OSU Tribal Treaties Database) matches signing, proclamation and Statutes at Large citation: Sept. 24, 1829, 7 Stat. 327, proclaimed Mar. 24, 1831.",
+    "ICC Docket 337 additional findings of August 5, 1963 (OSU id 677): 1,884,160 acres, 924,160 residence and 960,000 outlet; Senate ratification April 29, 1830 stated.",
+    "treaties.json error (Shawnee as party) confirmed from the treaty text."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Royce 1843 Wyandot purchase of 39 sections not re-read."
+  ]
+}

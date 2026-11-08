@@ -21,7 +21,13 @@
   "breaches": [],
   "compensation": "$2,000 under the elucidation. No Indian Claims Commission finding specific to this instrument was found.",
   "today": "The Eastern Band of Cherokee Indians' claims under the Cherokee treaties of 1785 to 1835, Dockets 282-A through 282-L, were settled by compromise for $1,855,254.50 on September 11, 1972; whether this instrument or the January 7, 1806 cession was among them was not established, and a compromise is not a finding of breach.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Cherokee Nation",
+      "summary": "The Nation's history says successive treaties with the British Crown and then the United States cut down the Cherokee Nation's original territory, and that further cessions confirmed in an 1819 treaty left most of the remaining Cherokee land in Georgia.",
+      "url": "https://www.cherokee.gov/about-the-nation/history/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Cherokees, 1807: Elucidation of a convention with the Cherokee Nation, 7 Stat. 103-104",
@@ -37,6 +43,11 @@
       "title": "Eastern Band of Cherokee Indians v. United States, Dockets 282-A to 282-L, Findings of Fact on Compromise Settlement (September 11, 1972)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2321",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History",
+      "url": "https://www.cherokee.gov/about-the-nation/history/",
+      "publisher": "Cherokee Nation"
     }
   ],
   "openQuestions": [

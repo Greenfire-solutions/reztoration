@@ -33,7 +33,13 @@
   "landTaken": "Royce Area 78, 783,150.47 acres (stipulated by the parties, Commission order of 1978). The Potawatomi did not claim further compensation for Royce Area 77.",
   "compensation": "$12,000 credited as consideration; final award of $888,623.04 in 1978.",
   "today": "The value was fixed by a 1975 stipulation tying Area 78 to the per-acre value the Commission later found for Royce Area 98 in Dockets 15-D et al.; the stipulation concerned how value would be measured, not a compromise of the claim. The Commission's 1973 title decision is 32 Ind. Cl. Comm. 400.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Pokagon Band of Potawatomi",
+      "summary": "The Band's history says the Potawatomi lived in what is now Wisconsin, southern Michigan, northern Indiana and northern Illinois, that as the frontier moved west boundary arguments and land cessions became a way of life, and that the 1833 Treaty of Chicago then set the terms for removing the Potawatomi from the Great Lakes.",
+      "url": "https://www.pokagonband-nsn.gov/our-culture/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Ottawa, etc., 1816 (Kappler)",
@@ -54,6 +60,11 @@
       "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 216 et al., Opinion of the Commission on title (1973)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2110",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Our Culture",
+      "url": "https://www.pokagonband-nsn.gov/our-culture/",
+      "publisher": "Pokagon Band of Potawatomi"
     }
   ],
   "openQuestions": [

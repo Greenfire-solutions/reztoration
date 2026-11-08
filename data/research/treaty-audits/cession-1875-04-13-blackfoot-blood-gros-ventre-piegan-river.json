@@ -1,0 +1,17 @@
+{
+  "id": "cession-1875-04-13-blackfoot-blood-gros-ventre-piegan-river",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce full text: the President makes an addition bounded by the Musselshell, the forty-second [forty-seventh] parallel, the Yellowstone, Fort Buford and the Missouri; the country belonged partly to the Crow (ceded May 7, 1868) and partly to the Assiniboine, whose unratified 1866 cession the government admitted by assigning them a home on the Blackfoot reservation; part relinquished July 13, 1880.",
+    "Blackfeet Nation Wayback page re-checked (see the 1873 audit).",
+    "no-breach-found is right: the order added land."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "same Royce areas (622, 623) as cession-1880-07-13; an addition, not a cession."
+  ]
+}

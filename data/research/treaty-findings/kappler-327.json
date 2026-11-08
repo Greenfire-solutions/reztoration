@@ -23,7 +23,13 @@
   "landTaken": "Royce areas 158 to 162 in Wisconsin, including the cession southeast of Lake Winnebago and the tract for the New York Indians, whose boundaries Royce shows as modified by the treaty of October 27, 1832. No acreage for the cession was found in a source opened.",
   "compensation": "$20,000 for the New York Indians' tract, and the houses, goods, services and $6,000 annuity of Article Fourth.",
   "today": "Royce records that the Senate ratified this treaty only with provisos that set aside two townships on the east side of Lake Winnebago for the Stockbridge and Munsee and one for the Brothertown, and ran a new line for the New York Indians' tract. The Menominee's later reservation came from later treaties, not this one.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Menominee Indian Tribe of Wisconsin",
+      "summary": "The Tribe's history in its 2023 Strategic Plan says the Stambaugh treaty, negotiated in 1831 and 1832 to settle land disputes with the New York tribes, saw the Menominee reluctantly cede 2.5 million acres, 500,000 of them given to those tribes, and that the earlier 1821 and 1822 sales to the New York Indians were signed by unauthorized chiefs and never ratified.",
+      "url": "https://menominee-nsn.gov/GovernmentPages/Initiatives/NewPlan/4-B%20Men%20History%20FINAL.pdf"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Menominee, 1831 (Kappler vol. 2, p. 319), 7 Stat. 342",
@@ -34,6 +40,11 @@
       "title": "Royce, Indian Land Cessions in the United States (1899), schedule pp. 728-731, areas 158-162",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/728/mode/2up",
       "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Menominee History (MITW 2023 Strategic Plan, Section B)",
+      "url": "https://menominee-nsn.gov/GovernmentPages/Initiatives/NewPlan/4-B%20Men%20History%20FINAL.pdf",
+      "publisher": "Menominee Indian Tribe of Wisconsin"
     }
   ],
   "openQuestions": [

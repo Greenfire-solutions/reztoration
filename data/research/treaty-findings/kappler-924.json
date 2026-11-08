@@ -1,0 +1,87 @@
+{
+  "id": "kappler-924",
+  "name": "Treaty with the Chippewa-Bois Fort Band, 1866",
+  "aka": [
+    "Bois Forte treaty of April 7, 1866",
+    "Royce cession 482"
+  ],
+  "signed": "1866-04-07",
+  "ratified": "1866-04-26",
+  "proclaimed": "1866-05-05",
+  "citation": "14 Stat. 765",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-bois-fort-band-1866-0916",
+  "nations": [
+    "Bois Forte Band of Chippewa"
+  ],
+  "promises": [
+    "Article 3: a reservation of not less than 100,000 acres \"for the perpetual use and occupancy\" of the band, to include Nett Lake if practicable, and a township at the mouth of Deer Creek on the Grand Fork River.",
+    "Article 3: a blacksmith shop, a schoolhouse, eight houses for chiefs and an agency house and storehouse built at no cost to the band.",
+    "Article 3: $14,100 a year for twenty years for a blacksmith, a teacher, farming instruction, cash per capita payments, provisions and goods.",
+    "Article 4: a sum to the chiefs, headmen and warriors to help settle the band on its new reservation (reduced from $50,000 to $30,000 by an amendment the band agreed to on April 28, 1866, per the Indian Claims Commission).",
+    "In return the band ceded all its lands, including its reservation at Lake Vermilion."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1974-06-13",
+      "what": "The Indian Claims Commission found that the Bois Forte Band held recognized title to the land ceded by this treaty (Royce Area 482), that the land was worth $1,100,000, and that the promised treaty consideration was so grossly inadequate as to be unconscionable.",
+      "whoFoundIt": "Indian Claims Commission, Bois Forte Band v. United States, Docket 18-D, 34 Ind. Cl. Comm. 157 (1974), as restated in the opinion of January 28, 1977 (39 Ind. Cl. Comm. 300)",
+      "source": {
+        "title": "Bois Forte Band v. United States, Docket 18-D, Opinion of the Commission, January 28, 1977 (39 Ind. Cl. Comm. 300)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1190",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      },
+      "quote": "so grossly inadequate as to render the consideration unconscionable"
+    }
+  ],
+  "landTaken": "Royce Area 482, which the Commission valued at $1,100,000.",
+  "compensation": "The Commission first recorded the promised consideration as $338,200 and in 1977 corrected it to $318,200, because the Article 4 sum had been reduced to $30,000. It deducted $76,191.35 as a payment on the claim, allowed no gratuitous offsets, and made a final award of $1,023,808.65 to the Bois Forte Band on January 28, 1977.",
+  "today": "The Bois Forte Band holds its reservation at Nett Lake and Deer Creek, set apart under this treaty, and Lake Vermilion lands defined by an 1881 executive order, according to the Band.",
+  "nationVoice": [
+    {
+      "nation": "Bois Forte Band of Chippewa",
+      "summary": "The Band's history says its sections at Nett Lake and at Deer Creek in Itasca County were officially established by the 1866 treaty, Nett Lake being the largest.",
+      "url": "https://boisforte.com/about/history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Chippewa-Bois Fort Band, 1866, Kappler vol. 2",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-bois-fort-band-1866-0916",
+      "publisher": "Oklahoma State University, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Bois Forte Band v. United States, Docket 18-D, Opinion of the Commission, June 13, 1974 (34 Ind. Cl. Comm. 157)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2087",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Bois Forte Band v. United States, Docket 18-D, Opinion of the Commission, January 28, 1977",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1190",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Bois Forte Band v. United States, Docket 18-D, Final Award, January 28, 1977",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1154",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "A Brief Summary of Bois Forte History",
+      "url": "https://boisforte.com/about/history/",
+      "publisher": "Bois Forte Band of Chippewa"
+    }
+  ],
+  "openQuestions": [
+    "The 1974 finding is cited through the 1977 opinion, which restates it; the 1974 opinion (id 2087) was opened but its OCR text was not read in full for the exact wording.",
+    "Whether the reservation actually set apart met the Article 3 minimum of 100,000 acres is not settled: secondary sources give 55,211 acres and about 100,000 acres. Not recorded.",
+    "Allotment and the loss of Nett Lake timber land under the Nelson Act of 1889 and later laws were not researched."
+  ],
+  "plain": {
+    "promised": "The Bois Forte Band gave up its lands, including Lake Vermilion, for a reservation of at least 100,000 acres at Nett Lake and Deer Creek, buildings, and yearly payments for twenty years.",
+    "happened": "The Indian Claims Commission found in 1974 that the land was worth $1,100,000 and that the promised payment was so grossly inadequate as to be unconscionable.",
+    "today": "In 1977 the Commission made a final award of $1,023,808.65 to the Bois Forte Band."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

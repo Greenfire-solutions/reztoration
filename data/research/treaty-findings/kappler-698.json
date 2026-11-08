@@ -1,13 +1,18 @@
 {
   "id": "kappler-698",
   "name": "Treaty with the Winnebago, 1855",
-  "aka": ["Winnebago treaty of February 27, 1855", "Blue Earth treaty"],
+  "aka": [
+    "Winnebago treaty of February 27, 1855",
+    "Blue Earth treaty"
+  ],
   "signed": "1855-02-27",
   "ratified": "1855-03-03",
   "proclaimed": "1855-03-23",
   "citation": "10 Stat. 1172",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-winnebago-1855-0690",
-  "nations": ["Ho-Chunk (Winnebago)"],
+  "nations": [
+    "Ho-Chunk (Winnebago)"
+  ],
   "promises": [
     "Article 2: $70,000 and, as a permanent home, a tract equal to eighteen miles square on the Blue Earth River in Minnesota Territory, 'the permanent home of the said Indians'.",
     "Article 3: the money to be spent on removing the tribe, subsistence for a reasonable time, breaking and fencing land, houses, stock and tools.",
@@ -19,7 +24,7 @@
     {
       "kind": "act-of-congress",
       "date": "1863-02-21",
-      "what": "After the Dakota war of 1862, Congress authorised the President to remove the Ho-Chunk from Minnesota to land outside any state and ordered their remaining reservation on the Blue Earth appraised, opened to preemption and settlement and sold. The Act makes no provision for Ho-Chunk consent.",
+      "what": "Congress authorised the President to remove the Ho-Chunk from Minnesota to land outside any state and ordered their remaining reservation on the Blue Earth appraised, opened to preemption and settlement and sold. The Act makes no provision for Ho-Chunk consent.",
       "whoFoundIt": "Act for the Removal of the Winnebago Indians, and for the Sale of their Reservation in Minnesota for their Benefit, February 21, 1863, ch. 53, 12 Stat. 658",
       "source": {
         "title": "Act of February 21, 1863, ch. 53, 12 Stat. 658",
@@ -44,7 +49,7 @@
   "today": "The Ho-Chunk were removed from Minnesota after 1863. The Winnebago Tribe of Nebraska says its people were moved from Minnesota to the treeless plains of South Dakota, and that many travelled down the Missouri River at night to rejoin relatives in Nebraska, where treaties of 1865 and 1874 set up its reservation.",
   "plain": {
     "promised": "$70,000 and a permanent home on the Blue Earth River in Minnesota, with family farms there protected from taxation, sale or forfeiture.",
-    "happened": "After the Dakota war of 1862, Congress in 1863 ordered the Ho-Chunk removed from Minnesota and their Blue Earth reservation sold, with no provision for their consent.",
+    "happened": "In 1863 Congress ordered the Ho-Chunk removed from Minnesota and their Blue Earth reservation sold, with no provision for their consent.",
     "today": "The Ho-Chunk's land claims, including this treaty's cession and the land sold in 1863, were settled in 1970 for a net $4,600,000 in all. The Winnebago Tribe of Nebraska tells of removal to South Dakota and the journey to Nebraska."
   },
   "nationVoice": [
@@ -85,7 +90,8 @@
     "The Act of February 21, 1863 is also the breach recorded for the cession entry cession-1863-02-21-winnebago. It is recorded here too because it overrode this treaty's own promise of a permanent home on the Blue Earth; the map should not count the same Act twice in a total of breaches.",
     "The treaty of April 15, 1859 (kappler-798) had already reduced the Blue Earth reservation with Ho-Chunk consent; the 1863 Act sold what was left, which it calls the 'diminished reservation'.",
     "No Indian Claims Commission finding on the value of Royce Area 361 was made before the 1970 compromise.",
-    "No account by the Ho-Chunk Nation of Wisconsin about this treaty was found in this pass."
+    "No account by the Ho-Chunk Nation of Wisconsin about this treaty was found in this pass.",
+    "Audit 2026-11-08 (round 8): removed 'After the Dakota war of 1862' from the breach and plain.happened: the Act (12 Stat. 658, opened) does not mention it and no source in this file does. The Act's terms (removal, appraisal, preemption, sale of the 'diminished reservation', no consent clause) and the $4,600,000 compromise listing Royce Areas 361 and 439 (OSU id 1872) are confirmed."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

@@ -1,12 +1,17 @@
 {
   "id": "kappler-312",
   "name": "Treaty with the Delawares, 1829 (Supplementary article to the treaty of St. Mary's, 1818)",
-  "aka": ["Council Camp on James Fork treaty", "Delaware supplementary article of September 24, 1829"],
+  "aka": [
+    "Council Camp on James Fork treaty",
+    "Delaware supplementary article of September 24, 1829"
+  ],
   "signed": "1829-09-24",
   "proclaimed": "1831-03-24",
   "citation": "7 Stat. 327",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-delawares-1829-0304",
-  "nations": ["Lenape (Delaware)"],
+  "nations": [
+    "Lenape (Delaware)"
+  ],
   "promises": [
     "The country in the fork of the Kansas and Missouri rivers, with a ten-mile-wide outlet to the west, to be conveyed and forever secured to the Delaware Nation as its permanent residence.",
     "The United States pledged its faith to guarantee the Delaware forever the quiet and peaceable possession and undisturbed enjoyment of that country.",
@@ -17,7 +22,13 @@
   "status": "no-breach-found",
   "breaches": [],
   "today": "The Delaware gave up their Missouri lands (Royce Areas 125, shared with the Shawnee, and 150a) and moved to the Kansas reserve, which the Indian Claims Commission found contained 1,884,160 acres: 924,160 acres of residence land and 960,000 acres of outlet. The Delaware ceded the outlet and most of the reserve by the treaty of May 6, 1854; the Commission's dockets 27-A and 337 dealt with that cession and with the 1818 treaty, using this treaty's grant as part of the 1818 consideration. Royce records that in 1843 the Delaware sold 39 sections of the Kansas reserve to the Wyandot.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Delaware Tribe of Indians (Lenape)",
+      "summary": "The Tribe says that after signing the first treaty with the new United States in 1778 its ancestors had to keep giving up their lands and moving west, to Ohio, then Indiana, Missouri and Kansas and at last Indian Territory, and that its people understood many early land sales as something closer to leases.",
+      "url": "https://delawaretribe.org/about-us/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Delawares, 1829 (Kappler, vol. 2, p. 304)",
@@ -38,6 +49,11 @@
       "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule pp. 724-725",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/724/mode/2up",
       "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "About Us",
+      "url": "https://delawaretribe.org/about-us/",
+      "publisher": "Delaware Tribe of Indians"
     }
   ],
   "openQuestions": [

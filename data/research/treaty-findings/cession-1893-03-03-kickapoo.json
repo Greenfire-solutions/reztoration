@@ -1,0 +1,73 @@
+{
+  "id": "cession-1893-03-03-kickapoo",
+  "name": "Kickapoo agreement of September 9, 1891, ratified by the Act of March 3, 1893 (cession of the Kickapoo Reservation in Oklahoma Territory)",
+  "aka": [
+    "Act of March 3, 1893, ch. 203",
+    "Royce area 650"
+  ],
+  "signed": "1891-09-09",
+  "ratified": "1893-03-03",
+  "citation": "Act of March 3, 1893, ch. 203, 27 Stat. 557",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg557.pdf",
+  "nations": [
+    "Kickapoo Tribe of Oklahoma"
+  ],
+  "promises": [
+    "Article I: the Kickapoo ceded absolutely all their claim, title and interest in the reservation between the Sac and Fox reservation, the Deep Fork of the Canadian, the Indian Meridian and the North Fork of the Canadian.",
+    "Article II: in consideration of the cession, every member, native and adopted, was to be allotted 80 acres of land within the tract.",
+    "The Indian Claims Commission records that the consideration for the cession under the agreement was $64,650 in cash."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "litigation",
+      "date": "1969-06-11",
+      "what": "The Kickapoo Tribe of Oklahoma claimed before the Indian Claims Commission that the total paid for about 184,300 ceded acres was unconscionable compared with the land's value at the time of cession. The claim was compromised and the Commission entered final judgment for $273,250 on the parties' stipulation, without deciding the value.",
+      "whoFoundIt": "Indian Claims Commission, Kickapoo Tribe of Oklahoma v. United States, Docket 318, Findings of Fact and Final Judgment of June 11, 1969 (21 Ind. Cl. Comm. 39)",
+      "source": {
+        "title": "Kickapoo Tribe of Oklahoma v. United States, Docket 318, Final Judgment (June 11, 1969)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1926",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "About 184,300 acres ceded out of a reservation of 206,466 acres; the balance went mainly to allotments to individual Kickapoo (Docket 318, Finding 2).",
+  "compensation": "$64,650 in cash under the agreement. The Commission records that in 1908, on the Kickapoo's petition, Congress appropriated $215,000 as additional consideration, for a total of $279,650, about $1.50 an acre. The 1969 compromise added $273,250, approved by the tribe's General Council on August 3, 1968 by 38 votes to 7.",
+  "today": "The claim closed with the 1969 compromise judgment. Whether the $273,250 was distributed was not traced.",
+  "plain": {
+    "promised": "The Kickapoo gave up their reservation in Oklahoma Territory; in return every member, native or adopted, was to receive an 80-acre allotment. The agreement paid $64,650 in cash.",
+    "happened": "The Kickapoo Tribe of Oklahoma claimed the price for about 184,300 acres was unconscionable. Congress had added $215,000 in 1908. The claim was settled without a finding on the land's value.",
+    "today": "The Indian Claims Commission entered a compromise judgment of $273,250 in 1969, which the tribe's General Council approved. Whether it was paid out was not traced."
+  },
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Act of March 3, 1893, ch. 203, 27 Stat. 557 (ratifying the Kickapoo agreement of September 9, 1891)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg557.pdf",
+      "publisher": "US Government Publishing Office"
+    },
+    {
+      "title": "Kickapoo Tribe of Oklahoma v. United States, Docket 318, Findings of Fact (June 11, 1969), 21 Ind. Cl. Comm. 39",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1010",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Kickapoo Tribe of Oklahoma v. United States, Docket 318, Final Judgment (June 11, 1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1926",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule for 1893, area 650",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/946/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "Only the first page of the Act (27 Stat. 557) was read: Articles I and II. The remaining articles and the payment clause were not opened; the $64,650 figure is the Commission's.",
+    "treaties.json links this Act to an executive-order file (ops.libs.uga.edu, 650r.pdf) that belongs to the 1883 reservation order and did not load. Not edited.",
+    "Accounts that the 1891 agreement was obtained by fraud or that signatures were not genuine were not checked against a primary source in this pass.",
+    "No Kickapoo Tribe of Oklahoma account of the 1891 agreement was found."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

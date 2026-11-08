@@ -22,7 +22,13 @@
   "landTaken": "The four reserves made for the bands by the treaty of Detroit (1807) on Lake St. Clair and the St. Clair river (Royce areas 214 to 217, Michigan), which Article 1 estimated at 8,320 acres. Royce notes that the reserves as surveyed in 1810 measured 5,760 acres at Swan creek, 262.7 acres at the river Au Vaseau and 1,200 acres at Black river, with a fourth tract on Lake St. Clair above Salt creek whose acreage the scanned text does not show clearly.",
   "compensation": "Payment was the net proceeds of the land sales (Article 2) and the 8,320 acres in the west (Article 4). How much the sales brought was not found.",
   "today": "Royce links this treaty to areas 417 and 418 in Kansas, the land located for the bands in the west; by the treaty of July 16, 1859 the Swan Creek and Black River Chippewa and the Munsee (Christian Indians) united as one band, kept up to seven sections of that tract and had the rest sold in trust. The Saginaw Chippewa Indian Tribe of Michigan includes descendants of the Swan Creek and Black River bands (Indian Claims Commission, Docket 13-H, 1953).",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Saginaw Chippewa Indian Tribe of Michigan (Ziibiwing Center of Anishinabe Culture & Lifeways)",
+      "summary": "The Tribe, made up of the Saginaw, Black River and Swan Creek bands, says sixteen treaties made between 1795 and 1864 ceded almost all of its land, that settlers came to claim all but a few acres of its ancestors' homes, and that its last treaties, of 1855 and 1864, set up the Isabella Reservation.",
+      "url": "http://www.scit-nsn.gov/ziibiwing/aboutus/history.htm"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Chippewa, 1836 (Kappler, vol. 2, p. 461)",
@@ -43,6 +49,11 @@
       "title": "Saginaw Chippewa Indian Tribe of Michigan v. United States, Docket 13-H, Opinion of the Commission (May 14, 1953)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/524",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History (Ziibiwing Center)",
+      "url": "http://www.scit-nsn.gov/ziibiwing/aboutus/history.htm",
+      "publisher": "Saginaw Chippewa Indian Tribe of Michigan"
     }
   ],
   "openQuestions": [

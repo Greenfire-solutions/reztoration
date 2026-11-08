@@ -1,0 +1,52 @@
+{
+  "id": "kappler-775",
+  "name": "Treaty with the Seneca, Tonawanda Band, 1857",
+  "aka": [
+    "Tonawanda treaty of November 5, 1857",
+    "Royce cession 40"
+  ],
+  "signed": "1857-11-05",
+  "ratified": "1858-06-04",
+  "proclaimed": "1859-03-31",
+  "citation": "11 Stat. 735; 12 Stat. 991",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-tonawanda-band-1857-0767",
+  "nations": [
+    "Tonawanda Band of Seneca (Tonawanda Seneca Nation)"
+  ],
+  "promises": [
+    "Article 2: $256,000 to be paid and invested for the Tonawanda band, in return for its giving up all claims to lands west of Missouri and to removal and support under the treaties of 1838 and 1842.",
+    "Article 3: the band could buy back from Ogden and Fellows all or part of the Tonawanda reservation, the United States paying for it out of the $256,000 at no more than an average of $20 an acre.",
+    "Article 3: land bought back to be deeded to the Secretary of the Interior in trust for the band's \"exclusive use, occupation, and enjoyment\" until New York named a trustee.",
+    "The preamble records that the 1838 and 1842 treaties had remained unexecuted as to the Tonawanda reservation and its 650 people."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "The $256,000 in Article 2, from which the band's purchase of its own reservation was paid. No Indian Claims Commission award on this treaty was found; the Seneca and Tonawanda claims in Dockets 342 and 368 opened here concern other lands (the Niagara River strip and islands).",
+  "today": "The Tonawanda Band of Seneca holds the Tonawanda reservation in western New York bought back under this treaty.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Seneca, Tonawanda Band, 1857, Kappler vol. 2",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-tonawanda-band-1857-0767",
+      "publisher": "Oklahoma State University, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Seneca Nation of Indians and Tonawanda Band of Seneca Indians v. United States, Dockets 342-B, C, D and 368, Opinion of the Commission, December 30, 1968 (20 Ind. Cl. Comm. 177)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2728",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "How many acres the band bought back and at what price was not found in a source opened.",
+    "Whether the Tonawanda share of the Kansas lands claim under the 1838 treaty (the New York Indians claim, ICC Docket 75 and earlier Court of Claims cases) was affected by the release in Article 1 was not researched.",
+    "treaties.json lists Royce cession 40 for this entry; how Royce maps the 1857 repurchase was not checked on the map.",
+    "No Tonawanda Seneca Nation account of this treaty was found online."
+  ],
+  "plain": {
+    "promised": "The Tonawanda Seneca gave up their claim to land in Kansas for $256,000, from which the United States would pay for them to buy back their own reservation from land speculators.",
+    "happened": "No breach of this treaty has been documented yet in the sources opened.",
+    "today": "The Tonawanda Band of Seneca holds the reservation it bought back under this treaty."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "kappler-270",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Kappler header (OSU Tribal Treaties Database) matches signing, proclamation and Statutes at Large citation: Nov. 7, 1825, 7 Stat. 284, proclaimed Dec. 30, 1825.",
+    "United States v. Blackfeather, 155 U.S. 180 (1894), govinfo PDF read: finding II at p. 182, quote exact; p. 187: no error assigned to the $1,152.78, interest claim not considered as no appeal taken, $17,408.73 blacksmith set-off too indefinite; decided November 19, 1894."
+  ],
+  "changes": [
+    "compensation: the refusal of interest was the Court of Claims'; the Supreme Court only declined to consider it. Reworded."
+  ],
+  "unverifiable": [
+    "28 Ct. Cl. 447 not opened."
+  ]
+}

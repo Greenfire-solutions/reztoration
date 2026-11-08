@@ -41,12 +41,34 @@
         "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2207",
         "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
       }
+    },
+    {
+      "kind": "nation-statement",
+      "what": "The Prairie Band Potawatomi Nation states that the two sections this treaty reserved for Chief Shab-eh-nay at Paw Paw Grove, which the Senate kept out of the 1833 Treaty of Chicago cession, were sold by the General Land Office at public auction in 1849 without the approval of Congress, in violation of federal law, and that no later treaty or Act of Congress ever disestablished the reservation.",
+      "date": "1849",
+      "whoFoundIt": "Prairie Band Potawatomi Nation, Chairman Joseph Rupnick, testimony to the House Subcommittee on Indigenous Peoples of the United States on H.R. 8380 (2022)",
+      "source": {
+        "title": "Testimony of Chairman Joseph Rupnick, Prairie Band Potawatomi Nation, on H.R. 8380, the Shab-eh-nay Band Reservation Settlement Act of 2022",
+        "url": "https://docs.house.gov/meetings/II/II24/20220914/115095/HHRG-117-II24-Wstate-RupnickJ-20220914.pdf",
+        "publisher": "Prairie Band Potawatomi Nation (House Subcommittee on Indigenous Peoples of the United States)"
+      }
     }
   ],
   "landTaken": "3,528,949 acres in Royce Area 147 and the part of Royce Area 148 west of the Fox River (1962 findings). The 1973 opinion gives Area 147 as 1,525,746 acres and Area 148 as 2,162,523 acres.",
   "compensation": "Consideration $364,901.00. A 1965 final award of $2,094,573.02 was vacated after the Court of Claims ruling; the final award of 25 April 1973 was $4,104,818.98.",
   "today": "In 1967 the Court of Claims held that the Commission had wrongly left the lead deposits in Area 147 out of the valuation and sent the case back (Citizen Band of Potawatomi Indians v. United States, 179 Ct. Cl. 473, 391 F.2d 614, cert. denied 1968, as recited in the Commission's 1973 opinion). The Commission held the claim arose under clause 3 of its Act (unconscionable consideration), so the award bore no interest.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Prairie Band Potawatomi Nation",
+      "summary": "Chairman Joseph Rupnick told a House subcommittee in 2022 that Article III of this treaty reserved two sections at Paw Paw Grove for Chief Shab-eh-nay, that the 1833 Treaty of Chicago left that land in Potawatomi hands, and that the General Land Office sold it at auction in 1849, without Congress, while Shab-eh-nay was visiting relatives in Kansas.",
+      "url": "https://docs.house.gov/meetings/II/II24/20220914/115095/HHRG-117-II24-Wstate-RupnickJ-20220914.pdf"
+    },
+    {
+      "nation": "Pokagon Band of Potawatomi",
+      "summary": "The Band's history says the Potawatomi lived in what is now Wisconsin, southern Michigan, northern Indiana and northern Illinois, that as the frontier moved west boundary arguments and land cessions became a way of life, and that the 1833 Treaty of Chicago then set the terms for removing the Potawatomi from the Great Lakes.",
+      "url": "https://www.pokagonband-nsn.gov/our-culture/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Chippewa, etc., 1829 (Kappler)",
@@ -77,6 +99,16 @@
       "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 217 et al., Final Award (1973)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2207",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Testimony of Chairman Joseph Rupnick, Prairie Band Potawatomi Nation, on H.R. 8380, the Shab-eh-nay Band Reservation Settlement Act of 2022",
+      "url": "https://docs.house.gov/meetings/II/II24/20220914/115095/HHRG-117-II24-Wstate-RupnickJ-20220914.pdf",
+      "publisher": "Prairie Band Potawatomi Nation (House Subcommittee on Indigenous Peoples of the United States)"
+    },
+    {
+      "title": "Our Culture",
+      "url": "https://www.pokagonband-nsn.gov/our-culture/",
+      "publisher": "Pokagon Band of Potawatomi"
     }
   ],
   "openQuestions": [

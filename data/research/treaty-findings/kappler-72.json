@@ -30,7 +30,23 @@
   "landTaken": "Royce Area 26 (the Vincennes tract, Indiana and Illinois) and Royce Area 47 (the salt spring tract on Saline Creek, Illinois).",
   "compensation": "The salt annuity of Article 3. In a 1978 valuation case the Indian Claims Commission counted the Kickapoo share of this salt annuity, which the Kickapoo released in a later treaty, as part of the consideration for that later cession (Dockets 15-D et al., 42 Ind. Cl. Comm. 379).",
   "today": "In 1973 the Indian Claims Commission found that no tribe held aboriginal title to Royce Area 26 at the 1795 Greeneville Treaty, and that the boundaries fixed by this treaty were the tribes' acknowledgment of the Vincennes reservation; the related claims in Dockets 13-G, 18-M and 40-F were dismissed (31 Ind. Cl. Comm. 89). That is a ruling against the claimants, not a breach. No claim for Royce Area 47 was found.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Delaware Tribe of Indians (Lenape)",
+      "summary": "The Tribe says that after signing the first treaty with the new United States in 1778 its ancestors had to keep giving up their lands and moving west, to Ohio, then Indiana, Missouri and Kansas and at last Indian Territory, and that its people understood many early land sales as something closer to leases.",
+      "url": "https://delawaretribe.org/about-us/"
+    },
+    {
+      "nation": "Miami Tribe of Oklahoma (Myaamia)",
+      "summary": "The Tribe says its homelands lie in what are now Indiana, Ohio, Illinois, lower Michigan and lower Wisconsin, that the treaty period was devastating, beginning with the massive cession required at Greenville in 1795, and that settlers kept pressing the Myaamiaki to give up their lands until removal at gunpoint in 1846.",
+      "url": "https://www.miamination.com/about-us/"
+    },
+    {
+      "nation": "Peoria Tribe of Indians of Oklahoma",
+      "summary": "The Tribe's history says the Peoria, Kaskaskia, Piankeshaw and Wea, united as the Confederated Peoria in 1854, were forced from ancestral lands in Illinois, Indiana, Michigan, Ohio, Iowa and Missouri, moved to Missouri, then Kansas, then northeastern Oklahoma, and by 1915 held no tribal land at all.",
+      "url": "https://web.archive.org/web/20260531224612/https://peoriatribe.com/welcome/history/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Delawares, etc., 1803 (Kappler)",
@@ -51,6 +67,21 @@
       "title": "Pottawatomie Tribe v. United States, Dockets 15-D et al., Opinion of the Commission, Part 2 (1978)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1956",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "About Us",
+      "url": "https://delawaretribe.org/about-us/",
+      "publisher": "Delaware Tribe of Indians"
+    },
+    {
+      "title": "About Us",
+      "url": "https://www.miamination.com/about-us/",
+      "publisher": "Miami Tribe of Oklahoma"
+    },
+    {
+      "title": "History (archived copy of the Tribe's website, May 2026)",
+      "url": "https://web.archive.org/web/20260531224612/https://peoriatribe.com/welcome/history/",
+      "publisher": "Peoria Tribe of Indians of Oklahoma"
     }
   ],
   "openQuestions": [

@@ -1,12 +1,16 @@
 {
   "id": "kappler-225",
   "name": "Treaty with the Osage, 1825",
-  "aka": ["Treaty of St. Louis, June 2, 1825"],
+  "aka": [
+    "Treaty of St. Louis, June 2, 1825"
+  ],
   "signed": "1825-06-02",
   "proclaimed": "1825-12-30",
   "citation": "7 Stat. 240",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-osage-1825-0217",
-  "nations": ["Osage (Wazhazhe) Nation, then the Great and Little Osage"],
+  "nations": [
+    "Osage (Wazhazhe) Nation, then the Great and Little Osage"
+  ],
   "promises": [
     "A reservation fifty miles wide running west from a point twenty-five miles west of Missouri, for the Osage so long as they chose to occupy it, surveyed at United States expense (Article 2).",
     "An annuity of $7,000 a year for twenty years, in money, goods, provisions or animals at the Osage's option (Article 3).",
@@ -33,18 +37,31 @@
   "today": "The claim ended with the 1970 compromise. Under the 1825 treaty itself, no court or Commission finding that a specific promise was not kept was found.",
   "nationVoice": [],
   "sources": [
-    { "title": "Treaty with the Osage, 1825 (Kappler, vol. 2, p. 217)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-osage-1825-0217", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
-    { "title": "Osage Nation v. United States, Dockets 106 and 107, Interlocutory Order (September 1968)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2223", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Osage Nation v. United States, Dockets 105-108, Findings of Fact on Compromise Settlement (September 3, 1970)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1352", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+    {
+      "title": "Treaty with the Osage, 1825 (Kappler, vol. 2, p. 217)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-osage-1825-0217",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Osage Nation v. United States, Dockets 106 and 107, Interlocutory Order (September 1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2223",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Osage Nation v. United States, Dockets 105-108, Findings of Fact on Compromise Settlement (September 3, 1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1352",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
   ],
   "openQuestions": [
     "The day of the Dockets 106-107 title order is illegible in the scan; the collection lists it as September 10, 1968 and the compromise findings as September 20, 1968. Neither is recorded as the breach date.",
     "treaties.json lists both 'The Osage Nation, Oklahoma' and 'Osage Tribe, Oklahoma' as present-day tribes for this entry; they appear to be one nation. It also links Royce Area 475, which was not checked against Royce. Not edited.",
     "Whether the Article 6 school lands were sold and the fund applied, and whether the twenty annuities were paid, was not researched.",
-    "No Osage Nation account of the 1825 treaty was found on its own site in this pass."
+    "No Osage Nation account of the 1825 treaty was found on its own site in this pass.",
+    "Audit 2026-11-08 (round 8): plain.promised said the reservation was 'in present Kansas', which the file does not source; reworded to 'west of Missouri' as Article 2 says. Breach, dates, $13,250,000 and the 1968 title order (OSU ids 1352, 2223) confirmed."
   ],
   "plain": {
-    "promised": "A reservation in present Kansas, $7,000 a year for twenty years, livestock, tools and farm help, and land sold to pay for Osage schools, in return for Osage land in Missouri, Arkansas and beyond.",
+    "promised": "A reservation west of Missouri, $7,000 a year for twenty years, livestock, tools and farm help, and land sold to pay for Osage schools, in return for Osage land in Missouri, Arkansas and beyond.",
     "happened": "In 1968 the Indian Claims Commission held the Osage had owned the land this treaty took. The land's value was never decided.",
     "today": "In 1970 the Osage Nation settled this claim and three others together for $13,250,000, without a finding on this treaty's price."
   },

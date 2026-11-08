@@ -1,0 +1,300 @@
+[
+ {
+  "id": "waseyabek-federal-services-netl-morgantown",
+  "name": "Waséyabek Federal Services (NETL site operations, Morgantown)",
+  "category": "trades",
+  "subcategory": "facility operations and research support at the National Energy Technology Laboratory",
+  "nation": "Nottawaseppi Huron Band of the Potawatomi",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Waséyabek: 100% tribally owned holding company of the Nottawaseppi Huron Band of the Potawatomi; WFS lands five-year NETL contract (2025)",
+   "url": "https://waseyabek.com/waseyabek-federal-services-lands-five-year-contract-national-energy-technology-laboratory/"
+  },
+  "description": "Potawatomi-owned federal services company that took over day-to-day facility and research operations at the Department of Energy laboratory in Morgantown in September 2025.",
+  "website": "https://waseyabek.com/",
+  "city": "Morgantown",
+  "state": "WV",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Waséyabek Federal Services lands five-year contract with the National Energy Technology Laboratory (June 24, 2025)",
+    "url": "https://waseyabek.com/waseyabek-federal-services-lands-five-year-contract-national-energy-technology-laboratory/"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -79.9559,
+   39.6297
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "fred-nez-keams-flutes",
+  "name": "Fred Nez-Keams, Navajo flute maker",
+  "category": "arts",
+  "subcategory": "hand-made Native American flutes and flute music (Mercer County)",
+  "nation": "Navajo Nation",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Festival of Faiths: Fred Nez-Keams, Diné flute-maker and musician from the Navajo Nation, now living in Kentucky",
+   "url": "https://festivaloffaiths.org/people/fred-nez-keams/"
+  },
+  "description": "Diné flute maker working from a farm workshop in Mercer County who carves cedar flutes with Navajo symbols, sells them to buyers abroad and made the 2022 Kentucky Governor's Awards in the Arts trophies.",
+  "city": "Harrodsburg",
+  "state": "KY",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "WEKU (May 2024): a Native American flute maker from Kentucky is on a mission",
+    "url": "https://www.weku.org/kentucky-arts-culture/2024-05-06/a-native-american-flute-maker-from-kentucky-is-on-a-mission"
+   },
+   {
+    "title": "Navajo Times: Navajo flutist creates the 2022 Kentucky Governor's arts award",
+    "url": "https://navajotimes.com/ae/culture/navajo-flutist-creates-the-2022-kentucky-governor-arts-award/"
+   },
+   {
+    "title": "Festival of Faiths: Fred Nez-Keams",
+    "url": "https://festivaloffaiths.org/people/fred-nez-keams/"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -84.8433,
+   37.7623
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "darryl-peasley-beadwork",
+  "name": "Darryl Peasley, Abenaki beadwork",
+  "category": "arts",
+  "subcategory": "loom beadwork, beaded hats and hat bands, pouches and dance sticks",
+  "nation": "Nulhegan Band of the Coosuk Abenaki Nation (Vermont state-recognized)",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Vermont Abenaki Artists Association: Darryl Peasley, enrolled citizen of the Nulhegan Band of the Coosuk Abenaki Nation, Contoocook NH",
+   "url": "https://abenakiart.org/darryl-peasley/"
+  },
+  "description": "Abenaki beadworker known at powwows for beaded top hats and derbies, who also loom-beads bags, hat bands and dance sticks and sells at powwows.",
+  "website": "https://abenakiart.org/darryl-peasley/",
+  "city": "Contoocook",
+  "state": "NH",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Vermont Abenaki Artists Association: Darryl Peasley (juried artist since 2021)",
+    "url": "https://abenakiart.org/darryl-peasley/"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -71.7135,
+   43.2224
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "sherry-and-bill-gould-abenaki-baskets",
+  "name": "Sherry and Bill Gould, Abenaki basketmakers",
+  "category": "arts",
+  "subcategory": "brown ash and sweetgrass baskets, fancy and utility, by custom order",
+  "nation": "Nulhegan Band of the Coosuk Abenaki Nation (Vermont state-recognized)",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Vermont Abenaki Artists Association: Sherry Gould, enrolled citizen of the Nulhegan Band of the Coosuk Abenaki Nation, Warner NH",
+   "url": "https://abenakiart.org/sherry-gould"
+  },
+  "description": "Husband and wife Abenaki basketmakers who weave brown ash fancy baskets, creels and utility baskets and take custom orders; Sherry was the first Native artist juried into the League of NH Craftsmen.",
+  "website": "https://abenakiart.org/sherry-gould",
+  "city": "Warner",
+  "state": "NH",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Vermont Abenaki Artists Association: Sherry Gould (custom orders; exhibits through 2025)",
+    "url": "https://abenakiart.org/sherry-gould"
+   },
+   {
+    "title": "Vermont Abenaki Artists Association: Bill Gould, enrolled citizen of the Nulhegan Band, master ash basketmaker",
+    "url": "https://abenakiart.org/bill-gould/"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -71.8164,
+   43.2809
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "chickasaw-nation-industries-atlanta",
+  "name": "Chickasaw Nation Industries, Atlanta office",
+  "category": "technology",
+  "subcategory": "technology, health IT and federal professional services",
+  "nation": "Chickasaw Nation",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "CNI: a federally chartered corporation wholly owned by the Chickasaw Nation",
+   "url": "https://www.chickasaw.com/about"
+  },
+  "description": "Atlanta office of the Chickasaw Nation's federally chartered company, which provides technology, health IT and professional services to government clients.",
+  "website": "https://www.chickasaw.com/",
+  "address": "17 Executive Park Drive NE, Suite 450",
+  "city": "Atlanta",
+  "state": "GA",
+  "zip": "30329",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "CNI contact page: CNI Atlanta Office, 17 Executive Park Drive NE, Suite 450",
+    "url": "https://www.chickasaw.com/contact"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -84.3369,
+   33.827
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "vaughan-ranch-derby",
+  "name": "Vaughan Ranch",
+  "category": "agriculture",
+  "subcategory": "Akaushi Wagyu and grass and grain finished beef",
+  "nation": "Chickasaw Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Chickasaw Business Directory (businesses at least 51% owned by Chickasaw citizens): Vaughan Family Ranch",
+   "url": "https://www.chickasawbusinessnetwork.com/Chickasaw-Business-Directory/Business-Category/Business-Information.aspx?busID=41160"
+  },
+  "description": "Chickasaw citizen owned family ranch near Wichita raising USDA inspected local beef, including Akaushi Wagyu, without antibiotics or added hormones; visits by appointment.",
+  "website": "https://vaughanranch.com/",
+  "shopOnline": "https://www.vfrbeef.com/",
+  "address": "14630 E. 44th St. S.",
+  "city": "Derby",
+  "state": "KS",
+  "zip": "67037",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Business Directory: Vaughan Family Ranch",
+    "url": "https://www.chickasawbusinessnetwork.com/Chickasaw-Business-Directory/Business-Category/Business-Information.aspx?busID=41160"
+   },
+   {
+    "title": "Chickasaw Nation: about the Chickasaw Business Directory (51% Chickasaw citizen ownership required)",
+    "url": "https://www.chickasaw.net/Services/Enterprises-Commerce/Chickasaw-Business-Directory"
+   },
+   {
+    "title": "Vaughan Ranch: address and visiting hours by appointment (site copyright 2025)",
+    "url": "https://vaughanranch.com/"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -97.1671,
+   37.6122
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "barnes-family-dental-fayetteville",
+  "name": "Barnes Family Dental (Kellie E. Barnes, DDS)",
+  "category": "health",
+  "subcategory": "general and family dentistry",
+  "nation": "Chickasaw Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Chickasaw Business Directory (businesses at least 51% owned by Chickasaw citizens): Kellie E. Barnes, DDS PLLC",
+   "url": "https://www.chickasawbusinessnetwork.com/Chickasaw-Business-Directory/Business-Category/Business-Information.aspx?busID=41165"
+  },
+  "description": "Chickasaw citizen owned family dental practice offering exams, fillings, crowns, dentures, implants and Invisalign, with Spanish spoken.",
+  "website": "https://www.drkellie.com/",
+  "address": "2646 E. Joyce Blvd, Suite 1",
+  "city": "Fayetteville",
+  "state": "AR",
+  "zip": "72703",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Business Directory: Kellie E. Barnes, DDS PLLC",
+    "url": "https://www.chickasawbusinessnetwork.com/Chickasaw-Business-Directory/Business-Category/Business-Information.aspx?busID=41165"
+   },
+   {
+    "title": "Barnes Family Dental: address and opening hours",
+    "url": "https://www.drkellie.com/"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -94.1228,
+   36.1199
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "take-my-shot-productions",
+  "name": "Take My Shot Productions",
+  "category": "media",
+  "subcategory": "theatre and musical production and investment",
+  "nation": "Chickasaw Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Chickasaw Business Directory (businesses at least 51% owned by Chickasaw citizens): Take My Shot Productions",
+   "url": "https://www.chickasawbusinessnetwork.com/Chickasaw-Business-Directory/Business-Category/Business-Information.aspx?busID=47543"
+  },
+  "description": "Native owned production company that invests in and produces regional, Off Broadway and Broadway theatre and music, with a page for Native theatre artists.",
+  "website": "https://takemyshotproductions.com/",
+  "city": "Amherst",
+  "state": "MA",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Chickasaw Business Directory: Take My Shot Productions",
+    "url": "https://www.chickasawbusinessnetwork.com/Chickasaw-Business-Directory/Business-Category/Business-Information.aspx?busID=47543"
+   },
+   {
+    "title": "Take My Shot Productions: a Native owned production company for the performing arts (site 2026)",
+    "url": "https://takemyshotproductions.com/"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -72.5199,
+   42.3732
+  ],
+  "lonlatPrecision": "town"
+ },
+ {
+  "id": "fosters-electric-manahawkin",
+  "name": "Foster's Electric (Hank Foster, Inc.)",
+  "category": "trades",
+  "subcategory": "electrical contracting and generator sales and installation",
+  "nation": "Chickasaw Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Chickasaw Business Directory (businesses at least 51% owned by Chickasaw citizens): Hank Foster, Inc. (Foster's Electric)",
+   "url": "https://www.chickasawbusinessnetwork.com/Chickasaw-Business-Directory/Business-Category/Business-Information.aspx?busID=1212"
+  },
+  "description": "Licensed Native American owned electrical and general contractor on the Jersey Shore that sells, installs and services standby generators for homes and businesses.",
+  "city": "Manahawkin",
+  "state": "NJ",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Chickasaw Business Directory: Hank Foster, Inc.",
+    "url": "https://www.chickasawbusinessnetwork.com/Chickasaw-Business-Directory/Business-Category/Business-Information.aspx?busID=1212"
+   },
+   {
+    "title": "SAM.gov entity record via OpenGovUS: Hank Foster Inc, doing business as Foster's Electric, Native American owned",
+    "url": "https://opengovus.com/sam-entity/MD8NFBSAF3B5"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -74.2588,
+   39.6954
+  ],
+  "lonlatPrecision": "town"
+ }
+]

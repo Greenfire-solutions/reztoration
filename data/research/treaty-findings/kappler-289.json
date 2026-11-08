@@ -33,6 +33,11 @@
       "title": "Treaty with the Chippewa, etc., 1827, 7 Stat. 303",
       "url": "https://www.govinfo.gov/content/pkg/STATUTE-7/pdf/STATUTE-7-Pg303.pdf",
       "publisher": "US Government Publishing Office, govinfo"
+    },
+    {
+      "title": "Menominee History (MITW 2023 Strategic Plan, Section B)",
+      "url": "https://menominee-nsn.gov/GovernmentPages/Initiatives/NewPlan/4-B%20Men%20History%20FINAL.pdf",
+      "publisher": "Menominee Indian Tribe of Wisconsin"
     }
   ],
   "openQuestions": [
@@ -41,5 +46,12 @@
     "Whether the Article 5 education money was paid was not checked."
   ],
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "nationVoice": [
+    {
+      "nation": "Menominee Indian Tribe of Wisconsin",
+      "summary": "The Tribe's history in its 2023 Strategic Plan counts the Treaty of Butte des Morts among the seven ratified treaties that shaped its reservation, saying it had the Menominee, Winnebago and Chippewa mark their boundaries for future land cessions and was meant to settle the Menominee's land dispute with the New York Indians.",
+      "url": "https://menominee-nsn.gov/GovernmentPages/Initiatives/NewPlan/4-B%20Men%20History%20FINAL.pdf"
+    }
+  ]
 }

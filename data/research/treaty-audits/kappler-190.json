@@ -1,0 +1,18 @@
+{
+  "id": "kappler-190",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "OSU Tribal Treaties Database text: 7 Stat. 200, proclaimed January 13, 1821; $2,000 in silver for fifteen successive years; $3,000 in merchandise; Pommes de Terre tract to the Kickapoo and their heirs forever, not sold without the President's consent; peaceable possession; two boats well manned.",
+    "ICC Order Setting Awards, August 25, 1978 (pointer 1009): Kickapoo in Docket 315 awarded $11,427,130 for the 1819 cession of Royce Area 110, subject to offsets.",
+    "ICC findings and opinion (pointers 2085, 1956): value $11,833,330, net consideration $406,200, Missouri tract 1,868,500 acres worth $373,700, so grossly inadequate as to be unconscionable.",
+    "Plain fields match the file; no em dashes."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "scheduleTribes Kickapoo (of the Vermillion) belongs to the August 30, 1819 treaty; Royce 179 was granted here, ceded in 1832."
+  ]
+}

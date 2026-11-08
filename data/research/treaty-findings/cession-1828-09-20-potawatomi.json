@@ -51,7 +51,18 @@
     "happened": "The Indian Claims Commission found in 1978 that the $922,525.00 paid under four treaties, this one among them, for land worth $5,420,340.59 was so grossly inadequate as to be unconscionable.",
     "today": "In 1978 the Commission awarded $4,497,815.59 for the four treaties together, subject to offsets, with no separate figure for this one. The final judgment and whether it was paid have not been traced."
   },
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Pokagon Band of Potawatomi",
+      "summary": "The Band's history says the Potawatomi lived in what is now Wisconsin, southern Michigan, northern Indiana and northern Illinois, that as the frontier moved west boundary arguments and land cessions became a way of life, and that the 1833 Treaty of Chicago then set the terms for removing the Potawatomi from the Great Lakes.",
+      "url": "https://www.pokagonband-nsn.gov/our-culture/"
+    },
+    {
+      "nation": "Forest County Potawatomi Community",
+      "summary": "The Community's cultural preservation pages publish the full text of the treaty of 20 September 1828, with its schedule of traders' claims, without further commentary.",
+      "url": "https://www.fcpotawatomi.com/cultural-preservation/treaties/september-20-1828/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Potawatomi, 1828 (Kappler, vol. 2, p. 294)",
@@ -82,6 +93,16 @@
       "title": "Citizen Band of Potawatomi Indians of Oklahoma et al. v. United States, Dockets 128 et al., Order Certifying and Transferring Cases to the United States Court of Claims (September 29, 1978), 43 Ind. Cl. Comm. 675",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2318",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Our Culture",
+      "url": "https://www.pokagonband-nsn.gov/our-culture/",
+      "publisher": "Pokagon Band of Potawatomi"
+    },
+    {
+      "title": "September 20, 1828 (Cultural Preservation: Treaties)",
+      "url": "https://www.fcpotawatomi.com/cultural-preservation/treaties/september-20-1828/",
+      "publisher": "Forest County Potawatomi Community"
     }
   ],
   "openQuestions": [

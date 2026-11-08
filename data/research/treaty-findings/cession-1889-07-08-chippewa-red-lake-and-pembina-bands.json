@@ -70,7 +70,8 @@
     "Docket 189 (Red Lake Band, 1973) concerns pre-1889 survey errors that excluded Tracts A and C from the reservation; it is not a finding on this agreement and is left out. The outcome of the Red Lake accounting claims (Dockets 189-A and 189-B) after their 1976 transfer to the Court of Claims was not found.",
     "The Red Lake Nation's own website was not opened; its account here comes from leaders quoted in a newspaper.",
     "treaties.json lists Rocky Boy's, Turtle Mountain and White Earth as present-day tribes for this entry but not the Red Lake Band by its own name first; Royce names the Red Lake Chippewa as the band that signed on July 8, 1889, with the Pembina signing on July 29, 1889.",
-    "Royce's area 707 is land the bands kept, not land they gave up; the breach claimed here is the boundary of what was kept (Upper Red Lake), which rests on the Nation's statement only. The 1902 and 1904 Red Lake cessions belong to their own entries."
+    "Royce's area 707 is land the bands kept, not land they gave up; the breach claimed here is the boundary of what was kept (Upper Red Lake), which rests on the Nation's statement only. The 1902 and 1904 Red Lake cessions belong to their own entries.",
+    "Audit 2026-11-08: treaties.json duplicate. This entry and cession-1889-07-08-chippewa-of-minnesota are the same Red Lake agreement signed July 8, 1889 (Royce, Signed July 8, 1889); Royce area 707 is the diminished reservation kept, not a cession, so treaties.json labelling it a cession of the Red Lake and Pembina bands is an error. The map should not count the agreement twice."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher",

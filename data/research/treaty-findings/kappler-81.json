@@ -1,12 +1,16 @@
 {
   "id": "kappler-81",
   "name": "Treaty with the Cherokee, 1804 (Treaty of Tellico)",
-  "aka": ["Wafford's Settlement treaty"],
+  "aka": [
+    "Wafford's Settlement treaty"
+  ],
   "signed": "1804-10-24",
   "proclaimed": "1824-05-17",
   "citation": "7 Stat. 228",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1804-0073",
-  "nations": ["Cherokee (Tsalagi), today the Cherokee Nation, the Eastern Band of Cherokee Indians and the United Keetoowah Band of Cherokee Indians"],
+  "nations": [
+    "Cherokee (Tsalagi), today the Cherokee Nation, the Eastern Band of Cherokee Indians and the United Keetoowah Band of Cherokee Indians"
+  ],
   "promises": [
     "The Cherokee ceded a strip four miles deep along the Georgia line that took in all the plantations of Wafford's Settlement (Article 1).",
     "On signing, the United States would deliver $5,000 in useful goods or money, at the Cherokee's choice (Article 2).",
@@ -17,10 +21,29 @@
   "landTaken": "Royce Area 52 in Georgia, the Wafford's Settlement tract described in Article 1.",
   "compensation": "The treaty consideration was $5,000 on signing and $1,000 a year (Article 2). Whether these were paid between 1804 and the 1824 proclamation was not traced.",
   "today": "The Statutes at Large print the treaty among the 1824 treaties with a proclamation date of May 17, 1824, twenty years after signing. No Indian Claims Commission or court ruling specific to this cession was found.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Cherokee Nation",
+      "summary": "The Nation's history says successive treaties with the British Crown and then the United States cut down the Cherokee Nation's original territory, and that further cessions confirmed in an 1819 treaty left most of the remaining Cherokee land in Georgia.",
+      "url": "https://www.cherokee.gov/about-the-nation/history/"
+    }
+  ],
   "sources": [
-    { "title": "Treaty with the Cherokee, 1804 (Kappler, vol. 2, p. 73)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1804-0073", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
-    { "title": "Articles of a Treaty between the United States of America and the Cherokee Indians, October 24, 1804 (7 Stat. 228)", "url": "https://www.govinfo.gov/content/pkg/STATUTE-7/pdf/STATUTE-7-Pg228.pdf", "publisher": "U.S. Government Publishing Office" }
+    {
+      "title": "Treaty with the Cherokee, 1804 (Kappler, vol. 2, p. 73)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1804-0073",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Articles of a Treaty between the United States of America and the Cherokee Indians, October 24, 1804 (7 Stat. 228)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-7/pdf/STATUTE-7-Pg228.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "History",
+      "url": "https://www.cherokee.gov/about-the-nation/history/",
+      "publisher": "Cherokee Nation"
+    }
   ],
   "openQuestions": [
     "The OSU Tribal Treaties Database page prints the citation as '7 Stat., 288'; the Statutes at Large scan shows the treaty at 7 Stat. 228, which is used here.",

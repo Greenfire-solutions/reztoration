@@ -1,13 +1,17 @@
 {
   "id": "kappler-626",
   "name": "Treaty with the Shawnee, 1854",
-  "aka": ["Shawnee treaty of May 10, 1854"],
+  "aka": [
+    "Shawnee treaty of May 10, 1854"
+  ],
   "signed": "1854-05-10",
   "ratified": "1854-08-02",
   "proclaimed": "1854-11-02",
   "citation": "10 Stat. 1053",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-shawnee-1854-0618",
-  "nations": ["Shawnee (the united bands party to the treaties of 1825 and 1831)"],
+  "nations": [
+    "Shawnee (the united bands party to the treaties of 1825 and 1831)"
+  ],
   "promises": [
     "Article 2: 200,000 acres of the ceded Kansas reserve given back to the Shawnee, 200 acres for each person, with land held in common at Black Bob's and Long Tail's settlements.",
     "Article 2: any surplus to be set apart in one body for Shawnees long separated from the tribe who rejoined within five years; what remained unassigned after that to be sold and the proceeds held for the tribe.",
@@ -104,7 +108,8 @@
     "treaties.json error: this entry is dated 1825-11-07 and named for that date, but its Kappler link (vol. 2, p. 618), its second Royce page (792) and its Royce areas 318 to 320 are all the Shawnee treaty of May 10, 1854, which is what this file records. The 1825 treaty at St. Louis (7 Stat. 284) has its own entry, kappler-270, with areas 125 and 126; Royce p. 715 lists 318 to 320 for 1825 only as 'See', meaning the reserve the 1825 treaty granted.",
     "The 1958 award figure reads '$1,109,l&.00' in the interlocutory order and '&109,k6h,00' in the findings because of scan damage, so it is not quoted. The final award of May 29, 1961 is not in the online collection.",
     "Whether Article 5 (no white settlement before the Shawnee selections) was kept was not researched; the Commission's 1969 note that the absentee land was mostly occupied by white squatters suggests a lead.",
-    "No account by the Shawnee Tribe, the Absentee-Shawnee Tribe or the Eastern Shawnee Tribe about this treaty was found in this pass."
+    "No account by the Shawnee Tribe, the Absentee-Shawnee Tribe or the Eastern Shawnee Tribe about this treaty was found in this pass.",
+    "Audit 2026-11-08 (round 8): the 1958 order (OSU id 569) is confirmed: 1,404,790 acres, $829,000.00 paid, worth $1,938,464.00, unconscionable. The garbled recovery figure is consistent with $1,109,464.00, the difference by subtraction (computed by the auditor, not read cleanly), and is still kept out of the record. Docket 334-B final award at 25 Ind. Cl. Comm. 311 confirmed as a compromise of $300,000.00."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

@@ -1,0 +1,13 @@
+{
+  "id": "kappler-384",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Kappler header (OSU Tribal Treaties Database) matches signing, proclamation and Statutes at Large citation: Oct. 27, 1832, 7 Stat. 403, proclaimed Feb. 12, 1833.",
+    "Article 4 quote and Article 5 $3,000 for ten years checked.",
+    "ICC Docket 65 findings (OSU id 669): the 1832 grants are Royce 326, 327 and 328.",
+    "treaties.json error (four tribes and Miami on both 384 and 390) confirmed from the two treaty texts."
+  ],
+  "changes": [],
+  "unverifiable": []
+}

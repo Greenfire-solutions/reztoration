@@ -1,13 +1,17 @@
 {
   "id": "kappler-808",
   "name": "Treaty with the Kansa, 1859",
-  "aka": ["Kansa treaty of October 5, 1859"],
+  "aka": [
+    "Kansa treaty of October 5, 1859"
+  ],
   "signed": "1859-10-05",
   "ratified": "1860-06-27",
   "proclaimed": "1860-11-17",
   "citation": "12 Stat. 1111",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-kansa-tribe-1859-0800",
-  "nations": ["Kanza (Kaw)"],
+  "nations": [
+    "Kanza (Kaw)"
+  ],
   "promises": [
     "Article 1: a tract nine miles by fourteen in the southwest corner of the Council Grove reservation kept by the tribe and assigned in severalty, with land for the agency and schools.",
     "Article 2: the retained land to be known as the Kansas reservation, with the federal trade and intercourse laws in force over it.",
@@ -48,7 +52,8 @@
   ],
   "openQuestions": [
     "treaties.json error: scheduleTribes includes 'Western Shoshoni', presentDayTribes the Te-Moak Tribe of Western Shoshone, the states include Nevada, and the Royce areas include 422. On Royce p. 822 the Western Shoshoni row is a separate, undated entry under the same date (a 6-mile-square reserve selected by agent Jarvis at Ruby Valley, Nevada, area 422). It has nothing to do with this Kansa treaty and should be its own entry; treaties.json was not edited.",
-    "Article 4 required sale of the surplus to the highest bidder for cash on sealed proposals. Whether the later Acts (1872 to 1880), which Royce says governed the sales, overrode that term without Kaw consent is the main lead for a deeper pass; the statutes were not opened."
+    "Article 4 required sale of the surplus to the highest bidder for cash on sealed proposals. Whether the later Acts (1872 to 1880), which Royce says governed the sales, overrode that term without Kaw consent is the main lead for a deeper pass; the statutes were not opened.",
+    "Audit 2026-11-08 (round 8): Ruby Valley areas checked on Royce pp. 822-823: area 420 is the Kansa retained reserve (sold under the Acts of 1872 to 1880 after removal), 421 the Kansa trust lands sold under this treaty and those Acts, and 422 the Western Shoshoni reserve 6 miles square selected by agent Jarvis at Ruby Valley, Nevada, later abandoned and used as an Overland Stage station. Area 422 and the Nevada, Western Shoshoni and Te-Moak entries in treaties.json do not belong to this treaty, as the file says."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

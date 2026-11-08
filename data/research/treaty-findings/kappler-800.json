@@ -1,0 +1,52 @@
+{
+  "id": "kappler-800",
+  "name": "Treaty with the Chippewa, etc., 1859 (Swan Creek and Black River Chippewa and Munsee)",
+  "aka": [
+    "Treaty of the Sac and Fox Agency, July 16, 1859",
+    "Royce cessions 417 and 418"
+  ],
+  "signed": "1859-07-16",
+  "ratified": "1860-04-19",
+  "proclaimed": "1860-07-09",
+  "citation": "12 Stat. 1105",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-etc-1859-0792",
+  "nations": [
+    "Swan Creek and Black River Chippewa in Kansas",
+    "Munsee or Christian Indians in Kansas"
+  ],
+  "promises": [
+    "Article 1: the 8,320-acre (thirteen-section) reservation in Franklin County, Kansas to benefit the part of the Swan Creek and Black River band living on it, united with the Munsee or Christian Indians as a permanent home.",
+    "Article 1: assignments in severalty of up to 40 acres to each head of family and each family member and 80 acres to each unmarried adult, with land kept for a school and held in common.",
+    "Article 2: the residue of the band's old tract outside the reduced reservation appraised and sold at auction for no less than its appraised value, the proceeds belonging to the band.",
+    "Article 2: $3,000 from the Christian Indians' funds and $6,000 from the Treasury to the Chippewa band, the $6,000 in full satisfaction of all claims under former treaties."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "The sums in Article 2. No Indian Claims Commission decision on this treaty or these Kansas lands was found in the full-text collection under \"Swan Creek\", \"Christian Indians\" or \"Chippewa Munsee Kansas\".",
+  "today": "The Kansas Chippewa and Munsee were later dissolved as a separate band; treaties.json links them to the Saginaw Chippewa Indian Tribe of Michigan and the Stockbridge Munsee Community. Not researched further.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Chippewa, etc., 1859, Kappler vol. 2",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-etc-1859-0792",
+      "publisher": "Oklahoma State University, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Saginaw Chippewa Indian Tribe of Michigan v. United States, Docket 57, Opinion of the Commission, April 1, 1970 (22 Ind. Cl. Comm. 504), on the 1819 cession, not this treaty",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2313",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The later fate of the Franklin County reservation (sale of the land and dissolution of the Chippewa and Munsee band around 1900) and whether the band consented were not researched; that is the most likely place for a breach.",
+    "Whether the residue lands in Article 2 were sold at no less than appraised value was not researched.",
+    "No account by the Saginaw Chippewa Indian Tribe or the Stockbridge Munsee Community of this treaty was found."
+  ],
+  "plain": {
+    "promised": "The Swan Creek and Black River Chippewa and the Munsee in Kansas were united on an 8,320-acre reservation in Franklin County, to be divided into family farms, with surplus land sold for their benefit.",
+    "happened": "No breach has been documented yet in the sources opened.",
+    "today": "Not settled. What later happened to the Franklin County reservation was not researched."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

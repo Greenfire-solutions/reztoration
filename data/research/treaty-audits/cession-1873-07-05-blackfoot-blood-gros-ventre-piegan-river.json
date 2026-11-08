@@ -1,0 +1,22 @@
+{
+  "id": "cession-1873-07-05-blackfoot-blood-gros-ventre-piegan-river",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce full text: the 1868 treaty never ratified; by Executive Order of July 5, 1873 a joint reserve was set apart for the Gros Ventre, Piegan, Blood, Blackfoot and River Crow; the President restored to the public domain the 1873 country not embraced by the Act of April 15, 1874 (Marias River, Birch Creek, Sun River line).",
+    "ICC Docket 279-B findings (pointer 602): Act of April 15, 1874, 18 Stat. 28, with the Marias River and Birch Creek line.",
+    "ICC Docket 279 opinion, December 17, 1952 (pointer 183): Court of Claims judgment of April 8, 1935, 81 Ct. Cl. 101; 15,289,344 acres (Royce 399 and 574) taken under the 1874 Act and order; 12,261,749.76 acres taken without compensation; value $6,130,874.88 reduced by offsets to $622,465.57; later claim of about $18,000,000 in interest.",
+    "Blackfeet Nation history (Wayback, March 8, 2010): quote \"More would follow, each taking huge chunks of our traditional land.\" exact.",
+    "Status rests on a Court of Claims finding and an Act of Congress, not on executive-order shrinkage alone, so it is consistent with the current rule.",
+    "Plain fields match the file; no em dashes."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [
+    "The 1954 Court of Claims opinion on vLex (that value but no interest was paid in 1935) was not reopened."
+  ],
+  "treatiesJsonErrors": [
+    "Royce 565 and 574 appear here and again under cession-1874-04-15 (565) and cession-1874-08-19 (574)."
+  ]
+}

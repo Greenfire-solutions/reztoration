@@ -1,0 +1,17 @@
+{
+  "id": "kappler-172",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "OSU Tribal Treaties Database text: 7 Stat. 180, proclaimed January 7, 1819; fifty years under the 1809 Act; 4,996 acres held so long as they or their descendants occupy it, on the terms given the Alabama Indians.",
+    "ICC Dockets 212 and 213, interlocutory order August 5, 1976 (pointer 1385): leasehold in Royce 95 and 96 worth no more than Area 260 on September 20, 1818; Area 260 worth $21,000 on October 5, 1842.",
+    "Opinion (pointer 2247): government expert said the exchange gave full compensation; about 5,000 acres. Recorded correctly as evidence against a breach."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "Royce 260 was granted by this treaty and ceded in 1842; the statute link points to the 1809 Act."
+  ]
+}

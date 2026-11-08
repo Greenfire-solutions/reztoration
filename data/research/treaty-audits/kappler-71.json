@@ -1,0 +1,14 @@
+{
+  "id": "kappler-71",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Kappler header (OSU): Oct. 17, 1802, 7 Stat. 73, 'Ratified June 20, 1803. Proclaimed Jan. 20, 1803' (internally inconsistent, correctly left out).",
+    "Article 2 consideration of one dollar checked.",
+    "Choctaw Nation PDF of the treaty loads (HTTP 200, application/pdf)."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Choctaw Nation PDF content not read beyond confirming it loads."
+  ]
+}

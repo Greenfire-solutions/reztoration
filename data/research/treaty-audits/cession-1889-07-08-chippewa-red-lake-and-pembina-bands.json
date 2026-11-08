@@ -1,0 +1,16 @@
+{
+  "id": "cession-1889-07-08-chippewa-red-lake-and-pembina-bands",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Same sources as cession-1889-07-08-chippewa-of-minnesota: Nelson Act terms, Royce boundary of the diminished reservation, Docket 189-B (1972), Bemidji Pioneer quote and statements.",
+    "Contested is right (nation statement only); plain fields match; no em dashes."
+  ],
+  "changes": [
+    "Added an open question naming the treaties.json duplicate with cession-1889-07-08-chippewa-of-minnesota and that Royce area 707 is land kept, not a cession."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "duplicate of cession-1889-07-08-chippewa-of-minnesota; Royce 707 is the diminished reservation kept, not a cession."
+  ]
+}

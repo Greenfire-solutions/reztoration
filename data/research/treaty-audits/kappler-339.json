@@ -1,0 +1,13 @@
+{
+  "id": "kappler-339",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Kappler header (OSU Tribal Treaties Database) matches signing, proclamation and Statutes at Large citation: Aug. 8, 1831, 7 Stat. 355, proclaimed Apr. 6, 1832.",
+    "United States v. Blackfeather, 155 U.S. 180 (1894), pp. 183-193 read: finding VII quote exact (p. 184); trust violation quote exact (pp. 190-191); recomputation at $1.25 giving $126,299.63 less $87,257.63 = $39,042.00 due in 1840 stated by the Court (p. 192); interest allowed (p. 193); decree date June 12, 1893 (p. 185); $66,246.23 and 96,051.48 acres confirmed."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "28 Ct. Cl. 447 not opened; its own decision date may differ from the June 12, 1893 decree date, as the file says."
+  ]
+}

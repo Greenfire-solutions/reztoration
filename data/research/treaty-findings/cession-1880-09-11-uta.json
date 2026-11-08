@@ -45,7 +45,7 @@
     },
     {
       "kind": "nation-statement",
-      "date": "2022-10-13",
+      "date": "2022-10-12",
       "what": "The Ute Indian Tribe's Business Committee says its ancestors were moved out of Colorado at gunpoint on a forced march in which some died, and that the President must restore its Uncompahgre Reservation homelands.",
       "whoFoundIt": "Ute Business Committee, statement of October 2022, as reported by the Deseret News",
       "source": {
@@ -105,10 +105,12 @@
   ],
   "openQuestions": [
     "treaties.json duplicate: this entry and cession-1880-03-06-uta are the same agreement and the same Royce areas (616, 617). Royce lists September 11, 1880 only as the date by which enough Ute signatures were obtained to complete ratification, after the Act of June 15, 1880; Royce says the Ute assented between June 29 and September 11, 1880.",
-    "Error in the related file cession-1880-03-06-uta: it records as a government admission that the stated consideration for the 1880 cession was not promptly paid, citing 402 U.S. 159, note 3. In the opinion, note 3 is attached to the sentence on the 1874 Brunot Cession (18 Stat. 36), not the 1880 cession. That admission is therefore left out of this file; the related file should be re-audited.",
+    "The related file cession-1880-03-06-uta once recorded as a government admission that the 1880 consideration was not promptly paid, citing 402 U.S. 159, note 3; that note concerns the 1874 Brunot Cession (18 Stat. 36). Its audit of 2026-11-08 removed the admission, so the two files now agree.",
     "The 1880 Act (21 Stat. 199) was not opened directly; its terms are quoted from the 1971 opinions. Justice Douglas's dissent states that the allotments, a condition of the cession, were not made; a dissent is not a finding, so it is not recorded as a breach.",
     "The Indian Claims Commission in 1966 (Docket 328) treated 230,547.44 acres of Southern Ute land as taken without consideration; the Supreme Court's 1971 res judicata ruling ended that claim, so the Commission's view is not recorded as a finding.",
-    "No Southern Ute or Ute Mountain Ute account of the 1880 agreement was found in this pass."
+    "No Southern Ute or Ute Mountain Ute account of the 1880 agreement was found in this pass.",
+    "Audit 2026-11-08: the Ute Business Committee statement was made on Wednesday, October 12, 2022 (the KSL / Deseret News story ran on October 13); the nation-statement date was changed from 2022-10-13 to 2022-10-12 to match cession-1880-03-06-uta. The stale note saying the related file still carried the note-3 admission was rewritten.",
+    "Audit 2026-11-08: treaties.json duplicate confirmed. This entry and cession-1880-03-06-uta are one agreement over the same Royce areas (616, 617); Royce gives September 11, 1880 only as the end of the Ute assent (June 29 to September 11, 1880). The map should show one treaty, not two."
   ],
   "plain": {
     "promised": "The Ute bands agreed to give up their Colorado reservation in return for land to settle on, allotted to them in severalty, with the rest sold and the money used for them.",

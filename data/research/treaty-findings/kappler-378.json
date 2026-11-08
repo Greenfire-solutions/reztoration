@@ -22,7 +22,18 @@
   "breaches": [],
   "compensation": "The consideration is the goods and money listed in Articles II to IV. No Indian Claims Commission award for this cession was identified.",
   "today": "No Indian Claims Commission decision naming this treaty was found in the Oklahoma State University collection. The Shawnee dockets opened (334, 334-A, 334-B on the 1854 Kansas cession; 64, 335 and 338, settled by compromise on June 3, 1977 for $1,745,146.86, whose findings describe the Commission's Greenville Treaty title decision) do not mention it in the text read.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Delaware Nation",
+      "summary": "The Nation's About Us page says it descends from the Cape Girardeau Spanish Land Grant Area and counts one treaty of its own with the United States, the 1778 treaty, the first any Indigenous nation made with it.",
+      "url": "https://delawarenation-nsn.gov/?p=57"
+    },
+    {
+      "nation": "Delaware Tribe of Indians (Lenape)",
+      "summary": "The Tribe says that after signing the first treaty with the new United States in 1778 its ancestors had to keep giving up their lands and moving west, to Ohio, then Indiana, Missouri and Kansas and at last Indian Territory, and that its people understood many early land sales as something closer to leases.",
+      "url": "https://delawaretribe.org/about-us/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Shawnee, etc., 1832 (Kappler, vol. 2, p. 370)",
@@ -38,6 +49,16 @@
       "title": "Shawnee Tribe v. United States, Dockets 64, 335 and 338, Findings of Fact on Compromise Settlement (June 3, 1977)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2329",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "About Us",
+      "url": "https://delawarenation-nsn.gov/?p=57",
+      "publisher": "Delaware Nation"
+    },
+    {
+      "title": "About Us",
+      "url": "https://delawaretribe.org/about-us/",
+      "publisher": "Delaware Tribe of Indians"
     }
   ],
   "openQuestions": [

@@ -1,0 +1,18 @@
+{
+  "id": "kappler-103",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "ICC Docket 105 order, June 18, 1969 (pointer 2586): 12,113,000 acres; $7,000,000 at April 28, 1810; $56,833.79 paid; quote exact; $6,943,166.21 less offsets.",
+    "ICC Dockets 105-108 compromise findings, September 3, 1970 (pointer 1352): net $13,250,000 on condition the appeals (9-69, 10-69, 11-69) be dismissed. File correctly calls it a compromise.",
+    "Opinion of June 18, 1969 (pointer 1532) prints $56,883.79 once, as the file notes.",
+    "OSU Tribal Treaties Database text: 7 Stat. 107; ratified April 28, 1810."
+  ],
+  "changes": [
+    "plain.promised: removed \"yearly goods worth $1,500\", a total the file does not state (Article 5 gives $1,000 and $500 separately)."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "Areas 68 and 69 linked here; Area 69 carries the label Great and Little Osage; Iowa; Sauk and Fox (concurrent cessions); only part of Area 67 was adjudicated for the Osage."
+  ]
+}

@@ -1,34 +1,74 @@
 {
   "_about": "Hand corrections applied by scripts/harvest/treaties.mjs after it builds each entry from the USFS Royce cession layer. Keyed by treaty id; each holds only the fields it overrides, plus why and source. An entry with splitFrom is a new record for a treaty the USFS layer had folded into another one (they shared a Kappler page link). Keys starting with _ are ignored.",
   "kappler-634": {
-    "cessions": ["321", "322", "403"],
-    "scheduleTribes": ["Menomini"],
-    "presentDayTribes": ["Menominee Indian Tribe of Wisconsin"],
+    "cessions": [
+      "321",
+      "322",
+      "403"
+    ],
+    "scheduleTribes": [
+      "Menomini"
+    ],
+    "presentDayTribes": [
+      "Menominee Indian Tribe of Wisconsin"
+    ],
     "why": "Royce lists the treaty of May 12, 1854 (Falls of Wolf River) with the Menomini only: they cede area 321 (Minnesota) and are given the Wolf River reserve, area 322. Area 246 is only cross-referenced because part of the reserve fell inside the 500,000 acre tract the Menomini sold to the New York Indians in 1831, which those nations ceded on Jan. 15, 1838. The New York Indians were not party to this treaty, so area 246 and their nations are removed. Area 403 (two townships of the reserve later ceded for the Stockbridge and Munsee) is kept.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/792/mode/2up"
   },
   "kappler-859": {
-    "presentDayTribes": ["Te-Moak Tribe of Western Shoshone Indians of Nevada"],
+    "presentDayTribes": [
+      "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    ],
     "why": "Royce lists the treaty of Oct. 1, 1863 (Ruby Valley) with the Western bands of Shoshoni, area 444. The Northwestern bands made their own treaty at Box Elder on July 30, 1863, which Royce lists separately with no map area. The Northwestern Band of the Shoshone Nation is therefore removed from this treaty.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/828/mode/2up"
   },
   "kappler-291": {
-    "royce": ["https://archive.org/stream/annualreportofbu218smit#page/718/mode/2up"],
-    "cessions": ["135", "136", "137", "138", "139", "140", "189"],
-    "scheduleTribes": ["Potawatomi"],
-    "presentDayTribes": ["Citizen Potawatomi Nation, Oklahoma", "Forest County Potawatomi Community, Wisconsin", "Hannahville Indian Community, Michigan", "Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan", "Nottawaseppi Huron Band of the Potawatomi, Michigan", "Pokagon Band of Potawatomi Indians, Michigan and Indiana", "Prairie Band Potawatomi Nation, Kansas"],
-    "states": ["MI"],
+    "royce": [
+      "https://archive.org/stream/annualreportofbu218smit#page/718/mode/2up"
+    ],
+    "cessions": [
+      "135",
+      "136",
+      "137",
+      "138",
+      "139",
+      "140",
+      "189"
+    ],
+    "scheduleTribes": [
+      "Potawatomi"
+    ],
+    "presentDayTribes": [
+      "Citizen Potawatomi Nation, Oklahoma",
+      "Forest County Potawatomi Community, Wisconsin",
+      "Hannahville Indian Community, Michigan",
+      "Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan",
+      "Nottawaseppi Huron Band of the Potawatomi, Michigan",
+      "Pokagon Band of Potawatomi Indians, Michigan and Indiana",
+      "Prairie Band Potawatomi Nation, Kansas"
+    ],
+    "states": [
+      "MI"
+    ],
     "why": "Royce lists the treaty of St. Joseph, Sept. 19, 1827 with the Potawatomi only: they cede reserves 135 to 140 in Michigan and receive the 99 section reserve, area 189 (ceded Sept. 27, 1833). The USFS layer gave the same Kappler page link to four other treaties (Creek Nov. 15, 1827; Cherokee west of the Mississippi May 6, 1828; Potawatomi Sept. 20, 1828; Winnebago Aug. 1, 1829), so their areas 141, 143, 144, 145, 146 and 149 were folded in here. They are split out into their own records below.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/718/mode/2up"
   },
   "cession-1827-11-15-creek": {
     "splitFrom": "kappler-291",
     "date": "1827-11-15",
-    "royce": ["https://archive.org/stream/annualreportofbu218smit#page/720/mode/2up"],
-    "cessions": ["141"],
-    "scheduleTribes": ["Creek"],
+    "royce": [
+      "https://archive.org/stream/annualreportofbu218smit#page/720/mode/2up"
+    ],
+    "cessions": [
+      "141"
+    ],
+    "scheduleTribes": [
+      "Creek"
+    ],
     "presentDayTribes": [],
-    "states": ["GA"],
+    "states": [
+      "GA"
+    ],
     "note": "Kappler page not yet confirmed; the USFS link pointed at the St. Joseph treaty of 1827.",
     "why": "Royce: Creek agency, Nov. 15, 1827 (Stat. L. VII, 307). The Creek nation cede all remaining land within the chartered limits of Georgia, area 141.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/720/mode/2up"
@@ -36,11 +76,24 @@
   "cession-1828-05-06-cherokee-nation-west-of-mississippi-river": {
     "splitFrom": "kappler-291",
     "date": "1828-05-06",
-    "royce": ["https://archive.org/stream/annualreportofbu218smit#page/720/mode/2up"],
-    "cessions": ["143", "144"],
-    "scheduleTribes": ["Cherokee nation west of Mississippi river"],
-    "presentDayTribes": ["Cherokee Nation, Oklahoma", "United Keetoowah Band of Cherokee Indians in Oklahoma"],
-    "states": ["AR", "OK"],
+    "royce": [
+      "https://archive.org/stream/annualreportofbu218smit#page/720/mode/2up"
+    ],
+    "cessions": [
+      "143",
+      "144"
+    ],
+    "scheduleTribes": [
+      "Cherokee nation west of Mississippi river"
+    ],
+    "presentDayTribes": [
+      "Cherokee Nation, Oklahoma",
+      "United Keetoowah Band of Cherokee Indians in Oklahoma"
+    ],
+    "states": [
+      "AR",
+      "OK"
+    ],
     "note": "Kappler page not yet confirmed; the USFS link pointed at the St. Joseph treaty of 1827. The USFS layer dates this 1827-05-06; Royce dates it May 6, 1828.",
     "why": "Royce: Washington, May 6, 1828 (Stat. L. VII, 311), Cherokee nation west of the Mississippi. They give up their Arkansas lands (area 143) and are guaranteed 7,000,000 acres and an outlet west (area 144).",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/720/mode/2up"
@@ -48,11 +101,29 @@
   "cession-1828-09-20-potawatomi": {
     "splitFrom": "kappler-291",
     "date": "1828-09-20",
-    "royce": ["https://archive.org/stream/annualreportofbu218smit#page/722/mode/2up"],
-    "cessions": ["145", "146"],
-    "scheduleTribes": ["Potawatomi"],
-    "presentDayTribes": ["Citizen Potawatomi Nation, Oklahoma", "Forest County Potawatomi Community, Wisconsin", "Hannahville Indian Community, Michigan", "Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan", "Nottawaseppi Huron Band of the Potawatomi, Michigan", "Pokagon Band of Potawatomi Indians, Michigan and Indiana", "Prairie Band Potawatomi Nation, Kansas"],
-    "states": ["MI", "IN"],
+    "royce": [
+      "https://archive.org/stream/annualreportofbu218smit#page/722/mode/2up"
+    ],
+    "cessions": [
+      "145",
+      "146"
+    ],
+    "scheduleTribes": [
+      "Potawatomi"
+    ],
+    "presentDayTribes": [
+      "Citizen Potawatomi Nation, Oklahoma",
+      "Forest County Potawatomi Community, Wisconsin",
+      "Hannahville Indian Community, Michigan",
+      "Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan",
+      "Nottawaseppi Huron Band of the Potawatomi, Michigan",
+      "Pokagon Band of Potawatomi Indians, Michigan and Indiana",
+      "Prairie Band Potawatomi Nation, Kansas"
+    ],
+    "states": [
+      "MI",
+      "IN"
+    ],
     "note": "Kappler page not yet confirmed; the USFS link pointed at the St. Joseph treaty of 1827.",
     "why": "Royce: missionary establishment on the St. Joseph, Sept. 20, 1828 (Stat. L. VII, 317). The Potawatomi cede two tracts, areas 145 (Michigan) and 146 (Indiana).",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/722/mode/2up"
@@ -60,67 +131,156 @@
   "cession-1829-08-01-winnebago": {
     "splitFrom": "kappler-291",
     "date": "1829-08-01",
-    "royce": ["https://archive.org/stream/annualreportofbu218smit#page/724/mode/2up"],
-    "cessions": ["149"],
-    "scheduleTribes": ["Winnebago"],
-    "presentDayTribes": ["Ho-Chunk Nation of Wisconsin", "Winnebago Tribe of Nebraska"],
-    "states": ["IL", "WI"],
+    "royce": [
+      "https://archive.org/stream/annualreportofbu218smit#page/724/mode/2up"
+    ],
+    "cessions": [
+      "149"
+    ],
+    "scheduleTribes": [
+      "Winnebago"
+    ],
+    "presentDayTribes": [
+      "Ho-Chunk Nation of Wisconsin",
+      "Winnebago Tribe of Nebraska"
+    ],
+    "states": [
+      "IL",
+      "WI"
+    ],
     "note": "Kappler page not yet confirmed; the USFS link pointed at the St. Joseph treaty of 1827.",
     "why": "Royce: Prairie du Chien, Aug. 1, 1829 (Stat. L. VII, 323), Winnebago. Area 149, Illinois and Wisconsin.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/724/mode/2up"
   },
   "kappler-375": {
-    "cessions": ["180", "200", "209", "210", "218"],
-    "scheduleTribes": ["Potawatomi", "Potawatomi (bands of Po-pin-a-waw, No-taw-kah and Mac-kah-tah-mo-ah)", "Potawatomi (Mau-ke-kose or Muck Rose's band)", "Potawatomi (bands of Nas-waw-kee and Quash-quaw)", "Potawatomi (Aub-ba-naub-ba's bad, by Pau-koo-shuck, his oldest son)"],
-    "presentDayTribes": ["Citizen Potawatomi Nation, Oklahoma", "Forest County Potawatomi Community, Wisconsin", "Hannahville Indian Community, Michigan", "Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan", "Nottawaseppi Huron Band of the Potawatomi, Michigan", "Pokagon Band of Potawatomi Indians, Michigan and Indiana", "Prairie Band Potawatomi Nation, Kansas"],
-    "states": ["IN"],
+    "cessions": [
+      "180",
+      "200",
+      "209",
+      "210",
+      "218"
+    ],
+    "scheduleTribes": [
+      "Potawatomi",
+      "Potawatomi (bands of Po-pin-a-waw, No-taw-kah and Mac-kah-tah-mo-ah)",
+      "Potawatomi (Mau-ke-kose or Muck Rose's band)",
+      "Potawatomi (bands of Nas-waw-kee and Quash-quaw)",
+      "Potawatomi (Aub-ba-naub-ba's bad, by Pau-koo-shuck, his oldest son)"
+    ],
+    "presentDayTribes": [
+      "Citizen Potawatomi Nation, Oklahoma",
+      "Forest County Potawatomi Community, Wisconsin",
+      "Hannahville Indian Community, Michigan",
+      "Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan",
+      "Nottawaseppi Huron Band of the Potawatomi, Michigan",
+      "Pokagon Band of Potawatomi Indians, Michigan and Indiana",
+      "Prairie Band Potawatomi Nation, Kansas"
+    ],
+    "states": [
+      "IN"
+    ],
     "why": "Royce lists the treaty of Oct. 26, 1832 (Tippecanoe river, Stat. L. VII, 394) with the Potawatomi: they cede area 180 in Indiana and keep band reserves, four of which are mapped (209 Aub-be-naub-bee, 218 Menominee and others, 200 Mau-ke-kose, 210 Nees-waugh-gee and Quash-qua, each ceded later). Those four stay. Areas 325, 436 and 437 belong to the Kickapoo supplementary article of Nov. 26, 1832 (Stat. L. VII, 393), which the USFS layer gave this treaty's Kappler link; they move to the Kickapoo treaty kappler-373.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/740/mode/2up"
   },
   "kappler-373": {
-    "royce": ["https://archive.org/stream/annualreportofbu218smit#page/698/mode/2up", "https://archive.org/stream/annualreportofbu218smit#page/740/mode/2up"],
-    "cessions": ["179", "325", "436", "437"],
-    "states": ["MO", "KS"],
+    "royce": [
+      "https://archive.org/stream/annualreportofbu218smit#page/698/mode/2up",
+      "https://archive.org/stream/annualreportofbu218smit#page/740/mode/2up"
+    ],
+    "cessions": [
+      "179",
+      "325",
+      "436",
+      "437"
+    ],
+    "states": [
+      "MO",
+      "KS"
+    ],
     "why": "Royce, under the Kickapoo treaty of Castor Hill, Oct. 24, 1832: 'These boundaries were altered as described by a supplemental article to this treaty dated Nov. 26, 1832.' That supplementary article's Kansas reserve is areas 325, 436 and 437, moved here from kappler-375.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/740/mode/2up"
   },
   "cession-1807-03-03-chippewa-delaware-ottawa-potawatomi-sene": {
     "name": "Act of Congress setting apart 13 sections for the Delaware, 1807-03-03",
-    "scheduleTribes": ["Delaware"],
-    "presentDayTribes": ["Delaware Nation, Oklahoma"],
+    "scheduleTribes": [
+      "Delaware"
+    ],
+    "presentDayTribes": [
+      "Delaware Nation, Oklahoma"
+    ],
     "note": "Not a treaty or a cession. Areas 90 and 91 are where the 13 sections lay; they were ceded by the treaty of Sept. 29, 1817 (kappler-153).",
     "why": "Royce lists Mar. 3, 1807 as an Act of Congress (Stat. L. II, 448) with the Delaware only: 'The U.S. reserve and set apart 13 sections, including the Lower Delaware town in Ohio, for the use of the Delawares', with 'These sections were ceded to the U.S. by treaty of Sept. 29, 1817. See 90, 91.' The other six nations came from the 1817 cession row.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/674/mode/2up"
   },
   "cession-1880-07-13-arikara-gros-ventre-mandan": {
-    "presentDayTribes": ["Three Affiliated Tribes of the Fort Berthold Reservation, North Dakota"],
+    "presentDayTribes": [
+      "Three Affiliated Tribes of the Fort Berthold Reservation, North Dakota"
+    ],
     "why": "Royce lists the Executive order of July 13, 1880 as restoring part of the Fort Berthold reservation (area 620) and adding to it (the present reserve, area 621) for the Arikara, Gros Ventre and Mandan of Fort Berthold. The Gros Ventre here are the Hidatsa of Fort Berthold, not the Gros Ventre of Fort Belknap in Montana, whose 1880 order is a separate record (cession-1880-07-13-blackfoot-blood-gros-ventre-piegan-river). Fort Belknap is removed.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/900/mode/2up"
   },
   "kappler-490": {
     "date": "1837-01-14",
-    "royce": ["https://archive.org/stream/annualreportofbu218smit#page/764/mode/2up", "https://archive.org/stream/annualreportofbu218smit#page/698/mode/2up", "https://archive.org/stream/annualreportofbu218smit#page/700/mode/2up"],
+    "royce": [
+      "https://archive.org/stream/annualreportofbu218smit#page/764/mode/2up",
+      "https://archive.org/stream/annualreportofbu218smit#page/698/mode/2up",
+      "https://archive.org/stream/annualreportofbu218smit#page/700/mode/2up"
+    ],
     "why": "Royce lists the treaty of Detroit, Jan. 14, 1837 (Stat. L. VII, 528) with the Saginaw tribe of the Chippewa nation, ceding the reserves numbered 227 to 241; his 1819 schedule marks each of those reserves 'Ceded to the U. S. by treaty of Jan. 14, 1837'. This record carries those areas and the Kappler page of the 1837 treaty, but the USFS layer gave it the 1819 date. The Saginaw treaty of Sept. 24, 1819 is kappler-193. Date corrected; the 1819 schedule pages stay as the record of where the reserves came from.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/764/mode/2up"
   },
   "kappler-391": {
-    "scheduleTribes": ["United Seneka and Shawnee"],
-    "presentDayTribes": ["Absentee-Shawnee Tribe of Indians of Oklahoma", "Seneca Nation of New York", "Seneca-Cayuga Nation, Oklahoma", "Seneca-Cayuga Tribe of Oklahoma", "Shawnee Tribe, Oklahoma", "Tonawanda Band of Seneca Indians of New York"],
+    "scheduleTribes": [
+      "United Seneka and Shawnee"
+    ],
+    "presentDayTribes": [
+      "Absentee-Shawnee Tribe of Indians of Oklahoma",
+      "Seneca Nation of New York",
+      "Seneca-Cayuga Nation, Oklahoma",
+      "Seneca-Cayuga Tribe of Oklahoma",
+      "Shawnee Tribe, Oklahoma",
+      "Tonawanda Band of Seneca Indians of New York"
+    ],
     "note": "The areas drawn are Royce's cross-references, not land ceded by this treaty. The tract granted here later held the Seneka (499), Wyandot (498), Shawnee (502), Ottawa (501) and part of the Peoria (500) reserves; the Wyandot, Ottawa and Peoria tracts were assigned to those nations by the treaty of Feb. 23, 1867 (kappler-968). Which present-day nations succeed the Sandusky Seneca and the Lewistown band is not confirmed from a nation's own source.",
     "why": "Royce lists the treaty of Dec. 29, 1832 at the Seneca agency (Stat. L. VII, 411) with the united Seneka and Shawnee only: they cede the land west of the Neosho granted them in 1831 and receive a tract east of it, north half to the mixed band of Lewistown, south half to the Senecas of Sandusky. Royce's remarks say the Ottawa and Peoria tracts 'were ceded to them by the Seneka and Shawnee, Feb. 23, 1867' and the Wyandot tract 'was ceded to them by the Seneka by treaty of Feb. 23, 1867'. The Kaskaskia, Ottawa, Peoria, Piankishaw, Quapaw, Wea and Wyandot came from the 1867 rows and are removed, with the Miami, Ottawa, Peoria, Quapaw and Wyandotte present-day nations.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/744/mode/2up"
   },
   "kappler-139": {
-    "royce": ["https://archive.org/stream/annualreportofbu218smit#page/680/mode/2up", "https://archive.org/stream/annualreportofbu218smit#page/678/mode/2up", "https://archive.org/stream/annualreportofbu218smit#page/676/mode/2up"],
-    "scheduleTribes": ["Wea; Kickapoo"],
-    "presentDayTribes": ["Kickapoo Traditional Tribe of Texas", "Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas", "Kickapoo Tribe of Oklahoma"],
+    "royce": [
+      "https://archive.org/stream/annualreportofbu218smit#page/680/mode/2up",
+      "https://archive.org/stream/annualreportofbu218smit#page/678/mode/2up",
+      "https://archive.org/stream/annualreportofbu218smit#page/676/mode/2up"
+    ],
+    "scheduleTribes": [
+      "Wea; Kickapoo"
+    ],
+    "presentDayTribes": [
+      "Kickapoo Traditional Tribe of Texas",
+      "Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas",
+      "Kickapoo Tribe of Oklahoma"
+    ],
     "note": "Not a cession. The treaty confirms the boundary of land already ceded on Sept. 30, 1809 (kappler-109, kappler-111) and Dec. 9, 1809 (kappler-112); the areas drawn are those 1809 cessions. The Wea's present-day successor is not named here.",
     "why": "Royce lists the treaty of Fort Harrison, June 4, 1816 (Stat. L. VII, 145) with the Wea and Kickapoo only: 'The Weas and Kickapoos recognize and confirm the boundary line surveyed and marked by the U. S. of the land on Wabash and White rivers ceded by treaty of Sept. 30, 1809', and the Kickapoo acknowledge the cession they made by treaty of Dec. 9, 1809. The map column gives only 'See 71, 73'. The Delaware, Miami, Eel River Miami and Potawatomi came from the 1809 rows and are removed.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/680/mode/2up"
   },
   "kappler-380": {
-    "scheduleTribes": ["Potawatomi of Indiana and Michigan", "Potawatomi, Masac's band", "Potawatomi", "Potawatomi (Mota's band)", "Potawatomi (band of Wau-ke-wa, Chekose's only son)", "Potawatomi (Mes-quaw-buck's band)"],
-    "presentDayTribes": ["Citizen Potawatomi Nation, Oklahoma", "Forest County Potawatomi Community, Wisconsin", "Hannahville Indian Community, Michigan", "Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan", "Nottawaseppi Huron Band of the Potawatomi, Michigan", "Pokagon Band of Potawatomi Indians, Michigan and Indiana", "Prairie Band Potawatomi Nation, Kansas"],
+    "scheduleTribes": [
+      "Potawatomi of Indiana and Michigan",
+      "Potawatomi, Masac's band",
+      "Potawatomi",
+      "Potawatomi (Mota's band)",
+      "Potawatomi (band of Wau-ke-wa, Chekose's only son)",
+      "Potawatomi (Mes-quaw-buck's band)"
+    ],
+    "presentDayTribes": [
+      "Citizen Potawatomi Nation, Oklahoma",
+      "Forest County Potawatomi Community, Wisconsin",
+      "Hannahville Indian Community, Michigan",
+      "Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan",
+      "Nottawaseppi Huron Band of the Potawatomi, Michigan",
+      "Pokagon Band of Potawatomi Indians, Michigan and Indiana",
+      "Prairie Band Potawatomi Nation, Kansas"
+    ],
     "why": "Royce lists the treaty of Tippecanoe river, Oct. 27, 1832 (Stat. L. VII, 399) with the Potawatomi of Indiana and Michigan only. Area 181 is the cession; the other areas on this record (188, 190, 201, 204, 208, 221 to 225) are the band reserves this treaty made, each marked in Royce's map column against this treaty and ceded later (1833 to 1836). So the areas belong together, but the Chippewa and Ottawa, which came from the row of a reserve later ceded at Chicago in 1833, were not parties to this treaty and are removed.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/742/mode/2up"
   },
@@ -130,40 +290,75 @@
     "source": "https://archive.org/stream/annualreportofbu218smit#page/686/mode/2up"
   },
   "cession-1870-04-12-arikara-gros-ventre-mandan": {
-    "presentDayTribes": ["Three Affiliated Tribes of the Fort Berthold Reservation, North Dakota"],
+    "presentDayTribes": [
+      "Three Affiliated Tribes of the Fort Berthold Reservation, North Dakota"
+    ],
     "why": "Royce lists the Executive order of Apr. 12, 1870 with the Arikara, Gros Ventre and Mandan: 'President sets apart a reservation at Fort Berthold, Dakota', in lieu of their Fort Laramie (1851) territory. The Gros Ventre here are the Hidatsa of Fort Berthold, not the Gros Ventre of Fort Belknap in Montana. Fort Belknap is removed, as on the 1880 order.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/852/mode/2up"
   },
   "kappler-403": {
-    "scheduleTribes": ["Quapaw"],
-    "presentDayTribes": ["Quapaw Tribe of Indians, Oklahoma"],
+    "scheduleTribes": [
+      "Quapaw"
+    ],
+    "presentDayTribes": [
+      "Quapaw Tribe of Indians, Oklahoma"
+    ],
     "why": "Royce lists the treaty of May 13, 1833 (Stat. L. VII, 424) with the Quapaw only: they give up the land on Bayou Treache given them by the Caddo and the U.S. convey them 150 sections west of Missouri between the Senecas and Shawnees, map 'See 503, 504, 505'. The Kaskaskia, Seneka, Ottawa, Peoria, Piankishaw, Shawnee, Wea and Wyandot were copied from the 1867 rows for the same areas and are removed.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/748/mode/2up"
   },
   "kappler-642": {
-    "cessions": ["325", "436", "437"],
-    "scheduleTribes": ["Kickapoo"],
-    "presentDayTribes": ["Kickapoo Traditional Tribe of Texas", "Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas", "Kickapoo Tribe of Oklahoma"],
-    "states": ["KS"],
+    "cessions": [
+      "325",
+      "436",
+      "437"
+    ],
+    "scheduleTribes": [
+      "Kickapoo"
+    ],
+    "presentDayTribes": [
+      "Kickapoo Traditional Tribe of Texas",
+      "Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas",
+      "Kickapoo Tribe of Oklahoma"
+    ],
+    "states": [
+      "KS"
+    ],
     "why": "Royce lists two treaties of May 18, 1854: the Sauk and Fox of the Missouri (Stat. L. X, 1074; area 324, reserve 'See 323, 427') and the Kickapoo (Stat. L. X, 1078; 'Cede part of tract assigned them by treaties of Oct. 24 and Nov. 26, 1832. Reserve 150,000 acres', area 325, 'See 436, 437'). This record's Kappler page is the Kickapoo treaty. Area 323 is the Iowa cession of May 17, 1854 (kappler-636). The Sauk and Fox treaty is split out below; the Iowa and Sauk and Fox are removed here.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/792/mode/2up"
   },
   "cession-1854-05-18-sauk-and-fox-of-the-missouri": {
     "splitFrom": "kappler-642",
     "date": "1854-05-18",
-    "royce": ["https://archive.org/stream/annualreportofbu218smit#page/792/mode/2up"],
-    "cessions": ["324", "427"],
-    "scheduleTribes": ["Sauk and Fox of the Missouri"],
-    "presentDayTribes": ["Sac & Fox Nation of Missouri in Kansas and Nebraska"],
-    "states": ["KS", "NE"],
+    "royce": [
+      "https://archive.org/stream/annualreportofbu218smit#page/792/mode/2up"
+    ],
+    "cessions": [
+      "324",
+      "427"
+    ],
+    "scheduleTribes": [
+      "Sauk and Fox of the Missouri"
+    ],
+    "presentDayTribes": [
+      "Sac & Fox Nation of Missouri in Kansas and Nebraska"
+    ],
+    "states": [
+      "KS",
+      "NE"
+    ],
     "note": "Kappler page not yet confirmed; the USFS link pointed at the Kickapoo treaty of the same day.",
     "why": "Royce: Washington, May 18, 1854 (Stat. L. X, 1074), Sauk and Fox of the Missouri. 'Cede tract assigned them by treaty of Sept. 17, 1836. Reserve tract of 50 sections', area 324; the reserve, area 427, 'was selected partly from lands ceded by the Iowa, May 17, 1854, and partly from the public land. It was ceded to the U.S., Mar. 6, 1861.'",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/792/mode/2up"
   },
   "cession-1889-03-02-kaskaskia-mixed-seneka-ottawa-of-blaneha": {
     "name": "Act of Congress for allotment to the United Peorias and Miamies, 1889-03-02",
-    "scheduleTribes": ["Wea, Peoria, et al."],
-    "presentDayTribes": ["Peoria Tribe of Indians of Oklahoma", "Miami Tribe of Oklahoma"],
+    "scheduleTribes": [
+      "Wea, Peoria, et al."
+    ],
+    "presentDayTribes": [
+      "Peoria Tribe of Indians of Oklahoma",
+      "Miami Tribe of Oklahoma"
+    ],
     "note": "Not a cession: an allotment act. Royce's map column reads 'See 499', which is the Seneka reserve; the Peoria reserve Royce describes under the 1867 treaty is 500 (with 504, ceded by the Quapaw for the Peoria). The area drawn is kept as Royce gives it but may be the wrong reserve.",
     "why": "Royce lists the act of Mar. 2, 1889 (Stat. L. XXV, 1013) under 'Wea, Peoria, et al.': 'Provides for allotment of lands in severalty'. The act (ch. 422) is 'An act to provide for allotment of land in severalty to United Peorias and Miamies in Indian Territory' and applies to 'the Confederated Wea, Peoria, Kaskaskia, and Piankeshaw tribes of Indians, and the Western Miami tribe of Indians'. The Seneca, Ottawa, Quapaw, Shawnee and Wyandot are not parties and are removed.",
     "source": "https://www.govinfo.gov/link/statute/25/1013"
@@ -192,84 +387,158 @@
     "splitFrom": "kappler-433",
     "date": "1826-10-23",
     "kappler": "https://treaties.okstate.edu/treaties/treaty-with-the-miami-1826-0278",
-    "royce": ["https://archive.org/stream/annualreportofbu218smit#page/716/mode/2up"],
-    "cessions": ["255", "192", "194", "195", "199", "193"],
-    "scheduleTribes": ["Miami"],
-    "presentDayTribes": ["Miami Tribe of Oklahoma"],
-    "states": ["IN"],
-    "note": "Royce gives the cession itself no area of its own: 'This was an indefinite claim, and is more specifically covered by cession of Oct. 16, 1826 (first clause), by the Potawatomi' (area 132). The six areas shown are the reserves this treaty made for the Miami, which Royce numbers under later treaties: 192, 193, 194 and 195 ceded by the treaty of Oct. 23, 1834, 199 granted to J. B. Richardville by that treaty, and 255 ceded by the treaty of Nov. 6, 1838. The individual reserves (Beaver, Little Charley, Laventure's daughter, Chapine) have no boundaries on Royce's map.",
-    "why": "Royce: near the mouth of the Mississinewa river, on the Wabash, Oct. 23, 1826 (Stat. L. VII, 300). The Miami cede all their claim to land in Indiana north and west of the Wabash and Miami rivers and of the St. Mary's cession of 1818, keeping ten reservations; Royce's map column gives See 255 (Seek's village), See 192 (Flat Belly's village), See 194 (White Racoon's village), See 195 (Mud creek), See 199 (forks of the Wabash) and See 193 (the five mile tract below the Mississinewa). The USFS layer had no record for this treaty: its two Miami entries on this date were really the treaties of 1834 and 1838. Kappler text: Treaty with the Miami, 1826, 7 Stat. 300, proclaimed Jan. 24, 1827 (Oklahoma State University Tribal Treaties Database).",
+    "royce": [
+      "https://archive.org/stream/annualreportofbu218smit#page/716/mode/2up"
+    ],
+    "cessions": [
+      "132",
+      "146",
+      "180",
+      "181"
+    ],
+    "scheduleTribes": [
+      "Miami"
+    ],
+    "presentDayTribes": [
+      "Miami Tribe of Oklahoma"
+    ],
+    "states": [
+      "IN"
+    ],
+    "note": "The cession is drawn on the areas where the land actually lay. Royce gives it no area of its own: 'This was an indefinite claim, and is more specifically covered by cession of Oct. 16, 1826 (first clause), by the Potawatomi' (area 132). The Indian Claims Commission (Dockets 124-B and 254, Additional Findings, Sept. 8, 1978) placed the Miami interest ceded here in Royce Areas 132, 146, 180 and 181 (tracts Y-1 to Y-4: an undivided 70 percent of a tract in 132 and undivided 50 percent interests in 146, 180 and 181), land the Potawatomi also ceded in 1826, 1828 and 1832. Royce's map column for this treaty points instead to the reserves it made for the Miami, 'See 255, 192, 194, 195, 199, 193', which are numbered under the later treaties of Oct. 23, 1834 (kappler-433) and Nov. 6, 1838 (kappler-527); the individual reserves have no boundaries on his map.",
+    "why": "Royce: near the mouth of the Mississinewa river, on the Wabash, Oct. 23, 1826 (Stat. L. VII, 300). The Miami cede all their claim to land in Indiana north and west of the Wabash and Miami rivers and of the St. Mary's cession of 1818, keeping ten reservations; Royce's map column gives See 255 (Seek's village), See 192 (Flat Belly's village), See 194 (White Racoon's village), See 195 (Mud creek), See 199 (forks of the Wabash) and See 193 (the five mile tract below the Mississinewa). The USFS layer had no record for this treaty: its two Miami entries on this date were really the treaties of 1834 and 1838. Kappler text: Treaty with the Miami, 1826, 7 Stat. 300, proclaimed Jan. 24, 1827 (Oklahoma State University Tribal Treaties Database). Areas changed 2026-11-08 from the six reserves Royce cross-references to the four areas the ceded land lay in: 132 on Royce's own remark (p. 717), 146, 180 and 181 on the Indian Claims Commission's findings (https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1089).",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/716/mode/2up"
   },
   "kappler-673": {
-    "cessions": ["352"],
-    "scheduleTribes": ["Calapooia; Confederated Bands of Willamette valley"],
-    "presentDayTribes": ["Confederated Tribes of the Grand Ronde Community of Oregon", "Confederated Tribes of the Siletz Indians of Oregon", "Confederated Tribes of the Warm Springs Reservation of Oregon"],
-    "states": ["OR"],
+    "cessions": [
+      "352"
+    ],
+    "scheduleTribes": [
+      "Calapooia; Confederated Bands of Willamette valley"
+    ],
+    "presentDayTribes": [
+      "Confederated Tribes of the Grand Ronde Community of Oregon",
+      "Confederated Tribes of the Siletz Indians of Oregon",
+      "Confederated Tribes of the Warm Springs Reservation of Oregon"
+    ],
+    "states": [
+      "OR"
+    ],
     "why": "Royce lists the treaty of Dayton, Jan. 22, 1855 (Stat. L. X, 1143) with the Calapooia and confederated bands of Willamette valley only: their cession is area 352 (Oregon 1), and against the reserve he writes 'Reserve set apart by Executive order of June 30, 1857, See 404. Oregon 1.' The USFS shape numbered 404 is a different tract: Royce's area 404 in Indian Territory 2 is the land the Creeks ceded to the Seminole by the treaty of Aug. 7, 1856, 'ceded to the U. S. by the Seminole, Mar. 21, 1866' (p. 817). That Oklahoma shape, its Creek and Seminole tribes and the OK state were copied onto this Oregon treaty through the cross-reference, and are removed.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/800/mode/2up"
   },
   "kappler-950": {
-    "presentDayTribes": ["Cherokee Nation, Oklahoma", "United Keetoowah Band of Cherokee Indians in Oklahoma", "Eastern Band of Cherokee Indians of North Carolina"],
+    "presentDayTribes": [
+      "Cherokee Nation, Oklahoma",
+      "United Keetoowah Band of Cherokee Indians in Oklahoma",
+      "Eastern Band of Cherokee Indians of North Carolina"
+    ],
     "why": "Royce lists the treaty of Washington, July 19, 1866 (Stat. L. XIV, 799) with the Cherokee only, areas 489 to 492. The Santee Sioux appear on the next row, a separate Executive order of July 20, 1866 ('President withdraws certain townships as an addition to Santee Sioux reserve', Nebraska, no area of its own). The Santee Sioux Nation was copied onto area 492 and is removed from this treaty.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/840/mode/2up"
   },
   "kappler-393": {
-    "presentDayTribes": ["Cherokee Nation, Oklahoma", "Eastern Band of Cherokee Indians of North Carolina", "United Keetoowah Band of Cherokee Indians in Oklahoma"],
+    "presentDayTribes": [
+      "Cherokee Nation, Oklahoma",
+      "Eastern Band of Cherokee Indians of North Carolina",
+      "United Keetoowah Band of Cherokee Indians in Oklahoma"
+    ],
     "note": "Areas 489 and 492 are numbered under the Cherokee treaty of July 19, 1866 (kappler-950), but Royce's map column for this treaty of Fort Gibson, Feb. 14, 1833 reads 'See 492, 489': they are his cross-references to the Cherokee country this treaty adjusted, so they are kept.",
     "why": "Royce lists the treaty of Feb. 14, 1833 with the Cherokee only, map 'See 492, 489' (p. 745). The Santee Sioux Nation came from the USFS present-day field for area 492 and is not a party; on Royce p. 840 the Santee Sioux appear only on a separate Executive order of July 20, 1866. It is removed.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/744/mode/2up"
   },
   "kappler-215": {
-    "scheduleTribes": ["Sauk and Fox"],
-    "presentDayTribes": ["Sac & Fox Nation of Missouri in Kansas and Nebraska", "Sac & Fox Nation, Oklahoma", "Sac & Fox Tribe of the Mississippi in Iowa"],
+    "scheduleTribes": [
+      "Sauk and Fox"
+    ],
+    "presentDayTribes": [
+      "Sac & Fox Nation of Missouri in Kansas and Nebraska",
+      "Sac & Fox Nation, Oklahoma",
+      "Sac & Fox Tribe of the Mississippi in Iowa"
+    ],
     "why": "Royce lists two treaties of Washington, Aug. 4, 1824: the Sauk and Fox (Stat. L. VII, 229), map 'See 69' and 120, and the Iowa (Stat. L. VII, 231), 'See 69'. Area 69 is the Osage cession of Nov. 10, 1808, which Royce cross-references because 'the territory purporting to be herein ceded had already been covered by a previous cession by the Osage'. The Osage and Iowa were copied from the area 69 row; neither signed this treaty, so the Osage Nation is removed and the schedule tribes are the Sauk and Fox only.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/706/mode/2up"
   },
   "kappler-80": {
-    "scheduleTribes": ["Piankishaw"],
-    "presentDayTribes": ["Peoria Tribe of Indians of Oklahoma"],
+    "scheduleTribes": [
+      "Piankishaw"
+    ],
+    "presentDayTribes": [
+      "Peoria Tribe of Indians of Oklahoma"
+    ],
     "why": "Royce lists the treaty of Vincennes, Aug. 27, 1804 (Stat. L. VII, 83) with the Piankishaw only: they cede the tract between the Ohio and Wabash already ceded by the Delaware on Aug. 18, 1804 ('See 49'), and acknowledge the Kaskaskia's right to sell the country ceded on Aug. 13, 1803 ('See 48'). Both areas stay as cross-references. The Delaware and Miami (from the area 49 row) and the Kaskaskia (from the area 48 row) were not parties; the Delaware Nation and the Miami Tribe of Oklahoma are removed. The Peoria Tribe, which the USFS layer already gave this record, is kept for the Piankishaw.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/666/mode/2up"
   },
   "kappler-128": {
-    "scheduleTribes": ["Sauk (that portion residing on Missouri river)"],
-    "presentDayTribes": ["Sac & Fox Nation of Missouri in Kansas and Nebraska"],
+    "scheduleTribes": [
+      "Sauk (that portion residing on Missouri river)"
+    ],
+    "presentDayTribes": [
+      "Sac & Fox Nation of Missouri in Kansas and Nebraska"
+    ],
     "why": "Royce lists the treaty of Portage des Sioux, Sept. 13, 1815 (Stat. L. VII, 134) with the 'Sauk (that portion residing on Missouri river)', who assent to the treaty of St. Louis of Nov. 3, 1804, map 'See 50, 51'; the areas stay. The Fox made their own treaty the next day (kappler-129). The Oklahoma State University Tribal Treaties Database (Treaty with the Sauk, 1815, Kappler p. 120) names the Sac & Fox Nation of Missouri in Kansas and Nebraska for this treaty; the two other Sac and Fox nations are removed.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/680/mode/2up"
   },
   "kappler-129": {
-    "scheduleTribes": ["Fox"],
-    "presentDayTribes": ["Sac & Fox Nation, Oklahoma", "Sac & Fox Tribe of the Mississippi in Iowa"],
+    "scheduleTribes": [
+      "Fox"
+    ],
+    "presentDayTribes": [
+      "Sac & Fox Nation, Oklahoma",
+      "Sac & Fox Tribe of the Mississippi in Iowa"
+    ],
     "why": "Royce lists the treaty of Portage des Sioux, Sept. 14, 1815 (Stat. L. VII, 135) with the Fox only, who assent to and confirm the treaty of Nov. 3, 1804, map 'See 50, 51'; the areas stay. The Missouri Sauk made the treaty of the day before (kappler-128), so the Sac & Fox Nation of Missouri, which descends from them, is removed here.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/680/mode/2up"
   },
   "kappler-99": {
-    "presentDayTribes": ["Cherokee Nation, Oklahoma", "Eastern Band of Cherokee Indians of North Carolina", "United Keetoowah Band of Cherokee Indians in Oklahoma"],
+    "presentDayTribes": [
+      "Cherokee Nation, Oklahoma",
+      "Eastern Band of Cherokee Indians of North Carolina",
+      "United Keetoowah Band of Cherokee Indians in Oklahoma"
+    ],
     "why": "The Eastern Band of Cherokee Indians was listed twice under two spellings ('of North Carolina' and ', North Carolina'). One spelling is kept; no nation is added or removed.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/674/mode/2up"
   },
   "kappler-636": {
-    "scheduleTribes": ["Iowa"],
-    "presentDayTribes": ["Iowa Tribe of Kansas and Nebraska", "Iowa Tribe of Oklahoma"],
+    "scheduleTribes": [
+      "Iowa"
+    ],
+    "presentDayTribes": [
+      "Iowa Tribe of Kansas and Nebraska",
+      "Iowa Tribe of Oklahoma"
+    ],
     "why": "Royce lists the treaty of Washington, May 17, 1854 (Stat. L. X, 1069) with the Iowa only, area 323 'See 428, 430'. Area 428 is the Sauk and Fox of the Missouri reserve of May 18, 1854, 'selected partly from lands ceded by the Iowa, May 17, 1854', and 430 is the part the Iowa later gave up for them (Mar. 6, 1861); the areas stay as cross-references. The Sauk and Fox and the Delaware came from those rows and were not parties; they are removed.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/792/mode/2up"
   },
   "kappler-469": {
-    "scheduleTribes": ["Swan-creek and Black-river bands of the Chippewa nation residing in Michigan", "Chippewa of Swan creek and Black River"],
-    "presentDayTribes": ["Saginaw Chippewa Indian Tribe of Michigan"],
+    "scheduleTribes": [
+      "Swan-creek and Black-river bands of the Chippewa nation residing in Michigan",
+      "Chippewa of Swan creek and Black River"
+    ],
+    "presentDayTribes": [
+      "Saginaw Chippewa Indian Tribe of Michigan"
+    ],
     "why": "Royce lists the treaty of Washington, May 9, 1836 (Stat. L. VII, 503) with the Swan Creek and Black River bands of Chippewa only: they cede areas 214 to 217 in Michigan and are promised 8,320 acres west of the Mississippi, 'See 417, 418'. The Munsee or Christian Indians join these bands only by the treaty of July 16, 1859 (Royce p. 820, 'Swan Creek and Black River Chippewas and the Munsee or Christian Indians become united as one band'), whose row the USFS layer shares for area 417. The Munsee and the Stockbridge Munsee Community are removed from this 1836 treaty; the areas stay.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/758/mode/2up"
   },
   "kappler-789": {
-    "scheduleTribes": ["Sioux (Medewakanton and Wahpekute bands)"],
-    "presentDayTribes": ["Lower Sioux Indian Community in the State of Minnesota", "Prairie Island Indian Community in the State of Minnesota", "Shakopee Mdewakanton Sioux Community of Minnesota"],
+    "scheduleTribes": [
+      "Sioux (Medewakanton and Wahpekute bands)"
+    ],
+    "presentDayTribes": [
+      "Lower Sioux Indian Community in the State of Minnesota",
+      "Prairie Island Indian Community in the State of Minnesota",
+      "Shakopee Mdewakanton Sioux Community of Minnesota"
+    ],
     "why": "Royce lists two treaties of Washington, June 19, 1858: the Medewakanton and Wahpekute bands (Stat. L. XII, 1031), map 'See 440' and 413, and the Sisseton and Wahpeton bands (Stat. L. XII, 1037), 'See 440' and 414. This record's Kappler page (p. 781) is the Mdewakanton and Wahpekute treaty. The Sisseton and Wahpeton came from the shared area 440 row and are removed; the Sisseton-Wahpeton Oyate stays on kappler-793.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/820/mode/2up"
   },
   "kappler-793": {
-    "scheduleTribes": ["Sioux (Wahpeton and Sisseton Bands)"],
-    "presentDayTribes": ["Sisseton-Wahpeton Oyate of the Lake Traverse Reservation, South Dakota"],
+    "scheduleTribes": [
+      "Sioux (Wahpeton and Sisseton Bands)"
+    ],
+    "presentDayTribes": [
+      "Sisseton-Wahpeton Oyate of the Lake Traverse Reservation, South Dakota"
+    ],
     "why": "Royce lists the treaty of Washington, June 19, 1858 (Stat. L. XII, 1037) with the Sisseton and Wahpeton bands, map 'See 440' and 414. This record's Kappler page (p. 785) is that treaty, signed by Sisseton and Wahpeton chiefs only. The Medewakanton and Wahpekute bands and their three Minnesota communities came from the shared area 440 row; they made their own treaty that day (kappler-789) and are removed here.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/820/mode/2up"
   },
@@ -279,12 +548,23 @@
     "source": "https://archive.org/stream/annualreportofbu218smit#page/814/mode/2up"
   },
   "cession-1894-08-15-indians-on-coast-of-oregon": {
-    "scheduleTribes": ["Alsea et al."],
+    "scheduleTribes": [
+      "Alsea et al."
+    ],
     "why": "Royce lists the Act of Aug. 15, 1894 (Stat. L. XXVIII, 323) under 'Alsea et al.': it confirms the agreement of Oct. 31, 1892 by which these Indians cede all the unallotted lands in the Siletz reservation except certain tracts. His map column reads 'See 479. Oregon 1', so area 479 is kept; only the tribe name changes.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/948/mode/2up"
   },
   "cession-1864-01-15-apache": {
-    "presentDayTribes": ["Apache Tribe of Oklahoma", "Fort Sill Apache Tribe of Oklahoma", "Jicarilla Apache Nation, New Mexico", "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico", "San Carlos Apache Tribe of the San Carlos Reservation, Arizona", "Tonto Apache Tribe of Arizona", "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona", "Navajo Nation, Arizona, New Mexico & Utah"],
+    "presentDayTribes": [
+      "Apache Tribe of Oklahoma",
+      "Fort Sill Apache Tribe of Oklahoma",
+      "Jicarilla Apache Nation, New Mexico",
+      "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico",
+      "San Carlos Apache Tribe of the San Carlos Reservation, Arizona",
+      "Tonto Apache Tribe of Arizona",
+      "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona",
+      "Navajo Nation, Arizona, New Mexico & Utah"
+    ],
     "note": "Royce names only 'Apache' for this order and does not say which bands; the seven Apache nations are left as the USFS layer gives them until a source names the bands held at Bosque Redondo.",
     "why": "Royce lists the Executive order of Jan. 15, 1864 with the Apache: 'President directs establishment of a reserve in New Mexico, 40 miles square, around Bosque Redondo as the center' (area 448). His remarks: 'The Navaho were subsequently removed to this reserve. Difficulties ensuing between the two tribes, the Apache, in 1865, abandoned the reserve. In 1868, in consequence of the treaty with the Navaho June 1, that tribe removed to a new reserve.' The Navajo Nation is added.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/830/mode/2up"
@@ -300,45 +580,86 @@
     "source": "https://archive.org/stream/annualreportofbu218smit#page/854/mode/2up"
   },
   "cession-1886-10-01-apache-eastern-bands": {
-    "presentDayTribes": ["Apache Tribe of Oklahoma", "Jicarilla Apache Nation, New Mexico", "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico"],
+    "presentDayTribes": [
+      "Apache Tribe of Oklahoma",
+      "Jicarilla Apache Nation, New Mexico",
+      "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico"
+    ],
     "note": "The date is not Royce's date for this area. Area 688 is the 'country claimed by them at beginning of their relations with the U. S.', with no date of its own; it is printed in the block headed 'Oct. 1, Act of Congress, Stat. L. XI, 374', which belongs to the Pueblo grants above it. The date is left as the USFS layer gives it because Royce gives no other.",
     "why": "Royce p. 923, area 688: 'The Apache alluded to here as Eastern bands comprised the bulk of the Jicarilla and Mescalero Apache... A few of them concluded a treaty Oct. 17, 1865, by which they agreed to confederate with the Cheyenne and Arapaho... Subsequently, by treaty of Oct. 21, 1867, they were confederated with the Kiowa and Comanche.' The Coyotero (White Mountain) and Mimbre bands are named under area 689, the Western bands. The White Mountain Apache Tribe and the Fort Sill Apache Tribe are removed from the eastern bands.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up"
   },
   "cession-1872-05-23-potawatomi": {
-    "scheduleTribes": ["Potawatomi and absentee Shawnee"],
-    "presentDayTribes": ["Citizen Potawatomi Nation, Oklahoma", "Forest County Potawatomi Community, Wisconsin", "Hannahville Indian Community, Michigan", "Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan", "Nottawaseppi Huron Band of the Potawatomi, Michigan", "Pokagon Band of Potawatomi Indians, Michigan and Indiana", "Prairie Band Potawatomi Nation, Kansas", "Absentee-Shawnee Tribe of Indians of Oklahoma"],
+    "scheduleTribes": [
+      "Potawatomi and absentee Shawnee"
+    ],
+    "presentDayTribes": [
+      "Citizen Potawatomi Nation, Oklahoma",
+      "Forest County Potawatomi Community, Wisconsin",
+      "Hannahville Indian Community, Michigan",
+      "Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan",
+      "Nottawaseppi Huron Band of the Potawatomi, Michigan",
+      "Pokagon Band of Potawatomi Indians, Michigan and Indiana",
+      "Prairie Band Potawatomi Nation, Kansas",
+      "Absentee-Shawnee Tribe of Indians of Oklahoma"
+    ],
     "why": "Royce lists the Act of May 23, 1872 (Stat. L. XVII, 159) with the 'Potawatomi and absentee Shawnee': 'Home provided for Shawnees on 30 miles square tract of the Pottawatomies in Indian Territory', map 'See 506'. The Absentee-Shawnee Tribe is added.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/856/mode/2up"
   },
   "cession-1891-03-03-potawatomi": {
-    "scheduleTribes": ["Citizen band of Potawatomi", "Absentee Shawnee"],
-    "presentDayTribes": ["Citizen Potawatomi Nation, Oklahoma", "Absentee-Shawnee Tribe of Indians of Oklahoma"],
+    "scheduleTribes": [
+      "Citizen band of Potawatomi",
+      "Absentee Shawnee"
+    ],
+    "presentDayTribes": [
+      "Citizen Potawatomi Nation, Oklahoma",
+      "Absentee-Shawnee Tribe of Indians of Oklahoma"
+    ],
     "why": "Royce lists two Acts of Mar. 3, 1891 (Stat. L. XXVI, 1016), both 'See 506': one confirms the agreement by which the Citizen band of Potawatomi cede the tract to the U. S., the other the agreement by which the Absentee Shawnee cede the same tract; each also confirms allotments. The USFS layer merged both into one record under 'Potawatomi'. The record keeps both rows; the six other Potawatomi nations, who were not parties, are removed and the Absentee-Shawnee Tribe is added.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/940/mode/2up"
   },
   "cession-1864-05-05-uta": {
-    "presentDayTribes": ["Southern Ute Indian Tribe of the Southern Ute Reservation, Colorado", "Ute Indian Tribe of the Uintah & Ouray Reservation, Utah", "Ute Mountain Ute Tribe, Colorado, New Mexico, & Utah", "Confederated Tribes of the Goshute Reservation"],
+    "presentDayTribes": [
+      "Southern Ute Indian Tribe of the Southern Ute Reservation, Colorado",
+      "Ute Indian Tribe of the Uintah & Ouray Reservation, Utah",
+      "Ute Mountain Ute Tribe, Colorado, New Mexico, & Utah",
+      "Confederated Tribes of the Goshute Reservation"
+    ],
     "note": "Royce names only 'Uta' and gives no present-day successors; whether the two Colorado Ute tribes belong on this Utah act was not settled from Royce and they are left as the USFS layer gives them.",
     "why": "Royce lists the Act of May 5, 1864 (Stat. L. XIII, 63) with the Uta: it provides for vacating and selling the Spanish Fork, Corn Creek, San Pete and Deep Creek reserves (areas 449 to 452). His remarks: 'The Deep Creek reserve was established in 1859 by Agent Jarvis for the Snakes and the Gosi Uta.' The Gosi Uta are the Goshute, so the Confederated Tribes of the Goshute Reservation are added.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/830/mode/2up"
   },
   "cession-1878-06-18-uta": {
-    "scheduleTribes": ["Uta (Spanish Fork, Corn Creek, Deep Creek, and San-pete)"],
-    "presentDayTribes": ["Southern Ute Indian Tribe of the Southern Ute Reservation, Colorado", "Ute Indian Tribe of the Uintah & Ouray Reservation, Utah", "Ute Mountain Ute Tribe, Colorado, New Mexico, & Utah", "Confederated Tribes of the Goshute Reservation"],
+    "scheduleTribes": [
+      "Uta (Spanish Fork, Corn Creek, Deep Creek, and San-pete)"
+    ],
+    "presentDayTribes": [
+      "Southern Ute Indian Tribe of the Southern Ute Reservation, Colorado",
+      "Ute Indian Tribe of the Uintah & Ouray Reservation, Utah",
+      "Ute Mountain Ute Tribe, Colorado, New Mexico, & Utah",
+      "Confederated Tribes of the Goshute Reservation"
+    ],
     "note": "Royce gives no present-day successors; whether the two Colorado Ute tribes belong on this act for Utah reserves was not settled from Royce and they are left as the USFS layer gives them.",
     "why": "Royce lists the Act of June 18, 1878 with the 'Uta (Spanish Fork, Corn Creek, Deep Creek, and San-pete)': it repeals part of the act of May 5, 1864 and restores the tracts, Nos. 449 to 452, to the public domain (map 'See 449-452'). The Deep Creek reserve was established in 1859 'for the Snakes and the Gosi Uta' (Royce p. 831), so the Confederated Tribes of the Goshute Reservation are added.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/892/mode/2up"
   },
   "cession-1889-10-24-chippewa-of-the-mississippi-and-lake-sup": {
-    "scheduleTribes": ["Grand Portage Chippewa"],
-    "presentDayTribes": ["Grand Portage Band of the Minnesota Chippewa Tribe, Minnesota"],
+    "scheduleTribes": [
+      "Grand Portage Chippewa"
+    ],
+    "presentDayTribes": [
+      "Grand Portage Band of the Minnesota Chippewa Tribe, Minnesota"
+    ],
     "why": "Royce lists the agreements of July 8 to Nov. 21, 1889 (H. R. Ex. Doc. 247, 51st Cong., 1st sess.) band by band. The row signed Oct. 24, 1889 is the Grand Portage Chippewa: they 'cede to the U. S. all their title and interest in and to the Grand Portage reservation', map 'See 339'. The eight Lake Superior and Mississippi bands were copied from the treaty of Sept. 30, 1854 row for area 339 and are replaced by the Grand Portage Band.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/938/mode/2up"
   },
   "cession-1889-11-21-chippewa-of-the-mississippi-and-lake-sup": {
-    "scheduleTribes": ["The Fond du Lac Chippewa"],
-    "presentDayTribes": ["Fond du Lac Band of the Minnesota Chippewa Tribe, Minnesota"],
+    "scheduleTribes": [
+      "The Fond du Lac Chippewa"
+    ],
+    "presentDayTribes": [
+      "Fond du Lac Band of the Minnesota Chippewa Tribe, Minnesota"
+    ],
     "why": "Royce lists the agreements of July 8 to Nov. 21, 1889 band by band. The row signed Nov. 21, 1889 is the Fond du Lac Chippewa: they 'cede to the U. S. all their title and interest in the Fond du Lac reservation', map 'See 338'. The eight bands were copied from the treaty of Sept. 30, 1854 row for area 338 and are replaced by the Fond du Lac Band.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/938/mode/2up"
   },
@@ -356,5 +677,321 @@
     "note": "Not a cession: Royce lists this Executive order with the Chippewa (Lac Court Oreille band): the 'Secretary of Interior approves selection of reservation and restores to market balance of land withdrawn Nov. 22, 1859, and Apr. 4, 1865'. Area 337 is that reserve. The eight bands shown were copied from the 1854 treaty row.",
     "why": "Note only; no field changed. Royce p. 862, Mar. 1, 1873.",
     "source": "https://archive.org/stream/annualreportofbu218smit#page/862/mode/2up"
+  },
+  "kappler-626": {
+    "date": "1854-05-10",
+    "royce": [
+      "https://archive.org/stream/annualreportofbu218smit#page/792/mode/2up"
+    ],
+    "why": "The USFS layer dates this entry 1825-11-07 because areas 318 to 320 carry the 1825 St. Louis treaty as their first date, but every link on the record is the Shawnee treaty of Washington, May 10, 1854 (Stat. L. X, 1053): its Kappler page (vol. 2, p. 618) and Royce p. 792, where the Shawnee 'Cede tract granted them by treaties of Nov. 7, 1825, and Aug. 8, 1831' and the U. S. regrant them 200,000 acres of it, areas 318, 319 and 320 (p. 793, Kansas 2). Royce p. 715 cites 318 and 319 for the 1825 treaty only as 'See 318, 319', the Kansas tract later assigned under it. The 1825 treaty is kappler-270 (areas 125, 126). Only the date and the Royce page change.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/792/mode/2up"
+  },
+  "kappler-808": {
+    "cessions": [
+      "420",
+      "421"
+    ],
+    "scheduleTribes": [
+      "Kansa"
+    ],
+    "presentDayTribes": [
+      "Kaw Nation, Oklahoma"
+    ],
+    "states": [
+      "KS"
+    ],
+    "why": "Royce p. 822 lists the treaty of Kansas agency, Oct. 5, 1859 (Stat. L. XII, 1111) with the Kansa only, who keep a diminished reserve and have the rest sold in trust; its areas are 420 and 421 (p. 823, Kansas 2). The Western Shoshoni are on a separate row with no day ('Oct.'): 'A reserve was selected and set apart by agent Jarvis at Ruby Valley, Nevada', area 422 (Nevada). The USFS layer gave that row this treaty's date and Kappler link. Area 422, Nevada and the Te-Moak Tribe move to their own record, cession-1859-10-western-shoshoni-ruby-valley.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/822/mode/2up"
+  },
+  "cession-1859-10-western-shoshoni-ruby-valley": {
+    "splitFrom": "kappler-808",
+    "name": "Ruby Valley reserve set apart by agent Jarvis for the Western Shoshoni, 1859",
+    "date": "1859-10",
+    "royce": [
+      "https://archive.org/stream/annualreportofbu218smit#page/822/mode/2up"
+    ],
+    "cessions": [
+      "422"
+    ],
+    "scheduleTribes": [
+      "Western Shoshoni"
+    ],
+    "presentDayTribes": [
+      "Te-Moak Tribe of Western Shoshone Indians of Nevada"
+    ],
+    "states": [
+      "NV"
+    ],
+    "note": "Not a treaty or a cession: a reserve an Indian agent selected. Royce gives the month only. His remarks (p. 823): 'This reserve was 6 miles square. After being occupied and cultivated for several years it was abandoned and subsequently became a station for the Overland Stage Company.' The present-day tribe is the one the USFS layer gives for area 422.",
+    "why": "Royce p. 822, October 1859 (no day), Western Shoshoni: 'A reserve was selected and set apart by agent Jarvis at Ruby Valley, Nevada', area 422. The USFS layer had folded this row into the Kansa treaty of Oct. 5, 1859 (kappler-808).",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/822/mode/2up"
+  },
+  "kappler-384": {
+    "scheduleTribes": [
+      "Kaskaskia and Peoria, with the Michigamia, Cahokia and Tamaroa bands united with them"
+    ],
+    "presentDayTribes": [
+      "Peoria Tribe of Indians of Oklahoma"
+    ],
+    "note": "Areas 326, 327 and 328 are Royce's cross-references ('See 326, 327, 328'), the Kansas tract granted by this treaty and by the Piankeshaw and Wea treaty of Oct. 29, 1832 (kappler-390), which the four tribes ceded in part on May 30, 1854. Royce maps the tract once, so both treaties keep the same areas.",
+    "why": "Royce p. 742 to 743 lists the treaty of Castor Hill, Oct. 27, 1832 (Stat. L. VII, 403) with the Kaskaskia and Peoria and the Michigamia, Cahokia and Tamaroa bands united with them: they cede their claims in Illinois and Missouri and the U. S. give them 150 sections west of Missouri. The Piankeshaw and Wea made their own treaty two days later (p. 744, Stat. L. VII, 410). The Miami were party to neither; the Miami Tribe of Oklahoma is removed. The confederated Peoria, Kaskaskia, Piankeshaw and Wea are today the Peoria Tribe of Indians of Oklahoma.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/742/mode/2up"
+  },
+  "kappler-390": {
+    "scheduleTribes": [
+      "Piankishaw and Wea"
+    ],
+    "presentDayTribes": [
+      "Peoria Tribe of Indians of Oklahoma"
+    ],
+    "note": "Areas 326, 327 and 328 are Royce's cross-references ('See 326, 327, 328'), the Kansas tract granted by this treaty and by the Kaskaskia and Peoria treaty of Oct. 27, 1832 (kappler-384), which the four tribes ceded in part on May 30, 1854. Royce maps the tract once, so both treaties keep the same areas.",
+    "why": "Royce p. 744 lists the treaty of Castor Hill, Oct. 29, 1832 (Stat. L. VII, 410) with the Piankishaw and Wea only: 'The Piankeshaws and Weas cede to the U. S. all right to lands in the states of Missouri and Illinois' and receive 250 sections west of Missouri. The Kaskaskia and Peoria made the treaty of Oct. 27 (kappler-384). The Miami were not a party; the Miami Tribe of Oklahoma is removed.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/744/mode/2up"
+  },
+  "kappler-542": {
+    "cessions": [
+      "259",
+      "260"
+    ],
+    "scheduleTribes": [
+      "Wyandot"
+    ],
+    "presentDayTribes": [
+      "Wyandotte Nation, Oklahoma"
+    ],
+    "states": [
+      "OH",
+      "MI"
+    ],
+    "note": "Royce's map column also reads 'See 263': the U. S. promised the Wyandot 148,000 acres west of the Mississippi, failed to give it, and the Wyandot bought 39 sections from the Delaware instead by the agreement of Dec. 14, 1843 (kappler-1056), which carries area 263.",
+    "why": "Royce p. 776 lists the treaty of Upper Sandusky, Mar. 17, 1842 (Stat. L. VII, 581) with the Wyandot only: they cede the residue of the large reserve in Ohio (area 259) and the reserve on the Huron river in Michigan (area 260). His remark on p. 777: 'The U. S. failed to give them this tract and they purchased, Dec. 14, 1843, of the Delawares, 39 sections off the E. end of their reserve in Kansas', area 263. The Delaware were not party to this treaty; the Delaware Nation, area 263 and Kansas are removed.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/776/mode/2up"
+  },
+  "kappler-312": {
+    "scheduleTribes": [
+      "Delaware [supplemental to treaty of Oct. 3, 1818]"
+    ],
+    "presentDayTribes": [
+      "Delaware Nation, Oklahoma"
+    ],
+    "note": "Area 125 (the Cape Girardeau tract) is kept: Royce maps it 'See 125' because the Delaware ceded their joint claim to it here. Whether the Delaware Tribe of Indians, descended from the Delaware who moved to the Kansas reserve granted by this treaty, should also be listed is for Jordan; the USFS layer lists no such tribe anywhere.",
+    "why": "Royce p. 724 lists the supplementary treaty of Sept. 24, 1829 (Stat. L. VII, 327) with the Delaware only: they cede the land on James fork of White river and 'the tract known as the Cape Girardeau tract, which was granted to the Delawares and Shawnees jointly', and receive the country in the fork of the Kansas and Missouri, map 'See 125' and 150a. The Shawnee were not a party; they appear only because area 125 was a joint grant. The Shawnee nation and the two Shawnee tribes are removed.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/724/mode/2up"
+  },
+  "kappler-272": {
+    "presentDayTribes": [
+      "Muscogee (Creek) Nation, Oklahoma"
+    ],
+    "note": "The Muscogee (Creek) Nation is the successor of the Creek nation that made this treaty. Whether the Poarch Band of Creek Indians should also be listed is for Jordan.",
+    "why": "Royce p. 714 lists the treaty of Washington, Jan. 24, 1826 (Stat. L. VII, 286) with the Creek nation, which cedes its land in Georgia east of the Chattahoochee (areas 127 to 131). The USFS layer gave no present-day tribe for these areas.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/714/mode/2up"
+  },
+  "kappler-349": {
+    "presentDayTribes": [
+      "Muscogee (Creek) Nation, Oklahoma"
+    ],
+    "note": "The Muscogee (Creek) Nation is the successor of the Creek nation that made this treaty. Whether the Poarch Band of Creek Indians, whose ancestors stayed in Alabama on lands allotted under this treaty, should also be listed is for Jordan.",
+    "why": "Royce p. 734 lists the treaty of Washington, Mar. 24, 1832 with the Creek, who cede all their land east of the Mississippi (area 172). The USFS layer gave no present-day tribe for this area.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/734/mode/2up"
+  },
+  "kappler-939": {
+    "presentDayTribes": [
+      "Muscogee (Creek) Nation, Oklahoma"
+    ],
+    "why": "Royce lists the treaty of Washington, June 14, 1866 with the Creek nation in the Indian Territory (areas 486, 487). The USFS layer gave no present-day tribe; the Muscogee (Creek) Nation of Oklahoma is that nation today.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/816/mode/2up"
+  },
+  "cession-1880-09-11-uta": {
+    "note": "Not a separate cession: the same agreement and the same areas (616, 617) as cession-1880-03-06-uta. Royce's row for Sept. 11, 1880 reads only 'Sufficient signatures obtained to complete ratification by Utes of the agreement of Mar. 6, 1880', map 'See 616, 617'; the agreement was ratified with amendments by Congress June 15, 1880 and 'assented to by the Uta between June 29 and Sept. 11, 1880'. Both records have research files, so neither is renamed or removed; count them once.",
+    "why": "Note only; no field changed. Royce p. 902 (Sept. 11, 1880, Agreement, Uta) and p. 903 ('See 616, 617'); p. 898 to 899 remarks under the agreement of Mar. 6, 1880.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/902/mode/2up"
+  },
+  "cession-1880-03-06-uta": {
+    "note": "cession-1880-09-11-uta is the same agreement: Sept. 11, 1880 is only the day the last Ute signatures to the amended agreement were obtained (Royce p. 902). Count the two records once.",
+    "why": "Note only; no field changed. Royce p. 898 to 899: 'This agreement was ratified by Congress, with sundry amendments, June 15, 1880. As amended it was assented to by the Uta between June 29 and Sept. 11, 1880.'",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/898/mode/2up"
+  },
+  "cession-1889-07-08-chippewa-of-minnesota": {
+    "scheduleTribes": [
+      "Red Lake Chippewa",
+      "Pembina Chippewa"
+    ],
+    "presentDayTribes": [
+      "Red Lake Band of Chippewa Indians, Minnesota",
+      "Chippewa Cree Indians of the Rocky Boy's Reservation, Montana",
+      "Turtle Mountain Band of Chippewa Indians of North Dakota",
+      "White Earth Band of Minnesota Chippewa Tribe, Minnesota"
+    ],
+    "note": "Same agreement as cession-1889-07-08-chippewa-red-lake-and-pembina-bands. Royce numbers both areas under the Red Lake row: 706 is the ceded part of the Red Lake reservation ('shown in the blue plat') and 707 the restricted reservation the band kept ('the green plat'). Both records have research files, so they are not merged; this one is the cession.",
+    "why": "Royce p. 934 to 935 lists the Minnesota Chippewa agreements of July 8 to Nov. 21, 1889 (H. R. Ex. Doc. 247, 51st Cong., 1st sess.) band by band. Item (1), Red Lake Chippewa, signed July 8, 1889, cedes the Red Lake reservation outside described bounds, areas 706 and 707; item (2), Pembina Chippewa, signed July 29, 1889, cedes 'the same lands' (p. 936). The tribe names are Royce's; the Red Lake Band is listed first. The other present-day tribes are kept as the USFS layer gives them for the Pembina.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/934/mode/2up"
+  },
+  "cession-1889-07-08-chippewa-red-lake-and-pembina-bands": {
+    "scheduleTribes": [
+      "Red Lake Chippewa",
+      "Pembina Chippewa"
+    ],
+    "presentDayTribes": [
+      "Red Lake Band of Chippewa Indians, Minnesota",
+      "Chippewa Cree Indians of the Rocky Boy's Reservation, Montana",
+      "Turtle Mountain Band of Chippewa Indians of North Dakota",
+      "White Earth Band of Minnesota Chippewa Tribe, Minnesota"
+    ],
+    "note": "Same agreement as cession-1889-07-08-chippewa-of-minnesota. Area 707 is not ceded land: Royce calls it 'the restricted reservation', the part of Red Lake the band kept; the ceded part is 706. Both records have research files, so they are not merged.",
+    "why": "Royce p. 934 to 936: item (1), Red Lake Chippewa, signed July 8, 1889, and item (2), Pembina Chippewa, signed July 29, 1889, cede the same Red Lake lands; p. 935 'The ceded portion is shown in the blue plat. The restricted reservation is the green plat', 706 and 707. The Red Lake Band is listed first; the others are kept as the USFS layer gives them for the Pembina.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/934/mode/2up"
+  },
+  "cession-1874-05-26-chippewa-of-the-mississippi": {
+    "presentDayTribes": [
+      "Leech Lake Band of the Minnesota Chippewa Tribe, Minnesota"
+    ],
+    "why": "Royce p. 874 to 875 lists the Executive order of May 26, 1874 with the Chippewa of the Mississippi: 'President enlarges Leech Lake reservation', areas 567 and 568; his note under the treaty of Mar. 19, 1867 (p. 845) names 567 'a second addition to the Leech Lake reservation' and 568 'a second addition to the Lake Winnebagoshish reservation', and p. 937 says the Chippewa, Leech Lake and Winnibigoshish reservations 'as at present limited' form one reserve, area 710, today the Leech Lake Reservation. The Mille Lacs and White Earth bands had no part in these additions and are removed.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/874/mode/2up"
+  },
+  "cession-1873-07-05-blackfoot-blood-gros-ventre-piegan-river": {
+    "note": "Areas 565 and 574 are Royce's cross-references here ('See 565, 574'). The reserve this order set apart is numbered in its later parts: 565 is what the act of Apr. 15, 1874 kept as the reserve (cession-1874-04-15) and 574 is what the order of Aug. 19, 1874 restored to the public domain (cession-1874-08-19). The treaty of Oct. 17, 1855 (kappler-744) also cross-references both. The same land appears on four records; count it once.",
+    "why": "Note only; no field changed. Royce p. 864 to 865 (July 5, 1873, map 'See 565, 574'; 'This includes Nos. 565 and 574'), p. 874 to 875 (Apr. 15, 1874, 565), p. 876 to 877 (Aug. 19, 1874, 574) and p. 812 to 813 (Oct. 17, 1855, 'See 565, 574').",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/864/mode/2up"
+  },
+  "cession-1874-04-15-blackfoot-blood-gros-ventre-piegan-river": {
+    "note": "Area 565 is numbered under this act: the part of the 1873 reserve that the act of Apr. 15, 1874 declared the reserve for these tribes. cession-1873-07-05 and kappler-744 carry it as a cross-reference.",
+    "why": "Note only; no field changed. Royce p. 874 to 875, Apr. 15, 1874, map 565; p. 865 remarks under July 5, 1873.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/874/mode/2up"
+  },
+  "cession-1874-08-19-blackfoot-blood-gros-ventre-piegan-river": {
+    "note": "Area 574 is numbered under this order: the country in the 1873 reserve 'not embraced by act of Congress Apr. 15, 1874', restored to the public domain. cession-1873-07-05 and kappler-744 carry it as a cross-reference.",
+    "why": "Note only; no field changed. Royce p. 876 to 877, Aug. 19, 1874, map 574.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/876/mode/2up"
+  },
+  "cession-1875-04-13-blackfoot-blood-gros-ventre-piegan-river": {
+    "note": "Areas 622 and 623 are Royce's cross-references here ('See 622, 623'): they are numbered under the order of July 13, 1880 (cession-1880-07-13), 622 the part of this addition relinquished then and 623 the remainder still in the reserve.",
+    "why": "Note only; no field changed. Royce p. 880 to 881 (Apr. 13, 1875, 'See 622, 623'; 'A portion of it was relinquished by Executive order of July 13, 1880, and is colored green. The remainder is still a part of the reserve and is colored mauve') and p. 902 to 903.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/880/mode/2up"
+  },
+  "cession-1880-07-13-blackfoot-blood-gros-ventre-piegan-river": {
+    "note": "Royce numbers both areas under this order: 622 is the portion of the 1875 addition restored to the public domain, and 623 is 'the remainder', which 'yet constitutes a portion of the Gros Ventre, Blackfoot, etc., reserve'. Only 622 left Indian hands here. cession-1875-04-13 carries both as cross-references.",
+    "why": "Note only; no field changed. Royce p. 902 to 903, July 13, 1880, Gros Ventre, Piegan, Blood, Blackfoot and River Crow, map 622 against the restored portion and 623 against the remainder.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/902/mode/2up"
+  },
+  "kappler-173": {
+    "presentDayTribes": [
+      "Peoria Tribe of Indians of Oklahoma"
+    ],
+    "note": "Area 48 is kept: Royce's map column reads '96a. See 48', and his remarks say this treaty 'not only included and confirmed the cession of Aug. 13, 1803, but also enlarged its boundaries so as to cover all claim of the Peoria'; the addition is the part of 48 north of a dotted line. Area 48 itself was first ceded by the Kaskaskia treaty of 1803.",
+    "why": "Royce p. 692 to 693 lists the treaty of Edwardsville, Sept. 25, 1818 (Stat. L. VII, 181) with the Peoria, Kaskaskia, Mitchigamia, Cahokia and Tamaroa, the tribes of the Illinois confederacy. The Miami were not a party; the Miami Tribe of Oklahoma is removed.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/692/mode/2up"
+  },
+  "kappler-190": {
+    "scheduleTribes": [
+      "Kickapoo"
+    ],
+    "note": "Area 110 is this cession and the Vermilion Kickapoo cession of Aug. 30, 1819 (kappler-192), which Royce consolidates into one area. Area 179 is the Missouri tract the U. S. gave the Kickapoo here (amended July 19, 1820); it was not ceded until the treaty of Oct. 24, 1832.",
+    "why": "Royce p. 696 to 698 lists the treaty of Edwardsville, July 30, 1819 (Stat. L. VII, 200) with the Kickapoo tribe, and the treaty of Fort Harrison, Aug. 30, 1819 (Stat. L. VII, 202) with the Kickapoo of the Vermilion separately. His remark on area 110: 'This cession was made by the main body of the Kickapoo. One month later a cession was made by the Vermillion Kickapoo... The two cessions are therefore consolidated on the map into one.' The Vermilion band is removed from this record's tribes.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/696/mode/2up"
+  },
+  "kappler-134": {
+    "scheduleTribes": [
+      "Sauk of Rock river and adjacent country"
+    ],
+    "presentDayTribes": [
+      "Sac & Fox Nation, Oklahoma",
+      "Sac & Fox Tribe of the Mississippi in Iowa"
+    ],
+    "why": "Royce p. 680 lists the treaty of St. Louis, May 13, 1816 (Stat. L. VII, 141) with the 'Sauk of Rock river and adjacent country' only, who 'unconditionally assent to and confirm the treaty between the U. S. and the united tribes of Sacs and Foxes concluded Nov. 3, 1804' (map 'See 50, 51'; the areas stay). The Sauk on the Missouri made their own treaty on Sept. 13, 1815 (kappler-128), so the Sac & Fox Nation of Missouri, which descends from them, is removed, as on kappler-129.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/680/mode/2up"
+  },
+  "kappler-525": {
+    "scheduleTribes": [
+      "Oneida (First Christian and Orchard parties, residing at Green Bay)"
+    ],
+    "presentDayTribes": [
+      "Oneida Nation, Wisconsin"
+    ],
+    "why": "Royce p. 772 to 773 lists the treaty of Washington, Feb. 3, 1838 (Stat. L. VII, 566) with the First Christian and Orchard parties of Oneida residing at Green Bay only: they cede the land set apart for them by the Menomini treaties of Feb. 8, 1831 and Oct. 27, 1832, keeping 100 acres each. The 'several tribes of New York Indians' and the seven New York nations came from the treaty of Buffalo Creek, Jan. 15, 1838, which shares areas 246 and 247; they were not parties here and are removed.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/772/mode/2up"
+  },
+  "kappler-78": {
+    "scheduleTribes": [
+      "Delaware"
+    ],
+    "presentDayTribes": [
+      "Delaware Nation, Oklahoma"
+    ],
+    "note": "Area 49 was also relinquished by the Piankishaw on Aug. 27, 1804 (kappler-80) and confirmed by the Miami and others at Grouseland in 1805 (kappler-88); those parties belong to those records. Whether the Delaware Tribe of Indians should also be listed is for Jordan.",
+    "why": "Royce p. 664 lists the treaty of Vincennes, Aug. 18, 1804 (Stat. L. VII, 81) with the Delaware only: 'The Delawares cede to the U. S. all the tract of country lying between the Ohio and Wabash rivers, and below the tract ceded by the treaty of Fort Wayne', area 49. The Miami and Piankishaw and their present-day tribes came from the other two rows for area 49 and are removed.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/664/mode/2up"
+  },
+  "kappler-990": {
+    "scheduleTribes": [
+      "Kiowa, Comanche, and Apache"
+    ],
+    "presentDayTribes": [
+      "Comanche Nation, Oklahoma",
+      "Kiowa Indian Tribe of Oklahoma",
+      "Apache Tribe of Oklahoma"
+    ],
+    "why": "Royce p. 846 lists two treaties of Medicine Lodge creek, Oct. 21, 1867: the Kiowa and Comanche (Stat. L. XV, 581; kappler-985) and the Kiowa, Comanche and Apache (Stat. L. XV, 589): 'Apaches confederate with Kiowas and Comanches and to occupy same reservation.' This record's Kappler page (vol. 2, p. 982) is the second treaty, so the Apache are a party; the Apache Tribe of Oklahoma (the Kiowa-Apache) is added.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/846/mode/2up"
+  },
+  "kappler-225": {
+    "presentDayTribes": [
+      "The Osage Nation, Oklahoma"
+    ],
+    "why": "The Osage Nation was listed twice under two names ('The Osage Nation, Oklahoma' and 'Osage Tribe, Oklahoma'). One name is kept; no nation is added or removed. Royce p. 708 lists the treaty of St. Louis, June 2, 1825 with the Great and Little Osage.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/708/mode/2up"
+  },
+  "kappler-98": {
+    "presentDayTribes": [
+      "Cherokee Nation, Oklahoma",
+      "Eastern Band of Cherokee Indians of North Carolina",
+      "United Keetoowah Band of Cherokee Indians in Oklahoma"
+    ],
+    "why": "The Eastern Band of Cherokee Indians was listed twice under two spellings ('of North Carolina' and ', North Carolina'). One spelling is kept; no nation is added or removed.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/672/mode/2up"
+  },
+  "kappler-148": {
+    "presentDayTribes": [
+      "Cherokee Nation, Oklahoma",
+      "Eastern Band of Cherokee Indians of North Carolina",
+      "United Keetoowah Band of Cherokee Indians in Oklahoma"
+    ],
+    "why": "The Eastern Band of Cherokee Indians was listed twice under two spellings ('of North Carolina' and ', North Carolina'). One spelling is kept; no nation is added or removed.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/684/mode/2up"
+  },
+  "cession-1873-03-03-chippewa-pembina-band": {
+    "note": "Not a cession by the Pembina: Royce lists this act as one that 'Provides for removal and establishment of Pembina Chippewas on White Earth reservation'. Area 542 is the township (T. 144 N., R. 42 W.) selected for them in 1883, within the White Earth reservation; the Pembina received it rather than gave it up.",
+    "why": "Note only; no field changed. Royce p. 862 to 863, Mar. 3, 1873, Chippewa (Pembina band), area 542.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/862/mode/2up"
+  },
+  "cession-1864-07-08-chehalis-chinook-klatsop-klikitat": {
+    "note": "Not an agreement: Royce dates this row to an order of the Secretary of the Interior of July 8, 1864 (the day he approved the Chehalis reserve), and remarks that 'The U. S. took possession of it without any treaty, assigning to the Indians first only one small reserve (Chehalis) and afterward another (Shoalwater Bay).' Area 458 is that territory.",
+    "why": "Note only; no field changed. Royce p. 832 to 833, July 8, 1864, Chehalis, Klatsop, Chinook, Klikitat and other tribes.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/832/mode/2up"
+  },
+  "kappler-172": {
+    "note": "Areas 95 and 96 are this treaty's cessions. Area 260 is Royce's cross-reference ('See 260'): the reserve on the Huron river this treaty made for the Wyandot (sections 23 to 27, 34 to 36, 4,996 acres), which they ceded by the treaty of Mar. 17, 1842 (kappler-542). It was granted here, not ceded.",
+    "why": "Note only; no field changed. Royce p. 690 to 691, St. Mary's, Sept. 20, 1818 (Stat. L. VII, 180), Wyandot: map 95, 96 and 'See 260', remark 'This reserve was ceded by treaty of Mar. 17, 1842'.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/690/mode/2up"
+  },
+  "kappler-197": {
+    "note": "Area 179 is Royce's cross-reference ('See 179'): the Missouri tract this supplementary article gave the Kickapoo in place of article 6 of the treaty of July 30, 1819. It was granted here, not ceded; 'This tract was receded to the U. S. by the Kickapoo by treaty of Oct. 24, 1832' (kappler-373).",
+    "why": "Note only; no field changed. Royce p. 700 to 701, July 19, 1820, Kickapoo, map 'See 179'.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/700/mode/2up"
+  },
+  "kappler-396": {
+    "scheduleTribes": [
+      "Muskogee or Creek"
+    ],
+    "presentDayTribes": [
+      "Muscogee (Creek) Nation, Oklahoma"
+    ],
+    "note": "Areas 404, 486 and 487 are Royce's cross-references ('See 404, 486, 487') for the Creek country west of the Mississippi that this treaty defined. The treaty also agreed that the Seminole of Florida, whose removal the treaty of May 9, 1832 provided for, would have a home on the Creek lands; Royce points for its fulfilment to the Seminole treaty of Mar. 28, 1833 and the Creek and Seminole treaties of Jan. 4, 1845 and Aug. 7, 1856. The Seminole were not a party here.",
+    "why": "Royce p. 746 to 747 lists the treaty of Fort Gibson, Feb. 14, 1833 (Stat. L. VII, 417) with the Muskogee or Creek only: the U. S. agree that the Creek country west of the Mississippi shall be embraced within described bounds and patented to the Creek nation. The USFS layer named the Seminole as a party and listed only the two Seminole nations as present-day tribes; they are replaced by the Muscogee (Creek) Nation.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/746/mode/2up"
+  },
+  "kappler-882": {
+    "note": "Area 468 is the Crow Creek reservation in Dakota the Winnebago ceded by this treaty. Areas 469 and 470 are land the Winnebago received, not land they gave up: Royce p. 837 numbers 469 'The tract purchased from the Omaha Mar. 6, 1865' for them and 470 'The tract purchased from the Omaha by act of June 22, 1874', 20 sections for the Winnebago removed from Wisconsin.",
+    "why": "Note only; no field changed. Royce p. 836 to 837, treaty of Washington, Mar. 8, 1865, Winnebago, map 469 and 470, and his remarks on each.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/836/mode/2up"
   }
 }

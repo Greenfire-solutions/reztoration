@@ -1,0 +1,47 @@
+{
+  "id": "cession-1883-08-15-kickapoo",
+  "name": "Executive Order of August 15, 1883 setting apart a reservation in Indian Territory for the Mexican Kickapoo (Royce Area 650)",
+  "aka": [
+    "Kickapoo Reservation, Indian Territory",
+    "Royce 650"
+  ],
+  "signed": "1883-08-15",
+  "citation": "Executive order of August 15, 1883 (Royce, Indian Land Cessions, schedule for 1883, area 650)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/912/mode/2up",
+  "nations": [
+    "Kickapoo Tribe of Oklahoma (the Kickapoo who returned from Mexico)"
+  ],
+  "promises": [
+    "Not a cession. Royce records that the President set apart a reserve for the Kickapoos of Mexico bounded by the Sac and Fox reservation on the east, the Deep Fork of the Canadian on the north, the Indian Meridian on the west and the North Fork of the Canadian on the south.",
+    "Royce notes that these Kickapoo were induced to return from Mexico and the reserve was provided under the Acts of July 15, 1870, March 3, 1871 and June 22, 1874, on land the Creek ceded in 1866 for the settlement of other tribes."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The reservation was ceded under the agreement of September 9, 1891, ratified by the Act of March 3, 1893 (27 Stat. 557); the claim that the price for that cession was unconscionable ended in a 1969 settlement (see cession-1893-03-03-kickapoo). The Indian Claims Commission recorded that the Kickapoo received title to the reservation as of October 1, 1874 as a gratuity from the United States, and that its value was set off against an earlier award in Docket 316.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule for 1883, pp. 912-913, area 650",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/912/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Kickapoo Tribe of Oklahoma v. United States, Docket 318, Findings of Fact (June 11, 1969), 21 Ind. Cl. Comm. 39",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1010",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The Commission dates the Kickapoo title to October 1, 1874, while Royce dates the executive order to August 15, 1883; the difference was not resolved.",
+    "The executive order itself was not opened; the executive-order link in treaties.json (ops.libs.uga.edu, 650r.pdf) did not load.",
+    "treaties.json lists the Kickapoo Tribe in Kansas and the Kickapoo Traditional Tribe of Texas as present-day tribes; the Commission treats the Kickapoo Tribe of Oklahoma as the holder of this reservation.",
+    "No Kickapoo Tribe of Oklahoma account of this reservation was found."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher",
+  "plain": {
+    "promised": "An 1883 executive order set apart a reservation in Indian Territory for the Kickapoo who had returned from Mexico.",
+    "happened": "This order created the reservation; it took nothing. No breach of it has been found. The reservation was given up under an 1891 agreement, recorded separately.",
+    "today": "The claim over the 1891 cession of this reservation was settled in 1969."
+  }
+}

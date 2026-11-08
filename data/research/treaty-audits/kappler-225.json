@@ -1,0 +1,15 @@
+{
+  "id": "kappler-225",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Kappler header (OSU Tribal Treaties Database) matches signing, proclamation and Statutes at Large citation: June 2, 1825, 7 Stat. 240, proclaimed Dec. 30, 1825.",
+    "Articles 2, 3, 4, 6 and 11 checked against the OSU text.",
+    "Title order Dockets 106-107 (OSU id 2223): original Indian title, Finding 29 lands ceded by the 1825 treaty; day of month illegible, collection gives September 10, 1968.",
+    "Compromise findings (OSU id 1352, 23 Ind. Cl. Comm. 447): net $13,250,000.00 for Dockets 105 to 108; kind litigation is right."
+  ],
+  "changes": [
+    "plain.promised: 'in present Kansas' (unsourced in the file) changed to 'west of Missouri'."
+  ],
+  "unverifiable": []
+}

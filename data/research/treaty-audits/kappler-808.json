@@ -1,0 +1,17 @@
+{
+  "id": "kappler-808",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Kappler header (OSU Tribal Treaties Database) matches signing, proclamation and Statutes at Large citation: Oct. 5, 1859, 12 Stat. 1111, ratified June 27, proclaimed Nov. 17, 1860.",
+    "ICC Docket 33 opinion of May 15, 1952 (OSU id 309): the 1859 treaty read as the tribe assuming the cost of farming aid; Article 8 expenses from Kaw funds.",
+    "Royce pp. 822-823 (Internet Archive OCR): area 420 Kansa retained reserve, 421 Kansa trust lands, 422 Western Shoshoni Ruby Valley reserve selected by agent Jarvis, 6 miles square, abandoned, later an Overland Stage station."
+  ],
+  "changes": [
+    "openQuestions: audit line naming areas 420, 421 (Kansa) and 422 (Ruby Valley)."
+  ],
+  "unverifiable": [
+    "Kaw Nation Kanza Timeline PDF opened (pages 1 to 3) but the 1859 entry was not located in the pages read.",
+    "treaties.json error: Western Shoshoni, Te-Moak, Nevada and area 422 belong to a separate Ruby Valley reserve entry, not this Kansa treaty."
+  ]
+}

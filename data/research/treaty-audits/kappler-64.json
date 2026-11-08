@@ -1,0 +1,13 @@
+{
+  "id": "kappler-64",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Kappler header (OSU Tribal Treaties Database) matches signing, proclamation and Statutes at Large citation: Dec. 17, 1801, 7 Stat. 66, ratified April 30, proclaimed May 4, 1802.",
+    "Articles 2, 3 and 5 checked against the OSU text."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Choctaw docket coverage not re-searched."
+  ]
+}

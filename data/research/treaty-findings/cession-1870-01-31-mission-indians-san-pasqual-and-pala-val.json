@@ -1,0 +1,76 @@
+{
+  "id": "cession-1870-01-31-mission-indians-san-pasqual-and-pala-val",
+  "name": "Executive Order of January 31, 1870 setting apart the San Pasqual and Pala Valley reservations, revoked in 1871",
+  "aka": [
+    "Mission Indian Reserves order of 1870",
+    "Royce cessions 527 and 528"
+  ],
+  "signed": "1870-01-31",
+  "citation": "Executive order of January 31, 1870 (Kappler vol. 1, p. 819); no treaty",
+  "textUrl": "https://www.presidency.ucsb.edu/documents/executive-order-establishing-mission-indian-reserves-california",
+  "nations": [
+    "San Pasqual Band of Mission Indians",
+    "Pala Band of Mission Indians"
+  ],
+  "promises": [
+    "No treaty. On the Secretary of the Interior's letter of January 27, 1870, President Grant ordered lands in the San Pasqual and Pala valleys in southern California \"set apart as reservations for Indian purposes\"."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "nation-statement",
+      "date": "1871",
+      "what": "The San Pasqual Band says the reservation President Grant created for it in 1870 was rescinded in 1871 in response to settlers' demands, and that county authorities later cleared the valley of San Pasqual Indians.",
+      "whoFoundIt": "San Pasqual Band of Mission Indians, History",
+      "source": {
+        "title": "History",
+        "url": "https://sanpasqualbandofmissionindians.org/about-us/history/",
+        "publisher": "San Pasqual Band of Mission Indians"
+      },
+      "quote": "but the order was rescinded in 1871 in response to settler's demands."
+    }
+  ],
+  "compensation": "None found for the revocation. The Indian Claims Commission case opened (Docket 80-A, 1973) concerned the San Pasqual Band's motion to amend its petition, not this order.",
+  "today": "An 1883 report to the Commissioner of Indian Affairs by special agents Helen Hunt Jackson and Abbot Kinney cited the history of the San Pasquale Reservation as an illustration of \"the insecurity of reservations made merely by Executive order\". The San Pasqual Band says its present reservation land was located in 1892 and patented to the band in 1910.",
+  "nationVoice": [
+    {
+      "nation": "San Pasqual Band of Mission Indians",
+      "summary": "The Band says Grant created a reservation for it by executive order in 1870, that the order was rescinded in 1871 after settlers' demands, that the valley was later cleared of San Pasqual Indians by county authorities, and that its present land was patented to the band in 1910.",
+      "url": "https://sanpasqualbandofmissionindians.org/about-us/history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Executive Order Establishing Mission Indian Reserves in California, January 31, 1870",
+      "url": "https://www.presidency.ucsb.edu/documents/executive-order-establishing-mission-indian-reserves-california",
+      "publisher": "The American Presidency Project, UC Santa Barbara"
+    },
+    {
+      "title": "Helen Hunt Jackson and Abbot Kinney, Report on the Condition and Needs of the Mission Indians of California (1883)",
+      "url": "https://archive.org/stream/reportonconditi00jackgoog/reportonconditi00jackgoog_djvu.txt",
+      "publisher": "Internet Archive"
+    },
+    {
+      "title": "San Pasqual Band of Mission Indians v. United States, Docket 80-A, Opinion of the Commission, June 21, 1973",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1114",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History",
+      "url": "https://sanpasqualbandofmissionindians.org/about-us/history/",
+      "publisher": "San Pasqual Band of Mission Indians"
+    }
+  ],
+  "openQuestions": [
+    "The revoking order itself (dated February 17, 1871 in a secondary quotation) was not opened; the date is left at the year.",
+    "Revoking an executive-order reservation is not counted as a breach under the audit rules. The 1883 Jackson and Kinney report, an Interior Department report, describes the government's responsibility for Mission Indian land losses in general terms; whether it is a government admission for this order is left for an auditor.",
+    "No Pala Band account of the 1870 order was found; the Pala reservation that exists today dates from a later executive order, not opened here."
+  ],
+  "plain": {
+    "promised": "No treaty. In 1870 President Grant set apart lands in the San Pasqual and Pala valleys as reservations for the Mission Indians.",
+    "happened": "The San Pasqual Band says the order was rescinded in 1871 because settlers demanded it, and the valley was later cleared of its people. No court or Commission finding was found.",
+    "today": "Nothing was paid for the revocation in the sources opened. The San Pasqual Band says its present land was patented to it in 1910."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

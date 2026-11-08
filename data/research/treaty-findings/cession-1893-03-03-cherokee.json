@@ -1,0 +1,91 @@
+{
+  "id": "cession-1893-03-03-cherokee",
+  "name": "Cherokee Outlet agreement of December 19, 1891, ratified by the Act of March 3, 1893",
+  "aka": [
+    "Cherokee Strip cession",
+    "Cherokee Commission (Jerome) agreement with the Cherokee",
+    "Royce area 489"
+  ],
+  "signed": "1891-12-19",
+  "ratified": "1893-03-03",
+  "citation": "Act of March 3, 1893, 27 Stat. 612, 640",
+  "textUrl": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/60",
+  "nations": [
+    "Cherokee Nation"
+  ],
+  "promises": [
+    "Under the agreement of December 19, 1891 the Cherokee Nation ceded the Cherokee Outlet, the land between the 96th and 100th meridians north of the Creek country, which it held under the patent of December 31, 1838 (as summarized by the Indian Claims Commission).",
+    "The United States was to pay the stipulated price of $8,595,736.12 for the cession and relinquishment, to remove intruders from Cherokee lands, and to allow certain allotments in the Outlet, the scanned summary reading 'not to exceed 5,600 acres' (as summarized by the Commission).",
+    "The agreement was to be void if Congress did not ratify it by March 4, 1893; Congress ratified it on March 3, 1893 with amendments, which the Cherokee accepted on April 3, 1893, and the deed of relinquishment was executed on May 17, 1893."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1961-04-03",
+      "what": "The Indian Claims Commission found that 6,022,754.17 acres of the Outlet ceded under the 1891 agreement had a fair market value of $22,585,328.14 on March 3, 1893, that the $7,795,851.99 paid for them was unconscionable, and that the Cherokee were subject to duress in giving up the land. It held the Nation entitled to $14,789,476.15 less offsets.",
+      "whoFoundIt": "Indian Claims Commission, Cherokee Nation v. United States, Docket 173, Opinion of April 3, 1961 (9 Ind. Cl. Comm. 162)",
+      "source": {
+        "title": "Cherokee Nation v. United States, Docket 173, Opinion of the Commission (April 3, 1961), 9 Ind. Cl. Comm. 162",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/60",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "what": "The Cherokee Nation's tourism site, published by Cherokee Nation Businesses, says the price paid for the Outlet was severely undervalued and that the sale followed the President's voiding of the Nation's grazing lease.",
+      "whoFoundIt": "Cherokee Nation Businesses, Visit Cherokee Nation, 'The Cost of Free Land'",
+      "source": {
+        "title": "The Cost of Free Land",
+        "url": "https://visitcherokeenation.com/stories/the-cost-of-free-land/",
+        "publisher": "Cherokee Nation Businesses (Visit Cherokee Nation)"
+      }
+    }
+  ],
+  "landTaken": "The Commission held that the 1891 agreement conveyed 6,022,754.17 acres; the Nation's title to the rest of the 8,144,682.91-acre Outlet had already passed by deeds for other tribes' reservations.",
+  "compensation": "The Commission entered final judgment for the Cherokee Nation for $14,789,476.15 on September 14, 1961, on a stipulation and after a hearing on September 7 and 8, 1961.",
+  "today": "The Commission's April 3, 1961 opinion recorded that the Interior Department questioned the validity of the Cherokee grazing leases only after the Cherokee were reluctant to cede, and that the President declared the leases void and ordered the cattle removed. Whether and how the 1961 judgment was distributed was not traced.",
+  "plain": {
+    "promised": "The Cherokee Nation gave up the Cherokee Outlet, between the 96th and 100th meridians, for a stipulated $8,595,736.12, with the United States also to remove intruders from Cherokee lands.",
+    "happened": "In 1961 the Indian Claims Commission found the $7,795,851.99 paid for 6,022,754.17 acres was unconscionable against a value of $22,585,328.14, and that the Cherokee gave up the land under duress.",
+    "today": "The Commission entered final judgment for the Cherokee Nation of $14,789,476.15 on September 14, 1961. The Nation still describes the price as severely undervalued. How the money was used was not traced."
+  },
+  "nationVoice": [
+    {
+      "nation": "Cherokee Nation",
+      "summary": "The Nation's tourism site, published by Cherokee Nation Businesses, says the United States pushed for white settlement of the Outlet, the President's 1889 proclamation voided the Nation's grazing lease, the Nation then agreed to sell in December 1891 at a severely undervalued price, and the 1961 Commission judgment compensated for that undervaluation.",
+      "url": "https://visitcherokeenation.com/stories/the-cost-of-free-land/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Cherokee Nation v. United States, Docket 173, Opinion of the Commission (April 3, 1961), 9 Ind. Cl. Comm. 162",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/60",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Cherokee Nation v. United States, Docket 173, Findings of Fact (April 3, 1961)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/338",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Cherokee Nation v. United States, Docket 173, Final Judgment (September 14, 1961)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/173",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "The Cost of Free Land",
+      "url": "https://visitcherokeenation.com/stories/the-cost-of-free-land/",
+      "publisher": "Cherokee Nation Businesses (Visit Cherokee Nation)"
+    }
+  ],
+  "openQuestions": [
+    "The scanned opinion prints the fair market value once as $22,555,328,14 and twice as $22,585,328.14; the file uses the latter, which is the figure in the Commission's conclusion.",
+    "The final judgment was entered 'pursuant to said stipulation'; the stipulation itself (apparently on offsets) was not read. The judgment amount equals the amount the opinion held due before offsets.",
+    "The Act of March 3, 1893 (27 Stat. 612, 640) and the agreement text were not opened; their terms are from the Commission's summary. The govinfo page for 27 Stat. 640 did not return a PDF.",
+    "treaties.json lists the Eastern Band of Cherokee Indians and the United Keetoowah Band as present-day tribes; the claimant and party to the agreement was the Cherokee Nation.",
+    "Royce area 489 may include Outlet lands already deeded for other tribes' reservations, which the Commission treated as conveyed before 1891."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

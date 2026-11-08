@@ -1,0 +1,45 @@
+{
+  "id": "cession-1882-08-04-uta",
+  "name": "Executive Order of August 4, 1882 restoring to the public domain the 1875 addition to the Ute Reservation (Royce Area 586)",
+  "aka": [
+    "Royce 586, Uta: addition of November 22, 1875 north of the 1868 Ute Reservation"
+  ],
+  "signed": "1882-08-04",
+  "citation": "Executive orders of November 22, 1875 and August 4, 1882 (Royce, Indian Land Cessions, schedule for 1875, area 586)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/882/mode/2up",
+  "nations": [
+    "Núuchi-u (Ute)"
+  ],
+  "promises": [
+    "Not a treaty. Royce records that by executive order of November 22, 1875 the President set apart a tract as an addition to the Ute reserve established by the treaty of March 2, 1868: from the reservation's northeast corner north on 107° W to the first standard parallel north, west to the Colorado-Utah line, south to the reservation's northwest corner, and east to the start.",
+    "Royce records that this addition was restored to the public domain by executive order of August 4, 1882."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The 1868 reservation to which this tract was added was itself ceded under the agreement of March 6, 1880, ratified by the Act of June 15, 1880 (see cession-1880-03-06-uta and kappler-998). No court, Indian Claims Commission or congressional finding about the 1875 addition or its 1882 restoration was found; an executive order withdrawing an executive-order addition is recorded here without being counted as a breach.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule for 1875, pp. 882-883, area 586",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/882/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Confederated Bands of Ute Indians v. United States, Docket 327, Findings of Fact, Part 1 (September 14, 1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/841",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The executive orders of November 22, 1875 and August 4, 1882 were not opened in their own text (Kappler vol. 1); their content is taken from Royce. The executive-order link in treaties.json (ops.libs.uga.edu, 586r.pdf) did not load.",
+    "Searches of the Confederated Ute (Docket 327) and Southern Ute (Docket 328) Commission decisions found no discussion of the 1875 addition or its 1882 restoration.",
+    "Which Ute bands used this strip north of the White River country in 1875 to 1882 was not researched. No Ute tribal account specific to the addition was found."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher",
+  "plain": {
+    "promised": "Nothing by treaty. An 1875 executive order added a strip north of the 1868 Ute Reservation, between 107° west and the Utah line.",
+    "happened": "An executive order of August 4, 1882 returned the strip to the public domain. No court or claims finding about it has been located, and an executive order alone is not counted as a breach.",
+    "today": "Nothing was found to have been paid or returned for this strip."
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "cession-1886-10-01-apache-western-bands",
+  "name": "Taking of the aboriginal country of the Western Apache bands without a treaty of purchase (Royce Area 689)",
+  "aka": [
+    "Royce 689, Apache (Western bands): country claimed at the beginning of their relations with the United States"
+  ],
+  "citation": "No treaty or statute: Royce's schedule records 'country claimed by them at beginning of their relations with the U.S.' and that no treaty of purchase was made",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up",
+  "nations": [
+    "Western Apache: White Mountain, San Carlos, Cibecue, Southern Tonto and Northern Tonto groups (claimants included the San Carlos Apache Tribe, the White Mountain Apache Tribe and the Yavapai-Apache Indian Community)"
+  ],
+  "promises": [
+    "Not a treaty. Royce describes the western bands as those whose country lay west of the Rio Grande, the most important being the Tonto, Mimbres, Mogollon, Coyotero and Pinal, with a few Mescalero and Jicarilla.",
+    "Royce records that no treaty of purchase was made with them; the United States took possession of their country and assigned them reservations from time to time."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1969-06-27",
+      "what": "The Indian Claims Commission held that the Western Apache had Indian title to the claimed area, that on May 1, 1873 the United States extinguished it without compensation outside the enlarged White Mountain reservation, and that executive orders from August 5, 1873 to December 22, 1902 extinguished it inside that reservation, also without compensation.",
+      "whoFoundIt": "Indian Claims Commission, San Carlos Apache Tribe et al. v. United States, Docket 22-D, Interlocutory Order (21 Ind. Cl. Comm. 189)",
+      "source": {
+        "title": "San Carlos Apache Tribe et al. v. United States, Docket 22-D, Interlocutory Order (June 27, 1969)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/932",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "on May 1, 1873, the United States extinguished, without the payment of compensation, said Indian title"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1969-06-27",
+      "what": "For the Northern Tonto, the Commission held that the United States extinguished their Indian title without compensation on May 1, 1873 outside the Camp Verde reservation, and on April 23, 1875 inside it.",
+      "whoFoundIt": "Indian Claims Commission, Northern Tonto Apache Tribe et al. v. United States, Docket 22-J, Interlocutory Order",
+      "source": {
+        "title": "Northern Tonto Apache Tribe et al. v. United States, Docket 22-J, Interlocutory Order (June 27, 1969)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2299",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1972-09-12",
+      "what": "Both land claims ended in final awards entered on stipulations for final judgment: $4,900,000 for the Western Apache in Docket 22-D and $685,800 for the Northern Tonto in Docket 22-J. A settlement is not a further finding.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 22-D and 22-J, Final Awards of September 12, 1972",
+      "source": {
+        "title": "San Carlos Apache Tribe et al. v. United States, Docket 22-D, Final Award (September 12, 1972)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1055",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "compensation": "$4,900,000 for the Western Apache (Docket 22-D) and $685,800 for the Northern Tonto (Docket 22-J), both by final awards on stipulations of September 12, 1972. The Commission's findings on the compromise settlements were entered the same day.",
+  "today": "Royce (1899) records that the United States assigned the western bands sundry reservations from time to time. Whether and how the 1972 awards were distributed was not traced.",
+  "plain": {
+    "promised": "Nothing. No treaty of purchase was made with the Western Apache; the United States took their country and assigned reservations from time to time.",
+    "happened": "The Indian Claims Commission found the United States took Western Apache land without payment on May 1, 1873, and land inside the White Mountain reservation by later executive orders. It found Northern Tonto land taken without payment in 1873 and 1875.",
+    "today": "Both claims were settled in 1972: $4,900,000 for the Western Apache and $685,800 for the Northern Tonto. Whether the money was distributed was not traced."
+  },
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule for 1886, pp. 922-923, area 689",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "San Carlos Apache Tribe et al. v. United States, Docket 22-D, Interlocutory Order (June 27, 1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/932",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Northern Tonto Apache Tribe et al. v. United States, Docket 22-J, Interlocutory Order (June 27, 1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2299",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "San Carlos Apache Tribe et al. v. United States, Docket 22-D, Final Award (September 12, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1055",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Northern Tonto Apache Tribe et al. v. United States, Docket 22-J, Final Award (September 12, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1719",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Dockets 22-D and 22-J, Findings of Fact on Compromise Settlements (September 12, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1616",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The date 1886-10-01 in treaties.json is not a date of this taking. Royce 689 is undated ('country claimed by them at beginning of their relations with the U.S.') and is printed under 'Cessions of 1886' after an entry headed 'Oct. 1, Act of Congress' that belongs to the Pueblo grants. The Commission dated the takings May 1, 1873 onward. Not edited.",
+    "treaties.json gives New Mexico as the only state; Royce shows the western bands' country on both the Arizona and New Mexico maps, and the Commission's claim area is in Arizona. Not edited.",
+    "The acreage and value the Commission would have found were not reached because the claims were settled. The statute link in treaties.json (ops.libs.uga.edu, 689c.pdf) did not load.",
+    "Royce counts the Mimbres and Mogollon among the western bands; Chiricahua claims (Fort Sill Apache) may overlap part of this area and were not researched.",
+    "No White Mountain Apache Tribe, San Carlos Apache Tribe or Tonto Apache Tribe account of this taking was found in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

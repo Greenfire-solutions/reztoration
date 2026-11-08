@@ -1,0 +1,67 @@
+{
+  "id": "kappler-663",
+  "name": "Treaty with the Chasta, etc., 1854",
+  "aka": [
+    "Treaty with the Chasta, Scoton and Grave Creek Umpqua, November 18, 1854",
+    "Royce cession 343"
+  ],
+  "signed": "1854-11-18",
+  "ratified": "1855-03-03",
+  "proclaimed": "1855-04-10",
+  "citation": "10 Stat. 1122",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chasta-etc-1854-0655",
+  "nations": [
+    "Quil-si-eton and Na-hel-ta bands of the Chasta (Shasta)",
+    "Cow-nan-ti-co, Sa-cher-i-ton and Na-al-ye bands of Scoton",
+    "Grave Creek band of Umpqua",
+    "Confederated Tribes of Grand Ronde and Confederated Tribes of Siletz Indians (successors)"
+  ],
+  "promises": [
+    "Article 2: the bands to move to such part of the Table Rock reserve as the superintendent assigned, or to another reserve the President directed.",
+    "Article 3: $2,000 a year for fifteen years from September 1, 1855, added to and shared with the Rogue River annuities of the 1853 treaty, spent for the bands' benefit as the President prescribed.",
+    "Article 4: $6,500 for provisions in the first year on the reserve, buildings, and breaking and fencing fifty acres with seed.",
+    "Article 5: for all Indians on the reserve, a farmer for fifteen years, two blacksmith shops for five years, a hospital and medical care for ten years, and schools with teachers for fifteen years.",
+    "Article 6: the President could survey the reserve and assign farms of 20 to 80 acres as permanent homes."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "The annuities and services in Articles 3 to 5. No Indian Claims Commission or Court of Claims award on this treaty was found in the sources opened.",
+  "today": "The Western Oregon termination act of August 13, 1954 (68 Stat. 724) named the Shasta, Scoton, Grave and Galic Creek peoples among the tribes whose federal supervision and services were to end. It does not mention this treaty, and the Table Rock reserve was set apart by the 1853 Rogue River treaty, not this one, so it is not counted as a breach here. The Confederated Tribes of Grand Ronde and of Siletz Indians are successors.",
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of Grand Ronde",
+      "summary": "The Tribes list this treaty among the ratified and unratified treaties of the 1850s that ceded land from the Coast Range to the Cascades and resulted in the forced removal of tribal members from their homelands.",
+      "url": "https://www.grandronde.org/history-culture/history/treaties/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Chasta, etc., 1854, Kappler vol. 2",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chasta-etc-1854-0655",
+      "publisher": "Oklahoma State University, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Act of August 13, 1954, Public Law 588, ch. 733, 68 Stat. 724 (Western Oregon Indian termination)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg724.pdf",
+      "publisher": "US Government Publishing Office (govinfo)"
+    },
+    {
+      "title": "Treaties",
+      "url": "https://www.grandronde.org/history-culture/history/treaties/",
+      "publisher": "Confederated Tribes of Grand Ronde"
+    }
+  ],
+  "openQuestions": [
+    "The Court of Claims suit Rogue River Tribe of Indians v. United States (No. 45231; 64 F. Supp. 339, 1946, and 89 F. Supp. 798, 1950) concerned the 1854 treaties and the Table Rock and Umpqua reservations. Both opinions were behind paywalls or rate limits (Leagle, Midpage) on 2026-11-08, so their holdings and any award are not recorded here; they are the likely finding.",
+    "Whether the annuities and the Article 5 farmer, smiths, hospital and schools were provided after the Rogue River War of 1855-56 and the removal north was not researched.",
+    "The Grand Ronde treaties page names the Quilsieton and Nahelta bands of the Chasta and the Scoton bands for this treaty but not the Grave Creek band.",
+    "treaties.json lists the Cow Creek Band of Umpqua among present-day tribes; the Cow Creek had their own treaty of September 19, 1853. Not checked."
+  ],
+  "plain": {
+    "promised": "The Chasta, Scoton and Grave Creek bands gave up their country on the Rogue River for a place on the Table Rock reserve, $2,000 a year for fifteen years, and a farmer, smiths, a hospital and schools.",
+    "happened": "No breach has been documented yet in the sources opened. A Court of Claims case on these treaties exists but its rulings could not be read.",
+    "today": "Congress ended federal services to these peoples in 1954. Their descendants belong to the Confederated Tribes of Grand Ronde and of Siletz Indians."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

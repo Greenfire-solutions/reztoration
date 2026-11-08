@@ -1,0 +1,18 @@
+{
+  "id": "kappler-626",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Kappler header (OSU Tribal Treaties Database) matches signing, proclamation and Statutes at Large citation: May 10, 1854, 10 Stat. 1053, ratified Aug. 2, proclaimed Nov. 2, 1854.",
+    "ICC Docket 334 interlocutory order of June 19, 1958 (OSU id 569): 1,404,790 acres, $829,000.00, $1,938,464.00, unconscionable.",
+    "Docket 334-B final award (OSU id 2617, 25 Ind. Cl. Comm. 311): compromise of $300,000.00; kind litigation right.",
+    "Docket 334-B 1969 findings (OSU id 2388): 1,997.61 acres allotted by June 14, 1867, 22,140.70 acres residue mostly occupied by white squatters, Joint Resolution of April 7, 1869 (16 Stat. 53) at $2.50, taking date April 7, 1869.",
+    "Fee opinion (OSU id 529): final award of May 29, 1961."
+  ],
+  "changes": [
+    "Added an openQuestions note that the damaged recovery figure is consistent with $1,109,464.00 by subtraction, still kept out of the record."
+  ],
+  "unverifiable": [
+    "treaties.json error: kappler-626 is dated 1825-11-07 and named for that date, but its Kappler page, Royce p. 792 and areas 318 to 320 are the 1854 treaty."
+  ]
+}

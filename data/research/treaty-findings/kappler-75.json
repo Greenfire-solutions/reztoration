@@ -1,0 +1,89 @@
+{
+  "id": "kappler-75",
+  "name": "Treaty with the Kaskaskia, 1803 (Treaty of Vincennes)",
+  "aka": [
+    "Kaskaskia cession of Royce Area 48"
+  ],
+  "signed": "1803-08-13",
+  "proclaimed": "1803-12-23",
+  "citation": "7 Stat. 78",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-kaskaskia-1803-0067",
+  "nations": [
+    "Kaskaskia, for all the Illinois tribes (Kaskaskia, Mitchigamia, Cahokia and Tamaroi); successor: Peoria Tribe of Indians of Oklahoma"
+  ],
+  "promises": [
+    "Article 1: the Kaskaskia kept the tract of about 350 acres near the town of Kaskaskia and the right to locate one other tract of 1,280 acres, both to remain theirs forever.",
+    "Article 2: the United States to take the tribe under its immediate care and patronage and protect it against other tribes and all other persons.",
+    "Article 3: the annuity raised to $1,000; a house built for the chief and a field of up to 100 acres fenced; $100 a year for seven years toward a Catholic priest who would also teach the children; $300 toward a church; and $580 for necessary articles and debts.",
+    "Article 6: the tribe could live and hunt on the ceded lands as before for as long as they remained the property of the United States."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1978-08-25",
+      "what": "The Indian Claims Commission valued the Kaskaskia interest in Royce Area 48 at $7,153,750 against allowable consideration of $11,000, found the consideration so grossly inadequate as to be unconscionable, and set an award for the Kaskaskia subject to offsets.",
+      "whoFoundIt": "Indian Claims Commission, Peoria Tribe of Indians of Oklahoma on behalf of the Kaskaskia v. United States, Docket 313 (consolidated with Dockets 15-D and others), Findings 64 and 88 and Opinion of August 25, 1978 (42 Ind. Cl. Comm. 354)",
+      "source": {
+        "title": "Pottawatomie Tribe et al. v. United States, Findings of Fact on Value and Consideration, Part 2 (August 25, 1978)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2085",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "The Commission valued 6,279,118 acres in Tract A of Royce Area 48 in southwestern Illinois and the Nation's undivided one-half interest in 3,824,842 acres in Tract A' in central Illinois (Finding 64).",
+  "compensation": "The Commission credited the United States with $11,000: the $10,000 capitalized value of the $500 annuity increase, $700 for the priest and $300 for the church; it did not credit the $580. The opinion's table gives an award of $7,142,750, while the order setting awards the same day reads $7,142,250; both were subject to offsets.",
+  "today": "On September 29, 1978 the Commission certified and transferred Docket 313 to the United States Court of Claims for the remaining adjudication. The final outcome in the Court of Claims was not traced.",
+  "plain": {
+    "promised": "The Kaskaskia kept two tracts forever, could live and hunt on the ceded land while the United States owned it, and were promised protection, a larger annuity, a house, a fenced field, a priest and a church.",
+    "happened": "In 1978 the Indian Claims Commission valued the Kaskaskia land at $7,153,750, found the $11,000 credited to the United States unconscionable, and set an award subject to offsets.",
+    "today": "The two 1978 documents give different award figures. The case was transferred to the Court of Claims in September 1978; its final outcome has not been traced."
+  },
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Kaskaskia, 1803 (Kappler, vol. 2, p. 67)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-kaskaskia-1803-0067",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Pottawatomie Tribe et al. v. United States, Findings of Fact on Value and Consideration, Part 2 (August 25, 1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2085",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pottawatomie Tribe et al. v. United States, Opinion of the Commission, Part 1 (August 25, 1978), 42 Ind. Cl. Comm. 354",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2416",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pottawatomie Tribe et al. v. United States, Dockets 15-D, 29-B, 311, 313, 314-A and 315, Opinion of the Commission, Part 2 (August 25, 1978), 42 Ind. Cl. Comm. 354",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1956",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pottawatomie Tribe et al. v. United States, Order Setting Awards Subject to Offsets (August 25, 1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1009",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Order Certifying and Transferring Cases to the United States Court of Claims, Dockets 15-D, 29-B, 311, 313, 314-A and 315 (September 29, 1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/931",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), area 48",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/664/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "Award figure: the opinion's table gives $7,142,750 and the order setting awards gives $7,142,250. Not resolved.",
+    "Valuation date: the opinion (Part 1) values Tract A as of December 12, 1803, Finding 64 as of December 23, 1803 (the proclamation date in Kappler). Not resolved.",
+    "The Court of Claims outcome after the 1978 transfer (offsets, final judgment, payment) was not found.",
+    "Whether the 350-acre and 1,280-acre tracts kept by Article 1 stayed in Kaskaskia hands was not researched; they were later dealt with in the 1832 treaty of Castor Hill (kappler-384).",
+    "treaties.json lists the Miami Tribe of Oklahoma as a present-day tribe; the Commission's claimant for the Kaskaskia was the Peoria Tribe. The Peoria Tribe's history page (peoriatribe.com, now redirecting to peoriatribe.gov) did not load, so no nation account is recorded."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

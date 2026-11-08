@@ -1,12 +1,18 @@
 {
   "id": "kappler-384",
   "name": "Treaty with the Kaskaskia, etc., 1832 (Treaty of Castor Hill with the Kaskaskia and Peoria)",
-  "aka": ["Castor Hill treaty of October 27, 1832"],
+  "aka": [
+    "Castor Hill treaty of October 27, 1832"
+  ],
   "signed": "1832-10-27",
   "proclaimed": "1833-02-12",
   "citation": "7 Stat. 403",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-kaskaskia-etc-1832-0376",
-  "nations": ["Kaskaskia", "Peoria", "with the Michigamea, Cahokia and Tamaroa bands of the Illinois nation"],
+  "nations": [
+    "Kaskaskia",
+    "Peoria",
+    "with the Michigamea, Cahokia and Tamaroa bands of the Illinois nation"
+  ],
   "promises": [
     "Article 4: 150 sections west of Missouri, including the Peoria village, ceded to the combined Kaskaskia and Peoria 'forever, or as long as they live upon it as a tribe'.",
     "Article 5: an annuity of $3,000 for ten years, paid on their land in money, goods or stock at their choice, free of transport.",
@@ -16,7 +22,13 @@
   "status": "no-breach-found",
   "breaches": [],
   "today": "The Kansas land granted here, with the adjoining Piankeshaw and Wea grant of October 29, 1832, makes up Royce Areas 326 to 328. The four tribes united and ceded most of it by the treaty of May 30, 1854; the Indian Claims Commission's finding that the United States mishandled the sale of that land belongs to the 1854 treaty (kappler-644). No ruling, Act of Congress or government admission that this treaty's own terms were broken was found.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Peoria Tribe of Indians of Oklahoma",
+      "summary": "The Tribe's history says the Peoria, Kaskaskia, Piankeshaw and Wea, united as the Confederated Peoria in 1854, were forced from ancestral lands in Illinois, Indiana, Michigan, Ohio, Iowa and Missouri, moved to Missouri, then Kansas, then northeastern Oklahoma, and by 1915 held no tribal land at all.",
+      "url": "https://web.archive.org/web/20260531224612/https://peoriatribe.com/welcome/history/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Kaskaskia, etc., 1832 (Kappler, vol. 2, p. 376)",
@@ -32,6 +44,11 @@
       "title": "Peoria Tribe of Oklahoma et al. v. United States, Docket 65, Findings of Fact (March 17, 1965)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/669",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History (archived copy of the Tribe's website, May 2026)",
+      "url": "https://web.archive.org/web/20260531224612/https://peoriatribe.com/welcome/history/",
+      "publisher": "Peoria Tribe of Indians of Oklahoma"
     }
   ],
   "openQuestions": [

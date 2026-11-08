@@ -51,7 +51,18 @@
   "landTaken": "Royce Areas 53 and 54, 2,589,807 acres in north-central Ohio, bounded by Lake Erie, the Cuyahoga and Tuscarawas Rivers and the Greeneville Treaty line (Commission opinion of 1978). Area 53 lay within the Connecticut Western Reserve.",
   "compensation": "Consideration of $32,666.65 (Commission finding). Net awards set in 1978: Wyandot $561,424.21, Delaware $561,424.21, Chippewa $563,624.21, Ottawa $563,624.21, Potawatomi and intervenors $566,024.21, less offsets. Final awards entered 17 August 1978 for the Potawatomi, Ottawa and Wyandot.",
   "today": "The Commission's title decision (30 Ind. Cl. Comm. 8, 1973) was affirmed by the Court of Claims in 1975 (207 Ct. Cl. 958) and certiorari was denied, as recited in the 1978 opinion. Whether the Delaware and Chippewa shares were paid as final awards was not traced.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Wyandotte Nation",
+      "summary": "The Nation's history says the Wyandot, long tied to the French at Detroit, settled Upper Sandusky in Ohio, and that pressure from settlers forced the treaty it dates to 1843 and removal west of the Mississippi, leaving the Wyandot the last tribe to leave Ohio, in July 1843.",
+      "url": "https://wyandotte-nation.org/culture/our-history/"
+    },
+    {
+      "nation": "Delaware Tribe of Indians (Lenape)",
+      "summary": "The Tribe says that after signing the first treaty with the new United States in 1778 its ancestors had to keep giving up their lands and moving west, to Ohio, then Indiana, Missouri and Kansas and at last Indian Territory, and that its people understood many early land sales as something closer to leases.",
+      "url": "https://delawaretribe.org/about-us/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Wyandot, etc., 1805 (Kappler)",
@@ -77,6 +88,16 @@
       "title": "Lawrence Zane et al. ex rel. Wyandot Tribe v. United States, Docket 139, Final Award (1978)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2249",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Our History",
+      "url": "https://wyandotte-nation.org/culture/our-history/",
+      "publisher": "Wyandotte Nation"
+    },
+    {
+      "title": "About Us",
+      "url": "https://delawaretribe.org/about-us/",
+      "publisher": "Delaware Tribe of Indians"
     }
   ],
   "openQuestions": [

@@ -1,0 +1,18 @@
+{
+  "id": "cession-1880-07-13-blackfoot-blood-gros-ventre-piegan-river",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce full text: the President restores to the public domain the part of the April 13, 1875 addition bounded by Fort Buford, the Missouri, the Musselshell, the 47th parallel and the Yellowstone; the remainder yet part of the Gros Ventre, Blackfoot, etc. reserve.",
+    "no-breach-found follows the current rule: executive-order shrinkage of executive-order land with no court, Commission, Congress or admission finding. The decision note for Jordan is kept."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [
+    "Royce's 1880 boundary repeats most of the 1875 description, so how much of the addition actually remained is unclear from Royce alone; the 622/623 split was not checked on the map."
+  ],
+  "treatiesJsonErrors": [
+    "same Royce areas (622, 623) as cession-1875-04-13."
+  ]
+}

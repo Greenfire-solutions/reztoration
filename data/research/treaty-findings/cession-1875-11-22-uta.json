@@ -1,0 +1,59 @@
+{
+  "id": "cession-1875-11-22-uta",
+  "name": "Executive order of November 22, 1875 adding a tract north of the Ute reservation (restored to the public domain August 4, 1882)",
+  "aka": [
+    "Royce area 586"
+  ],
+  "signed": "1875-11-22",
+  "citation": "Executive order of November 22, 1875",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/882/mode/2up",
+  "nations": [
+    "Ute Indian Tribe of the Uintah and Ouray Reservation (White River Utes, the Yampa and Grand River bands)"
+  ],
+  "promises": [
+    "An addition, not a cession: the President set apart as an addition to the reserve of the 1868 treaty a tract running from the northeast corner of the Ute reservation north on 107 degrees west to the first standard parallel north, west to the Utah line, and south to the reservation (Royce).",
+    "Royce records that the tract was restored to the public domain by executive order of August 4, 1882 (area 586)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce area 586, restored to the public domain by executive order of August 4, 1882. No acreage was found in a source opened.",
+  "compensation": "None. The Court of Claims denied compensation for these executive-order lands and the Supreme Court affirmed in 1947 (330 U.S. 169).",
+  "today": "In Confederated Bands of Ute Indians v. United States (1947) the Supreme Court held that this order made the Utes no more than tenants at the will of the Government on land outside the 1868 boundary, so they had no compensable interest; that ruling went against the Utes. Justice Murphy, dissenting, wrote that the United States was morally and legally obligated to pay for the land. The White River Utes were moved to Utah after 1880.",
+  "nationVoice": [
+    {
+      "nation": "Ute Indian Tribe of the Uintah and Ouray Reservation",
+      "summary": "In October 2022 the Ute Business Committee said the Tribe was moved out of Colorado at gunpoint in a forced death march, and its chairman cited disregard of the Tribe's treaty rights in its Colorado homelands.",
+      "url": "https://www.ksl.com/article/50495056/utahs-ute-indian-tribe-blasts-bidens-colorado-national-monument"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pages 882-883, executive order of November 22, 1875 (area 586)",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/882/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Confederated Bands of Ute Indians v. United States, 330 U.S. 169 (1947)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/330/169",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Utah's Ute Indian Tribe blasts Biden's Colorado national monument (October 13, 2022)",
+      "url": "https://www.ksl.com/article/50495056/utahs-ute-indian-tribe-blasts-bidens-colorado-national-monument",
+      "publisher": "KSL.com (Deseret News)"
+    }
+  ],
+  "openQuestions": [
+    "A dissent is not a finding, so Justice Murphy's view is in today, not breaches. The Court's majority held there was nothing to pay; no other finding was found.",
+    "The 1947 opinion refers to the restoration only as made in 1882; the August 4, 1882 date is Royce's.",
+    "That the White River Utes were moved to Utah after 1880 is taken from the related record cession-1880-03-06-uta (402 U.S. 159), not reopened here.",
+    "treaties.json lists Southern Ute and Ute Mountain Ute as present-day tribes; the land lay north of the reservation, in White River Ute country. Not edited."
+  ],
+  "plain": {
+    "promised": "An addition, not a cession. In 1875 the President added a tract north of the Ute reservation in Colorado; in 1882 it was returned to the public domain.",
+    "happened": "No breach finding was found. In 1947 the Supreme Court held the Utes had only been tenants at the Government's will there and were owed nothing; one justice dissented.",
+    "today": "Nothing was paid. The Ute Indian Tribe says its people were moved out of Colorado at gunpoint."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

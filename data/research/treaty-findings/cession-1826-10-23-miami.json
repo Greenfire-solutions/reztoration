@@ -1,12 +1,17 @@
 {
   "id": "cession-1826-10-23-miami",
   "name": "Treaty with the Miami, 1826 (Treaty of Mississinewa)",
-  "aka": ["Treaty at the Mississinewa", "Miami treaty of October 23, 1826"],
+  "aka": [
+    "Treaty at the Mississinewa",
+    "Miami treaty of October 23, 1826"
+  ],
   "signed": "1826-10-23",
   "proclaimed": "1827-01-24",
   "citation": "7 Stat. 300",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-miami-1826-0278",
-  "nations": ["Myaamia (Miami)"],
+  "nations": [
+    "Myaamia (Miami)"
+  ],
   "promises": [
     "Article 2: ten reservations kept for the Miami out of the cession, among them 14 sections at Seek's village, 36 sections at Flat Belly's village, 10 sections each at White Raccoon's village, at the mouth of Mud Creek and at the forks of the Wabash, and the five-mile reserve below the Mississinewa.",
     "Article 4: goods worth $31,040.53 at the signing and $26,259.47 more the next summer; an annuity of $35,000 in 1827 and $30,000 in 1828, then a permanent annuity of $25,000 'as long as they exist together as a tribe'.",
@@ -37,7 +42,13 @@
     "happened": "The Indian Claims Commission found in 1978 that the United States paid $232,095.00 for Miami land interests worth $1,491,242.80, and that this price was unconscionable.",
     "today": "The Commission awarded $1,259,147.80, subject to offsets. Funds were appropriated in 1979 and shared in 1982 between the Miami Tribe of Oklahoma and the Miami of Indiana. The final amount after offsets is not stated."
   },
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Miami Tribe of Oklahoma (Myaamia)",
+      "summary": "The Tribe says its homelands lie in what are now Indiana, Ohio, Illinois, lower Michigan and lower Wisconsin, that the treaty period was devastating, beginning with the massive cession required at Greenville in 1795, and that settlers kept pressing the Myaamiaki to give up their lands until removal at gunpoint in 1846.",
+      "url": "https://www.miamination.com/about-us/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Miami, 1826 (Kappler, vol. 2, p. 278)",
@@ -78,6 +89,11 @@
       "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 716",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/716/mode/2up",
       "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "About Us",
+      "url": "https://www.miamination.com/about-us/",
+      "publisher": "Miami Tribe of Oklahoma"
     }
   ],
   "openQuestions": [

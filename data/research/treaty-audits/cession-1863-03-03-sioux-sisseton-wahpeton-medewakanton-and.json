@@ -1,0 +1,20 @@
+{
+  "id": "cession-1863-03-03-sioux-sisseton-wahpeton-medewakanton-and",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "12 Stat. 652 (govinfo PDF): treaties declared abrogated and annulled so far as they impose future obligations; lands, rights of occupancy, annuities and claims forfeited; quote exact.",
+    "12 Stat. 819 (govinfo PDF): removal to a tract outside any state, survey, appraisal, preemption and sale, bands subject to state criminal laws and the Secretary's rules; no consent provision found.",
+    "ICC Dockets 142 and 359-363, compromise findings of July 25, 1967 (pointer 2214): Royce Area 440 of 742,397.76 acres; proceeds $950,063.71 (about $1.26 an acre); Court of Claims rulings 58 Ct. Cl. 302 and 95 Ct. Cl. 603; June 21, 1965 order that no timely claim for Area 440 was filed; no part of the $12,250,000 allocated to it.",
+    "ICC 1962 findings (pointer 251): Crow Creek selected under the March 1863 Act; military moved the Indian prisoners there in May 1864.",
+    "Shakopee Mdewakanton Sioux Community history page: annuities unpaid as a clear breach, forcible removal, Congress abrogated all treaties; summary is accurate.",
+    "Plain fields match the file; no em dashes."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "presentDayTribes may omit the Santee Sioux Nation, Upper Sioux Community and Spirit Lake Nation."
+  ]
+}

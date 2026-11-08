@@ -49,7 +49,13 @@
     "happened": "The Indian Claims Commission held in 1961 that the $7,795,851.99 paid under an 1891 agreement for the Cherokee Outlet was unconscionable for land worth $22,585,328.14.",
     "today": "In 1961 the Commission entered a final judgment of $14,789,476.15 for the Cherokee Nation, agreed by the parties. Whether it was paid has not been traced."
   },
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Cherokee Nation",
+      "summary": "The Nation's history says that from 1817 some Cherokee, enticed by United States agents, moved west, first to lands in what is now Arkansas and then to a treaty reservation in present-day eastern Oklahoma.",
+      "url": "https://www.cherokee.gov/about-the-nation/history/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Western Cherokee, 1833 (Kappler, vol. 2, p. 385)",
@@ -70,6 +76,11 @@
       "title": "Cherokee Nation v. United States, Docket 173, Final Judgment (September 14, 1961)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/173",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History",
+      "url": "https://www.cherokee.gov/about-the-nation/history/",
+      "publisher": "Cherokee Nation"
     }
   ],
   "openQuestions": [

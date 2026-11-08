@@ -49,7 +49,23 @@
   "landTaken": "Royce Area 56, 1,537,366 acres in southern Indiana (Docket 253 findings, 1969).",
   "compensation": "$22,000 in value by the Commission's reckoning (the commuted value of the annuities, agreed by the parties). The final award for Area 56 was $1,076,652.00 to the Miami and Eel River and $538,326.00 to the Wea; these are larger than the $1,062,000 and $531,000 in the conclusions, and the reason for the difference was not traced.",
   "today": "The Commission valued the land as of 24 April 1806, the proclamation date, a time it described as a business boom.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Miami Tribe of Oklahoma (Myaamia)",
+      "summary": "The Tribe says its homelands lie in what are now Indiana, Ohio, Illinois, lower Michigan and lower Wisconsin, that the treaty period was devastating, beginning with the massive cession required at Greenville in 1795, and that settlers kept pressing the Myaamiaki to give up their lands until removal at gunpoint in 1846.",
+      "url": "https://www.miamination.com/about-us/"
+    },
+    {
+      "nation": "Peoria Tribe of Indians of Oklahoma",
+      "summary": "The Tribe's history says the Peoria, Kaskaskia, Piankeshaw and Wea, united as the Confederated Peoria in 1854, were forced from ancestral lands in Illinois, Indiana, Michigan, Ohio, Iowa and Missouri, moved to Missouri, then Kansas, then northeastern Oklahoma, and by 1915 held no tribal land at all.",
+      "url": "https://web.archive.org/web/20260531224612/https://peoriatribe.com/welcome/history/"
+    },
+    {
+      "nation": "Delaware Tribe of Indians (Lenape)",
+      "summary": "The Tribe says that after signing the first treaty with the new United States in 1778 its ancestors had to keep giving up their lands and moving west, to Ohio, then Indiana, Missouri and Kansas and at last Indian Territory, and that its people understood many early land sales as something closer to leases.",
+      "url": "https://delawaretribe.org/about-us/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Delawares, etc., 1805 (Kappler)",
@@ -65,6 +81,21 @@
       "title": "Miami Tribe of Oklahoma v. United States, Dockets 253, 131 and 314-D, Final Award (1969)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2633",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "About Us",
+      "url": "https://www.miamination.com/about-us/",
+      "publisher": "Miami Tribe of Oklahoma"
+    },
+    {
+      "title": "History (archived copy of the Tribe's website, May 2026)",
+      "url": "https://web.archive.org/web/20260531224612/https://peoriatribe.com/welcome/history/",
+      "publisher": "Peoria Tribe of Indians of Oklahoma"
+    },
+    {
+      "title": "About Us",
+      "url": "https://delawaretribe.org/about-us/",
+      "publisher": "Delaware Tribe of Indians"
     }
   ],
   "openQuestions": [

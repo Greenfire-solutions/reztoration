@@ -1,12 +1,16 @@
 {
   "id": "kappler-636",
   "name": "Treaty with the Iowa, 1854",
-  "aka": ["Ioway treaty of May 17, 1854"],
+  "aka": [
+    "Ioway treaty of May 17, 1854"
+  ],
   "signed": "1854-05-17",
   "proclaimed": "1854-07-17",
   "citation": "10 Stat. 1069",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-iowa-1854-0628",
-  "nations": ["Iowa (Ioway)"],
+  "nations": [
+    "Iowa (Ioway)"
+  ],
   "promises": [
     "Article 1: the tract between the Great Nemaha, Noland's creek and the south fork of the Nemaha reserved as 'the future and permanent home of the Ioway Indians'.",
     "Articles 2 and 3: the ceded land to be surveyed and offered for sale at public auction under the public land laws, with all the money from the sales, less the costs of surveying and selling, paid to the Iowa; no white settlement on the land before the surveys were approved.",
@@ -48,7 +52,13 @@
     "happened": "The Indian Claims Commission held in 1969 that the United States breached its duty by letting settlers buy much of the land at appraised prices instead of selling it at auction, and that 4,798 acres were never accounted for.",
     "today": "In 1969 the Commission awarded the Iowa $1,367,701.90, the $207,752.15 shortfall plus interest from 1857. Whether it was paid has not been traced."
   },
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Iowa Tribe of Kansas and Nebraska (Báxoje)",
+      "summary": "The Tribe says its reservation was set up and changed by a series of treaties, with its present boundaries fixed by the treaty of March 6, 1861, that the 1854 Kansas-Nebraska Act drew a line across it, and that it now controls about 6,000 of the reservation's roughly 12,038 acres.",
+      "url": "https://iowatribeofkansasandnebraska.com/about-us/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Iowa, 1854 (Kappler, vol. 2, p. 628)",
@@ -84,6 +94,11 @@
       "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule pp. 792-793",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/792/mode/2up",
       "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "About Us",
+      "url": "https://iowatribeofkansasandnebraska.com/about-us/",
+      "publisher": "Iowa Tribe of Kansas and Nebraska"
     }
   ],
   "openQuestions": [

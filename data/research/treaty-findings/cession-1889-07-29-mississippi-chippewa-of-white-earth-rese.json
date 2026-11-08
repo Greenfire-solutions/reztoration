@@ -1,0 +1,87 @@
+{
+  "id": "cession-1889-07-29-mississippi-chippewa-of-white-earth-rese",
+  "name": "White Earth agreement under the Nelson Act, signed July 29, 1889",
+  "aka": [
+    "Nelson Act cession, Mississippi Chippewa of the White Earth Reservation",
+    "Royce areas 708 and 709"
+  ],
+  "signed": "1889-07-29",
+  "citation": "Act of January 14, 1889, ch. 24, 25 Stat. 642; agreement printed in H. R. Ex. Doc. 247, 51st Cong., 1st sess.",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg642.pdf",
+  "nations": [
+    "Gaa-waabaabiganikaag (White Earth Nation), Mississippi bands of Ojibwe"
+  ],
+  "promises": [
+    "Royce records that the White Earth bands ceded all of the White Earth Reservation outside a block of townships in ranges 37 to 42 kept for allotments, their rights in the lands reserved by Article 1 of the 1867 treaty and the executive addition to them, and their rights in the Red Lake Reservation not needed for Red Lake allotments.",
+    "Section 1: the cession valid only if assented to in writing by two-thirds of the male adults over eighteen of the band; an Indian already holding an allotment not to be deprived of it or disturbed without his own separate consent.",
+    "Section 3: allotments in severalty; an Indian could take his allotment on the reservation where he lived instead of removing to White Earth.",
+    "Sections 4 and 5: pine lands examined, appraised and sold at public auction for no less than the appraised value.",
+    "Section 6: agricultural land not allotted sold to actual settlers under the homestead law at $1.25 an acre.",
+    "Section 7: net proceeds held in the Treasury as a permanent fund for all the Chippewa in Minnesota, drawing 5 percent interest paid yearly for fifty years, then divided among them."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "litigation",
+      "date": "1999-05",
+      "what": "The Minnesota Chippewa Tribe claimed in Indian Claims Commission Dockets 19 and 188 that Nelson Act land and timber proceeds were misspent and that land and timber were sold for less than full value. The claims were settled for $20 million, which the Court of Federal Claims awarded in May 1999.",
+      "whoFoundIt": "Minnesota Chippewa Tribe v. United States, Dockets 19 and 188 (settlement), as described in the Bureau of Indian Affairs' testimony to the House Subcommittee on Indian and Alaska Native Affairs, March 1, 2012",
+      "source": {
+        "title": "Testimony of Mike Black, Director, Bureau of Indian Affairs, on H.R. 1272, Minnesota Chippewa Tribe Judgment Fund Distribution Act (March 1, 2012)",
+        "url": "https://www.doi.gov/node/3522",
+        "publisher": "US Department of the Interior"
+      }
+    }
+  ],
+  "landTaken": "Royce records the cession of all of the White Earth Reservation not within the listed townships of ranges 37 to 42, the 1867 Article 1 lands and their executive addition, and the band's interest in the surplus Red Lake lands. No acreage was taken from a primary source.",
+  "compensation": "Net sale proceeds were to go into the Chippewa permanent fund (Section 7). The 1999 settlement of $20 million covers all six member bands of the Minnesota Chippewa Tribe. Leech Lake testimony in 2012 says the Tribe's own appraisal for the settlement put White Earth's share of the land and timber damages at 9 percent.",
+  "today": "In Chippewa Indians of Minnesota v. United States, 307 U.S. 1 (1939), the Supreme Court held that the 1889 Act and the cessions under it did not create a technical trust and did not bind Congress to the plan, so spending from the fund for the Indians' benefit was not a diversion; that ruling went against the Chippewa and is not counted as a breach. The Bureau of Indian Affairs testified in 2012 that no funds remained to divide in equal shares after the fifty years, and that the 1999 settlement money had been held in trust since June 22, 1999.",
+  "plain": {
+    "promised": "Allotments on White Earth, no existing allotment taken without consent, and all land and timber sale money held in a fund for all Minnesota Chippewa at 5 percent interest for fifty years, then divided among them.",
+    "happened": "The Minnesota Chippewa Tribe, which includes White Earth, claimed the sale money was misspent and land and timber sold below full value. No formal finding specific to this cession has been located.",
+    "today": "The claims were settled for $20 million in 1999 for all six member bands. In 1939 the Supreme Court ruled against the Chippewa on spending from the fund. In 2012 the Bureau of Indian Affairs said no fund was left to divide."
+  },
+  "nationVoice": [
+    {
+      "nation": "Leech Lake Band of Ojibwe",
+      "summary": "No White Earth Nation statement was found; Leech Lake, a fellow member band, told the Senate Committee on Indian Affairs through Chairman Arthur LaRose that the Nelson Act opened the bands' reservations to settlers and private companies in clear violation of existing treaties, and that the Tribe's appraisal for the $20 million settlement put White Earth's share of the damages at 9 percent.",
+      "url": "https://web.archive.org/web/20231009055507/https://www.indian.senate.gov/sites/default/files/Arthur%20LaRose%20testimony.pdf"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Act of January 14, 1889, ch. 24, 25 Stat. 642 (Nelson Act)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg642.pdf",
+      "publisher": "US Government Publishing Office"
+    },
+    {
+      "title": "Testimony of Mike Black, Director, Bureau of Indian Affairs, on H.R. 1272, Minnesota Chippewa Tribe Judgment Fund Distribution Act (March 1, 2012)",
+      "url": "https://www.doi.gov/node/3522",
+      "publisher": "US Department of the Interior"
+    },
+    {
+      "title": "Testimony of Chairman Arthur LaRose of the Leech Lake Band of Ojibwe on S. 1739, Senate Committee on Indian Affairs (Wayback Machine copy)",
+      "url": "https://web.archive.org/web/20231009055507/https://www.indian.senate.gov/sites/default/files/Arthur%20LaRose%20testimony.pdf",
+      "publisher": "Leech Lake Band of Ojibwe, via U.S. Senate Committee on Indian Affairs"
+    },
+    {
+      "title": "Chippewa Indians of Minnesota v. United States, 307 U.S. 1 (1939)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/307/1",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule for 1889, pp. 936-937, areas 708 and 709",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/936/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The 1999 settlement is a compromise and is recorded as litigation, not a finding. No court or Commission finding specific to the White Earth cession was found.",
+    "Royce gives the date of the executive addition to the 1867 Article 1 lands as October 29, 1873 in this entry and October 19, 1873 in the White Oak Point entry; not resolved.",
+    "The agreement itself (H. R. Ex. Doc. 247, 51st Cong., 1st sess.) was not opened; its terms here are from Royce and the Act.",
+    "Later White Earth land loss under the Clapp amendments and the White Earth Land Settlement Act of 1986 concern allotments, not this cession; not researched.",
+    "No White Earth Nation account of the 1889 agreement was found on a tribal site in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

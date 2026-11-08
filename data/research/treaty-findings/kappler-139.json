@@ -47,13 +47,24 @@
       "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
       "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
       "publisher": "Internet Archive"
+    },
+    {
+      "title": "History (archived copy of the Tribe's website, May 2026)",
+      "url": "https://web.archive.org/web/20260531224612/https://peoriatribe.com/welcome/history/",
+      "publisher": "Peoria Tribe of Indians of Oklahoma"
     }
   ],
   "openQuestions": [
     "The 1969 opinion says Docket 317 was dismissed from that proceeding because the Kickapoo were interested only in Royce Area 73, yet Docket 317 ended in a 1970 award on stipulation; the basis of that award was not traced.",
     "No Wea, Peoria or Kickapoo account of the 1816 treaty was found."
   ],
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Peoria Tribe of Indians of Oklahoma",
+      "summary": "The Tribe's history says the Peoria, Kaskaskia, Piankeshaw and Wea, united as the Confederated Peoria in 1854, were forced from ancestral lands in Illinois, Indiana, Michigan, Ohio, Iowa and Missouri, moved to Missouri, then Kansas, then northeastern Oklahoma, and by 1915 held no tribal land at all.",
+      "url": "https://web.archive.org/web/20260531224612/https://peoriatribe.com/welcome/history/"
+    }
+  ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"
 }

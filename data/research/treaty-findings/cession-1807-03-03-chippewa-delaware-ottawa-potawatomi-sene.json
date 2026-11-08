@@ -18,7 +18,13 @@
   "landTaken": "Royce lists these sections with the cession of Royce Areas 90 and 91 in Ohio; the Delaware ceded all claim to the thirteen sections in Article 18 of the Treaty of 29 September 1817.",
   "compensation": "This entry is an Act of Congress that reserved land rather than a treaty; it promised no payment.",
   "today": "The Delaware cession of these sections is part of the 1817 treaty (kappler-153). No separate claims finding on the thirteen sections was found.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Delaware Tribe of Indians (Lenape)",
+      "summary": "The Tribe says that after signing the first treaty with the new United States in 1778 its ancestors had to keep giving up their lands and moving west, to Ohio, then Indiana, Missouri and Kansas and at last Indian Territory, and that its people understood many early land sales as something closer to leases.",
+      "url": "https://delawaretribe.org/about-us/"
+    }
+  ],
   "sources": [
     {
       "title": "Statutes at Large, vol. 2, p. 448: Act of March 3, 1807, ch. 49",
@@ -34,6 +40,11 @@
       "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
       "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
       "publisher": "Internet Archive"
+    },
+    {
+      "title": "About Us",
+      "url": "https://delawaretribe.org/about-us/",
+      "publisher": "Delaware Tribe of Indians"
     }
   ],
   "openQuestions": [

@@ -1,0 +1,101 @@
+{
+  "id": "cession-1874-08-19-blackfoot-blood-gros-ventre-piegan-river",
+  "name": "Executive order of August 19, 1874 restoring to the public domain the part of the 1873 Blackfeet reserve left out by the Act of April 15, 1874",
+  "aka": [
+    "Royce area 574"
+  ],
+  "signed": "1874-08-19",
+  "citation": "Executive order of August 19, 1874",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/876/mode/2up",
+  "nations": [
+    "Blackfeet Nation (Amskapi Piikani; Blackfoot, Blood and Piegan)",
+    "Fort Belknap Indian Community (Aaniiih or Gros Ventre)",
+    "River Crow (Apsáalooke)"
+  ],
+  "promises": [
+    "Not a treaty: the President restored to the public domain the country in the executive-order reserve of July 5, 1873 that the Act of April 15, 1874 had not taken in, bounded by the Marias River, Birch Creek, the Rocky Mountains, the Sun (Medicine) River and the Missouri (Royce).",
+    "There was no agreement with the tribes and no payment."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1935-04-08",
+      "what": "The Court of Claims found that 15,289,344 acres of the land the 1855 treaty assigned to these tribes (Royce areas 399 and 574) were taken under the Act of April 15, 1874 and the executive order of August 19, 1874, and that after crediting other land added to their reservation they were deprived of 12,261,749.76 acres for which they had received no compensation.",
+      "whoFoundIt": "Court of Claims, Blackfeet et al. v. United States, No. E-427 (judgment of April 8, 1935), Finding XIV, as recounted by the Indian Claims Commission, Docket 279 (1952)",
+      "source": {
+        "title": "Blackfeet and Gros Ventre Tribes v. United States, Docket 279, Opinion of the Commission, December 17, 1952, 2 Ind. Cl. Comm. 302 (recounting Court of Claims No. E-427, judgment of April 8, 1935)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/183",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1952-12-17",
+      "what": "The Indian Claims Commission recorded that the tribes' Court of Claims case included a claim for an additional 2,092,420 acres alleged to have been taken by this order without compensation, and that the Court of Claims considered it together with the 1874 Act claim in its Finding XIV.",
+      "whoFoundIt": "Indian Claims Commission, Blackfeet and Gros Ventre Tribes v. United States, Docket 279, opinion, 2 Ind. Cl. Comm. 302 (December 17, 1952)",
+      "source": {
+        "title": "Blackfeet and Gros Ventre Tribes v. United States, Docket 279, Opinion of the Commission, December 17, 1952, 2 Ind. Cl. Comm. 302 (recounting Court of Claims No. E-427, judgment of April 8, 1935)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/183",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "2010-03-08",
+      "what": "The Blackfeet Nation says that after the 1855 treaty more treaties and agreements followed, each taking huge parts of its traditional land.",
+      "whoFoundIt": "Blackfeet Nation, Our History (archived March 8, 2010)",
+      "source": {
+        "title": "Blackfeet Nation, Our History (archived March 8, 2010)",
+        "url": "http://web.archive.org/web/20100308002858/http://www.blackfeetnation.com/about-the-blackfeet/our-history.html?showall=1",
+        "publisher": "Blackfeet Nation, via Internet Archive"
+      }
+    }
+  ],
+  "landTaken": "Royce area 574. The tribes claimed 2,092,420 acres were taken by this order (as the Commission describes the claim); the Court of Claims found 15,289,344 acres of areas 399 and 574 taken under the 1874 Act and this order.",
+  "compensation": "The Court of Claims valued the 12,261,749.76 acres at $6,130,874.88 when taken and reduced the award to $622,465.57 by allowed offsets; no interest was allowed for the years between the taking and the judgment (Indian Claims Commission, Docket 279, 1952).",
+  "today": "The Indian Claims Commission (1952) held the tribes' later claim for interest on the 1935 award barred by that judgment.",
+  "nationVoice": [
+    {
+      "nation": "Blackfeet Nation (Amskapi Piikani)",
+      "summary": "The Nation's own history says that after Lame Bull's Treaty of 1855 more treaties and agreements followed, each taking huge parts of its traditional land, made when the people were not equipped to negotiate or even understand them.",
+      "url": "http://web.archive.org/web/20100308002858/http://www.blackfeetnation.com/about-the-blackfeet/our-history.html?showall=1"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pages 876-877, executive order of August 19, 1874",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/876/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Blackfeet and Gros Ventre Tribes v. United States, Docket 279, Opinion of the Commission, December 17, 1952, 2 Ind. Cl. Comm. 302 (recounting Court of Claims No. E-427, judgment of April 8, 1935)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/183",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Blackfeet and Gros Ventre Tribes v. United States, Docket 279-B, Findings of Fact, August 16, 1965, 15 Ind. Cl. Comm. 561",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/602",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Blackfeet Nation, Our History (archived March 8, 2010)",
+      "url": "http://web.archive.org/web/20100308002858/http://www.blackfeetnation.com/about-the-blackfeet/our-history.html?showall=1",
+      "publisher": "Blackfeet Nation, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The second breach records how the Commission described the claim; the 2,092,420 acre figure is the tribes' allegation, not a finding.",
+    "The 1935 Court of Claims opinion (81 Ct. Cl. 101) was not opened directly; its findings are taken from the Indian Claims Commission's 1952 account of them.",
+    "The Court of Claims measured the taking from the 1855 treaty lands (Royce 399 and 574), not from the 1873 executive-order boundary.",
+    "treaties.json lists the Crow Tribe as a present-day tribe; the River Crow are named in the Act, but the Court of Claims case was brought by the Blackfeet and Gros Ventre. Not edited.",
+    "No Fort Belknap (Aaniiih and Nakoda) account of the 1874 changes was found."
+  ],
+  "plain": {
+    "promised": "Not a treaty. The President returned to the public domain the part of the 1873 Blackfeet reserve between the Sun River and the Marias River and Birch Creek, with no agreement and no payment.",
+    "happened": "In 1935 the Court of Claims found that 12,261,749.76 acres of the tribes' 1855 treaty land had been taken under the 1874 Act and this order without compensation.",
+    "today": "The court valued the land at $6,130,874.88, but offsets cut the award to $622,465.57, with no interest."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

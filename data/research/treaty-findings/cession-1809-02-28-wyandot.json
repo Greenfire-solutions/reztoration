@@ -1,0 +1,51 @@
+{
+  "id": "cession-1809-02-28-wyandot",
+  "name": "Act of February 28, 1809 reserving the Brownstown and Maguagua tracts in Michigan Territory for the Wyandot (Royce areas 95 and 96)",
+  "aka": [
+    "An Act for the relief of certain Alibama and Wyandott Indians",
+    "Brownstown and Maguaga reserves"
+  ],
+  "signed": "1809-02-28",
+  "citation": "Act of February 28, 1809, ch. 23, 2 Stat. 527",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-2/pdf/STATUTE-2-Pg527.pdf",
+  "nations": [
+    "Wyandot (Wyandotte Nation)"
+  ],
+  "promises": [
+    "Section 2: two tracts in Michigan Territory, one including the village of Brown's town and the other the village of Maguaga, not more than 5,000 acres in all, reserved for the Wyandot and their descendants.",
+    "The tracts were secured on the same terms as the Alabama tract in Section 1: by lease for fifty years, not transferable, and ending if the tribe removed from the land."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The Wyandot ceded both tracts by the treaty of September 20, 1818 (7 Stat. 180, kappler-172) in exchange for a reserve of about 5,000 acres on the Huron River (Royce area 260), which they ceded in 1842. In 1976 the Indian Claims Commission, valuing Wyandot lands, entered the Brownstown and Maguagua leasehold at $0, its value no more than that of the Huron River reserve given for it; this is evidence against a breach.",
+  "plain": {
+    "promised": "Congress reserved two tracts of up to 5,000 acres in all, at Brownstown and Maguagua in Michigan, for the Wyandot and their descendants for fifty years.",
+    "happened": "The Wyandot gave up both tracts in 1818 for a Huron River reserve. In 1976 the Indian Claims Commission found the leasehold worth no more than the land given for it. No breach has been found.",
+    "today": "Nothing further was found. The Huron River reserve was ceded in 1842 and valued separately by the Commission."
+  },
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Act of February 28, 1809, ch. 23, 2 Stat. 527 (An Act for the relief of certain Alibama and Wyandott Indians)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-2/pdf/STATUTE-2-Pg527.pdf",
+      "publisher": "US Government Publishing Office"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule for 1809 and 1818, areas 95 and 96",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/676/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Zane et al. on behalf of the Wyandotte Tribe v. United States, Dockets 212 and 213, Opinion of the Commission (August 5, 1976), 38 Ind. Cl. Comm. 561",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2247",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The Commission's 1976 opinion says the consideration paid was not at issue in that proceeding; the later consideration decision was not read.",
+    "treaties.json links a loc.gov file for the 10th Congress; the govinfo copy of 2 Stat. 527 was used.",
+    "No Wyandotte Nation account of the Brownstown and Maguagua reserves was found in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

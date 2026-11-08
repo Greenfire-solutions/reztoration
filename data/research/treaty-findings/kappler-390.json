@@ -1,12 +1,17 @@
 {
   "id": "kappler-390",
   "name": "Treaty with the Piankashaw and Wea, 1832 (Treaty of Castor Hill with the Piankeshaw and Wea)",
-  "aka": ["Castor Hill treaty of October 29, 1832"],
+  "aka": [
+    "Castor Hill treaty of October 29, 1832"
+  ],
   "signed": "1832-10-29",
   "proclaimed": "1833-02-12",
   "citation": "7 Stat. 410",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-piankashaw-and-wea-1832-0382",
-  "nations": ["Piankeshaw", "Wea"],
+  "nations": [
+    "Piankeshaw",
+    "Wea"
+  ],
   "promises": [
     "Article 2: 250 sections west of Missouri, including the Piankeshaw and Wea villages, ceded to the two tribes for their permanent residence.",
     "Article 3: for the Piankeshaw, $500 a year for five years in cattle, hogs and farm tools, $750 for farming and improvements, and $200 at the signing.",
@@ -16,7 +21,13 @@
   "status": "no-breach-found",
   "breaches": [],
   "today": "In the Wea claim for the 1818 cession (Docket 314), the Indian Claims Commission held in 1961 that this treaty's Kansas grant to the Wea was given without consideration, as a gratuity, and in 1963 valued the Wea half of the 250 sections at $24,000 (80,000 acres at 30 cents) and set it off against the Wea award. The Piankeshaw, Wea, Peoria and Kaskaskia ceded most of the Kansas land by the treaty of May 30, 1854 (kappler-644). No ruling, Act of Congress or government admission that this treaty's own terms were broken was found.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Peoria Tribe of Indians of Oklahoma",
+      "summary": "The Tribe's history says the Peoria, Kaskaskia, Piankeshaw and Wea, united as the Confederated Peoria in 1854, were forced from ancestral lands in Illinois, Indiana, Michigan, Ohio, Iowa and Missouri, moved to Missouri, then Kansas, then northeastern Oklahoma, and by 1915 held no tribal land at all.",
+      "url": "https://web.archive.org/web/20260531224612/https://peoriatribe.com/welcome/history/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Piankashaw and Wea, 1832 (Kappler, vol. 2, p. 382)",
@@ -37,6 +48,11 @@
       "title": "Peoria Tribe of Indians of Oklahoma et al. v. United States, Docket 314, Opinion of the Commission (July 29, 1963)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/829",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History (archived copy of the Tribe's website, May 2026)",
+      "url": "https://web.archive.org/web/20260531224612/https://peoriatribe.com/welcome/history/",
+      "publisher": "Peoria Tribe of Indians of Oklahoma"
     }
   ],
   "openQuestions": [

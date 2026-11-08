@@ -35,7 +35,23 @@
   ],
   "compensation": "Net sums ordered on September 22, 1978, less any gratuitous offsets: Wyandot $2,348,679.60; Ottawa $1,692,028.56; Delaware $487,235.92; Shawnee $437,735.92; Chippewa $258,820.80; Potawatomi $254,320.80. Final award and payment were not traced.",
   "today": "The Commission's 1973 title decision in these dockets (30 Ind. Cl. Comm. 337) held that six tribes held recognized title to Areas 87 and 88 in undivided shares; the 1978 opinion reports it was affirmed by the Court of Claims (207 Ct. Cl. 959, 1975) and certiorari was denied (423 U.S. 903, 1976). The Commission read Article 4 as a single $1,000 annuity shared by the Shawnee and the Seneca of Lewistown, not $1,000 each.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Wyandotte Nation",
+      "summary": "The Nation's history says the Wyandot, long tied to the French at Detroit, settled Upper Sandusky in Ohio, and that pressure from settlers forced the treaty it dates to 1843 and removal west of the Mississippi, leaving the Wyandot the last tribe to leave Ohio, in July 1843.",
+      "url": "https://wyandotte-nation.org/culture/our-history/"
+    },
+    {
+      "nation": "Seneca-Cayuga Nation",
+      "summary": "The history the Nation publishes (Muriel H. Wright's text) says the Seneca of Sandusky ceded their Ohio lands, 40,000 acres in present Sandusky and Seneca counties, by a treaty of February 28, 1831, and reached the Indian Territory in July 1832 after an eight-month journey of delay and great suffering.",
+      "url": "https://sctribe.com/node/150"
+    },
+    {
+      "nation": "Seneca-Cayuga Nation",
+      "summary": "A 2020 post on the Nation's website says the Cayuga among its founders came from the Sandusky, Ohio area and the Seneca from New York and Canada, that both were moved to Oklahoma under Indian removal, and that, too few to stand alone, they joined as one nation and adopted a constitution in 1937.",
+      "url": "https://sctribe.com/node/218"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Wyandot, etc., 1818 (Kappler, vol. 2, p. 162)",
@@ -56,6 +72,21 @@
       "title": "Strong et al. v. United States, Docket 13-F et al., Findings of Fact (May 23, 1973)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/929",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Our History",
+      "url": "https://wyandotte-nation.org/culture/our-history/",
+      "publisher": "Wyandotte Nation"
+    },
+    {
+      "title": "A Guide to the Indian Tribes of OK: Seneca (Muriel H. Wright, as published by the Nation)",
+      "url": "https://sctribe.com/node/150",
+      "publisher": "Seneca-Cayuga Nation"
+    },
+    {
+      "title": "Founding Members of Seneca-Cayuga Nation (August 11, 2020)",
+      "url": "https://sctribe.com/node/218",
+      "publisher": "Seneca-Cayuga Nation"
     }
   ],
   "openQuestions": [

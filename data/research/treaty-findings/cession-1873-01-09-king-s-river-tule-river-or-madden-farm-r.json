@@ -1,0 +1,91 @@
+{
+  "id": "cession-1873-01-09-king-s-river-tule-river-or-madden-farm-r",
+  "name": "Executive order of January 9, 1873 setting apart a reserve on the South Tule River",
+  "aka": [
+    "Tule River reservation, first executive order",
+    "Royce area 607 (cross-reference)"
+  ],
+  "signed": "1873-01-09",
+  "citation": "Executive order of January 9, 1873",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/860/mode/2up",
+  "nations": [
+    "Tule River Indian Tribe (Yokuts, with Owens Valley Paiute and Tübatulabal members)",
+    "Bands Royce lists as King's River, Owen's River and Tule River Indians"
+  ],
+  "promises": [
+    "Not a treaty: the President set apart a reserve on the South Tule River, from 4 miles below the Soda Springs north to the ridge dividing the South and Middle Tule, 10 miles east and 10 miles back west along the ridge above Deer Creek (Royce).",
+    "Royce records that it was cancelled and a new reserve established on October 3, 1873. The Tribe says the 1873 reserve, about 48,000 acres, replaced its original valley farmland near Porterville (the Madden Farm), and that little of the new land could be farmed."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "nation-statement",
+      "date": "2013-09-24",
+      "what": "The Tule River Tribe says President Hayes's 1878 order cut the reservation back to about its original size and that the President lacked authority under federal law to reduce it; it also says its people on the Madden Farm were forcibly and violently removed to the new reservation in 1876, and claims damages for the 1873 removal and the 1878 reduction.",
+      "whoFoundIt": "Tule River Indian Tribe, with the Native American Rights Fund, water settlement presentation, September 24, 2013",
+      "source": {
+        "title": "Tule River Indian Tribe Water Settlement (presentation by the Tule River Tribe with the Native American Rights Fund and others, September 24, 2013)",
+        "url": "https://narf.org/nill/documents/NARF_water_settlements/Tule/20130924presentation.pdf",
+        "publisher": "Native American Rights Fund, National Indian Law Library"
+      },
+      "quote": "The President lacked the authority under federal law to reduced the size of the Reservation."
+    }
+  ],
+  "landTaken": "Royce area 607, the land the executive order of August 3, 1878 restored to the public domain, includes part of this reserve. No acreage for it was found in an order.",
+  "compensation": "Nothing paid for the 1873 removal or the 1878 reduction was found. In 2013 the Tribe put its historical damages at $286.0 million for the 1873 removal and $41.9 million for the 1878 reduction, in 2007 dollars; these are the Tribe's claims, not awards.",
+  "today": "The present Tule River Reservation is 55,396 acres by the Tribe's 2013 count. A bill to ratify the Tribe's 2007 water settlement, S. 689, was reported in the Senate on May 12, 2025; it would have the Tribe waive claims related to the creation or reduction of the Reservation. No record of its enactment was found.",
+  "nationVoice": [
+    {
+      "nation": "Tule River Indian Tribe",
+      "summary": "The Tribe says its first reservation of valley farmland (the Madden Farm) was taken by Indian agents through state patents, that its people were forcibly removed to the mountain reservation in 1876, and that the 1878 reduction was beyond the President's authority.",
+      "url": "https://narf.org/nill/documents/NARF_water_settlements/Tule/20130924presentation.pdf"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pages 860-861, executive order of January 9, 1873",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/860/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pages 864-865, executive order of October 3, 1873",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/864/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pages 892-893, executive order of August 3, 1878 (area 607)",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/892/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Executive Order: Restoration of a Portion of the Tule River Indian Reservation to the Public Domain, August 3, 1878",
+      "url": "https://presidency.ucsb.edu/documents/executive-order-restoration-portion-tule-river-indian-reservation-public-domain",
+      "publisher": "The American Presidency Project, UC Santa Barbara"
+    },
+    {
+      "title": "Tule River Indian Tribe Water Settlement (presentation by the Tule River Tribe with the Native American Rights Fund and others, September 24, 2013)",
+      "url": "https://narf.org/nill/documents/NARF_water_settlements/Tule/20130924presentation.pdf",
+      "publisher": "Native American Rights Fund, National Indian Law Library"
+    },
+    {
+      "title": "S. 689 (119th Congress), Tule River Tribe Reserved Water Rights Settlement Act of 2025, reported in the Senate May 12, 2025",
+      "url": "https://www.govinfo.gov/content/pkg/BILLS-119s689rs/html/BILLS-119s689rs.htm",
+      "publisher": "US Government Publishing Office, govinfo"
+    }
+  ],
+  "openQuestions": [
+    "Royce numbers area 607 under the executive order of August 3, 1878: it is the land that order restored to the public domain, partly from the January 9, 1873 reserve and partly from the October 3, 1873 additions. treaties.json gives area 607 to the January 9, 1873, October 3, 1873 and August 3, 1878 entries, and cession-1873-10-03-king-s-river-owen-s-river-tule-river is a second entry for the October 3, 1873 order. Not edited.",
+    "Decision for Jordan: the 1878 reduction took back land set apart by executive order, not by treaty. Without a court or Commission finding it stays contested, resting on the Tribe's statement that the President lacked authority.",
+    "The acreages (48,000 and 91,837 acres in 1873, 55,396 today) come from the Tribe's 2013 presentation, not the orders; the 1878 order states no acreage.",
+    "The Indians of California claims (ICC Dockets 31 and 37) covered aboriginal California land generally and were not reviewed for this file.",
+    "The Tribe's own website was not found; its 2016 Senate testimony would not download.",
+    "treaties.json lists Big Sandy and North Fork Mono rancherias as present-day tribes; their link to this reservation was not checked."
+  ],
+  "plain": {
+    "promised": "Not a treaty. In January 1873 the President set apart a mountain reserve on the South Tule River, which the Tribe says replaced its valley farmland near Porterville.",
+    "happened": "The Tribe says its people were forcibly removed to the reserve in 1876 and that the 1878 order cutting it back was beyond the President's authority. No court or claims commission finding was found.",
+    "today": "Nothing paid or returned was found. A 2025 Senate bill would settle the Tribe's water rights and have it waive claims over the reservation's reduction; it had not become law."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

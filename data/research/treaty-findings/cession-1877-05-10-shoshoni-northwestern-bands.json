@@ -16,7 +16,13 @@
   "status": "no-breach-found",
   "breaches": [],
   "today": "The reservation was cancelled by executive order of January 16, 1879 and the lands restored to their original status (see the separate entry for that order). In 1977 the Indian Claims Commission found that the Nevada agent and the farmer for the Western Shoshone chose Carlin Farms for the Western Shoshone, that Western Shoshone were farming there, that officials' correspondence mentions no use by Northwestern Shoshone, and that the order's failure to mention the Western Shoshone was inadvertent.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Te-Moak Tribe of Western Shoshone",
+      "summary": "The Tribe says the 1863 Treaty of Ruby Valley granted it ownership of much of eastern Nevada, that settlers took the most fertile Newe lands, that the Bureau of Indian Affairs tried to push all Great Basin Shoshone onto the Duck Valley reservation, and that the tribe refused the $26 million later offered for its land and asked for the land back.",
+      "url": "https://temoaktribe.com/history.shtml"
+    }
+  ],
   "sources": [
     {
       "title": "Executive Order: Defining Carlin Farms Boundaries (May 10, 1877)",
@@ -37,6 +43,11 @@
       "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
       "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
       "publisher": "Internet Archive"
+    },
+    {
+      "title": "History & Culture",
+      "url": "https://temoaktribe.com/history.shtml",
+      "publisher": "Te-Moak Tribe of Western Shoshone"
     }
   ],
   "openQuestions": [

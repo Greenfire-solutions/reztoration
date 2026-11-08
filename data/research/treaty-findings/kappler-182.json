@@ -1,0 +1,65 @@
+{
+  "id": "kappler-182",
+  "name": "Treaty with the Chickasaw, 1818 (Treaty of Old Town; Jackson Purchase)",
+  "aka": [
+    "Jackson Purchase",
+    "Treaty of Tuscaloosa"
+  ],
+  "signed": "1818-10-19",
+  "proclaimed": "1819-01-07",
+  "citation": "7 Stat. 192",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chickasaw-1818-0174",
+  "nations": [
+    "Chickasaw Nation"
+  ],
+  "promises": [
+    "Article 2: the Chickasaw ceded all their land north of the 35th parallel between the Tennessee and Mississippi rivers, up to the Ohio, in western Tennessee and Kentucky.",
+    "Article 3: $20,000 a year for fifteen years, plus payment of two named debts within sixty days of ratification.",
+    "Article 4: a reserve four miles square around a salt lick on or near the Sandy River, to be leased by Levi Colbert and James Brown as trustees for the nation in return for salt.",
+    "Article 6: the south boundary of Tennessee to be marked with two Chickasaw attending, and fair and reasonable compensation paid for improvements made by individual Chickasaw on the ceded lands."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "No court, Indian Claims Commission or government finding of a breach was found. The Chickasaw Nation's Commission dockets (267 to 270) concern later matters. The Chickasaw ceded their remaining homeland in Mississippi and Alabama by the 1832 Treaty of Pontotoc Creek (kappler-364).",
+  "plain": {
+    "promised": "The Chickasaw gave up western Tennessee and Kentucky for $20,000 a year for fifteen years, a salt lick reserve leased for the nation, and pay for improvements on the ceded land.",
+    "happened": "No court or claims finding that these promises were broken has been located. The Chickasaw Nation says Jackson told them the land would be taken if they refused.",
+    "today": "No claim or finding about this treaty has been located. The Chickasaw Nation says the United States kept demanding more land for the next decade."
+  },
+  "nationVoice": [
+    {
+      "nation": "Chickasaw Nation",
+      "summary": "The Nation says some Chickasaw leaders opposed the cession of western Tennessee and Kentucky, that Andrew Jackson said the land would be taken if they refused, that on October 19, 1818 they accepted $20,000 a year for fifteen years and payment of certain debts, and that the United States kept demanding more land for the next decade.",
+      "url": "https://www.chickasaw.tv/events/treaty-of-old-town-jacksons-purchase"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Chickasaw, 1818 (Kappler, vol. 2, p. 174)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chickasaw-1818-0174",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Treaty of Old Town (Jackson's Purchase)",
+      "url": "https://www.chickasaw.tv/events/treaty-of-old-town-jacksons-purchase",
+      "publisher": "Chickasaw Nation (Chickasaw.tv)"
+    },
+    {
+      "title": "Chickasaw Nation v. United States, Docket 269, Opinion of the Commission (January 23, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/143",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), areas 100 and 81",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/694/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The Chickasaw Nation's account of Jackson's threat is the Nation's statement of how the treaty was obtained, not a statement that a promise in the treaty was broken, so it is recorded in nationVoice rather than as a breach.",
+    "Whether the Article 4 salt lick reserve was leased as promised, and whether the Article 6 improvement payments were made, was not researched.",
+    "treaties.json lists Royce area 81 for both this treaty and the 1816 treaty (kappler-143). Not edited."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

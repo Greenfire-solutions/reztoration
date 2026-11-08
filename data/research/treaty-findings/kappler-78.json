@@ -1,13 +1,17 @@
 {
   "id": "kappler-78",
   "name": "Treaty with the Delawares, 1804 (Treaty of Vincennes)",
-  "aka": ["Treaty of August 18, 1804 with the Delaware"],
+  "aka": [
+    "Treaty of August 18, 1804 with the Delaware"
+  ],
   "signed": "1804-08-18",
   "ratified": "1805-01-21",
   "proclaimed": "1805-02-14",
   "citation": "7 Stat. 81",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-delawares-1804-0070",
-  "nations": ["Lenape (Delaware), today the Delaware Nation and the Delaware Tribe of Indians"],
+  "nations": [
+    "Lenape (Delaware), today the Delaware Nation and the Delaware Tribe of Indians"
+  ],
   "promises": [
     "The Delaware gave up their right to the land between the Ohio and Wabash rivers, below the Fort Wayne cession and the Vincennes to Falls of the Ohio road (Article 1).",
     "The United States would pay an extra annuity of $300 for ten years, pay $300 a year for five years for teaching farming and domestic arts, deliver $400 in livestock and tools, and $800 in goods, which together were called full compensation (Article 2).",
@@ -20,7 +24,7 @@
       "kind": "claims-commission",
       "date": "1970-12-11",
       "what": "The Indian Claims Commission, having held in 1968 that the Delaware and the Piankeshaw each had recognized title to an equal undivided half of Royce Area 49 when they ceded it in 1804, awarded the Delaware $1,505,250, one-half of the land's fair market value, as additional compensation, before deducting the treaty payment and offsets.",
-      "whoFoundIt": "Indian Claims Commission, Peoria Tribe et al. and Absentee Delaware Tribe et al. v. United States, Docket 289, interlocutory order of December 11, 1970 (24 Ind. Cl. Comm. 179, 195), as recited in the Final Award of February 24, 1971; title order of March 27, 1968 (19 Ind. Cl. Comm. 107)",
+      "whoFoundIt": "Indian Claims Commission, Peoria Tribe et al. and Absentee Delaware Tribe et al. v. United States, Docket 289, interlocutory order of December 11, 1970 (24 Ind. Cl. Comm. 179, 195), as recited in the Final Award of February 24, 1971; title order of March 27, 1968 (19 Ind. Cl. Comm. 125; findings of fact at 19 Ind. Cl. Comm. 107)",
       "source": {
         "title": "Peoria Tribe et al. and Absentee Delaware Tribe et al. v. United States, Docket 289, Final Award (February 24, 1971)",
         "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1954",
@@ -32,20 +36,56 @@
   "landTaken": "Royce Area 49, the tract between the Ohio and Wabash rivers in southern Indiana, which the Commission held the Delaware and Piankeshaw owned in equal undivided halves; the Piankeshaw ceded their half by a separate treaty of August 27, 1804 (Docket 289, 1968).",
   "compensation": "The parties stipulated the Delaware treaty consideration to be credited at $5,700.00 and gratuitous offsets at $2,303.89. The final award of February 24, 1971 to the Absentee Delaware Tribe of Oklahoma and the Delaware Nation, on behalf of the Delaware Tribe, reads $1,497,246.11 in the scanned text (Docket 289). The award does not use the word unconscionable.",
   "today": "By the Grouseland treaty of August 21, 1805 (7 Stat. 91) the Delaware released the United States from the Article 4 promise to treat them as owners of the country between the White River and the Ohio, after the Miami disputed it. Whether and how the 1971 award was paid out has not been traced.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Delaware Tribe of Indians (Lenape)",
+      "summary": "The Tribe says that after signing the first treaty with the new United States in 1778 its ancestors had to keep giving up their lands and moving west, to Ohio, then Indiana, Missouri and Kansas and at last Indian Territory, and that its people understood many early land sales as something closer to leases.",
+      "url": "https://delawaretribe.org/about-us/"
+    }
+  ],
   "sources": [
-    { "title": "Treaty with the Delawares, 1804 (Kappler, vol. 2, p. 70)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-delawares-1804-0070", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
-    { "title": "Docket 289, Findings of Fact (March 27, 1968)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2627", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Docket 289, Opinion of the Commission (March 27, 1968)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1771", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Docket 289, Interlocutory Order (March 27, 1968)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/936", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Docket 289, Final Award (February 24, 1971)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1954", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Treaty with the Delawares, etc., 1805 (Grouseland)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-delawares-etc-1805-0080", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" }
+    {
+      "title": "Treaty with the Delawares, 1804 (Kappler, vol. 2, p. 70)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-delawares-1804-0070",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Docket 289, Findings of Fact (March 27, 1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2627",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Docket 289, Opinion of the Commission (March 27, 1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1771",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Docket 289, Interlocutory Order (March 27, 1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/936",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Docket 289, Final Award (February 24, 1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1954",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Treaty with the Delawares, etc., 1805 (Grouseland)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-delawares-etc-1805-0080",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "About Us",
+      "url": "https://delawaretribe.org/about-us/",
+      "publisher": "Delaware Tribe of Indians"
+    }
   ],
   "openQuestions": [
     "treaties.json names this entry for the 'Delaware, Miami, Piankishaw' and lists the Miami Tribe of Oklahoma and the Peoria Tribe among present-day tribes, but not the Delaware Tribe of Indians. The 1804 instrument was made with the Delaware alone; the Piankeshaw ceded their half of Area 49 by the treaty of August 27, 1804 (kappler-80). The Delaware Tribe of Indians is a successor the Tribal Treaties Database names. Not edited.",
     "The December 11, 1970 opinion, findings and interlocutory order in Docket 289 have no text in the OSU collection (pointers 1246, 2243, 1841); the $1,505,250 comes from the final award's recital.",
     "The Delaware line of the final award is partly garbled in the scan ('$1,497,246 -11'); it is read as the Delaware figure because it is printed after the Delaware line and matches $1,505,250 less the two stipulated Delaware deductions. Confirm against a clean copy of 24 Ind. Cl. Comm. 468.",
-    "No account of this treaty by the Delaware Nation or the Delaware Tribe of Indians was found in this pass."
+    "No account of this treaty by the Delaware Nation or the Delaware Tribe of Indians was found in this pass.",
+    "Audit 2026-11-08 (round 8): the final award (OSU id 1954) awards EACH plaintiff $1,505,250.00, one-half the value of Area 49, so the figure belongs to both this Delaware treaty and the Piankeshaw treaty of August 27, 1804 (kappler-80); neither file is wrong to carry it. The Delaware net of $1,497,246.11 equals $1,505,250 less the stipulated $5,700.00 consideration and $2,303.89 offsets, which confirms the garbled line is the Delaware one. Title-order page citation corrected from 107 (the findings) to 125 (the order)."
   ],
   "plain": {
     "promised": "Payments in money, livestock, tools and farming help for Delaware land between the Ohio and Wabash rivers, and recognition of the Delaware as owners of the country between the White River and the Ohio.",

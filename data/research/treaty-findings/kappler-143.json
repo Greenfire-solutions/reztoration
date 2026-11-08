@@ -1,0 +1,65 @@
+{
+  "id": "kappler-143",
+  "name": "Treaty with the Chickasaw, 1816 (Treaty of the Chickasaw Council House)",
+  "aka": [
+    "Chickasaw cession of 1816"
+  ],
+  "signed": "1816-09-20",
+  "proclaimed": "1816-12-30",
+  "citation": "7 Stat. 150",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chickasaw-1816-0135",
+  "nations": [
+    "Chickasaw Nation"
+  ],
+  "promises": [
+    "Article 2: the Chickasaw ceded all land north of the Tennessee River and relinquished territory south of it east of a line from Caney Creek to Gaines's road and Cotton Gin Port on the Tombigbee.",
+    "Article 3: $12,000 a year for ten years, and $4,500 within sixty days of ratification for improvements on the ceded lands.",
+    "Article 4: four tracts reserved to the Chickasaw Nation for George Colbert, Appassan Tubby, John McCleish and Levi Colbert, to revert to the United States if abandoned.",
+    "Article 5: the line south of the Tennessee to be marked by commissioners attended by two Chickasaw, with due notice to the Nation.",
+    "Article 7: at the Chickasaw request, no more licences for pedlars in the nation, and goods brought in contrary to it forfeited."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "No court, Indian Claims Commission or government finding of a breach was found. The Chickasaw Nation's Commission dockets (267 to 270) concern later matters such as the Leased District, Choctaw freedmen allotments and Civil War annuities. The 1818 treaty paid Appassan Tubby $500 for his Article 4 reserve and confirmed the Colbert and McCleish reserves to the individuals in fee (kappler-182).",
+  "plain": {
+    "promised": "The Chickasaw gave up land north of the Tennessee River for $12,000 a year for ten years and $4,500 for improvements, kept four small reserves, and won a ban on licensed pedlars.",
+    "happened": "No court or claims finding that these promises were broken has been located. The Chickasaw Nation says Jackson pressed the cession of close to six million acres.",
+    "today": "No claim or finding about this treaty has been located. The Chickasaw Nation tells this history on its own site."
+  },
+  "nationVoice": [
+    {
+      "nation": "Chickasaw Nation",
+      "summary": "The Nation says that on September 20, 1816 the Chickasaw ceded close to six million acres in what is now southwestern Tennessee and northern and western Alabama for a $12,000 annuity over ten years, after Andrew Jackson told them the hunt was over, even though they had fought beside him against the Creeks and held a 1794 charter from President Washington guaranteeing their land.",
+      "url": "https://chickasaw.tv/events/treaty-of-the-chickasaw-council-house"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Chickasaw, 1816 (Kappler, vol. 2, p. 135)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chickasaw-1816-0135",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Treaty of the Chickasaw Council House",
+      "url": "https://chickasaw.tv/events/treaty-of-the-chickasaw-council-house",
+      "publisher": "Chickasaw Nation (Chickasaw.tv)"
+    },
+    {
+      "title": "Chickasaw Nation v. United States, Docket 269, Opinion of the Commission (January 23, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/143",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), areas 80 and 81",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/682/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "Whether the Article 3 annuities and the Article 7 pedlar ban were carried out was not researched in agency records.",
+    "treaties.json lists Royce area 81 for both this treaty and the 1818 treaty (kappler-182); which treaty ceded which part was not checked against Royce. Not edited.",
+    "The Chickasaw Nation's acreage (close to six million acres) is its own figure and was not checked against Royce."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,12 +1,16 @@
 {
   "id": "kappler-141",
   "name": "Treaty with the Cherokee, 1816 (Treaty of the Chickasaw Council House)",
-  "aka": ["Cherokee treaty of September 14, 1816"],
+  "aka": [
+    "Cherokee treaty of September 14, 1816"
+  ],
   "signed": "1816-09-14",
   "proclaimed": "1816-12-30",
   "citation": "7 Stat. 148",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1816-0133",
-  "nations": ["Cherokee (Tsalagi), today the Cherokee Nation, the Eastern Band of Cherokee Indians and the United Keetoowah Band of Cherokee Indians"],
+  "nations": [
+    "Cherokee (Tsalagi), today the Cherokee Nation, the Eastern Band of Cherokee Indians and the United Keetoowah Band of Cherokee Indians"
+  ],
   "promises": [
     "Peace and friendship between the United States and the Cherokee (Article 1).",
     "The Cherokee acknowledged a western boundary south of the Tennessee River and ceded the land south and west of it (Articles 2 and 3).",
@@ -19,9 +23,24 @@
   "landTaken": "Royce Area 79 in present Alabama, the land south and west of the Article 2 line.",
   "compensation": "$6,000 a year for ten years and $5,000 for improvements (Article 3). Payment was not traced.",
   "today": "No Indian Claims Commission or court ruling specific to this cession was found.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Cherokee Nation",
+      "summary": "The Nation's history says successive treaties with the British Crown and then the United States cut down the Cherokee Nation's original territory, and that further cessions confirmed in an 1819 treaty left most of the remaining Cherokee land in Georgia.",
+      "url": "https://www.cherokee.gov/about-the-nation/history/"
+    }
+  ],
   "sources": [
-    { "title": "Treaty with the Cherokee, 1816 (Kappler, vol. 2, p. 133)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1816-0133", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" }
+    {
+      "title": "Treaty with the Cherokee, 1816 (Kappler, vol. 2, p. 133)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1816-0133",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "History",
+      "url": "https://www.cherokee.gov/about-the-nation/history/",
+      "publisher": "Cherokee Nation"
+    }
   ],
   "openQuestions": [
     "The Eastern Band of Cherokee Indians settled Dockets 282-A to 282-L in 1972 for $1,855,254.50, a compromise covering its share of Cherokee cessions under treaties of 1785 to 1835 (28 Ind. Cl. Comm. 386). Whether this treaty was among the twelve dockets could not be read from the scanned 1959 severance order; even if so it would be a settlement, not a finding.",

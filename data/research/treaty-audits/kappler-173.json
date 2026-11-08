@@ -1,0 +1,16 @@
+{
+  "id": "kappler-173",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "OSU Tribal Treaties Database text: 7 Stat. 181, proclaimed January 5, 1819; $300 a year for twelve years; $2,000 in merchandise; 640 acres including the village on the Blackwater river.",
+    "ICC order of April 4, 1973 (pointer 2114): Peoria claims to Royce Areas 48 and 96a on behalf of the Peoria Nation denied and dismissed. Correctly kept out of breaches."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "Royce 48 was ceded by the 1803 Kaskaskia treaty, not this one; presentDayTribes adds the Miami Tribe of Oklahoma."
+  ]
+}
