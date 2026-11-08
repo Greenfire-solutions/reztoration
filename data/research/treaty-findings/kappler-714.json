@@ -1,13 +1,19 @@
 {
   "id": "kappler-714",
   "name": "Treaty with the Choctaw and Chickasaw, 1855",
-  "aka": ["Treaty of Washington, 1855 (Choctaw and Chickasaw)", "Leased District Treaty"],
+  "aka": [
+    "Treaty of Washington, 1855 (Choctaw and Chickasaw)",
+    "Leased District Treaty"
+  ],
   "signed": "1855-06-22",
   "ratified": "1856-02-21",
   "proclaimed": "1856-03-04",
   "citation": "11 Stat. 611",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-choctaw-and-chickasaw-1855-0706",
-  "nations": ["Choctaw Nation of Oklahoma (Chahta)", "Chickasaw Nation (Chikashsha)"],
+  "nations": [
+    "Choctaw Nation of Oklahoma (Chahta)",
+    "Chickasaw Nation (Chikashsha)"
+  ],
   "promises": [
     "The United States 'forever' secured and guaranteed the Choctaw and Chickasaw country to the two nations in common, with no part to be sold without the consent of both (Article 1).",
     "The two nations kept the unrestricted right of self-government and full jurisdiction within their limits, and the United States would remove and keep out intruders (Article 7).",
@@ -22,33 +28,66 @@
       "date": "1886-11-15",
       "what": "Under Article 11 the Senate resolved in 1859 to allow the Choctaw the net proceeds of their 1830 lands, which the Interior Department put at $2,981,247.30. Of the $500,000 Congress provided in 1861, only $250,000 was paid in money and the $250,000 in bonds was never issued or delivered. The Supreme Court held the Senate award should be given effect and ordered judgment for the balance, plus unpaid annuities and land taken in fixing the Arkansas boundary.",
       "whoFoundIt": "Choctaw Nation v. United States, 119 U.S. 1 (1886)",
-      "source": { "title": "Choctaw Nation v. United States, 119 U.S. 1 (1886)", "url": "https://www.law.cornell.edu/supremecourt/text/119/1", "publisher": "Legal Information Institute, Cornell Law School" }
+      "source": {
+        "title": "Choctaw Nation v. United States, 119 U.S. 1 (1886)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/119/1",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      }
     },
     {
       "kind": "nation-statement",
       "date": "2021-05-01",
       "what": "The Choctaw Nation's own history series says the United States broke its treaty obligation to protect the Choctaw Nation by withdrawing federal troops from Indian Territory in 1861, leaving it surrounded by Confederate states, and that federal agents often failed to remove intruders as the treaty required.",
       "whoFoundIt": "Choctaw Nation of Oklahoma, Iti Fabvssa series, 'A New Chahta Homeland: A History by the Decade, 1860-1870'",
-      "source": { "title": "A New Chahta Homeland: A History by the Decade, 1860-1870 (Iti Fabvssa)", "url": "https://choctawnationculture.com/media/41652/2021.05_a_new_chahta_homeland_a_history_by_the_decade__1860-1870.pdf", "publisher": "Choctaw Nation of Oklahoma, Cultural Services" }
+      "source": {
+        "title": "A New Chahta Homeland: A History by the Decade, 1860-1870 (Iti Fabvssa)",
+        "url": "https://choctawnationculture.com/media/41652/2021.05_a_new_chahta_homeland_a_history_by_the_decade__1860-1870.pdf",
+        "publisher": "Choctaw Nation of Oklahoma, Cultural Services"
+      }
     }
   ],
   "compensation": "Under Article 10 the United States agreed to pay $600,000 to the Choctaw and $200,000 to the Chickasaw. The Senate's 1859 net proceeds award was paid only in part ($250,000 in 1861) until the Supreme Court in 1886 directed judgment for $2,981,247.30 less the $250,000 already paid, plus $59,449.32 in unpaid annuities and $68,102 for land taken in fixing the Arkansas boundary (Cornell LII text of 119 U.S. 1).",
   "today": "The Leased District created by Article 9 was ceded under the 1866 treaty (see kappler-926), where the Indian Claims Commission found the price unconscionable.",
   "nationVoice": [
-    { "nation": "Choctaw Nation of Oklahoma", "summary": "The Nation's history series says that after the Senate award the United States failed to pay the net proceeds in a timely manner, and that it broke its treaty obligation to protect the Nation when it withdrew its troops in 1861.", "url": "https://www.choctawnation.com/news/iti-fabvssa/a-new-chahta-homeland-a-history-by-the-decade-1850-1860/" }
+    {
+      "nation": "Choctaw Nation of Oklahoma",
+      "summary": "The Nation's history series says that after the Senate award the United States failed to pay the net proceeds in a timely manner, and that it broke its treaty obligation to protect the Nation when it withdrew its troops in 1861.",
+      "url": "https://www.choctawnation.com/news/iti-fabvssa/a-new-chahta-homeland-a-history-by-the-decade-1850-1860/"
+    }
   ],
   "sources": [
-    { "title": "Treaty with the Choctaw and Chickasaw, 1855 (Kappler)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-choctaw-and-chickasaw-1855-0706", "publisher": "Oklahoma State University Libraries" },
-    { "title": "Choctaw Nation v. United States, 119 U.S. 1 (1886)", "url": "https://www.law.cornell.edu/supremecourt/text/119/1", "publisher": "Legal Information Institute, Cornell Law School" },
-    { "title": "A New Chahta Homeland: A History by the Decade, 1850-1860 (Iti Fabvssa)", "url": "https://www.choctawnation.com/news/iti-fabvssa/a-new-chahta-homeland-a-history-by-the-decade-1850-1860/", "publisher": "Choctaw Nation of Oklahoma" },
-    { "title": "A New Chahta Homeland: A History by the Decade, 1860-1870 (Iti Fabvssa)", "url": "https://choctawnationculture.com/media/41652/2021.05_a_new_chahta_homeland_a_history_by_the_decade__1860-1870.pdf", "publisher": "Choctaw Nation of Oklahoma, Cultural Services" },
-    { "title": "Leased District, Encyclopedia of Oklahoma History and Culture (Jon D. May)", "url": "https://www.okhistory.org/publications/enc/entry?entry=LE002", "publisher": "Oklahoma Historical Society" }
+    {
+      "title": "Treaty with the Choctaw and Chickasaw, 1855 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-choctaw-and-chickasaw-1855-0706",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Choctaw Nation v. United States, 119 U.S. 1 (1886)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/119/1",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "A New Chahta Homeland: A History by the Decade, 1850-1860 (Iti Fabvssa)",
+      "url": "https://www.choctawnation.com/news/iti-fabvssa/a-new-chahta-homeland-a-history-by-the-decade-1850-1860/",
+      "publisher": "Choctaw Nation of Oklahoma"
+    },
+    {
+      "title": "A New Chahta Homeland: A History by the Decade, 1860-1870 (Iti Fabvssa)",
+      "url": "https://choctawnationculture.com/media/41652/2021.05_a_new_chahta_homeland_a_history_by_the_decade__1860-1870.pdf",
+      "publisher": "Choctaw Nation of Oklahoma, Cultural Services"
+    },
+    {
+      "title": "Leased District, Encyclopedia of Oklahoma History and Culture (Jon D. May)",
+      "url": "https://www.okhistory.org/publications/enc/entry?entry=LE002",
+      "publisher": "Oklahoma Historical Society"
+    }
   ],
   "openQuestions": [
     "Whether the 1886 judgment was paid in full, and when, was not confirmed.",
     "Chief Justice Waite dissented in 119 U.S. 1; the majority opinion's exact wording on nonpayment was read through a summary of the Cornell text, not quoted.",
     "Royce lists three cessions under this entry; whether the Curtis Act of 1898 and the Five Tribes Act of 1906 broke Article 7 for the Choctaw and Chickasaw, who ratified the Atoka Agreement, needs a careful separate reading.",
-    "The Chickasaw Nation's own account of this treaty was not found."
+    "The Chickasaw Nation's own account of this treaty was not found.",
+    "Audit 2026-11-08: the Cornell text of 119 U.S. 1 (decided November 15, 1886) was opened in full: the Court of Claims had rejected the Senate award; the Supreme Court reversed and directed judgment for $2,981,247.30 less $250,000, $59,449.32 annuities and $68,102 for the Arkansas boundary land; the $250,000 in bonds under the act of March 2, 1861 were never issued or delivered; Chief Justice Waite dissented. The Choctaw Nation PDF's statements on troops and intruders were confirmed. Everything held."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

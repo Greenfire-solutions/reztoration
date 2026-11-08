@@ -1,0 +1,21 @@
+{
+  "id": "cession-1874-03-19-paiute",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce schedule, cession 560: Agent Dodge recommended the reserve on November 25, 1859, the Secretary directed it, and Eugene Monroe surveyed it in December 1864.",
+    "ICC Docket 87-A opinion of February 16, 1972 (OSU id 1728): the claims relate to the unlawful taking of reservation lands, trespasses and conversion; United States v. Walker River Irr. Dist., 104 F.2d 334 (9th Cir. 1939) held the reservation set aside by departmental action on November 29, 1859, as the Government had pleaded.",
+    "ICC order of the same day (OSU id 1441): both reservations established November 29, 1859.",
+    "Docket 87 additional findings (OSU id 230): lands taken without compensation on December 31, 1862; final judgment (OSU id 1860): $16,000,000.00 less $210,000.00 offsets, net $15,790,000.00.",
+    "Status contested is right: the only breach is pending litigation."
+  ],
+  "changes": [
+    "Removed the Winters reserved-water promise, which no cited source supports.",
+    "Removed the unsourced statement that Docket 87-A was transferred to the Court of Claims in 1978.",
+    "Moved the unsourced 1902 Act and 1906 proclamation from 'today' to openQuestions as a lead."
+  ],
+  "unverifiable": [
+    "The citation '1 Kappler 869' was not opened.",
+    "United States v. Walker River Irr. Dist. itself was not opened; it is cited through the 1972 ICC opinion."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "kappler-895",
+  "auditedAt": "2026-11-08",
+  "verdict": "downgraded",
+  "checked": [
+    "Name, October 14, 1865, 14 Stat. 703, ratified May 22, 1866, proclaimed February 2, 1867 against the OSU Kappler text.",
+    "Promises against Articles 2 ('absolute and undisturbed use and occupation', exact), 3, 4, 6 and 7 ($20 and $40 per capita for forty years).",
+    "NPS 'Legacies of Sand Creek': Article 6 'effectively assumes responsibility'; quote 'Reparations to many other descendants have never been paid.' exact.",
+    "ICC Dockets 329-A and 329-B, 16 Ind. Cl. Comm. 162 (pointer 2123): $15,000,000 compromise; 51,210,000 acres worth $23,500,000 as of October 14, 1865.",
+    "ICC Docket 329 findings, 10 Ind. Cl. Comm. 1 (pointer 242): the Senate amendment required a substitute reservation; the 1867 treaty was supplementary."
+  ],
+  "changes": [
+    "NPS breach kind changed from government-admission to historian (an NPS page is a historian source).",
+    "Status changed from broken to contested: no court, Commission, statute or formal admission finding remains."
+  ],
+  "unverifiable": [
+    "Flute v. United States (10th Cir. 2015): FindLaw is behind a Cloudflare challenge and no other copy loaded; the quote, the $39,050 appropriation and the sovereign immunity holding were not re-checked.",
+    "Steve Brady testimony PDF not re-opened."
+  ]
+}

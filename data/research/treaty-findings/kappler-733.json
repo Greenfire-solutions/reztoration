@@ -33,17 +33,6 @@
       "quote": "used, through mismanagement and fraud, to take most Ottawa/Odawa land"
     },
     {
-      "kind": "government-admission",
-      "date": "1994-09-21",
-      "what": "Congress found that the Little Traverse Bay Bands and the Little River Band, descendants of the 1836 and 1855 signatories, had been denied the chance to reorganize in the 1930s and that the Bureau of Indian Affairs failed to act on their 1975 petition, and it reaffirmed their federal recognition.",
-      "whoFoundIt": "Public Law 103-324, section 2 (findings), 108 Stat. 2156",
-      "source": {
-        "title": "Public Law 103-324, 108 Stat. 2156 (September 21, 1994)",
-        "url": "https://www.govinfo.gov/content/pkg/STATUTE-108/pdf/STATUTE-108-Pg2156.pdf",
-        "publisher": "US Government Publishing Office, govinfo"
-      }
-    },
-    {
       "kind": "nation-statement",
       "date": "2022-03-08",
       "what": "The Little Traverse Bay Bands say the 1855 treaty set aside a reservation for their ancestors, which their constitution still uses to define the reservation.",
@@ -55,7 +44,7 @@
       }
     }
   ],
-  "today": "In 2015 the Little Traverse Bay Bands sued Michigan for a ruling that the treaty created a reservation that still exists. The district court ruled against the tribe in 2019, the Sixth Circuit affirmed in 2021, and the Supreme Court declined review on February 28, 2022 (tribal chairperson's statement). Separately, the 1994 House report notes that a federal court held in United States v. Michigan, 471 F. Supp. 192 (W.D. Mich. 1979), that the 1855 treaty did not end the Odawa bands' tribal status.",
+  "today": "In 2015 the Little Traverse Bay Bands sued Michigan for a ruling that the treaty created a reservation that still exists. The district court ruled against the tribe in 2019, the Sixth Circuit affirmed in 2021, and the Supreme Court declined review on February 28, 2022 (tribal chairperson's statement). Separately, the 1994 House report notes that a federal court held in United States v. Michigan, 471 F. Supp. 192 (W.D. Mich. 1979), that the 1855 treaty did not end the Odawa bands' tribal status. In 1994 Congress reaffirmed the federal recognition of the Little Traverse Bay Bands and the Little River Band, finding that they descend from the 1836 and 1855 signatories, were denied the chance to reorganize in the 1930s, and that the Bureau of Indian Affairs failed to act on their 1975 petition (Public Law 103-324, section 2, 108 Stat. 2156).",
   "nationVoice": [
     {
       "nation": "Little Traverse Bay Bands of Odawa Indians",
@@ -89,7 +78,8 @@
     "The 1905 to 1907 Court of Claims case (Petoskey, Kewakendo et al. v. United States) and its award of about $131,000 described in H. Rept. 103-621 was not opened; which treaty obligations it covered (1836, 1855 or both) is disputed in the secondary sources.",
     "No Indian Claims Commission finding specific to the 1855 treaty's land provisions was found; the Commission's Michigan Ottawa and Chippewa awards opened concern the 1836 treaty (Docket 18-E and 58).",
     "The 2019 district court, 2021 Sixth Circuit and 2022 certiorari denial were read only as reported by the tribe; the opinions were not opened.",
-    "treaties.json attaches 21 Royce cessions (375 to 395) to this id; whether they are the 1855 withdrawn tracts was not checked one by one."
+    "treaties.json attaches 21 Royce cessions (375 to 395) to this id; whether they are the 1855 withdrawn tracts was not checked one by one.",
+    "Audit 2026-11-08: the Public Law 103-324 entry moved from breaches to today. Its findings concern denied reorganization and an unanswered 1975 petition, not a promise of this treaty, so it does not document a breach of the 1855 treaty. The House report (H. Rept. 103-621) entry on the allotment provision stands."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

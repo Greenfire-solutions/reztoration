@@ -9,7 +9,7 @@
   "proclaimed": "1865-01-17",
   "citation": "13 Stat. 663",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-shoshoni-northwestern-bands-1863-0850",
-  "area": "Northern Utah and southern Idaho, the country of the Northwestern Shoshone between the Bear River, the Raft River and the Portneuf Mountains; it ceded no land, so Royce has no cession for it.",
+  "area": "Northern Utah and southern Idaho, the country of the Northwestern Shoshone; Article 4 bounds Pokatello's country by the Raft River on the west and the Portneuf Mountains on the east. It ceded no land, so Royce has no cession for it.",
   "presentDayTribes": [
     "Northwestern Band of the Shoshone Nation",
     "Shoshone-Bannock Tribes of the Fort Hall Reservation"
@@ -19,8 +19,8 @@
   ],
   "promises": [
     "Article 1: friendly relations re-established and a firm and perpetual peace.",
-    "Article 2: the bands assented to the Fort Bridger treaty of July 2, 1863 with the Shoshone, including its safe-passage and road provisions.",
-    "Article 3: the United States would increase the Shoshone annuity by $5,000, paid as under the Fort Bridger treaty, plus $2,000 in goods given at signing.",
+    "Article 2: the bands gave their full assent to the Fort Bridger treaty of July 2, 1863 with the Shoshone Nation and adopted its provisions as part of this agreement.",
+    "Article 3: the United States would increase the Shoshone Nation's annuity by $5,000, paid as under the Fort Bridger treaty; the bands acknowledged receiving $2,000 in provisions and goods at signing.",
     "Article 5: nothing in the treaty admitted any greater Indian title to the land than existed under Mexican law."
   ],
   "status": "no-breach-found",
@@ -55,7 +55,8 @@
     "In Northwestern Bands of Shoshone Indians v. United States, 324 U.S. 335 (1945), the Supreme Court held that the treaty did not recognise Indian title to the lands, so the bands' land claim did not arise under it; Justice Jackson's concurrence nonetheless spoke of a moral obligation to the Shoshone. That ruling is evidence against a breach of this treaty's land terms, not for one.",
     "Whether the $5,000 annuity increase was paid was not researched.",
     "The bands' later Indian Claims Commission claim for aboriginal lands (with the Shoshone-Bannock, Docket 326 series) was not traced.",
-    "The Bear River Massacre preceded this treaty and is not counted as a breach of it."
+    "The Bear River Massacre preceded this treaty and is not counted as a breach of it.",
+    "Audit 2026-11-08: area no longer names the Bear River as a boundary (Article 4 names only the Raft River and the Portneuf Mountains, for Pokatello's country); Article 2 no longer attributes the Fort Bridger treaty's road and passage terms to this text, which only adopts that treaty; Article 3 wording matched to the text (the $2,000 was acknowledged as received)."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

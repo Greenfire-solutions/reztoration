@@ -1,0 +1,46 @@
+{
+  "id": "cession-1875-06-23-sioux",
+  "name": "Agreement of June 23, 1875 by the Sioux relinquishing hunting privileges in Nebraska",
+  "aka": [
+    "Nebraska hunting rights agreement, 1875"
+  ],
+  "signed": "1875-06-23",
+  "textUrl": "https://oms.library.okstate.edu/s/oklahoma-built/item/22688",
+  "nations": [
+    "Lakota, Dakota and Nakota (Oceti Sakowin) of the Great Sioux Reservation",
+    "Oglala Sioux Tribe (listed by OSU as successor in interest)"
+  ],
+  "promises": [
+    "The Sioux gave up the hunting privilege guaranteed by Article 11 of the 1868 treaty and their right to the part of the Article 16 unceded country lying in Nebraska (Royce schedule).",
+    "In return the United States was to pay the consideration Congress had appropriated for the purpose; the amount was not confirmed in a source opened (see openQuestions)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce Area 584, which Royce notes overlaps the Pawnee cession of September 24, 1857.",
+  "today": "No court, Claims Commission or government finding about this agreement was located. The Commission's 1970 opinion in Docket 74 on Articles 11 and 16 of the 1868 treaty treats the hunting rights as part of the 1868 valuation and does not mention the 1875 agreement. The 1868 treaty and the 1877 Act are recorded under kappler-1006 and cession-1876-09-26-arapaho-northern-cheyenne-sioux.",
+  "sources": [
+    {
+      "title": "Agreement by the Sioux to relinquish hunting privileges in Nebraska, 1875",
+      "url": "https://oms.library.okstate.edu/s/oklahoma-built/item/22688",
+      "publisher": "Oklahoma State University Library"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
+      "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+      "publisher": "Internet Archive"
+    },
+    {
+      "title": "Sioux Tribe v. United States, Docket 74, Opinion on Scope and Meaning of Articles 11 and 16 of the 1868 Treaty (1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1459",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "Oklahoma State University tags the agreement 'Not Ratified' and gives no Statutes at Large citation; Royce lists it as an agreement. Its ratification status is unsettled.",
+    "A 19th-century Commissioner of Indian Affairs report, seen only as a search snippet, says the Sioux surrendered the privilege for $25,000 appropriated by Congress; that report was not opened, so the sum is not recorded as fact.",
+    "Whether the agreement had the consent of three-fourths of adult Sioux men, which Article 12 of the 1868 treaty required for any cession, was not found."
+  ],
+  "nationVoice": [],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

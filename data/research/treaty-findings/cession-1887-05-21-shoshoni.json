@@ -1,0 +1,45 @@
+{
+  "id": "cession-1887-05-21-shoshoni",
+  "name": "Executive order of May 1887 (Fort Washakie military reservation set apart within the Wind River Reservation)",
+  "aka": [
+    "Wind River military reservation for Fort Washakie"
+  ],
+  "signed": "1887-05-21",
+  "textUrl": "https://presidency.ucsb.edu/documents/executive-order-approving-secretary-war-request-wind-river-reserve",
+  "nations": [
+    "Eastern Shoshone Tribe of the Wind River Reservation (Newe)",
+    "Northern Arapaho Tribe (Hinono'eino), who share the reservation"
+  ],
+  "promises": [
+    "The order set apart 1,405 acres, more or less, around Fort Washakie, inside the Wind River or Shoshone reservation created by the treaties of July 3, 1868 and June 22, 1874, as a military reservation.",
+    "Use of the land was made subject to such right, title and interest as the Indians had in it, and the Army was to vacate it whenever the interest of the Indians required, on notice to the Secretary of War."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "An executive order of January 31, 1906 redrew the military reservation after a new survey, moving a corner to exclude land the Indian school buildings stood on, and repeated that the Indians' rights were preserved and the land would be vacated when their interest required.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Executive Order: Approving Secretary of War Request on Wind River Reserve (May 1887)",
+      "url": "https://presidency.ucsb.edu/documents/executive-order-approving-secretary-war-request-wind-river-reserve",
+      "publisher": "The American Presidency Project, UC Santa Barbara"
+    },
+    {
+      "title": "Executive Order: Modification of Executive Order of May 21, 1887 (January 31, 1906)",
+      "url": "https://www.presidency.ucsb.edu/documents/executive-order-modification-executive-order-may-21-1887",
+      "publisher": "The American Presidency Project, UC Santa Barbara"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
+      "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+      "publisher": "Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "Dates: Royce and the 1906 order date the order May 21, 1887; the American Presidency Project transcription shows the Secretary of War's letter dated May 18 and the President's approval dated May 24, 1887.",
+    "The order records the Interior Department's lack of objection but no consent of the Shoshone or Arapaho, and no compensation. When and how the land went back to the tribes after the post closed was not traced.",
+    "Royce cession 540 is listed in treaties.json for this entry and for the 1872 Brunot cession; the map may be drawing the same polygon for both."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

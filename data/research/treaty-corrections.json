@@ -1,0 +1,100 @@
+{
+  "_about": "Hand corrections applied by scripts/harvest/treaties.mjs after it builds each entry from the USFS Royce cession layer. Keyed by treaty id; each holds only the fields it overrides, plus why and source. An entry with splitFrom is a new record for a treaty the USFS layer had folded into another one (they shared a Kappler page link). Keys starting with _ are ignored.",
+  "kappler-634": {
+    "cessions": ["321", "322", "403"],
+    "scheduleTribes": ["Menomini"],
+    "presentDayTribes": ["Menominee Indian Tribe of Wisconsin"],
+    "why": "Royce lists the treaty of May 12, 1854 (Falls of Wolf River) with the Menomini only: they cede area 321 (Minnesota) and are given the Wolf River reserve, area 322. Area 246 is only cross-referenced because part of the reserve fell inside the 500,000 acre tract the Menomini sold to the New York Indians in 1831, which those nations ceded on Jan. 15, 1838. The New York Indians were not party to this treaty, so area 246 and their nations are removed. Area 403 (two townships of the reserve later ceded for the Stockbridge and Munsee) is kept.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/792/mode/2up"
+  },
+  "kappler-859": {
+    "presentDayTribes": ["Te-Moak Tribe of Western Shoshone Indians of Nevada"],
+    "why": "Royce lists the treaty of Oct. 1, 1863 (Ruby Valley) with the Western bands of Shoshoni, area 444. The Northwestern bands made their own treaty at Box Elder on July 30, 1863, which Royce lists separately with no map area. The Northwestern Band of the Shoshone Nation is therefore removed from this treaty.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/828/mode/2up"
+  },
+  "kappler-291": {
+    "royce": ["https://archive.org/stream/annualreportofbu218smit#page/718/mode/2up"],
+    "cessions": ["135", "136", "137", "138", "139", "140", "189"],
+    "scheduleTribes": ["Potawatomi"],
+    "presentDayTribes": ["Citizen Potawatomi Nation, Oklahoma", "Forest County Potawatomi Community, Wisconsin", "Hannahville Indian Community, Michigan", "Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan", "Nottawaseppi Huron Band of the Potawatomi, Michigan", "Pokagon Band of Potawatomi Indians, Michigan and Indiana", "Prairie Band Potawatomi Nation, Kansas"],
+    "states": ["MI"],
+    "why": "Royce lists the treaty of St. Joseph, Sept. 19, 1827 with the Potawatomi only: they cede reserves 135 to 140 in Michigan and receive the 99 section reserve, area 189 (ceded Sept. 27, 1833). The USFS layer gave the same Kappler page link to four other treaties (Creek Nov. 15, 1827; Cherokee west of the Mississippi May 6, 1828; Potawatomi Sept. 20, 1828; Winnebago Aug. 1, 1829), so their areas 141, 143, 144, 145, 146 and 149 were folded in here. They are split out into their own records below.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/718/mode/2up"
+  },
+  "cession-1827-11-15-creek": {
+    "splitFrom": "kappler-291",
+    "date": "1827-11-15",
+    "royce": ["https://archive.org/stream/annualreportofbu218smit#page/720/mode/2up"],
+    "cessions": ["141"],
+    "scheduleTribes": ["Creek"],
+    "presentDayTribes": [],
+    "states": ["GA"],
+    "note": "Kappler page not yet confirmed; the USFS link pointed at the St. Joseph treaty of 1827.",
+    "why": "Royce: Creek agency, Nov. 15, 1827 (Stat. L. VII, 307). The Creek nation cede all remaining land within the chartered limits of Georgia, area 141.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/720/mode/2up"
+  },
+  "cession-1828-05-06-cherokee-nation-west-of-mississippi-river": {
+    "splitFrom": "kappler-291",
+    "date": "1828-05-06",
+    "royce": ["https://archive.org/stream/annualreportofbu218smit#page/720/mode/2up"],
+    "cessions": ["143", "144"],
+    "scheduleTribes": ["Cherokee nation west of Mississippi river"],
+    "presentDayTribes": ["Cherokee Nation, Oklahoma", "United Keetoowah Band of Cherokee Indians in Oklahoma"],
+    "states": ["AR", "OK"],
+    "note": "Kappler page not yet confirmed; the USFS link pointed at the St. Joseph treaty of 1827. The USFS layer dates this 1827-05-06; Royce dates it May 6, 1828.",
+    "why": "Royce: Washington, May 6, 1828 (Stat. L. VII, 311), Cherokee nation west of the Mississippi. They give up their Arkansas lands (area 143) and are guaranteed 7,000,000 acres and an outlet west (area 144).",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/720/mode/2up"
+  },
+  "cession-1828-09-20-potawatomi": {
+    "splitFrom": "kappler-291",
+    "date": "1828-09-20",
+    "royce": ["https://archive.org/stream/annualreportofbu218smit#page/722/mode/2up"],
+    "cessions": ["145", "146"],
+    "scheduleTribes": ["Potawatomi"],
+    "presentDayTribes": ["Citizen Potawatomi Nation, Oklahoma", "Forest County Potawatomi Community, Wisconsin", "Hannahville Indian Community, Michigan", "Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan", "Nottawaseppi Huron Band of the Potawatomi, Michigan", "Pokagon Band of Potawatomi Indians, Michigan and Indiana", "Prairie Band Potawatomi Nation, Kansas"],
+    "states": ["MI", "IN"],
+    "note": "Kappler page not yet confirmed; the USFS link pointed at the St. Joseph treaty of 1827.",
+    "why": "Royce: missionary establishment on the St. Joseph, Sept. 20, 1828 (Stat. L. VII, 317). The Potawatomi cede two tracts, areas 145 (Michigan) and 146 (Indiana).",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/722/mode/2up"
+  },
+  "cession-1829-08-01-winnebago": {
+    "splitFrom": "kappler-291",
+    "date": "1829-08-01",
+    "royce": ["https://archive.org/stream/annualreportofbu218smit#page/724/mode/2up"],
+    "cessions": ["149"],
+    "scheduleTribes": ["Winnebago"],
+    "presentDayTribes": ["Ho-Chunk Nation of Wisconsin", "Winnebago Tribe of Nebraska"],
+    "states": ["IL", "WI"],
+    "note": "Kappler page not yet confirmed; the USFS link pointed at the St. Joseph treaty of 1827.",
+    "why": "Royce: Prairie du Chien, Aug. 1, 1829 (Stat. L. VII, 323), Winnebago. Area 149, Illinois and Wisconsin.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/724/mode/2up"
+  },
+  "kappler-375": {
+    "cessions": ["180", "200", "209", "210", "218"],
+    "scheduleTribes": ["Potawatomi", "Potawatomi (bands of Po-pin-a-waw, No-taw-kah and Mac-kah-tah-mo-ah)", "Potawatomi (Mau-ke-kose or Muck Rose's band)", "Potawatomi (bands of Nas-waw-kee and Quash-quaw)", "Potawatomi (Aub-ba-naub-ba's bad, by Pau-koo-shuck, his oldest son)"],
+    "presentDayTribes": ["Citizen Potawatomi Nation, Oklahoma", "Forest County Potawatomi Community, Wisconsin", "Hannahville Indian Community, Michigan", "Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan", "Nottawaseppi Huron Band of the Potawatomi, Michigan", "Pokagon Band of Potawatomi Indians, Michigan and Indiana", "Prairie Band Potawatomi Nation, Kansas"],
+    "states": ["IN"],
+    "why": "Royce lists the treaty of Oct. 26, 1832 (Tippecanoe river, Stat. L. VII, 394) with the Potawatomi: they cede area 180 in Indiana and keep band reserves, four of which are mapped (209 Aub-be-naub-bee, 218 Menominee and others, 200 Mau-ke-kose, 210 Nees-waugh-gee and Quash-qua, each ceded later). Those four stay. Areas 325, 436 and 437 belong to the Kickapoo supplementary article of Nov. 26, 1832 (Stat. L. VII, 393), which the USFS layer gave this treaty's Kappler link; they move to the Kickapoo treaty kappler-373.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/740/mode/2up"
+  },
+  "kappler-373": {
+    "royce": ["https://archive.org/stream/annualreportofbu218smit#page/698/mode/2up", "https://archive.org/stream/annualreportofbu218smit#page/740/mode/2up"],
+    "cessions": ["179", "325", "436", "437"],
+    "states": ["MO", "KS"],
+    "why": "Royce, under the Kickapoo treaty of Castor Hill, Oct. 24, 1832: 'These boundaries were altered as described by a supplemental article to this treaty dated Nov. 26, 1832.' That supplementary article's Kansas reserve is areas 325, 436 and 437, moved here from kappler-375.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/740/mode/2up"
+  },
+  "cession-1807-03-03-chippewa-delaware-ottawa-potawatomi-sene": {
+    "name": "Act of Congress setting apart 13 sections for the Delaware, 1807-03-03",
+    "scheduleTribes": ["Delaware"],
+    "presentDayTribes": ["Delaware Nation, Oklahoma"],
+    "note": "Not a treaty or a cession. Areas 90 and 91 are where the 13 sections lay; they were ceded by the treaty of Sept. 29, 1817 (kappler-153).",
+    "why": "Royce lists Mar. 3, 1807 as an Act of Congress (Stat. L. II, 448) with the Delaware only: 'The U.S. reserve and set apart 13 sections, including the Lower Delaware town in Ohio, for the use of the Delawares', with 'These sections were ceded to the U.S. by treaty of Sept. 29, 1817. See 90, 91.' The other six nations came from the 1817 cession row.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/674/mode/2up"
+  },
+  "cession-1880-07-13-arikara-gros-ventre-mandan": {
+    "presentDayTribes": ["Three Affiliated Tribes of the Fort Berthold Reservation, North Dakota"],
+    "why": "Royce lists the Executive order of July 13, 1880 as restoring part of the Fort Berthold reservation (area 620) and adding to it (the present reserve, area 621) for the Arikara, Gros Ventre and Mandan of Fort Berthold. The Gros Ventre here are the Hidatsa of Fort Berthold, not the Gros Ventre of Fort Belknap in Montana, whose 1880 order is a separate record (cession-1880-07-13-blackfoot-blood-gros-ventre-piegan-river). Fort Belknap is removed.",
+    "source": "https://archive.org/stream/annualreportofbu218smit#page/900/mode/2up"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "cession-1872-09-26-shoshoni",
+  "name": "Agreement with the Shoshone of September 26, 1872 (Brunot Agreement)",
+  "aka": [
+    "Brunot Cession",
+    "Lander Purchase"
+  ],
+  "signed": "1872-09-26",
+  "ratified": "1874-12-15",
+  "citation": "18 Stat. 291",
+  "textUrl": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/22",
+  "nations": [
+    "Eastern Shoshone Tribe of the Wind River Reservation (Newe)"
+  ],
+  "promises": [
+    "The Shoshone ceded the part of the Wind River reservation set apart by the treaty of July 3, 1868 that lay south of a line along the Little Popo Agie and the North Fork of the Popo Agie (Article I, as quoted by the Commission).",
+    "The United States would spend $5,000 a year for five years for the use and benefit of the Shoshone.",
+    "The United States would pay Washakie, chief of the Shoshone, a salary of $500 a year for five years."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1954-08-20",
+      "what": "The Commission found the 700,642 acres ceded by this agreement (the Brunot lands) were worth 80 cents an acre, $560,513.60, on September 26, 1872, and that the $27,500 paid was an unconscionable consideration, less than four cents an acre, and ordered an award of the value less the sum paid.",
+      "whoFoundIt": "Indian Claims Commission, Shoshone Tribe of the Wind River Reservation v. United States, Docket 63, Findings of Fact and Opinion, 3 Ind. Cl. Comm. 313",
+      "source": {
+        "title": "Shoshone Tribe of the Wind River Reservation v. United States, Docket 63, Opinion of the Commission (August 20, 1954)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/434",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "purchase price of less than four cents per acre for lands worth twenty times that amount was shockingly low"
+    }
+  ],
+  "landTaken": "700,642 acres of the 1868 reservation (Commission finding 3, Docket 63).",
+  "compensation": "Under the agreement the United States spent $25,000 for the Shoshone and paid Washakie $2,500 (Commission finding 3). The Commission ordered an award of $560,513.60 less $27,500. Final judgment and payment were not traced.",
+  "today": "The Commission found the agreement was approved by an Act of Congress of December 15, 1874 (18 Stat. 291). Royce adds that the reserve had been within the country assigned to the Crow in 1851 and ceded by them in 1868, and cites acts of June 22 and December 15, 1874 confirming the agreement.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Shoshone Tribe of the Wind River Reservation v. United States, Docket 63, Findings of Fact (August 20, 1954)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/22",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Shoshone Tribe of the Wind River Reservation v. United States, Docket 63, Opinion of the Commission (August 20, 1954)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/434",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
+      "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+      "publisher": "Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The text of the agreement itself was read only as quoted in the Commission's findings; textUrl points to those findings.",
+    "The OCR of the Commission's quote is imperfect; the quote above was checked against the scanned text but should be confirmed against the page image.",
+    "The amount and date of the final judgment in Docket 63 were not found in the collection (the 1958 decision is about attorneys' fees).",
+    "No Eastern Shoshone Tribe page about the Brunot cession was found."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

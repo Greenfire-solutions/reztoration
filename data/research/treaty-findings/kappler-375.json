@@ -42,6 +42,18 @@
         "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2599",
         "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
       }
+    },
+    {
+      "kind": "nation-statement",
+      "what": "The chiefs of the 22-section reserve kept for them in Article 2 protested that the treaty of August 5, 1836 sold that reserve without their knowledge or consent, that none of their bands except two unauthorised men signed it, and that names appearing on any paper were put there falsely.",
+      "date": "1836-11-15",
+      "whoFoundIt": "Menominee, Muck-kah-tah-mo-way, Pee-pin-oh-waw and the son of No-taw-kah, chiefs named in the 1832 treaty, letter of protest to Secretary of War Lewis Cass, November 15, 1836",
+      "source": {
+        "title": "Menominee's letters of protest, 1836-1837 (transcribed from National Archives microfilm M234, roll 355; Wayback capture of January 4, 2024)",
+        "url": "http://web.archive.org/web/20240104180622/http://www.kansasheritage.org/PBP/history/menomine.html",
+        "publisher": "Potawatomi Web (kansasheritage.org/PBP)"
+      },
+      "quote": "this is a false Treaty"
     }
   ],
   "compensation": "The Commission's 1978 award of $4,497,815.59 to the Potawatomi covers the 1826, 1828 and both October 1832 cessions together; the share for this treaty alone is not stated in the order opened, and gratuitous offsets were still to be decided.",
@@ -61,6 +73,11 @@
       "title": "Citizen Band of Potawatomi Indians of Oklahoma et al. v. United States, Dockets 128 et al., Order Setting Awards (September 8, 1978)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2599",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Menominee's letters of protest, 1836-1837 (transcribed from National Archives microfilm M234, roll 355; Wayback capture of January 4, 2024)",
+      "url": "http://web.archive.org/web/20240104180622/http://www.kansasheritage.org/PBP/history/menomine.html",
+      "publisher": "Potawatomi Web (kansasheritage.org/PBP)"
     }
   ],
   "openQuestions": [
@@ -70,5 +87,12 @@
     "Whether the reserved band lands of Article 2 were later ceded without the bands' consent (Menominee's refusal of the 1836 Yellow River treaty) was not traced to a finding. No nation statement was found in this pass."
   ],
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "nationVoice": [
+    {
+      "nation": "Potawatomi of the Yellow River reserve (Chief Menominee and the chiefs named in this treaty)",
+      "summary": "In letters of protest to the Secretary of War (November 15, 1836) and President Jackson (April 6, 1837), Menominee and the other chiefs recognised by the Treaty of Tippecanoe say the August 1836 treaty selling their 22-section reserve was a false treaty made without their knowledge or consent, signed only by two men with no authority, and ask that it be rejected so they may stay on their land.",
+      "url": "http://web.archive.org/web/20240104180622/http://www.kansasheritage.org/PBP/history/menomine.html"
+    }
+  ]
 }

@@ -1,0 +1,78 @@
+{
+  "id": "kappler-642",
+  "name": "Treaty with the Kickapoo, 1854",
+  "aka": [
+    "Kickapoo treaty of May 18, 1854"
+  ],
+  "signed": "1854-05-18",
+  "ratified": "1854-07-11",
+  "proclaimed": "1854-07-17",
+  "citation": "10 Stat. 1078",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-kickapoo-1854-0634",
+  "nations": [
+    "Kickapoo (Kiikaapoa): Kickapoo Tribe in Kansas, Kickapoo Tribe of Oklahoma, Kickapoo Traditional Tribe of Texas"
+  ],
+  "promises": [
+    "Article 1: out of the Kansas lands the 1832 Castor Hill treaty had made their permanent home, the Kickapoo kept 150,000 acres in the western part as a future and permanent home.",
+    "Article 2: $300,000 for the cession, $100,000 of it invested at five percent for education and other benefits and $200,000 paid in instalments from 1854 to 1877.",
+    "Article 4: fair compensation for Kickapoo improvements on the ceded land.",
+    "Article 8: $20,000 for releasing the United States from claims under former treaties and for removing at their own cost."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1962-05-04",
+      "what": "The Commission held that the 618,000 acres the Kickapoo ceded by this treaty were worth $1,236,000 on July 17, 1854, that the $300,000 they received was an unconscionable consideration, and awarded $936,000 less offsets. It found no wilful deceit by the negotiators, but noted the Kickapoo had relied on the good faith of the government.",
+      "whoFoundIt": "Indian Claims Commission, Kickapoo Tribe of Kansas et al. v. United States, Docket 316, Interlocutory Order, 10 Ind. Cl. Comm. 320",
+      "source": {
+        "title": "Kickapoo Tribe of Kansas et al. v. United States, Docket 316, Interlocutory Order (May 4, 1962)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/315",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "618,000 acres (Commission conclusion, Docket 316).",
+  "compensation": "Final award of September 29, 1967: $1,236,000 less the $300,000 paid and $164,558.74 in gratuitous offsets, a net $771,441.26 (Docket 316, Final Award). Payment and distribution were not traced.",
+  "today": "The 150,000-acre home kept in 1854 was itself reduced by the treaty of June 28, 1862, which ceded 123,832 acres that were sold to the Atchison and Pike's Peak Railroad; the Commission awarded $125,209.61 on that claim in 1970 (Docket 316-A). That later cession is a separate treaty.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Kickapoo, 1854 (Kappler, vol. 2, p. 634)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-kickapoo-1854-0634",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Kickapoo Tribe of Kansas et al. v. United States, Docket 316, Interlocutory Order (May 4, 1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/315",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Kickapoo Tribe of Kansas et al. v. United States, Docket 316, Opinion of the Commission (May 4, 1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/543",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Kickapoo Tribe of Kansas et al. v. United States, Docket 316, Final Award (September 29, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2754",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Kickapoo Tribe of Kansas et al. v. United States, Docket 316-A, Opinion of the Commission (June 10, 1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1312",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Kickapoo Tribe of Kansas et al. v. United States, Docket 316-A, Final Award (September 1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2230",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The scanned 1962 opinion reads \"a balance of $336,000\"; the interlocutory order of the same day gives $936,000, which matches $1,236,000 less $300,000, and is used here.",
+    "treaties.json lists Iowa and Sauk and Fox schedule tribes for this entry; the treaty of May 18, 1854 at Kappler p. 634 is with the Kickapoo alone. Royce cession numbers were not checked against the polygon.",
+    "No Kickapoo history page about this treaty was found in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

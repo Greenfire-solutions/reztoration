@@ -24,7 +24,7 @@
     {
       "kind": "claims-commission",
       "date": "1962-09-14",
-      "what": "Miners entered the San Juan region of the reservation, and by the Brunot Agreement signed September 13, 1873 there were 1,441 mining claims recorded in the area. The Indian Claims Commission found the area ceded under that agreement worth $8,500,000 on April 29, 1874, and the $507,662.84 paid so grossly inadequate as to be unconscionable, awarding $7,992,337.16 before offsets.",
+      "what": "Miners entered the San Juan region of the reservation, and by the time the Brunot Agreement was signed on September 13, 1873 there were 1,441 mining claims recorded in the area. On the Utes' claim that the consideration was unconscionable, the Indian Claims Commission found the ceded area (Royce Area 566) worth $8,500,000 on April 29, 1874, credited the $507,662.84 paid, and awarded the net $7,992,337.16, subject to offsets.",
       "whoFoundIt": "Indian Claims Commission, Confederated Bands of Ute Indians v. United States, Docket 327, opinion of September 14, 1962 (11 Ind. Cl. Comm. 180)",
       "source": {
         "title": "Confederated Bands of Ute Indians v. United States, Docket No. 327, Opinion of the Commission, September 14, 1962",
@@ -33,9 +33,9 @@
       }
     },
     {
-      "kind": "claims-commission",
+      "kind": "litigation",
       "date": "1965-02-18",
-      "what": "Final judgment of $7,908,586.16 for the Confederated Bands of Ute Indians on the Brunot cession, after a stipulated settlement of offsets.",
+      "what": "Final judgment of $7,908,586.16 for the Confederated Bands of Ute Indians on the Brunot cession, entered on a stipulation in which the offsets were settled by compromise.",
       "whoFoundIt": "Indian Claims Commission, Docket 327, Final Judgment, February 18, 1965",
       "source": {
         "title": "Confederated Bands of the Ute Indians v. United States, Docket No. 327, Final Judgment, February 18, 1965",
@@ -46,7 +46,7 @@
     {
       "kind": "act-of-congress",
       "date": "1880-06-15",
-      "what": "After the 1879 killings at the White River agency, Congress passed the Act of June 15, 1880. The Supreme Court described it as Congress taking steps to punish the Indians, to dispossess the Utes of their reservation and to remove them from Colorado. Within two years the White River and Uncompahgre Utes had been moved to Utah.",
+      "what": "After the 1879 killings at the White River agency, Congress passed the Act of June 15, 1880. The Supreme Court described it as Congress taking steps to punish the Indians, to dispossess the Utes of their reservation and to remove them from Colorado. The White River and Uncompahgre Utes departed for Utah before 1882, leaving only the Southern Utes in Colorado (402 U.S. 159).",
       "whoFoundIt": "Act of June 15, 1880, 21 Stat. 199, as described in Confederated Bands of Ute Indians v. United States, 330 U.S. 169 (1947) and United States v. Southern Ute Tribe, 402 U.S. 159 (1971)",
       "source": {
         "title": "Confederated Bands of Ute Indians v. United States, 330 U.S. 169 (1947)",
@@ -117,7 +117,8 @@
   "openQuestions": [
     "Whether the Brunot Agreement was signed by three-fourths of the adult men as Article 16 required was not checked.",
     "The 1880 agreement was put to the Ute bands for consent; whether three-fourths signed, and the Ute account of how signatures were gathered, were not researched. It is recorded here as an Act of Congress because the Supreme Court describes its purpose as dispossession and removal, not as a finding that consent was lacking.",
-    "The websites of the Southern Ute Indian Tribe, Ute Mountain Ute Tribe and Ute Indian Tribe blocked or lacked a treaty history page in this pass; no nation account is recorded."
+    "The Southern Ute Indian Tribe's history page is recorded (nation-statement and nationVoice); the Ute Mountain Ute Tribe and the Ute Indian Tribe of the Uintah and Ouray Reservation accounts were not found in this pass. (Audit 2026-11-08: this question previously said no nation account was recorded, which no longer matched the file.)",
+    "Audit 2026-11-08: the 1965 final judgment changed from claims-commission to litigation, because it was entered on a stipulation compromising the offsets (Docket 327, Final Judgment, February 18, 1965). The 1962 breach no longer says \"so grossly inadequate as to be unconscionable\": in the scan those words are the petitioner's contention, and the Commission's own conclusion is not legible beyond the award. \"Within two years ... moved to Utah\" replaced by the Supreme Court's \"departed for Utah before 1882\"."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

@@ -1,17 +1,22 @@
 {
   "id": "kappler-506",
   "name": "Treaty with the Winnebago, 1837",
-  "aka": ["1837 Ho-Chunk treaty", "Treaty of Washington (1837, Winnebago)"],
+  "aka": [
+    "1837 Ho-Chunk treaty",
+    "Treaty of Washington (1837, Winnebago)"
+  ],
   "signed": "1837-11-01",
   "proclaimed": "1838-06-15",
   "citation": "7 Stat. 544",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-winnebago-1837.-(0498)",
-  "nations": ["Ho-Chunk (Winnebago)"],
+  "nations": [
+    "Ho-Chunk (Winnebago)"
+  ],
   "promises": [
-    "In return for all Ho-Chunk land east of the Mississippi, $1,100,000 invested at no less than 5 percent, with about $55,000 a year in interest for provisions, goods, money, schooling, a miller, farming supplies and medical care (Articles 1 and 4).",
-    "Lump sums including $200,000 for named individuals and the nation's debts, $100,000 for relatives of Ho-Chunk descent, $7,000 for removal, $57,000 in goods and horses, $10,000 in provisions and $10,000 for breaking and fencing land (Article 4).",
+    "In return for all Ho-Chunk land east of the Mississippi, $1,100,000 invested at an interest of not less than 5 percent; of the $55,000 interest, set sums for education, a school interpreter, a miller, farming implements and medical care for 22 years, and the residue of $50,000 a year in provisions, goods and money (Articles 1 and 4).",
+    "Lump sums including $200,000 for named individuals and the nation's debts, $100,000 for relations and friends of at least one quarter Winnebago blood, up to $7,000 for removal, $3,000 in goods and horses at St. Louis and $47,000 in goods after ratification, $10,000 in provisions and $10,000 in horses, $3,000 for a grist mill and $10,000 for breaking and fencing land (Article 4).",
     "The Ho-Chunk could hunt on the western part of the Neutral Ground until they had a permanent settlement (Article 3).",
-    "The tract between the Mississippi and the Neutral Ground line was given up for occupation but not for hunting, without invalidating Ho-Chunk title to it (Article 2)."
+    "The Ho-Chunk gave up the right to occupy, except for hunting, a tract west of the Mississippi between the river and a line twenty miles from it, without invalidating their title to that tract (Article 2)."
   ],
   "status": "contested",
   "breaches": [
@@ -20,36 +25,73 @@
       "date": "1837-11-01",
       "what": "The Sauk County Historical Society records that the tribe sent a delegation chosen because it lacked power to sign any treaty, that the delegates signed under pressure while protesting that lack of authority, and that they were misled into believing they had eight years to move when the treaty (Article 3) gave eight months.",
       "whoFoundIt": "Sauk County Historical Society",
-      "source": { "title": "Yellow Thunder Memorial", "url": "https://www.saukcountyhistory.org/yellow-thunder/", "publisher": "Sauk County Historical Society" },
+      "source": {
+        "title": "Yellow Thunder Memorial",
+        "url": "https://www.saukcountyhistory.org/yellow-thunder/",
+        "publisher": "Sauk County Historical Society"
+      },
       "quote": "deliberately misled into thinking"
     },
     {
       "kind": "litigation",
       "date": "1970-09-03",
-      "what": "The Ho-Chunk sued before the Indian Claims Commission for the land ceded by this treaty (Royce Area 245). The Commission held they ceded title to it under this treaty, valued the awarded portion at $1,500,000 as of 15 June 1838, and the case ended in a $4,600,000 compromise covering this and other treaties, without a finding on the price paid.",
+      "what": "The Ho-Chunk sued before the Indian Claims Commission for the land ceded by this treaty (Royce Area 245). The Commission held they had recognized title to it except the Menominee Overlap and ceded it under this treaty, valued the awarded portion at $1,500,000 as of 15 June 1838, and the case ended in a stipulated $4,600,000 compromise covering this and other treaties.",
       "whoFoundIt": "Indian Claims Commission, Winnebago Tribe and Nation v. United States, Dockets 243, 244 and 245 (final judgment on compromise, 3 September 1970)",
-      "source": { "title": "Winnebago Tribe and Nation v. United States, Dockets 243-245, Final Judgment (September 3, 1970)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2308", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+      "source": {
+        "title": "Winnebago Tribe and Nation v. United States, Dockets 243-245, Final Judgment (September 3, 1970)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2308",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
     }
   ],
   "landTaken": "The awarded portion of Royce Area 245 was stipulated before the Indian Claims Commission as 2,981,303 land acres and valued at $1,500,000 as of 15 June 1838 (16 Ind. Cl. Comm. 81). The Commission held the evidence did not support a Ho-Chunk title to the part called the Menominee Overlap (Docket 243 et al., interlocutory order of 10 August 1959, 8 Ind. Cl. Comm. 111).",
-  "compensation": "Final judgment of $4,600,000 on 3 September 1970 compromising all claims in Dockets 243, 244 and 245, covering this and other Ho-Chunk cessions (23 Ind. Cl. Comm. 464).",
-  "today": "Many Ho-Chunk refused to leave or returned to Wisconsin after removals that began with troops in 1840 (Sauk County Historical Society); their descendants are the Ho-Chunk Nation of Wisconsin, and those removed west are the Winnebago Tribe of Nebraska.",
+  "compensation": "Final judgment of $4,600,000 on a stipulated compromise in September 1970, settling all claims in Dockets 243, 244 and 245, covering this and other Ho-Chunk cessions (ICC Final Judgment, 23 Ind. Cl. Comm.).",
+  "today": "Many Ho-Chunk resisted removal: the Sauk County Historical Society records that Yellow Thunder, a leader of the faction that refused to move, was held at Fort Winnebago in May 1840 until he brought his band in for removal, and was rounded up again in 1843 and 1848. The Ho-Chunk Nation of Wisconsin and the Winnebago Tribe of Nebraska are the successors.",
   "nationVoice": [
-    { "nation": "Ho-Chunk Nation", "summary": "Ho-Chunk Nation Tribal Historic Preservation Officer Bill Quackenbush traces in a 2026 PBS Wisconsin and ICT interview how treaties and land cessions in the 1800s forced the Ho-Chunk from their homes in the Madison area.", "url": "https://pbswisconsin.org/news-item/bill-quackenbush-on-how-land-cessions-forced-ho-chunk-removal-from-their-ancestral-grounds/" }
+    {
+      "nation": "Ho-Chunk Nation",
+      "summary": "Ho-Chunk Nation Tribal Historic Preservation Officer Bill Quackenbush traces in a 2026 PBS Wisconsin and ICT interview how treaties and land cessions in the 1800s forced the Ho-Chunk from their homes in the Madison area.",
+      "url": "https://pbswisconsin.org/news-item/bill-quackenbush-on-how-land-cessions-forced-ho-chunk-removal-from-their-ancestral-grounds/"
+    }
   ],
   "sources": [
-    { "title": "Treaty with the Winnebago, 1837 (Kappler)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-winnebago-1837.-(0498)", "publisher": "Oklahoma State University Libraries" },
-    { "title": "Treaty with the Winnebago, 1837, catalog record (7 Stat. 544)", "url": "https://oms.library.okstate.edu/s/oklahoma-built/item/4926", "publisher": "Oklahoma State University Libraries" },
-    { "title": "Yellow Thunder Memorial", "url": "https://www.saukcountyhistory.org/yellow-thunder/", "publisher": "Sauk County Historical Society" },
-    { "title": "Winnebago Tribe v. United States, Interlocutory Order (August 10, 1959)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/591", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Winnebago Tribe v. United States, Additional Findings of Fact (October 13, 1965)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1096", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Winnebago Tribe v. United States, Final Judgment (September 3, 1970)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2308", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+    {
+      "title": "Treaty with the Winnebago, 1837 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-winnebago-1837.-(0498)",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Treaty with the Winnebago, 1837, catalog record (7 Stat. 544)",
+      "url": "https://oms.library.okstate.edu/s/oklahoma-built/item/4926",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Yellow Thunder Memorial",
+      "url": "https://www.saukcountyhistory.org/yellow-thunder/",
+      "publisher": "Sauk County Historical Society"
+    },
+    {
+      "title": "Winnebago Tribe v. United States, Interlocutory Order (August 10, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/591",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Winnebago Tribe v. United States, Additional Findings of Fact (October 13, 1965)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1096",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Winnebago Tribe v. United States, Final Judgment (September 3, 1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2308",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
   ],
   "openQuestions": [
     "No court ruling or government admission on the delegation's authority or the eight months was found. Wikipedia cites a thesis (Tetzloff, 2009, p. 22) for an interpreter's later admission that he was directed to deceive the delegates; find the primary record, which could be a government admission if it was official testimony.",
     "Stephen Kantrowitz, Citizens of a Stolen Land (2023), pp. 32-33, reports Governor Henry Dodge's response to the eight-months complaint; not opened here.",
     "The ICC 1959 order reads the treaty's Royce number as 216 in the OCR text; the 1965 findings give 245, matching the queue entry.",
-    "The Ho-Chunk Nation's own written account of this treaty was not found online."
+    "The Ho-Chunk Nation's own written account of this treaty was not found online.",
+    "Audit 2026-11-08: promises corrected against Article 4 (the '$57,000 in goods and horses' was a computed figure that matched no clause; the treaty lists $3,000, $47,000 and $10,000 separately), Article 2 reworded to match the text, the unsourced 'without a finding on the price paid' removed, the 23 Ind. Cl. Comm. page left out because the scan prints a garbled page and the catalog gives p. 482, and 'today' rewritten to what the Sauk County page actually says (it does not mention troops)."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

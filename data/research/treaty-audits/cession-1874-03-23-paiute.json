@@ -1,0 +1,23 @@
+{
+  "id": "cession-1874-03-23-paiute",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Docket 87 additional findings of June 4, 1959 (OSU id 230), Finding 30: the Nevada Paviotso lands were taken without payment of compensation on December 31, 1862, when the Pyramid Lake and Walker River reservations had come into operation; the quote is exact.",
+    "Docket 87 final judgment of November 4, 1965 (OSU id 1860): $15,750,000.00 (Nevada, December 31, 1862) plus $250,000.00 (California, March 3, 1853), $16,000,000.00 less $210,000.00 offsets, net $15,790,000.00. All figures quoted, not computed.",
+    "Docket 87-A orders of February 16, 1972 (OSU ids 1728, 1441): reservation established November 29, 1859.",
+    "Docket 87-A order of April 25, 1973 (OSU id 1680): implicit reservation of Truckee River water for the lake, the spawning reaches and other needs, and an obligation to preserve the waters and fisheries; case sent to trial on whether the obligation was breached. Promise 3 matches.",
+    "1973 opinion (OSU id 1909): quotes the United States' complaint that the lake dropped more than 70 feet since 1906, destroying fisheries.",
+    "Docket 87-A opinion of August 1, 1972 (OSU id 2496): liability for resources removed from the Nevada Paviotso tract after July 4, 1848 and before December 31, 1862.",
+    "Docket 87-B findings on compromise of July 23, 1975 (OSU id 2655): $8,000,000 compromise; kind litigation is right.",
+    "Royce, cession 562: quote 'Remainder of Pai Ute country taken possession of by U. S. without formal relinquishment by the Indians.' is exact; cessions 561 and 562 match treaties.json."
+  ],
+  "changes": [
+    "Removed the unsourced 1978 transfer of Docket 87-A from 'today'.",
+    "Reworded the 87-B settlement sentence to match the stipulation."
+  ],
+  "unverifiable": [
+    "The citation '1 Kappler 869' was not opened.",
+    "Pyramid Lake Paiute Tribe v. Morton (1972) and Nevada v. United States (1983) were not opened (already in openQuestions)."
+  ]
+}

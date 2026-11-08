@@ -1,0 +1,23 @@
+{
+  "id": "cession-1851-11-04-e-eh-i-da-kar-i-waka-ha-i-ka-ruck-ko-se-",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty letter, place, date and signing tribes against the President's 1852 schedule and the message list printed in Heizer (1972).",
+    "Treaty R text in Heizer (1972); each new promise checked against it.",
+    "Senate refusal date (July 8, 1852 per Heizer) and removal of the injunction of secrecy on January 18, 1905 (Heizer, Senate record p. 9); see the open question on July 2 versus July 8.",
+    "Act of May 18, 1928, ch. 624, 45 Stat. 602, opened on govinfo: the quote is exact, and section 3 sets land at $1.25 an acre with prior payments pleadable as set-off.",
+    "National Archives Prologue article (2013) opened: its caption says the rejection left most Native Americans there impoverished and without land, which supports 'today'.",
+    "Royce areas in landTaken match treaties.json."
+  ],
+  "changes": [
+    "Promises rewritten from treaty R's own articles; the generic California promises ('Article 3 or 4', beef and flour during 1851 and 1852, staff for at least five years) were not supported for this treaty.",
+    "Relinquishment open question tied to this treaty's own article, or marked unchecked.",
+    "Open question added on the Senate rejection date (July 8 per Heizer, July 2 per the 1904 Senate search quoted in Prologue).",
+    "Name corrected from 'Treaty at A camp' to 'Treaty at camp'; open question added on Heizer's misprinted heading date."
+  ],
+  "unverifiable": [
+    "The amount finally paid under the 1928 Act and the ICC Indians of California settlement was not opened.",
+    "The Senate Executive Journal entry for the 1852 rejection was not opened."
+  ]
+}

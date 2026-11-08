@@ -1,0 +1,12 @@
+{
+  "id": "kappler-107",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Treaty text (Oklahoma State University): Brownstown, November 25, 1808, 7 Stat. 112, ratified March 1, 1809, proclaimed March 3, 1809; the 120-foot road from the Maumee rapids to the Connecticut Reserve with a mile each side, the road-only strip from Lower Sandusky to the Greenville line, hunting and fishing while the land stays federal, and renewed protection all match; the grant is made in consideration of friendship.",
+    "ICC Dockets 13-F et al., 1973 (OSU id 929, 30 Ind. Cl. Comm. 337): recognized title in Royce Area 87 as of January 4, 1819 excludes the areas ceded at the 1808 Brownstown treaty. today matches.",
+    "Royce area 70 matches treaties.json; no-breach-found is consistent."
+  ],
+  "changes": [],
+  "unverifiable": []
+}

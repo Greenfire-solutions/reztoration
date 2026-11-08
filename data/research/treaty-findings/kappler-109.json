@@ -27,7 +27,7 @@
     {
       "kind": "claims-commission",
       "date": "1969-11-26",
-      "what": "The Indian Claims Commission found that the Miami and Eel River were paid $18,728, under a cent an acre, for their interests in Royce Areas 71 and 72 ceded by this treaty (about 2.09 million acres in Indiana). It valued their part of Area 71 at $1,933,300 and Area 72 (the Twelve-mile Strip) at $850,000 on 16 January 1810, held both considerations unconscionable, and awarded $1,919,535.20 and $845,125.",
+      "what": "The Indian Claims Commission found that the United States paid the Miami and Eel River $18,728 in all for their interests in Royce Areas 71 and 72 ceded by this treaty: $13,764.80 for their part of Area 71 and $4,875 for Area 72 (the Twelve-mile Strip). It valued their part of Area 71 at $1,933,300 and Area 72 at $850,000 on 16 January 1810, held both considerations unconscionable, and awarded $1,919,535.20 and $845,125.",
       "whoFoundIt": "Indian Claims Commission, Miami Tribe of Oklahoma et al. v. United States, Dockets 253 and 131, Additional Findings and Conclusions of 26 November 1969 (22 Ind. Cl. Comm. 92)",
       "source": {
         "title": "Miami Tribe of Oklahoma v. United States, Dockets 253, 131 and 314-D, Additional Findings of Fact on Value and Conclusions (1969)",
@@ -82,7 +82,8 @@
   "openQuestions": [
     "Whether Delaware or Potawatomi claims for this cession were heard by the Commission was not traced.",
     "A Miami Tribe of Oklahoma statement on this treaty was not found; the Myaamia Center's Aacimotaatiiyankwi blog may have one.",
-    "Royce Area 73 (Article 9, the cession for the Kickapoo) is recorded under kappler-111 and kappler-112."
+    "Royce Area 73 (Article 9, the cession for the Kickapoo) is recorded under kappler-111 and kappler-112.",
+    "Audit 2026-11-08: removed 'under a cent an acre' and 'about 2.09 million acres' from the first breach, which were the researcher's own arithmetic; replaced with the per-area payments the Commission states ($13,764.80 and $4,875) per 22 Ind. Cl. Comm. 92, pp. 177-178."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

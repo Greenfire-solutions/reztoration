@@ -1,0 +1,14 @@
+{
+  "id": "cession-1864-04-28-paiute",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce schedule (Internet Archive text): the President ordered a mill and timber reserve on the Truckee river for the Pyramid Lake reservation Indians, containing 20,531.38 acres by its boundaries (Royce's remark also says 20,000 acres).",
+    "Royce remark: the Secretary notified the General Land Office on July 13, 1864; the reserve lay in Washo territory; it was surveyed but never used, Agent Douglass reported in 1870 that no such reservation existed, and it was tacitly abandoned without formal relinquishment. 'today' matches.",
+    "Royce area 460 matches treaties.json; no-breach-found is consistent with the evidence cited."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "The executive order itself was read through Royce, not opened separately."
+  ]
+}

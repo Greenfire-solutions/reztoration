@@ -1,0 +1,40 @@
+{
+  "id": "cession-1879-08-09-sioux",
+  "name": "Executive order of August 9, 1879 restoring to the public domain the 1875 and 1876 additions to the Great Sioux Reservation",
+  "aka": [
+    "Restoration of Sioux lands east of the Missouri, 1879"
+  ],
+  "signed": "1879-08-09",
+  "textUrl": "https://www.law.cornell.edu/supremecourt/text/316/317",
+  "nations": [
+    "Lakota, Dakota and Nakota (Oceti Sakowin) of the Great Sioux Reservation"
+  ],
+  "promises": [
+    "This order made no promise to the Sioux. It returned to the public domain part of the lands set apart by the orders of January 11 and March 16, 1875 and all of the lands set apart by the orders of May 20, 1875 and November 28, 1876 (Royce schedule).",
+    "Three small tracts opposite the Cheyenne, Grand River and Standing Rock agencies were kept back (316 U.S. 317)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Most of Royce Area 614 (Royce schedule). The Supreme Court described the claim for the 1879 and 1884 restorations together as some 5 1/2 million acres (316 U.S. 317).",
+  "compensation": "None. The Supreme Court held in 1942 that none was owed (316 U.S. 317).",
+  "today": "In Sioux Tribe of Indians v. United States, 316 U.S. 317 (decided 1942-05-11), the Sioux sued for some 5 1/2 million acres taken by the restoring orders of 1879 and 1884. The Supreme Court affirmed the Court of Claims in denying recovery, holding that these executive order additions gave the Sioux no compensable interest. That ruling went against the nation and is recorded here, not as a breach. The Commissioner of Indian Affairs had reported on June 6, 1879 that the orders had largely stopped the whiskey trade and that changing the boundaries would harm the Indians; three weeks later he recommended the restoration, citing the liquor penalty in the Act of February 27, 1877 (316 U.S. 317).",
+  "sources": [
+    {
+      "title": "Sioux Tribe of Indians v. United States, 316 U.S. 317 (1942)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/316/317",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
+      "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+      "publisher": "Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The order's text was read through Royce's schedule and the Supreme Court's account of it; the UGA scan linked in treaties.json returned 403.",
+    "No tribal statement about the 1875 and 1876 additions east of the Missouri was found."
+  ],
+  "nationVoice": [],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

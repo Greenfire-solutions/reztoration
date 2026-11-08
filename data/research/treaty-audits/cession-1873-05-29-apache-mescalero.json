@@ -1,0 +1,16 @@
+{
+  "id": "cession-1873-05-29-apache-mescalero",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "ICC Docket 22-B interlocutory order of July 7, 1966 (OSU id 1062): on May 29, 1873, the date of the executive order, the United States acquired the Indian title to the Mescalero aboriginal lands in Finding No. 37 without payment of compensation; value to be fixed as of that date, confirmed Spanish and Mexican grants excluded. The quote is exact.",
+    "Final judgment of April 27, 1967 (OSU id 1524): $8,500,000.00 under a stipulation of settlement found fair and just; Count I of Docket 22-G dismissed with prejudice. Recorded correctly as litigation.",
+    "Findings of fact (OSU id 1403): the claim area lies east of the Rio Grande, bounded south and east by the New Mexico lines, with reference to the 35th parallel; landTaken matches.",
+    "Status broken rests on the 1966 contested finding, a claims-commission breach, not on the settlement."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "The 1873 executive order text itself was not opened (already in openQuestions).",
+    "The Mescalero Apache Tribe page in nationVoice was not re-checked; nationVoice is left to the nation-voice agent."
+  ]
+}

@@ -56,18 +56,29 @@
     {
       "kind": "litigation",
       "date": "1975-07-23",
-      "what": "After the Commission ruled in 1973 that the reservation carried reserved Truckee River water and that the United States had a duty to preserve the lake and fishery, the tribe's claim for damages from not receiving all its water was settled by compromise for $8,000,000. The settlement stipulation says no water rights were lost by it.",
+      "what": "After the Commission ruled in 1973 that the reservation carried reserved Truckee River water and that the United States had a duty to preserve the lake and fishery, the tribe's claim for damages from not receiving all its water was settled by compromise for $8,000,000. In the stipulation the parties stated their opinion that no water rights reserved to the tribe had been taken, lost or diminished since the reservation was created.",
       "whoFoundIt": "Indian Claims Commission, Pyramid Lake Paiute Tribe v. United States, Docket 87-B, findings on compromise settlement",
       "source": {
         "title": "Pyramid Lake Paiute Tribe v. United States, Docket 87-B, Findings of Fact on Compromise Settlement (July 23, 1975), 36 Ind. Cl. Comm. 256",
         "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2655",
         "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
       }
+    },
+    {
+      "kind": "nation-statement",
+      "what": "The Tribe states that after Derby Dam and the Truckee Canal were completed in 1905 under the federal Newlands Reclamation Project, Truckee River water was diverted without regulation for 60 years, so that Pyramid Lake fell more than 80 feet, Winnemucca Lake dried up, and a delta formed that stopped the lake's fish from spawning in the river.",
+      "date": "1905",
+      "whoFoundIt": "Pyramid Lake Paiute Tribe, policy statement of Tribal Chairman Mervin Wright to the California State Water Resources Control Board, July 21, 2010",
+      "source": {
+        "title": "Policy Statement of Mervin Wright, Tribal Chairman of the Pyramid Lake Paiute Tribe, Truckee River Hearing (July 21, 2010)",
+        "url": "https://www.waterboards.ca.gov/waterrights/water_issues/programs/hearings/truckee_river/docs/plpt_policy.pdf",
+        "publisher": "Pyramid Lake Paiute Tribe, filed with the California State Water Resources Control Board"
+      }
     }
   ],
   "landTaken": "The Paviotso tract outside the reservations, taken without compensation on December 31, 1862 for the Nevada portion and March 3, 1853 for the California portion (Docket 87). The acreage was not read from an opened source.",
   "compensation": "Docket 87: net $15,790,000.00 for the Paviotso tract (final judgment, November 4, 1965). Docket 87-B: $8,000,000 compromise for water not received (July 23, 1975). The Commission also held the United States liable in 1972 for minerals and timber removed from the Nevada Paviotso tract between 1848 and December 31, 1862 (Docket 87-A); the amount was not found.",
-  "today": "In its 1972 complaint in United States v. Nevada, quoted by the Commission in 1973, the United States said diversions from the Truckee River had dropped Pyramid Lake more than 70 feet since 1906, destroying fisheries. Docket 87-A was transferred to the Court of Claims in 1978; its outcome was not found.",
+  "today": "In its 1972 complaint in United States v. Nevada, quoted by the Commission in 1973, the United States said diversions from the Truckee River had dropped Pyramid Lake more than 70 feet since 1906, destroying fisheries. The outcome of the remaining Docket 87-A claims was not found.",
   "sources": [
     {
       "title": "Royce, Schedule of Indian Land Cessions, 1874 entries",
@@ -113,13 +124,26 @@
       "title": "Pyramid Lake Paiute Tribe v. United States, Docket 87-B, Findings of Fact on Compromise Settlement (July 23, 1975), 36 Ind. Cl. Comm. 256",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2655",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Policy Statement of Mervin Wright, Tribal Chairman of the Pyramid Lake Paiute Tribe, Truckee River Hearing (July 21, 2010)",
+      "url": "https://www.waterboards.ca.gov/waterrights/water_issues/programs/hearings/truckee_river/docs/plpt_policy.pdf",
+      "publisher": "Pyramid Lake Paiute Tribe, filed with the California State Water Resources Control Board"
     }
   ],
   "openQuestions": [
     "Pyramid Lake Paiute Tribe of Indians v. Morton, 354 F. Supp. 252 (D.D.C. 1972), which held the Secretary of the Interior's Truckee River regulation violated his trust duty to the tribe, could not be opened (Justia and CourtListener blocked the request); it would be a court-ruling breach once read.",
     "The tribe's own history of the reservation was not located online; nationVoice is empty for that reason.",
-    "Nevada v. United States, 463 U.S. 110 (1983), which went against the tribe on its water claim, belongs in today once opened."
+    "Nevada v. United States, 463 U.S. 110 (1983), which went against the tribe on its water claim, belongs in today once opened.",
+    "Audit 2026-11-08: removed the unsourced statement that Docket 87-A was transferred to the Court of Claims in 1978, and reworded the 87-B stipulation to match its text (the parties' opinion that no reserved water rights had been lost, not a statement that the settlement lost none)."
   ],
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "nationVoice": [
+    {
+      "nation": "Pyramid Lake Paiute Tribe",
+      "summary": "Chairman Mervin Wright told the California water board in 2010 that the Cui-ui Ticutta (Cui-ui Eaters) band has lived at Pyramid Lake since time immemorial, that the federal Newlands Reclamation Project diverted the Truckee River unregulated for sixty years from 1905, dropping the lake more than 80 feet and blocking the fish from spawning, and that the Tribe must invoke the federal trust doctrine to make the government meet its trust duty.",
+      "url": "https://www.waterboards.ca.gov/waterrights/water_issues/programs/hearings/truckee_river/docs/plpt_policy.pdf"
+    }
+  ]
 }

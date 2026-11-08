@@ -1,12 +1,18 @@
 {
   "id": "kappler-550",
   "name": "Treaty with the Chippewa, 1842 (Treaty of La Pointe)",
-  "aka": ["Treaty of La Pointe (1842)", "Copper Treaty", "1842 Treaty"],
+  "aka": [
+    "Treaty of La Pointe (1842)",
+    "Copper Treaty",
+    "1842 Treaty"
+  ],
   "signed": "1842-10-04",
   "proclaimed": "1843-03-23",
   "citation": "7 Stat. 591",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-1842-0542",
-  "nations": ["Ojibwe (Chippewa) of Lake Superior and the Mississippi, including Bad River, Red Cliff, Lac Courte Oreilles, Lac du Flambeau, Lac Vieux Desert, Keweenaw Bay, Fond du Lac, Mille Lacs and St. Croix"],
+  "nations": [
+    "Ojibwe (Chippewa) of Lake Superior and the Mississippi, including Bad River, Red Cliff, Lac Courte Oreilles, Lac du Flambeau, Lac Vieux Desert, Keweenaw Bay, Fond du Lac, Mille Lacs and St. Croix"
+  ],
   "promises": [
     "Article II: the Ojibwe kept the right of hunting on the ceded territory, with the other usual privileges of occupancy, until required to remove by the President.",
     "Article III: if required to remove, the unceded lands of the Fond du Lac, Sandy Lake and Mississippi bands would be the common home of all the bands party to the treaty.",
@@ -20,7 +26,11 @@
       "date": "1983-01-25",
       "what": "The Seventh Circuit held the Lac Courte Oreilles Band holds treaty-recognised rights to hunt, fish and gather under the 1837 and 1842 treaties, that the 1850 Removal Order did not end them because it was invalid, and that the 1854 treaty did not release them, reversing a judgment for Wisconsin officials.",
       "whoFoundIt": "Lac Courte Oreilles Band of Lake Superior Chippewa Indians v. Voigt, 700 F.2d 341 (7th Cir. 1983)",
-      "source": { "title": "Lac Courte Oreilles Band v. Voigt, 700 F.2d 341 (7th Cir. 1983)", "url": "https://law.resource.org/pub/us/case/reporter/F2/700/700.F2d.341.78-2398.78-2443.79-1014.html", "publisher": "Public.Resource.Org" },
+      "source": {
+        "title": "Lac Courte Oreilles Band v. Voigt, 700 F.2d 341 (7th Cir. 1983)",
+        "url": "https://law.resource.org/pub/us/case/reporter/F2/700/700.F2d.341.78-2398.78-2443.79-1014.html",
+        "publisher": "Public.Resource.Org"
+      },
       "quote": "The LCO's rights to use the ceded lands remain in force."
     },
     {
@@ -28,38 +38,75 @@
       "date": "1850-02-06",
       "what": "The Executive Order of February 6, 1850 ordered the Ojibwe removed and their privileges on the ceded lands revoked. Wisconsin relied on it to deny the 1842 rights; the federal district court and the Seventh Circuit held the order invalid.",
       "whoFoundIt": "Executive Order of February 6, 1850, held invalid in Lac Courte Oreilles Band v. Voigt (7th Cir. 1983)",
-      "source": { "title": "Lac Courte Oreilles Band v. Voigt, 700 F.2d 341 (7th Cir. 1983)", "url": "https://law.resource.org/pub/us/case/reporter/F2/700/700.F2d.341.78-2398.78-2443.79-1014.html", "publisher": "Public.Resource.Org" }
+      "source": {
+        "title": "Lac Courte Oreilles Band v. Voigt, 700 F.2d 341 (7th Cir. 1983)",
+        "url": "https://law.resource.org/pub/us/case/reporter/F2/700/700.F2d.341.78-2398.78-2443.79-1014.html",
+        "publisher": "Public.Resource.Org"
+      }
     },
     {
       "kind": "claims-commission",
       "date": "1977-11-23",
       "what": "The Commission found the land ceded (Royce Area 261, in northern Wisconsin and Michigan's Upper Peninsula) worth $8,862,818 and held the treaty's promised consideration of about $875,000 so grossly inadequate as to be unconscionable.",
       "whoFoundIt": "Indian Claims Commission, Minnesota Chippewa Tribe v. United States, Docket 18-S, 37 Ind. Cl. Comm. 146 (1975) and 41 Ind. Cl. Comm. 102 (1977)",
-      "source": { "title": "Minnesota Chippewa Tribe v. United States, Docket 18-S, Opinion, November 23, 1977", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2100", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+      "source": {
+        "title": "Minnesota Chippewa Tribe v. United States, Docket 18-S, Opinion, November 23, 1977",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2100",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
     },
     {
       "kind": "nation-statement",
       "what": "The Ojibwe tribes' own fish and wildlife commission says the tribes retained the right to hunt, fish and gather when they ceded land, and that state governments aggressively denied those rights.",
       "whoFoundIt": "Great Lakes Indian Fish and Wildlife Commission (GLIFWC)",
-      "source": { "title": "Treaty Rights", "url": "https://www.glifwc.org/TreatyRights/", "publisher": "Great Lakes Indian Fish and Wildlife Commission" }
+      "source": {
+        "title": "Treaty Rights",
+        "url": "https://www.glifwc.org/TreatyRights/",
+        "publisher": "Great Lakes Indian Fish and Wildlife Commission"
+      }
     }
   ],
   "compensation": "Final award of $8,516,128.32 in Docket 18-S (November 23, 1977), after deducting $346,689.68 paid on the claim from the $8,862,818 interlocutory award: $5,677,418.88 to the Chippewas of Lake Superior and $2,838,709.44 to the Chippewas of the Mississippi.",
   "today": "After the 1983 ruling the case was remanded; a follow-on Seventh Circuit decision in 1985 (760 F.2d 177) addressed limits on the rights. GLIFWC's member tribes exercise the retained rights in the ceded territories.",
   "nationVoice": [
-    { "nation": "Great Lakes Indian Fish and Wildlife Commission (Ojibwe member tribes)", "summary": "The tribes say the 1842 rights were retained, not granted, and were aggressively denied by the states until the courts affirmed them.", "url": "https://www.glifwc.org/TreatyRights/" }
+    {
+      "nation": "Great Lakes Indian Fish and Wildlife Commission (Ojibwe member tribes)",
+      "summary": "The tribes say the 1842 rights were retained, not granted, and were aggressively denied by the states until the courts affirmed them.",
+      "url": "https://www.glifwc.org/TreatyRights/"
+    }
   ],
   "sources": [
-    { "title": "Treaty with the Chippewa, 1842 (Kappler)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-1842-0542", "publisher": "Oklahoma State University Libraries" },
-    { "title": "Lac Courte Oreilles Band v. Voigt, 700 F.2d 341 (7th Cir. 1983)", "url": "https://law.resource.org/pub/us/case/reporter/F2/700/700.F2d.341.78-2398.78-2443.79-1014.html", "publisher": "Public.Resource.Org" },
-    { "title": "Minnesota Chippewa Tribe v. United States, Docket 18-S, Opinion, November 23, 1977", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2100", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Minnesota Chippewa Tribe v. United States, Docket 18-S, Final Award, November 23, 1977", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2380", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Treaty Rights", "url": "https://www.glifwc.org/TreatyRights/", "publisher": "Great Lakes Indian Fish and Wildlife Commission" }
+    {
+      "title": "Treaty with the Chippewa, 1842 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-1842-0542",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Lac Courte Oreilles Band v. Voigt, 700 F.2d 341 (7th Cir. 1983)",
+      "url": "https://law.resource.org/pub/us/case/reporter/F2/700/700.F2d.341.78-2398.78-2443.79-1014.html",
+      "publisher": "Public.Resource.Org"
+    },
+    {
+      "title": "Minnesota Chippewa Tribe v. United States, Docket 18-S, Opinion, November 23, 1977",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2100",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Minnesota Chippewa Tribe v. United States, Docket 18-S, Final Award, November 23, 1977",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2380",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Treaty Rights",
+      "url": "https://www.glifwc.org/TreatyRights/",
+      "publisher": "Great Lakes Indian Fish and Wildlife Commission"
+    }
   ],
   "openQuestions": [
     "The 1985 follow-on decision (760 F.2d 177) is mentioned from a search listing and was not opened.",
     "Whether the annuities under Articles IV and V were paid in full over twenty-five years was not checked; the 1850-51 Sandy Lake annuity relocation, in which many Ojibwe died, is a lead.",
-    "Article VI (removal from the mineral district at the President's pleasure) and its use in the copper rush was not researched."
+    "Article VI (removal from the mineral district at the President's pleasure) and its use in the copper rush was not researched.",
+    "Audit 2026-11-08: treaty articles, the Voigt holding, date (decided January 25, 1983) and quote, and the Docket 18-S figures ($8,862,818; 'some $875,000.00' as the Commission itself puts it; $346,689.68; $8,516,128.32 and its split) all checked against the sources and held."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

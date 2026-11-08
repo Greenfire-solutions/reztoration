@@ -1,13 +1,17 @@
 {
   "id": "kappler-644",
   "name": "Treaty with the Kaskaskia, Peoria, etc., 1854",
-  "aka": ["Treaty with the united Kaskaskia, Peoria, Piankeshaw and Wea, May 30, 1854"],
+  "aka": [
+    "Treaty with the united Kaskaskia, Peoria, Piankeshaw and Wea, May 30, 1854"
+  ],
   "signed": "1854-05-30",
   "ratified": "1854-08-02",
   "proclaimed": "1854-08-10",
   "citation": "10 Stat. 1082",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-kaskaskia-peoria-etc-1854-0636",
-  "nations": ["Peoria Tribe of Indians of Oklahoma (the united Kaskaskia, Peoria, Piankeshaw and Wea)"],
+  "nations": [
+    "Peoria Tribe of Indians of Oklahoma (the united Kaskaskia, Peoria, Piankeshaw and Wea)"
+  ],
   "promises": [
     "The United States recognized the Kaskaskia, Peoria, Piankeshaw and Wea as one united tribe (Article 1).",
     "160 acres reserved for each member and ten sections held in common, out of the Kansas lands ceded (Article 2).",
@@ -21,31 +25,71 @@
       "date": "1965-03-17",
       "what": "The Indian Claims Commission found that the United States did not sell the ceded lands on a freely competitive market as Article 4 required, but let settlers claim tracts at appraised values; it found the 207,758.85 acres sold in June and July 1857 would have averaged $2.50 an acre ($519,397.13) against $346,671.09 realized, and awarded the $172,726.04 difference.",
       "whoFoundIt": "Indian Claims Commission, Peoria Tribe of Oklahoma et al. v. United States, Docket 65, Findings of Fact and Opinion of 17 March 1965 (15 Ind. Cl. Comm. 123)",
-      "source": { "title": "Peoria Tribe of Oklahoma v. United States, Docket 65, Findings of Fact (1965)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/669", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+      "source": {
+        "title": "Peoria Tribe of Oklahoma v. United States, Docket 65, Findings of Fact (1965)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/669",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
     },
     {
       "kind": "claims-commission",
       "date": "1965-08-04",
       "what": "After $829.14 in offsets the Commission entered a final award of $171,896.90, without interest.",
       "whoFoundIt": "Indian Claims Commission, Peoria Tribe of Oklahoma et al. v. United States, Docket 65, Final Award (15 Ind. Cl. Comm. 488)",
-      "source": { "title": "Peoria Tribe of Oklahoma v. United States, Docket 65, Final Award (1965)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/818", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+      "source": {
+        "title": "Peoria Tribe of Oklahoma v. United States, Docket 65, Final Award (1965)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/818",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
     }
   ],
   "landTaken": "Royce Areas 326, 327 and 328 in eastern Kansas, granted under the two Castor Hill treaties of October 1832; 207,758.85 acres were sold in June and July 1857 (Docket 65 findings, 1965).",
   "compensation": "$346,671.09 from the 1857 sales; Commission award of $171,896.90 net in 1965. The Commission refused interest on the ground that no statute or contract required it.",
   "today": "The Commission found that squatters, investors and speculators moved onto the ceded lands after the treaty, helped by the Kansas-Nebraska Act passed the same day and the extension of pre-emption to Kansas on 22 July 1854, though it did not find they interfered with the Indian selections.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Peoria Tribe of Indians of Oklahoma",
+      "summary": "The Tribe's history says that pressure from settlers in Kansas in the 1840s and 1850s drew the Peoria, Kaskaskia, Piankashaw and Wea together to protect their holdings, that this treaty recognised their union as the Confederated Peoria, and that it gave each member a 160-acre allotment, kept ten sections in common and sold the surplus land to settlers.",
+      "url": "http://web.archive.org/web/20260531224612/https://peoriatribe.com/welcome/history/"
+    }
+  ],
   "sources": [
-    { "title": "Treaty with the Kaskaskia, Peoria, etc., 1854 (Kappler)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-kaskaskia-peoria-etc-1854-0636", "publisher": "Oklahoma State University Libraries" },
-    { "title": "Peoria Tribe v. United States, Docket 65, Additional Findings of Fact (1962)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/686", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Peoria Tribe of Oklahoma v. United States, Docket 65, Findings of Fact (1965)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/669", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Peoria Tribe of Oklahoma v. United States, Docket 65, Opinion of the Commission (1965)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/811", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Peoria Tribe of Oklahoma v. United States, Docket 65, Final Award (1965)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/818", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+    {
+      "title": "Treaty with the Kaskaskia, Peoria, etc., 1854 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-kaskaskia-peoria-etc-1854-0636",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Peoria Tribe v. United States, Docket 65, Additional Findings of Fact (1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/686",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Peoria Tribe of Oklahoma v. United States, Docket 65, Findings of Fact (1965)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/669",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Peoria Tribe of Oklahoma v. United States, Docket 65, Opinion of the Commission (1965)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/811",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Peoria Tribe of Oklahoma v. United States, Docket 65, Final Award (1965)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/818",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Peoria Tribe of Indians of Oklahoma, Our Tribe and history page (Wayback capture of May 31, 2026)",
+      "url": "http://web.archive.org/web/20260531224612/https://peoriatribe.com/welcome/history/",
+      "publisher": "Peoria Tribe of Indians of Oklahoma"
+    }
   ],
   "openQuestions": [
     "Claim I in Docket 65, that the commuted value of the Article 6 annuities was too low, was not followed to its result.",
     "The Peoria Tribe's website has no history page on this treaty; a nation statement is still wanted.",
-    "The queue also lists the Miami Tribe of Oklahoma for this entry; the award ran to the Peoria Tribe."
+    "The queue also lists the Miami Tribe of Oklahoma for this entry; the award ran to the Peoria Tribe.",
+    "Audit 2026-11-08: the Docket 65 figures and the Commission's holding that the land was not sold at public auction as Article 4 required (it calls it a breach of the defendant's fiduciary role, with speculators qualifying as 'settlers' through 'pole shanties') checked and held. The note that a nation statement is still wanted is out of date: nationVoice links the Peoria Tribe's history page."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

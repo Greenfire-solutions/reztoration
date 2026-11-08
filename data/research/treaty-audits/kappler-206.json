@@ -1,0 +1,19 @@
+{
+  "id": "kappler-206",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty header on OSU Kappler: Aug. 29, 1821, 7 Stat. 218, proclaimed Mar. 25, 1822; Articles 2, 4 and 5 match the promises",
+    "ICC Dockets 146, 15-M, 40-K additional findings of 23 December 1964 (OSU id 847, 14 Ind. Cl. Comm. 518): Ottawa tract 1,140,740 acres $969,629.00, Potawatomi tract 2,857,494 acres $2,428,869.90 on March 25, 1822; $32,337.33 and $108,499.20 consideration held unconscionable",
+    "Final award (OSU id 1945, 34 Ind. Cl. Comm. 1): $23,500 offset, $2,296,870.70 to the Potawatomi Tribe or Nation, signed 19 April 1974 (collection index says 19 May)",
+    "Docket 40-K final judgment of 27 March 1968 (OSU id 2331): $932,620.01 after the parties compromised offsets only; the file says so",
+    "Docket 29-K opinion (OSU id 667): June 30, 1958 title findings, Ottawa north and St. Joseph Band south",
+    "Dockets 71 et al. findings of 1972 (OSU id 1240): the 1821 small reservations and village sites were receded in 1827 and 1833",
+    "Gun Lake Tribe heritage page: three-square-mile reserve at present-day Kalamazoo, ceded under the 1827 Treaty of St. Joseph, neither payment nor land provided",
+    "1827 Potawatomi treaty text (OSU Kappler) cedes the Mang ach qua, Mickesawbe, Prairie Ronde and Match e be nash she wish tracts"
+  ],
+  "changes": [
+    "'today': gave the 1827 and 1833 cession of the Article 2 reserves a source (OSU id 1240) and named the four reserves the 1827 treaty cedes; added that treaty text and OSU id 1240 as sources"
+  ],
+  "unverifiable": []
+}

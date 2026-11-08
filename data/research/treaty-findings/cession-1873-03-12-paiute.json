@@ -19,14 +19,14 @@
     {
       "kind": "act-of-congress",
       "date": "1875-03-03",
-      "what": "Two years later Congress cut the reservation to 1,000 acres chosen by the Secretary of the Interior, who approved the boundaries on July 3, 1875; the rest went back to the public domain. No consent of the Paiute appears in the record opened.",
-      "whoFoundIt": "Act of Congress of March 3, 1875, and order of the Secretary of the Interior of July 3, 1875, as recorded in Royce's schedule (Bureau of American Ethnology, 1899)",
+      "what": "On March 3, 1875 Congress cut the reservation to 1,000 acres chosen by the Secretary of the Interior, who approved the boundaries on July 3, 1875; the rest went back to the public domain.",
+      "whoFoundIt": "Act of March 3, 1875, ch. 132, 18 Stat. 445; Secretary of the Interior's selection of July 3, 1875 (Royce, 1899)",
       "source": {
-        "title": "Royce, Schedule of Indian Land Cessions, 1874 entries (Moapa reserve)",
-        "url": "https://archive.org/stream/annualreportofbu218smit#page/870/mode/2up",
-        "publisher": "Bureau of American Ethnology, 18th Annual Report, part 2 (Royce, Indian Land Cessions, 1899), Internet Archive"
+        "title": "Act of March 3, 1875, ch. 132 (Indian appropriation act), 18 Stat. 445, Nevada item (Statutes at Large, 43rd Congress, PDF page 475)",
+        "url": "https://tile.loc.gov/storage-services/service/ll/llsl/llsl-c43/llsl-c43.pdf",
+        "publisher": "Library of Congress"
       },
-      "quote": "reducing this reserve to 1,000 acres"
+      "quote": "the Pai-Ute reservation in Southeastern Nevada is hereby reduced to one thousand acres"
     },
     {
       "kind": "nation-statement",
@@ -43,7 +43,7 @@
     {
       "kind": "litigation",
       "date": "1965-01-18",
-      "what": "The Southern Paiute claims, including the Moapa band, were settled by compromise before the Indian Claims Commission, which entered a final judgment for the Southern Paiute Nation of $7,253,165.19 under a stipulation of the parties. A compromise is not a finding of breach.",
+      "what": "The Southern Paiute claims were settled by compromise before the Indian Claims Commission, which entered a final judgment for the Southern Paiute Nation of $7,253,165.19 under a stipulation of the parties, on behalf of the Southern Paiute bands named in the petitions and the Las Vegas Band. A compromise is not a finding of breach.",
       "whoFoundIt": "Indian Claims Commission, Southern Paiute Nation v. United States, Dockets 88, 330 and 330-A, final judgment on a compromise settlement",
       "source": {
         "title": "Southern Paiute Nation v. United States, Dockets 88, 330 and 330-A, Final Judgment (January 18, 1965)",
@@ -91,10 +91,16 @@
       "title": "Moapa Band of Paiutes: Statement on Signing S. 1135 Into Law (December 5, 1980)",
       "url": "https://www.presidency.ucsb.edu/documents/moapa-band-paiutes-statement-signing-s-1135-into-law",
       "publisher": "The American Presidency Project, UC Santa Barbara"
+    },
+    {
+      "title": "Act of March 3, 1875, ch. 132 (Indian appropriation act), 18 Stat. 445, Nevada item (Statutes at Large, 43rd Congress, PDF page 475)",
+      "url": "https://tile.loc.gov/storage-services/service/ll/llsl/llsl-c43/llsl-c43.pdf",
+      "publisher": "Library of Congress"
     }
   ],
   "openQuestions": [
-    "The Statutes at Large page for the 1875 reduction was not opened: the Band's counsel cites 18 Stat. 475, while secondary listings cite 18 Stat. 445. Royce gives only 'act of Congress of Mar. 3, 1875'. Confirm against the Statutes at Large before adding a citation."
+    "Audit 2026-11-08: the Statutes at Large were opened (Library of Congress scan of the 43rd Congress, PDF page 475). The reduction is in the Indian appropriation act of March 3, 1875, ch. 132, at 18 Stat. 445, under Nevada; the Band's counsel's citation of 18 Stat. 475 is a misprint.",
+    "Audit 2026-11-08: removed the sentence on Paiute consent from the breach; no source opened says whether consent was or was not sought."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

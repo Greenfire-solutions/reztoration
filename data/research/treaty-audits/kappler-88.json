@@ -1,0 +1,18 @@
+{
+  "id": "kappler-88",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Name, August 21, 1805, 7 Stat. 91, proclamation April 24, 1806 against the OSU Kappler text.",
+    "Promises against Articles II, III and IV.",
+    "22 Ind. Cl. Comm. 92 findings (pointer 2096): 1,537,366 acres in Area 56; $1,615,000 at April 24, 1806; $22,000 paid, 'about 1.4 cents an acre' (stated); 'so grossly inadequate' and unconscionable; $1,593,000 split $1,062,000 and $531,000; 'business boomed in 1805-1806'.",
+    "Final Award (pointer 2633): Area 56, $1,076,652.00 (Dockets 253 and 131) and $538,326.00 (Docket 314-D)."
+  ],
+  "changes": [
+    "Article 3 promise: blank dollar amounts restored from the treaty text.",
+    "Compensation: computed total $1,614,978 removed; the two final award figures quoted separately."
+  ],
+  "unverifiable": [
+    "Why the Area 56 final award figures differ from the conclusions; the printed volume was not available."
+  ]
+}

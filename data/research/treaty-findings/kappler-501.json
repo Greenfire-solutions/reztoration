@@ -1,0 +1,111 @@
+{
+  "id": "kappler-501",
+  "name": "Treaty with the Sioux, 1837",
+  "aka": [
+    "Treaty of Washington with the Mdewakanton, 1837"
+  ],
+  "signed": "1837-09-29",
+  "proclaimed": "1838-06-15",
+  "citation": "7 Stat. 538",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-sioux-1837-0493",
+  "nations": [
+    "Mdewakanton Dakota (Medawakanton band of the Sioux)"
+  ],
+  "promises": [
+    "Article 1: the Sioux ceded all their land east of the Mississippi River and their islands in it.",
+    "Article 2, first: the United States would invest $300,000 and pay the chiefs and braves an income of not less than five per cent on it 'annually, forever'.",
+    "Article 2 also promised $110,000 to relatives and friends of the chiefs and braves with at least one quarter Sioux descent, $90,000 for the tribe's debts, and for twenty years a $10,000 annuity in goods, $8,250 a year for medicines, implements, stock, a physician, farmers and blacksmiths, and $5,500 a year in provisions."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1863-02-16",
+      "what": "After the 1862 war, Congress declared all treaties with the Sisseton, Wahpeton, Mdewakanton and Wahpakoota bands annulled as to any future obligation of the United States, and declared their annuities and claims forfeited. This ended the perpetual income the 1837 treaty promised, without the bands' consent.",
+      "whoFoundIt": "Act of February 16, 1863, ch. 37, 12 Stat. 652",
+      "source": {
+        "title": "Act of February 16, 1863, ch. 37, 12 Stat. 652",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-12/pdf/STATUTE-12-Pg652.pdf",
+        "publisher": "U.S. Government Publishing Office"
+      },
+      "quote": "declared to be abrogated and annulled, so far as said treaties or any of them purport to impose any future obligation on the United States"
+    },
+    {
+      "kind": "litigation",
+      "date": "1967-08-09",
+      "what": "The Mdewakanton claim for Royce Area 243, the land ceded by this treaty, was brought as Docket 360 and settled by compromise; the Commission entered a final judgment of $1,129,359.00 for the Medawakanton Tribe of Sioux Indians.",
+      "whoFoundIt": "Indian Claims Commission, Final Judgments in Dockets 142 and 359 through 363 (August 9, 1967), on the compromise settlement found fair on July 25, 1967",
+      "source": {
+        "title": "Sisseton and Wahpeton Bands v. United States, Final Judgments in Dockets 142 and 359 through 363 (1967)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1553",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "2026-11-08",
+      "what": "The Shakopee Mdewakanton Sioux Community writes that its people were promised annuities and services for 20 years under the 1837 treaty, that Congress abrogated all treaties with the Dakota in 1863, and that no annuity payments were made to the Mdewakanton from 1861 to 1885, which it calls a clear breach of treaty rights.",
+      "whoFoundIt": "Shakopee Mdewakanton Sioux Community, Our History",
+      "source": {
+        "title": "Our History",
+        "url": "https://shakopeedakota.org/?p=1217",
+        "publisher": "Shakopee Mdewakanton Sioux Community"
+      },
+      "quote": "No annuity payments were made to the Mdewakanton, an indication of clear breaches of treaty rights."
+    }
+  ],
+  "landTaken": "Royce Area 243, described by the Commission as over 4 million acres in east central Minnesota and west central Wisconsin (Docket 142 opinion, 1962).",
+  "compensation": "Docket 360 compromise judgment of $1,129,359.00 for the Medawakanton (1967). The 1963 Act paid part of the forfeited annuities to settlers for war damages (12 Stat. 652, section 2).",
+  "today": "In 1962 the Commission found that the Mdewakanton band held recognized title to Royce Area 243, except the part east of a line from the mouth of the Black River toward Chippewa Falls, when the 1837 treaty was made (Docket 142 et al., Interlocutory Order). The case was then settled.",
+  "nationVoice": [
+    {
+      "nation": "Shakopee Mdewakanton Sioux Community",
+      "summary": "Its history page says the 1837 treaty promised annuities, Congress abrogated all Dakota treaties in 1863, and the withheld annuities show clear breaches of treaty rights.",
+      "url": "https://shakopeedakota.org/?p=1217"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Sioux, 1837",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-sioux-1837-0493",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Act of February 16, 1863, ch. 37, 12 Stat. 652",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-12/pdf/STATUTE-12-Pg652.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Our History",
+      "url": "https://shakopeedakota.org/?p=1217",
+      "publisher": "Shakopee Mdewakanton Sioux Community"
+    },
+    {
+      "title": "Sisseton and Wahpeton Bands v. United States, Docket 142 et al., Opinion of the Commission (1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/559",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sisseton and Wahpeton Bands v. United States, Docket 142 et al., Interlocutory Order (1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/262",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sisseton and Wahpeton Bands v. United States, Findings of Fact on Compromise Settlement (1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2214",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sisseton and Wahpeton Bands v. United States, Final Judgments in Dockets 142 and 359 through 363 (1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1553",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "Whether and when the 1837 annuities were later restored in part (search results mention a later restoration act) was not traced from a primary source.",
+    "The Shakopee page's year headings were read through a page summariser; the quoted sentence was returned verbatim but the page was not read in full.",
+    "The Prairie Island, Lower Sioux and Santee Sioux Nation accounts of this treaty were not found."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

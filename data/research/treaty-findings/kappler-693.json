@@ -1,13 +1,19 @@
 {
   "id": "kappler-693",
   "name": "Treaty with the Chippewa, 1855 (Treaty of Washington)",
-  "aka": ["Treaty of Washington (1855)", "1855 Treaty with the Mississippi, Pillager and Lake Winnibigoshish bands"],
+  "aka": [
+    "Treaty of Washington (1855)",
+    "1855 Treaty with the Mississippi, Pillager and Lake Winnibigoshish bands"
+  ],
   "signed": "1855-02-22",
   "ratified": "1855-03-03",
   "proclaimed": "1855-04-07",
   "citation": "10 Stat. 1165",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-1855-0685",
-  "nations": ["Mississippi bands of Ojibwe (Chippewa), including Mille Lacs, Gull Lake, Rabbit Lake, Rice Lake, Sandy Lake and Pokegama", "Pillager (Leech Lake) and Lake Winnibigoshish bands of Ojibwe"],
+  "nations": [
+    "Mississippi bands of Ojibwe (Chippewa), including Mille Lacs, Gull Lake, Rabbit Lake, Rice Lake, Sandy Lake and Pokegama",
+    "Pillager (Leech Lake) and Lake Winnibigoshish bands of Ojibwe"
+  ],
   "promises": [
     "Article 2: reservations set apart as permanent homes, including Mille Lacs (fractional townships and three islands in Mille Lacs Lake) and other tracts for the Mississippi bands, and three tracts for the Pillager and Lake Winnibigoshish bands.",
     "Article 2: any allotments made would be exempt from taxation, levy and sale, and could not be sold for five years after patent without the President's assent.",
@@ -21,25 +27,54 @@
       "date": "1964-11-20",
       "what": "The Commission valued the land ceded (Royce Area 357, in north central Minnesota) at $0.55 an acre: $2,448,655 for the Mississippi bands' 4,452,100 acres and $3,179,880 for the Pillager and Lake Winnibigoshish bands' 5,781,600 acres. Against consideration of $508,569 and $855,354.85, it held the disparity so great as to make the consideration unconscionable.",
       "whoFoundIt": "Indian Claims Commission, Minnesota Chippewa Tribe v. United States, Dockets 18-B and 18-N, 14 Ind. Cl. Comm. 226 (1964)",
-      "source": { "title": "Minnesota Chippewa Tribe v. United States, Dockets 18-B and 18-N, Opinion of the Commission, November 20, 1964", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/728", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+      "source": {
+        "title": "Minnesota Chippewa Tribe v. United States, Dockets 18-B and 18-N, Opinion of the Commission, November 20, 1964",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/728",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
     }
   ],
   "compensation": "Final judgment of July 27, 1965 in Dockets 18-B and 18-N, after a stipulated settlement of offsets: $1,671,262.18 for the Mississippi bands and $2,260,942.90 for the Pillager and Lake Winnibigoshish bands.",
   "today": "On March 4, 2022 a federal district court (Judge Susan Richard Nelson) held that Congress never disestablished or diminished the Mille Lacs Reservation created by this treaty, as reported by the Band's newspaper Ojibwe Inaajimowin. In 1999 the Supreme Court held that the Mille Lacs Band did not give up its 1837 hunting, fishing and gathering rights by signing this treaty (Minnesota v. Mille Lacs Band, 526 U.S. 172).",
   "nationVoice": [
-    { "nation": "Mille Lacs Band of Ojibwe", "summary": "The Band's newspaper reported the 2022 ruling that its 1855 reservation boundaries remain intact, quoting Chief Executive Melanie Benjamin: 'We won.'", "url": "https://www.inaajimowin.com/news-blog/district-court-judge-non-removable-mille-lacs-bands-reservation-intact-since-1855" }
+    {
+      "nation": "Mille Lacs Band of Ojibwe",
+      "summary": "The Band's newspaper reported the 2022 ruling that its 1855 reservation boundaries remain intact, quoting Chief Executive Melanie Benjamin: 'We won.'",
+      "url": "https://www.inaajimowin.com/news-blog/district-court-judge-non-removable-mille-lacs-bands-reservation-intact-since-1855"
+    }
   ],
   "sources": [
-    { "title": "Treaty with the Chippewa, 1855 (Kappler)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-1855-0685", "publisher": "Oklahoma State University Libraries" },
-    { "title": "Minnesota Chippewa Tribe v. United States, Dockets 18-B and 18-N, Opinion of the Commission, November 20, 1964", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/728", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Minnesota Chippewa Tribe v. United States, Dockets 18-B and 18-N, Final Judgment, July 27, 1965", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/874", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Minnesota v. Mille Lacs Band of Chippewa Indians, syllabus", "url": "https://www.law.cornell.edu/supct/html/97-1337.ZS.html", "publisher": "Legal Information Institute, Cornell Law School" },
-    { "title": "'We Won': Court Rules Mille Lacs Reservation Boundaries Intact", "url": "https://www.inaajimowin.com/news-blog/district-court-judge-non-removable-mille-lacs-bands-reservation-intact-since-1855", "publisher": "Ojibwe Inaajimowin (Mille Lacs Band of Ojibwe)" }
+    {
+      "title": "Treaty with the Chippewa, 1855 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-1855-0685",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Minnesota Chippewa Tribe v. United States, Dockets 18-B and 18-N, Opinion of the Commission, November 20, 1964",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/728",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Minnesota Chippewa Tribe v. United States, Dockets 18-B and 18-N, Final Judgment, July 27, 1965",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/874",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Minnesota v. Mille Lacs Band of Chippewa Indians, syllabus",
+      "url": "https://www.law.cornell.edu/supct/html/97-1337.ZS.html",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "'We Won': Court Rules Mille Lacs Reservation Boundaries Intact",
+      "url": "https://www.inaajimowin.com/news-blog/district-court-judge-non-removable-mille-lacs-bands-reservation-intact-since-1855",
+      "publisher": "Ojibwe Inaajimowin (Mille Lacs Band of Ojibwe)"
+    }
   ],
   "openQuestions": [
     "The 1964 opinion recites a finding in Docket 18-N that the Mille Lacs reservation was disposed of under the public land laws in violation of the Act of January 14, 1889 (25 Stat. 642), and that the Band was later paid for 31,692.64 acres but not for 29,335.50 acres. The underlying findings and the special jurisdictional act were not opened; this is the strongest lead for a second, Mille Lacs-specific breach.",
     "Four of the 1855 reservations (Gull Lake, Sandy and Rice Lake, Rabbit Lake, Pokegama) were ceded by the treaties of 1863 and 1864 (13 Stat. 693); those are separate queue entries.",
-    "The 2022 Mille Lacs boundary ruling was appealed and later proceedings (reported in 2025 by the Band's newspaper) were not opened."
+    "The 2022 Mille Lacs boundary ruling was appealed and later proceedings (reported in 2025 by the Band's newspaper) were not opened.",
+    "Audit 2026-11-08: treaty articles and the Docket 18-B figures checked and held. The 1964 opinion is internally inconsistent: its consideration table gives $508,569.00 and $855,354.85, but its award paragraph deducts $509,569.00 and $865,354.85 (the $1,940,086 net matches $508,569; the $2,314,525.15 net matches $865,354.85). The file keeps the table figures, which are quoted. The final judgment of July 27, 1965 followed a stipulated settlement of offsets only; the unconscionability holding was adjudicated in 1964, so claims-commission stands."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

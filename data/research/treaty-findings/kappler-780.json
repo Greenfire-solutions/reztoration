@@ -38,8 +38,8 @@
       "what": "The Indian Claims Commission held that the 96,000-acre Ponca reservation established under this treaty and the 1865 treaty was taken without Ponca consent when the United States included it in the Sioux reservation by the 1868 Fort Laramie treaty and then removed the Ponca, a Fifth Amendment taking as of March 16, 1877, and awarded $1,004,589.49 with interest (recorded in full under kappler-883).",
       "whoFoundIt": "Indian Claims Commission, Ponca Tribe of Indians of Oklahoma et al. v. United States, Docket 323, Opinion (July 26, 1966), 17 Ind. Cl. Comm. 162, and Final Award on Remand (August 23, 1972), 28 Ind. Cl. Comm. 335",
       "source": {
-        "title": "Ponca Tribe of Indians of Oklahoma v. United States, Docket 323, Opinion of the Commission, Part 1 (July 26, 1966)",
-        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1044",
+        "title": "Ponca Tribe of Indians of Oklahoma v. United States, Docket 323, Final Award on Remand (August 23, 1972)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1572",
         "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
       }
     },
@@ -90,11 +90,17 @@
       "title": "Ponca Tribe of Indians of Oklahoma v. United States, Docket 323, Opinion of the Commission, Part 1 (July 26, 1966)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1044",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Ponca Tribe of Indians of Oklahoma v. United States, Docket 323, Final Award on Remand (August 23, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1572",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
     }
   ],
   "openQuestions": [
     "The Ponca Tribe of Nebraska's page gives two termination dates (1962 in its timeline, 1966 in the text); neither is recorded here as fact.",
-    "The Ponca Tribe of Oklahoma's own account was not looked for in this pass."
+    "The Ponca Tribe of Oklahoma's own account was not looked for in this pass.",
+    "Audit 2026-11-08: the Docket 323 breach now cites the Final Award on Remand (pointer 1572), which states the March 16, 1877 taking date and the $1,004,589.49 award; the 1966 opinion (pointer 1044), which states the taking without Ponca consent, stays in sources."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

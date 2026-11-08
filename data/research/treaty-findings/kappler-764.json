@@ -26,12 +26,12 @@
     {
       "kind": "act-of-congress",
       "date": "1898-06-28",
-      "what": "The Curtis Act abolished the tribal courts of the Five Tribes, transferred pending cases to the federal courts of Indian Territory, made tribal laws unenforceable and required presidential approval of later tribal legislation, overriding the self-government and jurisdiction secured by Article 15.",
-      "whoFoundIt": "Curtis Act, Act of June 28, 1898, section 28 (30 Stat. 495, 504-505)",
+      "what": "The Curtis Act abolished the Creek tribal courts and transferred all pending civil and criminal cases to the federal courts of Indian Territory, overriding the self-government and jurisdiction secured by Article 15. The Supreme Court in McGirt names this among the ways Congress intruded on the Creeks' promised right to self-governance.",
+      "whoFoundIt": "Curtis Act, Act of June 28, 1898, section 28 (30 Stat. 504-505), as described in McGirt v. Oklahoma (2020)",
       "source": {
-        "title": "Curtis Act (1898), Encyclopedia of Oklahoma History and Culture (M. Kaye Tatro)",
-        "url": "https://www.okhistory.org/publications/enc/entry?entry=CU006",
-        "publisher": "Oklahoma Historical Society"
+        "title": "McGirt v. Oklahoma, No. 18-9526 (July 9, 2020)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/18-9526",
+        "publisher": "Legal Information Institute, Cornell Law School"
       }
     },
     {
@@ -98,7 +98,8 @@
     "The Curtis Act statute text itself was not opened; section 28 and the page citation come from McGirt (30 Stat. 504-505) and the Oklahoma Historical Society entry.",
     "Whether the inclusion of Creek and Seminole lands in the State of Oklahoma in 1907 breached Article 4 without tribal legislative consent needs a reading of the 1901 Creek and 1897 Seminole agreements.",
     "The Seminole Nation of Oklahoma own account of this treaty was not found. Evidence the other way: the Indian Claims Commission dismissed a Seminole claim for 1856-treaty annuities withheld in 1862-1866 (Docket 205, 7 November 1963, https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/601) and rejected the argument that the 1861 withdrawal of federal troops forced the Seminole into the Confederacy (Docket 152, 22 August 1962, https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/148).",
-    "Whether the Seminoles in Florida that Article 9 sought to remove were ever moved under it was not researched."
+    "Whether the Seminoles in Florida that Article 9 sought to remove were ever moved under it was not researched.",
+    "Audit 2026-11-08: the Curtis Act breach now cites McGirt (the primary reading) instead of the Oklahoma Historical Society entry, and drops \"required presidential approval of later tribal legislation\": McGirt attributes that requirement to the 1901 Creek Allotment Agreement (31 Stat. 872), not the Curtis Act, while the encyclopedia attributes it to the Curtis Act. The encyclopedia stays in sources."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

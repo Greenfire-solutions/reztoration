@@ -1,0 +1,20 @@
+{
+  "id": "kappler-727",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Name, 12 Stat. 971, ratified March 8, 1859 and proclaimed April 11, 1859 against the OSU Kappler text.",
+    "Promises against Articles 2, 3, 4 and 10.",
+    "443 U.S. 658 (Cornell LII): the Treaty of Olympia (12 Stat. 971) and the Hoh, Quileute and Quinault are named; the Game Department refused to comply; the quote is exact and under 25 words.",
+    "Washington v. United States, No. 17-269 (2018): affirmed by an equally divided Court (HallApproved copy of the slip opinion).",
+    "CRS LSB10138: the culvert ruling concerns the 1854-55 Stevens treaties with 21 tribes.",
+    "ICC Docket 242 final determination (pointer 176): compromise settlement, net $205,172.40, July 9, 1962; correctly kind litigation."
+  ],
+  "changes": [
+    "Article 4 promise reworded: '$25,000 over twenty years' replaced by the instalments the article states.",
+    "Open question added on the two signing dates (July 1, 1855 and January 25, 1856)."
+  ],
+  "unverifiable": [
+    "Whether the Quinault, Quileute and Hoh were parties to the culvert subproceeding: the Ninth Circuit opinion (853 F.3d 946) could not be downloaded; the CRS sidebar says 21 tribes without naming them."
+  ]
+}

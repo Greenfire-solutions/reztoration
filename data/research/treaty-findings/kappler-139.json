@@ -1,0 +1,59 @@
+{
+  "id": "kappler-139",
+  "name": "Treaty with the Wea and Kickapoo, 1816",
+  "aka": [
+    "Treaty of Fort Harrison, 1816"
+  ],
+  "signed": "1816-06-04",
+  "proclaimed": "1816-12-30",
+  "citation": "7 Stat. 145",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-wea-and-kickapoo-1816-0131",
+  "nations": [
+    "Wea (today within the Peoria Tribe of Indians of Oklahoma)",
+    "Kickapoo (today the Kickapoo Tribe in Kansas, the Kickapoo Tribe of Oklahoma and the Kickapoo Traditional Tribe of Texas)"
+  ],
+  "promises": [
+    "Article 1: peace and friendship.",
+    "Article 2: the tribes acknowledged the treaty of Greenville (1795) and their later treaties.",
+    "Article 3: the tribes confirmed the surveyed boundary of the land on the Wabash and White rivers ceded in 1809.",
+    "Article 4: the Kickapoo acknowledged their cession of the tract between that line, the Wabash and the Vermillion River under their treaty of December 9, 1809."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce Areas 71, 73 and 74 are attached to this id; they were ceded by the 1809 treaties, which this treaty confirmed (Royce; Docket 317 findings, 1962).",
+  "today": "This treaty took no new land and promised no payment. The Commission's findings on the land it confirmed belong to the 1809 treaties: it found the consideration for Royce Area 71 unconscionable (Dockets 253, 131 and 314-D, 1969), and the Kickapoo recovered in Docket 317 (1970). Those are recorded under kappler-109, kappler-111 and kappler-112, not here.",
+  "sources": [
+    {
+      "title": "Treaty with the Wea and Kickapoo, 1816",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-wea-and-kickapoo-1816-0131",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Miami Tribe of Oklahoma et al. v. United States, Dockets 253, 131 and 314-D, Opinion (1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2018",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Kickapoo Tribe of Kansas v. United States, Docket 317, Findings of Fact (1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/481",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Kickapoo Tribe of Kansas v. United States, Docket 317, Final Award (1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2317",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
+      "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+      "publisher": "Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The 1969 opinion says Docket 317 was dismissed from that proceeding because the Kickapoo were interested only in Royce Area 73, yet Docket 317 ended in a 1970 award on stipulation; the basis of that award was not traced.",
+    "No Wea, Peoria or Kickapoo account of the 1816 treaty was found."
+  ],
+  "nationVoice": [],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

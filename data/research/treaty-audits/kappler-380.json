@@ -1,0 +1,17 @@
+{
+  "id": "kappler-380",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty header on OSU Kappler: Oct. 27, 1832, 7 Stat. 399, proclaimed Jan. 21, 1833; Article II reservations at Pokagon's village and Nottawaseppi; Article IV $15,000 for twelve years, $32,000 and $10,000 in goods, $20,721 in debts, $2,000 for education as long as Congress thinks proper",
+    "ICC Dockets 128 et al. opinion (OSU id 1472, 43 Ind. Cl. Comm. 74): Area 181 $242,998.00 plus $39,250.64, value $862,967.10, unconscionable; quote exact",
+    "Additional findings Part 2 (OSU id 2160): Tract *5 260,134 acres all Potawatomi; Tract Y-3 575,866 acres half Potawatomi, half Miami; Potawatomi valuation date Jan. 21, 1833",
+    "Order Setting Awards (OSU id 2599): $4,497,815.59 for four cessions together"
+  ],
+  "changes": [
+    "Fourth promise: added the treaty's limit on the education money (as long as Congress thinks proper)"
+  ],
+  "unverifiable": [
+    "The transfer order to the Court of Claims was not opened; 'today' already says it rests on the collection index"
+  ]
+}

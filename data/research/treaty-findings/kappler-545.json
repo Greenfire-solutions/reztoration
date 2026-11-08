@@ -1,12 +1,18 @@
 {
   "id": "kappler-545",
   "name": "Treaty with the Seneca, 1842 (Compromise Treaty of Buffalo Creek)",
-  "aka": ["Third Treaty of Buffalo Creek", "Compromise Treaty of 1842"],
+  "aka": [
+    "Third Treaty of Buffalo Creek",
+    "Compromise Treaty of 1842"
+  ],
   "signed": "1842-05-20",
   "proclaimed": "1842-08-26",
   "citation": "7 Stat. 586",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-1842-0537",
-  "nations": ["Seneca Nation (Onödowága')", "Tonawanda Band of Seneca"],
+  "nations": [
+    "Seneca Nation (Onödowága')",
+    "Tonawanda Band of Seneca"
+  ],
   "promises": [
     "The Seneca would keep the Cattaraugus and Allegany reservations with the same right and title they held before the 1838 sale, which this compact partly rescinded (indenture, Articles 1 and 7).",
     "The Buffalo Creek and Tonawanda reservations went to Thomas Ludlow Ogden and Joseph Fellows for a price set by arbitrators, one named by the US Secretary of War, on the basis that the Indian title to all four reservations was worth $202,000 (Articles 2 to 4).",
@@ -20,21 +26,33 @@
       "date": "1965",
       "what": "The Court of Claims held that the Trade and Intercourse Act of 1790 made the United States responsible for seeing that the Seneca received a conscionable price in the 1842 sale (and those of 1797 and 1826), reversing the Commission's 1963 dismissal.",
       "whoFoundIt": "Seneca Nation of Indians v. United States, 173 Ct. Cl. 917 (1965), as recited by the Indian Claims Commission in 1972",
-      "source": { "title": "Seneca Nation and Tonawanda Band v. United States, Opinion of the Commission, May 3, 1972 (28 Ind. Cl. Comm. 12)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2526", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+      "source": {
+        "title": "Seneca Nation and Tonawanda Band v. United States, Opinion of the Commission, May 3, 1972 (28 Ind. Cl. Comm. 12)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2526",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
     },
     {
       "kind": "claims-commission",
       "date": "1972-05-03",
       "what": "The Commission valued the 62,720 acres given up in 1842 (the Tonawanda Reservation at about $13 an acre and Buffalo Creek, next to the growing city of Buffalo, at about $12 an acre) at $766,000, held the $133,768.96 paid unconscionable, and determined $632,231.04 due.",
       "whoFoundIt": "Indian Claims Commission, Dockets 342-A and 368-A, 28 Ind. Cl. Comm. 12 (1972)",
-      "source": { "title": "Seneca Nation and Tonawanda Band v. United States, Opinion of the Commission, May 3, 1972", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2526", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+      "source": {
+        "title": "Seneca Nation and Tonawanda Band v. United States, Opinion of the Commission, May 3, 1972",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2526",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
     },
     {
       "kind": "nation-statement",
       "date": "2023-05-26",
       "what": "The Seneca Nation's archive calls this treaty a compromise of the fraudulently executed 1838 treaty, records that the Buffalo Creek and Tonawanda reservations were lost, and notes the Tonawanda Senecas refused to take part in the 1838 and 1842 dealings.",
       "whoFoundIt": "Seneca Nation Archives / Onöhsagwë:de' Cultural Center, SNI Official Newsletter",
-      "source": { "title": "Seneca Nation Chronology for May (SNI Official Newsletter, May 26, 2023)", "url": "https://sninews.org/2023/05/26/seneca-nation-chronology-for-may/", "publisher": "Seneca Nation of Indians" },
+      "source": {
+        "title": "Seneca Nation Chronology for May (SNI Official Newsletter, May 26, 2023)",
+        "url": "https://sninews.org/2023/05/26/seneca-nation-chronology-for-may/",
+        "publisher": "Seneca Nation of Indians"
+      },
       "quote": "The Buffalo Creek and Tonawanda reservations were lost."
     }
   ],
@@ -42,18 +60,39 @@
   "compensation": "$133,768.96 was paid for the 1842 cession. The Commission's 1972 determination set $632,231.04 for it; the stipulated final award of November 22, 1972 in Dockets 342-A and 368-A was $5,466,615.04 for the 1797, 1826 and 1842 cessions together. The Tonawanda Band bought back 7,549 acres of its own reservation from the Ogden Land Company in 1857 for $153,742.55 (Commission, 1972).",
   "today": "Allegany and Cattaraugus, returned by this compact, remain Seneca Nation territories; the Tonawanda Band holds the part of its reservation it repurchased under the 1857 treaty.",
   "nationVoice": [
-    { "nation": "Seneca Nation of Indians", "summary": "The Nation's archive describes the 1842 treaty as a compromise of a fraudulent 1838 treaty that restored Allegany and Cattaraugus but lost Buffalo Creek and Tonawanda.", "url": "https://sninews.org/2023/05/26/seneca-nation-chronology-for-may/" }
+    {
+      "nation": "Seneca Nation of Indians",
+      "summary": "The Nation's archive describes the 1842 treaty as a compromise of a fraudulent 1838 treaty that restored Allegany and Cattaraugus but lost Buffalo Creek and Tonawanda.",
+      "url": "https://sninews.org/2023/05/26/seneca-nation-chronology-for-may/"
+    }
   ],
   "sources": [
-    { "title": "Treaty with the Seneca, 1842 (Kappler)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-1842-0537", "publisher": "Oklahoma State University Libraries" },
-    { "title": "Seneca Nation and Tonawanda Band v. United States, Opinion of the Commission, May 3, 1972", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2526", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Seneca Nation and Tonawanda Band v. United States, Dockets 342-A and 368-A, Final Award, November 22, 1972", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1128", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Seneca Nation Chronology for May", "url": "https://sninews.org/2023/05/26/seneca-nation-chronology-for-may/", "publisher": "Seneca Nation of Indians" }
+    {
+      "title": "Treaty with the Seneca, 1842 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-1842-0537",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Seneca Nation and Tonawanda Band v. United States, Opinion of the Commission, May 3, 1972",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2526",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Seneca Nation and Tonawanda Band v. United States, Dockets 342-A and 368-A, Final Award, November 22, 1972",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1128",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Seneca Nation Chronology for May",
+      "url": "https://sninews.org/2023/05/26/seneca-nation-chronology-for-may/",
+      "publisher": "Seneca Nation of Indians"
+    }
   ],
   "openQuestions": [
     "Whether the United States acted on Article 9's request to protect Seneca lands from New York taxes, and the later tax disputes, were not researched.",
     "The 1965 Court of Claims opinion was not opened directly and its exact date is not recorded.",
-    "How the ICC award was divided between the Seneca Nation and the Tonawanda Band was not found."
+    "How the ICC award was divided between the Seneca Nation and the Tonawanda Band was not found.",
+    "Audit 2026-11-08: all figures, articles and dates checked against the 1842 text, 28 Ind. Cl. Comm. 12 and the November 22, 1972 final award, and held. The 1972 award made the May 1972 adjudicated order final by stipulation; the unconscionability finding itself was adjudicated, so claims-commission stays."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

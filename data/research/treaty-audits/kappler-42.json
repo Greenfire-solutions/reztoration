@@ -1,0 +1,18 @@
+{
+  "id": "kappler-42",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty header on OSU Kappler (signed Nov. 11, 1794, 7 Stat. 44, proclaimed Jan. 21, 1795) and Articles II, III, VI, VII match the promises",
+    "ICC Dockets 84 and 300-B opinion of 11 August 1970 (OSU id 1422, 23 Ind. Cl. Comm. 376): 158 years 1795 to 1952, $711,000 required, $678,781.58 allowed, nine categories disallowed, $32,218.42; no sums ever appropriated or disbursed under the 1792 article",
+    "Final award of 28 December 1973 (OSU id 1236): $6,783.17 offset, $29,930.25 and $25,339.50 to the Seneca Nation",
+    "Public Law 88-533, 78 Stat. 738 (govinfo PDF): title quote exact; $666,285, $100,000, $522,775, $945,573; interests 'as have been taken' within the Allegany Reservation",
+    "County of Oneida v. Oneida Indian Nation, 470 U.S. 226 (Cornell LII): quote exact; footnote quotes Article II; 719 F.2d 525 affirmed in part, reversed in part, and remanded"
+  ],
+  "changes": [
+    "County of Oneida breach: corrected the disposition (Supreme Court affirmed in part, reversed the indemnification ruling; the damages remand was the Court of Appeals')"
+  ],
+  "unverifiable": [
+    "Onondaga Nation pages not re-opened"
+  ]
+}

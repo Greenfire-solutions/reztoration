@@ -1,13 +1,17 @@
 {
   "id": "kappler-851",
   "name": "Treaty with the Nez Perces, 1863 (Lapwai Treaty)",
-  "aka": ["Treaty of Lapwai, 1863"],
+  "aka": [
+    "Treaty of Lapwai, 1863"
+  ],
   "signed": "1863-06-09",
   "ratified": "1867-04-17",
   "proclaimed": "1867-04-20",
   "citation": "14 Stat. 647",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-nez-perces-1863-0843",
-  "nations": ["Nimiipuu (Nez Perce)"],
+  "nations": [
+    "Nimiipuu (Nez Perce)"
+  ],
   "promises": [
     "Article 2 reserved a smaller tract around Lapwai and the Clearwater 'for a home, and for the sole use and occupation of said tribe'.",
     "Article 4: $262,500 for the relinquishment, in addition to the 1855 annuities, for removal, ploughing and fencing, mills, schools and other purposes.",
@@ -18,7 +22,7 @@
     {
       "kind": "claims-commission",
       "date": "1959-12-31",
-      "what": "The Indian Claims Commission found that what the United States paid for the land given up under this treaty was grossly inadequate and unconscionable against a fair market value of $4,650,000 as of April 17, 1867, and held the tribe entitled to the difference, less offsets.",
+      "what": "On the tribe's claim for additional compensation for an unconscionable consideration, the Indian Claims Commission set the fair market value of the land given up under this treaty at $4,650,000 as of April 17, 1867, and held the tribe entitled to a balance of $4,297,605.06, less offsets. The scan of the 1959 decision is damaged; both figures are read from it and agree with the 1960 judgment ($4,157,605.06 after a $140,000 compromise of offsets).",
       "whoFoundIt": "Indian Claims Commission, Nez Perce Tribe v. United States, Docket 175-A, findings and opinion of December 31, 1959 (8 Ind. Cl. Comm. 220)",
       "source": {
         "title": "Nez Perce Tribe of Indians v. United States, Docket No. 175-A, Findings of Fact, December 31, 1959",
@@ -27,9 +31,9 @@
       }
     },
     {
-      "kind": "claims-commission",
+      "kind": "litigation",
       "date": "1960-06-17",
-      "what": "Final judgment for the Nez Perce for $4,157,605.06 on the 1863 cession, after a negotiated settlement of $140,000 in offsets.",
+      "what": "Final judgment for the Nez Perce for $4,157,605.06 on the 1863 cession, entered on the parties' joint motion and stipulation; the $140,000 difference from the 1959 award was a compromise settlement of the offsets.",
       "whoFoundIt": "Indian Claims Commission, Docket 175-A, Final Judgment, June 17, 1960",
       "source": {
         "title": "Nez Perce Tribe of Indians v. United States, Docket No. 175-A, Final Judgment, June 17, 1960",
@@ -40,7 +44,7 @@
     {
       "kind": "claims-commission",
       "date": "1969-11-14",
-      "what": "Of the reservation this treaty kept, 549,559 acres left after allotment were ceded under the Agreement of May 1, 1893 for $1,634,664, about $2.97 an acre. After the Court of Claims reversed the Commission's first ruling, the Commission found the price unconscionable and awarded $6,609,926.14.",
+      "what": "Of the reservation this treaty kept, 549,559 acres left after allotment were ceded under the Agreement of May 1, 1893 for $1,634,664. After the Court of Claims reversed the Commission's first ruling that the price was not unconscionable (176 Ct. Cl. 815, 1966), the Commission allowed recovery because the consideration was unconscionable and awarded $6,609,926.14, plus interest on a principal of $1,387,911.00.",
       "whoFoundIt": "Indian Claims Commission, Nez Perce Tribe v. United States, Docket 175-B, opinion and final award of November 14, 1969 (22 Ind. Cl. Comm. 53), on remand from 176 Ct. Cl. 815 (1966)",
       "source": {
         "title": "Nez Perce Tribe of Indians v. United States, Docket No. 175-B, Final Award, November 14, 1969",
@@ -121,7 +125,8 @@
     "The 1959 findings' OCR is damaged: the acreage of the 1863 cession and the consideration paid could not be read reliably and are left out. The balance before offsets reads as $4,297,605.06, which agrees with the $4,157,605.06 judgment plus the $140,000 offset settlement.",
     "The 1969 award of $6,609,926.14 appears to include interest; the order also provides simple interest on a principal of $1,387,911.00 from November 15, 1969. Whether that principal is the unconscionability difference was not confirmed.",
     "Treaty signers came mainly from the bands whose land stayed inside the new reservation; the bands whose homelands were ceded, including Joseph's Wallowa band, did not sign. This is widely reported by historians but was not confirmed from a finding in this pass.",
-    "Docket 175 (a further Nez Perce claim, settled for $3,550,000 in 1971) was not read; its subject was not identified."
+    "Docket 175 (a further Nez Perce claim, settled for $3,550,000 in 1971) was not read; its subject was not identified.",
+    "Audit 2026-11-08: the 1960 final judgment changed from claims-commission to litigation, because it was entered on a stipulation and its amount reflects a compromise of offsets (Docket 175-A, Final Judgment and Opinion, June 17, 1960). The 1959 breach no longer says \"grossly inadequate\", words that could not be found in the damaged scan; the $4,650,000 and $4,297,605.06 figures are now flagged as read from a damaged scan. \"About $2.97 an acre\" removed from the 1893 breach: the scan shows the per-acre figure as \"$f.97\", and the figure was the researcher's division."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

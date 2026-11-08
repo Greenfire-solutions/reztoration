@@ -1,0 +1,18 @@
+{
+  "id": "kappler-37",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty header on OSU Kappler: July 2, 1791, 7 Stat. 39, proclaimed Feb. 7, 1792; Articles VII, VIII and IX match the promises; additional article of Feb. 17, 1792 (7 Stat. 42) raises the annuity to $1,500",
+    "Worcester v. Georgia on Cornell LII: the Court discusses the treaties of Hopewell and Holston and holds the acts of Georgia 'repugnant to the constitution, laws, and treaties of the United States'; quote exact (21 words)",
+    "NPS Fort Smith page: quote exact"
+  ],
+  "changes": [
+    "Second breach: kind changed from government-admission to historian (NPS history page)",
+    "First breach: reworded to the Court's own holding"
+  ],
+  "unverifiable": [
+    "Exact decision day of Worcester v. Georgia not taken from the opinion (year only, as filed)",
+    "Cherokee Nation history page not re-opened"
+  ]
+}

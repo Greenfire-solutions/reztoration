@@ -1,0 +1,16 @@
+{
+  "id": "cession-1872-09-12-paiute-shoshoni-snake",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "ICC Docket 17, Second Interlocutory Order of April 15, 1959 (OSU id 32): deprivation of original Indian title in January 1879 without compensation, lands worth $579,722.00, judgment for that sum less offsets, parties to the unratified treaty of December 10, 1868, amended order of February 4, 1957. All match.",
+    "Additional Findings (OSU id 54): the land is the former Malheur reservation as defined by the executive order of January 28, 1876.",
+    "1956 opinion (OSU id 513): the Commission's earlier dismissal was set aside by the Court of Claims on June 2, 1953, 125 Ct. Cl. 241, and remanded; 1950 opinion (id 469) dated December 29, 1950.",
+    "Royce schedule: the 1872 boundaries; the remark that the 1876 reserve was composed of all of the 1872 reserve and part of the 1875 addition; Area 537 is the relinquished withdrawal.",
+    "kind 'claims-commission' is right: a contested finding of taking without compensation, not a settlement."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "No final award or payment after 1959 was traced (already in openQuestions)."
+  ]
+}

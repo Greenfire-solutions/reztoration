@@ -54,7 +54,8 @@
     "Loss of most of the reservation through allotment and fee patents (the General Allotment Act and the 1906 act that allowed fee patents on Oneida allotments) is the main lead. The 2020 ruling held those acts did not shrink the reservation, but whether any finding treats the land loss as a breach of Article 2 was not found.",
     "The Seventh Circuit noted expert reports by Frederick Hoxie and R. David Edmunds on the reservation's history (ECF 92-2 and 92-5); they were not opened.",
     "The Oneida Nation's own account of the 1838 treaty (oneida-nsn.gov) was not found in this pass.",
-    "Royce's states field for this queue entry (WI) is right, but treaties.json lists New York nations as present-day tribes for it; only the Oneida Nation of Wisconsin was party."
+    "Royce's states field for this queue entry (WI) is right, but treaties.json lists New York nations as present-day tribes for it; only the Oneida Nation of Wisconsin was party.",
+    "Audit 2026-11-08: everything checked held. The earlier note that the Nation's own account was not found is out of date: nationVoice now links its 2018 anniversary page. The ratified date 1838-05-12 is not in the Kappler text or the 2020 opinion and was not verified."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

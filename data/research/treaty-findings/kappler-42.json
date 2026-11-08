@@ -47,7 +47,7 @@
     {
       "kind": "court-ruling",
       "date": "1985-03-04",
-      "what": "The Supreme Court held the Oneida could sue New York counties for land New York took in a 1795 purchase that violated the federal Nonintercourse Act, land on the reservation the United States had acknowledged as Oneida property in this treaty. The Court quoted Article II and affirmed the lower courts' liability ruling, sending the case back on damages.",
+      "what": "The Supreme Court held the Oneida have a federal common-law action against New York counties for land New York took in a 1795 purchase that violated the federal Nonintercourse Act, land on the reservation the United States acknowledged as Oneida property in Article II of this treaty, which the Court quoted. It upheld the counties' liability and reversed only the ruling that New York must indemnify the counties (affirmed in part, reversed in part, and remanded).",
       "whoFoundIt": "County of Oneida v. Oneida Indian Nation of New York, 470 U.S. 226 (1985)",
       "source": {
         "title": "County of Oneida v. Oneida Indian Nation of New York State, 470 U.S. 226 (1985)",
@@ -107,7 +107,8 @@
     "Seneca Nation v. Brucker (D.C. Cir. 1958), the Seneca suit arguing the Kinzua taking violated this treaty, was not opened; it would add the court's own reasoning on Article III.",
     "The Seneca Nation's own account of Kinzua and this treaty was not located on sni.org in this pass.",
     "Cayuga and Onondaga land claims (Cayuga Indian Nation v. Pataki, Onondaga Nation v. New York) rest partly on Article II and were not opened; they ended without land returned and could deepen this file.",
-    "The later course of the Oneida claim after 1985 (including City of Sherrill v. Oneida Indian Nation, 2005) was not opened in this pass."
+    "The later course of the Oneida claim after 1985 (including City of Sherrill v. Oneida Indian Nation, 2005) was not opened in this pass.",
+    "Audit 2026-11-08: the County of Oneida breach said the Supreme Court 'affirmed the lower courts' liability ruling, sending the case back on damages'; the remand on damages was the Court of Appeals', and the Supreme Court affirmed in part and reversed the indemnification ruling, so the sentence now says that. The holding rests on the Nonintercourse Act and federal common law; the treaty is quoted as background, not held violated."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

@@ -1,0 +1,18 @@
+{
+  "id": "kappler-744",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Name, October 17, 1855, 11 Stat. 657, ratified April 15, 1856, proclaimed April 1856 against the OSU Kappler text.",
+    "Promises against Articles 3 (common hunting ground for ninety-nine years), 4, 7, 9 ($20,000 a year for ten years) and 10 (up to $15,000 a year for ten years).",
+    "ICC Docket 279 opinion, 1952 (pointer 183): 18 Stat. 28 and the Executive Order of August 19, 1874; 15,289,344 acres (Royce 399 and 574); 12,261,749.76 acres without compensation; $6,130,874.88.",
+    "ICC Docket 279-A opinion, March 31, 1967 (pointer 2749): $4,300,000 against $11,975,324.80, unconscionable on its face; Blackfeet Nation $11,125,606.40 subject to consideration and offsets; 25 Stat. 113."
+  ],
+  "changes": [
+    "Breach 1 now states the 15,289,344 acres the 1874 Act and order took, as the 1952 opinion records, instead of 'the southern part'.",
+    "Breach 2: removed the claim that the Commission found a 4,318,919-acre reduction; that figure is in a quoted argument, not a finding."
+  ],
+  "unverifiable": [
+    "The 1935 Court of Claims opinion (81 Ct. Cl. 101) itself was not opened; its findings come from the Commission's 1952 account."
+  ]
+}

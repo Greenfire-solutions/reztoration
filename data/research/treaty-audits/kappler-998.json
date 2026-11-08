@@ -1,0 +1,22 @@
+{
+  "id": "kappler-998",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Name, March 2, 1868, 15 Stat. 619 against the OSU Kappler text and 402 U.S. 159.",
+    "11 Ind. Cl. Comm. 180 (pointer 645): 1,441 claims by September 13, 1873; $8,500,000 as of April 29, 1874; $507,662.84 consideration; net $7,992,337.16 subject to offsets (stated).",
+    "Docket 327 Final Judgment (pointer 705): $7,908,586.16 on a stipulation; compromise settlement of offsets.",
+    "330 U.S. 169 (Cornell LII): the quote 'to dispossess the Utes of their reservation, and to remove them from Colorado' is exact; 21 Stat. 199.",
+    "402 U.S. 159 (Cornell LII): about 15.7 million acres; Brunot Cession of 3.7 million acres; 1950 consent settlements exceeded $31 million; White River and Uncompahgre Utes departed for Utah before 1882. The 1880 Act took the reservation this treaty created."
+  ],
+  "changes": [
+    "Breach 2 (1965 judgment) kind changed from claims-commission to litigation: entered on a stipulated compromise of offsets.",
+    "Breach 1: removed 'so grossly inadequate as to be unconscionable', which in the scan is the petitioner's contention.",
+    "Breach 3: 'within two years ... moved to Utah' replaced by the Court's wording, 'departed for Utah before 1882'.",
+    "An open question that said no nation account was recorded updated, since a Southern Ute account is in the file."
+  ],
+  "unverifiable": [
+    "Southern Ute history page not re-opened.",
+    "The Commission's own unconscionability sentence in 11 Ind. Cl. Comm. 180 is not legible in the OCR."
+  ]
+}

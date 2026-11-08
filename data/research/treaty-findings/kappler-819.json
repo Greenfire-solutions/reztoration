@@ -1,0 +1,63 @@
+{
+  "id": "kappler-819",
+  "name": "Treaty with the Sauk and Foxes, etc., 1861",
+  "aka": [
+    "Great Nemaha Agency treaty of March 6, 1861"
+  ],
+  "signed": "1861-03-06",
+  "ratified": "1863-02-06",
+  "proclaimed": "1863-03-26",
+  "citation": "12 Stat. 1171",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-and-foxes-etc-1861-0811",
+  "nations": [
+    "Sac and Fox of the Missouri (Sac and Fox Nation of Missouri in Kansas and Nebraska)",
+    "Báxoje (Iowa): Iowa Tribe of Kansas and Nebraska, Iowa Tribe of Oklahoma"
+  ],
+  "promises": [
+    "Articles 1 and 2: the Sac and Fox reserve of about 32,098 acres would be surveyed and sold at auction for no less than $1.25 an acre, and after expenses half the proceeds held in trust for the Sac and Fox at five percent interest.",
+    "Article 3: the Iowa ceded the part of their reserve west of Noheart's Creek as a permanent home for the Sac and Fox, in return for the other half of the net sale proceeds held in trust at five percent; the rest of the Iowa land stayed their exclusive reserve.",
+    "Article 5: $1,000 for a schoolhouse and teacher's house for the Sac and Fox and $200 a year for schooling, and $300 a year for Iowa schooling, while the President thought it advisable.",
+    "Article 7: no outsider could go on the reservations without a licence from the agent."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1966-02-28",
+      "what": "On an accounting, the Commission found and entered final judgment that the United States was liable to the Iowa for $2,000.08, the difference between the proceeds of the land sold under this treaty and the amount the Iowa actually received, with interest from October 1, 1871, a total of $10,807.01. The facts were stipulated at a 1965 hearing.",
+      "whoFoundIt": "Indian Claims Commission, Iowa Tribe et al. v. United States, Docket 79, Order, 16 Ind. Cl. Comm. 568",
+      "source": {
+        "title": "Iowa Tribe et al. v. United States, Docket 79, Order (February 28, 1966)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2311",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "compensation": "$2,000.08 with interest, $10,807.01 in all, by the final judgment of February 28, 1966 (Docket 79). Payment was not traced.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Sauk and Foxes, etc., 1861 (Kappler, vol. 2, p. 811)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-and-foxes-etc-1861-0811",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Iowa Tribe et al. v. United States, Docket 79, Order (February 28, 1966)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2311",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Iowa Tribe et al. v. United States, Docket 79, Opinion of the Commission (May 27, 1952)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/296",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The liability rests on facts the parties stipulated in 1965; the Commission entered it as a finding and final judgment. Jordan may want to decide whether that counts as a Commission finding (it is treated as one here).",
+    "Whether the Sac and Fox of the Missouri were paid their half of the sale proceeds in full was not traced; no Sac and Fox decision on this treaty was found in the collection.",
+    "Whether the Article 5 school money was spent was not researched.",
+    "No Iowa or Sac and Fox history page about this treaty was opened in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

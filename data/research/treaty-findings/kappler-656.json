@@ -1,13 +1,19 @@
 {
   "id": "kappler-656",
   "name": "Treaty with the Chippewa, 1854 (Treaty of La Pointe)",
-  "aka": ["Treaty of La Pointe (1854)", "1854 Treaty"],
+  "aka": [
+    "Treaty of La Pointe (1854)",
+    "1854 Treaty"
+  ],
   "signed": "1854-09-30",
   "ratified": "1855-01-10",
   "proclaimed": "1855-01-29",
   "citation": "10 Stat. 1109",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-1854-0648",
-  "nations": ["Ojibwe (Chippewa) of Lake Superior: L'Anse (Keweenaw Bay), Lac Vieux Desert, La Pointe (Bad River and Red Cliff), Lac du Flambeau, Lac Courte Oreilles, Fond du Lac, Grand Portage, Bois Forte", "Ojibwe (Chippewa) of the Mississippi"],
+  "nations": [
+    "Ojibwe (Chippewa) of Lake Superior: L'Anse (Keweenaw Bay), Lac Vieux Desert, La Pointe (Bad River and Red Cliff), Lac du Flambeau, Lac Courte Oreilles, Fond du Lac, Grand Portage, Bois Forte",
+    "Ojibwe (Chippewa) of the Mississippi"
+  ],
   "promises": [
     "Article 2: permanent reservations set apart and withheld from sale for the L'Anse and Vieux Desert, La Pointe, Lac du Flambeau, Lac Courte Oreilles, Fond du Lac and Grand Portage bands, with a later reservation for the Bois Forte (Article 12).",
     "Article 11: the Ojibwe would not be required to remove from the homes set apart for them, and those living in the ceded territory kept the right to hunt and fish there until otherwise ordered by the President.",
@@ -21,31 +27,64 @@
       "date": "1978-03-30",
       "what": "The Commission found the Lake Superior Ojibwe land ceded (Royce Area 332, in northeastern Minnesota) worth $3,250,000 on January 10, 1855, and held the treaty's promised consideration of $813,353.19 so grossly inadequate as to be unconscionable.",
       "whoFoundIt": "Indian Claims Commission, Minnesota Chippewa Tribe v. United States, Docket 18-U, 41 Ind. Cl. Comm. 249 (1978)",
-      "source": { "title": "Minnesota Chippewa Tribe v. United States, Docket 18-U, Opinion of the Commission, March 30, 1978", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2460", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+      "source": {
+        "title": "Minnesota Chippewa Tribe v. United States, Docket 18-U, Opinion of the Commission, March 30, 1978",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2460",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
     },
     {
       "kind": "nation-statement",
       "what": "The Ojibwe tribes' fish and wildlife commission states that its member tribes retained hunting, fishing and gathering rights in the treaties under which they ceded land, and that state governments aggressively denied those rights.",
       "whoFoundIt": "Great Lakes Indian Fish and Wildlife Commission (GLIFWC)",
-      "source": { "title": "Treaty Rights", "url": "https://www.glifwc.org/TreatyRights/", "publisher": "Great Lakes Indian Fish and Wildlife Commission" }
+      "source": {
+        "title": "Treaty Rights",
+        "url": "https://www.glifwc.org/TreatyRights/",
+        "publisher": "Great Lakes Indian Fish and Wildlife Commission"
+      }
     }
   ],
   "compensation": "Final award of $2,621,174.58 to the Chippewas of Lake Superior in Docket 18-U (March 30, 1978), after deducting $554,795.57 paid on the claim and $74,029.85 in gratuitous offsets from the $3,250,000 interlocutory award.",
   "today": "The reservations set apart in Article 2 are the homelands of the Bad River, Red Cliff, Lac du Flambeau, Lac Courte Oreilles, Keweenaw Bay, Lac Vieux Desert, Fond du Lac, Grand Portage and Bois Forte bands. In Lac Courte Oreilles v. Voigt (7th Cir. 1983) the court held that this treaty did not release the hunting, fishing and gathering rights reserved in 1837 and 1842.",
   "nationVoice": [
-    { "nation": "Great Lakes Indian Fish and Wildlife Commission (Ojibwe member tribes)", "summary": "The tribes say their rights in the ceded territories were retained in the treaties and were aggressively denied by the states.", "url": "https://www.glifwc.org/TreatyRights/" }
+    {
+      "nation": "Great Lakes Indian Fish and Wildlife Commission (Ojibwe member tribes)",
+      "summary": "The tribes say their rights in the ceded territories were retained in the treaties and were aggressively denied by the states.",
+      "url": "https://www.glifwc.org/TreatyRights/"
+    }
   ],
   "sources": [
-    { "title": "Treaty with the Chippewa, 1854 (Kappler)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-1854-0648", "publisher": "Oklahoma State University Libraries" },
-    { "title": "Minnesota Chippewa Tribe v. United States, Docket 18-U, Opinion, March 30, 1978", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2460", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Minnesota Chippewa Tribe v. United States, Docket 18-U, Final Award, March 30, 1978", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2326", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Lac Courte Oreilles Band v. Voigt, 700 F.2d 341 (7th Cir. 1983)", "url": "https://law.resource.org/pub/us/case/reporter/F2/700/700.F2d.341.78-2398.78-2443.79-1014.html", "publisher": "Public.Resource.Org" },
-    { "title": "Treaty Rights", "url": "https://www.glifwc.org/TreatyRights/", "publisher": "Great Lakes Indian Fish and Wildlife Commission" }
+    {
+      "title": "Treaty with the Chippewa, 1854 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-1854-0648",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Minnesota Chippewa Tribe v. United States, Docket 18-U, Opinion, March 30, 1978",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2460",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Minnesota Chippewa Tribe v. United States, Docket 18-U, Final Award, March 30, 1978",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2326",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Lac Courte Oreilles Band v. Voigt, 700 F.2d 341 (7th Cir. 1983)",
+      "url": "https://law.resource.org/pub/us/case/reporter/F2/700/700.F2d.341.78-2398.78-2443.79-1014.html",
+      "publisher": "Public.Resource.Org"
+    },
+    {
+      "title": "Treaty Rights",
+      "url": "https://www.glifwc.org/TreatyRights/",
+      "publisher": "Great Lakes Indian Fish and Wildlife Commission"
+    }
   ],
   "openQuestions": [
     "Article 11 hunting and fishing rights in the 1854 ceded territory of Minnesota (the Grand Portage, Bois Forte and Fond du Lac litigation and agreements of the late 1980s) were not researched.",
     "Loss of reservation land after allotment and the boundaries of the Lac Courte Oreilles and Lac du Flambeau reservations, left to be fixed later by the President (Article 2), were not researched.",
-    "Whether the Article 9 examination of arrears was carried out and paid was not checked."
+    "Whether the Article 9 examination of arrears was carried out and paid was not checked.",
+    "Audit 2026-11-08: Articles 4, 9 and 11, the Docket 18-U figures ($3,250,000 at January 10, 1855; $813,353.19 promised consideration; $554,795.57 and $74,029.85 deducted; $2,621,174.58) and the Voigt holding checked and held. The GLIFWC statement is a general one about the region's treaties, not specific to 1854, and is attributed as such."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

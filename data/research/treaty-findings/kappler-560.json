@@ -9,7 +9,7 @@
   "ratified": "1846-04-13",
   "proclaimed": "1846-04-15",
   "citation": "9 Stat. 842",
-  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-9/pdf/STATUTE-9-Pg842.pdf",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-kansa-tribe-1846-0552",
   "nations": [
     "Kaw (Kansa)"
   ],
@@ -60,6 +60,11 @@
   ],
   "sources": [
     {
+      "title": "Treaty with the Kansa Tribe, 1846 (Kappler, vol. 2, p. 552)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-kansa-tribe-1846-0552",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
       "title": "Treaty with the Kansas Indians, January 14, 1846, 9 Stat. 842",
       "url": "https://www.govinfo.gov/content/pkg/STATUTE-9/pdf/STATUTE-9-Pg842.pdf",
       "publisher": "U.S. Government Publishing Office, govinfo"
@@ -94,7 +99,8 @@
     "The OCR of the 1951 opinion once prints the 4,559,040-acre value as $2,823,616; the finding's 40 cents an acre and the $1,695,688.75 award both match $1,823,616.",
     "The same proceeding dismissed Docket 34, the claim for the 1825 cession, finding the Kaw had not proved exclusive use and occupancy and that the United States had not recognised their title in 1825; that belongs to kappler-230.",
     "A 1954 Commission opinion in Docket 33 (pointer 288) concerns a dispute over attorneys and the tribe's acceptance of the awards; not read in full.",
-    "The Kaw Nation's own account of this treaty was not looked for in this pass."
+    "The Kaw Nation's own account of this treaty was not looked for in this pass.",
+    "Audit 2026-11-08: treaty text, ratification (Apr. 13, 1846) and proclamation (Apr. 15, 1846) confirmed on the OSU Kappler page, now the textUrl because the govinfo PDF is an image scan with no text. Docket 33 and 35 figures held. The note that the Kaw Nation's account was not looked for is out of date: nationVoice now carries it."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

@@ -1,0 +1,17 @@
+{
+  "id": "kappler-109",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty header on OSU Kappler: Sept. 30, 1809, 7 Stat. 113, proclaimed Jan. 16, 1810; Articles 2 to 6 match the promises",
+    "ICC Dockets 253, 131, 314-D additional findings of 26 November 1969 (OSU id 2096, 22 Ind. Cl. Comm. 92): $18,728 total paid, $1,933,300 and $850,000 values on January 16, 1810, unconscionable, $1,919,535.20 and $845,125; Wea 549,081 acres, $686,400, $7,500 paid, $678,900",
+    "Area 71 2,095,688 acres and Area 72 547,630 acres; settlers on Area 72 in 1803 and 1804",
+    "Final award (OSU id 2633) lists $1,919,535.20, $845,125.00 and $678,900.00"
+  ],
+  "changes": [
+    "First breach: removed the computed 'under a cent an acre' and 'about 2.09 million acres'; stated the Commission's own per-area payments"
+  ],
+  "unverifiable": [
+    "Myaamia Center blog not re-opened"
+  ]
+}

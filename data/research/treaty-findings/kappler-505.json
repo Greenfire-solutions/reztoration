@@ -21,7 +21,7 @@
     {
       "kind": "litigation",
       "date": "1965-03-02",
-      "what": "The Sac and Fox claims for their share of Royce Area 151, whose interest the ICC found passed to the United States on February 16, 1838 under the treaties of October 21, 1837, were settled by a compromise net judgment of $1,131,533.42 in Docket 138, without a finding on whether the price was unconscionable. Of the $160,000 paid under this treaty, $149,800 was credited to the government against other Sac and Fox cessions.",
+      "what": "The Sac and Fox claims for their share of Royce Area 151, whose interest the ICC found passed to the United States on February 16, 1838, the date it gives for ratification of the treaties of October 21, 1837, were settled by a stipulated compromise: a net judgment of $1,131,533.42 in Docket 138, entered as $1,096,533.42 after a $35,000 offset settlement. The stipulation says the judgment is not an admission. Of the $160,000 paid under this treaty, $149,800 was credited to the government against Royce Cessions 175, 226, 244 and 262.",
       "whoFoundIt": "Indian Claims Commission, Dockets 11-A and 138, 15 Ind. Cl. Comm. 42 (1965)",
       "source": {
         "title": "Otoe and Missouria Tribe v. United States, Dockets 11-A and 138 et al., Additional Findings of Fact on Compromise Settlement of the Sac and Fox Claims (1965), 15 Ind. Cl. Comm. 42",
@@ -31,9 +31,15 @@
     }
   ],
   "landTaken": "The Missouri Sac and Fox interest in Royce Area 151 in western Iowa, held in common with the Otoe-Missouria, Omaha and Ioway (ICC, Dockets 11-A and 138).",
-  "compensation": "$160,000 under the treaty. The Sac and Fox tribes collectively accepted a $1,131,533.42 compromise for Area 151 in 1965.",
+  "compensation": "$160,000 under the treaty. In 1965 the three Sac and Fox tribes collectively settled their Area 151 claim by compromise for a net $1,131,533.42, entered as $1,096,533.42 after a $35,000 offset settlement (ICC Docket 138).",
   "today": "The Sac and Fox Nation of Missouri in Kansas and Nebraska is the successor of the Missouri band.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Sac and Fox Nation of Missouri in Kansas and Nebraska",
+      "summary": "The Nation's history page says the Treaty of 1837 moved the Sac and Fox Nation of Missouri across the Missouri River into Kansas, to the Great Nemaha reservation in Doniphan and Brown counties, and that its people lost most of their land and people over these years yet remain a proud and viable nation.",
+      "url": "https://sacandfoxks.com/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Sauk and Foxes, 1837 (Kappler, vol. 2, p. 497)",
@@ -44,13 +50,20 @@
       "title": "Otoe and Missouria Tribe v. United States, Dockets 11-A and 138 et al., Additional Findings of Fact on Compromise Settlement of the Sac and Fox Claims (1965), 15 Ind. Cl. Comm. 42",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/822",
       "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History Of The Tribe",
+      "url": "https://sacandfoxks.com/",
+      "publisher": "Sac and Fox Nation of Missouri in Kansas and Nebraska"
     }
   ],
   "openQuestions": [
     "The settlement allocates parts of the 1837 payment to Royce Areas 175, 226, 244 and 262 (Dockets 158, 209, 231 and 153); those areas may carry their own ICC findings, and Royce attaches only Area 151 to this id.",
     "Whether the guaranteed 5% income on $157,400 was paid was not researched.",
-    "The Sac and Fox Nation of Missouri's website returned no history page on 2026-11-07."
+    "The Sac and Fox Nation of Missouri's website returned no history page on 2026-11-07.",
+    "Audit 2026-11-08: added ratified 1838-02-16 from the ICC's finding 74 (15 Ind. Cl. Comm. 42), which gives that as the ratification date; the breach and compensation now give the $1,096,533.42 actually entered after offsets, and the unsourced phrase 'without a finding on whether the price was unconscionable' was replaced by the stipulation's own non-admission clause."
   ],
   "researchedAt": "2026-11-07",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "ratified": "1838-02-16"
 }

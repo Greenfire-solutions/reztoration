@@ -1,0 +1,17 @@
+{
+  "id": "kappler-364",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty header on OSU Kappler: Oct. 20, 1832, 7 Stat. 381, proclaimed Mar. 1, 1833; Articles III, IV, X, XI and XV match the promises (sale proceeds, quiet possession of reserved tracts, one year's provisions, at least three-fourths invested, intruders put off)",
+    "Kappler footnote 'This treaty appears not to have been ratified' sits after the supplementary signatures; the file already flags it",
+    "1852 Chickasaw treaty (OSU Kappler): 10 Stat. 974, Article 4 account of 1832 and 1834 treaty funds, matches 'compensation'",
+    "Chickasaw.tv 'Treaty of Pontotoc Creek': quote exact; Article 15 intrusion account; kind nation-statement and status contested are right"
+  ],
+  "changes": [
+    "'compensation': removed the unopened Court of Claims citation (22 Ct. Cl. 222) from the record; kept as an open lead"
+  ],
+  "unverifiable": [
+    "22 Ct. Cl. 222 and House Report 354 (45th Cong.) were not opened"
+  ]
+}

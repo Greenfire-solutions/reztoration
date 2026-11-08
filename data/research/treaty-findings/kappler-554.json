@@ -1,12 +1,18 @@
 {
   "id": "kappler-554",
   "name": "Treaty with the Sauk and Foxes, 1842",
-  "aka": ["Treaty of the Sac and Fox Agency (1842)", "New Purchase of 1842"],
+  "aka": [
+    "Treaty of the Sac and Fox Agency (1842)",
+    "New Purchase of 1842"
+  ],
   "signed": "1842-10-11",
   "proclaimed": "1843-03-23",
   "citation": "7 Stat. 596",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-and-foxes-1842-0546",
-  "nations": ["Sauk (Sac)", "Meskwaki (Fox)"],
+  "nations": [
+    "Sauk (Sac)",
+    "Meskwaki (Fox)"
+  ],
   "promises": [
     "In return for all Sauk and Fox land west of the Mississippi, interest of five per cent a year on $800,000, and payment of the tribes' listed debts of $258,566.34 (Article 2).",
     "The President to assign the tribes a tract on the Missouri River or its waters for a permanent and perpetual residence (Article 2, First).",
@@ -20,35 +26,72 @@
       "date": "1970-02-04",
       "what": "The Indian Claims Commission found that the Sauk and Fox share of Royce Area 262 (8,592,000 acres in central Iowa) was worth $12,028,800 when this treaty took effect on February 15, 1843, held that the consideration the tribes received was unconscionable, and awarded $10,601,282.66 after crediting payments under this treaty and an 1837 treaty.",
       "whoFoundIt": "Indian Claims Commission, Iowa Tribe et al. and Sac and Fox Tribe of Indians of Oklahoma et al. v. United States, Docket 153, Final Award (February 4, 1970), 22 Ind. Cl. Comm. 385",
-      "source": { "title": "Iowa Tribe et al. v. United States, Docket 153, Final Award (February 4, 1970)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1712", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
+      "source": {
+        "title": "Iowa Tribe et al. v. United States, Docket 153, Final Award (February 4, 1970)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1712",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
       "quote": "The consideration received by the Sac and Fox for their lands was unconscionable."
     },
     {
       "kind": "nation-statement",
       "date": "1842-10-11",
-      "what": "The Meskwaki Nation's chronology of the removal records that the Sauk and Fox refused earlier removal offers in 1840 and 1841, that settlers had moved onto their land before deadlines in earlier treaties expired, and that soldiers were sent in 1845 and 1846 to move those Meskwaki who had not left Iowa under this treaty.",
+      "what": "The Meskwaki Nation's chronology of the removal records that settlers crossed the Mississippi to squat on Sac and Fox land before the June 1, 1833 removal deadline of an earlier treaty, that removal treaty talks failed in 1840 and that the tribes refused an 1841 offer, and that dragoons were sent in 1845 and 1846 to escort Meskwaki who had not left Iowa under this treaty.",
       "whoFoundIt": "Meskwaki Nation, A Narrative of Chronology and Perspectives on the Removal and Return of the Meskwaki to Iowa, 1839-1857",
-      "source": { "title": "A Narrative of Chronology and Perspectives on the Removal and Return of the Meskwaki to Iowa, 1839-1857", "url": "https://www.meskwaki.org/wp-content/uploads/2021/03/Meskwaki-A-Narrative-of-Chronology-and-Perspectives.pdf", "publisher": "Meskwaki Nation" }
+      "source": {
+        "title": "A Narrative of Chronology and Perspectives on the Removal and Return of the Meskwaki to Iowa, 1839-1857",
+        "url": "https://www.meskwaki.org/wp-content/uploads/2021/03/Meskwaki-A-Narrative-of-Chronology-and-Perspectives.pdf",
+        "publisher": "Meskwaki Nation"
+      }
     }
   ],
   "landTaken": "Royce Area 262 contains 11,776,000 acres; the Commission found the Sauk and Fox held recognised title to 8,592,000 acres of it (262 North) and the Iowa Nation to the other 3,184,000 acres (Docket 153, Findings of Fact 15, 1970). The cession also covered any other Sauk and Fox land west of the Mississippi.",
   "compensation": "The Commission credited the United States with $1,341,446.34 under this treaty (including $800,000 as the value of the five per cent interest it treated as a perpetual annuity) and $86,071 under the Missouri Sauk and Fox treaty of October 21, 1837, and awarded the Sac and Fox Nation $10,601,282.66 on February 4, 1970.",
-  "today": "Some Meskwaki stayed in or returned to Iowa; Iowa passed a law in 1856 letting them remain, and they bought their first 80 acres in Tama County on July 13, 1857 (Meskwaki Nation history). The others are today the Sac and Fox Nation in Oklahoma and the Sac and Fox Nation of Missouri in Kansas and Nebraska.",
+  "today": "Some Meskwaki stayed in or returned to Iowa; Iowa passed a law in 1856 letting them remain, and they bought their first 80 acres in Tama County on July 13, 1857 (Meskwaki Nation history). Those removed went to a reservation in east-central Kansas (Meskwaki Nation history).",
   "nationVoice": [
-    { "nation": "Meskwaki Nation (Sac and Fox Tribe of the Mississippi in Iowa)", "summary": "The Meskwaki Nation's own chronology of the 1839-1857 removal and return gathers eyewitness, agency and government records of the 1842 negotiations, the removal under this treaty and the families who stayed or came back to Iowa.", "url": "https://www.meskwaki.org/wp-content/uploads/2021/03/Meskwaki-A-Narrative-of-Chronology-and-Perspectives.pdf" },
-    { "nation": "Meskwaki Nation (Sac and Fox Tribe of the Mississippi in Iowa)", "summary": "The Nation's history page says the Sauk and Meskwaki lost all their Iowa lands through a series of concessions by 1845 and were removed to Kansas, while an unbroken Meskwaki presence remained in Iowa.", "url": "https://www.meskwaki.org/history/" }
+    {
+      "nation": "Meskwaki Nation (Sac and Fox Tribe of the Mississippi in Iowa)",
+      "summary": "The Meskwaki Nation's own chronology of the 1839-1857 removal and return gathers eyewitness, agency and government records of the 1842 negotiations, the removal under this treaty and the families who stayed or came back to Iowa.",
+      "url": "https://www.meskwaki.org/wp-content/uploads/2021/03/Meskwaki-A-Narrative-of-Chronology-and-Perspectives.pdf"
+    },
+    {
+      "nation": "Meskwaki Nation (Sac and Fox Tribe of the Mississippi in Iowa)",
+      "summary": "The Nation's history page says the Sauk and Meskwaki lost all their Iowa lands through a series of concessions by 1845 and were removed to Kansas, while an unbroken Meskwaki presence remained in Iowa.",
+      "url": "https://www.meskwaki.org/history/"
+    }
   ],
   "sources": [
-    { "title": "Treaty with the Sauk and Foxes, 1842 (Kappler, vol. 2, p. 546)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-and-foxes-1842-0546", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
-    { "title": "Iowa Tribe et al. v. United States, Docket 153, Final Award (February 4, 1970)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1712", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Iowa Tribe et al. v. United States, Docket 153, Findings of Fact (February 4, 1970)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1400", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "A Narrative of Chronology and Perspectives on the Removal and Return of the Meskwaki to Iowa, 1839-1857", "url": "https://www.meskwaki.org/wp-content/uploads/2021/03/Meskwaki-A-Narrative-of-Chronology-and-Perspectives.pdf", "publisher": "Meskwaki Nation" },
-    { "title": "History", "url": "https://www.meskwaki.org/history/", "publisher": "Meskwaki Nation" }
+    {
+      "title": "Treaty with the Sauk and Foxes, 1842 (Kappler, vol. 2, p. 546)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-and-foxes-1842-0546",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Iowa Tribe et al. v. United States, Docket 153, Final Award (February 4, 1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1712",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Iowa Tribe et al. v. United States, Docket 153, Findings of Fact (February 4, 1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1400",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "A Narrative of Chronology and Perspectives on the Removal and Return of the Meskwaki to Iowa, 1839-1857",
+      "url": "https://www.meskwaki.org/wp-content/uploads/2021/03/Meskwaki-A-Narrative-of-Chronology-and-Perspectives.pdf",
+      "publisher": "Meskwaki Nation"
+    },
+    {
+      "title": "History",
+      "url": "https://www.meskwaki.org/history/",
+      "publisher": "Meskwaki Nation"
+    }
   ],
   "openQuestions": [
     "The queue lists Royce Areas 262, 419 and 494 for this id; 419 and 494 appear to be the Kansas lands assigned to the tribes after this treaty and ceded later (1859, 1867). Only Royce 262 was covered by the Docket 153 award.",
     "The Commission's opinion (pointer 2184) was read only in part; its reasons for treating the five per cent interest as a perpetual annuity worth $800,000 were not checked line by line.",
-    "The Meskwaki chronology quotes an 1846 account saying some fifteen hundred Sauk and Fox were still in Iowa after the removal deadline; that figure is the account's, not verified here."
+    "The Meskwaki chronology quotes an 1846 account saying some fifteen hundred Sauk and Fox were still in Iowa after the removal deadline; that figure is the account's, not verified here.",
+    "Audit 2026-11-08: Docket 153 figures, the quote and the treaty articles held. The nation-statement text was tightened to what the Meskwaki chronology actually says (squatters before the 1833 deadline, failed 1840 talks, refusal in 1841, dragoons in 1845-46). 'today' no longer names the Sac and Fox Nation of Missouri, which descends from the Missouri band (treaty of October 21, 1837), not from this treaty's parties, and the Oklahoma successor was not sourced in this file."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

@@ -9,15 +9,15 @@
   "proclaimed": "1853-03-25",
   "citation": "10 Stat. 979",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-apache-1852-0598",
-  "area": "Apache country in New Mexico Territory, east and west of the Rio Grande (present New Mexico and Arizona); it ceded no land, so Royce has no cession for it.",
+  "area": "Apache country in New Mexico Territory (present New Mexico and Arizona); the treaty ceded no land, so Royce has no cession for it.",
   "presentDayTribes": [
     "Fort Sill Apache Tribe of Oklahoma",
     "Mescalero Apache Tribe of the Mescalero Reservation, New Mexico",
     "Jicarilla Apache Nation, New Mexico"
   ],
   "nations": [
-    "Chiricahua Apache (Mangas Coloradas signed at Acoma on July 11, 1852)",
-    "Apache bands east of the Rio Grande (chiefs Cuentas Azules, Blancito, Negrito, Capitan Simon and Capitan Vuelta)"
+    "Chiricahua Apache (Mangas Coloradas, a Chiricahua chief per the Indian Claims Commission, signed; his signing was witnessed separately by Bvt. Capt. John Pope)",
+    "Apache bands led by the other signing chiefs, Capitan Vuelta, Cuentas Azules, Blancito, Negrito and Capitan Simon"
   ],
   "promises": [
     "Article 9: the United States would, at its earliest convenience, designate, settle and adjust the Apaches' territorial boundaries.",
@@ -40,9 +40,9 @@
       "quote": "this obligation was never carried out by the United States"
     },
     {
-      "kind": "claims-commission",
+      "kind": "litigation",
       "date": "1971-08-25",
-      "what": "Final judgment of $15,967,300 to the Fort Sill Apache Tribe and the Chiricahua plaintiffs for their aboriginal lands (Dockets 30-A and 48-A), entered on a stipulation.",
+      "what": "Final judgment of $15,967,300.00 to the Fort Sill Apache Tribe and the Chiricahua plaintiffs on their claims in Dockets 30-A and 48-A, entered on a stipulation of the parties adopted by the Commission. A stipulated judgment is not a finding of breach; the finding is the 1968 one above.",
       "whoFoundIt": "Indian Claims Commission, Final Judgment, Dockets 30, 48, 30-A and 48-A (1971)",
       "source": {
         "title": "Fort Sill Apache Tribe of Oklahoma et al. v. United States, Dockets 30, 48, 30-A, 48-A, Final Judgment (1971)",
@@ -51,7 +51,7 @@
       }
     }
   ],
-  "compensation": "No land payment under this treaty. The Chiricahua claims for their aboriginal lands ended in a $15,967,300 judgment in 1971 (Dockets 30-A and 48-A).",
+  "compensation": "No land payment under this treaty. The Chiricahua claims for their aboriginal lands ended in a $15,967,300.00 judgment entered on a stipulation in 1971 (Dockets 30-A and 48-A).",
   "today": "The Chiricahua removal and the revocation of their reservation are recorded under cession-1876-10-30-apache. The Fort Sill Apache Tribe says it has since acquired small pieces of land in its home territory in New Mexico and Arizona.",
   "nationVoice": [
     {
@@ -84,7 +84,8 @@
   ],
   "openQuestions": [
     "Which present-day nations descend from the five eastern signers was not settled; the Mescalero and Jicarilla are listed as likely, not confirmed.",
-    "The 1855 Meriwether treaties with the Mescalero and Gila Apache, never ratified, are in the OSU database and may deserve extra- files."
+    "The 1855 Meriwether treaties with the Mescalero and Gila Apache, never ratified, are in the OSU database and may deserve extra- files.",
+    "Audit 2026-11-08: the 1971 final judgment was changed from 'claims-commission' to 'litigation' because it was entered on a stipulation; the 1968 finding (Finding 10(e) and Finding 11) still carries the broken status. The statement that Mangas Coloradas signed at Acoma on July 11, 1852, and the description of the other signers as bands east of the Rio Grande, were removed: neither the treaty text nor the ICC findings opened say so."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

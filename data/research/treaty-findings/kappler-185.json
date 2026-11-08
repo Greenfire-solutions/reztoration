@@ -1,0 +1,65 @@
+{
+  "id": "kappler-185",
+  "name": "Treaty with the Cherokee, 1819",
+  "aka": [
+    "Calhoun Treaty of 1819"
+  ],
+  "signed": "1819-02-27",
+  "proclaimed": "1819-03-10",
+  "citation": "7 Stat. 195",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1819-0177",
+  "nations": [
+    "Cherokee (Tsalagi): Cherokee Nation, Eastern Band of Cherokee Indians, United Keetoowah Band"
+  ],
+  "promises": [
+    "Article 1: the cession was in full satisfaction of the claims of the United States arising from the 1817 treaty, and the treaty was a final adjustment of it.",
+    "Articles 1 and 4: a tract twelve miles square on the Tennessee River and the reservations in Article 2 of the 1805 Tellico treaty were ceded to the United States in trust for the Cherokee Nation as a school fund, to be surveyed and sold like public lands, with the proceeds invested for Cherokee education.",
+    "Articles 2 and 3: 640-acre reservations for Cherokee heads of family in the ceded country who chose to stay and become citizens, and for named persons.",
+    "Article 5: leases on land kept by the Cherokee were void, and all white people who intruded on Cherokee land would be removed by the United States.",
+    "Article 7: the United States would keep its citizens off the ceded land until January 1 of the next year so Cherokee families could raise their crops."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "government-admission",
+      "date": "1895-01-07",
+      "what": "In an accounting of money due the Cherokee Nation under its treaties, sent to Congress by the Secretary of the Interior, the government stated that the three Tellico reservation tracts ceded in trust by this treaty for the school fund were never sold for that purpose, were confirmed to citizens of Tennessee, and that the Cherokee Nation derived no benefit from them. It stated that their value, $2,125 at $1.25 an acre for 1,700 acres, with interest from February 27, 1819, was due to the Nation.",
+      "whoFoundIt": "Secretary of the Interior Hoke Smith, Moneys Due the Cherokee Nation, House Ex. Doc. No. 182, 53rd Congress, 3rd Session",
+      "source": {
+        "title": "Moneys Due the Cherokee Nation, House Ex. Doc. No. 182, 53rd Cong., 3rd Sess. (1895)",
+        "url": "https://www.govinfo.gov/content/pkg/SERIALSET-03323_00_00-033-0182-0000/pdf/SERIALSET-03323_00_00-033-0182-0000.pdf",
+        "publisher": "US Government Publishing Office, Serial Set"
+      },
+      "quote": "they were not so sold and the Cherokee Nation has derived no benefit whatever from the cession"
+    }
+  ],
+  "compensation": "The same 1895 accounting reports that of the 93,938.16 acres in the twelve-mile-square school tract, 67,657.63 acres had been sold by April 1, 1894, for $106,383.20, added to the Cherokee school fund. Whether the $2,125 with interest was ever paid was not found.",
+  "today": "The 1895 accounting was made under the agreement of December 19, 1891, ratified March 3, 1893, and was transmitted with an act of the Cherokee national council accepting it.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Cherokee, 1819 (Kappler, vol. 2, p. 177)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1819-0177",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Moneys Due the Cherokee Nation, House Ex. Doc. No. 182, 53rd Cong., 3rd Sess. (1895)",
+      "url": "https://www.govinfo.gov/content/pkg/SERIALSET-03323_00_00-033-0182-0000/pdf/SERIALSET-03323_00_00-033-0182-0000.pdf",
+      "publisher": "US Government Publishing Office, Serial Set"
+    },
+    {
+      "title": "Worcester v. Georgia, 31 U.S. 515 (1832)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/31/515",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    }
+  ],
+  "openQuestions": [
+    "Whether the $2,125 due for the three Tellico tracts, with interest from 1819, was paid (for example in the Cherokee judgments that followed) was not traced.",
+    "The same 1895 document reprints a Senate resolution promising $35,568 for the unsold balance of the twelve-mile-square tract; it notes no action was taken on it. Its date and fate were not traced.",
+    "Worcester v. Georgia (1832) lists this treaty among those Georgia's laws were said to violate, and Justice McLean's concurrence recites Article 5 on removing intruders. The Court held Georgia's law void; it made no finding that the United States broke this treaty, so it is not counted here.",
+    "No Indian Claims Commission decision dealing with this treaty was found. The Eastern Band's Dockets 282-A to 282-L (treaties of 1785 to 1835) ended in a $1,855,254.50 compromise in 1972 that does not separate the treaties.",
+    "Whether the United States removed intruders under Article 5 was not researched."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

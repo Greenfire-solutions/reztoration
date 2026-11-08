@@ -1,0 +1,41 @@
+{
+  "id": "cession-1884-03-20-sioux",
+  "name": "Executive order of March 20, 1884 restoring the last of the 1875 and 1876 Sioux additions to the public domain",
+  "aka": [
+    "Restoration of the agency tracts, 1884"
+  ],
+  "signed": "1884-03-20",
+  "textUrl": "https://www.law.cornell.edu/supremecourt/text/316/317",
+  "nations": [
+    "Lakota, Dakota and Nakota (Oceti Sakowin) of the Great Sioux Reservation",
+    "Cheyenne River Sioux Tribe",
+    "Standing Rock Sioux Tribe"
+  ],
+  "promises": [
+    "This order made no promise to the Sioux. It restored to the public domain the three small tracts opposite the Cheyenne, Grand River and Standing Rock agencies kept back in 1879, as 'no longer needed for the purpose for which they were withdrawn' (as quoted in 316 U.S. 317)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce Area 653, the remainder of the tract described as Royce Area 614 (Royce schedule).",
+  "compensation": "None. The Supreme Court held in 1942 that none was owed (316 U.S. 317).",
+  "today": "In Sioux Tribe of Indians v. United States, 316 U.S. 317 (decided 1942-05-11), the Sioux sued for some 5 1/2 million acres taken by the restoring orders of 1879 and 1884. The Supreme Court affirmed the Court of Claims in denying recovery, holding that these executive order additions gave the Sioux no compensable interest. That ruling went against the nation and is recorded here, not as a breach.",
+  "sources": [
+    {
+      "title": "Sioux Tribe of Indians v. United States, 316 U.S. 317 (1942)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/316/317",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
+      "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+      "publisher": "Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The order's text was read through Royce's schedule and the Supreme Court's account of it; the UGA scan linked in treaties.json returned 403.",
+    "No tribal statement about the 1875 and 1876 additions east of the Missouri was found."
+  ],
+  "nationVoice": [],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

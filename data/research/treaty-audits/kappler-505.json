@@ -1,0 +1,18 @@
+{
+  "id": "kappler-505",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty name, date Oct. 21, 1837, 7 Stat. 543 and proclamation Feb. 21, 1838 against the OSU Kappler page.",
+    "Promises against Articles 1 and 2 of the OSU text: $160,000, $157,400 invested at not less than 5%, blacksmith $1,000, farmer $1,600, school $770, balance $4,500.",
+    "ICC 15 Ind. Cl. Comm. 42 (OSU id 822): interest in Area 151 passed Feb. 16, 1838; compromise net judgment $1,131,533.42 in Docket 138; $149,800 of the 7 Stat. 543 payment credited to Royce Cessions 175, 226, 244 and 262; kind litigation is right for a stipulated settlement."
+  ],
+  "changes": [
+    "Breach text: added the $1,096,533.42 judgment entered after the $35,000 offset settlement and the non-admission clause; removed the unsourced 'without a finding' wording.",
+    "Added ratified 1838-02-16 from the ICC findings.",
+    "Compensation reworded to match the ICC."
+  ],
+  "unverifiable": [
+    "The source misprints $149,800 once as $140,800; the file keeps $149,800, which the stipulation states first."
+  ]
+}

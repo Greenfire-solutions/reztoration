@@ -34,7 +34,7 @@
     {
       "kind": "claims-commission",
       "date": "1970-02-11",
-      "what": "The Commission entered a final award of $340,250 to the Kickapoo Tribe of Kansas on behalf of the Kickapoo Tribe.",
+      "what": "On the parties' stipulation to postpone the government's offsets for gratuities after 2 January 1810 and enter final judgment, the Commission entered a final award of $340,250 to the Kickapoo Tribe of Kansas on behalf of the Kickapoo Tribe.",
       "whoFoundIt": "Indian Claims Commission, Kickapoo Tribe of Kansas v. United States, Docket 317, Final Award (22 Ind. Cl. Comm. 443)",
       "source": {
         "title": "Kickapoo Tribe of Kansas v. United States, Docket 317, Final Award (1970)",
@@ -83,7 +83,8 @@
   "openQuestions": [
     "The Kappler text gives the proclamation date as 'Mar. 8,' with the year cut off in the OSU page.",
     "A web search for the Kickapoo Tribe in Kansas, Kickapoo Tribe of Oklahoma and Kickapoo Traditional Tribe of Texas accounts of this treaty found no tribal page; a nation statement is still wanted.",
-    "Whether the Greenville hunting rights extended by Article 3 were respected was not researched."
+    "Whether the Greenville hunting rights extended by Article 3 were respected was not researched.",
+    "Audit 2026-11-08: the second breach now says the final award was entered on a stipulation (offsets postponed), per the award text (OSU id 2317). The stipulation did not change the amount found in the 1969 findings; the 1969 findings remain the finding of unconscionability."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

@@ -51,7 +51,7 @@
     {
       "kind": "litigation",
       "date": "1980-10-09",
-      "what": "Congress let the Three Affiliated Tribes (Mandan, Hidatsa and Arikara) sue for the taking, in violation of the Fifth Amendment, of the 9,846,186.93 acres defined as their territory in this treaty, land the Court of Claims had valued in 1930 at an average of 50 cents an acre, $4,923,093.47.",
+      "what": "Congress, setting aside time limits and res judicata, let the Three Affiliated Tribes (Mandan, Hidatsa and Arikara) sue in the Court of Claims for damages for delay in payment for the 9,846,186.93 acres defined as their territory in this treaty, lands its title calls 'claimed to be taken in violation of the United States Constitution', which the Court of Claims had valued in 1930 at an average of 50 cents an acre, $4,923,093.47.",
       "whoFoundIt": "Public Law 96-404, 94 Stat. 1711, referring to Fort Berthold Indians v. United States, 71 Ct. Cl. 308 (1930)",
       "source": {
         "title": "Public Law 96-404, 94 Stat. 1711 (October 9, 1980)",
@@ -125,7 +125,8 @@
     "The Indian Claims Commission determined the Sioux, Crow and other nations held recognised title under this treaty (Sioux Tribe v. United States, 1965 and 1969; Crow Tribe v. United States, 1954); those title decisions are not themselves findings of breach.",
     "The Commission's 1958 award to the Crow for the 1868 cession of land recognised as theirs by this treaty is recorded under kappler-1016.",
     "No account of this treaty by a signatory nation was located in this pass.",
-    "The ICC's 1968 findings also record a Fort Buford reservation of 98,645.67 acres set up by executive order on August 18, 1868 inside the tribes' 1851 territory."
+    "The ICC's 1968 findings also record a Fort Buford reservation of 98,645.67 acres set up by executive order on August 18, 1868 inside the tribes' 1851 territory.",
+    "Audit 2026-11-08: Public Law 96-404 breach reworded; the act authorises a suit over lands 'claimed to be' taken, and does not itself find a violation, so it stays litigation. Other figures (9,846,186.93 acres; $4,923,093.47; Dec. 1, 1930; 1880 executive order restoring Royce Area 620; Fort Buford 98,645.67 acres) checked and held. The note that no signatory nation's account was located is out of date: the MHA Nation history page is cited."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

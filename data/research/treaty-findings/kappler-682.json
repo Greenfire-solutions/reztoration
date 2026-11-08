@@ -1,13 +1,20 @@
 {
   "id": "kappler-682",
   "name": "Treaty with the S'Klallam, 1855 (Treaty of Point No Point)",
-  "aka": ["Treaty of Point No Point", "Treaty of Hahdskus"],
+  "aka": [
+    "Treaty of Point No Point",
+    "Treaty of Hahdskus"
+  ],
   "signed": "1855-01-26",
   "ratified": "1859-03-08",
   "proclaimed": "1859-04-29",
   "citation": "12 Stat. 933",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-sklallam-1855-0674",
-  "nations": ["S'Klallam (nəxʷsƛ̕ay̕əm̕): Port Gamble, Jamestown and Lower Elwha", "Twana (Skokomish)", "Chemakum"],
+  "nations": [
+    "S'Klallam (nəxʷsƛ̕ay̕əm̕): Port Gamble, Jamestown and Lower Elwha",
+    "Twana (Skokomish)",
+    "Chemakum"
+  ],
   "promises": [
     "Article 2 reserved six sections, 3,840 acres, at the head of Hood Canal for the tribes' exclusive use, closed to white residents without permission.",
     "Article 4 secured the right of taking fish at usual and accustomed grounds and stations in common with all citizens, with hunting and gathering on open and unclaimed lands.",
@@ -47,17 +54,6 @@
         "title": "Washington v. Washington State Commercial Passenger Fishing Vessel Assn., 443 U.S. 658 (1979)",
         "url": "https://www.law.cornell.edu/supremecourt/text/443/658",
         "publisher": "Legal Information Institute, Cornell Law School"
-      }
-    },
-    {
-      "kind": "court-ruling",
-      "date": "2018-06-11",
-      "what": "In the culvert proceeding of the same case, the courts held that Washington violated the Stevens treaties' fishing clause by building and keeping road culverts that block salmon; an equally divided Supreme Court affirmed the Ninth Circuit.",
-      "whoFoundIt": "United States v. Washington, 853 F.3d 946 (9th Cir. 2017), affirmed by an equally divided Court, Washington v. United States, 584 U.S. 837 (2018)",
-      "source": {
-        "title": "Washington v. United States, No. 17-269, per curiam, June 11, 2018",
-        "url": "https://hallapproved.com/us/cases/supreme/2018/4505998/",
-        "publisher": "HallApproved (from CourtListener bulk data)"
       }
     },
     {
@@ -132,7 +128,8 @@
   "openQuestions": [
     "The 1970 S'Klallam decision itself (23 Ind. Cl. Comm. 510) was not opened; its findings are taken from the Commission's 1976 restatement. The 1976 motion turned on whether $15,000 or $39,180 was paid.",
     "The Port Gamble S'Klallam history mentions a 1925 settlement of $400,000; its legal basis was not identified and it is not recorded as compensation here.",
-    "The list of tribes in the culvert proceeding was not confirmed from the Ninth Circuit opinion, which could not be opened."
+    "The list of tribes in the culvert proceeding was not confirmed from the Ninth Circuit opinion, which could not be opened.",
+    "Audit 2026-11-08: removed the 2018 culvert breach. Neither the CRS sidebar nor the Ninth Circuit opinion (853 F.3d 946, read through the copy the researcher cited) names the Treaty of Point No Point or its tribes; they speak of 'the Stevens Treaties' and 'the Tribes', and the only treaty named is Medicine Creek. It was carried over from a sibling file. If the Port Gamble, Lower Elwha, Jamestown or Skokomish tribes are shown to be plaintiffs in the culvert subproceeding, it can come back. The CRS report stays as context. The 1979 Fishing Vessel ruling does name this treaty (12 Stat. 933) and the Port Gamble, Lower Elwha and Skokomish tribes, so it stays. ICC figures held."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

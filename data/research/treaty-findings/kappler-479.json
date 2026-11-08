@@ -1,0 +1,48 @@
+{
+  "id": "kappler-479",
+  "name": "Treaty with the Potawatomi, 1836 (Mo-sack's band)",
+  "aka": [
+    "Treaty of Chippewanaung, September 22, 1836"
+  ],
+  "signed": "1836-09-22",
+  "proclaimed": "1837-02-16",
+  "citation": "7 Stat. 514",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1836-0471",
+  "nations": [
+    "Bodéwadmi (Potawatomi), Mo-sack's band of the Wabash Potawatomi"
+  ],
+  "promises": [
+    "Article 2: the United States would pay Mo-sack and his band $3,200 on or before the next May 1 for four sections of land reserved to them by the Tippecanoe River treaty of October 27, 1832.",
+    "Article 3: the band would remove within two years to the country west of the Mississippi provided for the Potawatomi.",
+    "Article 4: a commissioner would pay the band's proven debts out of the $3,200.",
+    "Article 5: the United States would pay the expenses of making the treaty."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "A 1972 dissent in the Potawatomi land claims (Dockets 29-D and 29-E) lists this treaty among thirteen made between 1834 and 1837 with Wabash Potawatomi village bands for their village reserves, and states that the reserves ceded by them were never tribal lands; the dissent says the majority agreed they were not tribal lands afterwards. No Commission award for these reserves was found.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Potawatomi, 1836 (Kappler, vol. 2, p. 471)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1836-0471",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Hannahville Indian Community et al. v. United States, Dockets 29-D and 29-E, Order Denying Defendant's Motion to Dismiss, Part 1 (March 28, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1335",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
+      "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+      "publisher": "Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json names this entry for Masac's band and Mota's band. The September 22, 1836 treaty is with Mo-sack (Masac); Royce lists a separate cession by Mota and his band of four sections reserved in 1832, which may be the treaty of September 23, 1836 (7 Stat. 515). Which one the map polygon draws was not checked.",
+    "Whether the $3,200 was paid, and what happened to the band on removal, was not traced.",
+    "No nation history about this band's treaty was found; the Citizen Potawatomi Nation and the Prairie Band are successors to the Potawatomi who removed west."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

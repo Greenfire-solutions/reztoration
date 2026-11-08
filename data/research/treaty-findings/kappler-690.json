@@ -53,17 +53,6 @@
         "url": "https://www.law.cornell.edu/supremecourt/text/443/658",
         "publisher": "Legal Information Institute, Cornell Law School"
       }
-    },
-    {
-      "kind": "court-ruling",
-      "date": "2018-06-11",
-      "what": "In the culvert proceeding of the same case, the courts held that Washington violated the Stevens treaties' fishing clause by building and keeping road culverts that block salmon; an equally divided Supreme Court affirmed the Ninth Circuit.",
-      "whoFoundIt": "United States v. Washington, 853 F.3d 946 (9th Cir. 2017), affirmed by an equally divided Court, Washington v. United States, 584 U.S. 837 (2018)",
-      "source": {
-        "title": "Washington v. United States, No. 17-269, per curiam, June 11, 2018",
-        "url": "https://hallapproved.com/us/cases/supreme/2018/4505998/",
-        "publisher": "HallApproved (from CourtListener bulk data)"
-      }
     }
   ],
   "landTaken": "The cession described in Article 1. The parties stipulated in 1973 a value of $107,377 for the ceded land, less $20,197 for ceded land later returned to the Makah (ICC Docket 60-A, 1976 opinion).",
@@ -123,11 +112,6 @@
       "publisher": "Congressional Research Service"
     },
     {
-      "title": "Washington v. United States, No. 17-269 (2018)",
-      "url": "https://hallapproved.com/us/cases/supreme/2018/4505998/",
-      "publisher": "HallApproved (from CourtListener bulk data)"
-    },
-    {
       "title": "History",
       "url": "https://makah.com/makah-tribal-info/about-history/",
       "publisher": "Makah Tribe"
@@ -141,7 +125,8 @@
   "openQuestions": [
     "How Docket 60-A ended after the 1977 rehearing order (a 1978 order certified a question to the Court of Claims) was not traced; no final award amount is recorded.",
     "The Ninth Circuit culvert opinion itself could not be opened; that the culvert proceeding is part of United States v. Washington and concerns the Stevens treaties is taken from the Congressional Research Service report and the Ninth Circuit's 2017 order denying rehearing en banc (864 F.3d 1017). The list of tribes in the culvert proceeding was not confirmed.",
-    "The Makah Tribe's own published account of the treaty was not found on makah.com in this pass. Whaling litigation (Metcalf v. Daley, Anderson v. Evans) was not researched."
+    "The Makah Tribe's own published account of the treaty was not found on makah.com in this pass. Whaling litigation (Metcalf v. Daley, Anderson v. Evans) was not researched.",
+    "Audit 2026-11-08: removed the 2018 culvert breach. The Ninth Circuit opinion (853 F.3d 946) and the CRS sidebar speak only of 'the Stevens Treaties' and 'the Tribes' and name no treaty but Medicine Creek, so the ruling is not tied to the Treaty of Neah Bay or the Makah by any source opened; it was carried over from a sibling file. It can return if the Makah are shown to be a party to the culvert subproceeding. The 1979 Fishing Vessel ruling names the Treaty of Neah Bay and the Makah and stays. Docket 60-A figures ($265.40; $29,734.60; $107,377 less $20,197) and the Commission's 'breach per se' holding held. A Makah account is now in nationVoice."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

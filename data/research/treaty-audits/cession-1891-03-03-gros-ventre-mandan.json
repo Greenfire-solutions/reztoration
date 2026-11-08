@@ -1,0 +1,20 @@
+{
+  "id": "cession-1891-03-03-gros-ventre-mandan",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Act of March 3, 1891, ch. 543, sec. 23, 26 Stat. 1032-1035, opened on govinfo: agreement of December 14, 1886; Article I cession north of the 48th parallel and west of a line six miles west of the big bend; Article II $80,000 a year for ten years; Articles III, IV, VI and VII; Congress's rewrite of Article VI on ratification.",
+    "ICC Docket 350-A opinion of October 29, 1968 (OSU id 2708): 1,782,831.64 acres, the July 13, 1880 executive order tract, value $2,585,105.88 at an average $1.45 an acre on March 3, 1891, $800,000 unconscionable on its face (quote exact), judgment $1,785,105.88 subject to offsets. All figures quoted, not computed.",
+    "Final judgment for Dockets 350-A, 350-E and 350-H, June 18, 1969 (OSU id 2590, 21 Ind. Cl. Comm. 92): $1,850,000.00 by compromise; recorded correctly as litigation.",
+    "Docket 350-C opinion of January 2, 1975 (OSU id 1566): aboriginal title extinguished when Congress acted in the Act of March 3, 1891, effective May 20, 1891."
+  ],
+  "changes": [
+    "Docket 350-C breach: kind changed from claims-commission to litigation and reworded; it fixes the extinguishment date of land outside the reservation and is not a finding that this agreement was broken.",
+    "Removed the unsourced $6,500,000 settlement of Docket 350-C (kept as a lead).",
+    "Article VI promise corrected: Congress changed it on ratification."
+  ],
+  "unverifiable": [
+    "The MHA Nation history page was not re-opened.",
+    "Status stays broken on the Docket 350-A unconscionable-consideration finding."
+  ]
+}

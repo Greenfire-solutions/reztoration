@@ -59,6 +59,11 @@
       "title": "Bay Mills Indian Community v. United States, Docket 18-R, Final Award (December 26, 1973)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/958",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "European Settlement, Story Of Our People",
+      "url": "https://www.saulttribe.com/history-a-culture/story-of-our-people/95-european-settlement",
+      "publisher": "Sault Ste. Marie Tribe of Chippewa Indians"
     }
   ],
   "openQuestions": [
@@ -66,5 +71,12 @@
     "No nation statement about this treaty was found in this pass."
   ],
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "nationVoice": [
+    {
+      "nation": "Sault Ste. Marie Tribe of Chippewa Indians",
+      "summary": "The Tribe's Story of Our People says that in the 1820 Treaty of Sault Ste. Marie the Anishinaabeg at the Sault ceded 16 square miles along the St. Marys River so the United States could build Fort Brady.",
+      "url": "https://www.saulttribe.com/history-a-culture/story-of-our-people/95-european-settlement"
+    }
+  ]
 }

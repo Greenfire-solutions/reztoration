@@ -35,7 +35,7 @@
     {
       "kind": "court-ruling",
       "date": "1908-02-24",
-      "what": "Under a 1906 act letting the Sisseton and Wahpeton recover the annuities due under this treaty as if the 1863 forfeiture had not been passed, less payments chargeable against them, the Court of Claims stated an account and entered judgment for a balance; the Supreme Court affirmed, holding that large set-offs for depredation damages and support were properly charged.",
+      "what": "Under a 1906 act letting the Sisseton and Wahpeton recover the annuities due under this treaty as if the 1863 forfeiture had not been passed, less payments chargeable against them, the Court of Claims stated an account and entered judgment for a balance. Both sides appealed; the Supreme Court affirmed with one correction, upholding the charging of support and other gratuities against the bands.",
       "whoFoundIt": "United States v. Sisseton and Wahpeton Bands of Sioux Indians, 208 U.S. 561 (1908)",
       "source": {
         "title": "United States v. Sisseton and Wahpeton Bands of Sioux Indians, 208 U.S. 561 (1908)",
@@ -46,7 +46,7 @@
     {
       "kind": "litigation",
       "date": "1967-06-29",
-      "what": "Before the Indian Claims Commission the Sisseton and Wahpeton bands (Docket 142) and the Mdewakanton and Wahpekute (Dockets 359-363) established recognised title to Royce Area 289 at the 1851 treaties (1962); their claims were then settled by compromise for a net $12,250,000 for all the dockets, without a finding on the price.",
+      "what": "Before the Indian Claims Commission the Sisseton and Wahpeton bands (Docket 142) and the Mdewakanton and Wahpekute (Dockets 359-363) established recognised title to Royce Area 289 as of the 1851 treaties (1962); their claims, except a general accounting claim in Docket 363, were then settled by a stipulated compromise for final judgments in the net amount of $12,250,000 for all the dockets.",
       "whoFoundIt": "Indian Claims Commission, Sisseton and Wahpeton Bands v. United States, Docket 142 et al., Interlocutory Order (January 12, 1962) and Order Approving Compromise Settlement (June 29, 1967)",
       "source": {
         "title": "Sisseton and Wahpeton Bands et al. v. United States, Dockets 142, 359-363, Interlocutory Order Approving Compromise Settlement (June 29, 1967)",
@@ -130,7 +130,8 @@
   "openQuestions": [
     "The 1863 act's preamble gives Congress's reasons in its own words (the 1862 war); the record here states the act's effect, not its characterisation. The Court of Claims found it impossible to determine which members of these bands stayed loyal (39 Ct. Cl. 172, as reported in 208 U.S. 561).",
     "The Senate's amendment striking the Article 3 reservation, and whether the bands' assent to it was freely given, is a lead for a deeper pass.",
-    "The Sisseton-Wahpeton Oyate's website showed no history page to an automated reader in this pass, so the nation's own account is not linked yet."
+    "The Sisseton-Wahpeton Oyate's website showed no history page to an automated reader in this pass, so the nation's own account is not linked yet.",
+    "Audit 2026-11-08: the 1863 act's quote and effect, the 1908 decision and the 1962 and 1967 ICC orders checked. The 1908 breach text now says both sides appealed and the judgment was affirmed with a correction; the litigation text drops the unsourced 'without a finding on the price' and notes the Docket 363 accounting claim was left out of the settlement. The OSU catalog dates the 1967 order July 29; its own text reads June 29, 1967, which the file keeps."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

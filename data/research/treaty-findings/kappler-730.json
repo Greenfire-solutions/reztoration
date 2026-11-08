@@ -1,13 +1,20 @@
 {
   "id": "kappler-730",
   "name": "Treaty with the Flatheads, etc., 1855 (Hellgate Treaty)",
-  "aka": ["Treaty of Hell Gate", "Treaty with the Flathead, Kootenay, and Upper Pend d'Oreilles, 1855"],
+  "aka": [
+    "Treaty of Hell Gate",
+    "Treaty with the Flathead, Kootenay, and Upper Pend d'Oreilles, 1855"
+  ],
   "signed": "1855-07-16",
   "ratified": "1859-03-08",
   "proclaimed": "1859-04-18",
   "citation": "12 Stat. 975",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-flatheads-etc-1855-0722",
-  "nations": ["Séliš (Bitterroot Salish)", "Ql̓ispé (Upper Pend d'Oreille)", "Ksanka (Kootenai)"],
+  "nations": [
+    "Séliš (Bitterroot Salish)",
+    "Ql̓ispé (Upper Pend d'Oreille)",
+    "Ksanka (Kootenai)"
+  ],
   "promises": [
     "Article 2 reserved the Jocko (Flathead) reservation for the confederated tribes' exclusive use and benefit, closed to white residents without permission.",
     "Article 3 secured the exclusive right of taking fish in streams through or bordering the reservation, fishing at all usual and accustomed places in common with citizens, and hunting, gathering and pasturing on open and unclaimed land.",
@@ -28,9 +35,9 @@
       }
     },
     {
-      "kind": "claims-commission",
+      "kind": "litigation",
       "date": "1966-08-05",
-      "what": "Final judgment of $4,431,622.18 for the Confederated Salish and Kootenai Tribes on the cession claim, after a stipulation on offsets.",
+      "what": "Final judgment of $4,431,622.18 for the Confederated Salish and Kootenai Tribes on the cession claim, entered on a compromise settlement stipulated by the parties.",
       "whoFoundIt": "Indian Claims Commission, Docket 61, Final Judgment, August 5, 1966",
       "source": {
         "title": "Confederated Salish and Kootenai Tribes v. United States, Docket No. 61, Final Judgment, August 5, 1966",
@@ -41,7 +48,7 @@
     {
       "kind": "act-of-congress",
       "date": "1904-04-23",
-      "what": "After the tribes refused to agree to cede part of the reservation, Congress passed the Act of April 23, 1904 to allot the Flathead Reservation and sell the 'surplus' land to settlers. The Court of Claims held the opening was a taking under the Fifth Amendment, in part because substantial proceeds were diverted to benefit non-Indians, and awarded $6,066,668.78 with interest as part of just compensation.",
+      "what": "After a federal commission tried from 1896 to 1901 to obtain the tribes' agreement to cede part of the reservation and failed, Congress passed the Act of April 23, 1904 to allot the Flathead Reservation and sell the \"surplus\" land. The Court of Claims held the lands disposed of were taken within the meaning of the Fifth Amendment, found the diversion of proceeds to others inconsistent with a good faith effort to pay full value, and awarded $6,066,668.78 plus interest as part of just compensation.",
       "whoFoundIt": "Act of April 23, 1904, 33 Stat. 302, as found by the Court of Claims in Confederated Salish and Kootenai Tribes v. United States, 437 F.2d 458 (Ct. Cl. 1971)",
       "source": {
         "title": "Confederated Salish and Kootenai Tribes of the Flathead Reservation v. United States, 437 F.2d 458 (Ct. Cl. 1971)",
@@ -106,7 +113,9 @@
   "openQuestions": [
     "Article 11 (the Bitterroot Valley) and the removal of the Bitterroot Salish to the Jocko reservation in 1891 were not traced to a finding in this pass; the 1872 Garfield agreement and its disputed signature should be researched.",
     "The Confederated Salish and Kootenai Tribes' own website (cskt.org) blocked automated access; the nation's voice here comes from a submitted article in the Tribes' newspaper and should be replaced with an official CSKT account if one is available.",
-    "Whether the 1971 Court of Claims judgment was paid, and in what amount with interest, was not found."
+    "Whether the 1971 Court of Claims judgment was paid, and in what amount with interest, was not found.",
+    "Audit 2026-11-08: the 1966 final judgment changed from claims-commission to litigation, because it was entered on a compromise settlement (Docket 61, Final Judgment, August 5, 1966). The 1965 finding of unconscionable consideration stands.",
+    "Audit 2026-11-08: the 1904 breach reworded; the Court of Claims says the 1896-1901 efforts to secure the tribes' agreement \"failed\", not that the tribes refused."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

@@ -1,0 +1,51 @@
+{
+  "id": "cession-1879-01-16-shoshoni-northwestern-bands",
+  "name": "Executive order of January 16, 1879 (Carlin Farms reservation cancelled)",
+  "aka": [
+    "Cancellation of the Carlin Farms reserve"
+  ],
+  "signed": "1879-01-16",
+  "textUrl": "https://www.presidency.ucsb.edu/node/371405",
+  "nations": [
+    "Newe (Western Shoshone), Te-Moak bands, who farmed at Carlin (per the Indian Claims Commission)",
+    "The 1877 order names the \"Northwestern Shoshone Indians\""
+  ],
+  "promises": [
+    "This order made no promise. It revoked the order of May 10, 1877 that had set apart the Carlin Farms as a reservation and restored the lands to their original status."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "The Carlin Farms reservation, about 521.61 acres by the 1877 order, was restored to the public domain (Royce).",
+  "today": "The Indian Claims Commission, ruling on offsets in the Western Shoshone claim in 1977, found that Western Shoshone had settled and farmed at Carlin, that some refused to move to the Duck Valley reservation created in 1877, and that cattle provided to the Ruby Valley Western Shoshone were moved to Carlin. It recorded Chief Temoak's reply when asked to move there: \"If you move my country, I go too. Have my ground here, I can't move.\" The Commission did not rule on the cancellation itself.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Executive Order: Cancelling Carlin Farms (January 16, 1879)",
+      "url": "https://www.presidency.ucsb.edu/node/371405",
+      "publisher": "The American Presidency Project, UC Santa Barbara"
+    },
+    {
+      "title": "Executive Order: Defining Carlin Farms Boundaries (May 10, 1877)",
+      "url": "https://www.presidency.ucsb.edu/documents/executive-order-defining-carlin-farms-boundaries",
+      "publisher": "The American Presidency Project, UC Santa Barbara"
+    },
+    {
+      "title": "Western Shoshone Identifiable Group v. United States, Docket 326-K, Opinion of the Commission (August 15, 1977)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2763",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
+      "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+      "publisher": "Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "Decision for Jordan: this is a reservation revoked by executive order without any record of consent or payment, but no court, Commission, Congress or government admission was found calling it a breach of a treaty, so it stays \"no breach found yet\". The Ruby Valley treaty of 1863 (Article VI, reservations for the Western Shoshone) is the treaty to research to settle it.",
+    "Whether the Western Shoshone award in Docket 326-K (land valued as of July 1, 1872) included the Carlin Farms acreage was not checked.",
+    "The order names the \"Northwestern Shoshone Indians\"; no source was found placing Northwestern Shoshone at Carlin. Nothing from the Fort Bridger or Box Elder treaties is attributed here.",
+    "No Te-Moak or other Western Shoshone page about Carlin Farms was found."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -81,8 +81,9 @@
   ],
   "openQuestions": [
     "The Court of Claims opinion (179 Ct. Cl. 473) was not opened directly; its holding is taken from the Commission's 1973 opinion. Its exact decision date was not found, so only the year is given.",
-    "Whether the perpetual $16,000 annuity and the salt were paid as promised was not traced; the Commission noted the annuity was paid pro rata to all Potawatomi for years after 1843.",
-    "No nation statement about this treaty was found."
+    "Whether the perpetual $16,000 annuity and the salt were paid as promised was not traced.",
+    "No nation statement about this treaty was found.",
+    "Audit 2026-11-08: removed the statement that 'the Commission noted the annuity was paid pro rata to all Potawatomi for years after 1843'; it was not found in the 1962 opinion (OSU id 726) or the 1973 opinion (OSU id 1345). The ratification date of 30 December 1829 is confirmed by the 1962 opinion."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

@@ -33,9 +33,9 @@
       }
     },
     {
-      "kind": "claims-commission",
+      "kind": "litigation",
       "date": "1973-10-17",
-      "what": "Final award of $1,225,000 to the Confederated Tribes of the Warm Springs Reservation, entered on a stipulated settlement.",
+      "what": "Final award of $1,225,000 to the Confederated Tribes of the Warm Springs Reservation, entered on the parties' Stipulation for Entry of Final Judgment, a settlement.",
       "whoFoundIt": "Indian Claims Commission, Docket 198, Final Award, October 17, 1973",
       "source": {
         "title": "Confederated Tribes of the Warm Springs Reservation of Oregon v. United States, Docket No. 198, Final Award, October 17, 1973",
@@ -94,7 +94,8 @@
   ],
   "openQuestions": [
     "The 1865 supplementary treaty (Huntington treaty), by which the bands were recorded as giving up off-reservation fishing and travel rights, was not researched; Docket 198-A was dismissed in 1970 and its subject was not read.",
-    "The flooding of Celilo Falls and other Columbia fishing sites by dams, and Columbia River fishing cases (Sohappy v. Smith / United States v. Oregon), were not researched in this pass."
+    "The flooding of Celilo Falls and other Columbia fishing sites by dams, and Columbia River fishing cases (Sohappy v. Smith / United States v. Oregon), were not researched in this pass.",
+    "Audit 2026-11-08: the 1973 final award changed from claims-commission to litigation, because the Commission entered it on a stipulated settlement (Docket 198, Final Award, October 17, 1973). The 1972 finding of unconscionable consideration stands as the claims-commission finding."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

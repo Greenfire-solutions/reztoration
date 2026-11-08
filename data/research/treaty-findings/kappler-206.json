@@ -58,7 +58,7 @@
   ],
   "landTaken": "Royce Area 117 in southwestern Michigan and northern Indiana; the Commission found 2,857,494 acres in the Potawatomi part and 1,140,740 acres in the Ottawa part (1964 findings).",
   "compensation": "Potawatomi: consideration $108,499.20, final award $2,296,870.70 (1974). Grand River Ottawa: consideration $32,337.33; a final judgment of $932,620.01 was entered on 27 March 1968 in Docket 40-K after the parties compromised the offsets only.",
-  "today": "The Commission's 1958 title decision found the Grand River Ottawa held the northern part of Area 117 and the St. Joseph Band of Potawatomi the southern part (as recited in the 1964 opinion in Docket 29-K). The Michigan reserves made by Article 2 were ceded by the Potawatomi in 1827 and 1833.",
+  "today": "The Commission's 1958 title decision found the Grand River Ottawa held the northern part of Area 117 and the St. Joseph Band of Potawatomi the southern part (as recited in the 1964 opinion in Docket 29-K). The Commission's 1972 findings in Dockets 71 et al. say the small reservations and village sites reserved in 1821 were ceded back by the Potawatomi in 1827 and 1833; the 1827 treaty (7 Stat. 305) names four of the five Article 2 reserves (Mang-ach-qua, Mick-ke-saw-be, Prairie Ronde and Match-e-be-nash-she-wish's village).",
   "nationVoice": [
     {
       "nation": "Gun Lake Tribe (Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians)",
@@ -101,11 +101,22 @@
       "title": "Our Heritage",
       "url": "https://gunlaketribe-nsn.gov/about/heritage/",
       "publisher": "Gun Lake Tribe"
+    },
+    {
+      "title": "Treaty with the Potawatomi, 1827 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1827-0283",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 71 et al., Findings of Fact, Part 1 (1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1240",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
     }
   ],
   "openQuestions": [
     "The final award text is dated 19 April 1974; the collection index dates it 19 May 1974.",
-    "Payments under the Potawatomi annuity were not traced."
+    "Payments under the Potawatomi annuity were not traced.",
+    "Audit 2026-11-08: 'today' said the Article 2 reserves were ceded in 1827 and 1833 with no source for it; it now cites the Commission's 1972 findings in Dockets 71 et al. (OSU id 1240), which say so, and the 1827 treaty text, which names four of the five reserves."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

@@ -1,0 +1,50 @@
+{
+  "id": "cession-1877-05-10-shoshoni-northwestern-bands",
+  "name": "Executive order of May 10, 1877 (Carlin Farms reservation set apart)",
+  "aka": [
+    "Carlin Farms reserve"
+  ],
+  "signed": "1877-05-10",
+  "textUrl": "https://www.presidency.ucsb.edu/documents/executive-order-defining-carlin-farms-boundaries",
+  "nations": [
+    "Newe (Western Shoshone), Te-Moak bands, who farmed at Carlin (per the Indian Claims Commission)",
+    "The order itself names the \"Northwestern Shoshone Indians\""
+  ],
+  "promises": [
+    "President Hayes set apart a tract of about 521.61 acres in Nevada, known as the Carlin Farms, as a reservation, described by surveyed posts."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The reservation was cancelled by executive order of January 16, 1879 and the lands restored to their original status (see the separate entry for that order). In 1977 the Indian Claims Commission found that the Nevada agent and the farmer for the Western Shoshone chose Carlin Farms for the Western Shoshone, that Western Shoshone were farming there, that officials' correspondence mentions no use by Northwestern Shoshone, and that the order's failure to mention the Western Shoshone was inadvertent.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Executive Order: Defining Carlin Farms Boundaries (May 10, 1877)",
+      "url": "https://www.presidency.ucsb.edu/documents/executive-order-defining-carlin-farms-boundaries",
+      "publisher": "The American Presidency Project, UC Santa Barbara"
+    },
+    {
+      "title": "Executive Order: Cancelling Carlin Farms (January 16, 1879)",
+      "url": "https://www.presidency.ucsb.edu/node/371405",
+      "publisher": "The American Presidency Project, UC Santa Barbara"
+    },
+    {
+      "title": "Western Shoshone Identifiable Group v. United States, Docket 326-K, Opinion of the Commission (August 15, 1977)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2763",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
+      "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+      "publisher": "Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The order names the \"Northwestern Shoshone Indians\". The Northwestern Band's own treaty is Box Elder (1863); no source was found that Northwestern Shoshone lived at Carlin, and the Commission found the reserve was used by Western Shoshone. The map's nation label for this entry may need changing.",
+    "The 1977 Commission opinion gives the order's date as May 16, 1877, citing 1 Kappler 865; the order on the American Presidency Project and Royce give May 10, 1877, which is used here.",
+    "Royce says Carlin Farms was set apart under the authority of the Ruby Valley treaty of October 1, 1863, which provided for reservations for the Western Shoshone; that treaty is not in this batch.",
+    "The order's own acreage (521.61 acres) differs from the Commission's description of a tract of \"a few hundred to 1,000 acres\"."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

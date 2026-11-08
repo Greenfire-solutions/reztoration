@@ -1,0 +1,16 @@
+{
+  "id": "kappler-289",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Treaty header on OSU Kappler: Aug. 11, 1827, 7 Stat. 303, proclaimed Feb. 23, 1829",
+    "Articles 1 to 5 match the promises: Chippewa southern boundary from the Plover Portage; dispute with the New York Indians referred to the President; Green Bay tract acknowledged to the United States with the President able to change the boundaries without enlarging it; $15,682 in goods; $1,000 for three years then $1,500 for education",
+    "Senate proviso protecting New York Indian rights, quoted in the Kappler note, matches 'today'",
+    "ICC collection search for 'menominee' and 'menomonee' returns 0 decisions, as the file says"
+  ],
+  "changes": [],
+  "unverifiable": [
+    "govinfo Statutes at Large PDF not re-opened",
+    "Court of Claims Menominee cases not searched (outside this audit's sources)"
+  ]
+}

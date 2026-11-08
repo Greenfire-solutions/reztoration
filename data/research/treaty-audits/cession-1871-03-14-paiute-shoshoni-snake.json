@@ -1,0 +1,13 @@
+{
+  "id": "cession-1871-03-14-paiute-shoshoni-snake",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce schedule: the order of March 14, 1871 withdrew for eighteen months the country between 42 and 44 degrees north and 117 and 120 degrees west to select the Malheur reservation.",
+    "Royce remark under cession 537: the withdrawn country outside the reserve was relinquished on September 12, 1872; part of it was added back by the order of May 15, 1875 and relinquished again on January 28, 1876 and May 21, 1883. 'today' and landTaken match.",
+    "Docket 17 orders and opinions (OSU ids 32, 54, 469, 513) opened; they concern the reservation set apart in 1872, as 'today' says.",
+    "Royce area 537 matches treaties.json; no-breach-found is consistent."
+  ],
+  "changes": [],
+  "unverifiable": []
+}

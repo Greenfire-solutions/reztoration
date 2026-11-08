@@ -1,0 +1,16 @@
+{
+  "id": "kappler-579",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty date Aug. 6, 1848, 9 Stat. 949, ratified Jan. 8, 1849; Articles 1 to 3 against the OSU Kappler text.",
+    "ICC Docket 10 additional findings, June 14, 1960 (OSU id 404): Claim III area of 110,419 acres held by original title, valued as of Aug. 6, 1848 at ninety cents an acre; $2,000 consideration for land worth $99,380 unconscionable.",
+    "ICC final award, July 6, 1962 (OSU id 293): $97,380 on Claim III; total $7,315,985.70."
+  ],
+  "changes": [
+    "Promise 1 and landTaken: the tract spans the Platte from its southern shore to the bluffs north of it, not 'south of the Platte'."
+  ],
+  "unverifiable": [
+    "The Pawnee Portal Wayback capture was not reopened in this audit."
+  ]
+}

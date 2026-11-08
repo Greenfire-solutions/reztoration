@@ -1,0 +1,17 @@
+{
+  "id": "kappler-764",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Name, August 7, 1856, 11 Stat. 699 against the OSU Kappler text; Article IV at 11 Stat. 700 as McGirt cites it.",
+    "McGirt v. Oklahoma (Cornell LII): quotes Article IV of the 1856 treaty; the quote 'it's equally clear that Congress has since broken more than a few of its promises to the Tribe.' is exact; Curtis Act section 28, 30 Stat. 504-505 abolished tribal courts and transferred pending cases.",
+    "Oklahoma Historical Society, Curtis Act entry.",
+    "ICC Docket 21, 2 Ind. Cl. Comm. 98 (pointer 346): the land ceded under the 1856 treaty was worth more than the $1,000,000 paid, so nothing was received for the release of the Fort Jackson claim; the release held no bar on the ground of unconscionable consideration."
+  ],
+  "changes": [
+    "Curtis Act breach: source changed to McGirt (primary judicial reading); presidential approval of tribal legislation removed, since McGirt ties it to the 1901 Creek Agreement (31 Stat. 872)."
+  ],
+  "unverifiable": [
+    "The Curtis Act statute text (30 Stat. 495) was not opened."
+  ]
+}

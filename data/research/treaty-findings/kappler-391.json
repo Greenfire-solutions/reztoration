@@ -1,0 +1,50 @@
+{
+  "id": "kappler-391",
+  "name": "Treaty with the Seneca and Shawnee, 1832",
+  "aka": [
+    "Treaty with the United Nation of Senecas and Shawnees"
+  ],
+  "signed": "1832-12-29",
+  "proclaimed": "1833-03-22",
+  "citation": "7 Stat. 411",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-and-shawnee-1832-0383",
+  "nations": [
+    "Seneca of Sandusky and the mixed band of Seneca and Shawnee of Lewistown, Ohio, who formed the United Nation of Senecas and Shawnees"
+  ],
+  "promises": [
+    "Article 1: the United Nation of Senecas and Shawnees gave up the land granted to them west of the Neosho (Grand) River by the treaties of 1831.",
+    "Article 2: the United States would grant them by letters patent, in fee simple, a tract east of the Neosho between the Missouri line and the Cherokee line, 60,000 acres plus the Sandusky Seneca land, not to be sold without the consent of the United States.",
+    "Article 3: the United States would build a grist mill, saw mill and blacksmith shop.",
+    "Article 4: the United States would pay $1,000 for removal losses."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce Areas 498 to 504, attached to this id, are cessions from these lands under the treaty of February 23, 1867, assigned to the Wyandot, the Peoria and confederated tribes, and the Ottawa (Royce schedule).",
+  "today": "No court, Claims Commission or government finding on this treaty or on the 1867 cession of its lands was located. The Commission transferred Seneca-Cayuga Dockets 341-A to D to the Court of Claims on September 29, 1978, when only attorney expense applications were pending in them.",
+  "sources": [
+    {
+      "title": "Treaty with the Seneca and Shawnee, 1832",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-and-shawnee-1832-0383",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
+      "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+      "publisher": "Internet Archive"
+    },
+    {
+      "title": "Seneca-Cayuga Tribe of Oklahoma v. United States, Order Certifying and Transferring Cases to the Court of Claims (1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2724",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The Royce areas on this id were ceded in 1867, not 1832; the queue's scheduleTribes list the tribes later assigned the land, not the parties to this treaty.",
+    "What Dockets 341-A to D claimed and how they were decided was not traced.",
+    "No Seneca-Cayuga Nation or Eastern Shawnee Tribe account of this treaty was found.",
+    "Which present-day nations succeed the Lewistown band (the queue lists Seneca-Cayuga and Shawnee tribes) was not confirmed from a nation's own source."
+  ],
+  "nationVoice": [],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

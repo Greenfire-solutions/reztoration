@@ -22,7 +22,7 @@
     {
       "kind": "claims-commission",
       "date": "1960-01-22",
-      "what": "The Indian Claims Commission found that the 617,967.4 acres ceded were worth an average of 75 cents an acre on January 26, 1836, when the treaty took effect, and that the $80,000 paid was an unconscionable consideration. It made an interlocutory award of $383,475.55, the difference, less any offsets.",
+      "what": "The Indian Claims Commission found that the 617,967.4 acres ceded were worth an average of 75 cents an acre on January 26, 1836, when the treaty took effect, and that the $80,000 paid under Article 3 was an unconscionable consideration.",
       "whoFoundIt": "Indian Claims Commission, Docket 226, interlocutory order of January 22, 1960, 8 Ind. Cl. Comm. 391",
       "source": {
         "title": "Caddo Tribe of Oklahoma v. United States, Docket 226, Interlocutory Order (1960)",
@@ -43,7 +43,7 @@
     }
   ],
   "landTaken": "617,967.4 acres in north-western Louisiana and south-western Arkansas, as found by the Indian Claims Commission (Docket 226, 1960).",
-  "compensation": "$80,000 under the treaty. The ICC found the land worth about $463,475 (75 cents an acre) and entered final judgment for $383,475.55 in 1977.",
+  "compensation": "$80,000 under the treaty. The Commission found the land worth an average of 75 cents an acre; its total value in the 1960 order is unreadable in the scan. Final judgment of $383,475.55 for the 1835 cession was entered in 1977, with no offsets.",
   "today": "Removed beyond the then US border into Texas, the Caddo were later moved to a Texas reservation and in 1859 to the Wichita Reservation in present Oklahoma (ICC, 19 Ind. Cl. Comm. 385). The Caddo Nation is headquartered in Binger, Oklahoma.",
   "nationVoice": [
     {
@@ -92,7 +92,8 @@
   "openQuestions": [
     "The OCR of the 1960 order is damaged: it reads both 611,967.4 and 617,967.4 acres and a land value of '$b53,475.55'. The figures used here (617,967.4 acres, $0.75 an acre, about $463,475.55, award $383,475.55 after the $80,000 paid) are consistent with each other and with the 1977 final award, but the page image was not checked.",
     "Caddo claims to lands in Texas and Oklahoma were dismissed for failure of proof in 1955 (4 Ind. Cl. Comm. 214).",
-    "No Caddo Nation page on this treaty could be opened (caddo.org/history did not load on 2026-11-07)."
+    "No Caddo Nation page on this treaty could be opened (caddo.org/history did not load on 2026-11-07).",
+    "Audit 2026-11-08: removed the land value 'about $463,475' and the description of $383,475.55 as a 1960 interlocutory award 'the difference': the 1960 order prints the value as '$b53,475.55' and its award line is not legible, so both were the researcher's arithmetic (617,967.4 x $0.75, less $80,000). $383,475.55 is now cited only from the 1977 final award, where it is printed clearly. The 1960 page image is still worth checking."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

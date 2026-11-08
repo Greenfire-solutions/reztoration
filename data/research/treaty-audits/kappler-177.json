@@ -1,0 +1,20 @@
+{
+  "id": "kappler-177",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty header on OSU Kappler: Oct. 2, 1818, 7 Stat. 186, proclaimed Jan. 7, 1819; Articles 1 to 5 match the promises (Raccoon Creek reservation, two sections, Article 4 sanction of the Kickapoo cession, $1,850 added annuity)",
+    "ICC Docket 314 Amended additional findings of 29 July 1963 (OSU id 650, 12 Ind. Cl. Comm. 392): $937,250 award, $34,478.16 consideration, $2,294.54 and $24,000 offsets, net $876,477.30",
+    "ICC opinion of 18 April 1961 (OSU id 467) and interlocutory order (OSU id 598): $937,250 'additional compensation' for the 1818 Wea cession within Area 99",
+    "Order Amending Final Order, 7 May 1965 (OSU id 865): Court of Claims affirmed on March 12, 1965, Appeal No. 12-63",
+    "Dockets 99, 314-C, 317 findings (OSU id 2276): Area 74 valued at $1.50 as of January 7, 1819; unconscionable; $351,750 less $2,000",
+    "Docket 314-E findings (OSU id 2704): Area 114 is 27,330.66 acres"
+  ],
+  "changes": [
+    "First breach: replaced the unsourced reporter citation 169 Ct. Cl. 1009 with the affirmance date and appeal number from the Commission's 1965 order; described the $937,250 as an interlocutory award of additional compensation",
+    "Added sources OSU id 865 and OSU id 2704"
+  ],
+  "unverifiable": [
+    "The decision that first set the $937,250 award was not located; its legal basis is still unconfirmed"
+  ]
+}

@@ -16,7 +16,7 @@
   "promises": [
     "Article I: the three nations ceded the part of the Fort Berthold Reservation north of the 48th parallel and the part west of a line six miles west of the big bend of the Missouri, keeping the rest.",
     "Article II: $80,000 a year for ten years, spent at the Secretary of the Interior's direction for the nations' benefit.",
-    "Articles IV and VI: allotments and the remaining tribal land held in trust for 25 years and then patented to the allottees and the tribes free of all charge.",
+    "Article IV: allotments held in trust for 25 years and then patented to the allottees free of all charge. Article VI as signed put the remaining land in trust for 25 years and then patent to the tribes in common; in ratifying, Congress rewrote it so the residue 'shall be held by the said tribes of Indians as a reservation', subject to the tribes' acceptance of the change.",
     "Article VII: the nations' wishes to be consulted and to govern, as far as practicable, how the money was spent, with tribal members preferred for agency jobs."
   ],
   "status": "broken",
@@ -34,9 +34,9 @@
       "quote": "petitioner received consideration of $800,000, which is unconscionable on its face in comparison with the value of the land"
     },
     {
-      "kind": "claims-commission",
+      "kind": "litigation",
       "date": "1975-01-02",
-      "what": "The Indian Claims Commission held that the nations' aboriginal title to a large tract north and east of the Missouri, outside the reservation, was extinguished by Congress through this Act on May 20, 1891, and ordered the land valued as of that date. The claim (Docket 350-C) was then settled for $6,500,000 in 1976.",
+      "what": "The Indian Claims Commission held that the nations' aboriginal title to a large tract outside the reservation was extinguished by Congress through this Act, which took effect on May 20, 1891, and ordered the case to proceed. That is a ruling on the date and means of extinguishment of land this agreement did not secure, not a finding that the agreement was broken.",
       "whoFoundIt": "Indian Claims Commission, Docket 350-C, 35 Ind. Cl. Comm. 269 (1975)",
       "source": {
         "title": "Three Affiliated Tribes v. United States, Docket 350-C, Opinion of the Commission (1975), 35 Ind. Cl. Comm. 269",
@@ -105,7 +105,9 @@
   ],
   "openQuestions": [
     "Royce lists two areas (712 and 713) under this id; 713 appears to be the remaining reservation later opened under the 1910 Act (Docket 350-F), which this file does not cover.",
-    "How the 1969 compromise was divided among the three dockets was not found."
+    "How the 1969 compromise was divided among the three dockets was not found.",
+    "Lead: the researcher wrote that Docket 350-C was settled for $6,500,000 in 1976; no source for that was cited, so it was removed from the breach until the judgment is opened.",
+    "Audit 2026-11-08: the Docket 350-C ruling was changed from 'claims-commission' to 'litigation' because it fixed the date Congress extinguished aboriginal title outside the reservation, not a breach of this agreement; the unsourced $6,500,000 settlement was removed; the Article VI promise now records Congress's change to it on ratification (26 Stat. 1035)."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

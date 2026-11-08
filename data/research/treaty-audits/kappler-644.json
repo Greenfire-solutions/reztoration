@@ -1,0 +1,16 @@
+{
+  "id": "kappler-644",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Treaty date May 30, 1854, 10 Stat. 1082, ratified Aug. 2, proclaimed Aug. 10, 1854; Articles 1, 2 and 8 against the OSU Kappler text.",
+    "ICC Docket 65 findings and opinion, Mar. 17, 1965 (OSU ids 669, 811), 15 Ind. Cl. Comm. 123: sales June 24 to July 13, 1857; 207,758.85 acres; $346,671.09 realized; $2.50 an acre, $519,397.13; $172,726.04; no interest; the Commission finds the Article 4 auction was not carried out.",
+    "ICC final award, Aug. 4, 1965 (OSU id 818): $829.14 offset, net $171,896.90."
+  ],
+  "changes": [
+    "Audit note added to openQuestions."
+  ],
+  "unverifiable": [
+    "Article 4 text itself was summarised from the ICC's quotation; the OSU page's Article 4 was not separately captured."
+  ]
+}

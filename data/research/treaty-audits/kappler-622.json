@@ -1,0 +1,19 @@
+{
+  "id": "kappler-622",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty date May 6, 1854, 10 Stat. 1048, ratified July 11, proclaimed July 17, 1854; Articles 2, 3, 7 and 12 against the OSU Kappler text.",
+    "ICC Dockets 72 and 298 findings and final award, Sept. 10, 1969 (OSU ids 1194, 2294): defendant conceded no public auction; breach of duty; 557,955 acres; $2,443,516 value; $1,057,898.19 realized; $1,385,617.81; 5% from Apr. 30, 1857; $9,168,171.13 to Aug. 31, 1969.",
+    "Delaware Tribal Business Committee v. Weeks, 430 U.S. 73, decided Feb. 23, 1977 (Cornell LII): quote exact.",
+    "ICC Dockets 27-A and 241: 1959 interlocutory order (OSU id 271), 1971 opinion and final award (OSU ids 2345, 1435): $10,000 unconscionable; gross $607,980; $150,000 payment; $22,106.14 offsets; $435,873.86."
+  ],
+  "changes": [
+    "Outlet breach now states the 1959 unconscionability holding and cites it; $150,000 described as a payment on the claim.",
+    "Weeks source moved from FindLaw (blocked) to Cornell LII.",
+    "Two ICC sources added."
+  ],
+  "unverifiable": [
+    "The 1959 order's scan prints the Outlet value inconsistently ($517,980, $617,980, $637,980); the file uses $617,980 from the 1971 opinion's restatement, which matches the $607,980 gross award plus the $10,000 paid."
+  ]
+}

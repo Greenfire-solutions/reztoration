@@ -1,0 +1,13 @@
+{
+  "id": "cession-1875-05-15-paiute-shoshoni",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce schedule: the order of May 15, 1875 added a tract from the Malheur river north on the range line between ranges 39 and 40 east to a point east of Strawberry butte, then to Strawberry butte, Castle rock and the North Fork; the promise matches.",
+    "Royce remark: the 1876 reservation was composed of all of the 1872 reserve and a portion of the 1875 addition; portions of the addition relinquished January 28, 1876 and May 21, 1883.",
+    "ICC Docket 17 second interlocutory order of April 15, 1959 (OSU id 32): $579,722.00 less offsets for lands taken January 1879; the additional findings (id 54) tie the land to the 1876 boundaries.",
+    "Royce area 589 matches treaties.json; the file already says only the part kept in 1876 is covered by the finding."
+  ],
+  "changes": [],
+  "unverifiable": []
+}

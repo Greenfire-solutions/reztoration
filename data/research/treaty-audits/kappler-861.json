@@ -1,0 +1,18 @@
+{
+  "id": "kappler-861",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Name, October 2, 1863, 13 Stat. 667, ratified March 1, 1864 against the OSU Kappler text.",
+    "Promises against Articles 3 ($20,000 a year for twenty years, up to $5,000 reserved), 5 and 8 (160-acre homesteads).",
+    "9 Ind. Cl. Comm. 457 (pointer 174): award of $3,369,726; $512,518.43 treaty-date value of consideration; $699,061.57 gratuitous offsets; 'the consideration was unconscionable, as the Commission has found'.",
+    "Amended Final Award, April 24, 1964 (pointer 618): $3,369,726 less $635,774.87 and $699,061.57, net $2,034,889.56; Red Lake $1,797,761.74, Pembina $237,127.82."
+  ],
+  "changes": [
+    "Article 5 promise corrected: up to $150 a year per chief and $500 once for a house, not '$500 a year for agriculture'.",
+    "Breach wording: the 1961 opinion relies on the earlier finding of unconscionability rather than making it."
+  ],
+  "unverifiable": [
+    "The 1958 valuation opinion (6 Ind. Cl. Comm. 247) was not opened in this audit either."
+  ]
+}

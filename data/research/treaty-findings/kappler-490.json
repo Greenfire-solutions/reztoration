@@ -1,0 +1,54 @@
+{
+  "id": "kappler-490",
+  "name": "Treaty with the Chippewa (Saginaw), January 14, 1837",
+  "aka": [
+    "Treaty of Detroit, 1837"
+  ],
+  "signed": "1837-01-14",
+  "proclaimed": "1838-07-02",
+  "citation": "7 Stat. 528",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-1837-0482",
+  "nations": [
+    "Saginaw Chippewa (Anishinaabe), today the Saginaw Chippewa Indian Tribe of Michigan"
+  ],
+  "promises": [
+    "Article 1: the Saginaw ceded sixteen reserves in Michigan kept by them under the 1819 Treaty of Saginaw, said to total 102,400 acres.",
+    "Article 2: the tribe could live on the Au Gres and Rifle river tracts for five years, with no white settlement allowed there.",
+    "Article 3: the United States would sell the land as public land and pay the tribe the net proceeds, investing the balance and paying the interest yearly.",
+    "Article 4: sums from the fund were set aside for schools, debts, a physician and other purposes."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce Areas 227 to 241, the reserves made by the treaty of September 24, 1819 and ceded by this treaty (Royce schedule).",
+  "today": "The Saginaw Chippewa asked the Indian Claims Commission for an accounting of the sale proceeds, saying 60,124.41 acres were never accounted for. On May 14, 1953 the Commission denied the claim, holding that the 1855 treaty released the United States and that the tribe received more under the 1855 and 1864 treaties than the value claimed (Docket 13-I). That ruling went against the nation and is not a breach.",
+  "sources": [
+    {
+      "title": "Treaty with the Chippewa, 1837 (January 14)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-1837-0482",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Saginaw Chippewa Indian Tribe of Michigan v. United States, Docket 13-I, Opinion (1953)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/377",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Saginaw Chippewa Indian Tribe of Michigan v. United States, Docket 13-I, Findings of Fact (1953)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/344",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
+      "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+      "publisher": "Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json dates this id 1819-09-24, but its Royce areas (227 to 241) and its Kappler page (482) are the January 14, 1837 treaty; the 1819 treaty itself is kappler-193. Jordan may want treaties.json corrected.",
+    "The Commission's opinion cites the treaty as 7 Stat. 538; Kappler gives 7 Stat. 528.",
+    "No Saginaw Chippewa Indian Tribe account of this treaty was found."
+  ],
+  "nationVoice": [],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

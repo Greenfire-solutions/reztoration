@@ -13,7 +13,7 @@
     "Dakota and Lakota (Sisseton, Wahpeton, Yanktonai and Hunkpapa) of Fort Peck"
   ],
   "promises": [
-    "Article II: the Assiniboine and Sioux at Fort Peck kept a separate reservation north of the Missouri River and gave up their rights in the rest of the joint reservation.",
+    "Article I and the Fort Peck boundary clause signed December 28, 1886: the Assiniboine and Sioux at Fort Peck kept a separate reservation north of the Missouri between Big Muddy Creek and Porcupine Creek; under Article II they gave up their rights in the rest of the joint reservation.",
     "Article III: $165,000 a year for ten years for the Fort Peck agency, spent on cattle, goods, clothing, food, tools, schooling, medical care and care of the aged and orphans, with Indians preferred for agency jobs.",
     "Article IV: any yearly surplus to be held in the Treasury for the reservation and spent after the ten years ran out.",
     "Article VI: any member already settled on ceded land could have it allotted to the family."
@@ -23,7 +23,7 @@
     {
       "kind": "claims-commission",
       "date": "1967-03-31",
-      "what": "The Indian Claims Commission found that the 14,969,156 acres ceded under the 1886-87 agreements, ratified May 1, 1888, were worth $11,975,324.80 (80 cents an acre) and that the $4,300,000 promised (about 29 cents an acre) was unconscionable on its face. It made interlocutory awards to the Blackfeet Nation, the Assiniboine and the Fort Peck Sioux.",
+      "what": "The Indian Claims Commission found that the 14,969,156 acres ceded under the 1886-87 agreements, ratified May 1, 1888, were worth $11,975,324.80 (80 cents an acre) and that the $4,300,000 promised was unconscionable on its face. It made interlocutory awards to the Blackfeet Nation, the Assiniboine and the Fort Peck Sioux.",
       "whoFoundIt": "Indian Claims Commission, Docket 279-A, 18 Ind. Cl. Comm. 241 (1967)",
       "source": {
         "title": "Blackfeet and Gros Ventre Tribes v. United States, Docket 279-A, Opinion of the Commission (1967), 18 Ind. Cl. Comm. 241",
@@ -34,9 +34,15 @@
     }
   ],
   "landTaken": "The agreements ceded the great joint reservation of the Gros Ventre, Piegan, Blood, Blackfeet and River Crow in northern Montana, except three separate reservations; the ICC put the ceded area at 14,969,156 acres (Docket 279-A findings, 1967).",
-  "compensation": "The 1888 Act promised $4,300,000 over ten years: $165,000 a year for the Fort Peck agency, $115,000 for Fort Belknap and $150,000 for Blackfeet (25 Stat. 113, Art. III). After the 1967 liability finding, the Commission entered final judgments in 1968: $8,679,814.92 to the Blackfeet and Gros Ventre Tribes and $1,161,354.41 to the Fort Peck Sioux, both by compromise of the consideration and offset issues only, and $3,108,506.40 to the Assiniboine of Fort Belknap and Fort Peck, after finding their 1888 payments had already been credited against an earlier Court of Claims award (77 C. Cls. 347).",
+  "compensation": "Article III of the agreement ratified by the 1888 Act promised, for ten years, $165,000 a year for the Fort Peck agency, $115,000 for Fort Belknap and $150,000 for Blackfeet (25 Stat. 113); the Commission gives the agreed consideration as $4,300,000 (Docket 279-A, 1967). After the 1967 liability finding, the Commission entered final judgments in 1968: $8,679,814.92 to the Blackfeet and Gros Ventre Tribes and $1,161,354.41 to the Fort Peck Sioux, both by compromise of the consideration and offset issues only, and $3,108,506.40 to the Assiniboine of Fort Belknap and Fort Peck, after finding their 1888 payments had already been credited against an earlier Court of Claims award (77 C. Cls. 347).",
   "today": "The Fort Peck Sioux received a $1,161,354.41 final judgment and the Assiniboine of Fort Peck and Fort Belknap $3,108,506.40 (Docket 279-A, 1968). The Fort Peck Reservation is today governed by the Assiniboine and Sioux Tribes of the Fort Peck Indian Reservation.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Fort Peck Assiniboine and Sioux Tribes",
+      "summary": "The Tribes' history says the negotiations of winter 1886-87, ratified by the Act of May 1, 1888, set the reservation's modern boundaries after years in which the buffalo vanished and over 300 Assiniboines starved at Wolf Point, and that homesteader pressure then led Congress to pass the Fort Peck Allotment Act of 1908, which declared unallotted land surplus and opened about 1,348,408 acres to non-Indian settlement in 1913.",
+      "url": "http://web.archive.org/web/20220702044347/https://fortpecktribes.org/visitor-opportunities/tribal-history/"
+    }
+  ],
   "sources": [
     {
       "title": "Act of May 1, 1888, ch. 213, 25 Stat. 113 (ratifying the agreements with the Indians of the Fort Peck, Fort Belknap and Blackfeet agencies)",
@@ -67,12 +73,18 @@
       "title": "Docket 279-A, Final Judgment for the Sioux Tribe of the Fort Peck Reservation (1968), 19 Ind. Cl. Comm. 365",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1271",
       "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Fort Peck Assiniboine Sioux Tribal History (Wayback capture of July 2, 2022)",
+      "url": "http://web.archive.org/web/20220702044347/https://fortpecktribes.org/visitor-opportunities/tribal-history/",
+      "publisher": "Fort Peck Assiniboine and Sioux Tribes"
     }
   ],
   "openQuestions": [
     "No Fort Peck Tribes page on the 1886 agreement could be opened (fortpecktribes.org history pages returned nothing on 2026-11-07).",
     "Royce's three 1888 cessions (692, 693 and 695) are parts of the one 14,969,156-acre area the ICC valued as a unit; the ICC did not value each agency's part separately.",
-    "The 1888 consideration was not cash to the nations but goods, stock, schooling and agency expenses spent at the Secretary's direction; whether the full ten instalments were spent was not checked."
+    "The 1888 consideration was not cash to the nations but goods, stock, schooling and agency expenses spent at the Secretary's direction; whether the full ten instalments were spent was not checked.",
+    "Audit 2026-11-08: Removed 'about 29 cents an acre' from the breach: a figure the researcher computed, not one the Commission states. First promise re-cited: the separate reservation is set by Article I and the agency's boundary clause, not Article II, which is the cession. Compensation: the $4,300,000 total is the Commission's figure; the Act itself gives only the annual amounts per agency."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

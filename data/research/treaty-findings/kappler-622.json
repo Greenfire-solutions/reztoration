@@ -40,16 +40,16 @@
       "whoFoundIt": "Delaware Tribal Business Committee v. Weeks, 430 U.S. 73 (1977)",
       "source": {
         "title": "Delaware Tribal Business Committee v. Weeks, 430 U.S. 73 (1977)",
-        "url": "https://caselaw.findlaw.com/us-supreme-court/430/73.html",
-        "publisher": "FindLaw"
+        "url": "https://www.law.cornell.edu/supremecourt/text/430/73",
+        "publisher": "Legal Information Institute, Cornell Law School"
       },
       "quote": "In 1856 and 1857, the United States breached the treaty by selling the lands privately and not at public auction."
     },
     {
       "kind": "claims-commission",
       "date": "1971-11-24",
-      "what": "For the Delaware Outlet, the strip released under Article 3 for $10,000, the Commission entered a final award of $435,873.86 after the Court of Claims' 1970 decision, deducting a $150,000 settlement paid earlier and $22,106.14 in offsets from a gross award of $607,980.",
-      "whoFoundIt": "Indian Claims Commission, Delaware Tribe of Indians and Absentee Delaware Tribe v. United States, Dockets 27-A and 241, Final Award of 24 November 1971 (26 Ind. Cl. Comm. 387), following United States v. Delaware Tribe of Indians, 192 Ct. Cl. 385, 427 F.2d 1218 (1970)",
+      "what": "The Commission held in 1959 that the Delaware Outlet, released under Article 3 for $10,000, was worth $617,980 when ceded and that the $10,000 consideration was unconscionable. After the Court of Claims' 1970 decision it entered a final award of $435,873.86, deducting an earlier $150,000 payment on the claim and $22,106.14 in offsets from a gross award of $607,980.",
+      "whoFoundIt": "Indian Claims Commission, Delaware Tribe of Indians and Absentee Delaware Tribe v. United States, Dockets 27-A and 241, Interlocutory Order of 4 December 1959 (8 Ind. Cl. Comm. 150) and Final Award of 24 November 1971 (26 Ind. Cl. Comm. 387), following United States v. Delaware Tribe of Indians, 192 Ct. Cl. 385, 427 F.2d 1218 (1970)",
       "source": {
         "title": "Delaware Tribe of Indians v. United States, Dockets 27-A and 241, Final Award (1971)",
         "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1435",
@@ -89,15 +89,26 @@
     },
     {
       "title": "Delaware Tribal Business Committee v. Weeks, 430 U.S. 73 (1977)",
-      "url": "https://caselaw.findlaw.com/us-supreme-court/430/73.html",
-      "publisher": "FindLaw"
+      "url": "https://www.law.cornell.edu/supremecourt/text/430/73",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Delaware Tribe of Indians v. United States, Docket 241, Interlocutory Order (December 4, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/271",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Delaware Tribe of Indians v. United States, Dockets 27-A and 241, Opinion of the Commission (November 24, 1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2345",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
     }
   ],
   "openQuestions": [
     "The Commission's reasoning on the Outlet (that the $10,000 consideration was unconscionable, as the tribe alleged) was not read in the opinion itself; only the 1971 final award was opened.",
     "The Delaware Tribe of Indians (delawaretribe.org) and the Delaware Nation pages checked carry no history of this treaty; a nation statement is still wanted.",
     "Whether railroads paid for rights of way under Article 12 was not researched; the 1860 and 1866 Delaware treaties (railroad sales) are separate queue entries.",
-    "The holding of Delaware Tribal Business Committee v. Weeks on the distribution dispute was not read in full."
+    "The holding of Delaware Tribal Business Committee v. Weeks on the distribution dispute was not read in full.",
+    "Audit 2026-11-08: the Outlet breach now cites the 1959 interlocutory order, which held the $10,000 consideration unconscionable for land worth $617,980 (figure as restated in the 1971 opinion; the 1959 scan prints it variously), so the first open question is answered. The Weeks citation now points to Cornell LII, where the quote was confirmed; the FindLaw page blocks automated readers. Docket 72 figures and the United States' concession held."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

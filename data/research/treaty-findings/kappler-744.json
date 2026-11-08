@@ -26,7 +26,7 @@
     {
       "kind": "act-of-congress",
       "date": "1874-04-15",
-      "what": "The Act of April 15, 1874 and the Executive Order of August 19, 1874 took the southern part of the territory the 1855 treaty assigned to the Blackfeet and Gros Ventre. The Court of Claims found that after offsets the tribes were deprived of 12,261,749.76 acres for which they received no compensation, valued when taken at $6,130,874.88.",
+      "what": "The Act of April 15, 1874 and the Executive Order of August 19, 1874 took 15,289,344 acres (Royce areas 399 and 574) of the land the Blackfeet and Gros Ventre held under the 1855 treaty. The Court of Claims found that after offsets they were deprived of 12,261,749.76 acres for which they received no compensation, valued when taken at $6,130,874.88.",
       "whoFoundIt": "Act of April 15, 1874, 18 Stat. 28, and Executive Order of August 19, 1874, as found by the Court of Claims in The Blackfeet et al. v. United States, 81 Ct. Cl. 101 (1935), recounted by the Indian Claims Commission (1952)",
       "source": {
         "title": "Blackfeet and Gros Ventre Tribes v. United States, Docket No. 279, Opinion of the Commission, December 17, 1952",
@@ -37,7 +37,7 @@
     {
       "kind": "claims-commission",
       "date": "1967-03-31",
-      "what": "For the lands ceded under the Agreement of May 1, 1888 (25 Stat. 113), the Indian Claims Commission found that $4,300,000 for lands worth $11,975,324.80 was unconscionable on its face, and held the Blackfeet entitled to $11,125,606.40 before deduction of the consideration paid and offsets. It also found the 1874 Act had reduced the Blackfeet and Gros Ventre interest by 4,318,919 acres without their consent.",
+      "what": "For the lands ceded under the Agreement of May 1, 1888 (25 Stat. 113), the Indian Claims Commission found that an agreed consideration of $4,300,000 for lands worth $11,975,324.80 was unconscionable on its face, and held the Blackfeet Nation entitled to recover $11,125,606.40, subject to the consideration paid and offsets.",
       "whoFoundIt": "Indian Claims Commission, Blackfeet and Gros Ventre Tribes v. United States, Docket 279-A, opinion of March 31, 1967 (18 Ind. Cl. Comm. 241)",
       "source": {
         "title": "Blackfeet and Gros Ventre Tribes v. United States, Docket No. 279-A, Opinion of the Commission, March 31, 1967",
@@ -90,7 +90,7 @@
   ],
   "openQuestions": [
     "The 1935 Court of Claims opinion (81 Ct. Cl. 101) was not opened directly; its findings are taken from the Indian Claims Commission's 1952 account.",
-    "The 1967 finding that the 1874 Act reduced the tribes' interest by 4,318,919 acres without consent is read from a quoted motion in the Commission's opinion and should be checked against its own findings.",
+    "Audit 2026-11-08: the sentence that the Commission \"found\" the 1874 Act reduced the tribes' interest by 4,318,919 acres without consent was removed from the 1967 breach. In the opinion (pointer 2749) that figure is in an argument the Commission quotes (\"it is believed that the Court should not have charged...\"), not in a finding.",
     "The 1910 Act taking timber, hunting and fishing rights reserved in the 1896 agreement for the Glacier National Park area was denied by the Court of Claims and was not researched further; Blackfeet treaty rights in the park remain disputed.",
     "The Blackfeet Nation's own website blocked automated access; no nation account was recorded. The Gros Ventre (Fort Belknap Indian Community) account was not sought.",
     "Royce records that an 1868 treaty with the Blackfeet was never ratified and that an Executive Order of July 5, 1873 set apart a joint reserve partly from the 1855 territory."

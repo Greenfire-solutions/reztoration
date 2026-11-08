@@ -17,7 +17,7 @@
   "promises": [
     "Article 3: $20,000 a year for twenty years, paid per capita after an enrollment, with up to $5,000 a year that the President could direct to agriculture, education and goods.",
     "Article 4: no punishment for past offences, and a fund to settle traders' depredation claims, with any balance added to the bands' annuities.",
-    "Article 5: payments to chiefs out of the annuities, $500 a year for agriculture and $5,000 for a road from Leech Lake to Red Lake.",
+    "Article 5: up to $150 a year to each chief out of the annuities, $500 to each chief at the first payment to build a house, and $5,000 for a road from Leech Lake to Red Lake.",
     "Article 8: a 160-acre homestead within the ceded area for each qualifying adult mixed-blood relative."
   ],
   "status": "broken",
@@ -25,7 +25,7 @@
     {
       "kind": "claims-commission",
       "date": "1961-10-05",
-      "what": "The Commission valued the lands ceded in the Red River Valley and northwestern Minnesota at $3,369,726 and found the consideration unconscionable; the treaty-date value of what the United States actually paid was $512,518.43.",
+      "what": "In fixing the award, the Commission credited against the $3,369,726 value of the lands ceded in the Red River Valley and northwestern Minnesota the treaty-date value of what the United States paid, $512,518.43, and treated the consideration as unconscionable, as it had found in its 1958 valuation decision.",
       "whoFoundIt": "Indian Claims Commission, Red Lake, Pembina and White Earth Bands v. United States, Dockets 18-A, 113 and 191, 9 Ind. Cl. Comm. 457 (1961)",
       "source": {
         "title": "Red Lake, Pembina and White Earth Bands v. United States, Dockets 18-A, 113, 191, Opinion of the Commission, October 5, 1961",
@@ -74,7 +74,8 @@
     "The 1958 valuation opinion (6 Ind. Cl. Comm. 247, OSU pointers 268 and 200) that first held the consideration unconscionable and gives the acreage was not opened; the acreage ceded is left out until it is.",
     "The 1863 treaty was amended by the Senate and supplemented by the treaty of April 12, 1864 (13 Stat. 689); the supplement's changes to the annuities were not compared.",
     "The Red Lake Nation's own account of the treaty (redlakenation.org, Red Lake Nation News coverage of Old Crossing commemorations) was not opened. Turtle Mountain's later claims in Docket 113 (1970-1978) concern the Pembina share and are a lead.",
-    "The 'today' sentence is general and should be tied to a dated Red Lake source."
+    "The 'today' sentence is general and should be tied to a dated Red Lake source.",
+    "Audit 2026-11-08: the Article 5 promise corrected. The treaty gives each chief up to $150 a year from the annuities and $500 once to build a house; it has no \"$500 a year for agriculture\". The breach reworded so that the 1961 opinion is not presented as the first finding of unconscionability, which it attributes to the Commission's earlier decision."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

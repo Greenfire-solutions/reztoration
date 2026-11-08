@@ -35,7 +35,7 @@
     {
       "kind": "litigation",
       "date": "1967-06-29",
-      "what": "The Indian Claims Commission held in 1962 that the Mdewakanton and Wahpekute (Docket 362) had recognised title to Royce Area 289 at this treaty; their claims and those of the Sisseton and Wahpeton were settled by compromise in 1967 for a net $12,250,000 across Dockets 142 and 359-363, without a finding on the price.",
+      "what": "The Indian Claims Commission held in 1962 that the Mdewakanton and Wahpekute (Docket 362) had recognised title to Royce Area 289 as of this treaty; their claims and those of the Sisseton and Wahpeton, except a general accounting claim in Docket 363, were settled by a stipulated compromise in 1967 for final judgments in the net amount of $12,250,000 across Dockets 142 and 359-363.",
       "whoFoundIt": "Indian Claims Commission, Sisseton and Wahpeton Bands et al. v. United States, Dockets 142, 359-363, Interlocutory Order (January 12, 1962) and Order Approving Compromise Settlement (June 29, 1967)",
       "source": {
         "title": "Sisseton and Wahpeton Bands et al. v. United States, Dockets 142 et al., Interlocutory Order (January 12, 1962)",
@@ -46,7 +46,7 @@
     {
       "kind": "nation-statement",
       "date": "1862",
-      "what": "The Shakopee Mdewakanton Sioux Community states that no annuity payments were made to the Mdewakanton in 1862, which it calls a clear breach of treaty rights.",
+      "what": "The Shakopee Mdewakanton Sioux Community's history timeline records, under 1862, that no annuity payments were made to the Mdewakanton, which it calls an indication of clear breaches of treaty rights.",
       "whoFoundIt": "Shakopee Mdewakanton Sioux Community, Our History timeline",
       "source": {
         "title": "Our History",
@@ -116,7 +116,8 @@
     "The 1863 act's preamble gives Congress's reasons in its own words (the 1862 war); the record states the act's effect only.",
     "Medawakanton and Wahpakoota Bands v. United States, 57 Ct. Cl. 357 (1922), on the partial restoration of the forfeited annuities, was not opened; it is the main lead for a court finding on this treaty.",
     "The Senate's amendment striking the Article 3 reservation, and how the bands' assent to it was obtained, is a lead for a deeper pass.",
-    "No account of this treaty by a Dakota nation was located in this pass."
+    "No account of this treaty by a Dakota nation was located in this pass.",
+    "Audit 2026-11-08: treaty articles, the 1863 act and the ICC orders checked. The litigation text drops the unsourced 'without a finding on the price' and notes the Docket 363 exclusion; the Shakopee statement is reworded to the timeline's own phrasing. The note that no Dakota account was located is out of date: Shakopee and Lower Sioux pages are cited."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

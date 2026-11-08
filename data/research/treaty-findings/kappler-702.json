@@ -1,13 +1,18 @@
 {
   "id": "kappler-702",
   "name": "Treaty with the Wallawalla, Cayuse, etc., 1855 (Umatilla Treaty)",
-  "aka": ["Treaty with the Walla Walla, Cayuse and Umatilla, 1855", "Treaty of Camp Stevens, June 9, 1855"],
+  "aka": [
+    "Treaty with the Walla Walla, Cayuse and Umatilla, 1855",
+    "Treaty of Camp Stevens, June 9, 1855"
+  ],
   "signed": "1855-06-09",
   "ratified": "1859-03-08",
   "proclaimed": "1859-04-11",
   "citation": "12 Stat. 945",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-wallawalla-cayuse-etc-1855-0694",
-  "nations": ["Confederated Tribes of the Umatilla Indian Reservation (Cayuse, Umatilla and Walla Walla)"],
+  "nations": [
+    "Confederated Tribes of the Umatilla Indian Reservation (Cayuse, Umatilla and Walla Walla)"
+  ],
   "promises": [
     "Article 1 set apart the Umatilla reservation for the tribes' exclusive use, closed to white residents without the agent's and superintendent's permission.",
     "Article 1 secured the exclusive right of taking fish in streams through and bordering the reservation and at all other usual and accustomed stations in common with citizens, with hunting, gathering and pasturing on unclaimed lands.",
@@ -19,7 +24,7 @@
     {
       "kind": "nation-statement",
       "date": "1871",
-      "what": "The Confederated Tribes of the Umatilla Indian Reservation say they reserved 510,000 acres in 1855 but the reservation as surveyed held about 245,000 acres, that the boundary was mis-surveyed and an agent drew a line removing the southern part, and that allotment later reduced it to 158,000 acres.",
+      "what": "The Confederated Tribes of the Umatilla Indian Reservation say they reserved 510,000 acres in 1855 but the reservation as surveyed held about 245,000 acres, that the boundary was mis-surveyed and an Indian agent, by direction of the Secretary of the Interior, drew a line removing part of it, and that allotment later reduced it to 158,000 acres.",
       "whoFoundIt": "Confederated Tribes of the Umatilla Indian Reservation, Brief History of CTUIR",
       "source": {
         "title": "Brief History of CTUIR",
@@ -30,7 +35,7 @@
     {
       "kind": "litigation",
       "date": "1966-02-11",
-      "what": "The tribes' Indian Claims Commission claims for more pay for the 1855 cession, for lands taken outside it, for the depreciation of their treaty fishing rights, and for reservation land lost through the erroneous 1871 survey were settled together for $2,450,000, without findings on the merits.",
+      "what": "The tribes' Indian Claims Commission claims for more pay for the 1855 cession, for lands taken outside it, for the depreciation of their treaty fishing rights, and for reservation land lost through the erroneous 1871 survey were settled together by a stipulated compromise for a single net judgment of $2,450,000; the Commission notes the fishing and survey claims had not been adjudicated.",
       "whoFoundIt": "Indian Claims Commission, Confederated Tribes of the Umatilla Indian Reservation v. United States, Dockets 264, 264-A and 264-B, opinion and final judgment of February 11, 1966",
       "source": {
         "title": "Confederated Tribes of the Umatilla Indian Reservation v. United States, Dockets 264, 264-A, 264-B, Opinion of the Commission on compromise, February 11, 1966",
@@ -79,7 +84,8 @@
   "openQuestions": [
     "No court, Claims Commission, statute or government finding of a breach was located in this pass; the 1966 settlement resolved the survey and fishing claims without a ruling. The 1871 survey, the Act of March 3, 1885 (Slater Act) and the 1888 cession should be checked for a formal finding.",
     "Columbia River fishing cases in which the Umatilla took part (United States v. Oregon, from 1968) could not be opened from a free source in this pass.",
-    "The 1964 Commission opinion on title (Docket 264) was read only in part; its holding on recognized versus aboriginal title was not recorded."
+    "The 1964 Commission opinion on title (Docket 264) was read only in part; its holding on recognized versus aboriginal title was not recorded.",
+    "Audit 2026-11-08: CTUIR statements, the 1966 compromise ($2,450,000) and treaty dates checked and held; the nation-statement no longer says the agent removed 'the southern part', which the CTUIR page does not say, and the litigation text now quotes the Commission's own note that the fishing and survey claims were not adjudicated. The 1871 survey date comes from the ICC opinion, not the CTUIR page."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

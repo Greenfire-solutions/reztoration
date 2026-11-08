@@ -12,15 +12,14 @@
   ],
   "promises": [
     "Not a treaty: a presidential order. President Grant set apart the Walker River Reservation, as surveyed by Eugene Monroe in December 1864, for the use of the Paiute (Royce 560).",
-    "The Indian Claims Commission held the reservation was in fact established on November 29, 1859 by Interior Department action, as the United States had itself argued and won in United States v. Walker River Irrigation District, 104 F.2d 334 (9th Cir. 1939).",
-    "Under the Winters doctrine, as applied to this reservation in that 1939 case, the reservation carried reserved water from the Walker River."
+    "The Indian Claims Commission held the reservation was in fact established on November 29, 1859 by Interior Department action, as the United States had itself argued and won in United States v. Walker River Irrigation District, 104 F.2d 334 (9th Cir. 1939)."
   ],
   "status": "contested",
   "breaches": [
     {
       "kind": "litigation",
       "date": "1972-02-16",
-      "what": "The Northern Paiute, including the Walker River tribe, pressed claims before the Indian Claims Commission in Docket 87-A that the Commission described as relating to the unlawful taking of reservation lands, unlawful trespasses on their land and conversion of their property. The case was transferred to the Court of Claims in 1978; no finding on these claims was found.",
+      "what": "The Northern Paiute, including the Walker River tribe, pressed claims before the Indian Claims Commission in Docket 87-A that the Commission described as relating to the unlawful taking of reservation lands, unlawful trespasses on their land and conversion of their property. No finding on these claims was found.",
       "whoFoundIt": "Indian Claims Commission, Northern Paiute Nation v. United States, Docket 87-A, opinion of February 16, 1972 describing the claims",
       "source": {
         "title": "Northern Paiute Nation v. United States, Docket 87-A, Opinion on dates of establishment of Pyramid Lake and Walker River reservations (February 16, 1972), 27 Ind. Cl. Comm. 39",
@@ -29,7 +28,7 @@
       }
     }
   ],
-  "today": "The Commission found in Docket 87 that the Paiute lands of western Nevada outside the Pyramid Lake and Walker River reservations were taken without compensation on December 31, 1862, when the two reservations had come into operation, and awarded a net $15,790,000.00 (final judgment, November 4, 1965). That finding concerns the land outside this reservation, so it is recorded here and not counted as a breach of this order. A presidential proclamation of September 26, 1906 opened reservation lands to settlement after allotments under an Act of May 27, 1902; whether the tribe consented was not settled from an opened source.",
+  "today": "The Commission found in Docket 87 that the Paiute lands of western Nevada outside the Pyramid Lake and Walker River reservations were taken without compensation on December 31, 1862, when the two reservations had come into operation, and awarded a net $15,790,000.00 (final judgment, November 4, 1965). That finding concerns the land outside this reservation, so it is recorded here and not counted as a breach of this order.",
   "sources": [
     {
       "title": "Royce, Schedule of Indian Land Cessions, 1874 entries (cession 560)",
@@ -55,14 +54,28 @@
       "title": "Northern Paiute Nation v. United States, Docket 87, Final Judgment (November 4, 1965), 16 Ind. Cl. Comm. 215",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1860",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "About Walker River Paiute (Wayback capture of January 5, 2018)",
+      "url": "http://web.archive.org/web/20180105072248/http://www.wrpt.us/about_wrpt.htm",
+      "publisher": "Walker River Paiute Tribe"
     }
   ],
   "openQuestions": [
     "The 1902 Act and the 1906 opening of the reservation, which took Walker Lake and much of the reservation out of tribal hands according to secondary sources, need a primary source and any finding on consent or compensation.",
     "United States v. Southern Pacific Transportation Co., 543 F.2d 676 (9th Cir. 1976), on the railroad across the reservation, could not be opened.",
-    "The outcome of Docket 87-A after its 1978 transfer to the Court of Claims was not found.",
-    "The tribe's own history of the reservation was not located; nationVoice is empty for that reason."
+    "Whether Docket 87-A was transferred to the Court of Claims in 1978, and its outcome, was not found in a source opened.",
+    "The tribe's own history of the reservation was not located; nationVoice is empty for that reason.",
+    "Lead, not yet sourced: an Act of May 27, 1902 and a presidential proclamation of September 26, 1906 are said to have allotted the reservation and opened the rest to settlement.",
+    "Audit 2026-11-08: removed the promise that the reservation carried Winters reserved water from the Walker River (no source opened in this file says so; the 1972 ICC opinion cites the 1939 case only for the 1859 establishment date), the unsourced 1978 transfer of Docket 87-A, and the unsourced 1902 and 1906 events from 'today' (kept above as a lead)."
   ],
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "nationVoice": [
+    {
+      "nation": "Walker River Paiute Tribe (Agai-Dicutta Numu)",
+      "summary": "The Tribe's own About page says the Walker River Paiute Indian Reservation was established by the executive order of March 19, 1874 under President Grant, and that the Agai-Dicutta (Trout Eaters) Band of the Northern Paiute had already lived in this part of the Great Basin for tens of thousands of years, governing its own affairs.",
+      "url": "http://web.archive.org/web/20180105072248/http://www.wrpt.us/about_wrpt.htm"
+    }
+  ]
 }

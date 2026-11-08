@@ -21,6 +21,11 @@
       "title": "Royce, Schedule of Indian Land Cessions, 1892 entries (cession 719)",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/944/mode/2up",
       "publisher": "Bureau of American Ethnology, 18th Annual Report, part 2 (Royce, Indian Land Cessions, 1899), Internet Archive"
+    },
+    {
+      "title": "Legal Counsel's Certifications in Support of the Red Lake Nation's Application to Administer a Water Quality Standards Program (December 9, 2019)",
+      "url": "https://epa.gov/sites/default/files/2021-03/documents/letter_from_legal_counsel-searchable.pdf",
+      "publisher": "Red Lake Band of Chippewa Indians, filed with the U.S. Environmental Protection Agency"
     }
   ],
   "openQuestions": [
@@ -28,5 +33,12 @@
     "The Indian Claims Commission's Red Lake dockets (for example Red Lake, Pembina and White Earth Bands v. United States) concern earlier cessions and the 1889 agreements; none opened addresses this addition."
   ],
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "nationVoice": [
+    {
+      "nation": "Red Lake Band of Chippewa Indians",
+      "summary": "In its legal counsel's certifications to the EPA (December 9, 2019), the Band says it always held and never ceded the roughly 650,000-acre Diminished Reservation to which this order added land, that it refused allotment when negotiating the 1889 Agreement and resisted it for a decade until the federal government gave up, and that lands ceded in 1889 and 1902 were later partly restored by the 1945 Restoration Order.",
+      "url": "https://epa.gov/sites/default/files/2021-03/documents/letter_from_legal_counsel-searchable.pdf"
+    }
+  ]
 }

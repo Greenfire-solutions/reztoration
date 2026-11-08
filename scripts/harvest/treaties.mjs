@@ -52,8 +52,22 @@ for (const r of rows) {
     treaties.set(id, t);
   }
 }
-const out = [...treaties.values()].map((t) => Object.fromEntries(Object.entries(t).map(([k, v]) => [k, v instanceof Set ? [...v] : v])))
-  .map((t) => ({ ...t, name: `${t.kappler ? 'Treaty or agreement with the' : 'Cession of land of the'} ${[...new Set(t.scheduleTribes.flatMap((x) => x.split(/;\s*/)))].slice(0, 4).join(', ') || 'nations named in the record'}, ${t.date || 'date unknown'}` }))
+// Hand corrections where the USFS layer merged different treaties, tribes or Royce areas
+// (data/research/treaty-corrections.json, each with its why and source). A correction
+// overrides only the fields it names; one with splitFrom adds a record split out of another.
+let fixes = {};
+try { fixes = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/research/treaty-corrections.json'), 'utf8')); } catch {}
+const built = [...treaties.values()].map((t) => Object.fromEntries(Object.entries(t).map(([k, v]) => [k, v instanceof Set ? [...v] : v])));
+for (const [id, c] of Object.entries(fixes)) {
+  if (id.startsWith('_')) continue;
+  const { why, source, splitFrom, ...fields } = c;
+  let t = built.find((x) => x.id === id);
+  if (!t && splitFrom) built.push(t = { id, date: null, kappler: null, royce: [], cessions: [], presentDayTribes: [], scheduleTribes: [], statute: [], executiveOrder: [], states: [] });
+  if (!t) { console.log(`treaties: correction for unknown id ${id} skipped`); continue; }
+  Object.assign(t, fields, { correction: { fields: Object.keys(fields), why, source, ...(splitFrom ? { splitFrom } : {}) } });
+}
+const out = built
+  .map((t) => ({ ...t, name: t.correction?.fields.includes('name') ? t.name :`${t.kappler ? 'Treaty or agreement with the' : 'Cession of land of the'} ${[...new Set(t.scheduleTribes.flatMap((x) => x.split(/;\s*/)))].slice(0, 4).join(', ') || 'nations named in the record'}, ${t.date || 'date unknown'}` }))
   .sort((a, b) => String(a.date).localeCompare(String(b.date)));
 fs.writeFileSync(path.join(ROOT, 'data/research/treaties.json'), JSON.stringify(out, null, 1));
 fs.mkdirSync(path.join(ROOT, 'data/research/treaty-findings'), { recursive: true });

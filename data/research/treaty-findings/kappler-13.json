@@ -1,0 +1,53 @@
+{
+  "id": "kappler-13",
+  "name": "Treaty with the Six Nations, 1784 (Treaty of Fort Stanwix), Pennsylvania cession",
+  "aka": [
+    "Treaty of Fort Stanwix (1784)"
+  ],
+  "signed": "1784-10-22",
+  "citation": "7 Stat. 15",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-six-nations-1784-0005",
+  "nations": [
+    "Haudenosaunee (Six Nations): Seneca, Cayuga, Onondaga, Oneida, Mohawk, Tuscarora"
+  ],
+  "promises": [
+    "Article III: a western boundary for the Six Nations from Oyonwayea (Johnston’s Landing-Place) on Lake Ontario, south to Buffalo Creek, to the north boundary of Pennsylvania, west to its end and south along Pennsylvania’s west boundary to the Ohio; the nations yielded claims west of it and would be secured in peaceful possession of the lands they inhabited east and north of it, except six miles square around Fort Oswego.",
+    "Article 2: the Oneida and Tuscarora would be secured in possession of the lands on which they were settled.",
+    "Article 4: goods would be delivered to the Six Nations for their use and comfort.",
+    "Preamble and Article I: the United States gave peace to the Seneca, Mohawk, Onondaga and Cayuga and received them into its protection, on condition that six hostages be held until all prisoners were returned."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "In Docket 344 the Indian Claims Commission dismissed the Six Nations' claim for two areas of northwestern Pennsylvania: it held the United States was not guilty of any lack of fair and honorable dealings over the land (Area I), which it found was never public domain of the United States but within Pennsylvania's chartered limits, and that the Six Nations did not hold Indian title to the Erie Triangle (Area I-A). That ruling went against the nations; it is recorded here, not counted as a breach.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Six Nations, 1784 (Kappler, vol. 2, p. 5)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-six-nations-1784-0005",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Six Nations v. United States, Docket 344, Final Order (March 1, 1963)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/737",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Six Nations v. United States, Docket 344, Opinion of the Commission (March 1, 1963)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/872",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Six Nations v. United States, Docket 344, Findings of Fact (March 1, 1963)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/858",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "This entry is Royce cession 1, the Pennsylvania part of the 1784 cession. The New York part is a separate entry (kappler-14), researched earlier; nothing here is taken from it.",
+    "The Commission's Area I is described as northwestern Pennsylvania between lines the parties largely agreed; whether it matches Royce cession 1 exactly was not checked against the map.",
+    "Pennsylvania commissioners attended the 1784 council and bought land from the Six Nations under the state’s own deed (described in the Commission’s 1963 opinion); whether that state purchase has been challenged in any court was not researched.",
+    "Article numbering of the boundary promise follows the treaty text at OSU; the treaty was made under the Articles of Confederation and has no Senate ratification date."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

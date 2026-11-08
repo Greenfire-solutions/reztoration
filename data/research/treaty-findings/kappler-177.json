@@ -1,12 +1,16 @@
 {
   "id": "kappler-177",
   "name": "Treaty with the Wea, 1818",
-  "aka": ["Treaty of St. Mary's with the Wea, October 2, 1818"],
+  "aka": [
+    "Treaty of St. Mary's with the Wea, October 2, 1818"
+  ],
   "signed": "1818-10-02",
   "proclaimed": "1819-01-07",
   "citation": "7 Stat. 186",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-wea-1818-0169",
-  "nations": ["Wea (now part of the Peoria Tribe of Indians of Oklahoma)"],
+  "nations": [
+    "Wea (now part of the Peoria Tribe of Indians of Oklahoma)"
+  ],
   "promises": [
     "A reservation on the Wabash at Raccoon Creek kept for the Wea (Article 2).",
     "One section of land each granted to two named children of the Wea, not to be sold without the President's consent (Article 3).",
@@ -17,31 +21,77 @@
     {
       "kind": "claims-commission",
       "date": "1963-07-29",
-      "what": "For the Wea's interest in Royce Area 99 in Indiana, ceded by Article 1 of this treaty, the Indian Claims Commission had entered an award of $937,250 to the Wea, against which it credited the $34,478.16 the Wea received for that cession and other offsets, leaving a net judgment of $876,477.30. The earlier decision (9 Ind. Cl. Comm. 274, 1961) was affirmed by the Court of Claims (169 Ct. Cl. 1009, 1965).",
+      "what": "For the Wea's interest in Royce Area 99 in Indiana, ceded by Article 1 of this treaty, the Indian Claims Commission had entered an interlocutory award of $937,250 to the Wea as additional compensation for the 1818 cession. In 1963 it credited the $34,478.16 the Wea received for that cession and other offsets, leaving a net judgment of $876,477.30. The Court of Claims affirmed on 12 March 1965 (Appeal No. 12-63), as the Commission's order of 7 May 1965 records.",
       "whoFoundIt": "Indian Claims Commission, Peoria Tribe of Indians of Oklahoma et al. v. United States, Docket 314 Amended, Additional Findings of 29 July 1963 (12 Ind. Cl. Comm. 392)",
-      "source": { "title": "Peoria Tribe v. United States, Docket 314 Amended, Additional Findings of Fact (1963)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/650", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+      "source": {
+        "title": "Peoria Tribe v. United States, Docket 314 Amended, Additional Findings of Fact (1963)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/650",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
     },
     {
       "kind": "claims-commission",
       "date": "1969-12-05",
       "what": "Article 4 of this treaty gave the Wea's consent to the Kickapoo cession of Royce Area 74 (91,000 acres in the Wabash valley). The Commission valued Area 74 at $1.50 an acre as of 7 January 1819, the date this treaty took effect, and held the consideration for Areas 73 and 74 unconscionable, finding the Wea entitled to $351,750 less $2,000 (Docket 314-C).",
       "whoFoundIt": "Indian Claims Commission, Dockets 99, 314-C and 317, Supplemental Findings of 5 December 1969 (22 Ind. Cl. Comm. 186)",
-      "source": { "title": "Peoria Tribe v. United States, Dockets 99, 314-C and 317, Supplemental Findings of Fact (1969)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2276", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+      "source": {
+        "title": "Peoria Tribe v. United States, Dockets 99, 314-C and 317, Supplemental Findings of Fact (1969)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2276",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
     }
   ],
   "landTaken": "All Wea lands in Indiana, Ohio and Illinois except the Article 2 reservation (Royce Area 114, 27,330.66 acres), which was ceded in 1820 (see kappler-198).",
   "compensation": "Article 5 annuity, the whole Wea consideration for Area 99 credited by the Commission at $34,478.16. Net award of $876,477.30 for Area 99 (1963) and $349,750 under Docket 314-C for Areas 73 and 74 (1970).",
   "today": "Royce lists Areas 114 and 74 under this entry; the Area 99 award is recorded here because the Wea ceded their interest in Area 99 by this treaty, although Royce's map places Area 99 under the Miami treaty of 6 October 1818 (kappler-179).",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Peoria Tribe of Indians of Oklahoma",
+      "summary": "The Tribe's history says the Wea ceded most of their lands in Indiana, Illinois and Ohio at St. Mary's, Ohio, on October 2, 1818, keeping only a reserve on the Wabash, and that the Peorias were forced from their ancestral lands in 1818 and relocated to Missouri, then Kansas, then northeastern Oklahoma.",
+      "url": "http://web.archive.org/web/20260531224612/https://peoriatribe.com/welcome/history/"
+    }
+  ],
   "sources": [
-    { "title": "Treaty with the Wea, 1818 (Kappler)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-wea-1818-0169", "publisher": "Oklahoma State University Libraries" },
-    { "title": "Peoria Tribe v. United States, Docket 314 Amended, Additional Findings of Fact (1963)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/650", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Peoria Tribe v. United States, Dockets 99, 314-C and 317, Supplemental Findings of Fact (1969)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2276", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Peoria Tribe on behalf of the Wea Nation v. United States, Docket 314-C, Final Award (1970)", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1048", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" }
+    {
+      "title": "Treaty with the Wea, 1818 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-wea-1818-0169",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Peoria Tribe v. United States, Docket 314 Amended, Additional Findings of Fact (1963)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/650",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Peoria Tribe v. United States, Dockets 99, 314-C and 317, Supplemental Findings of Fact (1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2276",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Peoria Tribe on behalf of the Wea Nation v. United States, Docket 314-C, Final Award (1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1048",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Peoria Tribe of Indians of Oklahoma, Our Tribe and history page (Wayback capture of May 31, 2026)",
+      "url": "http://web.archive.org/web/20260531224612/https://peoriatribe.com/welcome/history/",
+      "publisher": "Peoria Tribe of Indians of Oklahoma"
+    },
+    {
+      "title": "Peoria Tribe v. United States, Docket 314 Amended, Order Amending Final Order (1965)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/865",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Peoria Tribe on behalf of the Wea Nation v. United States, Docket 314-E, Findings of Fact (1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2704",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
   ],
   "openQuestions": [
     "The 1961 decision (9 Ind. Cl. Comm. 274) that set the $937,250 award for Area 99 was not opened; whether it rests on an unconscionable-consideration holding should be confirmed.",
-    "A Peoria Tribe statement on this treaty was not found."
+    "A Peoria Tribe statement on this treaty was not found.",
+    "Audit 2026-11-08: the first breach cited the Court of Claims affirmance as 169 Ct. Cl. 1009 (1965), a reporter citation no opened source gives; replaced with the date and appeal number stated in the Commission's order of 7 May 1965 (15 Ind. Cl. Comm. 266, OSU id 865). The 1961 opinion (9 Ind. Cl. Comm. 289) only says the $937,250 award was 'additional compensation'; the earlier decision that set it, and whether it held the consideration unconscionable, is still unopened. Added the Docket 314-E findings as the source for the Area 114 acreage in landTaken."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

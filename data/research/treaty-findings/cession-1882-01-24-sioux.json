@@ -1,0 +1,53 @@
+{
+  "id": "cession-1882-01-24-sioux",
+  "name": "Executive order of January 24, 1882 adding a Nebraska tract to the Sioux reservation (the White Clay extension)",
+  "aka": [
+    "White Clay extension",
+    "Whiteclay buffer"
+  ],
+  "signed": "1882-01-24",
+  "textUrl": "https://www.presidency.ucsb.edu/documents/executive-order-adding-land-sioux-reserve",
+  "nations": [
+    "Lakota, Dakota and Nakota (Oceti Sakowin) of the Great Sioux Reservation"
+  ],
+  "promises": [
+    "The President withdrew from sale a tract in Nebraska on the Nebraska and Dakota line, about 10 miles east to west and 5 miles north to south, around the range line between ranges 44 and 45 west, and set it aside as an addition to the Sioux reservation in Dakota Territory.",
+    "The order said the reservation was to continue during the pleasure of the President."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "The tract was restored to the public domain by executive order of January 25, 1904 (National Archives, identifier 285128).",
+  "compensation": "None found.",
+  "today": "The 1904 restoration ended the addition under the order's own terms ('during the pleasure of the President'). In 1942 the Supreme Court held, about other Sioux additions made by executive order in 1875 and 1876, that such orders gave no compensable interest (316 U.S. 317); no ruling on this tract itself was found.",
+  "sources": [
+    {
+      "title": "Chester A. Arthur, Executive Order: Adding Land to Sioux Reserve (January 24, 1882)",
+      "url": "https://www.presidency.ucsb.edu/documents/executive-order-adding-land-sioux-reserve",
+      "publisher": "The American Presidency Project, UC Santa Barbara"
+    },
+    {
+      "title": "President Theodore Roosevelt Restores Land from the Sioux Indian Reservation to Public Domain (January 25, 1904)",
+      "url": "https://www.docsteach.org/documents/document/land-from-sioux-reservation-to-public-domain",
+      "publisher": "National Archives, DocsTeach"
+    },
+    {
+      "title": "Sioux Tribe of Indians v. United States, 316 U.S. 317 (1942)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/316/317",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
+      "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+      "publisher": "Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "Advocates have asked a president to restore the strip, and a 2017 Nebraska Democratic Party resolution calls the 1904 order illegal; neither is a finding, and no Oglala Sioux Tribe resolution was opened.",
+    "Royce numbers 631 and 632 are both attached to this id; Royce's note for 631 describes the remaining original Sioux territory, so the map polygon may include more than the 1882 tract.",
+    "The exact acreage was not confirmed: search snippets of a Commissioner of Indian Affairs report and of a genealogy site disagree, and neither was opened.",
+    "Secondary sources (not opened) place the tract next to the Pine Ridge agency and the village of Whiteclay, Nebraska inside it; confirm before the map says so."
+  ],
+  "nationVoice": [],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

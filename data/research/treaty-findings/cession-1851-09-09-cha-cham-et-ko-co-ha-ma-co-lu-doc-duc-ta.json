@@ -16,10 +16,9 @@
     "Toc-de"
   ],
   "promises": [
-    "Article 3 or 4 set apart a defined tract 'forever' for the occupancy of the signing tribes.",
-    "Beef cattle and flour for subsistence during 1851 and 1852.",
-    "Livestock, ploughs, tools, seed, iron and steel, blankets and clothing, divided by the tribes' numbers.",
-    "A farmer, a blacksmith, a carpenter and school teachers, with a school house, for at least five years."
+    "Article 3 set apart 'forever' for the use and occupancy of the signing tribes a district on the east bank of the Sacramento river from the northern line of Sutter's claim, three miles out and fifteen miles southeast; bands of the adjacent Coast Range and along the Sacramento and Feather rivers were to be included, and the provisions reduced if they did not come in.",
+    "Brood mares and stallions, milch cows and bulls, work cattle, work mules or horses, ploughs, hoes, spades and grindstones (Kappler, vol. 4, p. 1114, as excerpted by Oklahoma State University).",
+    "A farmer with two assistants, a carpenter, a wheelwright, a blacksmith, a principal school teacher and as many assistant teachers as the President thought proper, with school houses, shops and dwellings (Kappler, vol. 4, as excerpted by Oklahoma State University)."
   ],
   "status": "unratified",
   "breaches": [
@@ -66,6 +65,11 @@
       "title": "Act of May 18, 1928, ch. 624, 45 Stat. 602 (Indians of California jurisdictional act)",
       "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg602.pdf",
       "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Kappler, Indian Affairs: Laws and Treaties, vol. 4 (1929), treaty I as excerpted",
+      "url": "https://oms.library.okstate.edu/s/oklahoma-built/item/21835",
+      "publisher": "Oklahoma State University Libraries"
     }
   ],
   "openQuestions": [
@@ -73,7 +77,10 @@
     "One record covers the whole set of eighteen treaties for the facts common to all; the other seventeen are the cession-1851-* and cession-1852-* entries for Royce areas 273 to 310.",
     "The tribal names are as the commissioners wrote them in 1851-52; most are village or local group names, not nations, and how each community names itself today was not established. treaties.json lists as present-day tribes: none.",
     "The Court of Claims judgment under the 1928 Act (Indians of California v. United States, 98 Ct. Cl. 583, 1942) and the Indian Claims Commission settlement for the Indians of California (Dockets 31 and 37) were not opened in this pass; they are the leads for the amounts paid.",
-    "Article 2 of the treaties had the tribes relinquish all their lands in California; because the Senate rejected the treaties, the United States took the land without the reserved tracts or the promised goods (1928 Act, section 2)."
+    "In Article 3 the signing tribes engaged never to claim any other lands within the United States; because the Senate rejected the treaty, the United States took the land without the reserved tract or the promised goods (1928 Act, section 2).",
+    "Heizer (1972) prints only Article 3 of this treaty and Oklahoma State University gives excerpts, so any beef and flour article and the duration of the other provisions were not checked.",
+    "The Senate's rejection date is given as July 8, 1852 by Heizer (1972, introduction), but the Senate clerk's 1904 search quoted in the National Archives' Prologue article (2013) gives July 2, 1852; the Senate Executive Journal was not opened to settle it.",
+    "Audit 2026-11-08: promises rewritten from treaty I's own text (Heizer 1972, and Kappler vol. 4 as excerpted by Oklahoma State University); the four generic promises copied across the California files ('Article 3 or 4', beef and flour 'during 1851 and 1852', staff 'for at least five years') did not fit this treaty or could not be checked for it."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

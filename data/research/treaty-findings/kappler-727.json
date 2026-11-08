@@ -18,7 +18,7 @@
   "promises": [
     "Article 2: a tract or tracts sufficient for the tribes' wants, to be selected by the President and set apart for their exclusive use, closed to white residents without permission.",
     "Article 3 secured the right of taking fish at all usual and accustomed grounds and stations in common with all citizens, with hunting, gathering and pasturing on open and unclaimed lands.",
-    "Article 4: $25,000 paid over twenty years.",
+    "Article 4: $25,000, paid in yearly instalments that began at $2,500 and fell to $1,000.",
     "Article 10: an agricultural and industrial school, mechanics, a physician and medicine for twenty years."
   ],
   "status": "broken",
@@ -133,7 +133,9 @@
   "openQuestions": [
     "Timber mismanagement on Quinault allotments (United States v. Mitchell, 1980 and 1983) concerns trust duties under statutes rather than this treaty and was not recorded as a breach.",
     "The Quinault Indian Nation's own account of the treaty was not found on its website in this pass.",
-    "The list of tribes in the culvert proceeding was not confirmed from the Ninth Circuit opinion, which could not be opened."
+    "The list of tribes in the culvert proceeding was not confirmed from the Ninth Circuit opinion, which could not be opened.",
+    "Audit 2026-11-08: Kappler dates the treaty July 1, 1855 and January 25, 1856 (signed at the Qui-nai-elt River, then at Olympia); signed is kept as July 1, 1855.",
+    "Audit 2026-11-08: the Article 4 promise reworded to the instalments the article states; \"over twenty years\" was a sum of the schedule, not a figure in the text."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

@@ -77,6 +77,16 @@
       "title": "Ottawa Tribe v. United States, Docket 303, Amended Final Award (February 11, 1965)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/619",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Peoria Tribe of Indians of Oklahoma, Our Tribe and history page (Wayback capture of May 31, 2026)",
+      "url": "http://web.archive.org/web/20260531224612/https://peoriatribe.com/welcome/history/",
+      "publisher": "Peoria Tribe of Indians of Oklahoma"
+    },
+    {
+      "title": "Treaty of Seneca, Mixed Seneca, Shawnee... Ottawa (1867), Notable Documents",
+      "url": "https://www.heritage.ottawatribe.gov/treaty-of-seneca",
+      "publisher": "Ottawa Tribe of Oklahoma, Adawe Cultural Center and Museum"
     }
   ],
   "openQuestions": [
@@ -85,5 +95,17 @@
     "No nation statement about this treaty was found in this pass."
   ],
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "nationVoice": [
+    {
+      "nation": "Peoria Tribe of Indians of Oklahoma",
+      "summary": "The Tribe's history says most members of the Confederated Peoria removed from Kansas to Indian Territory under this Omnibus Treaty after the Civil War, some staying behind as citizens, and that their new lands were allotted by 1893 so that by 1915 the tribe held no tribal or restricted land.",
+      "url": "http://web.archive.org/web/20260531224612/https://peoriatribe.com/welcome/history/"
+    },
+    {
+      "nation": "Ottawa Tribe of Oklahoma",
+      "summary": "The Tribe's Adawe Cultural Center says the 1867 treaty formalised the Ottawa move from Kansas to Indian Territory and ratified their own purchase of about 15,000 acres from the Shawnee at a dollar an acre, a move forced by the United States' failure to honour the 1862 Ottawa treaty through financial mismanagement and land fraud.",
+      "url": "https://www.heritage.ottawatribe.gov/treaty-of-seneca"
+    }
+  ]
 }

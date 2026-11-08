@@ -1,0 +1,24 @@
+{
+  "id": "cession-1873-03-12-paiute",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Act of March 3, 1875, ch. 132, 18 Stat. 445, opened (Library of Congress scan): 'the Pai-Ute reservation in Southeastern Nevada is hereby reduced to one thousand acres to be selected by the Secretary of the Interior in such manner as not to include the claim of any settler or miner.'",
+    "Royce schedule: the 1873 order's boundaries, the 1874 remark 'reducing this reserve to 1,000 acres', the 1875 restoration (576) and the 1,000 acres retained and approved July 3, 1875 (577).",
+    "Executive order of March 12, 1873 on the American Presidency Project: boundaries match the promise.",
+    "ICC Dockets 88, 330 and 330-A final judgment of January 18, 1965: $7,253,165.19 entered on a stipulated compromise; kind 'litigation' is right.",
+    "Counsel's letter of May 18, 2004 (EPA archive): 'well over 2,000,000 acres', the 99.5% quote (exact), the appropriations rider, 70,565 acres restored by Pub. L. 96-491 on December 2, 1980, and the present 72,000-acre reservation.",
+    "Carter's signing statement of December 5, 1980: 'approximately 70,500 acres'; the note gives Public Law 96-491 approved December 2."
+  ],
+  "changes": [
+    "act-of-congress breach now cites and quotes the statute itself (18 Stat. 445) instead of Royce's paraphrase.",
+    "Removed the unsourced statement about Paiute consent.",
+    "Litigation breach no longer says the Moapa band was named; the judgment names the Southern Paiute Nation, the bands in the petitions and the Las Vegas Band.",
+    "Statute page open question resolved: 18 Stat. 445; counsel's 18 Stat. 475 is a misprint.",
+    "'Two years later' replaced by the date."
+  ],
+  "unverifiable": [
+    "The citation '1 Kappler 866-867' was not opened.",
+    "Whether the Moapa band is named in the Southern Paiute petitions was not checked."
+  ]
+}

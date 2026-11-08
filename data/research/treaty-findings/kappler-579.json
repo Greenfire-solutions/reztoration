@@ -16,7 +16,7 @@
     "Skidi (Loup or Wolf Pawnee)"
   ],
   "promises": [
-    "In return for a strip on the south side of the Platte River from five miles west of Fort Childs to the end of Grand Island, about sixty miles, the United States paid $2,000 in goods and merchandise on the day of signing (Articles 1 and 2).",
+    "In return for a tract running from the southern shore of the Platte River north to the crest of the bluffs north of the river, from five miles west of Fort Childs east to the end of Grand Island (supposed to be about sixty miles), the United States paid $2,000 in goods and merchandise on the day of signing (Articles 1 and 2).",
     "The United States also took the privilege of cutting hard timber on Wood River, north of the ceded strip (Article 3)."
   ],
   "status": "broken",
@@ -33,10 +33,16 @@
       }
     }
   ],
-  "landTaken": "110,419 acres south of the Platte River, which the Commission found the Pawnee held by original Indian title (Docket 10, Interlocutory Order, June 17, 1957), worth $99,380 or about ninety cents an acre in 1848.",
+  "landTaken": "110,419 acres along the Platte River, from its southern shore north to the bluffs, which the Commission found the Pawnee held by original Indian title (Docket 10, Interlocutory Order, June 17, 1957), worth $99,380 or an average of ninety cents an acre in 1848.",
   "compensation": "$2,000 in goods paid at signing. The Commission awarded $97,380 for this cession (Third Interlocutory Order, June 14, 1960), part of the Pawnee final award of $7,315,985.70 (July 6, 1962).",
   "today": "The claimant was the Pawnee Indian Tribe of Oklahoma, consisting of the four confederated bands. The other Pawnee cessions in the same docket are kappler-424 (1833) and kappler-772 (1857).",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Pawnee Nation of Oklahoma",
+      "summary": "The Nation's Pawnee Portal presents its treaties of 1818 to 1857 as binding agreements between sovereign nations, covering peace, trade, land cessions, assimilation programs and annuities, and records that the 1848 treaty was made at Fort Childs near the head of Grand Island, on the south side of the Platte River.",
+      "url": "http://web.archive.org/web/20251231185841/https://mukurtu.pawneenation.org/collection/pawnee-treaties-us-government-1818-1857"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Pawnee - Grand, Loups, Republicans, etc., 1848 (Kappler, vol. 2, p. 571)",
@@ -62,11 +68,17 @@
       "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Amended Conclusions of Law and Final Award (July 6, 1962)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/293",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pawnee treaties with the U.S. government, 1818-1857 (Pawnee Portal collection; Wayback capture of December 31, 2025)",
+      "url": "http://web.archive.org/web/20251231185841/https://mukurtu.pawneenation.org/collection/pawnee-treaties-us-government-1818-1857",
+      "publisher": "Pawnee Nation of Oklahoma, Pawnee Portal"
     }
   ],
   "openQuestions": [
     "The OCR of finding 107 reads the value once as $39,380 and once as $99,380; $99,380 is consistent with the $97,380 award (value less the $2,000 paid) and with the ninety cents an acre the finding states.",
-    "The Pawnee Nation's website was locked to automated readers in this pass, so its own account is not linked yet."
+    "The Pawnee Nation's website was locked to automated readers in this pass, so its own account is not linked yet.",
+    "Audit 2026-11-08: the ceded tract was described as south of the Platte; Article 1 runs from the southern shore of the Platte north to the crest of the bluffs north of the river, so promise 1 and landTaken were corrected. ICC figures ($99,380, $97,380, $7,315,985.70, 110,419 acres) held; finding 107 does print $39,380 once and finding 108 prints $99,380."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

@@ -1,0 +1,17 @@
+{
+  "id": "extra-apache-1852",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty text (Oklahoma State University, Kappler vol. 2 p. 598): signed at Santa Fe July 1, 1852, 10 Stat. 979, ratified March 23, 1853, proclaimed March 25, 1853; Articles 2, 4, 9 and 10 match the promises; signers Capitan Vuelta, Cuentas Azules, Blancito, Negrito, Capitan Simon and Mangus Colorado, with John Pope witnessing Mangus Colorado's signing.",
+    "ICC Dockets 30-A and 48-A findings of June 28, 1968 (OSU id 2269): Finding 10(e) quote exact ('this obligation was never carried out by the United States'); Finding 11, no operative cession and lands taken without consent or compensation; taking on September 4, 1886.",
+    "Final judgment of August 25, 1971 (OSU id 1486): $15,967,300.00 on Dockets 30-A and 48-A under a stipulation adopted the same day."
+  ],
+  "changes": [
+    "1971 final judgment: kind changed from claims-commission to litigation (stipulated judgment).",
+    "Nations and area: removed the unsourced Acoma, July 11, 1852 signing and the 'east of the Rio Grande' description."
+  ],
+  "unverifiable": [
+    "The Fort Sill Apache Tribe history page returned HTTP 406 to a script, so the 'today' statement attributed to the tribe was not re-checked."
+  ]
+}

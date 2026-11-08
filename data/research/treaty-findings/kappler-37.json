@@ -1,12 +1,17 @@
 {
   "id": "kappler-37",
   "name": "Treaty with the Cherokee, 1791 (Treaty of Holston)",
-  "aka": ["Treaty of Holston", "Treaty of Holston River"],
+  "aka": [
+    "Treaty of Holston",
+    "Treaty of Holston River"
+  ],
   "signed": "1791-07-02",
   "proclaimed": "1792-02-07",
   "citation": "7 Stat. 39",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1791-0029",
-  "nations": ["Cherokee (ᏣᎳᎩ)"],
+  "nations": [
+    "Cherokee (ᏣᎳᎩ)"
+  ],
   "promises": [
     "Article 7: the United States solemnly guaranteed to the Cherokee nation all their lands not ceded by this treaty.",
     "Article 8: any United States citizen who settled on Cherokee lands would forfeit the protection of the United States, and the Cherokees could punish him as they pleased.",
@@ -18,17 +23,25 @@
     {
       "kind": "court-ruling",
       "date": "1832",
-      "what": "The Supreme Court held that Georgia's law extending its jurisdiction over Cherokee territory, under which the missionary Samuel Worcester was imprisoned, was void as repugnant to the treaties of Hopewell and Holston, and that Georgia's laws had no force in the Cherokee Nation.",
+      "what": "The Supreme Court held that the Georgia law extending its jurisdiction over Cherokee territory, under which the missionary Samuel Worcester was imprisoned, was repugnant to the Constitution, laws and treaties of the United States, relying on the treaties of Hopewell and Holston, and that Georgia's laws had no force in the Cherokee Nation.",
       "whoFoundIt": "Worcester v. Georgia, 31 U.S. (6 Pet.) 515 (1832)",
-      "source": { "title": "Worcester v. Georgia, 31 U.S. 515 (1832)", "url": "https://www.law.cornell.edu/supremecourt/text/31/515", "publisher": "Legal Information Institute, Cornell Law School" },
+      "source": {
+        "title": "Worcester v. Georgia, 31 U.S. 515 (1832)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/31/515",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
       "quote": "a distinct community occupying its own territory, with boundaries accurately described, in which the laws of Georgia can have no force"
     },
     {
-      "kind": "government-admission",
+      "kind": "historian",
       "date": "1832",
-      "what": "The National Park Service states that Georgia ignored the Worcester ruling and that the federal judicial and executive branches did nothing to enforce it, and that the Cherokee were forcibly removed within a few years of the 1835 treaty.",
+      "what": "A National Park Service history page for Fort Smith National Historic Site says Georgia ignored the Worcester ruling, that the federal judicial and executive branches did nothing to enforce it, and that the Cherokee were forcibly removed within a few years of the 1835 treaty.",
       "whoFoundIt": "National Park Service, Fort Smith National Historic Site",
-      "source": { "title": "Cherokee Relations with US Government Before Removal", "url": "https://www.nps.gov/fosm/historyculture/cherokee-relations-with-us-government-before-removal.htm", "publisher": "National Park Service" },
+      "source": {
+        "title": "Cherokee Relations with US Government Before Removal",
+        "url": "https://www.nps.gov/fosm/historyculture/cherokee-relations-with-us-government-before-removal.htm",
+        "publisher": "National Park Service"
+      },
       "quote": "Georgia simply ignored the ruling and the judicial and executive branches of the federal government did nothing to enforce it."
     }
   ],
@@ -36,18 +49,39 @@
   "compensation": "No payment for the breach of the Article 7 guarantee was located.",
   "today": "Not researched beyond the removal; see the Treaty of New Echota (kappler-447).",
   "nationVoice": [
-    { "nation": "Cherokee Nation", "summary": "The Nation's history describes the removal forced on it after the 1835 treaty, when the Army rounded Cherokee people into camps in 1838.", "url": "https://www.cherokee.org/about-the-nation/history/" }
+    {
+      "nation": "Cherokee Nation",
+      "summary": "The Nation's history describes the removal forced on it after the 1835 treaty, when the Army rounded Cherokee people into camps in 1838.",
+      "url": "https://www.cherokee.org/about-the-nation/history/"
+    }
   ],
   "sources": [
-    { "title": "Treaty with the Cherokee, 1791 (Kappler, vol. 2, p. 29)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1791-0029", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
-    { "title": "Worcester v. Georgia, 31 U.S. 515 (1832)", "url": "https://www.law.cornell.edu/supremecourt/text/31/515", "publisher": "Legal Information Institute, Cornell Law School" },
-    { "title": "Cherokee Relations with US Government Before Removal", "url": "https://www.nps.gov/fosm/historyculture/cherokee-relations-with-us-government-before-removal.htm", "publisher": "National Park Service" },
-    { "title": "History", "url": "https://www.cherokee.org/about-the-nation/history/", "publisher": "Cherokee Nation" }
+    {
+      "title": "Treaty with the Cherokee, 1791 (Kappler, vol. 2, p. 29)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1791-0029",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Worcester v. Georgia, 31 U.S. 515 (1832)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/31/515",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Cherokee Relations with US Government Before Removal",
+      "url": "https://www.nps.gov/fosm/historyculture/cherokee-relations-with-us-government-before-removal.htm",
+      "publisher": "National Park Service"
+    },
+    {
+      "title": "History",
+      "url": "https://www.cherokee.org/about-the-nation/history/",
+      "publisher": "Cherokee Nation"
+    }
   ],
   "openQuestions": [
     "Worcester v. Georgia found that Georgia, a state, acted against the treaty; the federal failure to enforce rests on the National Park Service's statement, not on a ruling.",
     "The exact decision date of Worcester v. Georgia was not taken from the opinion page (it gives January Term, 1832); it is commonly given as March 3, 1832, which was not checked.",
-    "Whether the annuities under the treaty and its additional article were paid in full was not researched; Indian Claims Commission Cherokee dockets are the lead."
+    "Whether the annuities under the treaty and its additional article were paid in full was not researched; Indian Claims Commission Cherokee dockets are the lead.",
+    "Audit 2026-11-08: the National Park Service page was recorded as a government admission; a park history page is a historian source, not an admission by the government, so its kind is now historian. The status stays broken on Worcester v. Georgia alone. The first breach now uses the Court's own words ('repugnant to the constitution, laws, and treaties')."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

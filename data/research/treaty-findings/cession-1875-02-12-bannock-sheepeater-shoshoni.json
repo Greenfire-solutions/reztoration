@@ -1,0 +1,81 @@
+{
+  "id": "cession-1875-02-12-bannock-sheepeater-shoshoni",
+  "name": "Executive order of February 12, 1875 establishing the Lemhi Valley Indian Reservation",
+  "aka": [
+    "Lemhi Reservation",
+    "Lemhi Valley reservation"
+  ],
+  "signed": "1875-02-12",
+  "textUrl": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/755",
+  "nations": [
+    "Lemhi Shoshone (Lemhi Tribe), with Sheepeater (Tukuarika, as the Commission spells it) and Bannock people, represented today by the Shoshone-Bannock Tribes of the Fort Hall Reservation"
+  ],
+  "promises": [
+    "The President established the Lemhi Valley Indian Reservation in Idaho for the mixed tribes of Shoshone, Bannock and Sheepeater Indians (Docket 326 findings, 1962).",
+    "Royce records that the reserve took the place of the one described in an earlier unratified treaty, under which the Indians had agreed to cede all land outside a two-township reserve on the North Fork of the Salmon River above Fort Lemhi."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1962-10-16",
+      "what": "The Commission found that the Lemhi Tribe held aboriginal title to its lands and that the United States acquired those lands without paying compensation on February 12, 1875, the date this order set up the Lemhi reserve.",
+      "whoFoundIt": "Indian Claims Commission, Shoshone Tribe of the Wind River Reservation et al. v. United States, Docket 326, Opinion of October 16, 1962 (11 Ind. Cl. Comm. 387)",
+      "source": {
+        "title": "Shoshone Tribe of Indians of the Wind River Reservation et al. v. United States, Docket 326, Opinion of the Commission (1962)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/808",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1971-03-08",
+      "what": "The value of the Lemhi lands and the offsets were settled by compromise in Docket 326-I, with a final judgment for the Lemhi Tribe represented by the Shoshone-Bannock Tribes. The stipulation says it is not an admission by either party.",
+      "whoFoundIt": "Indian Claims Commission, Lemhi Tribe v. United States, Docket 326-I, Final Award (March 8, 1971)",
+      "source": {
+        "title": "Lemhi Tribe v. United States, Docket 326-I, Final Award (1971)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1201",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "The Lemhi aboriginal lands described in the Commission's 1962 findings (acreage not recorded here). By an agreement of May 14, 1880, ratified by the Act of February 23, 1889, 25 Stat. 687, the Lemhi agreed to give up the reserve and move to Fort Hall, and they moved in 1907 (Docket 326 findings, 1962).",
+  "compensation": "Compromise judgment in Docket 326-I (1971); the amount is unclear in the scan (see openQuestions).",
+  "today": "The Lemhi reserve no longer exists; its people moved to the Fort Hall Reservation in 1907 (Docket 326 findings, 1962).",
+  "sources": [
+    {
+      "title": "Shoshone Tribe of Indians of the Wind River Reservation et al. v. United States, Docket 326, Opinion of the Commission (1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/808",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Shoshone Tribe of Indians of the Wind River Reservation et al. v. United States, Docket 326, Findings of Fact (1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/755",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Lemhi Tribe v. United States, Docket 326-I, Findings of Fact on Compromise Settlement (1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1514",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Lemhi Tribe v. United States, Docket 326-I, Final Award (1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1201",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
+      "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+      "publisher": "Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The settlement amount is scanned as '$4,50O,OCO' in the Justice Department letter and '$4,59O,OC)C)' in the final award; it is left out until a clean copy is read.",
+    "No Shoshone-Bannock Tribes page about the Lemhi removal of 1907 was found on the tribes' site.",
+    "The order's own text (Kappler vol. 1, p. 839) was not opened; it is described here from the Commission's findings and Royce.",
+    "The date of the unratified treaty Royce refers to was not confirmed."
+  ],
+  "nationVoice": [],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

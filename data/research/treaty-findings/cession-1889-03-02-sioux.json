@@ -1,0 +1,86 @@
+{
+  "id": "cession-1889-03-02-sioux",
+  "name": "Act of March 2, 1889 dividing the Great Sioux Reservation (Sioux Agreement of 1889)",
+  "aka": [
+    "Great Sioux Agreement of 1889",
+    "Sioux Act of 1889"
+  ],
+  "signed": "1889-03-02",
+  "citation": "25 Stat. 888",
+  "textUrl": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/530",
+  "nations": [
+    "Lakota, Dakota and Nakota (Oceti Sakowin) of the Great Sioux Reservation",
+    "Lower Brule Sioux Tribe",
+    "Cheyenne River Sioux Tribe",
+    "Oglala Sioux Tribe (Pine Ridge)",
+    "Rosebud Sioux Tribe",
+    "Standing Rock Sioux Tribe",
+    "Crow Creek Sioux Tribe"
+  ],
+  "promises": [
+    "The Act, which the Indian Claims Commission records was accepted and agreed to by the different bands of the Sioux Nation, set apart separate reservations for groups of the nation out of the Great Reservation established by the 1868 treaty.",
+    "Section 5 described the Lower Brule reservation, its south line running along the forty-fourth degree of latitude.",
+    "Section 21 restored the rest of the Great Reservation to the public domain, to be disposed of for the benefit of the Sioux Nation and sold to settlers at prices the Act specified."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1956-04-26",
+      "what": "The Commission found that the 1890 government survey placed the Lower Brule south line 5,164 feet north of the true forty-fourth parallel, excluding 25,968.24 acres of the reservation the 1889 Act set apart. The United States treated that land as ceded and disposed of it from 1892 to 1911. Following the Court of Claims (125 C. Cls. 439), the Commission held the Lower Brule entitled to recover the land's value.",
+      "whoFoundIt": "Indian Claims Commission, Sioux Tribe of Indians of the Lower Brule Reservation v. United States, Docket 78, opinion of April 26, 1956",
+      "source": {
+        "title": "Sioux Tribe of Indians of the Lower Brule Reservation v. United States, Docket 78, Opinion of the Commission (1956)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/530",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1961-10-27",
+      "what": "The final order held the Lower Brule entitled to $18,818.11 plus interest, a total of $71,747.63, then allowed the United States to offset the whole sum against $157,404.46 it had spent buying land for the tribe, so that no amount was due.",
+      "whoFoundIt": "Indian Claims Commission, Docket 78, Final Order of October 27, 1961",
+      "source": {
+        "title": "Sioux Tribe of Indians of the Lower Brule Reservation v. United States, Docket 78, Final Order (1961)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/446",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "25,968.24 acres of the Lower Brule reservation were wrongly excluded by the 1890 survey (Docket 78, 1956).",
+  "compensation": "For the Lower Brule survey strip: entitled to $18,818.11 plus interest ($71,747.63 in all), wholly offset by land purchases, so nothing was paid (Docket 78 Final Order, 1961).",
+  "today": "The Lower Brule finding covers only the survey strip. The Black Hills taking of 1877 that preceded this Act is recorded under kappler-1006 and cession-1876-09-26-arapaho-northern-cheyenne-sioux.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Sioux Tribe of Indians of the Lower Brule Reservation v. United States, Docket 78, Opinion of the Commission (1956)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/530",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sioux Tribe of Indians of the Lower Brule Reservation v. United States, Docket 78, Opinion of the Commission (1961)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/457",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sioux Tribe of Indians of the Lower Brule Reservation v. United States, Docket 78, Final Order (1961)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/446",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
+      "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+      "publisher": "Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The Commission's 1956 opinion valued the strip at seventy-five cents an acre and gives a sum the scan renders as '519,476.18' (probably $19,476.18); the 1961 final order states $18,818.11. The difference was not traced; only the final order's figure is used.",
+    "The Court of Claims decided seven Sioux claims under the 1889 Act in Sioux Tribe of Indians v. United States, 105 C. Cls. 725 (1946); the opinion did not load (Leagle paywall, CourtListener bot check) and its holdings are not recorded.",
+    "The total acreage ceded by the Act is stated in the 1956 opinion, but the scan of that figure is unreadable, so it is left out.",
+    "The Act's text was read only through the Commission's quotations; the Statutes at Large page (25 Stat. 888) was not opened.",
+    "No tribal history page about the 1889 Act loaded (the Standing Rock Sioux Tribe site blocked automated reading).",
+    "Ration cuts after 1889 and the reservation diminishment cases of the 1900s are not recorded here."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

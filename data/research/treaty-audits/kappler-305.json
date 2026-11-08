@@ -1,0 +1,18 @@
+{
+  "id": "kappler-305",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty header on OSU Kappler: July 29, 1829, 7 Stat. 320, proclaimed Jan. 2, 1830; ratification December 30, 1829 per the 1962 ICC opinion; Articles II, III and VII match the promises",
+    "ICC Dockets 217 et al. opinion of 29 November 1962 (OSU id 726, 11 Ind. Cl. Comm. 693): 3,528,949 acres, $2,470,264.30, unconscionable",
+    "1965 final award (OSU id 729): $364,901.00 consideration, $10,790.28 offsets, $2,094,573.02",
+    "1973 opinion on remand (OSU id 1345, 30 Ind. Cl. Comm. 144): Area 147 1,525,746 acres, Area 148 2,162,523 acres; 179 Ct. Cl. 473, 391 F.2d 614 (1967), cert. denied 390 U.S. 957 (1968); clause 3 awards bear no interest",
+    "1973 final award (OSU id 2207): $4,480,510.26 less $364,901.00 and offsets, $4,104,818.98 (the scan prints the offset as 510.790.26; the 1965 award prints $10,790.28, matching the file)"
+  ],
+  "changes": [
+    "openQuestions: removed an unsourced statement attributed to the Commission about pro rata annuity payments after 1843"
+  ],
+  "unverifiable": [
+    "The Court of Claims opinion itself was not opened"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "extra-box-elder-1863",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty text (Oklahoma State University, Kappler vol. 2 p. 850): signed at Box Elder July 30, 1863, 13 Stat. 663, ratified March 7, 1864, proclaimed January 17, 1865; Articles 1 to 5; P. Edw. Connor signed for the United States.",
+    "Northwestern Bands of Shoshone Indians v. United States, 324 U.S. 335 (1945), on Cornell LII: the treaties contain no specific acknowledgment of Indian title; Justice Jackson's concurrence speaks of a moral obligation. The open question describes it correctly, and it is rightly not a breach.",
+    "Status no-breach-found is consistent: no finding of breach is cited."
+  ],
+  "changes": [
+    "Area: removed the Bear River as a treaty boundary.",
+    "Article 2 and 3 promises matched to the text."
+  ],
+  "unverifiable": [
+    "The Northwestern Band's history page returned HTTP 406 to a script, so the casualty figure attributed to the Band in 'today' was not re-checked."
+  ]
+}

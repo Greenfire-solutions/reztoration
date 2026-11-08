@@ -1,0 +1,20 @@
+{
+  "id": "cession-1888-05-01-indians-of-blackfoot-agency",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Act of May 1, 1888, ch. 213, 25 Stat. 113, opened on govinfo: agreements of December 28 and 31, 1886 (Fort Peck, Wolf Point), January 21, 1887 (Fort Belknap) and February 11, 1887 (Blackfeet Agency); Articles I to IV and VI and each agency's boundary clause; Article III amounts $165,000, $115,000 and $150,000 for ten years.",
+    "ICC Docket 279-A opinion of March 31, 1967 (OSU id 2749): 14,969,156 acres worth $11,975,324.80 on May 1, 1888, 80 cents an acre; the quote is exact; gross awards to the Blackfeet Nation, the Assiniboine and the Fort Peck Sioux.",
+    "1968 final judgments: $8,679,814.92 Blackfeet and Gros Ventre (OSU id 2486) and $1,161,354.41 Fort Peck Sioux (id 1271), each a compromise of consideration and offsets only; $3,108,506.40 to the Assiniboine (id 2004), the 1888 payments having been credited against 77 C. Cls. 347.",
+    "kind 'claims-commission' is right for the 1967 unconscionable-consideration finding; the later compromises are recorded only under compensation."
+  ],
+  "changes": [
+    "Removed 'about 29 cents an acre' from the breach: a figure the researcher computed, not one the Commission states.",
+    "First promise re-cited: the separate reservation is set by Article I and the agency's boundary clause, not Article II, which is the cession.",
+    "Compensation: the $4,300,000 total is the Commission's figure; the Act itself gives only the annual amounts per agency.",
+    "Removed from 'today' an unsourced later cession; kept as a lead in openQuestions."
+  ],
+  "unverifiable": [
+    "The tribal history pages for the Blackfeet Nation and Fort Peck Tribes in sources were not re-opened."
+  ]
+}

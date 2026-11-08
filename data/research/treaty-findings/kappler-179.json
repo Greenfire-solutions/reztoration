@@ -1,0 +1,73 @@
+{
+  "id": "kappler-179",
+  "name": "Treaty with the Miami, 1818 (Treaty of St. Mary's)",
+  "aka": [
+    "Treaty of St. Mary's (1818)",
+    "New Purchase treaty with the Miami"
+  ],
+  "signed": "1818-10-06",
+  "proclaimed": "1819-01-15",
+  "citation": "7 Stat. 189",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-miami-1818-0171",
+  "nations": [
+    "Myaamia (Miami): Miami Tribe of Oklahoma; Miami of Indiana"
+  ],
+  "promises": [
+    "Article 2: reservations kept for the Miami nation, the largest along the Wabash from the mouth of the Salamonie to the mouth of the Eel River (the Big Miami Reserve), with five smaller ones.",
+    "Article 3: grants of land by patent to Jean Baptiste Richardville and to named Miami persons.",
+    "Article 5: a perpetual annuity of $15,000 paid in silver, a gristmill and sawmill, a blacksmith and gunsmith, farm tools, and 160 bushels of salt a year.",
+    "Article 6: the granted tracts, except Richardville's, could not be sold without the President's approval."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1960-06-30",
+      "what": "On remand from the Court of Claims, the Commission found that the land the Miami ceded by this treaty had a fair market value of $8,091,400 ($1.15 an acre) on October 6, 1818, and that the disparity between that value and the price paid made the consideration unconscionable. One commissioner dissented on value.",
+      "whoFoundIt": "Indian Claims Commission, Miami Tribe of Oklahoma et al. v. United States, Docket 67 consolidated with Dockets 124, 314 and 337, Amended and Additional Findings of Fact, 9 Ind. Cl. Comm. 1",
+      "source": {
+        "title": "Miami Tribe of Oklahoma v. United States, Docket 67 et al., Amended and Additional Findings of Fact (June 30, 1960)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/122",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "compensation": "A final award was made to the Miami Tribe of Oklahoma and the Miami of Indiana jointly as representatives of the Miami as constituted in 1818 (Commission opinion of January 15, 1965). The amount of that award was not readable in the collection.",
+  "today": "The Court of Claims, in its opinion of July 13, 1959, affirmed the Commission's holding that the Miami held this land by recognized title and sent the case back on value only (as recited in the 1960 findings). The Commission's first valuation of 75 cents an acre was the one the court rejected.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Miami, 1818 (Kappler, vol. 2, p. 171)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-miami-1818-0171",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Miami Tribe of Oklahoma v. United States, Docket 67 et al., Amended and Additional Findings of Fact (June 30, 1960)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/122",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Miami Tribe of Oklahoma v. United States, Docket 67 et al., Opinion (dissent) (June 30, 1960)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/361",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Miami Tribe of Oklahoma v. United States, Docket 67 et al., Opinion of the Commission (March 26, 1954)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/355",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Miami Tribe of Oklahoma v. United States, Dockets 67 and 124, Opinion of the Commission (January 15, 1965)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/600",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The 1960 final award document (collection item 299) has no readable text, so the dollar amount awarded is not recorded here. The 1960 findings give 7,036,000 acres in the cession (as quoted in the 1961 dissent) and a value of $8,091,400; the treaty consideration deducted was not confirmed from the award itself.",
+    "The 1954 opinion identifies the cession as Royce Area 99; treaties.json lists many other Royce numbers for this entry, which may include the reserves and grants.",
+    "Whether the perpetual $15,000 annuity was paid in silver as promised, and how the Article 2 reservations were later ceded, was not researched here.",
+    "No Miami Tribe of Oklahoma history page about this treaty was opened in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

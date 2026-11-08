@@ -1,0 +1,41 @@
+{
+  "id": "cession-1859-11-19-chook-chan-cie-chow-chilla-poho-neche",
+  "name": "Abandonment of the Fresno River reservation (reported November 19, 1859)",
+  "aka": [
+    "Fresno River Farm"
+  ],
+  "signed": "1859-11-19",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+  "nations": [
+    "Chukchansi Yokuts (Picayune Rancheria, Table Mountain Rancheria)",
+    "Chawchila (Chowchilla) Yokuts",
+    "Poho-neche (as Royce names them), a people of the southern Sierra"
+  ],
+  "promises": [
+    "This entry records no promise. Royce lists it as the date Superintendent McDuffie reported the abandonment of the Fresno River reservation, set up for the peoples party to the 1851 treaty made at Camp Barbour on April 29, 1851, which the Senate never ratified."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The Indian Claims Commission held in 1959 that the original Indian title to lands in \"Area B\" of California, which covers the state outside the areas of named tribes (none of them in the Fresno River country), was extinguished by the United States under the Act of March 3, 1851. That holding concerns the land of the whole region, not the Fresno River reservation or any treaty promise.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
+      "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
+      "publisher": "Internet Archive"
+    },
+    {
+      "title": "Indians of California v. United States, Dockets 31 and 37, Interlocutory Order (July 31, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/362",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The treaty these peoples signed in 1851 is a separate entry (cession-1851-04-29-cas-son-cho-e-nem-nee-cho-ki-men-a-chook); nothing is taken from it here.",
+    "Decision for Jordan: an abandonment of a reservation reported by a superintendent is not a treaty; the card might better point to the 1851 treaty entry than carry its own status.",
+    "Whether the Fresno River reserve acreage was excluded from the Area B valuation, and the terms of the later California settlement, were not traced.",
+    "Secondary sources date the closure to 1859 or 1860; the North Fork Rancheria history page would not load for checking."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

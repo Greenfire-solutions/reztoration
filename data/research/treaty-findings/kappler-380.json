@@ -15,7 +15,7 @@
     "Reservations kept from the cession, including one at Pokagon's village for his band and one for the Potawatomi at Nottawaseppi (Article II).",
     "Grants of land by patent to named persons (Article III).",
     "$15,000 a year for twelve years, $32,000 in goods soon after signing and $10,000 in goods the next spring at Nottawaseppi, and payment of listed debts of $20,721 (Article IV).",
-    "An annual $2,000 for educating Indian youths (Article IV)."
+    "An annual $2,000 for educating Indian youths, for as long as Congress thought proper (Article IV)."
   ],
   "status": "broken",
   "breaches": [
@@ -35,7 +35,13 @@
   "landTaken": "Royce Area 181 in northern Indiana. The Commission divided it into Tract *5 (260,134 acres, all Potawatomi) and Tract Y-3 (575,866 acres, half Potawatomi and half Miami); the Potawatomi interest was valued as of 21 January 1833.",
   "compensation": "The Potawatomi award of $4,497,815.59 set on 8 September 1978 covers four cessions together (1826, 1828, 26 October 1832 and this treaty), less any offsets.",
   "today": "The Commission certified Dockets 128 et al. to the Court of Claims on 29 September 1978, according to the collection index.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Nottawaseppi Huron Band of the Potawatomi",
+      "summary": "The Band's history says its people were later forced to cede the remainder of their reserved lands in the Notawasepe Reserve, the reservation this treaty kept for the village of Notta-we-sipa, and were relocated west of the Mississippi, while a group escaped during removal and returned to Michigan, where the Band now lives on the Pine Creek Indian Reservation.",
+      "url": "https://nhbp-nsn.gov/history/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Potawatomi, 1832 (Kappler)",
@@ -56,13 +62,19 @@
       "title": "Citizen Band of Potawatomi Indians v. United States, Dockets 128 et al., Additional Findings of Fact, Part 2 (1978)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2160",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "NHBP History",
+      "url": "https://nhbp-nsn.gov/history/",
+      "publisher": "Nottawaseppi Huron Band of the Potawatomi"
     }
   ],
   "openQuestions": [
     "The collection index dates the opinion 28 September 1978, but the Order Setting Awards dated 8 September 1978 says the opinion was entered the same day; 8 September is used.",
     "The transfer order and the Court of Claims outcome were not opened.",
     "treaties.json lists Royce cessions 188, 190, 201, 204, 208 and 221 to 225 under this id as well as 181; only Area 181 was traced.",
-    "Statements by the Pokagon Band or the Nottawaseppi Huron Band on this treaty were not looked for in the time available."
+    "Statements by the Pokagon Band or the Nottawaseppi Huron Band on this treaty were not looked for in the time available.",
+    "Audit 2026-11-08: the education promise now carries the treaty's own limit, 'as long as the Congress of the United States may think proper' (Article IV)."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

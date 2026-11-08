@@ -17,7 +17,7 @@
   "breaches": [],
   "landTaken": "Royce lists these sections with the cession of Royce Areas 90 and 91 in Ohio; the Delaware ceded all claim to the thirteen sections in Article 18 of the Treaty of 29 September 1817.",
   "compensation": "This entry is an Act of Congress that reserved land rather than a treaty; it promised no payment.",
-  "today": "The Delaware cession of these sections is part of the 1817 treaty (kappler-153), on which the Indian Claims Commission entered interlocutory awards in 1978. No separate finding on the thirteen sections was found.",
+  "today": "The Delaware cession of these sections is part of the 1817 treaty (kappler-153). No separate claims finding on the thirteen sections was found.",
   "nationVoice": [],
   "sources": [
     {
@@ -38,7 +38,8 @@
   ],
   "openQuestions": [
     "treaties.json names this entry as a cession by the Chippewa, Delaware, Ottawa, Potawatomi, Seneca, Shawnee and Wyandot; the Act concerns only the Delaware sections. The tribe list seems to be carried over from the 1817 treaty schedule. Needs checking.",
-    "Which Royce polygon the map draws for this entry (90 and 91 are also listed under kappler-153) should be checked so the same area is not shown twice."
+    "Which Royce polygon the map draws for this entry (90 and 91 are also listed under kappler-153) should be checked so the same area is not shown twice.",
+    "Audit 2026-11-08: removed from 'today' the statement that the Indian Claims Commission entered interlocutory awards on the 1817 treaty in 1978; no source for it was cited in this file. See kappler-153 for the Commission's 1978 findings."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

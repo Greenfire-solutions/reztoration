@@ -1,12 +1,17 @@
 {
   "id": "kappler-364",
   "name": "Treaty with the Chickasaw, 1832 (Treaty of Pontotoc Creek)",
-  "aka": ["Treaty of Pontotoc Creek", "Treaty of Pontitock"],
+  "aka": [
+    "Treaty of Pontotoc Creek",
+    "Treaty of Pontitock"
+  ],
   "signed": "1832-10-20",
   "proclaimed": "1833-03-01",
   "citation": "7 Stat. 381",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chickasaw-1832.-(0356)",
-  "nations": ["Chickasaw (Chikashsha)"],
+  "nations": [
+    "Chickasaw (Chikashsha)"
+  ],
   "promises": [
     "The ceded homeland east of the Mississippi to be surveyed and sold at public auction to the highest bidder like other public lands, with the proceeds, less costs, paid to the Chickasaw Nation (Articles 2, 3 and 7).",
     "Quiet possession and uninterrupted use of reserved tracts for families until they moved (Article 4).",
@@ -21,27 +26,52 @@
       "date": "1832-10-20",
       "what": "The Chickasaw Nation states that settlers ignored the treaty's promise to keep intruders out until the Chickasaw had left, moving into homes still occupied by Chickasaw families and trying to take their livestock and fields.",
       "whoFoundIt": "Chickasaw Nation (Chickasaw.tv)",
-      "source": { "title": "Treaty of Pontotoc Creek", "url": "https://www.chickasaw.tv/events/treaty-of-pontotoc-creek", "publisher": "Chickasaw Nation" },
+      "source": {
+        "title": "Treaty of Pontotoc Creek",
+        "url": "https://www.chickasaw.tv/events/treaty-of-pontotoc-creek",
+        "publisher": "Chickasaw Nation"
+      },
       "quote": "Disobeying treaty obligations, settlers tried moving into homes still occupied by Chickasaw families."
     }
   ],
-  "compensation": "Under Article 4 of the Treaty with the Chickasaw of 22 June 1852 (10 Stat. 974), the United States agreed to state an account of all money placed in the Treasury for the Chickasaw under the treaties of 1832 and 1834 and of all disbursements, because the Chickasaw alleged they had been charged losses and expenses the United States should bear (treaty text, OSU). The Chickasaw Nation later pursued these accounts in the Court of Claims (Chickasaw Nation v. United States, 22 Ct. Cl. 222, 1887); the outcome was not confirmed here.",
+  "compensation": "Under Article 4 of the Treaty with the Chickasaw of 22 June 1852 (10 Stat. 974), the United States agreed to state an account of all money placed in the Treasury for the Chickasaw under the treaties of 1832 and 1834 and of all disbursements, because the Chickasaw alleged they had been charged losses and expenses the United States should bear (treaty text, OSU). Whether the Nation was later made whole was not confirmed here.",
   "today": "The Chickasaw were removed to Indian Territory; the Chickasaw Nation is today based in Oklahoma.",
   "nationVoice": [
-    { "nation": "Chickasaw Nation", "summary": "The Nation's account says the treaty gave up the homeland for a promise of suitable land in the west, that sale proceeds were to be held in trust for Chickasaw citizens, and that settlers disobeyed the treaty by moving onto land Chickasaw families still occupied.", "url": "https://www.chickasaw.tv/events/treaty-of-pontotoc-creek" }
+    {
+      "nation": "Chickasaw Nation",
+      "summary": "The Nation's account says the treaty gave up the homeland for a promise of suitable land in the west, that sale proceeds were to be held in trust for Chickasaw citizens, and that settlers disobeyed the treaty by moving onto land Chickasaw families still occupied.",
+      "url": "https://www.chickasaw.tv/events/treaty-of-pontotoc-creek"
+    }
   ],
   "sources": [
-    { "title": "Treaty with the Chickasaw, 1832 (Kappler)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chickasaw-1832.-(0356)", "publisher": "Oklahoma State University Libraries" },
-    { "title": "Treaty with the Chickasaw, 1832, catalog record (7 Stat. 381)", "url": "https://oms.library.okstate.edu/s/oklahoma-built/item/4885", "publisher": "Oklahoma State University Libraries" },
-    { "title": "Treaty with the Chickasaw, 1852 (Kappler)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chickasaw-1852-0596", "publisher": "Oklahoma State University Libraries" },
-    { "title": "Treaty of Pontotoc Creek", "url": "https://www.chickasaw.tv/events/treaty-of-pontotoc-creek", "publisher": "Chickasaw Nation" }
+    {
+      "title": "Treaty with the Chickasaw, 1832 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chickasaw-1832.-(0356)",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Treaty with the Chickasaw, 1832, catalog record (7 Stat. 381)",
+      "url": "https://oms.library.okstate.edu/s/oklahoma-built/item/4885",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Treaty with the Chickasaw, 1852 (Kappler)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chickasaw-1852-0596",
+      "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Treaty of Pontotoc Creek",
+      "url": "https://www.chickasaw.tv/events/treaty-of-pontotoc-creek",
+      "publisher": "Chickasaw Nation"
+    }
   ],
   "openQuestions": [
     "The formal record of breach most likely sits in the Court of Claims: Chickasaw Nation v. United States, 22 Ct. Cl. 222 (1887), on payments from Chickasaw trust money to people not entitled to it under the 1834 treaty. The opinion could not be loaded (midpage.ai and counselstack returned 429); open it and add a court-ruling breach if it found the United States liable.",
     "House Report No. 354, 45th Congress, 2nd Session (1878), 'Arrears due Chickasaw Nation' (shareok.org/items/738ad85d-7e40-48a7-bc5e-436b74eea876), concerns money due under the 1832 and 1834 treaties; its text could not be downloaded. If the committee found money owed, it is a government admission.",
     "The national fund under Article 11 was partly invested in state bonds that went into default (Treasury and Indian Office reports of the 1860s-70s); whether Congress or a court made the Nation whole was not established.",
     "The OSU text page carries a footnote that the treaty 'appears not to have been ratified', yet the OSU catalog gives a proclamation date of 1 March 1833 and the 1834 Treaty of Washington amended it. Check the ratification record.",
-    "No Indian Claims Commission docket on the 1832 cession was found in the OSU ICC collection; the Chickasaw ICC dockets found (16, 23, 39, 267-270) concern the Leased District, the Choctaw freedmen allotments and Civil War annuities."
+    "No Indian Claims Commission docket on the 1832 cession was found in the OSU ICC collection; the Chickasaw ICC dockets found (16, 23, 39, 267-270) concern the Leased District, the Choctaw freedmen allotments and Civil War annuities.",
+    "Audit 2026-11-08: removed from 'compensation' the statement that the Nation pursued these accounts in Chickasaw Nation v. United States, 22 Ct. Cl. 222 (1887), because that opinion was not opened (see the first open question); it stays here as a lead only."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

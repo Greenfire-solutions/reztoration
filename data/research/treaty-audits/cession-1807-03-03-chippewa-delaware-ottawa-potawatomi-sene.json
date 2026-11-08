@@ -1,0 +1,17 @@
+{
+  "id": "cession-1807-03-03-chippewa-delaware-ottawa-potawatomi-sene",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Act of March 3, 1807, ch. 49, 2 Stat. 448, opened on govinfo: section 2 excepts thirteen sections including the lower town of the Delaware, reserved for the tribe and their descendants so long as they reside on and cultivate them. The promise matches.",
+    "Treaty with the Wyandot, etc., 1817, Article 18 (Oklahoma State University): the Delaware cede all claim to the thirteen sections reserved by section 2 of the 1807 Act. The landTaken matches.",
+    "Royce areas 90 and 91 match treaties.json.",
+    "Status no-breach-found is consistent: the Delaware ceded the sections by treaty and no finding on them is cited."
+  ],
+  "changes": [
+    "'today' no longer states, without a source, that the ICC entered interlocutory awards on the 1817 treaty in 1978."
+  ],
+  "unverifiable": [
+    "treaties.json names seven nations for this entry; the Act concerns only the Delaware sections (already in openQuestions, reported for Jordan)."
+  ]
+}

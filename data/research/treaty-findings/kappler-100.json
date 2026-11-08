@@ -48,7 +48,7 @@
   ],
   "landTaken": "Royce Area 66. The parties agreed the Ottawa tract held 469,116 acres, the Potawatomi tract 1,843,779 acres and the Chippewa tract 3,298,637 acres, 5,611,532 acres in all (Commission opinion of 1978).",
   "compensation": "Consideration of $57,717.32 to the three tribes (Commission finding). Net sums set in 1978: Ottawa $579,308.00, Potawatomi $2,292,000.00, Chippewa $3,479,308.00, less offsets. Final awards entered in June 1978 for the Potawatomi and Ottawa.",
-  "today": "The Commission's title decision (30 Ind. Cl. Comm. 388, 1973) was affirmed by the Court of Claims (207 Ct. Cl. 960, 1975). In that decision the Commission dismissed the Wyandot claim to Royce Area 66 (Docket 140) for want of evidence; that dismissal is a ruling against the Wyandot and is not counted as a breach. The Ottawa reserves made by Article 6 were ceded under later treaties of 1831 and 1833.",
+  "today": "The Commission's title decision (30 Ind. Cl. Comm. 388, 1973) was affirmed by the Court of Claims (207 Ct. Cl. 960, 1975). In that decision the Commission dismissed the Wyandot claim to Royce Area 66 (Docket 140) for want of evidence; that dismissal is a ruling against the Wyandot and is not counted as a breach. The Ottawa Tribe of Oklahoma's history says an 1831 treaty required the Ottawa at Blanchard's Fork and Oquanoxie's Village to remove west, and that most Maumee Ottawa were moved in the 1830s.",
   "nationVoice": [
     {
       "nation": "Ottawa Tribe of Oklahoma",
@@ -95,7 +95,8 @@
   ],
   "openQuestions": [
     "A final award for the Saginaw Chippewa share (Docket 59) was not found; the Commission index lists an order transferring Docket 59 to the Court of Claims on 29 September 1978, not opened.",
-    "Whether the annuity was ever commuted under Article 3 was not traced."
+    "Whether the annuity was ever commuted under Article 3 was not traced.",
+    "Audit 2026-11-08: 'today' said the Article 6 reserves were ceded under treaties of 1831 and 1833; only the 1831 treaty is supported by a source opened (the Ottawa Tribe's removal page), so the sentence now reports what that page says."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

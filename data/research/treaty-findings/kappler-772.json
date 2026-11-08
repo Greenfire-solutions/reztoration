@@ -39,7 +39,13 @@
   "landTaken": "The parties stipulated the ceded area (Claim IV) contained 9,678,000 acres in central Nebraska north of the Platte, bounded on the east by the 1854 Omaha cession and on the west by the Sioux lands of the 1851 Fort Laramie treaty (Docket 10, finding 109 and Interlocutory Order of June 17, 1957).",
   "compensation": "Consideration worth $2,144,281.20: $1,544,281.20 paid plus $600,000 credited as the value of the $30,000 perpetual annuity, which the Commission said the United States was still paying. Award for this cession $2,794,718.80, within the Pawnee final award of $7,315,985.70 (July 6, 1962).",
   "today": "The claimant was the Pawnee Indian Tribe of Oklahoma, consisting of the four confederated bands. The later sale of the Loup Fork reservation kept by this treaty is a separate queue entry (cession-1876-04-10-pawnee).",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Pawnee Nation of Oklahoma",
+      "summary": "The Nation's Pawnee Portal presents its treaties of 1818 to 1857 as binding agreements between sovereign nations, covering peace, trade, land cessions, assimilation programs and annuities, and records that the 1857 treaty was made at Table Creek, Nebraska Territory.",
+      "url": "http://web.archive.org/web/20251231185841/https://mukurtu.pawneenation.org/collection/pawnee-treaties-us-government-1818-1857"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Pawnee, 1857 (Kappler, vol. 2, p. 764)",
@@ -65,6 +71,11 @@
       "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Amended Conclusions of Law and Final Award (July 6, 1962)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/293",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pawnee treaties with the U.S. government, 1818-1857 (Pawnee Portal collection; Wayback capture of December 31, 2025)",
+      "url": "http://web.archive.org/web/20251231185841/https://mukurtu.pawneenation.org/collection/pawnee-treaties-us-government-1818-1857",
+      "publisher": "Pawnee Nation of Oklahoma, Pawnee Portal"
     }
   ],
   "openQuestions": [

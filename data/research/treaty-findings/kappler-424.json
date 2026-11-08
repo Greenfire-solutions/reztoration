@@ -38,7 +38,13 @@
   "landTaken": "The Commission found the Pawnee held original Indian title, at the time of this treaty, to land south of the Platte River in present Nebraska and Kansas, bounded on the south by the 1825 Kansa reservation line and on the west by the 1851 Fort Laramie treaty line (Docket 10, Interlocutory Order, June 17, 1957). The acreage was not copied here.",
   "compensation": "The Commission found the total consideration under the treaty was $148,200 and that the land was worth $4,575,900 on October 9, 1833. The award for this cession was $4,427,700 (Claims I and II), within a final award of $7,315,985.70 after $10,000 in offsets (July 6, 1962).",
   "today": "The claimant was the Pawnee Indian Tribe of Oklahoma, consisting of the four confederated bands. Later Pawnee cessions under this record are kappler-579 (1848) and kappler-772 (1857).",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Pawnee Nation of Oklahoma",
+      "summary": "The Nation's Pawnee Portal presents its treaties of 1818 to 1857 as binding agreements between sovereign nations, covering peace, trade, land cessions, assimilation programs and annuities, and records that the 1833 treaty was negotiated in the Pawnee towns, with the final agreement reached at Kitskatus, the Chaui town near the Platte River.",
+      "url": "http://web.archive.org/web/20251231185841/https://mukurtu.pawneenation.org/collection/pawnee-treaties-us-government-1818-1857"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Pawnee, 1833 (Kappler, vol. 2, p. 416)",
@@ -64,6 +70,11 @@
       "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Opinion and Interlocutory Order Amending Findings (January 31, 1961)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/540",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pawnee treaties with the U.S. government, 1818-1857 (Pawnee Portal collection; Wayback capture of December 31, 2025)",
+      "url": "http://web.archive.org/web/20251231185841/https://mukurtu.pawneenation.org/collection/pawnee-treaties-us-government-1818-1857",
+      "publisher": "Pawnee Nation of Oklahoma, Pawnee Portal"
     }
   ],
   "openQuestions": [

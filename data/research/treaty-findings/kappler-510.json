@@ -22,8 +22,8 @@
   ],
   "promises": [
     "In return for the New York Indians' lands at Green Bay, Wisconsin (except one tract), the United States would set apart 1,824,000 acres west of Missouri (in what became Kansas) as a permanent home for all the New York Indians (Articles 1 and 2).",
-    "The United States would pay for removal, subsistence for the first year after removal and related costs (Article 15, as described by the Supreme Court in 1898).",
-    "Special articles recognised and approved a deed by which the Seneca chiefs sold their four remaining New York reservations (Buffalo Creek, Tonawanda, Cattaraugus and Allegany) to Thomas Ludlow Ogden and Joseph Fellows for $202,000, at a treaty held under US authority with a federal commissioner present.",
+    "The United States would appropriate $400,000 to help the Indians remove, support themselves the first year after removal, and for education, farming, mills, animals and tools (Article 15).",
+    "Article 10 recorded that the Seneca had sold their remaining New York reservations by deed to Thomas Ludlow Ogden and Joseph Fellows for $202,000, in the presence and with the approval of the US commissioner, and the United States assented to the sale.",
     "Separate articles covered the Tuscarora, who conveyed 5,000 acres to the United States in trust and had a deed to Ogden and Fellows approved."
   ],
   "status": "broken",
@@ -88,7 +88,8 @@
   "openQuestions": [
     "The final amount paid under the 1898 judgment, and when, was not confirmed.",
     "The Indian Claims Commission did not separately value the 1838 Seneca deed: in Dockets 342-A and 368-A the Court of Claims and Commission treated the 1842 compromise, not 1838, as the operative sale (Commission, 1972).",
-    "The circumstances of signing (bribery and alcohol alleged by contemporaries and the Society of Friends, and the Senate's amendment and re-submission before proclamation) were not documented from a primary source in this pass."
+    "The circumstances of signing (bribery and alcohol alleged by contemporaries and the Society of Friends, and the Senate's amendment and re-submission before proclamation) were not documented from a primary source in this pass.",
+    "Audit 2026-11-08: promise on Article 15 rewritten from the treaty text ($400,000 for removal, first-year support, education, farming and mills) instead of the Supreme Court's paraphrase; the Seneca deed promise now cites Article 10, where the $202,000 deed appears."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"
