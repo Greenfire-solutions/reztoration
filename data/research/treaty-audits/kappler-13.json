@@ -1,0 +1,15 @@
+{
+  "id": "kappler-13",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty text, signing and proclamation dates and Statutes at Large citation checked against the OSU Kappler edition (7 Stat. 15, October 22, 1784)",
+    "Promises checked against Articles I to IV and the preamble",
+    "Docket 344 final order of March 1, 1963 (item 737): dismissal, Area I never public domain, no Indian title to Erie Triangle, as stated",
+    "Status no-breach-found is consistent with the evidence"
+  ],
+  "changes": [
+    "Article numbers in promises made consistent (II, IV)"
+  ],
+  "unverifiable": []
+}

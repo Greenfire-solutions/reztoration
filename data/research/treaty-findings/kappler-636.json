@@ -1,0 +1,97 @@
+{
+  "id": "kappler-636",
+  "name": "Treaty with the Iowa, 1854",
+  "aka": ["Ioway treaty of May 17, 1854"],
+  "signed": "1854-05-17",
+  "proclaimed": "1854-07-17",
+  "citation": "10 Stat. 1069",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-iowa-1854-0628",
+  "nations": ["Iowa (Ioway)"],
+  "promises": [
+    "Article 1: the tract between the Great Nemaha, Noland's creek and the south fork of the Nemaha reserved as 'the future and permanent home of the Ioway Indians'.",
+    "Articles 2 and 3: the ceded land to be surveyed and offered for sale at public auction under the public land laws, with all the money from the sales, less the costs of surveying and selling, paid to the Iowa; no white settlement on the land before the surveys were approved.",
+    "Article 5: the President to decide how much of the proceeds to pay out and how much to invest, with the interest used for the Iowa's education and welfare.",
+    "Article 9: up to $100,000 of the fund set apart by the 1838 treaty to be spent on houses, fencing, stock and tools, the rest held in trust.",
+    "Article 12: $5,000 toward the Iowa's removal to the reserved land."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1969-02-17",
+      "what": "The Indian Claims Commission held that by failing to sell the Iowa trust lands at public auction, as Article 3 required, and letting settlers buy much of the land at appraised prices, the United States breached its duty to the Iowa. It found the 94,451.25 acres would have brought $377,805.10 at auction against $184,446.85 realized, and that 4,798 acres were never accounted for.",
+      "whoFoundIt": "Indian Claims Commission, Iowa Tribe of the Iowa Reservation in Kansas and Nebraska et al. v. United States, Docket 79-A, Findings of Fact and Interlocutory Order (February 17, 1969), 20 Ind. Cl. Comm. 308",
+      "source": {
+        "title": "Iowa Tribe et al. v. United States, Docket 79-A, Interlocutory Order (1969)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1105",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "The defendant by its failure to sell the Iowa lands at public auction"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1969-05-21",
+      "what": "The Commission entered a final award to the Iowa of the principal sum of $207,752.15 plus $1,159,949.75 in damages measured by 5% simple interest from June 16, 1857 to February 16, 1969, a total of $1,367,701.90, with further interest until payment.",
+      "whoFoundIt": "Indian Claims Commission, Docket 79-A, Final Award (May 1969), 21 Ind. Cl. Comm. 15",
+      "source": {
+        "title": "Iowa Tribe et al. v. United States, Docket 79-A, Final Award (1969)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2424",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "The Iowa's half of the 400 sections assigned to them and the Missouri Sauk and Fox in 1836, except the reserved tract (Royce area 323, ceded; areas 427 to 430, reserved). The Commission found the trust lands sold for the Iowa came to 94,451.25 acres, with a further 4,798 acres unaccounted for.",
+  "compensation": "The 1857 sales realized $184,446.85. The Commission's 1969 final award was $1,367,701.90, the $207,752.15 shortfall plus interest from 1857, with interest running until payment; the scanned award gives no day in May 1969 (the index date is May 21).",
+  "today": "Docket 79-A ended in a final award, not a settlement. Royce records that by the treaty of March 6, 1861 the Iowa ceded the part of the 1854 reserve west of Nohart creek for the Sauk and Fox of the Missouri.",
+  "plain": {
+    "promised": "A permanent home for the Ioway on a reserved tract, the rest of their land sold at public auction with all the money, less survey and sale costs, paid to the Iowa, and $5,000 toward their move.",
+    "happened": "The Indian Claims Commission held in 1969 that the United States breached its duty by letting settlers buy much of the land at appraised prices instead of selling it at auction, and that 4,798 acres were never accounted for.",
+    "today": "In 1969 the Commission awarded the Iowa $1,367,701.90, the $207,752.15 shortfall plus interest from 1857. Whether it was paid has not been traced."
+  },
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Iowa, 1854 (Kappler, vol. 2, p. 628)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-iowa-1854-0628",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Iowa Tribe et al. v. United States, Docket 79-A, Findings of Fact (1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1823",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Iowa Tribe et al. v. United States, Docket 79-A, Opinion of the Commission (1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1994",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Iowa Tribe et al. v. United States, Docket 79-A, Interlocutory Order (1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1105",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Iowa Tribe et al. v. United States, Docket 79-A, Final Award (1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2424",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Iowa Tribe et al. v. United States, Docket 79, Order of February 28, 1966 (stipulated acreage and valuation date)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2311",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule pp. 792-793",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/792/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json error: scheduleTribes and presentDayTribes list the Delaware (and the Delaware Nation, Oklahoma) and the Sauk and Fox for this entry. The treaty was made with the Iowa alone; Royce's schedule lists only the Iowa. The Sauk and Fox of the Missouri come in only because their 1854 reserve was partly taken from this cession (area 428) and Article 4 provides for that; the Delaware have no part in it.",
+    "The Iowa Tribe of Kansas and Nebraska's website was checked for its own account of this treaty; it mentions the 1854 Kansas-Nebraska Act drawing a line across the reservation but not the treaty. The Iowa Tribe of Oklahoma's account was not looked for.",
+    "Whether the 1969 award was paid, and how it was divided between the two Iowa tribes, was not traced.",
+    "The 4,798-acre shortage was stipulated by the parties in 1966; why the land was unaccounted for is not explained in the opened decisions."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

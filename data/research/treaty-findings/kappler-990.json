@@ -133,5 +133,10 @@
     "Audit 2026-11-07: added the March 1957 net award ($1,626,015.86) and the July 1957 amended order, which the earlier pass called unreadable. Treaty dates and 15 Stat. 589, Articles 1 to 3, the 1951 and 1955 Commission figures and the Lone Wolf quote re-read and confirmed. The treaties.json omission of the Apache Tribe of Oklahoma is confirmed (presentDayTribes lists only Comanche and Kiowa for kappler-990 and kappler-985)."
   ],
   "researchedAt": "2026-11-07",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "plain": {
+    "promised": "The Apache joined the Kiowa and Comanche on their reservation as a permanent home, sharing equally in schools, goods and annuities, with no cession valid unless three-fourths of the adult men signed.",
+    "happened": "In 1900 Congress took the reservation's surplus lands for $2,000,000 under a changed agreement never put to the tribes; the Indian Claims Commission found this was without their consent. The Supreme Court held in 1903 that Congress could abrogate the treaty.",
+    "today": "The Commission found the 2,033,583 acres worth $4,067,166 and in 1957 awarded $1,626,015.86 after offsets, later revised on rehearing. The revised figure, and whether it was paid, have not been traced."
+  }
 }

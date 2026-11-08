@@ -1,0 +1,16 @@
+{
+  "id": "kappler-403",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty text, signing and proclamation dates and Statutes at Large citation checked against the OSU Kappler edition (7 Stat. 424, proclaimed April 12, 1834)",
+    "Preamble 'nearly one-fourth' and Arts. I to IV checked",
+    "Opinion of December 12, 1951 (item 241) and additional findings, Finding 15 (item 349): 150 sections (96,000 acres), 82,808.23 acres, 13,191.77 acres short, $39,423.03, act of March 3, 1891, 26 Stat. 989, 998, accepted in lieu",
+    "Opinion of March 15, 1951 (item 37): $39,575.31 variant, 1824 consideration unconscionable"
+  ],
+  "changes": [
+    "Breach 'what' trimmed to the 1833 shortfall; the 1824 set-off point stays in 'today'",
+    "Audit line added explaining why status stays broken"
+  ],
+  "unverifiable": []
+}

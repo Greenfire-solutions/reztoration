@@ -1,0 +1,104 @@
+{
+  "id": "cession-1872-05-23-potawatomi",
+  "name": "Act of May 23, 1872 to provide homes for the Pottawatomie and Absentee Shawnee Indians in the Indian Territory",
+  "aka": [
+    "Potawatomi and Absentee Shawnee allotment act of 1872"
+  ],
+  "signed": "1872-05-23",
+  "citation": "Act of May 23, 1872, ch. 206, 17 Stat. 159",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-17/pdf/STATUTE-17-Pg159.pdf",
+  "nations": [
+    "Citizen Potawatomi Nation (Pottawatomie citizen band)",
+    "Absentee Shawnee Tribe of Indians of Oklahoma"
+  ],
+  "promises": [
+    "This was an Act of Congress, not a treaty. It directed allotment certificates for members of the Pottawatomie citizen band inside the thirty-mile-square tract selected for them west of the Seminole reservation, up to a quarter section for adults and eighty acres for minors, exempt from levy, taxation or sale and alienable only to the United States or to Indians lawfully in the Territory (section 1).",
+    "The cost of the land to the United States was to be paid from Potawatomi funds held by the United States, charged to their distributive share (section 1).",
+    "Absentee Shawnee who had lived three years in the same tract and improved land there were to receive certificates of allotment of eighty acres, plus twenty for each child (section 2)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1872-05-23",
+      "what": "The Act gave allotments inside the reservation that the 1867 treaty had set apart for the Potawatomi's exclusive use to Absentee Shawnee residents, providing no payment to the Potawatomi for that land, while charging the Potawatomi for the cost of their own allotments.",
+      "whoFoundIt": "Act of May 23, 1872, ch. 206, 17 Stat. 159, sections 1 and 2",
+      "source": {
+        "title": "An Act to provide Homes for the Pottawatomie and Absentee Shawnee Indians in the Indian Territory, 17 Stat. 159-160",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-17/pdf/STATUTE-17-Pg159.pdf",
+        "publisher": "U.S. Government Publishing Office"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1958-09-18",
+      "what": "The Indian Claims Commission found that this Act authorized allotments to Absentee Shawnee within the Potawatomi Reservation without payment of any consideration, that the patent promised to the Potawatomi Nation in 1867 was never issued, and that the United States must account to the Citizen Band for the unallotted land of the reservation.",
+      "whoFoundIt": "Indian Claims Commission, Docket 96, findings of fact (Findings 8 and 15) and interlocutory order of September 18, 1958",
+      "source": {
+        "title": "Citizen Band of Potawatomi Indians of Oklahoma v. United States, Docket 96, Findings of Fact (1958), 6 Ind. Cl. Comm. 646",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/163",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "No land was ceded to the United States by this Act. It divided Royce area 506 into allotments. The Commissioner of Indian Affairs reported on December 31, 1884 that only 11 Citizen Band members and no Absentee Shawnee had received certificates under it (Docket 96, Finding 8).",
+  "compensation": "None under this Act. The Commission later valued the reservation's surplus land, including the Absentee Shawnee allotments, at $1,090,000 as of June 25, 1890 and entered a net recovery of $797,508.99 for the Citizen Band in 1968 (Docket 96).",
+  "today": "The Citizen Potawatomi Nation lists its headquarters at Shawnee, Oklahoma (potawatomi.org, checked 2026-11-08). The Commission's Docket 96 award of 1968 closed the Citizen Band's claim for the reservation's surplus land.",
+  "plain": {
+    "promised": "Not a treaty: an Act giving Citizen Band Potawatomi allotments inside their reservation, protected from taxation or sale and charged to their own funds, and giving Absentee Shawnee residents allotments there too.",
+    "happened": "The Act gave Potawatomi reservation land to Absentee Shawnee without payment. The Indian Claims Commission found in 1958 that the patent promised to the Potawatomi in 1867 was never issued and that the United States must account for the unallotted land.",
+    "today": "Nothing was paid under this Act. In 1968 the Commission entered a net recovery of $797,508.99 for the Citizen Band for the reservation's surplus land, which closed that claim. Whether it was paid has not been traced."
+  },
+  "nationVoice": [
+    {
+      "nation": "Citizen Potawatomi Nation",
+      "summary": "The Nation's history says its first families reached the new reservation only in 1872, paying for the move themselves, after having been told before that land farther from settlers would belong to them forever.",
+      "url": "https://www.potawatomi.org/blog/2015/03/04/the-1867-potawatomi-treaty-encroachment-in-potawatomi-land-and-the-move-to-indian-territory/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Act of May 23, 1872, ch. 206, 17 Stat. 159",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-17/pdf/STATUTE-17-Pg159.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "17 Stat. 160 (continuation of ch. 206)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-17/pdf/STATUTE-17-Pg160.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma v. United States, Docket 96, Findings of Fact (1958), 6 Ind. Cl. Comm. 646",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/163",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma v. United States, Docket 96, Supplemental Findings of Fact (1964)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/757",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma v. United States, Docket 96, Final Judgment (1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1195",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Treaty with the Potawatomi, 1867 (Kappler vol. 2, p. 970)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1867-0970",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "The 1867 Potawatomi treaty, encroachment in Potawatomi land and the move to Indian Territory",
+      "url": "https://www.potawatomi.org/blog/2015/03/04/the-1867-potawatomi-treaty-encroachment-in-potawatomi-land-and-the-move-to-indian-territory/",
+      "publisher": "Citizen Potawatomi Nation"
+    }
+  ],
+  "openQuestions": [
+    "Royce lists this Act as a cession of area 506, but the Act itself ceded nothing; it allotted land inside the reservation. The cession of the reservation came by the agreements of June 25 and 26, 1890, ratified March 3, 1891 (a separate queue entry).",
+    "treaties.json lists seven Potawatomi nations and omits the Absentee Shawnee Tribe, which section 2 of the Act names. Treaties.json was not edited.",
+    "The Commission records that in 1872 the Potawatomi said they would not disturb the Absentee Shawnee if their reservation were extended westward by an equal area. Whether that was consent to the Act, and whether any extension followed, was not found.",
+    "The Absentee Shawnee Tribe's own account of the 1872 Act was not found."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

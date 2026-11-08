@@ -1,0 +1,18 @@
+{
+  "id": "cession-1889-03-02-sioux",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Docket 78 opinion of April 26, 1956 (item 530): 5,164 feet, 25,968.24 acres, disposals 1892 to 1911, 125 C. Cls. 439, 'accepted and agreed to by the different bands', all as stated",
+    "Docket 78 final order of October 27, 1961 (item 446): $18,818.11, $71,747.63, $157,404.46 offset, no amount due",
+    "Docket 78 opinion of October 27, 1961 (item 457): explains $19,476.18 less $658.07 = $18,818.11 as stated by the Commission",
+    "Act cited as 25 Stat. 888 in the Commission opinions"
+  ],
+  "changes": [
+    "Resolved the open question on $19,476.18 versus $18,818.11 using the 1961 opinion's own statement"
+  ],
+  "unverifiable": [
+    "Lower Brule Sioux Tribe page not re-opened by the auditor; nation-statement left as written",
+    "25 Stat. 888 itself not opened"
+  ]
+}

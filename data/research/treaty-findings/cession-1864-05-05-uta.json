@@ -1,0 +1,110 @@
+{
+  "id": "cession-1864-05-05-uta",
+  "name": "Act of May 5, 1864 to vacate and sell the Indian reservations in Utah Territory and settle the Indians in the Uinta Valley",
+  "aka": [
+    "Uintah Valley Act of 1864"
+  ],
+  "signed": "1864-05-05",
+  "citation": "Act of May 5, 1864, ch. 77, 13 Stat. 63",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-13/pdf/STATUTE-13-Pg63.pdf",
+  "nations": [
+    "Ute Indian Tribe of the Uintah and Ouray Reservation (Uintah Ute: Timpanogos, Pahvant, Sanpitch and other Utah Ute bands)",
+    "Confederated Tribes of the Goshute Reservation (Deep Creek reserve)"
+  ],
+  "promises": [
+    "This was an Act of Congress, not a treaty, and the Indians did not consent to it. It ordered the Indian reservations already made or occupied in Utah Territory, except the Uinta Valley, surveyed into lots and sold to the highest bidder at not less than appraised value (section 1). Royce identifies them as the Spanish Fork, Corn Creek, San Pete and Deep Creek reserves.",
+    "The proceeds of the sales were to be applied by the Secretary of the Interior to improvements on the reservations the Indians would move to, or to stock, tools and other useful articles for them (section 1).",
+    "The Uinta Valley was set apart for the permanent settlement and exclusive occupation of the Indians of Utah Territory who could be induced to move there (section 2), with $30,000 for farming improvements there (section 3)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1878-06-18",
+      "what": "Congress repealed the part of the 1864 Act that required the reservations to be appraised and sold, and directed the Secretary of the Interior to restore them to the public domain for disposal as other public lands, so the sale proceeds the 1864 Act set aside for the Indians were no longer provided for.",
+      "whoFoundIt": "Act of June 18, 1878, ch. 266, 20 Stat. 165",
+      "source": {
+        "title": "An act for the restoration to market of certain lands in the Territory of Utah, 20 Stat. 165",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-20/pdf/STATUTE-20-Pg165.pdf",
+        "publisher": "U.S. Government Publishing Office"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1957-02-21",
+      "what": "The Indian Claims Commission found that the Uintah Ute, whose bands included those around Utah Lake, Sevier Lake, Corn Creek and San Pete, used and occupied their lands in Utah exclusively until after their removal to the Uintah Valley following the unratified Spanish Fork treaty of 1865, and held the United States liable for the value of all lands in that area which it disposed of or acquired.",
+      "whoFoundIt": "Indian Claims Commission, Docket 44, findings of fact and interlocutory order of February 21, 1957, 5 Ind. Cl. Comm. 1",
+      "source": {
+        "title": "Uintah Ute Indians of Utah v. United States, Docket 44, Interlocutory Order (1957)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/66",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1960-06-13",
+      "what": "Dockets 44 and 45 were settled by a stipulation of the parties for $7,700,000, which the Commission found fair and entered as its final judgment.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 44 and 45, final judgment of June 1960 (dated June 13, 1960 in the collection index)",
+      "source": {
+        "title": "Uintah Ute Indians of Utah v. United States, Dockets 44 and 45, Final Judgment (1960)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/450",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "Royce areas 449 to 452, the Spanish Fork, Corn Creek, San Pete and Deep Creek reserves. Royce records that the 1865 treaty would have ceded them, 291,480 acres, at 62 1/2 cents an acre, but it was never ratified.",
+  "compensation": "No payment to the Indians for the four reserves was found. The Uintah Ute aboriginal land claim, which includes this area, ended in a compromise judgment of $7,700,000 in 1960 (Dockets 44 and 45).",
+  "today": "The 1960 settlement was signed for the Ute Indian Tribe of the Uintah and Ouray Reservation, whose reservation includes the Uintah Valley that this Act confirmed as a permanent reservation (an 1861 executive order had first set it apart, per the Commission's Docket 45 findings). The four reserves were restored to the public domain by the Act of June 18, 1878.",
+  "plain": {
+    "promised": "Not a treaty, and made without the Indians' consent: an Act ordering four Utah reserves sold, the money used for the Indians' improvements, stock and tools, and the Uinta Valley set apart for them permanently, with $30,000 for farming there.",
+    "happened": "Congress repealed the sale in 1878 and returned the reserves to the public domain, so the promised sale money was no longer provided for. In 1957 the Indian Claims Commission held the United States liable for Uintah Ute lands it disposed of or acquired.",
+    "today": "No payment for the four reserves was found. The wider Uintah Ute land claim, which includes this area, ended in a compromise judgment of $7,700,000 in 1960. Whether any lots were sold before 1878 is not known."
+  },
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Act of May 5, 1864, ch. 77, 13 Stat. 63",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-13/pdf/STATUTE-13-Pg63.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Act of June 18, 1878, ch. 266, 20 Stat. 165",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-20/pdf/STATUTE-20-Pg165.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule pp. 830-831, areas 449-452",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/830/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Uintah Ute Indians of Utah v. United States, Docket 44, Findings of Fact (1957), 5 Ind. Cl. Comm. 1",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/255",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Uintah Ute Indians of Utah v. United States, Docket 44, Interlocutory Order (1957)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/66",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Uintah Ute Indians of Utah v. United States, Docket 45, Findings of Fact (1957)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/13",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Uintah Ute Indians of Utah v. United States, Dockets 44 and 45, Final Judgment (1960)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/450",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "Whether any lots were ever sold under the 1864 Act before its repeal in 1878, and what became of any proceeds, was not found.",
+    "The Deep Creek reserve was made in 1859 for the Snakes and Goshute (Royce); the Uintah Ute area found by the Commission may not include it, and the Goshute's own claim was not researched. treaties.json lists only the three Ute tribes, two of them Colorado Ute tribes whom the Commission found were distinct from the Utah Ute. Treaties.json was not edited.",
+    "Whether every one of the four reserves lies inside the area of the Commission's Finding 3 was not plotted; the findings name Utah Lake, Sevier Lake, Corn Creek and San Pete County among the bands' homes.",
+    "The day of the 1960 final judgment is unclear in the OCR ('2 day of June'); the collection index date, June 13, 1960, is used.",
+    "No Ute Indian Tribe history page could be opened: utetribe.com returned a bot check on 2026-11-08."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

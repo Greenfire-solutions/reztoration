@@ -28,8 +28,13 @@
     }
   ],
   "landTaken": "Royce Areas 151 and 152, the 1830 Prairie du Chien cession, in which the Iowa interest was one of four (Docket 138 findings, 1965).",
-  "compensation": "$2,500 in goods at signing (treaty text). The 1965 stipulation reads as a net judgment of $1,372,267.50 for the Iowa tribes, with $150,000 withheld pending the Yankton Sioux claim in Docket 332-A (see openQuestions).",
+  "compensation": "$2,500 in goods at signing (treaty text). The 1965 stipulation reads as a net judgment of $1,372,267.50 for the Iowa tribes, with $150,000 withheld pending the Yankton Sioux claim in Docket 332-A.",
   "today": "The settlement was a compromise, not a finding that the 1837 price was unconscionable. The 1830 treaty itself is kappler-313.",
+  "plain": {
+    "promised": "$2,500 in horses, goods and presents at signing, and the costs of the negotiation and travel, for the Iowa's claim to land ceded in the 1830 Prairie du Chien treaty.",
+    "happened": "No formal finding that this treaty was broken has been located. The Iowa Tribe of Oklahoma says its cessions were made under the pressure of settler encroachment. The 1965 settlement was a compromise, not a finding that the price was unconscionable.",
+    "today": "The 1965 stipulation reads as a net judgment of $1,372,267.50 for the Iowa tribes, with $150,000 withheld pending another claim. Whether it was paid has not been traced."
+  },
   "sources": [
     {
       "title": "Treaty with the Iowa, 1837",
@@ -45,13 +50,24 @@
       "title": "Iowa Tribe v. United States, Docket 138, Final Judgment (1965)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/748",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "About Us",
+      "url": "https://iowanation.org/about-us/",
+      "publisher": "Iowa Tribe of Oklahoma"
     }
   ],
   "openQuestions": [
-    "The scan of the stipulation renders the judgment as '$1,372,267 .SO' once and '$1,312,267 .SO' once; the reading $1,372,267.50 should be checked against a clean copy.",
+    "Audit 2026-11-08: resolved. The judgment reads $1,372,267.50 cleanly twice (15 Ind. Cl. Comm. 172, at 173 and 190); the '$1,312,267.50' line is a scan misreading in the clause about the $150,000 holdback.",
     "The Commission dates the passing of title to February 16, 1838, the ratification date; OSU gives the proclamation as February 21, 1838."
   ],
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Iowa Tribe of Oklahoma (Báxoje)",
+      "summary": "The Tribe says that through a series of treaties made under the pressure of settler encroachment the Iowa ceded their claims to lands in Missouri, Iowa and Minnesota and were removed to a small reserve near the Kansas-Nebraska border that later treaties reduced further.",
+      "url": "https://iowanation.org/about-us/"
+    }
+  ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"
 }

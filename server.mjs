@@ -54,6 +54,7 @@ const server = http.createServer((req, res) => {
     }
     const one = (out, what) => (out ? send(res, 200, out) : send(res, 404, { error: `unknown ${what}` }));
     if (p === '/api/treaties') return send(res, 200, treaties.summary());
+    if (p === '/api/broken') return send(res, 200, treaties.broken());
     if (p.startsWith('/api/treaty/')) return one(treaties.treaty(decodeURIComponent(p.slice(12))), 'treaty');
     if (p.startsWith('/api/cession/')) return one(treaties.cession(decodeURIComponent(p.slice(13))), 'cession');
     if (p === '/api/today') return send(res, 200, today.map());

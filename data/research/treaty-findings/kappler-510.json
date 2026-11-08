@@ -56,6 +56,11 @@
   "landTaken": "The Kansas tract promised by Article 2 contained 1,824,000 acres (New York Indians v. United States, 1898).",
   "compensation": "The 1898 Supreme Court ordered judgment for the net amount the United States actually received for the Kansas lands, without interest, less the share settled with the Tonawanda Band (who had relinquished their Kansas interest for $256,000 under the 1857 treaty) and other deductions. The final dollar figure of that judgment was not confirmed here.",
   "today": "The Seneca deed in this treaty was replaced by the 1842 compromise, under which the Seneca Nation kept Allegany and Cattaraugus and lost Buffalo Creek and Tonawanda; the Tonawanda Band later repurchased part of its land under the 1857 treaty.",
+  "plain": {
+    "promised": "A permanent home of 1,824,000 acres west of Missouri for all the New York Indians, and $400,000 to help them move, settle, farm and educate, in return for their Green Bay lands.",
+    "happened": "The Supreme Court found in 1898 that the United States made the promised Kansas lands public domain, sold them and kept the money. The Seneca Nation calls the treaty fraudulently executed.",
+    "today": "The Court ordered judgment for the net amount the government received for the Kansas lands, less deductions. The final dollar figure was not confirmed, and whether it was paid has not been traced."
+  },
   "nationVoice": [
     {
       "nation": "Seneca Nation of Indians",

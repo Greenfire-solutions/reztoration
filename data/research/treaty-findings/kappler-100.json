@@ -98,6 +98,11 @@
     "Whether the annuity was ever commuted under Article 3 was not traced.",
     "Audit 2026-11-08: 'today' said the Article 6 reserves were ceded under treaties of 1831 and 1833; only the 1831 treaty is supported by a source opened (the Ottawa Tribe's removal page), so the sentence now reports what that page says."
   ],
+  "plain": {
+    "promised": "In return for land in southeastern Michigan and northwestern Ohio, the United States promised $10,000, a permanent $2,400 a year shared among four nations, two blacksmiths for ten years, hunting and fishing rights, and reserved tracts.",
+    "happened": "The Indian Claims Commission found in 1978 that the Ottawa, Potawatomi and Chippewa lands were worth $600,000, $2,300,000 and $3,500,000, that the three were paid $57,717.32 together, and that this was unconscionable.",
+    "today": "Final awards were entered in June 1978: $2,292,000.00 to the Potawatomi and $579,308.00 to the Ottawa. No final award for the Saginaw Chippewa share was found. The Ottawa Tribe says most Maumee Ottawa were moved in the 1830s."
+  },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"
 }

@@ -1,0 +1,87 @@
+{
+  "id": "kappler-281",
+  "name": "Treaty with the Potawatomi, 1826 (Treaty of the Mississinewa)",
+  "aka": ["Treaty of the Wabash, 1826 (Potawatomi)", "Treaty of Mississinewa"],
+  "signed": "1826-10-16",
+  "proclaimed": "1827-02-07",
+  "citation": "7 Stat. 295",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1826-0273",
+  "nations": ["Potawatomi"],
+  "promises": [
+    "Article 3: in return for the Article 1 cessions, an annuity of $2,000 in silver for twenty-two years, a blacksmith, $2,000 a year for education for as long as Congress thought proper, a corn mill on the Tippecanoe river with a miller, and 160 bushels of salt a year.",
+    "Article 4: the United States to pay the traders named in a schedule for the goods, valued at $30,547.71, that the commissioners had delivered to the tribe at the treaty, and a further $900.",
+    "Article 5: the United States to pay claims against the tribe listed in a schedule, amounting to $9,573, as part of the consideration.",
+    "Article 6: land grants to the individuals named in the annexed schedule, which they could not convey without the President's consent.",
+    "Article 7: the Potawatomi to keep the right to hunt on any part of the ceded land as long as it remained the property of the United States."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1978-09-08",
+      "what": "The Indian Claims Commission found that the consideration the United States paid the Potawatomi under four treaties, this one among them (Royce areas 132 and 133), came to $922,525.00 for interests in land with a combined fair market value of $5,420,340.59, and was so grossly inadequate as to be unconscionable. The Commission did not state a separate figure for this treaty.",
+      "whoFoundIt": "Indian Claims Commission, Citizen Band of Potawatomi Indians of Oklahoma et al. v. United States, Dockets 128, 309, 310 and others, Additional Findings of Fact (September 8, 1978), 43 Ind. Cl. Comm. 74",
+      "source": {
+        "title": "Citizen Band of Potawatomi Indians of Oklahoma et al. v. United States, Dockets 128 et al., Additional Findings of Fact, Part 2 (1978)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2160",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1978-09-08",
+      "what": "On the same findings the Commission awarded the Potawatomi plaintiffs $4,497,815.59 as additional compensation for the cessions of Royce areas 132 and 133 under this treaty, areas 145 and 146 under the treaty of September 20, 1828, and areas 180 and 181 under the two treaties of October 1832, subject to gratuitous offsets.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 128, 309, 310, 15-N, 15-O, 15-Q, 15-R, 29-L, 29-M, 29-O and 29-P, Order Setting Awards (September 8, 1978)",
+      "source": {
+        "title": "Citizen Band of Potawatomi Indians of Oklahoma et al. v. United States, Order Setting Awards (1978)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2599",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "Royce areas 132 and 133 in Indiana: the tract between the Tippecanoe, Eel, St. Joseph and Wabash rivers, and a strip ten miles deep at the south end of Lake Michigan (Article 1), plus a 100-foot strip for a road from Lake Michigan to the Wabash and one section of land per mile of road, given to the State of Indiana (Article 2). The Commission found the Potawatomi held recognized title to area 133 and joint recognized title with the Miami to area 132, valued as of February 7, 1827.",
+  "compensation": "The treaty paid the Article 3 annuities and services and the Article 4 and 5 goods and claims. The Commission set the Potawatomi consideration under the four treaties at $922,525.00 in all and awarded $4,497,815.59 for the four treaties together on September 8, 1978, subject to offsets; it then certified the case to the Court of Claims.",
+  "today": "The 1978 award covers four treaties without a separate figure for this one. On September 29, 1978 the Commission certified Dockets 128 et al. to the United States Court of Claims; the final judgment and payment were not traced in this pass.",
+  "plain": {
+    "promised": "An annuity of $2,000 in silver for twenty-two years, a blacksmith, $2,000 a year for schooling, a corn mill with a miller, salt each year, and the right to hunt on the ceded land while the United States owned it.",
+    "happened": "The Indian Claims Commission found in 1978 that the $922,525.00 paid under four treaties, this one among them, for land worth $5,420,340.59 was so grossly inadequate as to be unconscionable.",
+    "today": "In 1978 the Commission awarded $4,497,815.59 for the four treaties together, subject to offsets, with no separate figure for this one. The final judgment and whether it was paid have not been traced."
+  },
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Potawatomi, 1826 (Kappler, vol. 2, p. 273)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1826-0273",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma et al. v. United States, Dockets 128 et al., Findings of Fact (December 28, 1973), 32 Ind. Cl. Comm. 461",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2222",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma et al. v. United States, Dockets 128 et al., Additional Findings of Fact, Part 2 (1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2160",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma et al. v. United States, Order Setting Awards (1978)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2599",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 716",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/716/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The per-treaty figures in the Commission's 1978 tables (value and consideration for this treaty alone) did not come through in the scanned text; only the four-treaty totals are recorded. A clean copy of 43 Ind. Cl. Comm. 74, finding 49 and 50, would give them.",
+    "The scanned Order Setting Awards reads 'October 28, 1826' for the cession of areas 132 and 133; the treaty and the 1973 findings give October 16, 1826. Read as a scan error.",
+    "The Court of Claims judgment after the 1978 transfer, and whether the award was paid and distributed, were not traced.",
+    "Whether the Article 3 education money, mill, miller and salt were provided as promised was not researched.",
+    "No Potawatomi nation's own account of this treaty was found on the Citizen Potawatomi, Pokagon or Forest County sites in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

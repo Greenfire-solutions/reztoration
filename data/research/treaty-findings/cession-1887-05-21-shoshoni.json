@@ -37,8 +37,9 @@
   ],
   "openQuestions": [
     "Dates: Royce and the 1906 order date the order May 21, 1887; the American Presidency Project transcription shows the Secretary of War's letter dated May 18 and the President's approval dated May 24, 1887.",
-    "The order records the Interior Department's lack of objection but no consent of the Shoshone or Arapaho, and no compensation. When and how the land went back to the tribes after the post closed was not traced.",
-    "Royce cession 540 is listed in treaties.json for this entry and for the 1872 Brunot cession; the map may be drawing the same polygon for both."
+    "The order records that the Interior Department did not object and mentions no payment; it does not say whether the Shoshone or Arapaho were asked, and no source on their consent was found. When and how the land went back to the tribes after the post closed was not traced.",
+    "Royce cession 540 is listed in treaties.json for this entry and for the 1872 Brunot cession; the map may be drawing the same polygon for both.",
+    "Audit 2026-11-08: reworded the consent question so it states only what the order says, not whether consent was given."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

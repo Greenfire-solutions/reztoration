@@ -1,0 +1,44 @@
+{
+  "id": "kappler-129",
+  "name": "Treaty with the Foxes, 1815 (Portage des Sioux)",
+  "aka": [
+    "Treaty of peace and friendship with the Fox, September 14, 1815"
+  ],
+  "signed": "1815-09-14",
+  "ratified": "1815-12-26",
+  "citation": "7 Stat. 135",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-foxes-1815-0121",
+  "nations": [
+    "Fox (Meskwaki)"
+  ],
+  "promises": [
+    "Every injury or act of hostility by either party would be forgiven (Article 1).",
+    "There would be perpetual peace and friendship between United States citizens and the Fox (Article 2).",
+    "Both parties would deliver up all prisoners at Fort Clark on the Illinois River (Article 3).",
+    "The Fox confirmed the treaty of St. Louis of November 3, 1804, and the United States promised to fulfil all its stipulations in favour of the Fox (Article 4)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "No land was ceded by this treaty.",
+  "today": "The Sac and Fox claim for the lands ceded in 1804 was heard in Indian Claims Commission Docket 83 (interlocutory order of June 12, 1959 on title). That claim concerns the 1804 treaty and is not recorded as a breach of this 1815 treaty.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Foxes, 1815 (Kappler, vol. 2, p. 121)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-foxes-1815-0121",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Sac and Fox Tribe of Indians of Oklahoma et al. v. United States, Docket 83, Interlocutory Order (June 12, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/140",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json gives this entry Royce cessions 50 and 51, which are the 1804 cession areas; this treaty ceded no land. The schedule tribe is given as 'Sauk and Fox', but the signers were the Fox only. Not edited.",
+    "Article 4's promise to fulfil the 1804 stipulations could be tested against the 1804 annuity record; not done in this pass.",
+    "Meskwaki Nation (Sac and Fox Tribe of the Mississippi in Iowa) accounts of the 1815 treaty were not located in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

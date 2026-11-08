@@ -21,7 +21,7 @@
     {
       "kind": "act-of-congress",
       "date": "1863-02-16",
-      "what": "After the 1862 war, Congress declared all treaties with the Sisseton, Wahpeton, Mdewakanton and Wahpakoota bands annulled as to any future obligation of the United States, and declared their annuities and claims forfeited. This ended the perpetual income the 1837 treaty promised, without the bands' consent.",
+      "what": "After the 1862 war, Congress declared all treaties with the Sisseton, Wahpeton, Medawakanton and Wahpakoota bands annulled as to any future obligation of the United States, and declared their annuities and claims forfeited. This ended the perpetual income the 1837 treaty promised.",
       "whoFoundIt": "Act of February 16, 1863, ch. 37, 12 Stat. 652",
       "source": {
         "title": "Act of February 16, 1863, ch. 37, 12 Stat. 652",
@@ -57,6 +57,11 @@
   "landTaken": "Royce Area 243, described by the Commission as over 4 million acres in east central Minnesota and west central Wisconsin (Docket 142 opinion, 1962).",
   "compensation": "Docket 360 compromise judgment of $1,129,359.00 for the Medawakanton (1967). The 1963 Act paid part of the forfeited annuities to settlers for war damages (12 Stat. 652, section 2).",
   "today": "In 1962 the Commission found that the Mdewakanton band held recognized title to Royce Area 243, except the part east of a line from the mouth of the Black River toward Chippewa Falls, when the 1837 treaty was made (Docket 142 et al., Interlocutory Order). The case was then settled.",
+  "plain": {
+    "promised": "Income of not less than five per cent on $300,000, paid annually, forever, plus twenty years of goods, medicines, farmers, blacksmiths and provisions, for all Sioux land east of the Mississippi.",
+    "happened": "After the 1862 war, Congress in 1863 annulled the treaties with these bands and declared their annuities forfeited, ending the perpetual income. The Shakopee Mdewakanton Sioux Community says no annuities were paid to the Mdewakanton from 1861 to 1885.",
+    "today": "The Mdewakanton claim for this land was settled by compromise in 1967 for $1,129,359.00. Whether it was paid has not been traced."
+  },
   "nationVoice": [
     {
       "nation": "Shakopee Mdewakanton Sioux Community",
@@ -103,8 +108,9 @@
   ],
   "openQuestions": [
     "Whether and when the 1837 annuities were later restored in part (search results mention a later restoration act) was not traced from a primary source.",
-    "The Shakopee page's year headings were read through a page summariser; the quoted sentence was returned verbatim but the page was not read in full.",
-    "The Prairie Island, Lower Sioux and Santee Sioux Nation accounts of this treaty were not found."
+    "Audit 2026-11-08: the Shakopee history page was opened directly and the quoted sentence confirmed verbatim; it sits under its 1861-1885 heading.",
+    "The Prairie Island, Lower Sioux and Santee Sioux Nation accounts of this treaty were not found.",
+    "Audit 2026-11-08: removed 'without the bands' consent' from the 1863 Act breach: the Act does not speak to consent and no source here does. Band names in 'what' now follow the Act's spelling."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

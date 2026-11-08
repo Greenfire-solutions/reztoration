@@ -1,0 +1,44 @@
+{
+  "id": "kappler-92",
+  "name": "Treaty with the Cherokee, October 27, 1805 (Tellico, South West Point cession)",
+  "aka": [
+    "Second Treaty of Tellico, 1805"
+  ],
+  "signed": "1805-10-27",
+  "proclaimed": "1806-06-10",
+  "citation": "7 Stat. 95",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1805-0084",
+  "nations": [
+    "Cherokee (Aniyvwiya)"
+  ],
+  "promises": [
+    "The Cherokee ceded the section of land on which the South West Point garrison stood, extending to Kingston, as a possible seat for the Tennessee assembly, reserving the ferries to themselves, and the first island in the Tennessee above the mouth of the Clinch (Article 1).",
+    "The Cherokee granted citizens free use of a mail road from Tellico to Tombigbee through their country (Article 2).",
+    "The United States would pay $1,600 in money or useful merchandise, at the Cherokee's option, within ninety days of ratification (Article 3)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "$1,600 under Article 3. No Indian Claims Commission finding specific to this cession was found.",
+  "today": "The Eastern Band of Cherokee Indians' claims under the Cherokee treaties of 1785 to 1835, Dockets 282-A through 282-L, were settled by compromise for $1,855,254.50 on September 11, 1972, after the parties compromised liability by stipulation; whether this treaty was among them was not established, and a compromise is not a finding of breach.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Cherokee, 1805 (October 27) (Kappler, vol. 2, p. 84)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1805-0084",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Eastern Band of Cherokee Indians v. United States, Dockets 282-A to 282-L, Findings of Fact on Compromise Settlement (September 11, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2321",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "Royce cessions 58 and 59 in treaties.json were not checked against the schedule; the two parcels in Article 1 (the South West Point section and the island) fit two areas, but this was not confirmed.",
+    "Whether the Cherokee Nation (Oklahoma) brought its own Indian Claims Commission claim for the early eastern cessions was not established; only the Eastern Band's Docket 282 series was found.",
+    "Whether the $1,600 was paid, and whether the ferries reserved in Article 1 were respected, was not checked.",
+    "Cherokee Nation and Eastern Band accounts of this treaty were not located in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

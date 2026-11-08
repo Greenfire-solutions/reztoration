@@ -1,0 +1,17 @@
+{
+  "id": "kappler-642",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty text, signing and proclamation dates and Statutes at Large citation checked against the OSU Kappler edition (10 Stat. 1078, ratified July 11, proclaimed July 17, 1854)",
+    "Interlocutory order of May 4, 1962 (item 315): 618,000 acres, $300,000, $1,236,000, unconscionable, $936,000",
+    "1962 opinion (item 543): no wilful deceit, reliance on good faith; $336,000 scan variant",
+    "Final award September 29, 1967 (item 2754): $164,558.74 offsets, $771,441.26",
+    "Docket 316-A (items 1312, 2230): 123,832 acres, Atchison railroad, $125,209.61"
+  ],
+  "changes": [
+    "Promise 2: removed the computed end year 1877 for the instalments (the text's schedule does not end in 1877)",
+    "Breach 'what': good-faith sentence aligned with the opinion"
+  ],
+  "unverifiable": []
+}

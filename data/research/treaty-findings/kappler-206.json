@@ -118,6 +118,11 @@
     "Payments under the Potawatomi annuity were not traced.",
     "Audit 2026-11-08: 'today' said the Article 2 reserves were ceded in 1827 and 1833 with no source for it; it now cites the Commission's 1972 findings in Dockets 71 et al. (OSU id 1240), which say so, and the 1827 treaty text, which names four of the five reserves."
   ],
+  "plain": {
+    "promised": "In return for land in southwestern Michigan and northern Indiana, the United States promised five reserved tracts, yearly payments in coin to the Ottawa and Potawatomi, blacksmiths and teachers, and hunting rights on the ceded land.",
+    "happened": "The Indian Claims Commission found in 1964 that the Potawatomi and Ottawa lands were worth $2,428,869.90 and $969,629.00, against $108,499.20 and $32,337.33 paid, and held those payments unconscionable. The Gun Lake Tribe says it lost its reservation in 1827 without payment or land.",
+    "today": "The Potawatomi received a final award of $2,296,870.70 in 1974, and the Grand River Ottawa a final judgment of $932,620.01 in 1968. The reserved tracts were ceded back in 1827 and 1833."
+  },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"
 }

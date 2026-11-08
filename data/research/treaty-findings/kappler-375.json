@@ -86,6 +86,11 @@
     "treaties.json attaches eight Royce cessions (180, 200, 209, 210, 218, 325, 436, 437) to this id; only 180 belongs to this treaty, the others are later cessions of the reserved lands and of Kansas lands. Worth correcting in treaties.json.",
     "Whether the reserved band lands of Article 2 were later ceded without the bands' consent (Menominee's refusal of the 1836 Yellow River treaty) was not traced to a finding. No nation statement was found in this pass."
   ],
+  "plain": {
+    "promised": "In return for land in northwestern Indiana, the United States promised reservations for named Potawatomi bands, $20,000 a year for twenty years, goods, payment of listed debts and a sawmill.",
+    "happened": "The Indian Claims Commission found in 1978 that the United States paid a combined $582,554.60 for land worth $2,440,941.85, and that this was unconscionable. Chiefs protested in 1836 that their reserve was sold without their consent.",
+    "today": "In 1978 the Commission awarded $4,497,815.59 for four cessions together, including this one; the share for this treaty is not stated. The final amount paid has not been found."
+  },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher",
   "nationVoice": [

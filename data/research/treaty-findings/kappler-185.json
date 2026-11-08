@@ -24,7 +24,7 @@
       "kind": "government-admission",
       "date": "1895-01-07",
       "what": "In an accounting of money due the Cherokee Nation under its treaties, sent to Congress by the Secretary of the Interior, the government stated that the three Tellico reservation tracts ceded in trust by this treaty for the school fund were never sold for that purpose, were confirmed to citizens of Tennessee, and that the Cherokee Nation derived no benefit from them. It stated that their value, $2,125 at $1.25 an acre for 1,700 acres, with interest from February 27, 1819, was due to the Nation.",
-      "whoFoundIt": "Secretary of the Interior Hoke Smith, Moneys Due the Cherokee Nation, House Ex. Doc. No. 182, 53rd Congress, 3rd Session",
+      "whoFoundIt": "Department of the Interior, complete account of moneys due the Cherokee Nation (accounting agents' report of April 28, 1894), transmitted to Congress by Secretary of the Interior Hoke Smith on January 7, 1895, House Ex. Doc. No. 182, 53rd Congress, 3rd Session",
       "source": {
         "title": "Moneys Due the Cherokee Nation, House Ex. Doc. No. 182, 53rd Cong., 3rd Sess. (1895)",
         "url": "https://www.govinfo.gov/content/pkg/SERIALSET-03323_00_00-033-0182-0000/pdf/SERIALSET-03323_00_00-033-0182-0000.pdf",
@@ -35,7 +35,13 @@
   ],
   "compensation": "The same 1895 accounting reports that of the 93,938.16 acres in the twelve-mile-square school tract, 67,657.63 acres had been sold by April 1, 1894, for $106,383.20, added to the Cherokee school fund. Whether the $2,125 with interest was ever paid was not found.",
   "today": "The 1895 accounting was made under the agreement of December 19, 1891, ratified March 3, 1893, and was transmitted with an act of the Cherokee national council accepting it.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Cherokee Nation (Tsalagi)",
+      "summary": "The Nation says unrelenting pressure followed successive treaties that had already shrunk its territory, that most Cherokees refused to leave their homelands despite US efforts to lure them west, and that the further cessions confirmed in the 1819 treaty left most of its remaining land in Georgia.",
+      "url": "https://cherokee.gov/about-the-nation/history/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Cherokee, 1819 (Kappler, vol. 2, p. 177)",
@@ -51,6 +57,11 @@
       "title": "Worcester v. Georgia, 31 U.S. 515 (1832)",
       "url": "https://www.law.cornell.edu/supremecourt/text/31/515",
       "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "The History of the Cherokee Nation",
+      "url": "https://cherokee.gov/about-the-nation/history/",
+      "publisher": "Cherokee Nation"
     }
   ],
   "openQuestions": [
@@ -58,8 +69,14 @@
     "The same 1895 document reprints a Senate resolution promising $35,568 for the unsold balance of the twelve-mile-square tract; it notes no action was taken on it. Its date and fate were not traced.",
     "Worcester v. Georgia (1832) lists this treaty among those Georgia's laws were said to violate, and Justice McLean's concurrence recites Article 5 on removing intruders. The Court held Georgia's law void; it made no finding that the United States broke this treaty, so it is not counted here.",
     "No Indian Claims Commission decision dealing with this treaty was found. The Eastern Band's Dockets 282-A to 282-L (treaties of 1785 to 1835) ended in a $1,855,254.50 compromise in 1972 that does not separate the treaties.",
-    "Whether the United States removed intruders under Article 5 was not researched."
+    "Whether the United States removed intruders under Article 5 was not researched.",
+    "Audit 2026-11-08: 'whoFoundIt' now says the account was the accounting agents' report of April 28, 1894, certified and transmitted by Secretary Hoke Smith; the quote and figures were re-checked on pp. 2 to 4 and 32 of the Serial Set PDF."
   ],
+  "plain": {
+    "promised": "Land on the Tennessee River and three Tellico tracts were given to the United States in trust, to be sold for a Cherokee school fund. The United States also promised to remove white intruders from Cherokee land.",
+    "happened": "In an 1895 accounting sent to Congress, the Department of the Interior stated that the three Tellico tracts were never sold for the school fund, were confirmed to citizens of Tennessee, and brought the Cherokee Nation no benefit.",
+    "today": "The same accounting said $2,125, with interest from 1819, was due to the Nation. Whether it was ever paid has not been found. Part of the larger tract was sold for $106,383.20 for the school fund."
+  },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"
 }

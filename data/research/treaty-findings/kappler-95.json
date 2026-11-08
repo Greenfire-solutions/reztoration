@@ -1,0 +1,50 @@
+{
+  "id": "kappler-95",
+  "name": "Treaty with the Choctaw, 1805 (Treaty of Mount Dexter)",
+  "aka": [
+    "Treaty of Limits between the United States and the Chaktaw Nation, 1805",
+    "Treaty of Mount Dexter"
+  ],
+  "signed": "1805-11-16",
+  "proclaimed": "1808-02-25",
+  "citation": "7 Stat. 98",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-choctaw-1805-0087",
+  "nations": [
+    "Choctaw Nation of Oklahoma",
+    "Mississippi Band of Choctaw Indians",
+    "Jena Band of Choctaw Indians"
+  ],
+  "promises": [
+    "The Choctaw ceded the lands south and east of a line running from the Natchez to Washington County path across the Pearl and Chickasawhay rivers to the Tombigbee and the Creek boundary (Article 1).",
+    "The United States would pay $50,500: $48,000 so the chiefs could pay the nation's debts to merchants and traders and for depredations, and $2,500 to John Pitchlynn, plus $3,000 a year in goods chosen by the chiefs (Article 2).",
+    "Each of the three great medal chiefs would receive $500 and $150 a year while in office (Article 3).",
+    "The boundary would be surveyed and marked in the presence of three Choctaw appointees, paid two dollars a day, with due notice to the nation (Article 5).",
+    "Royce's schedule records two reserves kept out of the cession: two miles square around the town of Fuketcheepoonta, and 5,120 acres on the Tombigbee for two daughters of Samuel Mitchell."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce area 61, in Mississippi and Alabama. No acreage was found in a source opened. Royce records that the Fuketcheepoonta reserve was later covered by the general Choctaw cession of September 27, 1830 (area 157) and that the Mitchell reserve was partitioned and sold by the Mitchell family.",
+  "compensation": "$50,500 in lump sums, $3,000 a year in goods, and payments to the three medal chiefs, as set out in Articles 2 and 3. Of the lump sum, $48,000 was to let the chiefs pay debts to merchants and traders and for depredations.",
+  "today": "No Indian Claims Commission decision on this cession was found among the 18 decisions returned by node scripts/research/icc.mjs search choctaw on 2026-11-08; those opened concern later treaties and tribal funds.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Choctaw, 1805 (Kappler vol. 2, p. 87), 7 Stat. 98",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-choctaw-1805-0087",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule pp. 672-673, areas 61, 62 and 157",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/672/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "No breach was found. Leads for a deeper pass: whether the boundary survey of Article 5 was run with Choctaw observers as promised; whether the $3,000 annuity in goods and the medal chiefs' annuities were paid; and whether any Court of Claims Choctaw case addresses the 1805 cession.",
+    "The Senate's advice and consent date was not found; OSU gives only the proclamation of February 25, 1808.",
+    "The Choctaw Nation's history pages (choctawnation.com) returned 403 on 2026-11-08; no nation account was found.",
+    "treaties.json lists the Jena Band and the Mississippi Band as well as the Choctaw Nation of Oklahoma; the treaty names only the Choctaw nation as a whole."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

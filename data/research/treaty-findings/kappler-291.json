@@ -74,6 +74,11 @@
     "treaties.json names this entry \"Potawatomi, Winnebago, Creek, Cherokee nation west of Mississippi river, 1827-09-19\" and lists Royce cessions 135 to 146, 149 and 189. Only the Potawatomi treaty of 19 September 1827 was researched; the other nations and areas appear to come from different Royce entries and may have been merged by date. Needs checking in treaties.json.",
     "Whether the Saginaw Chippewa interest in Areas 135 and 136, relinquished for $1,000 in 1837, was ever litigated was not traced."
   ],
+  "plain": {
+    "promised": "In exchange for scattered earlier reserves in Michigan, including Match-e-be-nash-she-wish's village, the United States promised the Potawatomi one continuous reservation of ninety-nine sections next to the Nottawa Sape reserve, away from white settlements.",
+    "happened": "The Gun Lake Tribe says its chief gave up its Kalamazoo reserve under this treaty and the band never received payment or land. No formal finding that the treaty was broken has been located.",
+    "today": "No Indian Claims Commission award for this cession was found. The new reservation was itself ceded in 1833. The Gun Lake band moved north, settling near Gun Lake around 1838."
+  },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"
 }

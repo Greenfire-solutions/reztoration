@@ -1,0 +1,35 @@
+[
+ {
+  "id": "choctaw-fresh-produce",
+  "name": "Choctaw Fresh Produce",
+  "category": "agriculture",
+  "subcategory": "certified organic vegetable farms and mobile market",
+  "nation": "Mississippi Band of Choctaw Indians",
+  "ownership": "tribal-enterprise",
+  "ownershipSource": {
+   "title": "Mississippi Band of Choctaw Indians Office of Economic Development: Tribal Businesses",
+   "url": "https://mschoctawbusiness.com/"
+  },
+  "description": "The tribe's organic farms on the Choctaw reservation, selling vegetables through farmers markets, a market on wheels and supplies to tribal enterprises.",
+  "website": "https://www.facebook.com/choctawfreshproduce/",
+  "city": "Pearl River",
+  "state": "MS",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Mississippi Band of Choctaw Indians Office of Economic Development: Tribal Businesses (site dated 2026)",
+    "url": "https://mschoctawbusiness.com/"
+   },
+   {
+    "title": "USDA AMS: Mississippi Band of Choctaw Indians LFPA executive summary (purchases from Choctaw Fresh Produce)",
+    "url": "https://www.ams.usda.gov/selling-food-to-usda/lfpacap/exec-summaries/mississippi-band-of-choctaw-indians"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -89.2278,
+   32.7835
+  ],
+  "lonlatPrecision": "town"
+ }
+]

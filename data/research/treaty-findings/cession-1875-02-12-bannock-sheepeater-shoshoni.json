@@ -40,7 +40,7 @@
     }
   ],
   "landTaken": "The Lemhi aboriginal lands described in the Commission's 1962 findings (acreage not recorded here). By an agreement of May 14, 1880, ratified by the Act of February 23, 1889, 25 Stat. 687, the Lemhi agreed to give up the reserve and move to Fort Hall, and they moved in 1907 (Docket 326 findings, 1962).",
-  "compensation": "Compromise judgment in Docket 326-I (1971); the amount is unclear in the scan (see openQuestions).",
+  "compensation": "Compromise settlement in Docket 326-I (1971) for a net final judgment of $4,500,000.00, the figure written in the tribal resolution and the Interior Department letter set out in the Commission's findings on the compromise. The stipulation says it is not an admission by either party.",
   "today": "The Lemhi reserve no longer exists; its people moved to the Fort Hall Reservation in 1907 (Docket 326 findings, 1962).",
   "sources": [
     {
@@ -70,12 +70,17 @@
     }
   ],
   "openQuestions": [
-    "The settlement amount is scanned as '$4,50O,OCO' in the Justice Department letter and '$4,59O,OC)C)' in the final award; it is left out until a clean copy is read.",
     "No Shoshone-Bannock Tribes page about the Lemhi removal of 1907 was found on the tribes' site.",
     "The order's own text (Kappler vol. 1, p. 839) was not opened; it is described here from the Commission's findings and Royce.",
-    "The date of the unratified treaty Royce refers to was not confirmed."
+    "Audit 2026-11-08: the settlement figure was added: the findings on the compromise (ICC pointer 1514) print \"$4,500,000.00\" cleanly in the tribal resolution and the Interior Department letter; only the final award's scan of the figure is damaged.",
+    "Audit 2026-11-08: Royce dates the unratified treaty this reserve replaced to September 24, 1868 (Royce schedule, remark opposite the order of February 12, 1875)."
   ],
   "nationVoice": [],
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "plain": {
+    "promised": "Not a treaty: an executive order. The President established the Lemhi Valley Indian Reservation in Idaho for the mixed tribes of Shoshone, Bannock and Sheepeater Indians.",
+    "happened": "The Indian Claims Commission found in 1962 that the United States acquired the Lemhi Tribe's aboriginal lands without paying compensation on February 12, 1875, the date of this order.",
+    "today": "The claim was settled by compromise in 1971 for a net $4,500,000.00, not an admission by either party. Whether it was paid has not been traced. The Lemhi people moved to the Fort Hall Reservation in 1907."
+  }
 }

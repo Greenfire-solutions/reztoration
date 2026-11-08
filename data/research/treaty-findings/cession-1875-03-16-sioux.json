@@ -29,13 +29,24 @@
       "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
       "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
       "publisher": "Internet Archive"
+    },
+    {
+      "title": "History (Wayback Machine copy, June 15, 2021)",
+      "url": "http://web.archive.org/web/20210615102625/https://www.standingrock.org/History/",
+      "publisher": "Standing Rock Sioux Tribe"
     }
   ],
   "openQuestions": [
     "The order's text was read through Royce's schedule and the Supreme Court's account of it; the UGA scan linked in treaties.json returned 403.",
     "No tribal statement about the 1875 and 1876 additions east of the Missouri was found."
   ],
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Standing Rock Sioux Tribe",
+      "summary": "The Tribe's history records that the Executive Order of March 16, 1875 extended its reservation's northern boundary to the Cannon Ball River, and that Congress then reduced the Great Sioux Reservation in 1889, leaving the boundaries Standing Rock has today.",
+      "url": "http://web.archive.org/web/20210615102625/https://www.standingrock.org/History/"
+    }
+  ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"
 }

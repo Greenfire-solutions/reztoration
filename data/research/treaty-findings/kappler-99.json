@@ -1,0 +1,50 @@
+{
+  "id": "kappler-99",
+  "name": "Elucidation of a Convention with the Cherokee Nation, 1807 (Chickasaw Old Fields)",
+  "aka": [
+    "Treaty with the Cherokee, September 11, 1807",
+    "Explanation of the Cherokee convention of January 7, 1806"
+  ],
+  "signed": "1807-09-11",
+  "proclaimed": "1808-04-22",
+  "citation": "7 Stat. 103",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-7/pdf/STATUTE-7-Pg103.pdf",
+  "nations": [
+    "Cherokee (Aniyvwiya)"
+  ],
+  "promises": [
+    "The parties declared that the Cherokee cession of January 7, 1806 was meant to include the country between the Tennessee River and the Tennessee ridge, with its eastern limit run from the upper end of the Chickasaw Old Fields to take in all the waters of Elk River.",
+    "The United States would pay the Cherokee $2,000, through their agent, for their readiness to explain the limits and their council expenses.",
+    "Cherokee hunters could hunt on the ceded tract, as had been the custom, until settlement made it improper."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "$2,000 under the elucidation. No Indian Claims Commission finding specific to this instrument was found.",
+  "today": "The Eastern Band of Cherokee Indians' claims under the Cherokee treaties of 1785 to 1835, Dockets 282-A through 282-L, were settled by compromise for $1,855,254.50 on September 11, 1972; whether this instrument or the January 7, 1806 cession was among them was not established, and a compromise is not a finding of breach.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Cherokees, 1807: Elucidation of a convention with the Cherokee Nation, 7 Stat. 103-104",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-7/pdf/STATUTE-7-Pg103.pdf",
+      "publisher": "US Government Publishing Office (Statutes at Large)"
+    },
+    {
+      "title": "Treaty with the Cherokee, 1806 (Kappler, vol. 2, p. 90)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1806-0090",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Eastern Band of Cherokee Indians v. United States, Dockets 282-A to 282-L, Findings of Fact on Compromise Settlement (September 11, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2321",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json lists the 'Eastern Band of Cherokee Indians' twice under slightly different names among the present-day tribes; a duplicate, not edited.",
+    "Royce cession 64 was not checked against the schedule.",
+    "The tract had been claimed by both the Cherokee and the Chickasaw since 1794 (the elucidation says so); Chickasaw claims to the same area were not researched.",
+    "Whether the $2,000 was paid and how long the hunting right was honoured was not checked."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

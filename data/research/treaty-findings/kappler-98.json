@@ -1,0 +1,66 @@
+{
+  "id": "kappler-98",
+  "name": "Convention with the Cherokee, 1806 (Treaty of Washington)",
+  "aka": ["Cherokee convention of January 7, 1806", "Elucidation of September 11, 1807 (7 Stat. 103)"],
+  "signed": "1806-01-07",
+  "ratified": "1807-05-22",
+  "proclaimed": "1807-05-23",
+  "citation": "7 Stat. 101",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1806-0090",
+  "nations": ["Cherokee Nation"],
+  "promises": [
+    "Article 1: two tracts north of the Tennessee kept out of the cession, one at the Muscle Shoals between Cypress creek and Elk river as the common property of the Cherokee living there, the other at Spring creek for Moses Melton and Charles Hicks.",
+    "Article 2: $2,000 on ratification and $2,000 in each of the next four years ($10,000 in all), a grist mill within one year, a machine for cleaning cotton, and $100 a year for life to the chief Black Fox.",
+    "Article 3: the United States to use its influence and best endeavours to get the Chickasaw to agree to a Cherokee-Chickasaw boundary south of the Tennessee, without promising to establish it.",
+    "Article 4: the United States to settle any Chickasaw claims to the two reserved tracts so as to secure the Cherokee title to them.",
+    "Elucidation of 1807: $2,000 for the Cherokee's clarification of the eastern line, and leave for Cherokee hunters to hunt on the ceded tract until settlers filled it."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "The country north of the Tennessee and west of a line from the Chickasaw Old Fields to the head of Duck river (as clarified in 1807, to include all the waters of Elk river), and Long Island in the Holston (Article 1), in Tennessee and Alabama. treaties.json gives Royce areas 64, 65, 85 and 86; areas 85 and 86 also appear under the 1817 treaty, whose Article 10 ceded the reserves made in this convention.",
+  "compensation": "$10,000 over five years, a grist mill, a cotton machine and Black Fox's annuity (Article 2), and $2,000 under the 1807 elucidation. No Indian Claims Commission award separately for this treaty was found.",
+  "today": "The Eastern Band of Cherokee Indians' claims for its share under the Cherokee treaties of 1785 to 1835 (Dockets 282-A to 282-L) ended in a compromise of $1,855,254.50 approved on September 11, 1972, which does not separate the treaties; a settlement is not counted as a finding.",
+  "nationVoice": [
+    {
+      "nation": "Cherokee Nation",
+      "summary": "The Nation's history says successive treaties with Britain and the United States reduced its original territory.",
+      "url": "https://www.cherokee.gov/about-the-nation/history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Cherokee, 1806, with the Elucidation of 1807 (Kappler, vol. 2, p. 90)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1806-0090",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Treaty with the Cherokee, 1817 (Kappler, vol. 2, p. 140), Article 10",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1817-0140",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Eastern Band of Cherokee Indians v. United States, Dockets 282-A to 282-L, Findings of Fact on Compromise Settlement (September 11, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2321",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule pp. 672-674",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/672/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "History",
+      "url": "https://www.cherokee.gov/about-the-nation/history/",
+      "publisher": "Cherokee Nation"
+    }
+  ],
+  "openQuestions": [
+    "Whether the grist mill and cotton machine were provided, and the $10,000 paid, was not researched; the 1895 Interior accounting of money due the Cherokee Nation (House Ex. Doc. 182, 53rd Cong., 3rd sess.) is a lead.",
+    "Whether the United States settled the Chickasaw claims to the reserved tracts (Article 4) before the Cherokee ceded them in 1817 was not researched.",
+    "Which of the Eastern Band's Dockets 282-A to 282-L covered this convention was not established.",
+    "treaties.json lists the Eastern Band of Cherokee Indians twice under slightly different names for this entry (also on kappler-148).",
+    "Historians describe private grants to the chiefs Doublehead and Tahlonteeskee connected with this convention; no formal finding on them was opened."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

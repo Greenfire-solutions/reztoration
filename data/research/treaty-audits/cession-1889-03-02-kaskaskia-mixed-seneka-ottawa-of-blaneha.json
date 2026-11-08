@@ -1,0 +1,16 @@
+{
+  "id": "cession-1889-03-02-kaskaskia-mixed-seneka-ottawa-of-blaneha",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "25 Stat. 1013-1016, ch. 422, page images from govinfo: allotments up to 200 acres from chiefs' lists; 25 years inalienable and untaxable; 17,083 acres Miami and 33,218 acres United Peoria; leases up to ten years; three-fourths petition; three-fourths consent of adult males; Sec. 4 Court of Claims",
+    "ICC Docket 65 opinion of March 26, 1956 (pointer 385) cites the act as extending the general allotment act",
+    "Royce 1899 schedule text (Internet Archive djvu): 'Provides for allotment of lands in severalty' under Wea, Peoria, et al."
+  ],
+  "changes": [
+    "Section 2 residue promise reworded to match the statute (equal division or sale on agreed terms)"
+  ],
+  "unverifiable": [
+    "Royce map reference 'See 499' is ambiguous in the OCR column layout"
+  ]
+}

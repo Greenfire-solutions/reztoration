@@ -34,7 +34,18 @@
   ],
   "compensation": "A final award was made to the Miami Tribe of Oklahoma and the Miami of Indiana jointly as representatives of the Miami as constituted in 1818 (Commission opinion of January 15, 1965). The amount of that award was not readable in the collection.",
   "today": "The Court of Claims, in its opinion of July 13, 1959, affirmed the Commission's holding that the Miami held this land by recognized title and sent the case back on value only (as recited in the 1960 findings). The Commission's first valuation of 75 cents an acre was the one the court rejected.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Miami Tribe of Oklahoma (Myaamia)",
+      "summary": "The Tribe says Chief Richardville (Akima Pinšiwa) led its treaty negotiations in a time of growing pressure on Indigenous lands, and that under the 1818 Treaty of St. Marys he reserved five sections of land, where the Chief Richardville House now stands as a historic place the Tribe protects.",
+      "url": "https://www.miamination.com/miami-tribe-of-oklahoma-commemorates-200th-anniversary-of-treaty-of-mississinewas-with-historic-property-designation/"
+    },
+    {
+      "nation": "Miami Tribe of Oklahoma (Myaamia)",
+      "summary": "The Tribe calls the treaty period devastating and recounts how it ended in forced removal from its Indiana homelands in 1846 and again from Kansas after 1867.",
+      "url": "https://www.miamination.com/about-us/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Miami, 1818 (Kappler, vol. 2, p. 171)",
@@ -60,14 +71,30 @@
       "title": "Miami Tribe of Oklahoma v. United States, Dockets 67 and 124, Opinion of the Commission (January 15, 1965)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/600",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Miami Tribe of Oklahoma Commemorates 200th Anniversary of Treaty of Mississinewas with Historic Property Designation",
+      "url": "https://www.miamination.com/miami-tribe-of-oklahoma-commemorates-200th-anniversary-of-treaty-of-mississinewas-with-historic-property-designation/",
+      "publisher": "Miami Tribe of Oklahoma"
+    },
+    {
+      "title": "About Us",
+      "url": "https://www.miamination.com/about-us/",
+      "publisher": "Miami Tribe of Oklahoma"
     }
   ],
   "openQuestions": [
-    "The 1960 final award document (collection item 299) has no readable text, so the dollar amount awarded is not recorded here. The 1960 findings give 7,036,000 acres in the cession (as quoted in the 1961 dissent) and a value of $8,091,400; the treaty consideration deducted was not confirmed from the award itself.",
+    "The 1960 final award document (collection item 299) has no readable text, so the dollar amount awarded is not recorded here. The 1960 findings give 7,036,000 acres in the cession (as quoted in the dissent of June 30, 1960; the 1954 opinion gives approximately 7,036,000 acres) and a value of $8,091,400; the treaty consideration deducted was not confirmed from the award itself.",
     "The 1954 opinion identifies the cession as Royce Area 99; treaties.json lists many other Royce numbers for this entry, which may include the reserves and grants.",
     "Whether the perpetual $15,000 annuity was paid in silver as promised, and how the Article 2 reservations were later ceded, was not researched here.",
-    "No Miami Tribe of Oklahoma history page about this treaty was opened in this pass."
+    "No Miami Tribe of Oklahoma history page about this treaty was opened in this pass.",
+    "Audit 2026-11-08: the dissent cited for the acreage is dated June 30, 1960 (item 361), not 1961; corrected."
   ],
+  "plain": {
+    "promised": "The United States promised the Miami reservations along the Wabash, including the Big Miami Reserve, land grants to named people, and $15,000 a year forever in silver, with mills, a blacksmith, farm tools and salt.",
+    "happened": "The Indian Claims Commission found in 1960, after the Court of Claims sent the case back, that the land ceded was worth $8,091,400 in 1818 and that the price paid was unconscionable. One commissioner dissented on value.",
+    "today": "A final award was made to the Miami Tribe of Oklahoma and the Miami of Indiana, but its amount could not be read in the record. The Tribe recounts forced removal from its Indiana homelands in 1846."
+  },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"
 }

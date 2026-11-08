@@ -14,7 +14,7 @@
   ],
   "promises": [
     "Article 1: out of the Kansas lands the 1832 Castor Hill treaty had made their permanent home, the Kickapoo kept 150,000 acres in the western part as a future and permanent home.",
-    "Article 2: $300,000 for the cession, $100,000 of it invested at five percent for education and other benefits and $200,000 paid in instalments from 1854 to 1877.",
+    "Article 2: $300,000 for the cession, $100,000 of it invested at five percent for education and other benefits and $200,000 paid in yearly instalments beginning in October 1854.",
     "Article 4: fair compensation for Kickapoo improvements on the ceded land.",
     "Article 8: $20,000 for releasing the United States from claims under former treaties and for removing at their own cost."
   ],
@@ -23,7 +23,7 @@
     {
       "kind": "claims-commission",
       "date": "1962-05-04",
-      "what": "The Commission held that the 618,000 acres the Kickapoo ceded by this treaty were worth $1,236,000 on July 17, 1854, that the $300,000 they received was an unconscionable consideration, and awarded $936,000 less offsets. It found no wilful deceit by the negotiators, but noted the Kickapoo had relied on the good faith of the government.",
+      "what": "The Commission held that the 618,000 acres the Kickapoo ceded by this treaty were worth $1,236,000 on July 17, 1854, that the $300,000 they received was an unconscionable consideration, and awarded $936,000 less offsets. It found no wilful deceit by the negotiators, but noted that the Kickapoo repeatedly expressed their reliance on the good faith of the government.",
       "whoFoundIt": "Indian Claims Commission, Kickapoo Tribe of Kansas et al. v. United States, Docket 316, Interlocutory Order, 10 Ind. Cl. Comm. 320",
       "source": {
         "title": "Kickapoo Tribe of Kansas et al. v. United States, Docket 316, Interlocutory Order (May 4, 1962)",
@@ -35,7 +35,18 @@
   "landTaken": "618,000 acres (Commission conclusion, Docket 316).",
   "compensation": "Final award of September 29, 1967: $1,236,000 less the $300,000 paid and $164,558.74 in gratuitous offsets, a net $771,441.26 (Docket 316, Final Award). Payment and distribution were not traced.",
   "today": "The 150,000-acre home kept in 1854 was itself reduced by the treaty of June 28, 1862, which ceded 123,832 acres that were sold to the Atchison and Pike's Peak Railroad; the Commission awarded $125,209.61 on that claim in 1970 (Docket 316-A). That later cession is a separate treaty.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Kickapoo Tribe in Kansas (Kiikaapoa)",
+      "summary": "In testimony to Kansas legislators the Tribe says the 1854 treaty cut its reservation to its present size, that its jurisdiction runs to the reservation the 1854 treaty defined, that all three Kickapoo bands keep their treaty rights there, and it asks the State to recognise its sovereignty and its boundaries.",
+      "url": "https://kslegislature.gov/li/b2023_24/committees/ctte_jt_st_tribal_1/documents/testimony/20240911_12.pdf"
+    }
+  ],
+  "plain": {
+    "promised": "150,000 acres in Kansas kept as a permanent home, $300,000 for the land ceded, fair pay for improvements, and $20,000 more.",
+    "happened": "The Indian Claims Commission found in 1962 that the 618,000 acres ceded were worth $1,236,000 and that the $300,000 paid was unconscionable.",
+    "today": "A final award of a net $771,441.26 was entered in 1967; payment and distribution were not traced. The 150,000-acre home was itself reduced by a later treaty in 1862."
+  },
   "sources": [
     {
       "title": "Treaty with the Kickapoo, 1854 (Kappler, vol. 2, p. 634)",
@@ -66,12 +77,18 @@
       "title": "Kickapoo Tribe of Kansas et al. v. United States, Docket 316-A, Final Award (September 1970)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2230",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Kickapoo Tribe in Kansas, testimony slides to the Kansas Joint Committee on State-Tribal Relations, September 11, 2024",
+      "url": "https://kslegislature.gov/li/b2023_24/committees/ctte_jt_st_tribal_1/documents/testimony/20240911_12.pdf",
+      "publisher": "Kansas Legislature (testimony of the Kickapoo Tribe in Kansas)"
     }
   ],
   "openQuestions": [
     "The scanned 1962 opinion reads \"a balance of $336,000\"; the interlocutory order of the same day gives $936,000, which matches $1,236,000 less $300,000, and is used here.",
     "treaties.json lists Iowa and Sauk and Fox schedule tribes for this entry; the treaty of May 18, 1854 at Kappler p. 634 is with the Kickapoo alone. Royce cession numbers were not checked against the polygon.",
-    "No Kickapoo history page about this treaty was found in this pass."
+    "No Kickapoo history page about this treaty was found in this pass.",
+    "Audit 2026-11-08: promise 2 said the instalments ran 'from 1854 to 1877', a computed span the treaty text does not support (its schedule ends five years after a period following 1858); the end year was removed. The good-faith sentence in the breach now follows the 1962 opinion's wording."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

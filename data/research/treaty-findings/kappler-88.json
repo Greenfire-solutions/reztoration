@@ -73,6 +73,11 @@
     "A Miami Tribe of Oklahoma or Peoria Tribe statement on this treaty was not found.",
     "Audit 2026-11-08: the Article 3 promise had lost its dollar amounts (blank in the file); restored from the treaty text ($600, $250, $250, $500 for ten years, $4,000 at signing). The computed total of the two final awards ($1,614,978) removed from compensation; the two awards are quoted separately."
   ],
+  "plain": {
+    "promised": "In return for land in southern Indiana, the United States promised permanent yearly payments to the Miami, Eel River and Wea, and to treat them as joint owners of the Wabash country, not to be ceded without the consent of all.",
+    "happened": "The Indian Claims Commission found in 1969 that the 1,537,366 acres ceded were worth $1,615,000, against $22,000 paid, and held that payment unconscionable.",
+    "today": "The Commission's final award was $1,076,652 to the Miami and Eel River and $538,326 to the Peoria Tribe on behalf of the Wea. Whether the awards were paid has not been traced."
+  },
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"
 }

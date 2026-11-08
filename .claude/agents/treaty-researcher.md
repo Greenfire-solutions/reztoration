@@ -72,6 +72,7 @@ A file may claim less than its evidence supports, never more; the checker downgr
   "nationVoice": [{ "nation": "Oglala Sioux Tribe", "summary": "one sentence in your words", "url": "https://..." }],
   "sources": [{ "title": "...", "url": "https://...", "publisher": "..." }],
   "openQuestions": ["what you could not settle"],
+  "plain": { "promised": "the main promise, in everyday words", "happened": "how it was broken and who found it, in everyday words", "today": "whether anything was paid or returned, or where it stands" },
   "researchedAt": "YYYY-MM-DD",
   "researcher": "treaty-researcher"
 }
@@ -90,6 +91,7 @@ Lessons from the first audit (16 of 20 files needed a correction):
 - **Article numbers and boundaries**: check each promise against the article it cites.
 
 - **Open what you cite.** A url you did not load and read is not a source. If a page will not load, find another copy or leave the claim out.
+- **`plain` (PROTOCOLS rule 15)** goes on every broken, unratified or contested treaty: three lines of at most 45 words each, for a reader with ten seconds, restating only what the rest of the file already says. No new facts, no figure that is not in the file, no em dashes.
 - **Exact or nothing.** Dates, citations, acreages and dollar amounts are copied from a source or left out. Mark anything uncertain in `openQuestions` instead of rounding it into the record.
 - **Your own words.** `what`, `promises` and summaries are your sentences. Quotes are optional, exact, under 25 words, and never song, prayer or ceremony.
 - **Name the nations as they name themselves** where the nation does so, with the treaty-era name in brackets if needed.

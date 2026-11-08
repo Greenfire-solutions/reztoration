@@ -14,7 +14,7 @@
   "promises": [
     "Section 1: the General Allotment Act was applied to the Confederated Wea, Peoria, Kaskaskia and Piankeshaw and the Western Miami, with allotments of up to 200 acres chosen by the Indians from lists furnished by their chiefs, inalienable and untaxable for twenty-five years.",
     "Section 2: no more than 17,083 acres to be allotted to the Miami and 33,218 acres to the United Peoria; the residue to be held in common by the two tribes, which they could lease with the Secretary of the Interior’s approval for up to ten years at a time.",
-    "Section 2: after twenty-five years the residue could be divided or sold only on terms agreed by the President and the adult members, and only after three-fourths of the adult members petitioned.",
+    "Section 2: after twenty-five years the residue could be divided equally among the members or sold on terms the President and the adult members agreed, but only after three-fourths of the adult members petitioned the Secretary of the Interior.",
     "Section 2: sections 1 and 2 would not take effect until each tribe separately consented through three-fourths of its adult men."
   ],
   "status": "no-breach-found",
@@ -47,7 +47,8 @@
     "treaties.json gives this entry the schedule tribes \"Kaskaskia; Mixed Seneka; Ottawa of Blanehard's fork...\" Royce lists the act under \"Wea, Peoria, et al.\" with the note \"Provides for allotment of lands in severalty\"; the Seneca and Ottawa are not parties to it.",
     "Royce's map reference for this act reads \"See 499\" (the Seneca reserve); the Peoria reserve is Royce 500. The polygon the map draws may be the wrong reserve.",
     "Whether the three-fourths consent was obtained, and what became of the residue after allotment, was not traced.",
-    "Section 4 gave the Court of Claims jurisdiction over claims of the citizen Wea, Peoria, Kaskaskia and Piankeshaw; that case was not traced."
+    "Section 4 gave the Court of Claims jurisdiction over claims of the citizen Wea, Peoria, Kaskaskia and Piankeshaw; that case was not traced.",
+    "Audit 2026-11-08: promise on the residue reworded to match Section 2 (equal division, or sale on agreed terms) as read on the 25 Stat. 1013-1016 page images."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

@@ -1,0 +1,80 @@
+{
+  "id": "cession-1894-08-15-indians-on-coast-of-oregon",
+  "name": "Agreement with the Alsea and other Indians of the Siletz Reservation (October 31, 1892), ratified by Act of August 15, 1894",
+  "aka": [
+    "Siletz surplus lands agreement, 1892",
+    "Act of August 15, 1894, ch. 290, sec. 15"
+  ],
+  "signed": "1892-10-31",
+  "ratified": "1894-08-15",
+  "citation": "Act of August 15, 1894, ch. 290, sec. 15, 28 Stat. 286, 323-326",
+  "textUrl": "https://tile.loc.gov/storage-services/service/ll/llsl/llsl-c53/llsl-c53.pdf",
+  "nations": [
+    "Alsea and other bands residing on the Siletz Reservation (Confederated Tribes of Siletz Indians)"
+  ],
+  "promises": [
+    "In return for all unallotted land on the Siletz Reservation, except five reserved sections, the United States would pay $142,600 (Article II).",
+    "$100,000 of that sum would be held in the Treasury at 5 percent interest, paid annually at the agency, and each adult would receive $75 within three months of ratification (Article II).",
+    "Five sections would be reserved from sale, with the timber to be cut and sold by the Siletz Indians for their own use and benefit (Article IV).",
+    "Up to one third of the interest could be paid to Oregon in lieu of taxes once allotments became taxable (Article III)."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "nation-statement",
+      "date": "1892-10-31",
+      "what": "The Confederated Tribes of Siletz Indians say the 1892 'negotiation' was forced: the Secretary had already declared the land surplus, commissioners used threats about taxes and promises that went unfulfilled, told the Tribe the timber had no market value while reporting it as good fir and cedar, and obtained 191,000 or more acres for 74 cents an acre.",
+      "whoFoundIt": "Confederated Tribes of Siletz Indians, The 1892 'Surplus Lands' 'Agreement'",
+      "source": {
+        "title": "The 1892 \"Surplus Lands\" \"Agreement\"",
+        "url": "https://ctsi.nsn.us/the-1892-surplus-lands-agreement/",
+        "publisher": "Confederated Tribes of Siletz Indians"
+      }
+    }
+  ],
+  "landTaken": "All unallotted land of the Siletz Reservation except five sections (28 Stat. 324). The Siletz Tribe gives 191,000 or more acres; no government source opened here states the acreage.",
+  "compensation": "$142,600 under Article II of the agreement (28 Stat. 324). No later claims award for this cession was found.",
+  "today": "The Supreme Court in Alcea (1946) described this Act as Congress officially accepting the reservation as it then existed, and said that thereafter Congress did not take reservation lands without compensation. The Siletz Tribe says the commissioners' promises of future allotments from the ceded land and of early clear title to allotments were not kept.",
+  "plain": {
+    "promised": "$142,600 for all unallotted Siletz Reservation land except five sections, with $100,000 held at 5 percent interest paid yearly, $75 to each adult, and the five sections' timber for the Siletz people's own use.",
+    "happened": "The Confederated Tribes of Siletz Indians say the agreement was forced through threats and unkept promises, and that the timber was undervalued. No court or claims finding on it has been located.",
+    "today": "No later claims award was found, and whether the $100,000 fund and its interest were paid was not checked. The Siletz Tribe says promises of future allotments and early clear title were not kept."
+  },
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of Siletz Indians",
+      "summary": "The Tribe calls the 1892 agreement a forced cession on the same pattern as the 1865 and 1875 reductions, with only the illusion of a choice.",
+      "url": "https://ctsi.nsn.us/the-1892-surplus-lands-agreement/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Act of August 15, 1894, ch. 290, sec. 15, 28 Stat. 323-326 (Statutes at Large, 53rd Congress, PDF pages 352-355)",
+      "url": "https://tile.loc.gov/storage-services/service/ll/llsl/llsl-c53/llsl-c53.pdf",
+      "publisher": "Library of Congress"
+    },
+    {
+      "title": "Indian Land Cessions in the United States (Royce, 1899), schedule entry for August 15, 1894",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/948/mode/2up",
+      "publisher": "Internet Archive (Smithsonian Institution, Bureau of American Ethnology)"
+    },
+    {
+      "title": "United States v. Alcea Band of Tillamooks, 329 U.S. 40 (1946)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/329/40",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "The 1892 \"Surplus Lands\" \"Agreement\"",
+      "url": "https://ctsi.nsn.us/the-1892-surplus-lands-agreement/",
+      "publisher": "Confederated Tribes of Siletz Indians"
+    }
+  ],
+  "openQuestions": [
+    "Royce's schedule names the tribe for this entry 'Alsea et al.', while treaties.json says 'Indians on coast of Oregon' and gives Royce cession 479. Area 479 appears to be the Yaquina tract released in 1865, not the unallotted land ceded in 1892; the area number Royce gives this entry could not be read cleanly from the text layer. Not edited.",
+    "No Indian Claims Commission or Court of Claims decision on the adequacy of the $142,600 was found; whether the Siletz pressed such a claim before or after termination (1954) was not researched.",
+    "Whether the $100,000 trust fund and its interest were paid as Article II required was not checked against Interior records.",
+    "The 74 cents an acre and 191,000 acre figures are the Tribe's; the commissioners' final report they cite was not opened."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

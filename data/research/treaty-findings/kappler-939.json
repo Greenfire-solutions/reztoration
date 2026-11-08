@@ -98,5 +98,10 @@
     "treaties.json lists no present-day tribe for this id; the Muscogee (Creek) Nation is the successor."
   ],
   "researchedAt": "2026-11-07",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "plain": {
+    "promised": "The Creek kept the eastern half of their country, guaranteed to them in quiet possession and set apart forever as a home for the Creek Nation. The ceded western half was paid for at thirty cents an acre.",
+    "happened": "The Supreme Court found in 1935 that the United States disposed of 5,575.57 acres of unceded Creek land, and the Indian Claims Commission found in 1969 that 1,198.99 more acres were taken. Both held compensation owed.",
+    "today": "The amounts finally paid were not located. In McGirt v. Oklahoma (2020) the Supreme Court held that the Creek Reservation described in this treaty still exists for the purposes of the Major Crimes Act."
+  }
 }

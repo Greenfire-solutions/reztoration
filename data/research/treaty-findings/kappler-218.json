@@ -103,6 +103,11 @@
     "The OSU collection dates the additional findings (id 349) to 1995, which looks like a cataloguing error for 1951.",
     "Audit 2026-11-08: the 12 December 1951 opinion on offsets is at 1 Ind. Cl. Comm. 652; page 644 is the additional findings of fact (OSU id 349). Citation corrected. The $987,092, $28,037, $75,638.55 and unconscionability finding were checked against the opened texts."
   ],
+  "plain": {
+    "promised": "In return for leaving their land, the United States promised the Quapaw goods, a yearly payment, six months of food, moving costs, and a new home among the Caddo.",
+    "happened": "The Indian Claims Commission found in 1951 that the land the Quapaw ceded was worth $987,092, that they received $28,037, and that this was unconscionable. The Quapaw Nation says annuity payments kept being delayed after removal.",
+    "today": "The Commission awarded a net $911,453.45 in 1951. Its findings record that the Caddo would not take the Quapaw in, most returned to Arkansas, and the United States refused to restore any ceded land."
+  },
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"
 }

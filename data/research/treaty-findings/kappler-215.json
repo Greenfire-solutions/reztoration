@@ -1,0 +1,89 @@
+{
+  "id": "kappler-215",
+  "name": "Treaty with the Sauk and Foxes, 1824",
+  "aka": [
+    "Treaty of Washington with the Sock and Fox, August 4, 1824"
+  ],
+  "signed": "1824-08-04",
+  "proclaimed": "1825-01-18",
+  "citation": "7 Stat. 229",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-and-foxes-1824-0207",
+  "nations": [
+    "Sac and Fox Nation (Oklahoma)",
+    "Sac and Fox Tribe of the Mississippi in Iowa (Meskwaki Nation)",
+    "Sac and Fox Nation of Missouri in Kansas and Nebraska"
+  ],
+  "promises": [
+    "The Sauk and Fox ceded their claim to land in Missouri between the Mississippi and Missouri rivers and a line north from the mouth of the Kansas River to the state's northwest corner; the small tract between the Des Moines and the Mississippi was to be for the use of the Sauk and Fox half-breeds, held by Indian title (Article 1).",
+    "In full consideration the United States would pay $1,000 in cash or goods that year and $500 a year each to the Sauk and the Fox for ten years, on top of earlier annuities, and $500 to Morice Blondeau for a tribal debt (Article 3).",
+    "The United States would provide a blacksmith and farming tools, cattle and helpers as the President thought proper (Article 4).",
+    "Annuities could be taken in money, goods, provisions or animals at the tribes' choice, with goods at first cost in St. Louis and no transport charge (Article 5)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1963-08-29",
+      "what": "The Indian Claims Commission found that the 1,241,700-acre tract the Sac and Fox held by original Indian title and ceded by this treaty was worth $993,360 on January 18, 1825, that the $27,799.61 paid for it was unconscionable, and ordered recovery of $965,560.39 less offsets.",
+      "whoFoundIt": "Indian Claims Commission, Docket 135, second interlocutory order of August 29, 1963, 12 Ind. Cl. Comm. 487",
+      "source": {
+        "title": "Iowa Tribe et al. and Sac and Fox Tribes v. United States, Docket 135, Second Interlocutory Order (1963)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/664",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "1,241,700 acres in Missouri (Docket 135, 1963), part of Royce area 69, which the Iowa and the Osage also ceded by their own treaties. Royce area 120, the Half-breed Tract between the Des Moines and the Mississippi, was not ceded: the Commission held reservation title was given to the Sac and Fox half-breeds by this treaty and fee title vested in them by the Act of June 30, 1834.",
+  "compensation": "The Commission's final award of May 7, 1965 gave the Sac and Fox $965,560.39, with no offsets pending against them. On remand from the Court of Claims (179 Ct. Cl. 8) the Commission held on December 10, 1969 that neither tribe had proved title to additional land and left the awarded areas unchanged.",
+  "today": "The award was shared by the Sac and Fox Nation of Oklahoma, the Sac and Fox Tribe of Missouri and the Sac and Fox Tribe of the Mississippi in Iowa, whom the Commission found to be the successors of the Sac and Fox Nation that signed in 1824.",
+  "plain": {
+    "promised": "$1,000 in cash or goods that year, $500 a year each to the Sauk and the Fox for ten years, a blacksmith, and farming tools, cattle and helpers, for their land in Missouri.",
+    "happened": "The Indian Claims Commission found in 1963 that the 1,241,700 acres ceded were worth $993,360, and that the $27,799.61 paid for them was unconscionable.",
+    "today": "The Commission's final award of May 7, 1965 gave the Sac and Fox $965,560.39, shared by the three Sac and Fox nations. Whether it was paid has not been traced."
+  },
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Sauk and Foxes, 1824 (Kappler vol. 2, p. 207), 7 Stat. 229",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-and-foxes-1824-0207",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Iowa Tribe et al. v. United States, Docket 135, Interlocutory Order (1958)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/501",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Iowa Tribe et al. v. United States, Docket 135, Opinion of the Commission (1958), 6 Ind. Cl. Comm. 496",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/15",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Iowa Tribe et al. v. United States, Docket 135, Second Interlocutory Order (1963), 12 Ind. Cl. Comm. 487",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/664",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Iowa Tribe et al. v. United States, Docket 135, Final Award (1965), 15 Ind. Cl. Comm. 248",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/772",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Iowa Tribe et al. v. United States, Docket 135, Order on Remand and Amending Findings of Fact and Opinion (1969), 22 Ind. Cl. Comm. 331",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1404",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule pp. 706-707, areas 69 and 120",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/706/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json gives this entry the scheduleTribes 'Great and Little Osage; Iowa; Sauk and Fox' and lists the Osage Nation among present-day tribes. Royce uses that label because area 69 was ceded concurrently by three treaties; only the Sauk and Fox signed this one (the Iowa signed 7 Stat. 231 the same day, and the Osage ceded by their own treaty). The Osage Nation should not be shown as a party. Treaties.json was not edited.",
+    "No Sac and Fox nation history page was opened (sacandfoxnation-nsn.gov/history returned 404 on 2026-11-08).",
+    "Whether the Half-breed Tract was later lost by the half-breeds through fraud or speculators, and whether the Commission ever found liability for it after 1958, was not researched."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

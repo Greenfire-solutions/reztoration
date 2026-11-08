@@ -78,5 +78,10 @@
     "The executive order texts were read through Royce's schedule, not the orders themselves."
   ],
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "plain": {
+    "promised": "Not a treaty: an executive order. The President set apart the Malheur Reservation in southeastern Oregon, and returned the rest of the country withdrawn in 1871 to the public domain.",
+    "happened": "The Indian Claims Commission found that the Snake or Paiute bands were deprived of the former Malheur Reservation in January 1879 without any compensation. The reservation was largely restored to the public domain in 1882 and 1883.",
+    "today": "The Commission awarded $579,722.00 less offsets in 1959. No later payment was traced. The Burns Paiute Tribe writes that its people were marched more than 300 miles in deep snow, and the reservation was given up in their absence."
+  }
 }

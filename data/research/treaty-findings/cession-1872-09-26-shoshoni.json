@@ -22,8 +22,8 @@
     {
       "kind": "claims-commission",
       "date": "1954-08-20",
-      "what": "The Commission found the 700,642 acres ceded by this agreement (the Brunot lands) were worth 80 cents an acre, $560,513.60, on September 26, 1872, and that the $27,500 paid was an unconscionable consideration, less than four cents an acre, and ordered an award of the value less the sum paid.",
-      "whoFoundIt": "Indian Claims Commission, Shoshone Tribe of the Wind River Reservation v. United States, Docket 63, Findings of Fact and Opinion, 3 Ind. Cl. Comm. 313",
+      "what": "The Commission found the 700,642 acres ceded by this agreement (the Brunot lands) were worth eighty cents an acre, a total value of $560,513.60, on September 26, 1872, and that the $27,500 consideration, less than four cents an acre, was unconscionable. It entered an interlocutory order awarding the value of the lands less the $27,500 paid.",
+      "whoFoundIt": "Indian Claims Commission, Shoshone Tribe of the Wind River Reservation v. United States, Docket 63, Findings of Fact (3 Ind. Cl. Comm. 313) and Opinion (3 Ind. Cl. Comm. 333), August 20, 1954",
       "source": {
         "title": "Shoshone Tribe of the Wind River Reservation v. United States, Docket 63, Opinion of the Commission (August 20, 1954)",
         "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/434",
@@ -33,9 +33,15 @@
     }
   ],
   "landTaken": "700,642 acres of the 1868 reservation (Commission finding 3, Docket 63).",
-  "compensation": "Under the agreement the United States spent $25,000 for the Shoshone and paid Washakie $2,500 (Commission finding 3). The Commission ordered an award of $560,513.60 less $27,500. Final judgment and payment were not traced.",
+  "compensation": "Under the agreement the United States spent $25,000 for the Shoshone and paid Washakie a salary totalling $2,500 (Commission finding 3). The Commission's interlocutory order of 1954 awarded the value of the lands at eighty cents an acre less the $27,500 paid. Final judgment and payment were not traced.",
   "today": "The Commission found the agreement was approved by an Act of Congress of December 15, 1874 (18 Stat. 291). Royce adds that the reserve had been within the country assigned to the Crow in 1851 and ceded by them in 1868, and cites acts of June 22 and December 15, 1874 confirming the agreement.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Eastern Shoshone Tribe (Newe)",
+      "summary": "The Tribe says Chief Washakie chose the Wind River Basin as its permanent homeland, but later agreements took the South Pass and Big Horn Hot Springs regions and allotment gave more to homesteaders, cutting the reservation from 4.4 million acres to about 2.2 million.",
+      "url": "https://easternshoshone.org/about/"
+    }
+  ],
   "sources": [
     {
       "title": "Shoshone Tribe of the Wind River Reservation v. United States, Docket 63, Findings of Fact (August 20, 1954)",
@@ -51,14 +57,25 @@
       "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
       "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
       "publisher": "Internet Archive"
+    },
+    {
+      "title": "About",
+      "url": "https://easternshoshone.org/about/",
+      "publisher": "Eastern Shoshone Tribe"
     }
   ],
   "openQuestions": [
     "The text of the agreement itself was read only as quoted in the Commission's findings; textUrl points to those findings.",
     "The OCR of the Commission's quote is imperfect; the quote above was checked against the scanned text but should be confirmed against the page image.",
     "The amount and date of the final judgment in Docket 63 were not found in the collection (the 1958 decision is about attorneys' fees).",
-    "No Eastern Shoshone Tribe page about the Brunot cession was found."
+    "No Eastern Shoshone Tribe page about the Brunot cession was found.",
+    "Audit 2026-11-08: breach reworded: the 1954 order was an interlocutory order, not a final award; the citation now gives the findings (p. 313) and the opinion (p. 333) separately. Figures, dates and the quote checked against ICC pointers 22 and 434."
   ],
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "plain": {
+    "promised": "For ceding the southern part of the Wind River reservation, the United States would spend $5,000 a year for five years for the Shoshone and pay Chief Washakie $500 a year for five years.",
+    "happened": "The Indian Claims Commission found in 1954 that the 700,642 acres ceded were worth $560,513.60, and that the $27,500 paid, less than four cents an acre, was unconscionable.",
+    "today": "The Commission's 1954 order awarded the land's value less the $27,500 paid. The final judgment and any payment have not been traced."
+  }
 }

@@ -1,0 +1,118 @@
+{
+  "id": "kappler-978",
+  "name": "Treaty with the Potawatomi, 1867",
+  "aka": [
+    "Treaty of February 27, 1867 with the Pottawatomie"
+  ],
+  "signed": "1867-02-27",
+  "ratified": "1868-07-25",
+  "proclaimed": "1868-08-07",
+  "citation": "15 Stat. 531",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1867-0970",
+  "nations": [
+    "Citizen Potawatomi Nation (Citizen Band of Potawatomi)",
+    "Prairie Band Potawatomi Nation (Prairie band, which took its share in money instead of the new reservation)"
+  ],
+  "promises": [
+    "A tract in Indian Territory not exceeding thirty miles square, chosen with a Potawatomi delegation and approved by the Secretary of the Interior, would be set apart for the tribe's exclusive use and occupancy and, once surveyed and paid for, patented to the Pottawatomie Nation (Article 1).",
+    "The tribe would pay no more than the land cost the United States, out of the proceeds of its unallotted Kansas lands; the Prairie band would take its share in money instead (Article 2).",
+    "The new reservation would never be included in any State or Territory without representation for the Potawatomi (Article 3).",
+    "The Indian Office would examine what was owed for annuities paid in currency instead of coin under the 1818 and 1829 treaties, report to Congress and pay the difference (Article 9)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1958-09-18",
+      "what": "The Indian Claims Commission found that the United States promised in this treaty to set the reservation apart for the tribe's exclusive use and to issue a patent to the Potawatomi Nation, that the patent was never issued, and that the 1867 treaty was at least a contract to grant title. It held the United States obligated to account to the Citizen Band for the value, as of June 25, 1890, of the 362,838.22 unallotted acres of the 575,877-acre reservation.",
+      "whoFoundIt": "Indian Claims Commission, Docket 96, findings of fact (Finding 15) and interlocutory order of September 18, 1958, 6 Ind. Cl. Comm. 646",
+      "source": {
+        "title": "Citizen Band of Potawatomi Indians of Oklahoma v. United States, Docket 96, Findings of Fact (1958), 6 Ind. Cl. Comm. 646",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/163",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      },
+      "quote": "The patent was never issued."
+    },
+    {
+      "kind": "act-of-congress",
+      "date": "1872-05-23",
+      "what": "Congress directed the Secretary of the Interior to give allotments inside the thirty-mile-square tract selected for the Potawatomi to Absentee Shawnee who had lived there three years, with no payment to the Potawatomi provided for those allotments, although Article 1 set the tract apart for the Potawatomi's exclusive use.",
+      "whoFoundIt": "Act of May 23, 1872, ch. 206, 17 Stat. 159",
+      "source": {
+        "title": "An Act to provide Homes for the Pottawatomie and Absentee Shawnee Indians in the Indian Territory, 17 Stat. 159-160",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-17/pdf/STATUTE-17-Pg159.pdf",
+        "publisher": "U.S. Government Publishing Office"
+      }
+    }
+  ],
+  "landTaken": "Royce area 506, the reservation of 575,877 acres between the Canadian River and its North Fork that the Secretary of the Interior approved on November 9, 1870 (Docket 96, Findings 15 and 16). It was given up by the agreement of June 25, 1890, after allotments of 213,044.78 acres to Citizen Band members.",
+  "compensation": "The Commission found the $160,000 paid in 1890 for the 362,838.22 surplus acres unconscionable against a value of $1,090,000 and, after offsets, entered a net recovery of $797,508.99 on August 27, 1968 (Docket 96).",
+  "today": "The Citizen Potawatomi Nation lists its headquarters at Shawnee, Oklahoma (potawatomi.org, checked 2026-11-08).",
+  "plain": {
+    "promised": "A reservation in Indian Territory up to thirty miles square for the Potawatomi's exclusive use, patented to them once paid for, and never put in a State or Territory without their representation.",
+    "happened": "The Indian Claims Commission found in 1958 that the promised patent was never issued. In 1872 Congress gave allotments inside the tract to Absentee Shawnee, with no payment to the Potawatomi provided.",
+    "today": "The Commission found the $160,000 paid in 1890 for the surplus land unconscionable and in 1968 entered a net recovery of $797,508.99. Whether it was paid has not been traced."
+  },
+  "nationVoice": [
+    {
+      "nation": "Citizen Potawatomi Nation",
+      "summary": "The Nation's history says the 1867 treaty did not pay for the move to Indian Territory, so only families who could finance it themselves went, the first in 1872, and that they had been told more than once that land a little farther from settlers would be theirs forever.",
+      "url": "https://www.potawatomi.org/blog/2015/03/04/the-1867-potawatomi-treaty-encroachment-in-potawatomi-land-and-the-move-to-indian-territory/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Potawatomi, 1867 (Kappler vol. 2, p. 970)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1867-0970",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma v. United States, Docket 96, Findings of Fact (1958), 6 Ind. Cl. Comm. 646",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/163",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma v. United States, Docket 96, Opinion of the Commission (1958), 6 Ind. Cl. Comm. 658",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/40",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma v. United States, Docket 96, Opinion of the Commission (1964)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/734",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma v. United States, Docket 96, Interlocutory Order (1958)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/89",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma v. United States, Docket 96, Supplemental Findings of Fact (1964)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/757",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma v. United States, Docket 96, Final Judgment (1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1195",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Act of May 23, 1872, ch. 206, 17 Stat. 159",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-17/pdf/STATUTE-17-Pg159.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "The 1867 Potawatomi treaty, encroachment in Potawatomi land and the move to Indian Territory",
+      "url": "https://www.potawatomi.org/blog/2015/03/04/the-1867-potawatomi-treaty-encroachment-in-potawatomi-land-and-the-move-to-indian-territory/",
+      "publisher": "Citizen Potawatomi Nation"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json lists seven Potawatomi nations, including Michigan, Wisconsin and Indiana communities that were not parties to this Kansas treaty; the Absentee Shawnee Tribe, whose people were allotted inside the reservation in 1872 and 1890, is not listed. Treaties.json was not edited.",
+    "The Commission's findings say the Potawatomi told officials in 1872 they were willing not to disturb the Absentee Shawnee if their reservation were extended westward by an equal area. Whether that amounted to consent to the 1872 Act, and whether any extension was made, was not found.",
+    "Whether the Article 9 coin-versus-currency difference was ever reported and paid was not researched.",
+    "The 1964 interlocutory order's OCR reads the value as $1,092,000 and the difference as $936,000; the findings and opinion of the same day read $1,090,000 and $930,000. The clearer figures are used here."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

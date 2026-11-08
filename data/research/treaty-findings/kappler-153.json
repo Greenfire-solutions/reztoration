@@ -86,6 +86,11 @@
     "The many fee-simple and reserved tracts granted by Articles 6 and 8 were ceded in later removal treaties (1829 to 1842); those losses belong to those treaties and were not researched here.",
     "treaties.json lists Royce cessions 89 to 91, 150, 163 to 168, 182, 211, 212 and 259 under this id as well as 87 and 88; the Commission finding covers Areas 87 and 88 only."
   ],
+  "plain": {
+    "promised": "In return for land in northwestern Ohio, the United States promised permanent yearly payments to the Wyandot, Seneca and Shawnee, tracts granted to the chiefs for their people, and payment for improvements they had to abandon.",
+    "happened": "The Indian Claims Commission found in 1978 that the land ceded under this treaty and a supplementary 1818 treaty was worth $5,698,821.60, against $220,000 paid, and held that payment unconscionable.",
+    "today": "The Commission set net sums for six nations but ran out of time before final awards, transferring the cases to the Court of Claims on 29 September 1978. How that court disposed of them has not been traced."
+  },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"
 }

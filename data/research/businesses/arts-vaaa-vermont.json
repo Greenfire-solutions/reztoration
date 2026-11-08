@@ -1,0 +1,31 @@
+[
+ {
+  "id": "aaron-york-red-child-studio",
+  "name": "Red Child Studio of Fine Wabanaki Arts (Aaron York)",
+  "category": "arts",
+  "subcategory": "birchbark canoes, bark boxes, crooked knives and pipes",
+  "nation": "Nulhegan Band of the Coosuk Abenaki Nation (Vermont state-recognized)",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Vermont Abenaki Artists Association: Aaron York, enrolled citizen of the Nulhegan Band of the Coosuk Abenaki Nation",
+   "url": "https://abenakiart.org/aaron-york/"
+  },
+  "description": "Abenaki master builder of birchbark canoes who also makes bark boxes, carved crooked knives and moose calls, and has exhibited in Vermont as recently as 2025.",
+  "website": "https://abenakiart.org/aaron-york/",
+  "city": "Barre",
+  "state": "VT",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Vermont Abenaki Artists Association: Aaron York",
+    "url": "https://abenakiart.org/aaron-york/"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -72.5007,
+   44.1969
+  ],
+  "lonlatPrecision": "town"
+ }
+]

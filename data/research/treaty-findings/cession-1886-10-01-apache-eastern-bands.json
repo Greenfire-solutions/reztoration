@@ -1,0 +1,120 @@
+{
+  "id": "cession-1886-10-01-apache-eastern-bands",
+  "name": "Taking of the aboriginal country of the Eastern Apache bands (Jicarilla and Mescalero) without a treaty of purchase (Royce Area 688)",
+  "aka": [
+    "Royce 688, Apache (Eastern bands): country claimed at the beginning of their relations with the United States"
+  ],
+  "citation": "No treaty or statute: Royce's schedule records 'country claimed by them at beginning of their relations with the U.S.' and that no treaty of purchase was made",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up",
+  "nations": [
+    "Jicarilla Apache (Jicarilla Apache Nation)",
+    "Mescalero Apache (Mescalero Apache Tribe)"
+  ],
+  "promises": [
+    "Not a treaty. Royce describes the eastern bands as the bulk of the Jicarilla and Mescalero, whose country lay east of the Rio Grande into Colorado and Texas.",
+    "Royce records that apart from the few who joined the Cheyenne and Arapaho (1865) or the Kiowa and Comanche (1867), no treaty of purchase was made with them; reservations were assigned from time to time instead."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1963-08-26",
+      "what": "The Indian Claims Commission held that after 1848 the United States, through its military forces, other agents and settlers, gradually acquired the aboriginal lands of the Jicarilla Apache without paying compensation; in 1966 it fixed the date of taking as August 20, 1883, when the military removed the Jicarilla to Fort Stanton, and in 1970 found the land worth $9,950,000 with no consideration received.",
+      "whoFoundIt": "Indian Claims Commission, Jicarilla Apache Tribe v. United States, Docket 22-A, interlocutory orders of August 26, 1963 (12 Ind. Cl. Comm. 439), November 9, 1966 and December 2, 1970",
+      "source": {
+        "title": "Jicarilla Apache Tribe v. United States, Docket 22-A, Interlocutory Order (August 26, 1963)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/617",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "without payment of compensation and through the actions and conduct of its military forces, other agents and the white citizenry"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1966-07-07",
+      "what": "The Commission held that the United States acquired the Indian title to the aboriginal lands of the Mescalero Apache without payment of compensation on May 29, 1873, the date an executive order established their reservation.",
+      "whoFoundIt": "Indian Claims Commission, Mescalero Apache Tribe v. United States, Docket 22-B, interlocutory order of July 7, 1966",
+      "source": {
+        "title": "Mescalero Apache Tribe v. United States, Docket 22-B, Interlocutory Order (July 7, 1966)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1062",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1971-04-21",
+      "what": "The Jicarilla land claim ended in a final award of $9,150,000 entered on the parties' amended stipulation for final judgment. A settlement is not a further finding.",
+      "whoFoundIt": "Indian Claims Commission, Jicarilla Apache Tribe v. United States, Docket 22-A, Final Award of April 21, 1971",
+      "source": {
+        "title": "Jicarilla Apache Tribe v. United States, Docket 22-A, Final Award (April 21, 1971)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2037",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1967-04-27",
+      "what": "The Mescalero land claim ended in a final judgment of $8,500,000 entered on a stipulation of settlement. A settlement is not a further finding.",
+      "whoFoundIt": "Indian Claims Commission, Mescalero Apache Tribe v. United States, Docket 22-B, Final Judgment of April 27, 1967",
+      "source": {
+        "title": "Mescalero Apache Tribe v. United States, Docket 22-B, Final Judgment (April 27, 1967)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1524",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "For the Jicarilla, a gross area of 14,026,000 acres, of which 9,218,532.77 acres were valued after excluding confirmed Spanish and Mexican land grants (Docket 22-A, November 9, 1966). The Mescalero acreage was not recorded in this pass.",
+  "compensation": "Jicarilla: $9,150,000 by stipulated final award, April 21, 1971 (the Commission had valued the land at $9,950,000). Mescalero: $8,500,000 by stipulated final judgment, April 27, 1967.",
+  "today": "Royce (1899) records that the eastern Apache not confederated with the Kiowa and Comanche were assigned reservations from time to time. The Jicarilla accounting claim was separated from the land claim as Docket 22-K (Final Award, April 21, 1971).",
+  "plain": {
+    "promised": "Nothing. No treaty of purchase was made with most of the Jicarilla and Mescalero, whose country lay east of the Rio Grande; reservations were assigned from time to time instead.",
+    "happened": "The Indian Claims Commission found the United States took Jicarilla land without payment, dating the taking to August 20, 1883, and Mescalero land without payment on May 29, 1873.",
+    "today": "Both claims were settled: the Jicarilla for $9,150,000 in 1971, though the Commission had valued the land at $9,950,000, and the Mescalero for $8,500,000 in 1967. Whether these were paid has not been traced."
+  },
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Indian Land Cessions in the United States (Royce, 1899), schedule entries 'Cessions of 1886', Royce 688 and notes",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up",
+      "publisher": "Internet Archive (Smithsonian Institution, Bureau of American Ethnology)"
+    },
+    {
+      "title": "Jicarilla Apache Tribe v. United States, Docket 22-A, Interlocutory Order (August 26, 1963)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/617",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Jicarilla Apache Tribe v. United States, Docket 22-A, Interlocutory Order (November 9, 1966)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2436",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Jicarilla Apache Tribe v. United States, Docket 22-A, Interlocutory Order (December 2, 1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1557",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Jicarilla Apache Tribe v. United States, Docket 22-A, Final Award (April 21, 1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2037",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Mescalero Apache Tribe v. United States, Docket 22-B, Interlocutory Order (July 7, 1966)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1062",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Mescalero Apache Tribe v. United States, Docket 22-B, Final Judgment (April 27, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1524",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The date 1886-10-01 in treaties.json is not a date of this cession. Royce 688 is undated ('country claimed by them at beginning of their relations with the U.S.'); it is printed under 'Cessions of 1886' after an entry headed 'Oct. 1, Act of Congress' that belongs to the Pueblo grants. The actual takings found by the Commission are August 20, 1883 (Jicarilla) and May 29, 1873 (Mescalero). Not edited.",
+    "treaties.json lists the White Mountain Apache Tribe and the Fort Sill Apache Tribe among present-day tribes; Royce puts western bands, including the White Mountain (Coyotero) people, in a separate entry, and the Fort Sill Apache are Chiricahua. The Apache Tribe of Oklahoma may descend from the few eastern Apache Royce says joined the Kiowa and Comanche; not confirmed.",
+    "The Mescalero 1966 order is also cited in cession-1873-05-29-apache-mescalero for the 1873 reservation order; here it is cited for the taking of the Mescalero part of Royce 688, which is what the order decides.",
+    "Lipan Apache claims (Docket 22-C, compromise 1976) may overlap the Texas part of this area; not researched.",
+    "Jicarilla Apache Nation and Mescalero Apache Tribe accounts were not located in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

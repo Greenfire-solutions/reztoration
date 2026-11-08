@@ -1,0 +1,80 @@
+{
+  "id": "kappler-793",
+  "name": "Treaty with the Sioux, 1858 (Sisseton and Wahpeton bands)",
+  "aka": [
+    "Treaty of Washington, June 19, 1858, with the Sisseeton and Wahpaton bands of Dakota"
+  ],
+  "signed": "1858-06-19",
+  "ratified": "1859-03-09",
+  "proclaimed": "1859-03-31",
+  "citation": "12 Stat. 1037",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-sioux-1858-0785",
+  "nations": [
+    "Sisitunwan (Sisseton) Dakota",
+    "Wahpetunwan (Wahpeton) Dakota"
+  ],
+  "promises": [
+    "The part of the 1851 Traverse des Sioux reservation lying south or southwest of the Minnesota River would constitute the bands' reservation, with 80 acres allotted to each head of a family and the rest held in common (Article 1).",
+    "Allotted tracts would be exempt from levy, taxation, sale or forfeiture and could not be alienated except to the United States or members of the bands (Article 1).",
+    "The Senate would decide whether the bands held title to the reservation land north of the Minnesota River and, if so, what they would be paid for it, with up to $70,000 of the proceeds available for the bands' debts and goods (Articles 2 and 3)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1863-02-16",
+      "what": "Congress declared all treaties with the Sisseton, Wahpeton, Mdewakanton and Wahpekute bands abrogated as to any future obligation of the United States, and declared their Minnesota lands, rights of occupancy and annuities forfeited. The Commission found the forfeited land was the reservation south of the Minnesota River (Royce Area 440), the upper half of which the Sisseton and Wahpeton occupied under this treaty.",
+      "whoFoundIt": "Act of February 16, 1863, ch. 37, sec. 1, 12 Stat. 652; Indian Claims Commission Findings 48 and 49, Dockets 142 and 359-363 (1962)",
+      "source": {
+        "title": "Act of February 16, 1863, ch. 37, 12 Stat. 652 (Statutes at Large, 37th Congress, PDF page 398)",
+        "url": "https://tile.loc.gov/storage-services/service/ll/llsl/llsl-c37/llsl-c37.pdf",
+        "publisher": "Library of Congress"
+      },
+      "quote": "all lands and rights of occupancy within the State of Minnesota, and all annuities and claims heretofore accorded to said Indians"
+    }
+  ],
+  "landTaken": "Royce Area 414, the land north of the Minnesota River ceded by this treaty, and the bands' share of Royce Area 440, the reservation forfeited in 1863 (Commission findings, 1962 and 1967).",
+  "compensation": "The Senate resolution of June 27, 1860 (12 Stat. 1042) allowed thirty cents an acre for the land north of the river. Area 440 was sold under the Act of March 3, 1863 (12 Stat. 819); the Commission's 1967 findings record that the Court of Claims found the Sisseton-Wahpeton share of the proceeds properly distributed (Sisseton and Wahpeton Indians v. United States, 58 Ct. Cl. 302, 1923, affirmed by the Supreme Court).",
+  "today": "In the 1967 compromise of Dockets 142 and 359-363 ($12,250,000 in all; $5,097,575 in Docket 142 for the Sisseton and Wahpeton), none of the money was allocated to Area 440, for which no claim had been filed; the 1958 hearing transcript quoted in the findings says no claim was known to be pending for Area 414. A compromise is not a finding of breach.",
+  "plain": {
+    "promised": "A reservation south of the Minnesota River, with 80 acres for each family head that could not be taxed, sold or forfeited, and the Senate to decide payment for the land north of the river.",
+    "happened": "In 1863 Congress declared all treaties with the Sisseton, Wahpeton, Mdewakanton and Wahpekute abrogated and their Minnesota lands and annuities forfeited, taking the reservation land the Sisseton and Wahpeton held under this treaty.",
+    "today": "A 1967 compromise gave $5,097,575 to the Sisseton and Wahpeton, but nothing for the forfeited reservation, for which no claim had been filed. A compromise is not a finding of breach."
+  },
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Sioux, 1858 (Kappler, vol. 2, p. 785)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-sioux-1858-0785",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Act of February 16, 1863, ch. 37, 12 Stat. 652",
+      "url": "https://tile.loc.gov/storage-services/service/ll/llsl/llsl-c37/llsl-c37.pdf",
+      "publisher": "Library of Congress"
+    },
+    {
+      "title": "Sisseton and Wahpeton Bands et al. v. United States, Dockets 142, 359-363, Findings of Fact (January 12, 1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/251",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Dockets 142, 359-363, Findings of Fact on Compromise Settlement (July 25, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2214",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Dockets 142, 359-363, Final Judgments (August 9, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1553",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json lists the Mdewakanton and Wahpekute among the schedule tribes and the Lower Sioux, Prairie Island and Shakopee communities among the present-day tribes; this instrument (12 Stat. 1037) was signed by the Sisseton and Wahpeton only. The Mdewakanton-Wahpekute treaty of the same day is kappler-789.",
+    "The 1863 Act forfeited the lands and annuities of all four bands; the record on how far the Sisseton and Wahpeton took part in the 1862 war, and Congress's later dealings with them (the treaty of February 19, 1867 and the Lake Traverse reservation) were not researched here.",
+    "The Supreme Court citation for the affirmance of 58 Ct. Cl. 302 reads '27 U.S. 424' in the Commission's scanned text and is probably 277 U.S. 424 (1928); not opened, so not recorded as a citation.",
+    "The Sisseton-Wahpeton Oyate's own account of the 1858 treaty was not located in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

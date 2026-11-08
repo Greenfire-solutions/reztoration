@@ -1,0 +1,55 @@
+{
+  "id": "kappler-68",
+  "name": "Treaty with the Seneca, 1802 (Cattaraugus exchange with the Holland Land Company, 7 Stat. 70)",
+  "aka": [
+    "Indenture of June 30, 1802 between the Seneca Nation and the Holland Land Company"
+  ],
+  "signed": "1802-06-30",
+  "ratified": "1803-01-12",
+  "proclaimed": "1803-01-12",
+  "citation": "7 Stat. 70",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-1802-0060",
+  "nations": [
+    "Seneca Nation of Indians"
+  ],
+  "promises": [
+    "Held at Buffalo Creek under a United States commissioner, the treaty was an exchange: the Seneca gave the Holland Land Company proprietors two Cattaraugus tracts reserved to them in the 1797 Big Tree contract, the twelve-mile strip north of Cattaraugus Creek and a piece south of the creek near its mouth.",
+    "In return the proprietors released to the Seneca a larger tract on both sides of Cattaraugus Creek, keeping only the right of pre-emption, to be held by the same tenure as the 1797 reservations."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce areas 36 and 37, the two 1797 Cattaraugus reserves given up. The Commission found them to total 10,100 acres (8,700 north of the creek and 1,400 south) against 18,397 acres received (Dockets 342-A et al., Findings 57 and 58, 1972). Area 45 is the tract the Seneca received, today's Cattaraugus reservation.",
+  "compensation": "Land for land. The Indian Claims Commission found the 18,397 acres received at least as valuable as the 10,100 given up, so the consideration was not unconscionable, and dismissed the Seneca Nation's claim (Docket 342-E) on May 3, 1972.",
+  "today": "The Cattaraugus reservation created by this exchange is held by the Seneca Nation of Indians. In the same 1972 decision the Commission found that the United States had a duty under the 1790 Trade and Intercourse Act to see the Seneca received a conscionable price, and that the 1826 sale of parcels from eight reservations, including 5,120 acres of Cattaraugus, was made for an unconscionable price.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Seneca, 1802 (Kappler vol. 2, p. 60), 7 Stat. 70",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-1802-0060",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Seneca Nation of Indians v. United States, Dockets 342-A et al., Findings of Fact (1972), 28 Ind. Cl. Comm. 42",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/999",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Seneca Nation of Indians v. United States, Dockets 342-A et al., Opinion of the Commission (1972), 28 Ind. Cl. Comm. 12",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2526",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule pp. 662-663, areas 36, 37 and 45",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/662/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The Commission's dismissal of Docket 342-E is a ruling against the claim, so it is recorded under compensation, not as a breach.",
+    "Decision for Jordan: the Commission found the 1826 sale, which included 5,120 acres of the Cattaraugus reservation created by this exchange, unconscionable (Dockets 342-A and 368-A, 1972). That is a breach on land from area 45 but under a later transaction, so it is not counted against this treaty; it should be checked when the 1826 and 1838 transactions are researched.",
+    "The Seneca Nation's own history pages (sni.org) returned 403 on 2026-11-08; no nation account was found.",
+    "treaties.json also lists the Seneca-Cayuga and Tonawanda Seneca; the Commission records the Seneca Nation of Indians as the plaintiff for Docket 342-E."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

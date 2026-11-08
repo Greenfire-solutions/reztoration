@@ -1,0 +1,31 @@
+[
+ {
+  "id": "margaret-verble",
+  "name": "Margaret Verble",
+  "category": "media",
+  "subcategory": "novelist",
+  "nation": "Cherokee Nation",
+  "ownership": "self-described",
+  "ownershipSource": {
+   "title": "Margaret Verble: about the author (enrolled citizen of the Cherokee Nation, lives in Lexington, Kentucky)",
+   "url": "https://www.margaretverble.com/"
+  },
+  "description": "Cherokee Nation novelist whose books, including the Pulitzer finalist Maud's Line and Cherokee America, are set in the old Cherokee Nation and in Nashville.",
+  "website": "https://www.margaretverble.com/",
+  "city": "Lexington",
+  "state": "KY",
+  "homeBased": true,
+  "sources": [
+   {
+    "title": "Margaret Verble: about the author",
+    "url": "https://www.margaretverble.com/"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -84.497,
+   38.0464
+  ],
+  "lonlatPrecision": "town"
+ }
+]

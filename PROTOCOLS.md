@@ -19,6 +19,8 @@ Grounding: the CARE Principles for Indigenous Data Governance (Collective benefi
 10. **The nation's account sits beside the government's.** Where a nation has published its own history of a treaty, it is linked first on the treaty card.
 11. **Cession areas are Royce's 1899 survey** as digitised by the US Forest Service (public domain). They are the government's record of what was taken, not the nation's.
 
+15. **The plain summary adds nothing.** Each treaty on the Broken Treaties view carries three short lines, Promised, What happened and Today, in everyday words (45 words at most each). They are written only from that treaty's own audited findings file: no fact, figure, date or claim that is not already in its promises, breaches, compensation, today or nationVoice. Where the record is uncertain, the summary says so. The full record, with every source, is one click away.
+
 ## Native businesses
 
 12. **Native ownership must be stated by someone credible.** A business is listed only when its Native or tribal ownership is stated by the Indian Arts and Crafts Board Source Directory, a tribe's own list of its enterprises, a certifying or member body (Intertribal Agriculture Council, AIHEC, a Native CDFI network, NCAIED and similar), or the business itself naming the nation it belongs to. The basis is recorded on every listing.

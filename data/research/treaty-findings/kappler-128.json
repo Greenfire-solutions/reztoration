@@ -1,0 +1,43 @@
+{
+  "id": "kappler-128",
+  "name": "Treaty with the Sauk, 1815 (Sauk of the Missouri River, Portage des Sioux)",
+  "aka": [
+    "Treaty of peace and friendship with the Sac of the Missouri River, September 13, 1815"
+  ],
+  "signed": "1815-09-13",
+  "ratified": "1815-12-26",
+  "citation": "7 Stat. 134",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-1815-0120",
+  "nations": [
+    "Sauk (Thakiwaki) then living on the Missouri River"
+  ],
+  "promises": [
+    "The Sauk of the Missouri River assented to the treaty of St. Louis of November 3, 1804 with the united Sauk and Fox and promised to help re-establish it (Article 1).",
+    "They promised to remain separate from the Sauk of Rock River until peace was made with them (Article 2).",
+    "The United States promised them all rights secured by the 1804 treaty and, as soon as practicable, a just proportion of its annuities, while they complied (Article 3)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "No land was ceded by this treaty; it promised a share of the 1804 annuities.",
+  "today": "The Sac and Fox claim for the lands ceded in 1804 was heard in Indian Claims Commission Docket 83 (interlocutory order of June 12, 1959 on title). That claim concerns the 1804 treaty and is not recorded as a breach of this 1815 treaty.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Sauk, 1815 (Kappler, vol. 2, p. 120)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-1815-0120",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Sac and Fox Tribe of Indians of Oklahoma et al. v. United States, Docket 83, Interlocutory Order (June 12, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/140",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json gives this entry Royce cessions 50 and 51, which are the 1804 cession areas; this treaty ceded no land. The schedule tribe is given as 'Sauk and Fox', but the signers were the Sauk of the Missouri River only. Not edited.",
+    "Whether the Missouri River Sauk received a just proportion of the 1804 annuities as Article 3 promised was not checked.",
+    "Sac and Fox Nation of Missouri in Kansas and Nebraska accounts of the 1815 treaty were not located in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

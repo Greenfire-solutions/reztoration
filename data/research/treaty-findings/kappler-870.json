@@ -1,0 +1,89 @@
+{
+  "id": "kappler-870",
+  "name": "Treaty with the Chippewa, Mississippi, and Pillager and Lake Winnibigoshish Bands, 1864",
+  "aka": [
+    "Treaty of May 7, 1864 with the Chippewa of the Mississippi"
+  ],
+  "signed": "1864-05-07",
+  "ratified": "1865-02-09",
+  "proclaimed": "1865-03-20",
+  "citation": "13 Stat. 693",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-mississippi-and-pillager-and-lake-winnibigoshish-bands-1864-0862",
+  "nations": [
+    "Mille Lacs Band of Ojibwe (Mille Lac band, Chippewa of the Mississippi)",
+    "Chippewa of the Mississippi (Gull Lake, Sandy Lake, Rabbit Lake, Pokegama Lake and Rice Lake bands)",
+    "Leech Lake Band of Ojibwe (Pillager and Lake Winnibigoshish bands)"
+  ],
+  "promises": [
+    "In return for ceding the Gull Lake, Mille Lac, Sandy Lake, Rabbit Lake, Pokagomin Lake and Rice Lake reservations made in 1855 (Article 1), the United States would set apart a large tract around Leech Lake as the future home of the Chippewa of the Mississippi (Article 2).",
+    "Existing annuities would run ten years longer, with $20,000 toward 1862 depredation claims and payments to the chiefs (Article 3).",
+    "The United States would pay for clearing and breaking land for each band and build houses for the chiefs (Article 4), and supply oxen, tools, carpenters, blacksmiths, farm laborers and a physician for ten years (Article 5).",
+    "No band had to move until Articles 4 and 6 were carried out, and the Mille Lac Indians, because of their good conduct, would not be compelled to remove so long as they did not molest the persons or property of whites (Article 12)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1913-06-09",
+      "what": "The Supreme Court described the long dispute over the Mille Lac Band's right under Article 12 to stay on its 1855 reservation, and held that the Mille Lac lands not covered by settler entries made before the 1889 Act were disposed of under the general land laws, not for the Indians' benefit but in disregard of their rights. That violated the trust the 1889 Act created and the Indians were entitled to recover. It also held that settler entries made before 1889 were validly patented, and sent the case back for damages to be reassessed.",
+      "whoFoundIt": "United States v. Mille Lac Band of Chippewa Indians, 229 U.S. 498 (1913)",
+      "source": {
+        "title": "United States v. Mille Lac Band of Chippewa Indians in the State of Minnesota, 229 U.S. 498 (1913)",
+        "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep229/usrep229498/usrep229498.pdf",
+        "publisher": "Library of Congress, United States Reports"
+      },
+      "quote": "not for the benefit of the Indians, but in disregard of their rights"
+    }
+  ],
+  "landTaken": "Royce areas 453 to 457: the Gull Lake, Mille Lac, Sandy Lake, Rabbit Lake, Pokagomin Lake and Rice Lake reservations of 1855, less small grants to named persons. The Mille Lac tract was a little more than 61,000 acres of four fractional townships and three islands (229 U.S. 498, 499).",
+  "compensation": "The treaty paid by extended annuities and the services listed. The Court of Claims had given the Mille Lac claimants a judgment of $827,580.72, which the Supreme Court reversed in 1913 and remanded for reassessment; the final amount was not found in a source opened.",
+  "today": "The Mille Lacs Band reports that on March 4, 2022 a federal district judge held its 1855 reservation boundaries had never been diminished or disestablished, and that on February 12, 2025 the Eighth Circuit dismissed the county's appeal as moot and directed that the ruling be vacated, leaving the boundary question open for a future case.",
+  "plain": {
+    "promised": "A new home around Leech Lake for their 1855 reservations, ten more years of annuities, cleared land, houses, tools and workers, and the Mille Lac Band's right to stay so long as they did not molest whites.",
+    "happened": "The Supreme Court held in 1913 that Mille Lac lands were disposed of in disregard of the Indians' rights, violating the trust created by an 1889 Act, so the Band could recover. It did not find Article 12 itself violated.",
+    "today": "The Court of Claims judgment of $827,580.72 was reversed for reassessment, and the final amount has not been found. The Band reports a 2022 ruling that its 1855 boundaries were intact was later vacated, leaving the question open."
+  },
+  "nationVoice": [
+    {
+      "nation": "Mille Lacs Band of Ojibwe",
+      "summary": "The Band's newspaper describes its ancestors, led by Shaboshkung, holding the United States to its word that the Non-Removable Mille Lacs Band could remain on its homelands, and its Chief Executive called the 2022 ruling proof that the reservation was never diminished.",
+      "url": "https://www.inaajimowin.com/news-blog/district-court-judge-non-removable-mille-lacs-bands-reservation-intact-since-1855"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Chippewa, Mississippi, and Pillager and Lake Winnibigoshish Bands, 1864 (Kappler vol. 2, p. 862)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-mississippi-and-pillager-and-lake-winnibigoshish-bands-1864-0862",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "United States v. Mille Lac Band of Chippewa Indians in the State of Minnesota, 229 U.S. 498 (1913)",
+      "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep229/usrep229498/usrep229498.pdf",
+      "publisher": "Library of Congress, United States Reports"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule pp. 830-832, areas 453-457",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/830/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "'We Won': Court rules Mille Lacs Reservation boundaries intact",
+      "url": "https://www.inaajimowin.com/news-blog/district-court-judge-non-removable-mille-lacs-bands-reservation-intact-since-1855",
+      "publisher": "Inaajimowin, Mille Lacs Band of Ojibwe"
+    },
+    {
+      "title": "US District Court ruling: lawsuit spanning 8 years comes to a draw (March 2025)",
+      "url": "https://www.inaajimowin.com/news-blog/us-district-court-ruling-lawsuit-spanning-8-years-comes-to-a-draw",
+      "publisher": "Inaajimowin, Mille Lacs Band of Ojibwe"
+    }
+  ],
+  "openQuestions": [
+    "The 1913 ruling found a breach of the trust created by the Act of January 14, 1889 (25 Stat. 642), which the Mille Lacs accepted and which settled the Article 12 dispute; the Court did not hold that Article 12 itself was violated. An auditor may prefer to count this only for the Nelson Act cession.",
+    "The 2022 district court opinion and the 2025 Eighth Circuit opinion were not opened; 'today' is attributed to the Band's newspaper.",
+    "The amount finally recovered after the 1913 remand was not found.",
+    "Whether the Indian Claims Commission or Court of Claims ruled on Articles 4 to 6 (clearing, houses, tools, staff) was not checked; the Supreme Court said in 1913 that it was not questioned that the annuities were paid and Articles 4 and 6 complied with.",
+    "presentDayTribes in treaties.json lists Mille Lacs, Leech Lake and White Earth bands; the Pillager and Lake Winnibigoshish bands were parties only to the general provisions, and the Article 2 reservation was largely replaced by the White Earth Reservation under the treaty of March 19, 1867."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

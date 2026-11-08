@@ -1,0 +1,17 @@
+{
+  "id": "kappler-179",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty text, signing and proclamation dates and Statutes at Large citation checked against the OSU Kappler edition (7 Stat. 189, proclaimed January 15, 1819)",
+    "Amended findings of June 30, 1960 (item 122): $8,091,400, $1.15 an acre, October 6, 1818, unconscionable, one dissent, Court of Claims remand of July 13, 1959",
+    "Dissent (item 361) and 1954 opinion (item 355): 7,036,000 acres, Royce Area 99",
+    "1965 opinion (item 600): final award jointly to the two Miami plaintiffs"
+  ],
+  "changes": [
+    "openQuestions: the dissent is dated 1960, not 1961"
+  ],
+  "unverifiable": [
+    "Final award amount: item 299 has no text in the collection"
+  ]
+}

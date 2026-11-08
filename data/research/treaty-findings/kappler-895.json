@@ -109,15 +109,36 @@
       "title": "Cheyenne-Arapaho Tribes of Indians of Oklahoma v. United States, Dockets 329-A and 329-B, Opinion of the Commission (1965)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2123",
       "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Public Law 106-465, Sand Creek Massacre National Historic Site Establishment Act of 2000",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ465/html/PLAW-106publ465.htm",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Senate Report 106-418, Sand Creek Massacre National Historic Site Establishment Act of 2000 (S. 2950)",
+      "url": "https://www.govinfo.gov/content/pkg/CRPT-106srpt418/html/CRPT-106srpt418.htm",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Survey of Lands for Cheyenne and Arapahoe Indians, H. Ex. Doc. No. 104, 40th Cong., 2d Sess. (1868)",
+      "url": "https://shareok.org/bitstream/11244/37655/1/House-40-2-Executive-104-Serial-1337.pdf",
+      "publisher": "Oklahoma State University, SHAREOK (U.S. Congressional Serial Set 1337)"
     }
   ],
   "openQuestions": [
     "Article 6 is itself a government admission that the massacre happened while the people were at peace and under promised protection. It is a promise made in this treaty, not a breach of it, so it is listed as a promise here; whether it is a breach of Article 4 of the 1861 treaty (kappler-815) is discussed in that file.",
-    "Whether the tribes gave the assent the Senate amendment to Article 2 called for was not found.",
+    "Assent to the Senate amendments: the proclamation printed in H. Ex. Doc. 104 (1868) records the Arapaho and Cheyenne chiefs assenting on November 10, 1866, at Fort Zarah, and the Apache on November 19, 1866. Whether a reservation was then designated under the amended Article 2 is covered by the ICC findings in Docket 329.",
     "The Flute opinion's account that funds went partly to the tribes and that unspent money returned to surplus in 1872 is the plaintiffs' allegation, not a finding, and is left out of the breaches.",
     "No Cheyenne and Arapaho Tribes (Oklahoma) page on this treaty was found.",
-    "Audit 2026-11-08: the National Park Service entry changed from government-admission to historian. An NPS interpretive page is a historian source, not a formal admission by the United States. With no court, Commission, statute or formal admission finding left, the status falls from broken to contested. A formal finding that the Article 6 reparations were not paid (for example a congressional report or the 1866 appropriation's accounting) would restore it."
+    "Audit 2026-11-08: the National Park Service entry changed from government-admission to historian. An NPS interpretive page is a historian source, not a formal admission by the United States. With no court, Commission, statute or formal admission finding left, the status falls from broken to contested. A formal finding that the Article 6 reparations were not paid (for example a congressional report or the 1866 appropriation's accounting) would restore it.",
+    "Search 2026-11-08 for a formal finding that the Article 6 reparations were not paid or the lands never granted, none found: (1) ICC Cheyenne-Arapaho decisions in Dockets 329, 329-A, 329-B and 348 (pointers 110, 30, 242, 304, 412, 2123, 2414, 1020, 959, 1119) do not mention Sand Creek or Article 6 reparations; (2) Public Law 106-465 (2000) findings describe the massacre but say nothing of reparations; (3) Senate Report 106-418 (2000) says victims \"received minor compensation\" under the treaty and that \"little was actually done\", which records partial payment rather than non-payment, and Senate Reports 108-323 and 109-20 repeat that minor compensation was provided; (4) H. Ex. Doc. 104 (1868) concerns surveys for the Article 5 grants to relatives by blood, not the Article 6 grants; (5) the NPS timeline page also says the reparations were never paid, but it is the same interpretive kind of source as the Legacies page. Not reached: Commissioner of Indian Affairs annual reports 1866 to 1872 (not loaded as text), the accounting of the 1866 $39,050 appropriation, and any 1870s to 1890s Serial Set document on the Article 6 selections; these are the leads for restoring broken."
   ],
-  "researchedAt": "2026-11-07",
-  "researcher": "treaty-researcher"
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher",
+  "plain": {
+    "promised": "A reservation between the Arkansas and Cimarron rivers, yearly spending for forty years, and, as reparation for the Sand Creek massacre, land for survivors and payment for property the troops destroyed or took.",
+    "happened": "The National Park Service writes that reparations to many descendants have never been paid. No formal finding of breach has been located: in 2015 an appeals court dismissed the descendants' suit on sovereign immunity without deciding whether they were paid.",
+    "today": "Congress appropriated $39,050 in 1866 for those who suffered at Sand Creek; as of 2015 no court had ordered an accounting. The land claims were settled by a $15,000,000 compromise in 1965. The reservation was never occupied."
+  }
 }

@@ -1,0 +1,15 @@
+{
+  "id": "cession-1882-01-24-sioux",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "American Presidency Project text of the Jan. 24, 1882 order (Kappler pp. 864-865): boundaries 5 miles east, 5 south, 10 west; addition to the Sioux reservation in Dakota; 'during the pleasure of the President'",
+    "DocsTeach / National Archives identifier 285128: Jan. 25, 1904 order restoring the tract",
+    "Royce 1899 schedule text (Internet Archive djvu): schedule row for the 1882 order and the Area 631 note on remaining original Sioux territory",
+    "Sioux Tribe v. United States, 316 U.S. 317 (Cornell LII): argued April 10, decided May 11, 1942; 'some 5 1/2 million acres'; holding of no compensable interest; the file correctly says the ruling was about other additions"
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Tract acreage not stated in any opened source"
+  ]
+}

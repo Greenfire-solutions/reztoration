@@ -1,0 +1,95 @@
+{
+  "id": "cession-1855-11-09-indians-on-coast-of-oregon",
+  "name": "Executive Order of November 9, 1855 setting apart the Coast (later Siletz) Reservation",
+  "aka": [
+    "Coast Reservation Executive Order, 1855",
+    "Siletz Reserve, originally known as Coast Reserve"
+  ],
+  "signed": "1855-11-09",
+  "citation": "Executive Order of November 9, 1855 (President Franklin Pierce), on the recommendation of Secretary of the Interior R. McClelland of November 8, 1855; printed in Executive Orders Relating to Indian Reserves, 1855-1902 (Government Printing Office, 1902), p. 95",
+  "textUrl": "https://www.oregon.gov/ode/students-and-family/equity/NativeAmericanEducation/Documents/Executive%20Orders%20Relating%20to%20the%20Siletz%20Coast%20Reservation.pdf",
+  "nations": [
+    "Tillamook",
+    "Coquille (Coquelle)",
+    "Tututni (Too-too-to-ney)",
+    "Chetco",
+    "Other coast, Umpqua, Rogue River and Willamette Valley peoples later removed to the reservation (Confederated Tribes of Siletz Indians, Confederated Tribes of Grand Ronde)"
+  ],
+  "promises": [
+    "Not a treaty: a presidential order. It reserved a tract on the Oregon coast, from the mouth of the Tsiltcoos River north to a point due east of Cape Lookout, for Indians on the coast of Oregon (Royce, 1899).",
+    "The Secretary's covering letter called it a conditional reservation, 'subject to future curtailment, if found proper', or release should Congress not sanction it (Executive Orders Relating to Indian Reserves, 1902).",
+    "Its boundaries were almost identical with the reservation promised in Superintendent Palmer's unratified coast treaty of August 11, 1855 (United States v. Alcea Band of Tillamooks, 1946)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1946-11-25",
+      "what": "The Supreme Court affirmed a Court of Claims judgment that the Tillamook, Coquille, Tututni and Chetco lost their original Indian title through this order without consent or compensation, the Tillamook being confined to the part of their land inside the reservation and the other three moved onto it, and held they were entitled to compensation under the jurisdictional act of 1935.",
+      "whoFoundIt": "United States v. Alcea Band of Tillamooks, 329 U.S. 40 (1946), affirming Alcea Band of Tillamooks v. United States, 103 Ct. Cl. 494 (1945)",
+      "source": {
+        "title": "United States v. Alcea Band of Tillamooks, 329 U.S. 40 (1946)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/329/40",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
+      "quote": "deprived of their original possessions by the Executive Order of November 9, 1855"
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1855-11-09",
+      "what": "The Confederated Tribes of Siletz Indians say the Coast Reservation was not a temporary emergency measure but a permanent reservation supported by the western Oregon treaties already ratified, and that the false history of it as temporary was later used to open most of their lands without treaty or compensation and to force the 1892 cession.",
+      "whoFoundIt": "Confederated Tribes of Siletz Indians, Creating the Coast (Siletz) Reservation",
+      "source": {
+        "title": "Creating the Coast (Siletz) Reservation",
+        "url": "https://ctsi.nsn.us/creating-the-coast-siletz-reservation/",
+        "publisher": "Confederated Tribes of Siletz Indians"
+      }
+    }
+  ],
+  "landTaken": "Alcea (1946) treats the order itself as the taking of the original Indian title of the Tillamook, Coquille, Tututni and Chetco. No acreage for that taking was recorded in this pass.",
+  "compensation": "The four tribes were held entitled to compensation under the Act of August 26, 1935 (Alcea, 1946). The amount recovered was not recorded in this pass.",
+  "today": "The reservation was cut by Executive Order of December 21, 1865 and by Act of March 3, 1875 (18 Stat. 446), and its unallotted land was ceded under the 1892 agreement ratified August 15, 1894 (28 Stat. 286, 323); those are separate entries in the queue. Alcea (1946) says that after 1894 Congress did not take reservation lands without compensation.",
+  "plain": {
+    "promised": "Not a treaty: a presidential order setting apart a reservation on the Oregon coast for the coast Indians. The Interior Secretary called it conditional, subject to future curtailment.",
+    "happened": "The Supreme Court upheld in 1946 a ruling that the Tillamook, Coquille, Tututni and Chetco lost their original title through this order without consent or compensation. The Siletz Tribe says the reservation was permanent and later wrongly treated as temporary.",
+    "today": "The four tribes were held entitled to compensation, but the amount recovered has not been traced. The reservation was later cut in 1865 and 1875, and its unallotted land ceded under an 1892 agreement."
+  },
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of Siletz Indians",
+      "summary": "The Tribe says its reservation was a permanent treaty reservation created under its ratified treaties, and that calling it temporary was a misreading later used to take most of it.",
+      "url": "https://ctsi.nsn.us/creating-the-coast-siletz-reservation/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "United States v. Alcea Band of Tillamooks, 329 U.S. 40 (1946)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/329/40",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Executive Orders Relating to Indian Reserves, from May 14, 1855, to July 1, 1902 (GPO, 1902), Siletz Reserve pages 95-96, as reproduced by the Oregon Department of Education",
+      "url": "https://www.oregon.gov/ode/students-and-family/equity/NativeAmericanEducation/Documents/Executive%20Orders%20Relating%20to%20the%20Siletz%20Coast%20Reservation.pdf",
+      "publisher": "Oregon Department of Education (copy of a US Government Printing Office compilation)"
+    },
+    {
+      "title": "Indian Land Cessions in the United States (Royce, 1899), schedule entry for November 9, 1855",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/814/mode/2up",
+      "publisher": "Internet Archive (Smithsonian Institution, Bureau of American Ethnology)"
+    },
+    {
+      "title": "Creating the Coast (Siletz) Reservation",
+      "url": "https://ctsi.nsn.us/creating-the-coast-siletz-reservation/",
+      "publisher": "Confederated Tribes of Siletz Indians"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json gives this entry Royce cession 479. In Royce's schedule the November 9, 1855 order appears to carry area number 400, with the cross-reference 'See 578, 579, 479'; 479 appears to be the tract released on December 21, 1865. Not edited; please check against the Royce page image.",
+    "This entry is the creation of a reservation, not a cession; the cession of these coast lands is the separate entry cession-1855-08-11-coast-tribes-of-oregon (Royce 397).",
+    "The amount recovered after Alcea, and the later interest decision (United States v. Alcea Band of Tillamooks, 341 U.S. 48, 1951), were not opened.",
+    "Alcea calls the reservation conditional; the Siletz Tribe says it was a treaty reservation under the ratified 1853-1855 western Oregon treaties. The two readings are recorded side by side; which treaties the Senate relied on was not traced here.",
+    "The Coquille Indian Tribe, Grand Ronde and the Coos, Lower Umpqua and Siuslaw were not consulted for their own accounts of this order in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

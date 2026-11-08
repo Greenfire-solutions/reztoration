@@ -30,6 +30,7 @@
     <button data-mode="today" title="Nations today, and Native businesses to support">Today</button>
   </div>
   <a class="libbtn" href="#library/art">Library</a>
+  <a class="libbtn brokenbtn" href="#broken">Broken treaties</a>
 </header>
 
 <div id="tip" hidden></div>
@@ -71,6 +72,30 @@
   <div class="tabs lib"></div>
   <input class="filter" type="search" placeholder="Search everything: a nation, a maker, a plant, a word" autocomplete="off">
   <div class="libbody"></div><div class="more"></div>
+</section>
+
+<section id="broken" hidden aria-label="Broken treaties">
+  <header>
+    <div>
+      <h2>Broken treaties</h2>
+      <p class="lede">What the United States promised, what it did instead, and where it stands today. Each one is on the record: a court, the Indian Claims Commission, an Act of Congress or the government itself found it. Where the nation has told it in its own words, that comes first.</p>
+    </div>
+    <a class="x" href="#" aria-label="Close broken treaties">×</a>
+  </header>
+  <div class="bt-tally"></div>
+  <div class="bt-controls">
+    <input class="filter" type="search" placeholder="A nation, a place, a year" autocomplete="off" aria-label="Search broken treaties">
+    <select class="bt-state" aria-label="State"><option value="">Every state</option></select>
+    <select class="bt-sort" aria-label="Order">
+      <option value="old">Oldest first</option>
+      <option value="new">Newest first</option>
+    </select>
+  </div>
+  <div class="chips bt-status"></div>
+  <div class="bt-count note"></div>
+  <div class="bt-cards"></div>
+  <div class="more"></div>
+  <p class="note bt-foot">These are records, not legal advice, and the research is still going. If you belong to a nation named here and something is wrong, or should not be shown, it will be corrected or removed.</p>
 </section>
 
 <dialog id="viewer" aria-label="Viewer">

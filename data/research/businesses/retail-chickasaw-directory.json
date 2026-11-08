@@ -1,0 +1,41 @@
+[
+ {
+  "id": "southern-spa-and-patio",
+  "name": "Southern Spa & Patio",
+  "category": "retail",
+  "subcategory": "hot tubs, patio furniture, grills and outdoor kitchens",
+  "nation": "Chickasaw Nation",
+  "ownership": "member-body-listed",
+  "ownershipSource": {
+   "title": "Chickasaw Business Directory (Chickasaw Nation, businesses at least 51% owned by Chickasaw citizens): Southern Spa & Patio",
+   "url": "https://www.chickasawbusinessnetwork.com/Chickasaw-Business-Directory/Business-Category/Business-Information.aspx?busID=46427"
+  },
+  "description": "A Chickasaw citizen owned store in northeast Georgia selling hot tubs, outdoor furniture, grills, fireplaces and outdoor living design.",
+  "website": "https://www.southernspaandpatio.com/",
+  "address": "1650 Athens Highway",
+  "city": "Madison",
+  "state": "GA",
+  "zip": "30650",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Chickasaw Business Directory: Southern Spa & Patio",
+    "url": "https://www.chickasawbusinessnetwork.com/Chickasaw-Business-Directory/Business-Category/Business-Information.aspx?busID=46427"
+   },
+   {
+    "title": "Chickasaw Nation: about the Chickasaw Business Directory (51% Chickasaw citizen ownership required)",
+    "url": "https://www.chickasaw.net/Services/Enterprises-Commerce/Chickasaw-Business-Directory"
+   },
+   {
+    "title": "Southern Spa & Patio: store hours and address (2026)",
+    "url": "https://www.southernspaandpatio.com/"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -83.4524,
+   33.6087
+  ],
+  "lonlatPrecision": "address"
+ }
+]

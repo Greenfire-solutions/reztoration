@@ -85,6 +85,11 @@
     "No nation statement about this treaty was found.",
     "Audit 2026-11-08: removed the statement that 'the Commission noted the annuity was paid pro rata to all Potawatomi for years after 1843'; it was not found in the 1962 opinion (OSU id 726) or the 1973 opinion (OSU id 1345). The ratification date of 30 December 1829 is confirmed by the 1962 opinion."
   ],
+  "plain": {
+    "promised": "In return for land in northern Illinois and southwestern Wisconsin, the United States promised $16,000 a year forever in coin, salt every year, a blacksmith's shop at Chicago, and hunting rights on the ceded land.",
+    "happened": "The Indian Claims Commission found in 1962 that the 3,528,949 acres ceded were worth $2,470,264.30 and that the payment was so grossly inadequate as to be unconscionable. The Court of Claims later held lead deposits had been left out of the value.",
+    "today": "In 1973 the Commission awarded the Potawatomi $4,104,818.98, after taking out the $364,901.00 paid and offsets. Whether the award, or the yearly payments promised forever, were paid has not been traced."
+  },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"
 }

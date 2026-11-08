@@ -1462,20 +1462,10 @@
   "presentDayTribes": [
    "Kickapoo Traditional Tribe of Texas",
    "Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas",
-   "Kickapoo Tribe of Oklahoma",
-   "Citizen Potawatomi Nation, Oklahoma",
-   "Delaware Nation, Oklahoma",
-   "Forest County Potawatomi Community, Wisconsin",
-   "Hannahville Indian Community, Michigan",
-   "Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan",
-   "Miami Tribe of Oklahoma",
-   "Nottawaseppi Huron Band of the Potawatomi, Michigan",
-   "Pokagon Band of Potawatomi Indians, Michigan and Indiana",
-   "Prairie Band Potawatomi Nation, Kansas"
+   "Kickapoo Tribe of Oklahoma"
   ],
   "scheduleTribes": [
-   "Kickapoo; Wea",
-   "Delaware; Eel River Miami; Kickapoo; Miami; Potawatomi; Wea"
+   "Wea; Kickapoo"
   ],
   "statute": [],
   "executiveOrder": [],
@@ -1483,7 +1473,18 @@
    "IL",
    "IN"
   ],
-  "name": "Treaty or agreement with the Kickapoo, Wea, Delaware, Eel River Miami, 1816-06-04"
+  "note": "Not a cession. The treaty confirms the boundary of land already ceded on Sept. 30, 1809 (kappler-109, kappler-111) and Dec. 9, 1809 (kappler-112); the areas drawn are those 1809 cessions. The Wea's present-day successor is not named here.",
+  "correction": {
+   "fields": [
+    "royce",
+    "scheduleTribes",
+    "presentDayTribes",
+    "note"
+   ],
+   "why": "Royce lists the treaty of Fort Harrison, June 4, 1816 (Stat. L. VII, 145) with the Wea and Kickapoo only: 'The Weas and Kickapoos recognize and confirm the boundary line surveyed and marked by the U. S. of the land on Wabash and White rivers ceded by treaty of Sept. 30, 1809', and the Kickapoo acknowledge the cession they made by treaty of Dec. 9, 1809. The map column gives only 'See 71, 73'. The Delaware, Miami, Eel River Miami and Potawatomi came from the 1809 rows and are removed.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/680/mode/2up"
+  },
+  "name": "Treaty or agreement with the Wea, Kickapoo, 1816-06-04"
  },
  {
   "id": "kappler-140",
@@ -1739,6 +1740,14 @@
    "OH",
    "IN"
   ],
+  "note": "Checked against Royce: all areas on this record belong to this treaty. 87, 88 and 89 are its cessions; 90 and 91 are the Delaware 13 sections it ceded; 150, 163 to 168, 182, 211, 212 and 259 are the tracts it granted or reserved to the Wyandot, Seneca, Shawnee, Delaware and Ottawa, each ceded later (1829 to 1842). The seven nations are all parties.",
+  "correction": {
+   "fields": [
+    "note"
+   ],
+   "why": "Royce lists the treaty of the foot of the rapids of the Miami of Lake Erie, Sept. 29, 1817 (Stat. L. VII, 160) with the Wyandot, Seneka, Delaware, Shawnee, Potawatomi, Ottawa and Chippewa, and his map column cross-references each of these areas to it. The suspicion that unrelated cessions were merged is not supported; no field changed.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/686/mode/2up"
+  },
   "name": "Treaty or agreement with the Chippewa, Delaware, Ottawa, Potawatomi, 1817-09-29"
  },
  {
@@ -2118,45 +2127,6 @@
    "IN"
   ],
   "name": "Treaty or agreement with the Kickapoo (of the Vermillion), 1819-08-30"
- },
- {
-  "id": "kappler-490",
-  "date": "1819-09-24",
-  "kappler": "https://babel.hathitrust.org/cgi/pt?id=uc1.31210003349790;view=1up;seq=490",
-  "royce": [
-   "https://archive.org/stream/annualreportofbu218smit#page/700/mode/2up",
-   "https://archive.org/stream/annualreportofbu218smit#page/764/mode/2up",
-   "https://archive.org/stream/annualreportofbu218smit#page/698/mode/2up"
-  ],
-  "cessions": [
-   "241",
-   "230",
-   "229",
-   "238",
-   "239",
-   "240",
-   "233",
-   "232",
-   "228",
-   "234",
-   "236",
-   "227",
-   "235",
-   "231",
-   "237"
-  ],
-  "presentDayTribes": [
-   "Saginaw Chippewa Indian Tribe of Michigan"
-  ],
-  "scheduleTribes": [
-   "Chippewa, Saginaw tribe"
-  ],
-  "statute": [],
-  "executiveOrder": [],
-  "states": [
-   "MI"
-  ],
-  "name": "Treaty or agreement with the Chippewa, Saginaw tribe, 1819-09-24"
  },
  {
   "id": "kappler-193",
@@ -2767,53 +2737,19 @@
   "name": "Treaty or agreement with the Potawatomi, 1826-10-16"
  },
  {
-  "id": "kappler-527",
+  "id": "cession-1826-10-23-miami",
   "date": "1826-10-23",
-  "kappler": "https://babel.hathitrust.org/cgi/pt?id=uc1.31210003349790;view=1up;seq=527",
+  "kappler": "https://treaties.okstate.edu/treaties/treaty-with-the-miami-1826-0278",
   "royce": [
-   "https://archive.org/stream/annualreportofbu218smit#page/774/mode/2up",
-   "https://archive.org/stream/annualreportofbu218smit#page/772/mode/2up"
+   "https://archive.org/stream/annualreportofbu218smit#page/716/mode/2up"
   ],
   "cessions": [
    "255",
-   "252",
-   "253",
-   "251",
-   "256",
-   "254",
-   "329",
-   "330"
-  ],
-  "presentDayTribes": [
-   "Miami Tribe of Oklahoma"
-  ],
-  "scheduleTribes": [
-   "Miami"
-  ],
-  "statute": [],
-  "executiveOrder": [],
-  "states": [
-   "IN",
-   "KS"
-  ],
-  "name": "Treaty or agreement with the Miami, 1826-10-23"
- },
- {
-  "id": "kappler-433",
-  "date": "1826-10-23",
-  "kappler": "https://babel.hathitrust.org/cgi/pt?id=uc1.31210003349790;view=1up;seq=433",
-  "royce": [
-   "https://archive.org/stream/annualreportofbu218smit#page/752/mode/2up"
-  ],
-  "cessions": [
    "192",
-   "199",
    "194",
    "195",
-   "193",
-   "197",
-   "198",
-   "196"
+   "199",
+   "193"
   ],
   "presentDayTribes": [
    "Miami Tribe of Oklahoma"
@@ -2826,6 +2762,22 @@
   "states": [
    "IN"
   ],
+  "note": "Royce gives the cession itself no area of its own: 'This was an indefinite claim, and is more specifically covered by cession of Oct. 16, 1826 (first clause), by the Potawatomi' (area 132). The six areas shown are the reserves this treaty made for the Miami, which Royce numbers under later treaties: 192, 193, 194 and 195 ceded by the treaty of Oct. 23, 1834, 199 granted to J. B. Richardville by that treaty, and 255 ceded by the treaty of Nov. 6, 1838. The individual reserves (Beaver, Little Charley, Laventure's daughter, Chapine) have no boundaries on Royce's map.",
+  "correction": {
+   "fields": [
+    "date",
+    "kappler",
+    "royce",
+    "cessions",
+    "scheduleTribes",
+    "presentDayTribes",
+    "states",
+    "note"
+   ],
+   "why": "Royce: near the mouth of the Mississinewa river, on the Wabash, Oct. 23, 1826 (Stat. L. VII, 300). The Miami cede all their claim to land in Indiana north and west of the Wabash and Miami rivers and of the St. Mary's cession of 1818, keeping ten reservations; Royce's map column gives See 255 (Seek's village), See 192 (Flat Belly's village), See 194 (White Racoon's village), See 195 (Mud creek), See 199 (forks of the Wabash) and See 193 (the five mile tract below the Mississinewa). The USFS layer had no record for this treaty: its two Miami entries on this date were really the treaties of 1834 and 1838. Kappler text: Treaty with the Miami, 1826, 7 Stat. 300, proclaimed Jan. 24, 1827 (Oklahoma State University Tribal Treaties Database).",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/716/mode/2up",
+   "splitFrom": "kappler-433"
+  },
   "name": "Treaty or agreement with the Miami, 1826-10-23"
  },
  {
@@ -3782,37 +3734,13 @@
    "Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan",
    "Nottawaseppi Huron Band of the Potawatomi, Michigan",
    "Pokagon Band of Potawatomi Indians, Michigan and Indiana",
-   "Prairie Band Potawatomi Nation, Kansas",
-   "Bad River Band of the Lake Superior Tribe of Chippewa Indians of the Bad River Reservation, Wisconsin",
-   "Bay Mills Indian Community, Michigan",
-   "Bois Forte Band (Nett Lake) of the Minnesota Chippewa Tribe, Minnesota",
-   "Chippewa Cree Indians of the Rocky Boy's Reservation, Montana",
-   "Fond du Lac Band of the Minnesota Chippewa Tribe, Minnesota",
-   "Grand Portage Band of the Minnesota Chippewa Tribe, Minnesota",
-   "Grand Traverse Band of Ottawa and Chippewa Indians, Michigan",
-   "Keweenaw Bay Indian Community, Michigan",
-   "Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin",
-   "Lac du Flambeau Band of Lake Superior Chippewa Indians of the Lac du Flambeau Reservation of Wisconsin",
-   "Lac Vieux Desert Band of Lake Superior Chippewa Indians, Michigan",
-   "Leech Lake Band of the Minnesota Chippewa Tribe, Minnesota",
-   "Mille Lacs Band of the Minnesota Chippewa Tribe, Minnesota",
-   "Minnesota Chippewa Tribe, Minnesota",
-   "Ottawa Tribe of Oklahoma",
-   "Red Cliff Band of Lake Superior Chippewa Indians of Wisconsin",
-   "Red Lake Band of Chippewa Indians, Minnesota",
-   "Saginaw Chippewa Indian Tribe of Michigan",
-   "Sault Ste. Marie Tribe of Chippewa Indians of Michigan",
-   "Sokaogon Chippewa Community, Wisconsin",
-   "St. Croix Chippewa Indians of Wisconsin",
-   "Turtle Mountain Band of Chippewa Indians of North Dakota",
-   "White Earth Band of Minnesota Chippewa Tribe, Minnesota"
+   "Prairie Band Potawatomi Nation, Kansas"
   ],
   "scheduleTribes": [
    "Potawatomi of Indiana and Michigan",
    "Potawatomi, Masac's band",
    "Potawatomi",
    "Potawatomi (Mota's band)",
-   "Chippewa; Ottawa; Potawatomi",
    "Potawatomi (band of Wau-ke-wa, Chekose's only son)",
    "Potawatomi (Mes-quaw-buck's band)"
   ],
@@ -3822,6 +3750,14 @@
    "IN",
    "MI"
   ],
+  "correction": {
+   "fields": [
+    "scheduleTribes",
+    "presentDayTribes"
+   ],
+   "why": "Royce lists the treaty of Tippecanoe river, Oct. 27, 1832 (Stat. L. VII, 399) with the Potawatomi of Indiana and Michigan only. Area 181 is the cession; the other areas on this record (188, 190, 201, 204, 208, 221 to 225) are the band reserves this treaty made, each marked in Royce's map column against this treaty and ceded later (1833 to 1836). So the areas belong together, but the Chippewa and Ottawa, which came from the row of a reserve later ceded at Chicago in 1833, were not parties to this treaty and are removed.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/742/mode/2up"
+  },
   "name": "Treaty or agreement with the Potawatomi of Indiana and Michigan, Potawatomi, Masac's band, Potawatomi, Potawatomi (Mota's band), 1832-10-27"
  },
  {
@@ -3892,26 +3828,31 @@
   ],
   "presentDayTribes": [
    "Absentee-Shawnee Tribe of Indians of Oklahoma",
-   "Miami Tribe of Oklahoma",
-   "Ottawa Tribe of Oklahoma",
-   "Peoria Tribe of Indians of Oklahoma",
-   "Quapaw Tribe of Indians, Oklahoma",
    "Seneca Nation of New York",
    "Seneca-Cayuga Nation, Oklahoma",
    "Seneca-Cayuga Tribe of Oklahoma",
    "Shawnee Tribe, Oklahoma",
-   "Tonawanda Band of Seneca Indians of New York",
-   "Wyandotte Nation, Oklahoma"
+   "Tonawanda Band of Seneca Indians of New York"
   ],
   "scheduleTribes": [
-   "Kaskaskia; Mixed Seneka; Ottawa of Blanehard's fork and Roche de Boeuf; Peoria; Piankishaw; Quapaw; Seneka; Shawnee; Wea; Wyandot"
+   "United Seneka and Shawnee"
   ],
   "statute": [],
   "executiveOrder": [],
   "states": [
    "OK"
   ],
-  "name": "Treaty or agreement with the Kaskaskia, Mixed Seneka, Ottawa of Blanehard's fork and Roche de Boeuf, Peoria, 1832-12-29"
+  "note": "The areas drawn are Royce's cross-references, not land ceded by this treaty. The tract granted here later held the Seneka (499), Wyandot (498), Shawnee (502), Ottawa (501) and part of the Peoria (500) reserves; the Wyandot, Ottawa and Peoria tracts were assigned to those nations by the treaty of Feb. 23, 1867 (kappler-968). Which present-day nations succeed the Sandusky Seneca and the Lewistown band is not confirmed from a nation's own source.",
+  "correction": {
+   "fields": [
+    "scheduleTribes",
+    "presentDayTribes",
+    "note"
+   ],
+   "why": "Royce lists the treaty of Dec. 29, 1832 at the Seneca agency (Stat. L. VII, 411) with the united Seneka and Shawnee only: they cede the land west of the Neosho granted them in 1831 and receive a tract east of it, north half to the mixed band of Lewistown, south half to the Senecas of Sandusky. Royce's remarks say the Ottawa and Peoria tracts 'were ceded to them by the Seneka and Shawnee, Feb. 23, 1867' and the Wyandot tract 'was ceded to them by the Seneka by treaty of Feb. 23, 1867'. The Kaskaskia, Ottawa, Peoria, Piankishaw, Quapaw, Wea and Wyandot came from the 1867 rows and are removed, with the Miami, Ottawa, Peoria, Quapaw and Wyandotte present-day nations.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/744/mode/2up"
+  },
+  "name": "Treaty or agreement with the United Seneka and Shawnee, 1832-12-29"
  },
  {
   "id": "kappler-393",
@@ -4004,20 +3945,10 @@
    "503"
   ],
   "presentDayTribes": [
-   "Absentee-Shawnee Tribe of Indians of Oklahoma",
-   "Miami Tribe of Oklahoma",
-   "Ottawa Tribe of Oklahoma",
-   "Peoria Tribe of Indians of Oklahoma",
-   "Quapaw Tribe of Indians, Oklahoma",
-   "Seneca Nation of New York",
-   "Seneca-Cayuga Nation, Oklahoma",
-   "Seneca-Cayuga Tribe of Oklahoma",
-   "Shawnee Tribe, Oklahoma",
-   "Tonawanda Band of Seneca Indians of New York",
-   "Wyandotte Nation, Oklahoma"
+   "Quapaw Tribe of Indians, Oklahoma"
   ],
   "scheduleTribes": [
-   "Kaskaskia; Mixed Seneka; Ottawa of Blanehard's fork and Roche de Boeuf; Peoria; Piankishaw; Quapaw; Seneka; Shawnee; Wea; Wyandot"
+   "Quapaw"
   ],
   "statute": [],
   "executiveOrder": [],
@@ -4025,7 +3956,15 @@
    "OK",
    "KS"
   ],
-  "name": "Treaty or agreement with the Kaskaskia, Mixed Seneka, Ottawa of Blanehard's fork and Roche de Boeuf, Peoria, 1833-05-13"
+  "correction": {
+   "fields": [
+    "scheduleTribes",
+    "presentDayTribes"
+   ],
+   "why": "Royce lists the treaty of May 13, 1833 (Stat. L. VII, 424) with the Quapaw only: they give up the land on Bayou Treache given them by the Caddo and the U.S. convey them 150 sections west of Missouri between the Senecas and Shawnees, map 'See 503, 504, 505'. The Kaskaskia, Seneka, Ottawa, Peoria, Piankishaw, Shawnee, Wea and Wyandot were copied from the 1867 rows for the same areas and are removed.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/748/mode/2up"
+  },
+  "name": "Treaty or agreement with the Quapaw, 1833-05-13"
  },
  {
   "id": "kappler-407",
@@ -4229,6 +4168,43 @@
    "NE"
   ],
   "name": "Treaty or agreement with the Confederated Pawnee: Grand Pawnee, Pawnee Loup, Pawnee Republicans, Pawnee Tappaye residing on the Platt and Loup Fork, 1833-10-09"
+ },
+ {
+  "id": "kappler-433",
+  "date": "1834-10-23",
+  "kappler": "https://babel.hathitrust.org/cgi/pt?id=uc1.31210003349790;view=1up;seq=433",
+  "royce": [
+   "https://archive.org/stream/annualreportofbu218smit#page/752/mode/2up"
+  ],
+  "cessions": [
+   "192",
+   "199",
+   "194",
+   "195",
+   "193",
+   "197",
+   "198",
+   "196"
+  ],
+  "presentDayTribes": [
+   "Miami Tribe of Oklahoma"
+  ],
+  "scheduleTribes": [
+   "Miami"
+  ],
+  "statute": [],
+  "executiveOrder": [],
+  "states": [
+   "IN"
+  ],
+  "correction": {
+   "fields": [
+    "date"
+   ],
+   "why": "The USFS layer dates this entry 1826-10-23, but its Kappler link (vol. 2, p. 425) and its Royce page and areas are the Miami treaty at the Forks of the Wabash, Oct. 23, 1834 (Stat. L. VII, 463). Royce lists that treaty with the Miami ceding parts of the 1818 and 1826 reserves, areas 192 to 198, and area 199, the ten sections at the forks of the Wabash it patented to J. B. Richardville, so the areas stay; only the date changes. The real 1826 treaty, which shares the day and month, is split out below.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/752/mode/2up"
+  },
+  "name": "Treaty or agreement with the Miami, 1834-10-23"
  },
  {
   "id": "kappler-437",
@@ -4653,6 +4629,53 @@
   "name": "Treaty or agreement with the Sauk and Fox, 1836-09-28"
  },
  {
+  "id": "kappler-490",
+  "date": "1837-01-14",
+  "kappler": "https://babel.hathitrust.org/cgi/pt?id=uc1.31210003349790;view=1up;seq=490",
+  "royce": [
+   "https://archive.org/stream/annualreportofbu218smit#page/764/mode/2up",
+   "https://archive.org/stream/annualreportofbu218smit#page/698/mode/2up",
+   "https://archive.org/stream/annualreportofbu218smit#page/700/mode/2up"
+  ],
+  "cessions": [
+   "241",
+   "230",
+   "229",
+   "238",
+   "239",
+   "240",
+   "233",
+   "232",
+   "228",
+   "234",
+   "236",
+   "227",
+   "235",
+   "231",
+   "237"
+  ],
+  "presentDayTribes": [
+   "Saginaw Chippewa Indian Tribe of Michigan"
+  ],
+  "scheduleTribes": [
+   "Chippewa, Saginaw tribe"
+  ],
+  "statute": [],
+  "executiveOrder": [],
+  "states": [
+   "MI"
+  ],
+  "correction": {
+   "fields": [
+    "date",
+    "royce"
+   ],
+   "why": "Royce lists the treaty of Detroit, Jan. 14, 1837 (Stat. L. VII, 528) with the Saginaw tribe of the Chippewa nation, ceding the reserves numbered 227 to 241; his 1819 schedule marks each of those reserves 'Ceded to the U. S. by treaty of Jan. 14, 1837'. This record carries those areas and the Kappler page of the 1837 treaty, but the USFS layer gave it the 1819 date. The Saginaw treaty of Sept. 24, 1819 is kappler-193. Date corrected; the 1819 schedule pages stay as the record of where the reserves came from.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/764/mode/2up"
+  },
+  "name": "Treaty or agreement with the Chippewa, Saginaw tribe, 1837-01-14"
+ },
+ {
   "id": "kappler-499",
   "date": "1837-07-29",
   "kappler": "https://babel.hathitrust.org/cgi/pt?id=uc1.31210003349790;view=1up;seq=499",
@@ -4955,6 +4978,45 @@
    "WI"
   ],
   "name": "Treaty or agreement with the The several tribes of New York Indians, 1838-02-03"
+ },
+ {
+  "id": "kappler-527",
+  "date": "1838-11-06",
+  "kappler": "https://babel.hathitrust.org/cgi/pt?id=uc1.31210003349790;view=1up;seq=527",
+  "royce": [
+   "https://archive.org/stream/annualreportofbu218smit#page/774/mode/2up",
+   "https://archive.org/stream/annualreportofbu218smit#page/772/mode/2up"
+  ],
+  "cessions": [
+   "255",
+   "252",
+   "253",
+   "251",
+   "256",
+   "254",
+   "329",
+   "330"
+  ],
+  "presentDayTribes": [
+   "Miami Tribe of Oklahoma"
+  ],
+  "scheduleTribes": [
+   "Miami"
+  ],
+  "statute": [],
+  "executiveOrder": [],
+  "states": [
+   "IN",
+   "KS"
+  ],
+  "correction": {
+   "fields": [
+    "date"
+   ],
+   "why": "The USFS layer dates this entry 1826-10-23, but its Kappler link (vol. 2, p. 519) and its Royce pages and areas are the Miami treaty at the Forks of the Wabash, Nov. 6, 1838 (Stat. L. VII, 569). Royce lists that treaty with areas 251 to 256 and also 'See 329, 330' (Kansas) for the country west of the Mississippi it guaranteed, noting the tract is described in the treaty of Nov. 28, 1840. Because Royce places 329 and 330 under this treaty, they are kept; only the date changes.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/772/mode/2up"
+  },
+  "name": "Treaty or agreement with the Miami, 1838-11-06"
  },
  {
   "id": "kappler-537",
@@ -6282,27 +6344,51 @@
    "https://archive.org/stream/annualreportofbu218smit#page/792/mode/2up"
   ],
   "cessions": [
-   "323",
-   "324",
    "325",
-   "437",
    "436",
+   "437"
+  ],
+  "presentDayTribes": [
+   "Kickapoo Traditional Tribe of Texas",
+   "Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas",
+   "Kickapoo Tribe of Oklahoma"
+  ],
+  "scheduleTribes": [
+   "Kickapoo"
+  ],
+  "statute": [],
+  "executiveOrder": [],
+  "states": [
+   "KS"
+  ],
+  "correction": {
+   "fields": [
+    "cessions",
+    "scheduleTribes",
+    "presentDayTribes",
+    "states"
+   ],
+   "why": "Royce lists two treaties of May 18, 1854: the Sauk and Fox of the Missouri (Stat. L. X, 1074; area 324, reserve 'See 323, 427') and the Kickapoo (Stat. L. X, 1078; 'Cede part of tract assigned them by treaties of Oct. 24 and Nov. 26, 1832. Reserve 150,000 acres', area 325, 'See 436, 437'). This record's Kappler page is the Kickapoo treaty. Area 323 is the Iowa cession of May 17, 1854 (kappler-636). The Sauk and Fox treaty is split out below; the Iowa and Sauk and Fox are removed here.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/792/mode/2up"
+  },
+  "name": "Treaty or agreement with the Kickapoo, 1854-05-18"
+ },
+ {
+  "id": "cession-1854-05-18-sauk-and-fox-of-the-missouri",
+  "date": "1854-05-18",
+  "kappler": null,
+  "royce": [
+   "https://archive.org/stream/annualreportofbu218smit#page/792/mode/2up"
+  ],
+  "cessions": [
+   "324",
    "427"
   ],
   "presentDayTribes": [
-   "Iowa Tribe of Kansas and Nebraska",
-   "Iowa Tribe of Oklahoma",
-   "Sac & Fox Nation of Missouri in Kansas and Nebraska",
-   "Kickapoo Traditional Tribe of Texas",
-   "Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas",
-   "Kickapoo Tribe of Oklahoma",
-   "Sac & Fox Tribe of the Mississippi in Iowa"
+   "Sac & Fox Nation of Missouri in Kansas and Nebraska"
   ],
   "scheduleTribes": [
-   "Iowa",
-   "Sauk and Fox of the Missouri",
-   "Kickapoo",
-   "Sauk and Fox of the Missouri and the Iowa"
+   "Sauk and Fox of the Missouri"
   ],
   "statute": [],
   "executiveOrder": [],
@@ -6310,7 +6396,22 @@
    "KS",
    "NE"
   ],
-  "name": "Treaty or agreement with the Iowa, Sauk and Fox of the Missouri, Kickapoo, Sauk and Fox of the Missouri and the Iowa, 1854-05-18"
+  "note": "Kappler page not yet confirmed; the USFS link pointed at the Kickapoo treaty of the same day.",
+  "correction": {
+   "fields": [
+    "date",
+    "royce",
+    "cessions",
+    "scheduleTribes",
+    "presentDayTribes",
+    "states",
+    "note"
+   ],
+   "why": "Royce: Washington, May 18, 1854 (Stat. L. X, 1074), Sauk and Fox of the Missouri. 'Cede tract assigned them by treaty of Sept. 17, 1836. Reserve tract of 50 sections', area 324; the reserve, area 427, 'was selected partly from lands ceded by the Iowa, May 17, 1854, and partly from the public land. It was ceded to the U.S., Mar. 6, 1861.'",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/792/mode/2up",
+   "splitFrom": "kappler-642"
+  },
+  "name": "Cession of land of the Sauk and Fox of the Missouri, 1854-05-18"
  },
  {
   "id": "kappler-644",
@@ -9627,7 +9728,6 @@
    "621"
   ],
   "presentDayTribes": [
-   "Fort Belknap Indian Community of the Fort Belknap Reservation of Montana",
    "Three Affiliated Tribes of the Fort Berthold Reservation, North Dakota"
   ],
   "scheduleTribes": [
@@ -9644,6 +9744,13 @@
    "ND",
    "WY"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce lists the Executive order of Apr. 12, 1870 with the Arikara, Gros Ventre and Mandan: 'President sets apart a reservation at Fort Berthold, Dakota', in lieu of their Fort Laramie (1851) territory. The Gros Ventre here are the Hidatsa of Fort Berthold, not the Gros Ventre of Fort Belknap in Montana. Fort Belknap is removed, as on the 1880 order.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/852/mode/2up"
+  },
   "name": "Cession of land of the Arikara, Gros Ventre, Mandan, 1870-04-12"
  },
  {
@@ -13034,6 +13141,14 @@
   "states": [
    "NV"
   ],
+  "note": "Royce's schedule names the 'Northwestern Shoshoni' for this order, but his remarks say 'See treaty of Oct. 1, 1863, authorizing reserves to be set apart for the Western Shoshoni', and under that Ruby Valley treaty he lists the Carlin Farms reserve among those established under its authority. The researcher's finding reports that the Indian Claims Commission (1977) found the reserve was used by Western Shoshone; that opinion was not reopened here. The label is left as Royce gives it.",
+  "correction": {
+   "fields": [
+    "note"
+   ],
+   "why": "Note only; no field changed. Royce p. 890 to 891 (tribe column and remarks for May 10, 1877, area 605) and p. 829 (remarks under the Western Shoshoni treaty of Oct. 1, 1863).",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/890/mode/2up"
+  },
   "name": "Cession of land of the Shoshoni (northwestern bands), 1877-05-10"
  },
  {
@@ -13256,6 +13371,14 @@
   "states": [
    "NV"
   ],
+  "note": "Royce's schedule names the 'Northwestern Shoshoni' for the Carlin Farms reserve, but he places that reserve under the authority of the Ruby Valley treaty of Oct. 1, 1863 with the Western Shoshoni. The researcher's finding reports that the Indian Claims Commission (1977) found the reserve was used by Western Shoshone; that opinion was not reopened here. The label is left as Royce gives it.",
+  "correction": {
+   "fields": [
+    "note"
+   ],
+   "why": "Note only; no field changed. Royce p. 829 (remarks under the Western Shoshoni treaty of Oct. 1, 1863) and p. 891 (area 605, 'See treaty of Oct. 1, 1863, authorizing reserves to be set apart for the Western Shoshoni').",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/828/mode/2up"
+  },
   "name": "Cession of land of the Shoshoni (northwestern bands), 1879-01-16"
  },
  {
@@ -15921,27 +16044,29 @@
    "499"
   ],
   "presentDayTribes": [
-   "Absentee-Shawnee Tribe of Indians of Oklahoma",
-   "Miami Tribe of Oklahoma",
-   "Ottawa Tribe of Oklahoma",
    "Peoria Tribe of Indians of Oklahoma",
-   "Quapaw Tribe of Indians, Oklahoma",
-   "Seneca Nation of New York",
-   "Seneca-Cayuga Nation, Oklahoma",
-   "Seneca-Cayuga Tribe of Oklahoma",
-   "Shawnee Tribe, Oklahoma",
-   "Tonawanda Band of Seneca Indians of New York",
-   "Wyandotte Nation, Oklahoma"
+   "Miami Tribe of Oklahoma"
   ],
   "scheduleTribes": [
-   "Kaskaskia; Mixed Seneka; Ottawa of Blanehard's fork and Roche de Boeuf; Peoria; Piankishaw; Quapaw; Seneka; Shawnee; Wea; Wyandot"
+   "Wea, Peoria, et al."
   ],
   "statute": [],
   "executiveOrder": [],
   "states": [
    "OK"
   ],
-  "name": "Cession of land of the Kaskaskia, Mixed Seneka, Ottawa of Blanehard's fork and Roche de Boeuf, Peoria, 1889-03-02"
+  "name": "Act of Congress for allotment to the United Peorias and Miamies, 1889-03-02",
+  "note": "Not a cession: an allotment act. Royce's map column reads 'See 499', which is the Seneka reserve; the Peoria reserve Royce describes under the 1867 treaty is 500 (with 504, ceded by the Quapaw for the Peoria). The area drawn is kept as Royce gives it but may be the wrong reserve.",
+  "correction": {
+   "fields": [
+    "name",
+    "scheduleTribes",
+    "presentDayTribes",
+    "note"
+   ],
+   "why": "Royce lists the act of Mar. 2, 1889 (Stat. L. XXV, 1013) under 'Wea, Peoria, et al.': 'Provides for allotment of lands in severalty'. The act (ch. 422) is 'An act to provide for allotment of land in severalty to United Peorias and Miamies in Indian Territory' and applies to 'the Confederated Wea, Peoria, Kaskaskia, and Piankeshaw tribes of Indians, and the Western Miami tribe of Indians'. The Seneca, Ottawa, Quapaw, Shawnee and Wyandot are not parties and are removed.",
+   "source": "https://www.govinfo.gov/link/statute/25/1013"
+  }
  },
  {
   "id": "cession-1889-03-02-malheur-indian-reservation-shoshone-snak",

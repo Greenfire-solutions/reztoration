@@ -83,6 +83,11 @@
     "Whether the annuities under the treaty and its additional article were paid in full was not researched; Indian Claims Commission Cherokee dockets are the lead.",
     "Audit 2026-11-08: the National Park Service page was recorded as a government admission; a park history page is a historian source, not an admission by the government, so its kind is now historian. The status stays broken on Worcester v. Georgia alone. The first breach now uses the Court's own words ('repugnant to the constitution, laws, and treaties')."
   ],
+  "plain": {
+    "promised": "The United States solemnly guaranteed the Cherokee nation all their lands not ceded by this treaty, and promised a yearly payment for the ceded land, raised to $1,500 in 1792.",
+    "happened": "The Supreme Court held in Worcester v. Georgia (1832) that Georgia's law extending its jurisdiction over Cherokee territory was repugnant to this treaty and the Treaty of Hopewell. A National Park Service history says the federal government did nothing to enforce the ruling.",
+    "today": "No payment for the breach of the land guarantee has been located. The guaranteed lands were ceded by later treaties, finally the Treaty of New Echota (1835), and the Cherokee were forcibly removed."
+  },
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"
 }

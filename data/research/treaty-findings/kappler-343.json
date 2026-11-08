@@ -1,0 +1,95 @@
+{
+  "id": "kappler-343",
+  "name": "Treaty with the Ottawa, 1831",
+  "aka": [
+    "Treaty with the Ottawa of Blanchard's Fork, Oquanoxa's Village, Roche de Boeuf and Wolf Rapids, 1831"
+  ],
+  "signed": "1831-08-30",
+  "proclaimed": "1832-04-06",
+  "citation": "7 Stat. 359",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-ottawa-1831-0335",
+  "nations": [
+    "Ottawa (Odawa) bands of Blanchard's Fork, Oquanoxa's Village, Roche de Boeuf and Wolf Rapids in Ohio (Ottawa Tribe of Oklahoma)"
+  ],
+  "promises": [
+    "In return for the Blanchard's Fork and Little Auglaize reserves, the United States would remove that band west of the Mississippi and grant it 34,000 acres by patent in fee simple, with removal costs and a year's provisions (Articles I, III, IV).",
+    "The Roche de Boeuf and Wolf Rapids band would receive 40,000 acres west of the Mississippi for its ceded reserves (Articles II, XI).",
+    "The ceded Ohio tracts would be sold to the highest bidder in the manner of the public lands; after 70 cents an acre and other deductions the balance would pay the bands' debts and the overplus go to them (Articles VII, XII).",
+    "The western lands would never be within any State or Territory or subject to its laws, and the President would protect the bands there against all disturbance (Article IX)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1972-03-15",
+      "what": "The Indian Claims Commission found the four Ohio tracts ceded under this treaty (Royce 167 to 170, 50,613.46 acres) were worth $190,000 on April 6, 1832, that the whole treaty consideration was $109,414.24, and that this was an unconscionable consideration, leaving the United States liable for $80,585.76.",
+      "whoFoundIt": "Indian Claims Commission, Ottawa Tribe v. United States, Docket 305, opinion of March 15, 1972, 27 Ind. Cl. Comm. 98",
+      "source": {
+        "title": "Ottawa Tribe v. United States, Docket 305, Opinion of the Commission (March 15, 1972)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1357",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "payment of $109,414.24 for lands worth $190,000, or roughly 57% of their then fair market value, was payment of an unconscionable consideration"
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1832",
+      "what": "The Ottawa Tribe of Oklahoma says all the Maumee River villages were ultimately expelled from their homelands under the removal treaties, and that within a few years about half of the roughly 500 Ottawas who left Ohio for Kansas died of illness, malnutrition and exposure.",
+      "whoFoundIt": "Ottawa Tribe of Oklahoma, Adawe Cultural Center, Removal From Ohio",
+      "source": {
+        "title": "Removal From Ohio (1832, 1837, 1839)",
+        "url": "https://www.heritage.ottawatribe.gov/removal-from-ohio",
+        "publisher": "Ottawa Tribe of Oklahoma, Adawe Cultural Center"
+      }
+    }
+  ],
+  "landTaken": "Four reserves in northwestern Ohio, Royce Areas 167, 168, 169 and 170, agreed by the parties before the Commission to contain 50,613.46 acres (Docket 305, 1972).",
+  "compensation": "The Commission entered a final award of $80,585.76 in Docket 305 on April 25, 1973; the parties agreed that a further $17,950 paid under the treaty of February 18, 1833 counted as additional compensation and the government withdrew its other offsets.",
+  "today": "The Commission found the United States did not breach the sale provisions (Article VII): it sold the land as the 1820 public land law required and invested the surplus, so it denied treaty-based interest. The Ottawa Tribe of Oklahoma says the Kansas reservation was allotted under the treaty of June 24, 1862 and that the Tribe later bought a new reservation and was removed to Indian Territory under a treaty of 1867 (Adawe Cultural Center, Treaty with the Ottawa of Blanchard's Fork and Roche de Boeuf).",
+  "plain": {
+    "promised": "Land west of the Mississippi for the Ohio bands, 34,000 and 40,000 acres, paid removal and a year's provisions, the leftover money from selling their Ohio land, and a promise the new land would never be inside any State or Territory.",
+    "happened": "The Indian Claims Commission found in 1972 that the treaty gave $109,414.24 in all for Ohio land worth $190,000, an unconscionable consideration. The Ottawa Tribe of Oklahoma says about half of those who left Ohio for Kansas died within a few years.",
+    "today": "The Commission entered a final award of $80,585.76 on April 25, 1973. Whether it was paid has not been traced."
+  },
+  "nationVoice": [
+    {
+      "nation": "Ottawa Tribe of Oklahoma",
+      "summary": "The Tribe recounts the 1831 treaty as the start of three removal journeys from the Maumee River in 1832, 1837 and 1839, after which about half its people died within a few years in Kansas.",
+      "url": "https://www.heritage.ottawatribe.gov/removal-from-ohio"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Ottawa, 1831 (Kappler, vol. 2, p. 335)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-ottawa-1831-0335",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Ottawa Tribe v. United States, Docket 305, Findings of Fact (March 15, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1767",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Ottawa Tribe v. United States, Docket 305, Opinion of the Commission (March 15, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1357",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Ottawa Tribe v. United States, Docket 305, Final Award (April 25, 1973)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1070",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Removal From Ohio (1832, 1837, 1839)",
+      "url": "https://www.heritage.ottawatribe.gov/removal-from-ohio",
+      "publisher": "Ottawa Tribe of Oklahoma, Adawe Cultural Center"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json lists Royce cessions 167, 168, 169, 170 and 435 and the states OH and KS. The Commission confirms 167 to 170 as the Ohio parcels; 435 was not checked and may be a later Kansas cession rather than land ceded by this treaty.",
+    "The Commission adopted 75,000 acres as the Kansas land actually received, against 74,000 acres stated in the treaty's grants; the Ottawa Tribe's page gives 34,000 and 40,000 acres. Kept as stated by each source.",
+    "Whether the Article IX guarantee (never within a State or Territory) was breached by the Kansas-Nebraska Act and the 1862 treaty was not separately researched; Docket 303 concerns the 1862 treaty and was not recorded here."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

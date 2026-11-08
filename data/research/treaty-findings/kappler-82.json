@@ -79,6 +79,11 @@
     "The Sac and Fox Nation and Meskwaki Nation's own published histories of this treaty and Black Hawk were not found online; add them when located.",
     "Audit 2026-11-07: all figures confirmed against the Docket 83 final award (OSU id 2654: $983,235 + $1,006,350 = $1,989,585; $20,000; $1,969,585; no offsets) and opinion (OSU id 1136). The opinion's text reads '$1,981,885' once, at the unconscionability holding, against $1,989,585 everywhere else; the final award's figure is used. The opinion itself dates the treaty November 3, 1804; only the final award says November 4."
   ],
+  "plain": {
+    "promised": "The United States promised $1,000 a year in goods for the ceded land, never to disturb Sauk and Meskwaki possession of their remaining lands, and that they could keep living and hunting on ceded land while it stayed US property.",
+    "happened": "The Indian Claims Commission found in 1973 that the ceded lands were worth $1,989,585, that the United States paid $20,000, and that this payment was unconscionable.",
+    "today": "The Commission awarded $1,969,585 to the successor Sac and Fox nations in Oklahoma, Kansas and Nebraska, and Iowa. Whether and how the award was distributed has not been checked."
+  },
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"
 }

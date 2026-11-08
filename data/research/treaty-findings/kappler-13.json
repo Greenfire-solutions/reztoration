@@ -12,14 +12,20 @@
   ],
   "promises": [
     "Article III: a western boundary for the Six Nations from Oyonwayea (Johnston’s Landing-Place) on Lake Ontario, south to Buffalo Creek, to the north boundary of Pennsylvania, west to its end and south along Pennsylvania’s west boundary to the Ohio; the nations yielded claims west of it and would be secured in peaceful possession of the lands they inhabited east and north of it, except six miles square around Fort Oswego.",
-    "Article 2: the Oneida and Tuscarora would be secured in possession of the lands on which they were settled.",
-    "Article 4: goods would be delivered to the Six Nations for their use and comfort.",
+    "Article II: the Oneida and Tuscarora would be secured in possession of the lands on which they were settled.",
+    "Article IV: goods would be delivered to the Six Nations for their use and comfort.",
     "Preamble and Article I: the United States gave peace to the Seneca, Mohawk, Onondaga and Cayuga and received them into its protection, on condition that six hostages be held until all prisoners were returned."
   ],
   "status": "no-breach-found",
   "breaches": [],
   "today": "In Docket 344 the Indian Claims Commission dismissed the Six Nations' claim for two areas of northwestern Pennsylvania: it held the United States was not guilty of any lack of fair and honorable dealings over the land (Area I), which it found was never public domain of the United States but within Pennsylvania's chartered limits, and that the Six Nations did not hold Indian title to the Erie Triangle (Area I-A). That ruling went against the nations; it is recorded here, not counted as a breach.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Onondaga Nation (Haudenosaunee)",
+      "summary": "The Nation says the Treaty of Fort Stanwix affirmed that the Haudenosaunee and the United States are separate sovereign nations and set federal boundary lines to stop settler encroachment; by its oral history the land given up was to fund freedom from taxes and provide for Haudenosaunee education and health, and it holds the treaty binding today.",
+      "url": "https://www.onondaganation.org/government/treaties/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Six Nations, 1784 (Kappler, vol. 2, p. 5)",
@@ -40,13 +46,19 @@
       "title": "Six Nations v. United States, Docket 344, Findings of Fact (March 1, 1963)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/858",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Treaties",
+      "url": "https://www.onondaganation.org/government/treaties/",
+      "publisher": "Onondaga Nation"
     }
   ],
   "openQuestions": [
     "This entry is Royce cession 1, the Pennsylvania part of the 1784 cession. The New York part is a separate entry (kappler-14), researched earlier; nothing here is taken from it.",
     "The Commission's Area I is described as northwestern Pennsylvania between lines the parties largely agreed; whether it matches Royce cession 1 exactly was not checked against the map.",
     "Pennsylvania commissioners attended the 1784 council and bought land from the Six Nations under the state’s own deed (described in the Commission’s 1963 opinion); whether that state purchase has been challenged in any court was not researched.",
-    "Article numbering of the boundary promise follows the treaty text at OSU; the treaty was made under the Articles of Confederation and has no Senate ratification date."
+    "Article numbering of the boundary promise follows the treaty text at OSU; the treaty was made under the Articles of Confederation and has no Senate ratification date.",
+    "Audit 2026-11-08: article numbers in 'promises' made consistent with the OSU text, which numbers the articles I to IV."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

@@ -89,6 +89,11 @@
     "treaties.json lists no present-day tribe for this id; the Muscogee (Creek) Nation, the Poarch Band of Creek Indians and the creek tribal towns of Oklahoma are the likely successors.",
     "The breach of the Article 14 guarantee is recorded through McGirt's general statement; the specific Acts (allotment agreement of 1901, 31 Stat. 861; Oklahoma statehood) were not opened."
   ],
+  "plain": {
+    "promised": "The United States promised Creek families who wished to stay in Alabama land of their own with full title after five years, to remove intruders, and a guaranteed Creek country in the west that no state could govern.",
+    "happened": "The Encyclopedia of Alabama records that settlers squatted on the land and bought Creek allotments below market prices, leading to the Second Creek War of 1836. The Supreme Court said in 2020 that Congress broke more than a few promises to the Creek.",
+    "today": "No award for these breaches has been located. The Supreme Court held in McGirt v. Oklahoma (2020) that the Creek Reservation in Oklahoma, guaranteed in part by this treaty, was never disestablished."
+  },
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"
 }

@@ -1,0 +1,108 @@
+{
+  "id": "kappler-433",
+  "name": "Treaty with the Miami, 1834 (Treaty of the Forks of the Wabash)",
+  "aka": ["Miami treaty of October 23, 1834"],
+  "signed": "1834-10-23",
+  "proclaimed": "1837-12-22",
+  "citation": "7 Stat. 458",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-miami-1834-0425",
+  "nations": ["Myaamia (Miami)"],
+  "promises": [
+    "Article 2: $208,000 for the cession: $58,000 within six months of ratification, $50,000 toward the tribe's debts, and $100,000 in annual instalments of $10,000.",
+    "Article 5: a skilled miller to run a mill for the Miami, in place of the gunsmith promised by the 1818 treaty of St. Mary's.",
+    "Article 6: the buildings and improvements on the ceded land to be valued and an equal value of building, clearing and fencing done where the chiefs chose, with the Miami keeping peaceable possession of their houses until then.",
+    "Article 7: $1,500 for horses stolen from the Miami by whites.",
+    "Articles 3, 4 and 8: patents in fee to the individuals and chiefs named, including ten sections at the Forks of the Wabash to Chief John B. Richardville."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1964-12-18",
+      "what": "The Indian Claims Commission found that the 239,588 acres ceded by this treaty had a fair market value of $598,960 when the treaty took effect on November 10, 1837, that the United States paid $216,492.75 for them, and that the disparity made the consideration unconscionable; it held the Miami entitled to $382,467.25 less offsets.",
+      "whoFoundIt": "Indian Claims Commission, Miami Tribe of Oklahoma et al. v. United States, Docket 256 consolidated with Dockets 124-D, 124-E and 124-F, Findings of Fact 34 and 35 (December 18, 1964), 14 Ind. Cl. Comm. 375",
+      "source": {
+        "title": "Miami Tribe of Oklahoma et al. v. United States, Docket 256 et al., Findings of Fact (1964)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/877",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1968-12-03",
+      "what": "The Commission's partial judgment of April 1, 1965 ($773,131.25 for this treaty and the 1838 treaty together) was vacated when the Miami Tribe of Oklahoma, the Miami Indians of Indiana and the United States settled the claims under the 1834, 1838 and 1840 treaties for a net $1,373,000, which the Commission approved as a compromise.",
+      "whoFoundIt": "Indian Claims Commission, Docket 256 consolidated with Dockets 124-D, 124-E and 124-F, Final Judgment on compromise settlement (December 1968), 20 Ind. Cl. Comm. 113",
+      "source": {
+        "title": "Miami Tribe of Oklahoma et al. v. United States, Docket 256 et al., Final Judgment (1968)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1558",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "Reserves in Indiana made to the Miami by the treaties of St. Mary's (1818) and the Wabash (1826): the 36 sections at Flat Belly's village, the five-mile reserve on the Wabash, the ten sections at Raccoon village and at Mud creek, the reserve on the Salamonie, part of the ten-mile reserve opposite the Aboite, and part of the big reserve (Royce areas 192 to 198). The Commission put the cession at 239,588 acres.",
+  "compensation": "The Commission counted $208,000 under Article 2, $6,992.75 under Article 6 and $1,500 under Article 7 as consideration. A partial judgment of April 1, 1965 for this treaty and the 1838 treaty was vacated by the 1968 settlement of $1,373,000 net for the 1834, 1838 and 1840 treaties, accepted by both Miami plaintiffs.",
+  "today": "The Commission found no fraud, duress or lack of fair and honorable dealings in the negotiation itself, and rejected the claim that the grants to chiefs were bribes; its finding against the United States rests on the price. The settlement closed the claim in 1968.",
+  "plain": {
+    "promised": "$208,000 for Miami reserves in Indiana, a miller to run a mill, an equal value of new building and fencing for improvements left behind, $1,500 for horses stolen by whites, and land patents to named people.",
+    "happened": "The Indian Claims Commission found in 1964 that the 239,588 acres ceded were worth $598,960, that the United States paid $216,492.75, and that the price was unconscionable. It found no fraud in the negotiation itself.",
+    "today": "A 1968 settlement of $1,373,000 net, covering this and the 1838 and 1840 treaties, closed the claim. How much of it was for this treaty is not stated."
+  },
+  "nationVoice": [
+    {
+      "nation": "Miami Tribe of Oklahoma (Myaamia Center)",
+      "summary": "Diane Hunter, the Miami Tribe of Oklahoma's Tribal Historic Preservation Officer, writes that Myaamia leaders signed the 1834 treaty only after years of refusing to sell more land, and that the Miami National Council ratified it on November 10, 1837.",
+      "url": "https://aacimotaatiiyankwi.org/2021/04/02/treaty-of-1838/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Miami, 1834 (Kappler, vol. 2, p. 425)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-miami-1834-0425",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Miami Tribe of Oklahoma et al. v. United States, Docket 256 et al., Opinion of the Commission (1964)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/690",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Miami Tribe of Oklahoma et al. v. United States, Docket 256 et al., Findings of Fact (1964)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/877",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Miami Tribe of Oklahoma et al. v. United States, Final Judgment with respect to Dockets 256, 124-D and 124-E (April 1, 1965)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/826",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Miami Tribe of Oklahoma et al. v. United States, Docket 256 et al., Opinion of the Commission on compromise settlement (1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/965",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Miami Tribe of Oklahoma et al. v. United States, Docket 256 et al., Final Judgment (1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1558",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Diane Hunter, 'Treaty of 1838', Aacimotaatiiyankwi (April 2, 2021)",
+      "url": "https://aacimotaatiiyankwi.org/2021/04/02/treaty-of-1838/",
+      "publisher": "Myaamia Center"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 752",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/752/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json error: this entry is dated 1826-10-23 and named for that date, but its Kappler link (vol. 2, p. 425), its Royce page (752) and its Royce areas (192 to 199) are all the treaty of October 23, 1834 at the Forks of the Wabash, which is what this file records. The Miami treaty of October 23, 1826 (7 Stat. 300) appears to have no queue entry of its own.",
+    "The Commission treated Royce area 199 (the ten sections at the Forks of the Wabash patented to Richardville) as excepted from the cessions; treaties.json lists it under this treaty.",
+    "The Senate amended the treaty; the Miami council assented on November 10, 1837 to a Senate resolution the text dates October 12, 1837. The content of the amendments was not checked against the original.",
+    "The 1968 settlement of $1,373,000 covers three treaties; how much of it was for this treaty is not stated.",
+    "Whether the Article 5 miller and the Article 6 improvements were provided was not researched beyond the Commission's figure of $6,992.75 spent under Article 6."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

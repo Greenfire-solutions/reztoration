@@ -1,0 +1,86 @@
+{
+  "id": "cession-1874-11-24-apache-southern",
+  "name": "Executive order of November 24, 1874 restoring the Tularosa Valley reservation to the public domain",
+  "aka": [
+    "Executive Order returning Tulerosa Indian land to the public domain"
+  ],
+  "signed": "1874-11-24",
+  "citation": "Executive order of November 24, 1874 (Royce area 531)",
+  "textUrl": "https://www.presidency.ucsb.edu/documents/executive-order-returning-tulerosa-indian-land-public-domain",
+  "nations": [
+    "Fort Sill Apache Tribe (Chihenne or Warm Springs Apache, and Chiricahua Apache)"
+  ],
+  "promises": [
+    "This was an executive order, not a treaty. President Grant revoked and annulled all orders that had set apart the Tulerosa (Tularosa) Valley in New Mexico, ten miles on each side of the river for thirty miles from its headwaters, as an Indian reservation, and restored the land to the public domain.",
+    "No payment or replacement land is stated in the order; it made no cession by the Apache."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1968-06-28",
+      "what": "The Indian Claims Commission found that no treaty or agreement of cession ever became operative with the Chiricahua Apache, including the Warm Springs band, and that their lands were taken without their consent or compensation. It found that the reservations set up for them between 1871 and 1875 were later abolished as the Government moved them to San Carlos, and dated the taking of their aboriginal title to September 4, 1886.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 30-A and 48-A, findings of fact (Findings 6(h), 11 and 14) and interlocutory order of June 28, 1968, 19 Ind. Cl. Comm. 212",
+      "source": {
+        "title": "Fort Sill Apache Tribe v. United States, Dockets 30-A and 48-A, Findings of Fact (1968), 19 Ind. Cl. Comm. 212",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2269",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "Royce area 531, the Tularosa Valley reservation, returned to the public domain. The Commission's boundary for the Chiricahua lands taken in 1886 runs along the Tularosa River (Finding 13(a)). No acreage was found in a source opened.",
+  "compensation": "None at the time. In 1971 the Commission awarded $15,967,300 in Dockets 30-A and 48-A and $521,796 in Dockets 30 and 48 for the taking of Chiricahua lands, with only the offsets stipulated.",
+  "today": "The Fort Sill Apache Tribe holds a reservation at Akela, New Mexico, within its historic territory; its history page says the reservation proclamation was issued in November 2011.",
+  "plain": {
+    "promised": "Not a treaty: a presidential order revoking the Tularosa Valley reservation in New Mexico and returning it to the public domain. It stated no payment or replacement land.",
+    "happened": "The Indian Claims Commission found in 1968 that Chiricahua lands, including the Warm Springs band's, were taken without consent or compensation, and that their reservations of 1871 to 1875 were later abolished. Whether the Apache objected to this revocation is not recorded.",
+    "today": "In 1971 the Commission awarded $15,967,300 and $521,796 for the taking of Chiricahua lands; whether these were paid has not been traced. The Fort Sill Apache Tribe says its reservation at Akela, New Mexico was proclaimed in November 2011."
+  },
+  "nationVoice": [
+    {
+      "nation": "Fort Sill Apache Tribe",
+      "summary": "The Tribe's history says that a third of its people held out for return to their homeland or allotment at Fort Sill after their imprisonment, and that a settlement eventually recognized its rights in its home territory in New Mexico.",
+      "url": "https://www.fortsillapache-nsn.gov/history"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ulysses S. Grant, Executive Order: Returning Tulerosa Indian Land to Public Domain, November 24, 1874",
+      "url": "https://www.presidency.ucsb.edu/documents/executive-order-returning-tulerosa-indian-land-public-domain",
+      "publisher": "The American Presidency Project, UC Santa Barbara"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule pp. 878-879, area 531",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/878/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Fort Sill Apache Tribe v. United States, Dockets 30-A and 48-A, Findings of Fact (1968), 19 Ind. Cl. Comm. 212",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2269",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Fort Sill Apache Tribe v. United States, Dockets 30, 48, 30-A and 48-A, Final Judgment (1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1486",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Fort Sill Apache Tribe v. United States, Dockets 30, 48, 30-A and 48-A, Additional Findings of Fact on offsets (1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1562",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History",
+      "url": "https://www.fortsillapache-nsn.gov/history",
+      "publisher": "Fort Sill Apache Tribe"
+    }
+  ],
+  "openQuestions": [
+    "The revocation itself is not recorded as a breach: the record opened does not show whether the Southern Apache objected to leaving Tularosa, and the Commission's findings do not mention it. Royce's remark for area 531 reads 'Nov. 21, 1874' in the OCR while the order is dated November 24, 1874.",
+    "Where the Southern Apache were sent when Tularosa closed (the Ojo Caliente reservation, which the Commission says was abolished on August 25, 1877) was not researched for this file.",
+    "Whether the whole reservation lay inside the Commission's Chiricahua tract was not plotted.",
+    "treaties.json lists all seven federally recognized Apache tribes for this entry; the Southern Apache are represented today mainly by the Fort Sill Apache Tribe. Treaties.json was not edited."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

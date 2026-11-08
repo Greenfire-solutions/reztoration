@@ -1,0 +1,16 @@
+{
+  "id": "kappler-476",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty text, signing and proclamation dates and Statutes at Large citation checked against the OSU Kappler edition (7 Stat. 511, proclaimed February 15, 1837); 'making four hundred sections' exact",
+    "Order of February 28, 1966 (item 2311): 4,798-acre shortage stipulated at the September 9, 1965 hearing, interlocutory judgment of entitlement",
+    "Opinion and interlocutory order of February 17, 1969 (items 1994, 1105) and final award of May 1969 (item 2424): $3.00 an acre, $14,394.00, $207,752.15, $1,159,949.75, $1,367,701.90",
+    "Compromise findings of March 22, 1965 (item 825): Cession 151 Missouri part passed September 17, 1836; $1,372,267.50; $150,000 held for Docket 332-A"
+  ],
+  "changes": [
+    "Shortage 'what': stipulation dated to the 1965 hearing, not 1966",
+    "Compromise citation corrected from Dockets 138 and 139 to 138 and 339, as the document's caption reads"
+  ],
+  "unverifiable": []
+}

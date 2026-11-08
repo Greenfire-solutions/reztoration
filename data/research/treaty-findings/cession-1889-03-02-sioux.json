@@ -45,12 +45,55 @@
         "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/446",
         "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
       }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1889-03-02",
+      "what": "The Lower Brule Sioux Tribe says the federal government, having found the Great Sioux Reservation as agreed by the Lakota intolerable, broke it into smaller reservations by the Act of March 2, 1889, split the Sicangu between Rosebud and Lower Brule, and moved the Lower Brule reservation north of Fort Lookout.",
+      "whoFoundIt": "Lower Brule Sioux Tribe, Lower Brule Territory history page on the Tribe's website",
+      "source": {
+        "title": "Lower Brule Sioux Tribe Traditional Territory",
+        "url": "https://www.lowerbrulesiouxtribe.com/lower-brule-territory",
+        "publisher": "Lower Brule Sioux Tribe"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1889-03-02",
+      "what": "The Standing Rock Sioux Tribe says Congress further reduced the Great Sioux Reservation by the Act of March 2, 1889, opening the reservation to settlement by non-Indians and creating the checkerboarded land ownership that still drives jurisdiction disputes, while the Tribe holds its 1851 and 1868 treaty rights to be fully in force.",
+      "whoFoundIt": "Standing Rock Sioux Tribe, History page on the Tribe's website (Wayback Machine copy of June 15, 2021)",
+      "source": {
+        "title": "History (Wayback Machine copy, June 15, 2021)",
+        "url": "http://web.archive.org/web/20210615102625/https://www.standingrock.org/History/",
+        "publisher": "Standing Rock Sioux Tribe"
+      }
     }
   ],
   "landTaken": "25,968.24 acres of the Lower Brule reservation were wrongly excluded by the 1890 survey (Docket 78, 1956).",
   "compensation": "For the Lower Brule survey strip: entitled to $18,818.11 plus interest ($71,747.63 in all), wholly offset by land purchases, so nothing was paid (Docket 78 Final Order, 1961).",
   "today": "The Lower Brule finding covers only the survey strip. The Black Hills taking of 1877 that preceded this Act is recorded under kappler-1006 and cession-1876-09-26-arapaho-northern-cheyenne-sioux.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Lower Brule Sioux Tribe (Kul Wicasa Oyate)",
+      "summary": "The Tribe says the United States, finding the Great Sioux Reservation the Lakota had agreed to intolerable, broke it up by the 1889 Act, splitting the Sicangu in two and moving the Lower Brule reservation north, and then took more of it in 1899 and 1906.",
+      "url": "https://www.lowerbrulesiouxtribe.com/lower-brule-territory"
+    },
+    {
+      "nation": "Standing Rock Sioux Tribe",
+      "summary": "The Tribe says Congress greatly reduced the Great Sioux Reservation by the Act of March 2, 1889, dividing it into separate reservations and opening its land to non-Indian settlement, which left Standing Rock checkerboarded, and it holds that its 1851 and 1868 treaty rights remain as binding as the day they were made.",
+      "url": "http://web.archive.org/web/20210615102625/https://www.standingrock.org/History/"
+    },
+    {
+      "nation": "Oglala Sioux Tribe",
+      "summary": "The Tribe says the Great Sioux Reservation created by the 1868 Fort Laramie Treaty was later reduced to five reservations, from which Pine Ridge was established in 1889, and that the loss of land including the Black Hills remains a point of contention.",
+      "url": "https://oglala.gov/"
+    },
+    {
+      "nation": "Cheyenne River Sioux Tribe",
+      "summary": "The Cheyenne River Sioux history the Tribe publishes says the Sioux Agreement Act of 1889 set the reservation's boundary lines, and that as reservation land was ceded the agency town had to move because it now lay outside the new boundaries.",
+      "url": "https://www.cheyenneriversioux.com/_files/ugd/4f97ff_1c3e2b297910478f9480d4cf3e4cfe58.pdf"
+    }
+  ],
   "sources": [
     {
       "title": "Sioux Tribe of Indians of the Lower Brule Reservation v. United States, Docket 78, Opinion of the Commission (1956)",
@@ -71,10 +114,30 @@
       "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
       "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
       "publisher": "Internet Archive"
+    },
+    {
+      "title": "Lower Brule Sioux Tribe Traditional Territory",
+      "url": "https://www.lowerbrulesiouxtribe.com/lower-brule-territory",
+      "publisher": "Lower Brule Sioux Tribe"
+    },
+    {
+      "title": "History (Wayback Machine copy, June 15, 2021)",
+      "url": "http://web.archive.org/web/20210615102625/https://www.standingrock.org/History/",
+      "publisher": "Standing Rock Sioux Tribe"
+    },
+    {
+      "title": "The Pine Ridge Indian Reservation",
+      "url": "https://oglala.gov/",
+      "publisher": "Oglala Sioux Tribe"
+    },
+    {
+      "title": "Cheyenne River Sioux History (adapted from Donovin Sprague, Cheyenne River Sioux, 2003)",
+      "url": "https://www.cheyenneriversioux.com/_files/ugd/4f97ff_1c3e2b297910478f9480d4cf3e4cfe58.pdf",
+      "publisher": "Cheyenne River Sioux Tribe"
     }
   ],
   "openQuestions": [
-    "The Commission's 1956 opinion valued the strip at seventy-five cents an acre and gives a sum the scan renders as '519,476.18' (probably $19,476.18); the 1961 final order states $18,818.11. The difference was not traced; only the final order's figure is used.",
+    "Audit 2026-11-08: resolved. The Commission's 1961 opinion (9 Ind. Cl. Comm. 535, item 457) states the 1956 award as $19,476.18 and deducts $658.07 already credited to the Lower Brule by the Court of Claims, leaving $18,818.11, the figure in the final order.",
     "The Court of Claims decided seven Sioux claims under the 1889 Act in Sioux Tribe of Indians v. United States, 105 C. Cls. 725 (1946); the opinion did not load (Leagle paywall, CourtListener bot check) and its holdings are not recorded.",
     "The total acreage ceded by the Act is stated in the 1956 opinion, but the scan of that figure is unreadable, so it is left out.",
     "The Act's text was read only through the Commission's quotations; the Statutes at Large page (25 Stat. 888) was not opened.",
@@ -82,5 +145,10 @@
     "Ration cuts after 1889 and the reservation diminishment cases of the 1900s are not recorded here."
   ],
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "plain": {
+    "promised": "Separate reservations for groups of the Sioux Nation out of the Great Sioux Reservation, with the rest sold to settlers for the benefit of the Sioux Nation. The Lower Brule line was to run along the forty-fourth parallel.",
+    "happened": "The Indian Claims Commission found in 1956 that an 1890 survey wrongly left 25,968.24 acres outside the Lower Brule reservation, and the United States disposed of them. Lower Brule and Standing Rock say the Act broke up the Great Sioux Reservation.",
+    "today": "The Lower Brule were owed $71,747.63 with interest, but the whole sum was offset against land the United States had bought for the tribe, so nothing was paid."
+  }
 }

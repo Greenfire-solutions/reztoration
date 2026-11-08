@@ -1,0 +1,73 @@
+{
+  "id": "kappler-80",
+  "name": "Treaty with the Piankeshaw, 1804 (Treaty of Vincennes)",
+  "aka": [
+    "Treaty of August 27, 1804 with the Piankeshaw"
+  ],
+  "signed": "1804-08-27",
+  "ratified": "1805-01-21",
+  "proclaimed": "1805-02-06",
+  "citation": "7 Stat. 83",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-piankeshaw-1804-0072",
+  "nations": [
+    "Piankeshaw (today represented by the Peoria Tribe of Indians of Oklahoma)"
+  ],
+  "promises": [
+    "The Piankeshaw ceded the land between the Ohio and Wabash rivers below Clark's grant and the Vincennes tract (Article 1).",
+    "The Piankeshaw acknowledged the Kaskaskia's right to sell the country the Kaskaskia had lately ceded (Article 2).",
+    "The United States would pay an additional annuity of $200 for ten years and delivered goods worth $700, which together were to be full compensation (Article 3)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1970-12-11",
+      "what": "The Indian Claims Commission, having held that the Piankeshaw and the Delaware each had recognized title to an undivided half of Royce Area 49 when they ceded it in August 1804, awarded each of them one-half of the land's fair market value, $1,505,250, as additional compensation, with the $2,700 Piankeshaw treaty consideration later credited against it.",
+      "whoFoundIt": "Indian Claims Commission, Peoria Tribe et al. v. United States, Docket 289, interlocutory order of December 11, 1970 (24 Ind. Cl. Comm. 179, 195), as recited in the Final Award of February 24, 1971; title order of March 27, 1968",
+      "source": {
+        "title": "Peoria Tribe et al. v. United States, Docket 289, Final Award (February 24, 1971)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1954",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "being one-half the fair market value of certain lands (Royce Area 49)"
+    }
+  ],
+  "landTaken": "Royce Area 49, the tract between the Ohio and Wabash rivers in southernmost Indiana, ceded jointly by this treaty and the Delaware treaty of August 18, 1804 (Docket 289, 1968).",
+  "compensation": "Treaty consideration credited at $2,700, with $1,255.65 of gratuitous offsets; final award entered February 24, 1971 on the parties' stipulation on offsets (Docket 289). The Piankeshaw figure in the final award could not be read cleanly from the scanned text.",
+  "today": "The Commission recorded that Governor Harrison rejected the Miami and Potawatomi claims to Area 49 and treated the Delaware and Piankeshaw as its owners (Docket 289 findings, 1968).",
+  "plain": {
+    "promised": "An extra $200 a year for ten years and $700 in goods, as full payment for Piankeshaw land between the Ohio and Wabash rivers.",
+    "happened": "In 1970 the Indian Claims Commission awarded the Piankeshaw one-half of the land's fair market value, $1,505,250, as additional compensation, less the $2,700 treaty payment. The award does not use the word unconscionable.",
+    "today": "A final award was entered on February 24, 1971, but the Piankeshaw figure could not be read cleanly from the scanned text. Whether it was paid has not been traced."
+  },
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Piankeshaw, 1804 (Kappler, vol. 2, p. 72)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-piankeshaw-1804-0072",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Peoria Tribe et al. v. United States, Docket 289, Findings of Fact (March 27, 1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2627",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Peoria Tribe et al. v. United States, Docket 289, Interlocutory Order (March 27, 1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/936",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Peoria Tribe et al. v. United States, Docket 289, Final Award (February 24, 1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1954",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json names this entry for the 'Delaware, Miami, Piankishaw, Kaskaskia' with Royce cessions 48 and 49 and lists the Miami Tribe of Oklahoma as a present-day tribe. This instrument was made with the Piankeshaw alone; Area 48 was ceded by the Kaskaskia in 1803 (this treaty only acknowledged their right to sell it), and the Delaware ceded their half of Area 49 by a separate treaty of August 18, 1804. Not edited.",
+    "The December 11, 1970 opinion and findings in Docket 289 have no text in the OSU collection; the award is taken from the final award's recital, which does not use the word unconscionable. The basis is recorded as an award of additional compensation.",
+    "The Peoria Tribe's own account of the Piankeshaw cessions was not located in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

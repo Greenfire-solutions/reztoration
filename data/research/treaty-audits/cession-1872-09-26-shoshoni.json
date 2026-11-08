@@ -1,0 +1,18 @@
+{
+  "id": "cession-1872-09-26-shoshoni",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "ICC Docket 63 findings (pointer 22): agreement of Sept. 26, 1872, 18 Stat. 291, approved by Act of Dec. 15, 1874; Art. I boundary; 700,642 acres; $5000 a year for five years; $500 salary; $25,000 expended and $2500 salary paid",
+    "Findings 20: eighty cents an acre, $560,513.60; $27,500 unconscionable",
+    "Opinion (pointer 434): quote 'purchase price of less than four cents per acre for lands worth twenty times that amount was shockingly low' matches the OCR; interlocutory order awarding value less $27,500",
+    "Royce 1899 schedule text (Internet Archive djvu): Crow 1851 and 1868 note; acts of June 22 and Dec. 15, 1874"
+  ],
+  "changes": [
+    "Breach now says interlocutory order, not an award; citation split into findings p. 313 and opinion p. 333",
+    "Compensation reworded to match"
+  ],
+  "unverifiable": [
+    "Final judgment in Docket 63 not found in the collection"
+  ]
+}

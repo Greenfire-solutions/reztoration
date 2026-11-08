@@ -1,0 +1,18 @@
+{
+  "id": "cession-1859-11-19-chook-chan-cie-chow-chilla-poho-neche",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce 1899 schedule text (Internet Archive djvu): McDuffie's report of abandonment of the Fresno River reservation, Nov. 19, 1859; Area 423 note (Browne report, Henley 1857, Act of Mar. 3, 1853)",
+    "Royce index lists Chook-chan-cie and Chowchilla under April 29, 1851 and November 19, 1859",
+    "ICC Docket 31/37 interlocutory order of July 31, 1959 (pointer 362): Area B title extinguished under the Act of March 3, 1851, 9 Stat. 631"
+  ],
+  "changes": [
+    "Promise rewritten from Royce's own note; removed the unsourced claim that the reserve was set up for the parties to the Camp Barbour treaty",
+    "Removed the unsourced statement that no Area A tribe was in the Fresno River country"
+  ],
+  "unverifiable": [
+    "Whether the Senate never ratified the April 29, 1851 treaty was not re-checked here; it belongs to the separate 1851 entry",
+    "North Fork Rancheria history page not retried"
+  ]
+}

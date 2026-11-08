@@ -1,0 +1,88 @@
+{
+  "id": "kappler-148",
+  "name": "Treaty with the Cherokee, 1817 (Treaty of the Cherokee Agency)",
+  "aka": ["Treaty of July 8, 1817", "Jackson and McMinn Treaty"],
+  "signed": "1817-07-08",
+  "proclaimed": "1817-12-26",
+  "citation": "7 Stat. 156",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1817-0140",
+  "nations": ["Cherokee Nation, east of the Mississippi and on the Arkansas river"],
+  "promises": [
+    "Article 5: in exchange for the lands ceded in Articles 1 and 2, as much land on the Arkansas and White rivers, acre for acre, for the Cherokee on the Arkansas, with its line run soon after ratification and all United States citizens but one removed from within it; all earlier treaties to stay in force with both parts of the nation.",
+    "Article 6: to each poor warrior who removed west a rifle and ammunition, a blanket and a kettle or beaver trap, boats and provisions for the journey, and full value for improvements that added real value to the land.",
+    "Article 7: payment, or exchange, for improvements of real value on the ceded lands, the nation never to be charged for them.",
+    "Article 8: to each head of a family on land ceded to the United States who wished to become a citizen, a reservation of 640 acres around their improvements, a life estate with reversion in fee to their children.",
+    "Articles 11 and 12: the boundary lines run by commissioners with Cherokee commissioners present, and intruders kept off the ceded lands until the treaty was ratified."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "government-admission",
+      "date": "1835-12-29",
+      "what": "In Article 13 of the 1835 treaty, ratified by the Senate, the United States confirmed reservations owed under the 1817 treaty to reservees who had met its terms, and agreed that reservees under former treaties whom state laws had forced to abandon their reservations, or to buy them back from the state, had a just claim against the United States, calling the payment a fulfillment of former treaty stipulations.",
+      "whoFoundIt": "Treaty with the Cherokee, 1835 (Treaty of New Echota), Article 13, 7 Stat. 478",
+      "source": {
+        "title": "Treaty with the Cherokee, 1835 (Kappler, vol. 2, p. 439)",
+        "url": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1835-0439",
+        "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+      },
+      "quote": "as it is only a just fulfillment of former treaty stipulations"
+    }
+  ],
+  "landTaken": "Two cessions in Georgia, Tennessee and Alabama: the land north and east of a line from the high shoals of the Appalachee to the Chattahoochee (Article 1) and the land north and west of a line along Walden's ridge and the Little Sequatchie (Article 2), with the reserves made to Doublehead and others in 1806 (Article 10). treaties.json gives Royce areas 83, 84, 85 and 86; areas 85 and 86 also appear under the 1806 convention, consistent with Article 10 ceding the 1806 reserves.",
+  "compensation": "Land on the Arkansas for land in the east (Article 5), goods and boats for emigrants (Article 6), and payment for improvements (Articles 6 and 7). No Indian Claims Commission award for this treaty was found.",
+  "today": "The Cherokee Nation, for the Western (Old Settler) Cherokee, brought Indian Claims Commission claims that turned on this treaty: Docket 2, for an 'outlet' to the west said to have been promised in 1817 and left out of the text, and Docket 24, on the Western Cherokee's rights in the Arkansas lands. The Commission dismissed both in 1952, holding in Docket 2 that the later fee title to land in Indian Territory more than met any such promise. Those rulings went for the United States and are not counted as breaches. The Eastern Band's claims for its share of the treaties of 1785 to 1835 ended in a 1972 compromise of $1,855,254.50 that does not separate the treaties.",
+  "plain": {
+    "promised": "Land on the Arkansas and White rivers, acre for acre, for land ceded in the east, rifles, blankets and boats for those who moved west, payment for improvements, and 640-acre reservations for families who chose citizenship.",
+    "happened": "In the 1835 Treaty of New Echota the United States confirmed reservations owed under this treaty and agreed that reservees under former treaties forced off by state laws had a just claim. No specific reservee wronged under this treaty is named.",
+    "today": "No Indian Claims Commission award for this treaty was found, and Western Cherokee claims turning on it were dismissed in 1952. Whether 1817 reservees were ever paid was not traced."
+  },
+  "nationVoice": [
+    {
+      "nation": "Cherokee Nation",
+      "summary": "The Nation's history says successive treaties with Britain and the United States reduced its territory, and that in 1817, enticed by United States agents, some residents of Cherokee towns moved to what is now Arkansas and in 1828 farther west.",
+      "url": "https://www.cherokee.gov/about-the-nation/history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Cherokee, 1817 (Kappler, vol. 2, p. 140)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1817-0140",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Treaty with the Cherokee, 1835 (Kappler, vol. 2, p. 439)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1835-0439",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Cherokee Nation (Western Old Settler Cherokees) v. United States, Docket 2, Opinion of the Commission (February 19, 1952)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/253",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Cherokee Nation (Western Old Settler Cherokees) v. United States, Docket 24, Opinion of the Commission (April 3, 1952)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/311",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Eastern Band of Cherokee Indians v. United States, Dockets 282-A to 282-L, Findings of Fact on Compromise Settlement (September 11, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2321",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History",
+      "url": "https://www.cherokee.gov/about-the-nation/history/",
+      "publisher": "Cherokee Nation"
+    }
+  ],
+  "openQuestions": [
+    "For Jordan: the only formal record counted is Article 13 of the 1835 treaty, recorded as a government admission. It is the United States' own ratified text acknowledging unpaid claims of reservees under former treaties, and it names the 1817 reservations, but it does not name a specific reservee wronged under this treaty. If that is judged too indirect, the file should drop to no-breach-found.",
+    "The 1835 treaty's own validity is disputed by the Cherokee Nation; its Article 13 is cited here only as the United States' acknowledgment.",
+    "Whether the Article 5 Arkansas line was run and intruders removed, and whether the 1828 treaty that moved the Western Cherokee out of Arkansas records why, was not researched. The Commission's Docket 2 opinion quotes Cherokee complaints that settlers were filling up Lovely's Purchase.",
+    "Whether reservees under Article 8 were paid under the 1835 Article 13 commission, and how much, was not traced.",
+    "Which of Royce areas 83 to 86 is which tract was not checked against the Royce maps."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

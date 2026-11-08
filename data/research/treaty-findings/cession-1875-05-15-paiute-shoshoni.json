@@ -77,5 +77,10 @@
     "The executive order texts were read through Royce's schedule, not the orders themselves."
   ],
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "plain": {
+    "promised": "Not a treaty: an executive order. The President added a tract to the Malheur Reservation in southeastern Oregon.",
+    "happened": "Part of this addition was relinquished by an 1876 order. The Indian Claims Commission found the Snake or Paiute bands were deprived of the remaining Malheur Reservation in January 1879 without any compensation.",
+    "today": "The Commission awarded $579,722.00 less offsets in 1959 for the whole 1876 reservation; no later payment was traced. The part of this addition relinquished in 1876 is not covered by that finding."
+  }
 }

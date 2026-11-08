@@ -22,7 +22,7 @@
     {
       "kind": "claims-commission",
       "date": "1969-02-17",
-      "what": "The Commission adjudicated a shortage of 4,798 acres in the reservation created for the Iowa under Article 2 of this treaty (a fact stipulated by the parties in 1966), valued the missing land at $3.00 an acre, $14,394.00, as of June 1857, and included it, with damages measured by interest, in the Iowa award.",
+      "what": "The Commission adjudicated a shortage of 4,798 acres in the reservation created for the Iowa under Article 2 of this treaty (a fact the parties stipulated at a hearing on September 9, 1965, recorded in the Commission's order of February 28, 1966), valued the missing land at $3.00 an acre, $14,394.00, as of June 1857, and included it, with damages measured by interest, in the Iowa award.",
       "whoFoundIt": "Indian Claims Commission, Iowa Tribe et al. v. United States, Docket 79-A, Opinion and Interlocutory Order, 20 Ind. Cl. Comm. 308",
       "source": {
         "title": "Iowa Tribe et al. v. United States, Docket 79-A, Interlocutory Order (February 17, 1969)",
@@ -34,9 +34,9 @@
       "kind": "litigation",
       "date": "1965-03-22",
       "what": "The Commission had found that the Iowa interest in the part of Royce Cession 151 in northwestern Missouri passed to the United States on September 17, 1836 under this treaty. The Iowa claim for that land and for their western Iowa interest was then settled by compromise for a net final judgment of $1,372,267.50.",
-      "whoFoundIt": "Indian Claims Commission, Iowa Tribe et al. v. United States, Dockets 138 and 139, Findings of Fact on Compromise Settlement, 15 Ind. Cl. Comm. 172",
+      "whoFoundIt": "Indian Claims Commission, Iowa Tribe et al. v. United States, Dockets 138 and 339, Findings of Fact on Compromise Settlement, 15 Ind. Cl. Comm. 172",
       "source": {
-        "title": "Iowa Tribe et al. v. United States, Dockets 138 and 139, Findings of Fact in the Matter of the Compromise Settlement (March 22, 1965)",
+        "title": "Iowa Tribe et al. v. United States, Dockets 138 and 339, Findings of Fact in the Matter of the Compromise Settlement (March 22, 1965)",
         "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/825",
         "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
       }
@@ -45,7 +45,18 @@
   "landTaken": "The Iowa reservation under Article 2 was 4,798 acres short (stipulated, Docket 79).",
   "compensation": "Docket 79-A final award of May 1969: principal $207,752.15 (of which $14,394.00 is the shortage area and the rest the 1854 trust land sales) plus $1,159,949.75 in damages measured by interest to February 16, 1969, a total of $1,367,701.90, plus further interest until paid. Docket 138: compromise net judgment of $1,372,267.50, with $150,000 held back pending the Yankton Sioux claim in Docket 332-A.",
   "today": "The reservation the Iowa received under this treaty was largely ceded by the treaty of May 17, 1854, and the Commission found the United States breached that treaty by not selling the trust lands at public auction (Docket 79-A). That is a separate treaty.",
-  "nationVoice": [],
+  "plain": {
+    "promised": "A permanent home of four hundred sections for the Iowa and the Missouri Sac and Fox, with houses, broken land, a farmer, blacksmith, schoolmaster, tools, rations, cattle and a mill, plus a $7,500 present.",
+    "happened": "The parties stipulated before the Indian Claims Commission that the Iowa reservation was 4,798 acres short. The Commission valued the missing land at $14,394.00 and included it in the Iowa award.",
+    "today": "The final award of May 1969 totalled $1,367,701.90 plus interest until paid; a separate compromise gave a net $1,372,267.50. Whether these were paid has not been traced."
+  },
+  "nationVoice": [
+    {
+      "nation": "Iowa Tribe of Oklahoma (Báxoje)",
+      "summary": "The Tribe says settler encroachment drove the Iowa to cede land in 1824, 1836 and 1838, that the 1836 treaty assigned part of the people to a reservation on the Great Nemaha River, and that a nation whose lands once spanned six present states was left with a strip ten by twenty miles that later treaties cut further.",
+      "url": "https://iowanation.org/about-us/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Iowa, etc., 1836 (Kappler, vol. 2, p. 468)",
@@ -73,17 +84,23 @@
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
     },
     {
-      "title": "Iowa Tribe et al. v. United States, Dockets 138 and 139, Findings of Fact in the Matter of the Compromise Settlement (March 22, 1965)",
+      "title": "Iowa Tribe et al. v. United States, Dockets 138 and 339, Findings of Fact in the Matter of the Compromise Settlement (March 22, 1965)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/825",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "About Us",
+      "url": "https://iowanation.org/about-us/",
+      "publisher": "Iowa Tribe of Oklahoma"
     }
   ],
   "openQuestions": [
     "The shortage was stipulated by the parties at a 1965 hearing and recorded in the Commission's order of February 28, 1966; the Commission then decided its value. Jordan may want to decide whether a stipulated fact with an adjudicated award counts as a Commission finding (it is treated as one here).",
     "The 1966 order cites the treaty as \"7 Stat. 571\"; the 1969 opinion and the treaty text give 7 Stat. 511.",
     "Whether the Missouri Sac and Fox half of the Article 2 reservation was also short, and whether the Article 3 houses, stock and services were delivered, was not traced.",
-    "The Sac and Fox share of the Platte Purchase claim (Docket 139 and Docket 11-A for the Otoe and Missouria) was not traced.",
-    "No Iowa or Sac and Fox history page about this treaty was opened in this pass."
+    "The Sac and Fox share of the Platte Purchase claim (Docket 11-A for the Otoe and Missouria, and any Sac and Fox docket) was not traced.",
+    "No Iowa or Sac and Fox history page about this treaty was opened in this pass.",
+    "Audit 2026-11-08: the compromise document is captioned Dockets 138 and 339 (15 Ind. Cl. Comm. 172; Docket 339 was dismissed as a term of the settlement); the collection's title says 139. Citations changed to 138 and 339. Shortage breach 'what' corrected: the stipulation was made in 1965, not 1966. The Feb. 28, 1966 order adjudged the Iowa entitled to recover the value of the shortage and the 1969 order fixed it, so the rules point to a Commission finding (claims-commission), not a settlement; status broken stands."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

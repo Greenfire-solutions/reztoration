@@ -1,0 +1,74 @@
+[
+ {
+  "id": "rhode-island-indian-council",
+  "name": "Rhode Island Indian Council",
+  "category": "nonprofit",
+  "subcategory": "job training, education help and community events for Native people",
+  "nation": "Intertribal (southern New England tribal communities)",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Rhode Island Indian Council on Idealist: governed and staffed primarily by Native Americans since 1975",
+   "url": "https://www.idealist.org/en/nonprofit/a6b3f8b33fb14a26b0f7ebca5ee668ee-rhode-island-indian-council-providence"
+  },
+  "description": "Providence agency, running since 1975, that helps Native people across southern New England with job training, schooling and community gatherings.",
+  "website": "https://www.rhodeislandindiancouncil.org/",
+  "address": "807 Broad Street",
+  "city": "Providence",
+  "state": "RI",
+  "zip": "02907",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Rhode Island Indian Council: Natives serving Natives, WIOA and education programs",
+    "url": "https://www.rhodeislandindiancouncil.org/"
+   },
+   {
+    "title": "Rhode Island Indian Council on Idealist",
+    "url": "https://www.idealist.org/en/nonprofit/a6b3f8b33fb14a26b0f7ebca5ee668ee-rhode-island-indian-council-providence"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -71.4185,
+   41.8017
+  ],
+  "lonlatPrecision": "address"
+ },
+ {
+  "id": "abenaki-helping-abenaki",
+  "name": "Abenaki Helping Abenaki",
+  "category": "nonprofit",
+  "subcategory": "culture, food shelf and traditional agriculture for the Nulhegan Band",
+  "nation": "Nulhegan Band of the Coosuk Abenaki Nation (Vermont state-recognized)",
+  "ownership": "native-led-nonprofit",
+  "ownershipSource": {
+   "title": "Nulhegan Abenaki Tribe: Abenaki Helping Abenaki, board of Nulhegan citizens with Chief Don Stevens as trustee",
+   "url": "https://abenakitribe.org/?p=868"
+  },
+  "description": "The Nulhegan Abenaki's own nonprofit, which keeps up the band's culture, runs a food shelf and teaches traditional growing and sustainable living.",
+  "website": "https://www.abenakihelpingabenaki.com/",
+  "city": "Shelburne",
+  "state": "VT",
+  "homeBased": false,
+  "sources": [
+   {
+    "title": "Nulhegan Abenaki Tribe: Abenaki Helping Abenaki",
+    "url": "https://abenakitribe.org/?p=868"
+   },
+   {
+    "title": "Nulhegan Abenaki Tribe: food security",
+    "url": "https://abenakitribe.org/food-security"
+   },
+   {
+    "title": "Candid (GuideStar): Aha Abenaki Helping Abenaki, Shelburne, VT",
+    "url": "https://www.guidestar.org/Profile/84-1704125"
+   }
+  ],
+  "checkedAt": "2026-11-08",
+  "lonlat": [
+   -73.2276,
+   44.3783
+  ],
+  "lonlatPrecision": "town"
+ }
+]

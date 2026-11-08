@@ -1,0 +1,95 @@
+{
+  "id": "cession-1865-12-21-indians-on-coast-of-oregon",
+  "name": "Executive Order of December 21, 1865 releasing the Yaquina tract from the Coast (Siletz) Reservation",
+  "aka": [
+    "Yaquina Bay opening, 1865",
+    "First reduction of the Coast Reservation"
+  ],
+  "signed": "1865-12-21",
+  "citation": "Executive Order of December 21, 1865 (President Andrew Johnson), approving the recommendation of Secretary of the Interior James Harlan of December 20, 1865; printed in Executive Orders Relating to Indian Reserves, 1855-1902 (GPO, 1902), p. 96",
+  "textUrl": "https://www.oregon.gov/ode/students-and-family/equity/NativeAmericanEducation/Documents/Executive%20Orders%20Relating%20to%20the%20Siletz%20Coast%20Reservation.pdf",
+  "nations": [
+    "Peoples of the Coast (Siletz) Reservation, including Yaquina and Alsea villages and Coquille and Chetco families living on the Yaquina (Confederated Tribes of Siletz Indians)"
+  ],
+  "promises": [
+    "Not a treaty: a presidential order cutting the reservation set apart on November 9, 1855.",
+    "The tract released ran from a point 2 miles south of the Siletz agency west to the ocean, south along the ocean to the mouth of the Alsea River, up that river to the reservation's eastern boundary, and back north (Executive Orders, 1902; Royce, 1899).",
+    "The order threw the tract open to occupancy and use by citizens as other public land; it made no provision for payment to the Indians or for their consent."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "executive-action",
+      "date": "1865-12-21",
+      "what": "President Johnson released the Yaquina tract from the reservation and opened it to settlers, at the request of the Oregon congressional delegation for access to Yaquina Bay. The Secretary's recommendation adopted the Commissioner of Indian Affairs' view that the citizens' interest outweighed that of the Indians living there.",
+      "whoFoundIt": "Executive Order of December 21, 1865, with Secretary Harlan's letter of December 20, 1865 (Executive Orders Relating to Indian Reserves, GPO 1902, p. 96)",
+      "source": {
+        "title": "Executive Orders Relating to Indian Reserves, from May 14, 1855, to July 1, 1902 (GPO, 1902), Siletz Reserve, p. 96, as reproduced by the Oregon Department of Education",
+        "url": "https://www.oregon.gov/ode/students-and-family/equity/NativeAmericanEducation/Documents/Executive%20Orders%20Relating%20to%20the%20Siletz%20Coast%20Reservation.pdf",
+        "publisher": "Oregon Department of Education (copy of a US Government Printing Office compilation)"
+      },
+      "quote": "their interest is paramount in importance to that of the Indians located in that vicinity"
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1866",
+      "what": "The Confederated Tribes of Siletz Indians say no government agent raised the ratified treaties during the process, that Yaquina and Alsea villages were still occupied, and that, as the Siletz agent's 1866 report described, homesteaders rushed in and ejected Indian occupants from their farms under threat.",
+      "whoFoundIt": "Confederated Tribes of Siletz Indians, Executive Order, December 21, 1865",
+      "source": {
+        "title": "Executive Order, December 21, 1865",
+        "url": "https://ctsi.nsn.us/executive-order-december-21-1865/",
+        "publisher": "Confederated Tribes of Siletz Indians"
+      }
+    }
+  ],
+  "landTaken": "The Yaquina tract between a line 2 miles south of the Siletz agency and the Alsea River (Executive Orders, 1902). No acreage from an opened source was recorded.",
+  "compensation": "None was provided by the order. No claims case covering this reduction was found in the Indian Claims Commission collection (searches for Siletz, Alsea, Coos, Coquille, Chetco, Tututni and Rogue returned only the Tillamook Docket 239 and 240 cases, which concern other lands).",
+  "today": "The Act of March 3, 1875 (18 Stat. 446) cut the reservation again, keeping only the tract from 2 miles south of the Siletz agency north to the Salmon River and opening the balance to settlement, with a proviso that the Indians not be removed without their consent. The Supreme Court in Alcea (1946) says the 1875 statute approved the Executive Orders of 1855 and 1865; the 1865 reduction was not the subject of the claim decided there.",
+  "plain": {
+    "promised": "Not a treaty: a presidential order cutting the Yaquina tract out of the Coast (Siletz) Reservation and opening it to settlers. It made no provision for payment to the Indians or for their consent.",
+    "happened": "President Johnson released the tract in 1865 for access to Yaquina Bay. The Siletz Tribe says its ratified treaties were ignored and, as the agent's 1866 report described, homesteaders forced Indian occupants off their farms under threat.",
+    "today": "The order provided no payment, and no claims case or finding covering this reduction was found. An Act of 1875 cut the reservation again and opened more of it to settlement."
+  },
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of Siletz Indians",
+      "summary": "The Tribe describes the 1865 order as the product of railroad, settler and political pressure that ignored its ratified treaties and led to its people being driven off their Yaquina farms.",
+      "url": "https://ctsi.nsn.us/executive-order-december-21-1865/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Executive Orders Relating to Indian Reserves, 1855-1902 (GPO), Siletz Reserve, pp. 95-96, Oregon Department of Education copy",
+      "url": "https://www.oregon.gov/ode/students-and-family/equity/NativeAmericanEducation/Documents/Executive%20Orders%20Relating%20to%20the%20Siletz%20Coast%20Reservation.pdf",
+      "publisher": "Oregon Department of Education"
+    },
+    {
+      "title": "Indian Land Cessions in the United States (Royce, 1899), schedule entry for December 21, 1865",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/838/mode/2up",
+      "publisher": "Internet Archive (Smithsonian Institution, Bureau of American Ethnology)"
+    },
+    {
+      "title": "Act of March 3, 1875, ch. 132, 18 Stat. 446, Oregon item (Statutes at Large, 43rd Congress, PDF page 476)",
+      "url": "https://tile.loc.gov/storage-services/service/ll/llsl/llsl-c43/llsl-c43.pdf",
+      "publisher": "Library of Congress"
+    },
+    {
+      "title": "United States v. Alcea Band of Tillamooks, 329 U.S. 40 (1946)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/329/40",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Executive Order, December 21, 1865",
+      "url": "https://ctsi.nsn.us/executive-order-december-21-1865/",
+      "publisher": "Confederated Tribes of Siletz Indians"
+    }
+  ],
+  "openQuestions": [
+    "The 1855 order was described by the Secretary of the Interior as 'subject to future curtailment'; the Siletz Tribe says the reservation was secured by ratified treaties. Whether this reduction breached a specific ratified treaty article (for example the Rogue River treaty of September 10, 1853) was not settled here; the status rests on the executive taking without consent or payment.",
+    "Acreage released: secondary sources give about 200,000 acres; no primary or tribal page opened here states a figure, so none is recorded.",
+    "No court or claims finding specific to the 1865 reduction was found; the Siletz Tribe's 1977 restoration and any later claims settlement were not researched.",
+    "treaties.json names the tribe 'Indians on coast of Oregon' and lists five present-day nations including the Cow Creek Band and Coos, Lower Umpqua and Siuslaw; which of them had people on the Yaquina tract in 1865 was not checked."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

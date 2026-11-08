@@ -1,0 +1,16 @@
+{
+  "id": "cession-1875-06-23-sioux",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "OSU Oklahoma Built item 22688: Sioux, June 23, 1875, tagged Not Ratified, Oglala Sioux Tribe successor in interest, no Statutes citation",
+    "Royce 1899 schedule text (Internet Archive djvu): cession of the Art. 11 hunting privilege and the Art. 16 unceded country in Nebraska; overlaps Pawnee cession of Sept. 24, 1857; Area 584",
+    "ICC Docket 74 opinion of July 8, 1970 (pointer 1459) contains no mention of 1875"
+  ],
+  "changes": [
+    "Second promise (payment of a sum Congress appropriated) replaced: no opened source states it"
+  ],
+  "unverifiable": [
+    "Commissioner of Indian Affairs report 1875 p. 179 not opened; the $25,000 figure stays out"
+  ]
+}

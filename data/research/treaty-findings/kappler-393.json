@@ -1,0 +1,83 @@
+{
+  "id": "kappler-393",
+  "name": "Treaty with the Western Cherokee, 1833 (Treaty of Fort Gibson)",
+  "aka": [
+    "Treaty of February 14, 1833 with the Cherokee west of the Mississippi"
+  ],
+  "signed": "1833-02-14",
+  "proclaimed": "1834-04-12",
+  "citation": "7 Stat. 414",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-western-cherokee-1833-0385",
+  "nations": [
+    "Cherokee Nation west of the Mississippi (Western Cherokee, Old Settlers), today the Cherokee Nation"
+  ],
+  "promises": [
+    "The United States guaranteed to the Cherokee forever seven million acres west of Arkansas, with boundaries redrawn to settle a conflict with Creek lands (Article 1).",
+    "In addition it guaranteed a perpetual outlet west and free and unmolested use of all the country west of that tract as far as United States sovereignty and right of soil extended (Article 1).",
+    "Letters patent would be issued as soon as practicable for the land guaranteed (Article 1)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1961-04-03",
+      "what": "The Indian Claims Commission held that the $7,795,851.99 the United States paid under the 1891 agreement (ratified March 3, 1893) for the Cherokee Outlet, land guaranteed to the Cherokee by the 1828 treaty and again by Article 1 of this treaty and patented to them in 1838, was unconscionable for land with a fair market value of $22,585,328.14.",
+      "whoFoundIt": "Indian Claims Commission, Cherokee Nation v. United States, Docket 173, findings, opinion and interlocutory order of April 3, 1961, 9 Ind. Cl. Comm. 162",
+      "source": {
+        "title": "Cherokee Nation v. United States, Docket 173, Opinion of the Commission (April 3, 1961)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/60",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1961-09-14",
+      "what": "The Commission then entered final judgment for the Cherokee Nation of $14,789,476.15 on the Outlet claim, pursuant to a stipulation of the parties. A judgment entered on a stipulation is a settlement, not a further finding.",
+      "whoFoundIt": "Indian Claims Commission, Cherokee Nation v. United States, Docket 173, Final Judgment of September 14, 1961",
+      "source": {
+        "title": "Cherokee Nation v. United States, Docket 173, Final Judgment (September 14, 1961)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/173",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "The Cherokee Outlet, the western part of the 1838 patent, ceded under the 1891 agreement; the Commission valued the tract it considered at $22,585,328.14 as of March 3, 1893 (Docket 173, 1961).",
+  "compensation": "$7,795,851.99 under the 1891 agreement; final judgment of $14,789,476.15 entered on stipulation on September 14, 1961 (Docket 173).",
+  "today": "The Commission's findings record that the 1838 patent conveyed the seven million acre tract and perpetual outlet as one surveyed tract in consideration of the promises of the 1828, 1833 and 1835 treaties.",
+  "plain": {
+    "promised": "Seven million acres west of Arkansas, guaranteed to the Cherokee forever, plus a perpetual outlet west and free use of the country beyond it, with a patent issued as soon as practicable.",
+    "happened": "The Indian Claims Commission held in 1961 that the $7,795,851.99 paid under an 1891 agreement for the Cherokee Outlet was unconscionable for land worth $22,585,328.14.",
+    "today": "In 1961 the Commission entered a final judgment of $14,789,476.15 for the Cherokee Nation, agreed by the parties. Whether it was paid has not been traced."
+  },
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Western Cherokee, 1833 (Kappler, vol. 2, p. 385)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-western-cherokee-1833-0385",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Cherokee Nation v. United States, Docket 173, Findings of Fact (April 3, 1961)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/338",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Cherokee Nation v. United States, Docket 173, Opinion of the Commission (April 3, 1961)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/60",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Cherokee Nation v. United States, Docket 173, Final Judgment (September 14, 1961)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/173",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json lists Royce cessions 489 and 492 and adds the Santee Sioux Nation of Nebraska to the present-day tribes. In Royce's schedule 489 and 492 sit among the 1866 cession numbers (Indian Territory 2), next to an eastern Nebraska area, so both the area numbers and the Santee Sioux entry look like they belong to other entries. Not edited.",
+    "The Eastern Band of Cherokee Indians and the United Keetoowah Band are listed as present-day tribes; this treaty was made with the Western Cherokee only.",
+    "The breach recorded is the Commission's holding on the 1893 price for land this treaty guaranteed; whether the Outlet's earlier use for other tribes under the 1866 treaty also breached Article 1 was argued in Docket 173 but not separately recorded.",
+    "The Cherokee Nation's own account of the Outlet sale was not located in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

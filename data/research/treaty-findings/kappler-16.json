@@ -79,6 +79,11 @@
     "Worcester v. Georgia found that Georgia, a state, acted against the treaty; the federal failure to enforce rests on the National Park Service's statement, not on a ruling.",
     "Audit 2026-11-08: the National Park Service statement was changed from government-admission to historian, as on kappler-815: an interpretive history page is not a finding or an admission of the kind rule 9 means, and it does not mention the Treaty of Hopewell. Its url was updated to the page it now redirects to. Status stays broken on Worcester v. Georgia (1832), which names the Hopewell and Holston treaties and holds Georgia law void as repugnant to them."
   ],
+  "plain": {
+    "promised": "The United States set a boundary for Cherokee hunting grounds and said any US citizen who settled inside it would lose US protection, leaving the Cherokees free to punish him.",
+    "happened": "The Supreme Court held in Worcester v. Georgia (1832) that Georgia's law extending its jurisdiction over Cherokee territory was void as repugnant to this treaty. A National Park Service history says the federal government did nothing to enforce the ruling.",
+    "today": "No compensation for these breaches has been located. The hunting grounds were ceded by later treaties, finally the Treaty of New Echota (1835). What happened after the removal has not been researched here."
+  },
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"
 }

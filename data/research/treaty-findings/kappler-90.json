@@ -1,0 +1,59 @@
+{
+  "id": "kappler-90",
+  "name": "Treaty with the Cherokee, 1805 (Treaty of Tellico, October 25)",
+  "aka": ["Third Treaty of Tellico"],
+  "signed": "1805-10-25",
+  "proclaimed": "1806-04-24",
+  "citation": "7 Stat. 93",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1805-0082",
+  "nations": ["Cherokee Nation"],
+  "promises": [
+    "Article 1: all former treaties for keeping the peace and preventing crimes recognized and continued in force.",
+    "Article 2: a small tract at and below the mouth of Clinch river, the ferry landing on the Clinch, a square mile at the foot of Cumberland mountain and a square mile where Talootiske lived kept for the Cherokee, and the islands in the Tennessee left to them.",
+    "Article 3: $3,000 in merchandise at once, $11,000 within ninety days of ratification (in farm and manufacturing tools if the Cherokee chose), and an annuity of $3,000 from the day of signing."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "All the Cherokee claimed north of a line from the mouth of Duck river to the Tennessee opposite the Hiwassee and up the Tennessee and Clinch rivers (Article 2), in Tennessee and Kentucky, with two new roads through the nation (Article 4). Royce area 57 is the cession.",
+  "compensation": "$14,000 in goods and money and an annuity of $3,000 (Article 3). No Indian Claims Commission award separately for this treaty was found.",
+  "today": "The Eastern Band of Cherokee Indians' claims for its share under the Cherokee treaties of 1785 to 1835 (Dockets 282-A to 282-L) ended in a compromise of $1,855,254.50 approved on September 11, 1972, which does not separate the treaties; a settlement is not counted as a finding.",
+  "nationVoice": [
+    {
+      "nation": "Cherokee Nation",
+      "summary": "The Nation's history says successive treaties with Britain and the United States reduced its original territory.",
+      "url": "https://www.cherokee.gov/about-the-nation/history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Cherokee, 1805 (Kappler, vol. 2, p. 82)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1805-0082",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Eastern Band of Cherokee Indians v. United States, Dockets 282-A to 282-L, Findings of Fact on Compromise Settlement (September 11, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2321",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule pp. 668-670",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/668/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "History",
+      "url": "https://www.cherokee.gov/about-the-nation/history/",
+      "publisher": "Cherokee Nation"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json lists Royce areas 57, 105, 107, 108 and 109 for this entry. Area 57 is this cession; Royce cross-references areas 105 and 107 to 109 from it, and his remarks show at least one of those tracts was ceded by the treaty of February 27, 1819. Which tract each number is was not checked.",
+    "Royce's remarks on one of these tracts say a secret article gave it to Doublehead, John D. Chisholm and John Riley, that a North Carolina grantee won it in the Tennessee courts, and that the Attorney-General later ruled the secret article no part of the treaty because it was never put to the Senate. Which treaty of 1805 the secret article belonged to, and the Attorney-General's opinion itself, were not opened.",
+    "A separate Cherokee treaty was made at Tellico two days later, on October 27, 1805 (Royce cites Stat. L. VII, 95); it is not this entry and was not researched here.",
+    "Which of the Eastern Band's Dockets 282-A to 282-L covered this treaty, and whether the Cherokee Nation (Oklahoma) brought its own claim on it, was not established. The Cherokee Nation's Dockets 271 and 297 were dismissed at its own request in 1969; their subject was not identified.",
+    "Whether the annuity and the $11,000 were paid was not researched; the 1895 Interior accounting of money due the Cherokee Nation (House Ex. Doc. 182, 53rd Cong., 3rd sess.) is a lead.",
+    "Historians describe private payments to chiefs alongside the Tellico treaties of 1805; no formal finding on them was opened."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

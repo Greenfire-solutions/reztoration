@@ -1,0 +1,118 @@
+{
+  "id": "kappler-789",
+  "name": "Treaty with the Sioux, 1858 (Mdewakanton and Wahpekute bands)",
+  "aka": [
+    "Treaty of Washington, June 19, 1858, with the Mendawakanton and Wahpakoota bands of Dakota"
+  ],
+  "signed": "1858-06-19",
+  "ratified": "1859-03-09",
+  "proclaimed": "1859-03-31",
+  "citation": "12 Stat. 1031",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-sioux-1858-0781",
+  "nations": [
+    "Bdewakantunwan (Mdewakanton) Dakota",
+    "Wahpekute Dakota"
+  ],
+  "promises": [
+    "The part of the 1851 reservation lying south or southwest of the Minnesota River would constitute the bands' reservation, with 80 acres allotted to each head of a family and the rest held in common (Article 1).",
+    "Allotted tracts would be exempt from levy, taxation, sale or forfeiture and could not be alienated except to the United States or members of the bands (Article 1).",
+    "The Senate would decide whether the bands held title to the reservation land north of the Minnesota River and, if so, what they would be paid for it (Article 2)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1863-02-16",
+      "what": "After the war of 1862, Congress declared all treaties with the Sisseton, Wahpeton, Mdewakanton and Wahpekute bands abrogated as to any future obligation of the United States, and declared their lands and rights of occupancy in Minnesota and their annuities forfeited, which took the reservation confirmed by Article 1 (Royce Area 440).",
+      "whoFoundIt": "Act of February 16, 1863, ch. 37, sec. 1, 12 Stat. 652; Indian Claims Commission Finding 49, Dockets 142 and 359-363 (1962)",
+      "source": {
+        "title": "Act of February 16, 1863, ch. 37, 12 Stat. 652 (Statutes at Large, 37th Congress, PDF page 398)",
+        "url": "https://tile.loc.gov/storage-services/service/ll/llsl/llsl-c37/llsl-c37.pdf",
+        "publisher": "Library of Congress"
+      },
+      "quote": "hereby declared to be abrogated and annulled, so far as said treaties or any of them purport to impose any future obligation"
+    },
+    {
+      "kind": "litigation",
+      "date": "1967-08-09",
+      "what": "The Mississippi Sioux land claims in Dockets 142 and 359 through 363, which included the Mdewakanton and Wahpekute claim that the price for Royce Area 413 ceded by this treaty was unconscionable, were settled by compromise for a total of $12,250,000. A compromise is not a finding of breach.",
+      "whoFoundIt": "Indian Claims Commission, Findings of Fact on Compromise Settlement (July 25, 1967) and Final Judgments (August 9, 1967), Dockets 142, 359-363",
+      "source": {
+        "title": "Sisseton and Wahpeton Bands et al. v. United States, Dockets 142, 359-363, Findings of Fact on Compromise Settlement (July 25, 1967)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2214",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1862",
+      "what": "The Shakopee Mdewakanton Sioux Community says no annuity payments were made to the Mdewakanton in 1862, which it calls a clear breach of treaty rights, and that after the war almost all Mdewakanton were forcibly removed from Minnesota and Congress abrogated all treaties with the Dakota.",
+      "whoFoundIt": "Shakopee Mdewakanton Sioux Community, Our History",
+      "source": {
+        "title": "Our History",
+        "url": "https://shakopeedakota.org/culture-history/our-history/",
+        "publisher": "Shakopee Mdewakanton Sioux Community"
+      }
+    }
+  ],
+  "landTaken": "Royce Area 413, the reservation land north of the Minnesota River ceded by this treaty, about 320,000 acres (Commission opinion, 1962); and Royce Area 440, the reservation south of the river, forfeited by the Act of February 16, 1863 (Commission Finding 49).",
+  "compensation": "The Senate resolution of June 27, 1860 (12 Stat. 1042) allowed thirty cents an acre for the land north of the river. Area 440 was sold under the Act of March 3, 1863 (12 Stat. 819) and the proceeds, $950,063.71, were used for the Mississippi Sioux; the Court of Claims found them properly disbursed (Sioux Tribe v. United States, 95 Ct. Cl. 603, 1942, as recorded in the Commission's 1967 findings). The ICC compromise of 1967 totalled $12,250,000 across six dockets, none of it for Area 440.",
+  "today": "The Commission ruled in 1965 that no claim for Area 440 had ever been timely filed before it, so the forfeiture of the reservation itself was never adjudicated there (1967 findings, quoting the June 21, 1965 opinion).",
+  "plain": {
+    "promised": "A reservation south of the Minnesota River, with 80 acres for each family head that could not be taxed, sold or forfeited, and the Senate to decide payment for the land north of the river.",
+    "happened": "After the war of 1862, Congress declared the Dakota treaties abrogated and the bands' Minnesota lands and annuities forfeited, taking this reservation. The Shakopee Mdewakanton Sioux Community says no annuities were paid to the Mdewakanton in 1862.",
+    "today": "The forfeited reservation was sold and the money used for the Mississippi Sioux. Its forfeiture was never decided by the Commission, and the 1967 compromise of $12,250,000 included nothing for it."
+  },
+  "nationVoice": [
+    {
+      "nation": "Shakopee Mdewakanton Sioux Community",
+      "summary": "The Community's history records the 1858 cession of the north side of the Minnesota River, unpaid annuities in 1862 as a breach of treaty rights, forced removal and Congress's abrogation of the Dakota treaties.",
+      "url": "https://shakopeedakota.org/culture-history/our-history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Sioux, 1858 (Kappler, vol. 2, p. 781)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-sioux-1858-0781",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Act of February 16, 1863, ch. 37, 12 Stat. 652",
+      "url": "https://tile.loc.gov/storage-services/service/ll/llsl/llsl-c37/llsl-c37.pdf",
+      "publisher": "Library of Congress"
+    },
+    {
+      "title": "Sisseton and Wahpeton Bands et al. v. United States, Dockets 142, 359-363, Findings of Fact (January 12, 1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/251",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sisseton and Wahpeton Bands et al. v. United States, Interlocutory Order (January 12, 1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/262",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Dockets 142, 359-363, Findings of Fact on Compromise Settlement (July 25, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2214",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Dockets 142, 359-363, Final Judgments (August 9, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1553",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Our History",
+      "url": "https://shakopeedakota.org/culture-history/our-history/",
+      "publisher": "Shakopee Mdewakanton Sioux Community"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json lists Royce cessions 440 and 413 for this treaty and the Sisseton-Wahpeton bands among the schedule tribes; this instrument (12 Stat. 1031) was signed by the Mdewakanton and Wahpekute only. The Sisseton-Wahpeton treaty of the same day is kappler-793.",
+    "How much of the $12,250,000 compromise was allocated to the Area 413 claim was not traced; the 1958 hearing transcript quoted in the 1967 findings says a claim was pending for Area 413 on the ground that the 1858 consideration was unconscionable, but which docket carried it and the allocation table were not read.",
+    "Lower Sioux Indian Community and Prairie Island Indian Community accounts were not located in this pass.",
+    "The preamble of the 1863 Act describes the 1862 war in the language of the time; it is not quoted here."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

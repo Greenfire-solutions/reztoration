@@ -1,0 +1,51 @@
+{
+  "id": "kappler-982",
+  "name": "Treaty with the Chippewa of the Mississippi, 1867",
+  "aka": [
+    "White Earth treaty of March 19, 1867"
+  ],
+  "signed": "1867-03-19",
+  "ratified": "1867-04-08",
+  "proclaimed": "1867-04-18",
+  "citation": "16 Stat. 719",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-of-the-mississippi-1867-0974",
+  "nations": [
+    "Mississippi Band Anishinaabe (Chippewa of the Mississippi), today within the White Earth, Mille Lacs and Leech Lake Bands of the Minnesota Chippewa Tribe"
+  ],
+  "promises": [
+    "The bands ceded the reservation secured by the treaty of March 20, 1865, except a tract around Leech Lake, Cass Lake and Lake Winnibigoshish that they kept (Article 1).",
+    "A reservation of thirty-six townships including White Earth Lake and Rice Lake would be set apart for their use as a farming region (Article 2).",
+    "For the roughly two million acres ceded, the United States would pay for school buildings and a school for ten years, a saw-mill and grist-mill, houses, cattle and tools, agricultural aid and a physician for ten years, and $10,000 in provisions and clothing on removal (Article 3).",
+    "Land certified to individuals on the new reservation would be exempt from taxation and could not be alienated except as the treaty allowed (Article 7)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "The consideration in Article 3. No Indian Claims Commission award for this cession was found: the Minnesota Chippewa Tribe dockets opened (18-C, 18-S, 18-T, 18-U and 144) concern the treaties of 1837, 1842, 1847 and 1854; Docket 18-T refers to Article 5 of this treaty only as it changed an annuity under the 1847 treaty.",
+  "today": "Congress settled outstanding allotment title claims on the White Earth Reservation by the White Earth Reservation Land Settlement Act (Public Law 99-264, March 24, 1986, 100 Stat. 61), finding that 'past United States laws and policies have contributed to the uncertainty surrounding the claims'. Those allotments were made under the Act of January 14, 1889 (25 Stat. 642), not this treaty, so the finding is not recorded as a breach of it.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Chippewa of the Mississippi, 1867 (Kappler, vol. 2, p. 974)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chippewa-of-the-mississippi-1867-0974",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Minnesota Chippewa Tribe v. United States, Docket 18-T, Opinion of the Commission (May 31, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2334",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "White Earth Reservation Land Settlement Act of 1985, Public Law 99-264, 100 Stat. 61",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-100/pdf/STATUTE-100-Pg61.pdf",
+      "publisher": "US Government Publishing Office"
+    }
+  ],
+  "openQuestions": [
+    "The Clapp amendments of 1904 to 1907, which lifted restrictions on the sale of White Earth allotments by adult mixed-bloods, may have overridden the Article 7 bar on alienation of land certified under this treaty; the statutes were not opened, so no breach is recorded.",
+    "Whether the Article 3 schools, mills, physician and agricultural aid were provided for the ten years promised was not checked.",
+    "White Earth Nation, Leech Lake and Mille Lacs accounts of the 1867 treaty were not located; the Minnesota Indian Affairs Council page found is a state agency page, not the nation's own.",
+    "Royce cessions 507, 508 and 509 were taken from treaties.json and not checked against the schedule."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

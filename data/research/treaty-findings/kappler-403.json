@@ -22,7 +22,7 @@
     {
       "kind": "claims-commission",
       "date": "1951-12-12",
-      "what": "The Commission found that the United States agreed in Article II to convey 150 sections (96,000 acres) but conveyed only 82,808.23 acres in what is now northeastern Oklahoma and southeastern Kansas, a shortage of 13,191.77 acres, and that Congress paid $39,423.03 for the shortage by an act of 1891. It also held that the 1833 land could not be set off against the Quapaw award for the 1824 cession.",
+      "what": "The Commission found that the United States agreed in Article II to convey 150 sections (96,000 acres) but selected and conveyed only 82,808.23 acres in what is now northeastern Oklahoma and southeastern Kansas, 13,191.77 acres short, and that Congress paid $39,423.03 for the shortage by the act of March 3, 1891.",
       "whoFoundIt": "Indian Claims Commission, Quapaw Tribe v. United States, Docket 14, Opinion of December 12, 1951 and Additional Findings of Fact, 1 Ind. Cl. Comm. 644",
       "source": {
         "title": "Quapaw Tribe v. United States, Docket 14, Opinion of the Commission (December 12, 1951)",
@@ -34,7 +34,18 @@
   "landTaken": "The Article II home was delivered 13,191.77 acres short of the 96,000 acres promised (Commission findings, Docket 14).",
   "compensation": "Congress appropriated $39,423.03 for the 13,191.77 acres not conveyed, by the act of March 3, 1891, 26 Stat. 989, 998 (Commission findings, Docket 14). The Commission said the sum was accepted in lieu of the missing land.",
   "today": "In the same docket the Commission found that the Quapaw were paid an unconscionable consideration for the land they ceded in 1824 and refused to count the 1833 land as payment for it (Opinion of March 15, 1951 and Opinion of December 12, 1951).",
-  "nationVoice": [],
+  "plain": {
+    "promised": "A permanent home of 150 sections west of the Missouri line, protected from disturbance, plus removal costs, provisions, tools, a farmer, a blacksmith, school money, and $2,000 a year for twenty years.",
+    "happened": "The Indian Claims Commission found in 1951 that the United States conveyed only 82,808.23 of the 96,000 acres promised, 13,191.77 acres short.",
+    "today": "Congress paid $39,423.03 for the missing acres in 1891, which the Commission said was accepted in place of the land. The Commission separately found the Quapaw were paid an unconscionable consideration for land ceded in 1824."
+  },
+  "nationVoice": [
+    {
+      "nation": "Quapaw Nation (O-Gah-Pah)",
+      "summary": "The Nation says that by 1833, with annuities still delayed, settlers pushing its people out and the federal government refusing their effort to buy land, the Quapaw had no options left and signed the 1833 treaty giving up the Red River land for a tract in Indian Territory.",
+      "url": "https://www.quapawtribe.com/598/Saracen"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Quapaw, 1833 (Kappler, vol. 2, p. 395)",
@@ -55,6 +66,11 @@
       "title": "Quapaw Tribe v. United States, Docket 14, Opinion of the Commission (March 15, 1951)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/37",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Saracen",
+      "url": "https://www.quapawtribe.com/598/Saracen",
+      "publisher": "Quapaw Nation"
     }
   ],
   "openQuestions": [
@@ -62,7 +78,8 @@
     "The March 15, 1951 opinion gives the 1891 shortage payment as $39,575.31 in one sentence and $39,423.03 in another; the additional findings and the December 1951 opinion give $39,423.03, which is used here.",
     "The collection dates the additional findings (item 349) 1995-12-06, which cannot be right for 1 Ind. Cl. Comm. 644; it was entered in the Docket 14 proceedings of 1951.",
     "Whether the Article III goods, the education money and the twenty $2,000 annuities were delivered in full was not traced.",
-    "No history page from the Quapaw Nation about the 1833 treaty was found (quapawtribe.com history pages did not load their text)."
+    "No history page from the Quapaw Nation about the 1833 treaty was found (quapawtribe.com history pages did not load their text).",
+    "Audit 2026-11-08: breach 'what' reworded: the sentence on the 1824 set-off was removed from it (it concerns the 1824 cession and stays in 'today'). Checked against the Dec. 12, 1951 opinion (1 Ind. Cl. Comm. 644) and Finding 15 of the additional findings. The Commission made no award on the shortfall: it records that the $39,423.03 was accepted in lieu of the missing land. Status left broken because the status rules count a Commission finding that a promise was not performed, and payment 58 years later is compensation, not performance; Jordan may decide otherwise. The 1891 citation 26 Stat. 989, 998 is legible in the March 15, 1951 opinion."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

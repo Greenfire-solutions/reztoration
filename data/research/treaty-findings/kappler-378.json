@@ -1,0 +1,51 @@
+{
+  "id": "kappler-378",
+  "name": "Treaty with the Shawnee, etc., 1832 (Treaty of Castor Hill with the Shawnee and Delaware late of Cape Girardeau)",
+  "aka": [
+    "Castor Hill treaty with the Shawanoes and Delawares, October 26, 1832"
+  ],
+  "signed": "1832-10-26",
+  "proclaimed": "1833-02-12",
+  "citation": "7 Stat. 397",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-shawnee-etc-1832-0370",
+  "nations": [
+    "Shawnee (Shawanoe) bands late of Cape Girardeau",
+    "Delaware (Lenape) bands late of Cape Girardeau"
+  ],
+  "promises": [
+    "The Delaware and Shawnee late of Cape Girardeau ceded all their lands in Missouri and all claims for lost property and improvements (Article I).",
+    "The Delaware would receive $2,000 in livestock, $1,000 for breaking and fencing ground, $2,500 for a miller and mill repairs for five years, and $1,500 for a school for three years (Article II).",
+    "The Delaware would receive $5,000 in merchandise, $12,000 applied to debts they acknowledged, and $1,000 paid at signing (Article III).",
+    "The Shawnee would receive $1,200 at signing and $500 more on removal to their lands on the Kansas River, with provisions for a year, in full of all their claims (Article IV)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "The consideration is the goods and money listed in Articles II to IV. No Indian Claims Commission award for this cession was identified.",
+  "today": "No Indian Claims Commission decision naming this treaty was found in the Oklahoma State University collection. The Shawnee dockets opened (334, 334-A, 334-B on the 1854 Kansas cession; 64, 335 and 338, settled by compromise on June 3, 1977 for $1,745,146.86, whose findings describe the Commission's Greenville Treaty title decision) do not mention it in the text read.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Shawnee, etc., 1832 (Kappler, vol. 2, p. 370)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-shawnee-etc-1832-0370",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Indian Land Cessions in the United States (Royce, 1899), schedule entries for October 1832",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/740/mode/2up",
+      "publisher": "Internet Archive (Smithsonian Institution, Bureau of American Ethnology)"
+    },
+    {
+      "title": "Shawnee Tribe v. United States, Dockets 64, 335 and 338, Findings of Fact on Compromise Settlement (June 3, 1977)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2329",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json gives the schedule tribes as 'Shawnee nation residing in Missouri' and 'Delaware [supplemental to treaty of Oct. 3, 1818]' with Royce cessions 125, 126 and 150a. Royce's own entry for October 26, 1832 reads 'Shawnee and Delaware, late of Cape Girardeau' (7 Stat. 397). The listed areas may belong to the Shawnee treaty of November 7, 1825 and the Delaware supplement of September 24, 1829 rather than to this treaty. Not edited.",
+    "The 1977 Shawnee compromise disposed of all claims the plaintiffs asserted or could have asserted in Dockets 64, 335 and 338; whether a Cape Girardeau claim was among them was not established.",
+    "Whether the Delaware mill, school and livestock payments were made was not checked against Interior or GAO records.",
+    "Shawnee Tribe, Absentee-Shawnee Tribe and Delaware Nation histories of the Cape Girardeau settlements were not located in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

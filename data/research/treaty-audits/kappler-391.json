@@ -1,0 +1,15 @@
+{
+  "id": "kappler-391",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Treaty text, signing and proclamation dates and Statutes at Large citation checked against the OSU Kappler edition (7 Stat. 411, proclaimed March 22, 1833)",
+    "Promises checked against Arts. I to IV, including the $1,000 split $600/$400",
+    "Order of September 29, 1978 (item 2724): Dockets 341-A to D transferred with only attorney expense applications pending",
+    "ICC search 'Seneca Shawnee' returned nothing; 'Eastern Shawnee' hits (Docket 334-A, Docket 64) do not concern this treaty on a quick read"
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Docket 334-A not read in full"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "cession-1891-03-03-potawatomi",
+  "name": "Agreement with the Citizen Band of Potawatomi of June 25, 1890, ratified by the Act of March 3, 1891",
+  "aka": [
+    "Citizen Band Potawatomi cession of 1890"
+  ],
+  "signed": "1890-06-25",
+  "ratified": "1891-03-03",
+  "citation": "Act of March 3, 1891, 26 Stat. 989, 1016",
+  "textUrl": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/163",
+  "nations": [
+    "Citizen Potawatomi Nation (Citizen Band of Potawatomi)"
+  ],
+  "promises": [
+    "The Citizen Band gave up all its claim, title and interest in the Oklahoma tract set apart under the 1867 treaty, described as 575,870.42 acres (Article 1, as quoted by the Indian Claims Commission).",
+    "Allotments made and being made under the General Allotment Act were confirmed; if more than 1,400 Indians were allotted, $1 an acre of the excess was to be deducted from the payment (as summarized by the Commission).",
+    "The United States would pay the Band $119,790.75 if it was found that this sum had been kept from the Indians' funds to repay the original cost of the reservation under the 1867 treaty (as summarized by the Commission)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1964-12-30",
+      "what": "The Indian Claims Commission found that the $160,000 the United States paid for the 362,838.22 surplus acres ceded under this agreement was unconscionable for land worth $1,090,000, about $3.00 an acre, on June 25, 1890, and held the Citizen Band entitled to the difference of $930,000 less offsets.",
+      "whoFoundIt": "Indian Claims Commission, Docket 96, supplemental findings, opinion and interlocutory order of December 30, 1964",
+      "source": {
+        "title": "Citizen Band of Potawatomi Indians of Oklahoma v. United States, Docket 96, Opinion of the Commission (1964)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/734",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      },
+      "quote": "The consideration paid for this land was unconscionable"
+    }
+  ],
+  "landTaken": "The 362,838.22 unallotted acres of the 575,877-acre reservation (Royce area 506), after 213,044.78 acres were allotted to 1,487 Citizen Band members (Docket 96, Findings 14 and 17).",
+  "compensation": "$160,000 paid at the time (Docket 96, Finding 41 of 1964). The Commission's final judgment of August 27, 1968 gave a net recovery of $797,508.99 after offsets, including $119,790.75 found to be a gratuity.",
+  "today": "The Citizen Potawatomi Nation lists its headquarters at Shawnee, Oklahoma (potawatomi.org, checked 2026-11-08). The ceded land was opened to non-Indian settlement; the opening itself was not researched for this file.",
+  "plain": {
+    "promised": "In return for the Citizen Band's Oklahoma reservation, the United States confirmed allotments already made and would pay the Band $119,790.75 if that sum had been kept from its funds for the reservation's original cost.",
+    "happened": "The Indian Claims Commission found in 1964 that the $160,000 paid for 362,838.22 surplus acres was unconscionable for land worth $1,090,000.",
+    "today": "The Commission's 1968 final judgment gave the Citizen Band a net recovery of $797,508.99 after offsets. Whether it was paid has not been traced. The ceded land was opened to non-Indian settlement."
+  },
+  "nationVoice": [
+    {
+      "nation": "Citizen Potawatomi Nation",
+      "summary": "The Nation's history recalls that its people were told on several occasions that land farther from non-Indian society would belong to them forever, before the reservation they had bought in Indian Territory was divided.",
+      "url": "https://www.potawatomi.org/blog/2015/03/04/the-1867-potawatomi-treaty-encroachment-in-potawatomi-land-and-the-move-to-indian-territory/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma v. United States, Docket 96, Findings of Fact (1958), 6 Ind. Cl. Comm. 646",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/163",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma v. United States, Docket 96, Supplemental Findings of Fact (1964)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/757",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma v. United States, Docket 96, Opinion of the Commission (1964)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/734",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma v. United States, Docket 96, Interlocutory Order (1964)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/685",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma v. United States, Docket 96, Final Judgment (1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1195",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (1899), schedule p. 856, area 506",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/856/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "The 1867 Potawatomi treaty, encroachment in Potawatomi land and the move to Indian Territory",
+      "url": "https://www.potawatomi.org/blog/2015/03/04/the-1867-potawatomi-treaty-encroachment-in-potawatomi-land-and-the-move-to-indian-territory/",
+      "publisher": "Citizen Potawatomi Nation"
+    }
+  ],
+  "openQuestions": [
+    "The text of the 1890 agreement and of 26 Stat. 989 was not opened; the terms rest on the Commission's Finding 12 (1958). textUrl points to those findings.",
+    "The Absentee Shawnee ceded the same tract by a separate agreement of June 26, 1890 for $65,000 less $1 an acre for allotments above 650 (Docket 96, Finding 13). treaties.json lists only Potawatomi nations for this entry, and includes Michigan, Wisconsin and Indiana Potawatomi who were not parties. Treaties.json was not edited.",
+    "The 1964 interlocutory order's OCR reads $1,092,000 and $936,000; the same day's findings and opinion read $1,090,000 and $930,000, which are used here.",
+    "The Commission's 1958 findings quote the cession as 575,870.42 acres and its Finding 16 gives the reservation as 575,877 acres; the difference was not resolved."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

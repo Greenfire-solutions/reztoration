@@ -61,6 +61,11 @@
     "The Mississippi Band of Choctaw Indians' own published history of Article 14 was not found (choctaw.org history page returned 404); add it to nationVoice when located.",
     "Indian Claims Commission dockets on Choctaw land in Mississippi were not checked."
   ],
+  "plain": {
+    "promised": "In return for Choctaw land in Mississippi, the United States promised land in the west that no state could govern, a 640-acre section for each family who chose to stay, and an escort and food for those who moved.",
+    "happened": "The Supreme Court held in 1886 that the treaty was carried out to advance removal, not to secure Choctaw rights. In 1978 it recounted that the federal agent refused to record the claims of Choctaw who chose to stay.",
+    "today": "In 1886 the Court ordered judgment for the Choctaw Nation on an 1859 Senate award, unpaid annuities and lost land. Those who stayed are the Mississippi Band of Choctaw Indians, whose lands the Court held in 1978 are Indian country."
+  },
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"
 }

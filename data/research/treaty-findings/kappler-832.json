@@ -1,0 +1,88 @@
+{
+  "id": "kappler-832",
+  "name": "Treaty with the Potawatomi, 1861",
+  "aka": ["Treaty of the Kansas River Agency, 1861"],
+  "signed": "1861-11-15",
+  "ratified": "1862-04-15",
+  "proclaimed": "1862-04-19",
+  "citation": "12 Stat. 1191",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1861-0824",
+  "nations": ["Potawatomi: the bands that became the Citizen Potawatomi Nation and the Prairie Band Potawatomi Nation"],
+  "promises": [
+    "Article 2: allotments in severalty (a section to each chief, a half section to each headman, a quarter section to each other head of family, 80 acres to others), set apart for the perpetual and exclusive use of the allottees and their heirs and, until otherwise provided by law, exempt from levy, taxation or sale.",
+    "Article 3: an allottee found competent in the federal district court could receive a patent in fee and his share of the tribe's credits and of the land sale proceeds, becoming a citizen; only then would the land be taxable.",
+    "Article 4: an undivided reserve held in common, on the 1846 tenure, for those who chose to hold land in common.",
+    "Article 5: the surplus land to be sold to the Leavenworth, Pawnee and Western Railroad at no less than $1.25 an acre in gold or silver held in trust for the tribe, or, failing that, appraised and sold at auction for not less than $1.25 an acre.",
+    "Article 9: no part of the treaty to cancel any claim the Potawatomi had already made under earlier treaties."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "nation-statement",
+      "date": "2021-11-15",
+      "what": "The Citizen Potawatomi Nation writes that Kansas taxed the allotments as soon as patents were issued, before the allottees had received the money the treaty promised, so that many lost their land, and quotes its Cultural Heritage Center director, Dr. Kelli Mosteller, that the treaty as written was not the treaty as applied.",
+      "whoFoundIt": "Citizen Potawatomi Nation, '160th anniversary of becoming the Citizen Potawatomi' (November 15, 2021)",
+      "source": {
+        "title": "160th anniversary of becoming the Citizen Potawatomi",
+        "url": "https://www.potawatomi.org/blog/2021/11/15/160th-anniversary-of-becoming-the-citizen-potawatomi/",
+        "publisher": "Citizen Potawatomi Nation"
+      },
+      "quote": "the treaty, as it was written, was not the treaty as it was actually applied"
+    }
+  ],
+  "landTaken": "The Potawatomi reserve on the Kansas River (576,000 acres by Article 1, bought for $87,000 under the 1846 treaty) was divided into allotments, a reserve in common and surplus land for sale (Royce areas 433 and 434).",
+  "compensation": "Under the treaty, the proceeds of the surplus land sales were to be held in trust for the tribe. No Indian Claims Commission award for this treaty was found.",
+  "today": "The treaty divided the Potawatomi of Kansas into the allottees, who became the Citizen Band, and the Prairie Band, who held land in common; the Indian Claims Commission recorded the two as successors of the Potawatomi Nation (Docket 217, 1962). In 1952 the Commission dismissed a Prairie Band claim (Docket 15-A) that the 1909 commutation of its perpetual annuities, which followed the departure of the 1861 allottees, was unlawful. That ruling went for the United States and is not counted as a breach.",
+  "plain": {
+    "promised": "Family allotments that could not be taxed or sold until the law said otherwise, full title and citizenship only for those a court found competent, land held in common for others, and surplus land sold with the money held in trust.",
+    "happened": "The Citizen Potawatomi Nation says Kansas taxed the allotments before the allottees got the money the treaty promised, so many lost their land. No court or claims finding on this has been located.",
+    "today": "No Indian Claims Commission award for this treaty was found, and whether the surplus land money reached the tribe was not traced. The treaty split the tribe into the Citizen Band and the Prairie Band."
+  },
+  "nationVoice": [
+    {
+      "nation": "Citizen Potawatomi Nation",
+      "summary": "The Nation marks November 15, 1861 as the day it became the Citizen Potawatomi, and says the allotment and citizenship terms were applied by Kansas and federal officials in ways that cost many families their land.",
+      "url": "https://www.potawatomi.org/blog/2021/11/15/160th-anniversary-of-becoming-the-citizen-potawatomi/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Potawatomi, 1861 (Kappler, vol. 2, p. 824)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1861-0824",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "160th anniversary of becoming the Citizen Potawatomi",
+      "url": "https://www.potawatomi.org/blog/2021/11/15/160th-anniversary-of-becoming-the-citizen-potawatomi/",
+      "publisher": "Citizen Potawatomi Nation"
+    },
+    {
+      "title": "Pottawatomie Tribe and Prairie Band v. United States, Docket 15-A, Opinion of the Commission (June 5, 1952)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/433",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians of Oklahoma et al. v. United States, Docket 217, Findings of Fact (November 29, 1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/843",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians in Oklahoma v. United States, Docket 96, Findings of Fact (September 18, 1958)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/163",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 824",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/824/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "Docket 96 (1958 findings) records that the Leavenworth, Pawnee and Western Railroad did not exercise its option and that a later treaty gave the Atchison, Topeka and Santa Fe an option instead; whether the surplus land brought the $1.25 an acre Article 5 required, and whether the proceeds reached the tribe, was not traced. That is the most likely route to a formal finding.",
+    "Whether any court or the Commission ruled on Kansas taxing allotments before the Article 3 conditions were met was not found.",
+    "The Prairie Band Potawatomi Nation's own account of this treaty was not looked for in this pass.",
+    "treaties.json lists all seven present-day Potawatomi nations; the treaty was made with the Potawatomi then on the Kansas River reserve, whose successors the Commission identified as the Citizen Band and the Prairie Band."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

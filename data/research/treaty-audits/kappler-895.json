@@ -16,5 +16,23 @@
   "unverifiable": [
     "Flute v. United States (10th Cir. 2015): FindLaw is behind a Cloudflare challenge and no other copy loaded; the quote, the $39,050 appropriation and the sovereign immunity holding were not re-checked.",
     "Steve Brady testimony PDF not re-opened."
+  ],
+  "followUp": [
+    {
+      "date": "2026-11-08",
+      "task": "Find a qualifying finding that the Article 6 Sand Creek reparations were never paid or the lands never granted.",
+      "verdict": "no qualifying source found; status stays contested",
+      "checked": [
+        "ICC Dockets 329, 329-A, 329-B, 348 decisions (10 pointers): no mention of Sand Creek or Article 6.",
+        "Public Law 106-465 findings: no reparations language.",
+        "S. Rept. 106-418: victims \"received minor compensation\"; \"little was actually done\" (records partial payment, not non-payment). S. Rept. 108-323 and 109-20 say the same.",
+        "H. Ex. Doc. 104, 40th Cong., 2d Sess. (1868): Article 5 survey estimate; also records tribal assent to the Senate amendments on November 10, 1866."
+      ],
+      "changes": [
+        "Added three sources (P.L. 106-465, S. Rept. 106-418, H. Ex. Doc. 104).",
+        "Resolved the assent open question from H. Ex. Doc. 104.",
+        "Recorded the search and remaining leads in openQuestions. No breach added, status unchanged."
+      ]
+    }
   ]
 }

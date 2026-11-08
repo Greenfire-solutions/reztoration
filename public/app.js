@@ -284,8 +284,10 @@ function routeFromHash() {
     const t = state.tById.get(state.selected.id);
     if (t) t.mesh.material.opacity = 0.28;
   }
-  if (kind === 'library') { openLibrary(id); return; }
+  if (kind === 'library') { brokenEl.hidden = true; openLibrary(id); return; }
   libEl.hidden = true;
+  if (kind === 'broken') { openBroken(); return; }
+  brokenEl.hidden = true;
   if (kind === 'treaties') return openTreatyList();
   if (kind === 'businesses') return openBusinessList();
   if (!kind || !id) { panel.hidden = true; state.selected = null; groups.focus.clear(); return; }
@@ -832,6 +834,66 @@ async function openCession(id) {
     <h3>By these treaties and acts</h3>${d.treaties.map(treatyRow).join('') || '<p class="empty">No treaty recorded for this area.</p>'}
     ${d.homelands.length ? `<h3>Inside the homelands of</h3><div class="links">${d.homelands.map((x) => `<a href="#territory/${encodeURIComponent(x.id)}">${esc(x.name)}</a>`).join('')}</div>` : ''}
     <p class="note">Area drawn from Royce's 1899 survey, digitised by the US Forest Service. It is the government's record of what was taken, not the nation's own map.</p>`;
+}
+
+// ---------- Broken treaties: every documented wrong, readable in seconds ----------
+const brokenEl = $('#broken');
+const bt = { data: null, status: '', state: '', q: '', sort: 'old', shown: 0, list: [] };
+const BT_PAGE = 30;
+async function openBroken() {
+  brokenEl.hidden = false;
+  panel.hidden = true;
+  state.selected = null;
+  if (!bt.data) {
+    brokenEl.querySelector('.bt-cards').innerHTML = '<p class="sub">Gathering the treaties…</p>';
+    try { bt.data = await getJSON('/api/broken'); } catch { brokenEl.querySelector('.bt-cards').innerHTML = '<p class="empty">Could not load the treaties.</p>'; return; }
+    const d = bt.data;
+    brokenEl.querySelector('.bt-tally').innerHTML = `<b>${d.cards.length}</b> treaties with a documented wrong, out of <b>${d.researched}</b> researched so far (${d.total} in all).`;
+    brokenEl.querySelector('.bt-status').innerHTML = Object.entries(d.statuses).map(([k, v]) => `<button data-s="${k}" title="${esc(v.note)}">${dot(k)}${esc(v.label)} <b>${v.count}</b></button>`).join('');
+    const sel = brokenEl.querySelector('.bt-state');
+    sel.insertAdjacentHTML('beforeend', Object.keys(d.states).sort().map((s) => `<option value="${esc(s)}">${esc(s)} (${d.states[s]})</option>`).join(''));
+    brokenEl.querySelectorAll('[data-s]').forEach((b) => b.addEventListener('click', () => { bt.status = bt.status === b.dataset.s ? '' : b.dataset.s; brokenEl.querySelectorAll('[data-s]').forEach((x) => x.classList.toggle('on', x.dataset.s === bt.status)); drawBroken(); }));
+    sel.addEventListener('change', (e) => { bt.state = e.target.value; drawBroken(); });
+    brokenEl.querySelector('.bt-sort').addEventListener('change', (e) => { bt.sort = e.target.value; drawBroken(); });
+    let tmr;
+    brokenEl.querySelector('.filter').addEventListener('input', (e) => { clearTimeout(tmr); tmr = setTimeout(() => { bt.q = e.target.value; drawBroken(); }, 150); });
+    brokenEl.querySelector('.more').addEventListener('click', (e) => { if (e.target.closest('.morebtn')) moreBroken(); });
+  }
+  drawBroken();
+}
+function drawBroken() {
+  const w = bt.q.toLowerCase().split(/\s+/).filter(Boolean);
+  bt.list = bt.data.cards.filter((c) => (!bt.status || c.status === bt.status) && (!bt.state || c.states.includes(bt.state)) &&
+    w.every((x) => `${c.name} ${c.date} ${c.nations.join(' ')} ${c.today.join(' ')} ${c.states.join(' ')}`.toLowerCase().includes(x)));
+  if (bt.sort === 'new') bt.list.reverse();
+  brokenEl.querySelector('.bt-count').textContent = `${bt.list.length} shown`;
+  brokenEl.querySelector('.bt-cards').innerHTML = bt.list.length ? '' : '<p class="empty">Nothing matches yet. The research reaches more treaties every round.</p>';
+  bt.shown = 0;
+  moreBroken();
+}
+function moreBroken() {
+  const next = bt.list.slice(bt.shown, bt.shown + BT_PAGE);
+  bt.shown += next.length;
+  brokenEl.querySelector('.bt-cards').insertAdjacentHTML('beforeend', next.map(brokenCard).join(''));
+  const left = bt.list.length - bt.shown;
+  brokenEl.querySelector('.more').innerHTML = left > 0 ? `<button class="morebtn">Show more (${left} left)</button>` : '';
+}
+function brokenCard(c) {
+  const year = (s) => String(s || '').slice(0, 4);
+  const found = c.foundBy ? `${esc(KIND_LABEL[c.foundBy.kind] || c.foundBy.kind)}${c.foundBy.date ? `, ${esc(year(c.foundBy.date))}` : ''}` : '';
+  const nations = c.nations.slice(0, 5).map((n) => `<span class="tag">${esc(n)}</span>`).join('') + (c.nations.length > 5 ? `<span class="tag">+${c.nations.length - 5}</span>` : '');
+  return `<article class="bt-card s-${esc(c.status)}">
+    <div class="bt-head">${dot(c.status)}<span class="bt-st">${esc({ broken: 'Broken', unratified: 'Never ratified', contested: 'Contested' }[c.status])}</span><span class="bt-yr">${esc(year(c.date))}</span></div>
+    <h3><a href="#treaty/${encodeURIComponent(c.id)}">${esc(c.name)}</a></h3>
+    <div class="bt-nations">${nations}</div>
+    ${c.voice ? `<div class="bt-voice"><div class="k">In the words of ${esc(c.voice.nation)}</div><p>${esc(c.voice.summary)}</p>${link(c.voice.url, 'Read it from the nation')}</div>` : ''}
+    <dl>
+      ${c.plain.promised ? `<dt>Promised</dt><dd>${esc(c.plain.promised)}</dd>` : ''}
+      ${c.plain.happened ? `<dt>What happened</dt><dd>${esc(c.plain.happened)}${found ? ` <span class="bt-found">${c.foundBy.url ? link(c.foundBy.url, `Found by: ${KIND_LABEL[c.foundBy.kind] || c.foundBy.kind}${c.foundBy.date ? `, ${year(c.foundBy.date)}` : ''}`) : found}</span>` : ''}</dd>` : ''}
+      ${c.plain.today ? `<dt>Today</dt><dd>${esc(c.plain.today)}</dd>` : ''}
+    </dl>
+    <a class="bt-more" href="#treaty/${encodeURIComponent(c.id)}">The full record, every source, and the land on the map</a>
+  </article>`;
 }
 
 function openTreatyList() {

@@ -1,0 +1,94 @@
+{
+  "id": "cession-1864-01-15-apache",
+  "name": "Executive Order of January 15, 1864 establishing the Bosque Redondo reserve at Fort Sumner, New Mexico",
+  "aka": [
+    "Bosque Redondo reservation, 1864",
+    "Fort Sumner reservation"
+  ],
+  "signed": "1864-01-15",
+  "citation": "Executive Order of January 15, 1864 (Royce area 448)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/830/mode/2up",
+  "nations": [
+    "Mescalero Apache Tribe",
+    "Navajo Nation (Diné)"
+  ],
+  "promises": [
+    "This was an executive order, not a treaty. Royce's schedule records that the President directed a reserve 40 miles square in New Mexico, with Bosque Redondo as its center.",
+    "No payment or land guarantee to the Mescalero is recorded in the order as Royce summarizes it; the reserve was a place of confinement for Mescalero people the Army had rounded up in 1862 and 1863, and later for the Navajo."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1966-07-07",
+      "what": "The Indian Claims Commission found that the Fort Sumner reservation lay in the northeastern part of Mescalero territory, that the attempt to confine the Mescalero there failed by the close of 1865, and that the United States later acquired the Indian title to the Mescalero aboriginal lands described in its Finding 37 without paying for them. It dated that taking to May 29, 1873, not to this order.",
+      "whoFoundIt": "Indian Claims Commission, Docket 22-B, findings of fact (Finding 35(e)) and interlocutory order of July 7, 1966, 17 Ind. Cl. Comm. 100 and 162",
+      "source": {
+        "title": "Mescalero Apache Tribe v. United States, Docket 22-B, Findings of Fact (1966), 17 Ind. Cl. Comm. 100",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1403",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1967-04-27",
+      "what": "Before the land was valued, the Mescalero and the United States settled Docket 22-B for $8,500,000; the Commission approved the compromise.",
+      "whoFoundIt": "Indian Claims Commission, Docket 22-B, final judgment of April 27, 1967, 18 Ind. Cl. Comm. 380",
+      "source": {
+        "title": "Mescalero Apache Tribe v. United States, Docket 22-B, Final Judgment (1967), 18 Ind. Cl. Comm. 380",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1524",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "Royce area 448, a reserve 40 miles square around Bosque Redondo. Royce records that the Apache left it in 1865, the Navajo left after their treaty of June 1, 1868, and the Commissioner of Indian Affairs advised on July 21, 1871 that it was no longer needed for Indian purposes. No acreage was found in a source opened.",
+  "compensation": "None for this reserve as such. The Mescalero aboriginal land claim that includes the Fort Sumner area ended in a compromise judgment of $8,500,000 in 1967 (Docket 22-B).",
+  "today": "The reserve no longer exists. The Mescalero Apache Tribe holds the Mescalero Apache Reservation created by the executive order of May 29, 1873.",
+  "plain": {
+    "promised": "Not a treaty: a presidential order for a reserve 40 miles square around Bosque Redondo, New Mexico. No payment or land guarantee to the Mescalero is recorded; it was a place of confinement, later also for the Navajo.",
+    "happened": "The Indian Claims Commission found in 1966 that the attempt to confine the Mescalero there failed by the close of 1865, and that the United States later took Mescalero lands without paying, dating that taking to 1873, not to this order.",
+    "today": "The reserve no longer exists, and nothing was paid for it as such. The Mescalero land claim that includes this area ended in a compromise judgment of $8,500,000 in 1967. The Mescalero Apache Tribe holds its 1873 reservation."
+  },
+  "nationVoice": [
+    {
+      "nation": "Mescalero Apache Tribe",
+      "summary": "The Tribe's own history says its reservation, long recognized in Spanish, Mexican and American treaties, was formally established by President Grant's order of May 29, 1873, and covers only part of its former homeland.",
+      "url": "https://mescaleroapachetribe.com/our-culture/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 830-831, area 448",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/830/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Mescalero Apache Tribe v. United States, Docket 22-B, Findings of Fact (1966), 17 Ind. Cl. Comm. 100",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1403",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Mescalero Apache Tribe v. United States, Docket 22-B, Interlocutory Order (1966), 17 Ind. Cl. Comm. 162",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1062",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Mescalero Apache Tribe v. United States, Docket 22-B, Final Judgment (1967), 18 Ind. Cl. Comm. 380",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1524",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Our Culture",
+      "url": "https://mescaleroapachetribe.com/our-culture/",
+      "publisher": "Mescalero Apache Tribe"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json lists all seven federally recognized Apache tribes for this entry. Royce's 'Apache' here are the Mescalero, and Royce records the Navajo were removed to the same reserve; the Navajo Nation is not in presentDayTribes. Treaties.json was not edited.",
+    "The text of the January 15, 1864 order was not opened: the UGA copy linked in treaties.json (448r.pdf) did not load on 2026-11-08. The description rests on Royce's schedule.",
+    "Whether the whole 40-mile square lies inside the area of the Commission's Finding 37 was not plotted; the Commission only says Fort Sumner was in the northeastern part of Mescalero territory.",
+    "The Navajo Nation's claims for the Bosque Redondo period (Navajo ICC Docket 229 and the 1868 treaty) were not researched for this file."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

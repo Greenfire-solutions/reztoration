@@ -87,5 +87,10 @@
     "Audit 2026-11-08: Removed 'about 29 cents an acre' from the breach: a figure the researcher computed, not one the Commission states. First promise re-cited: the separate reservation is set by Article I and the agency's boundary clause, not Article II, which is the cession. Compensation: the $4,300,000 total is the Commission's figure; the Act itself gives only the annual amounts per agency."
   ],
   "researchedAt": "2026-11-07",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "plain": {
+    "promised": "The Assiniboine and Sioux at Fort Peck kept a separate reservation, and $165,000 a year for ten years would be spent on cattle, food, clothing, tools, schooling and medical care, in return for giving up the rest of the joint reservation.",
+    "happened": "The Indian Claims Commission found in 1967 that the 14,969,156 acres ceded under these agreements were worth $11,975,324.80, and that the $4,300,000 promised was unconscionable on its face.",
+    "today": "In 1968 the Fort Peck Sioux received a $1,161,354.41 final judgment, and the Assiniboine of Fort Peck and Fort Belknap $3,108,506.40. The Fort Peck Reservation is governed by the Assiniboine and Sioux Tribes."
+  }
 }
