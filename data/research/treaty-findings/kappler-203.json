@@ -14,7 +14,7 @@
   "promises": [
     "Article 1: the Creek Nation kept title and possession of 1,000 acres around the Indian Spring and 640 acres on the Ocmulgee River at McIntosh's improvements, out of the cession east of the Flint River.",
     "Article 2: tracts of one mile square stayed Creek land for as long as the named occupants remained on them.",
-    "Article 4: the United States would pay the Creek Nation $10,000 at signing, $40,000 after ratification, and then annual sums over fourteen years.",
+    "Article 4: the United States would pay the Creek Nation $10,000 at signing, $40,000 after ratification, and then annual sums, fourteen payments in fourteen successive years in all.",
     "Article 4: as further payment for the cession, the United States would pay Georgia whatever balance was found due from the Creek Nation to Georgia citizens, up to $250,000, under the reference the parties made."
   ],
   "status": "broken",
@@ -32,7 +32,7 @@
       "quote": "The committee cannot but regard the $250,000 as the fund of the Creek nation."
     }
   ],
-  "compensation": "The 1848 Senate report says the $141,055.91 balance was paid in a lump sum to Wilson Lumpkin, governor of Georgia, on March 2, 1835, under the Act of June 30, 1834 (4 Stat. 721). Whether the Creek Nation was later repaid was not found.",
+  "compensation": "The 1848 Senate report says the $141,055.91 balance was paid in a lump sum to Wilson Lumpkin, governor of Georgia, on March 2, 1835, under the Act of June 30, 1834 (4 Stat. 721). No act repaying that sum to the Creek Nation was found. In Article 5 of the Creek and Seminole treaty of August 7, 1856 (11 Stat. 699) the Creek Nation released all claims against the United States not secured by existing treaties and laws, for the consideration in Article 6; the treaty does not name this claim.",
   "today": "No Indian Claims Commission or court decision on this cession or on the Georgia claims balance was found. The 1848 report accompanied Senate bill No. 329; what became of the bill was not traced.",
   "nationVoice": [
     {
@@ -66,17 +66,23 @@
       "title": "Act of March 3, 1823, ch. 27, 3 Stat. 749-750 (appropriation to purchase the Georgia tracts reserved to the Creeks by the treaty of January 8, 1821)",
       "url": "https://www.govinfo.gov/content/pkg/STATUTE-3/pdf/STATUTE-3-Pg750.pdf",
       "publisher": "US Government Publishing Office"
+    },
+    {
+      "title": "Treaty with the Creeks, etc., 1856 (Kappler, vol. 2, p. 756)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-creeks-etc-1856-0756",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
     }
   ],
   "openQuestions": [
-    "Whether Congress ever repaid the $141,055.91 to the Creek Nation was not found; the report's bill (S. No. 329) was not traced.",
+    "Whether Congress ever repaid the $141,055.91 to the Creek Nation was not found; the report's bill (S. No. 329) was not traced, the 1852 Indian appropriation act (10 Stat. 41) has no such item, and the general release in the 1856 treaty may have extinguished the claim.",
     "No Indian Claims Commission docket on the 1821 cession itself was found; Creek Docket 21 concerns the 1814 Fort Jackson cession. A deeper pass could search the Commission's 1978 Final Report docket list.",
-    "treaties.json gives Royce areas 116, 129 and 130 and an empty presentDayTribes list. Royce's 1821 entry text was read but the OCR does not show which area numbers belong to the cession and which to the reserves; areas 129 and 130 may be the Indian Spring and McIntosh reserves, later ceded in 1825. Not settled. The Muscogee (Creek) Nation is the evident successor but no present-day tribe is listed in treaties.json."
+    "treaties.json gives Royce areas 116, 129 and 130 and an empty presentDayTribes list. Royce's 1821 entry text was read but the OCR does not show which area numbers belong to the cession and which to the reserves; areas 129 and 130 may be the Indian Spring and McIntosh reserves, later ceded in 1825. Not settled. The Muscogee (Creek) Nation is the evident successor but no present-day tribe is listed in treaties.json.",
+    "Audit 2026-11-08: the Senate report was reopened and the breach text and quote match it. The breach rests on a Senate committee report, which the researcher rules list as a government admission; the report also records that Attorney General Wirt had held the balance belonged to the Creek Nation. It is a committee's view, not an enacted finding, and no repayment was located. Article 4 promise reworded (fourteen payments in all, including the first two); the 1856 release added to compensation."
   ],
   "plain": {
     "promised": "The Creeks kept two small reserves, received payments over fourteen years, and up to $250,000 of the price was set aside to settle Georgia citizens' claims against them, with the balance theirs.",
     "happened": "A Senate committee reported in 1848 that the $141,055.91 left after the President's awards belonged to the Creek Nation but was paid to Georgia's governor in 1835 without examining claims.",
-    "today": "No record was found that the Creek Nation was ever repaid this balance."
+    "today": "No record was found that the Creek Nation was ever repaid this balance; an 1856 treaty released Creek claims against the United States in general terms."
   },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

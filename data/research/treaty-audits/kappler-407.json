@@ -1,0 +1,21 @@
+{
+  "id": "kappler-407",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "OSU/Kappler p. 398 prints two June 18, 1833 relinquishments: Mulatto King and Tustenuggy Hajo (7 Stat. 427, proclaimed Apr. 12, 1834) and Econchatimico (7 Stat. 428).",
+    "Royce schedule (1823 and 1833 rows): one cession 'with the Appalachicola band' (Yellow Hare's improvements, Mulatto King) and a separate one 'with certain chiefs in Florida' (Econchatimico's Chattahoochee reserve). treaties.json maps kappler-406/area 184 to the Appalachicola band and kappler-407/area 185 to certain chiefs in Florida.",
+    "Econchatimico text: three sections by patent within three years; annuity share; $3,000 if they join the Seminoles west.",
+    "Patents question: no court, ICC or government finding located; ExploreSouthernHistory (historian) says Econchatimico received the $3,000 in October 1838 and went west under escort."
+  ],
+  "changes": [
+    "File rewritten for the Econchatimico relinquishment (7 Stat. 428): name, citation, nations, promises, today, sources, plain. The previous content described the Mulatto King relinquishment, which belongs to kappler-406.",
+    "Proclamation date removed: Kappler gives none for the second relinquishment. Status stays no-breach-found."
+  ],
+  "unverifiable": [
+    "Whether the three-section patent issued; General Land Office records were not searched."
+  ],
+  "treatiesJsonErrors": [
+    "kappler-406 (area 184) has no findings file; its treaty is the Mulatto King and Tustenuggy Hajo relinquishment, which kappler-407 had described by mistake."
+  ]
+}

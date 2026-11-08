@@ -1,0 +1,19 @@
+{
+  "id": "kappler-1004",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "OSU text: Apr. 27, 1868, 16 Stats. 727, ratified June 6, proclaimed June 10, 1868; $75,000 within ten days to the Secretary as trustee; settlers' land under Article 17 reserved; about 800,000 acres.",
+    "Holden v. Joy, 84 U.S. 211 (1872), govinfo PDF: the 1866 cession in trust held lawful; decree affirmed. Correctly kept out of breaches."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [
+    "Whether Joy paid the deferred payments was not traced (already an open question).",
+    "Cherokee Court of Claims opinions in the Caselaw Access Project (1926-1953) were listed by name but not read for the Neutral Lands proceeds."
+  ],
+  "treatiesJsonErrors": [
+    "Royce area 490 belongs to the 1866 Cherokee treaty (Article 17); this 1868 article only reassigned the sale contract."
+  ]
+}

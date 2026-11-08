@@ -1,0 +1,21 @@
+{
+  "id": "cession-1872-07-02-methow-okanagan",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "1956 opinion (id 14): no treaty of cession and no payment were stipulated by the parties; interlocutory order to adjudge defendant liable for each petitioner's lands. 1959 opinion (id 191): lands outside the July 2, 1872 reservation acquired July 2, 1872 without compensation, liable for value. Second interlocutory order (id 248): Colville $111,000, Sanpoil-Nespelem $436,000, Okanogan $237,000, Methow $152,000. Final judgment March 1, 1960 (id 568): total net recovery $1,000,000 after $61,000 offsets.",
+    "Act of July 1, 1892, ch. 140, 27 Stat. 62-63 opened: north half, about one million five hundred thousand acres, vacated and restored to the public domain notwithstanding any executive order. It took part of the reservation this order created, so broken stands on it.",
+    "1967 compromise findings (id 2196): about 2,900,000 acres, May 9, 1891 agreement, $1,500,000, Act of June 21, 1906, five instalments of $300,000 (all as the petitioners' claim is summarized); final judgment (id 2050) $3,500,000.00, Docket 177 dismissed."
+  ],
+  "changes": [
+    "Quote corrected: the statute reads lower-case \"vacated\", not \"Vacated\".",
+    "Commission breach reworded: \"no treaty of cession, never paid\" was the parties' stipulation, not a Commission finding.",
+    "1892 Act whoFoundIt notes the 1967 account of the unratified agreement is the petitioners' claim as summarized."
+  ],
+  "unverifiable": [
+    "The Colville Tribes' own history page not retried."
+  ],
+  "treatiesJsonErrors": [
+    "Royce 533 (the revoked April 9, 1872 tract) carries a statute link (533c.pdf), though that tract was restored by executive order."
+  ]
+}

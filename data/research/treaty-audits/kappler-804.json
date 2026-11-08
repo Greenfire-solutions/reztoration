@@ -1,0 +1,19 @@
+{
+  "id": "kappler-804",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "ICC Docket 219 Final Award (1818, identifier v18_p639), Opinion (1535, p. 612), Findings (2643, p. 558), all Sept. 29, 1967: 285,658.20 acres sold 1864-65 for $282,557.48; value $856,974.60; fiduciary breach quote exact; $574,417.12; $324,991.42 for the 1867 cession; net $899,408.54; no offsets.",
+    "OSU text: Oct. 1, 1859, 15 Stat. 467, ratified June 27, proclaimed July 9, 1860; 153,600 acres; 80 acres each; no white person except US employees; sealed-bid sale to the highest bidder."
+  ],
+  "changes": [
+    "Final Award citation corrected from 18 Ind. Cl. Comm. 558 to 639 (558 is the findings); opinion and findings source titles given their pages.",
+    "plain.happened said the land sold for 'about a third of its value', a ratio not in the file; replaced with the Commission's two figures."
+  ],
+  "unverifiable": [
+    "Whether the award was appealed was not checked."
+  ],
+  "treatiesJsonErrors": [
+    "kappler-804 presentDayTribes lists only the Iowa tribe; the Docket 219 plaintiffs included the Sac and Fox Tribe of Oklahoma."
+  ]
+}

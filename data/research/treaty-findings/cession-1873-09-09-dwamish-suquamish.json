@@ -1,64 +1,68 @@
 {
   "id": "cession-1873-09-09-dwamish-suquamish",
-  "name": "Executive order of September 9, 1873 defining the Port Madison Reservation (Treaty of Point Elliott)",
+  "name": "Executive order of September 9, 1873 fixing the northern boundary of the Swinomish Reservation (Treaty of Point Elliott)",
   "aka": [
-    "Port Madison Reservation order"
+    "Swinomish Reservation northern boundary order"
   ],
   "signed": "1873-09-09",
   "citation": "Executive Order of September 9, 1873",
-  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/864/mode/2up",
+  "textUrl": "https://www.presidency.ucsb.edu/documents/executive-order-defining-northern-boundary-swinomish-reservation",
   "nations": [
-    "Suquamish Tribe",
-    "Duwamish"
+    "Swinomish Indian Tribal Community"
   ],
   "promises": [
-    "Royce records an 1873 order on this reserve as made simply to cure the indefinite language of the Treaty of Point Elliott of January 22, 1855, which set apart the Port Madison reserve.",
-    "The Suquamish Tribe states that the Treaty of Point Elliott provided that the Port Madison Indian Reservation be held in trust for the tribe by the federal government."
+    "The Treaty of Point Elliott of January 22, 1855 reserved the peninsula at the southeast end of Perry's Island, called Shais-quihl, for the Swinomish; Royce records that this order fixed its northern boundary 'to render more certain the indefinite language of the treaty'.",
+    "The order sets the northern line from low-water mark on Similk Bay, along surveyed section lines in township 34 north, range 2 east, to low-water mark on Padilla Bay."
   ],
   "status": "contested",
   "breaches": [
     {
       "kind": "nation-statement",
-      "date": "1907",
-      "what": "The Suquamish Tribe states that after allotment much reservation land was sold without the owners' consent by federal agents who declared owners non-competent under a 1907 act, that later certificates of competency removed land from trust, and that many members lost land for state taxes they could not pay.",
-      "whoFoundIt": "Suquamish Tribe, History and Culture page",
+      "date": "2016-12-14",
+      "what": "Swinomish Chairman Brian Cladoosby said the reservation boundaries promised by the 1855 treaty were changed by an executive order in 1873 that President Grant lacked authority to make, and that the tribe has contested it since 1873.",
+      "whoFoundIt": "Swinomish Chairman Brian Cladoosby, as reported by Indianz.com from The Anacortes American",
       "source": {
-        "title": "History and Culture",
-        "url": "https://suquamish.nsn.us/home/about-us/history-culture/",
-        "publisher": "Suquamish Tribe"
+        "title": "Swinomish Tribe seeks recognition of original reservation boundaries",
+        "url": "https://indianz.com/News/2016/12/14/swinomish-tribe-seeks-recognition-of-ori.asp",
+        "publisher": "Indianz.com"
       }
     }
   ],
-  "today": "The Suquamish Tribe states that a large share of reservation land is owned by non-Indian residents and that buying land back on the reservation is a major tribal goal.",
+  "today": "Indianz.com reported in December 2016 that the Swinomish Tribe was asking for recognition of the reservation boundary it says the 1855 treaty promised, and that the request was contested locally. No court or Indian Claims Commission finding on the 1873 order was located.",
   "nationVoice": [
     {
-      "nation": "Suquamish Tribe",
-      "summary": "The Tribe says it was forced onto individual allotments in 1904 after the destruction of Old Man House in 1870, and that allotted land was then lost through sales by federal agents without owners' consent, competency certificates and state taxes.",
-      "url": "https://suquamish.nsn.us/home/about-us/history-culture/"
+      "nation": "Swinomish Indian Tribal Community",
+      "summary": "Through its chairman, the Tribe says the 1873 order changed the boundaries the 1855 treaty set and that the President had no authority to do so.",
+      "url": "https://indianz.com/News/2016/12/14/swinomish-tribe-seeks-recognition-of-ori.asp"
     }
   ],
   "sources": [
     {
-      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 864",
+      "title": "Executive Order: Defining Northern Boundary of Swinomish Reservation, September 9, 1873",
+      "url": "https://www.presidency.ucsb.edu/documents/executive-order-defining-northern-boundary-swinomish-reservation",
+      "publisher": "The American Presidency Project, UC Santa Barbara"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 800 and 864",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/864/mode/2up",
       "publisher": "Smithsonian Institution, via Internet Archive"
     },
     {
-      "title": "History and Culture",
-      "url": "https://suquamish.nsn.us/home/about-us/history-culture/",
-      "publisher": "Suquamish Tribe"
+      "title": "Swinomish Tribe seeks recognition of original reservation boundaries",
+      "url": "https://indianz.com/News/2016/12/14/swinomish-tribe-seeks-recognition-of-ori.asp",
+      "publisher": "Indianz.com"
     }
   ],
   "openQuestions": [
-    "This Royce record (area 349) is an executive order defining an existing treaty reserve, not a cession; the Point Elliott treaty has its own record. Matching Royce's note \"to cure the indefinite language of the treaty\" to the September 9, 1873 date rests on the scanned schedule, whose columns are jumbled.",
-    "No court or Indian Claims Commission finding on the loss of Port Madison land was located; the Commission's Suquamish case concerns the Point Elliott cession. Oliphant v. Suquamish Indian Tribe (1978) concerns criminal jurisdiction, not land, and was not used.",
-    "The Duwamish Tribe is not federally recognized and was not researched for this order; most Duwamish did not move to Port Madison.",
-    "The order's text was not opened."
+    "Audit 2026-11-08: this record was first researched as the Port Madison (Suquamish) reservation. Royce's 1873 schedule (p. 864) and the order's own text show the September 9, 1873 order fixed the northern boundary of the Swinomish reservation; Royce lists the parties as 'Dwamish and others', the Point Elliott signatories. The Suquamish allotment-loss statement was removed because it concerns Port Madison, not this order.",
+    "The Samish Indian Nation and local governments say the 1873 line is the legal boundary and that federal courts have ruled against the Swinomish on it; those rulings were not opened.",
+    "The Swinomish Tribe's own published account was not reached (its site returned a bot challenge); the tribal position is taken from a news report quoting its chairman.",
+    "No Indian Claims Commission decision on this order was located; the Commission's Swinomish case concerns the Point Elliott cession."
   ],
   "plain": {
-    "promised": "An 1873 order fixed the bounds of the Port Madison Reservation set apart by the 1855 Point Elliott treaty, which the Suquamish Tribe says was to be held in trust for the tribe.",
-    "happened": "The Suquamish Tribe says federal agents sold allotted land without owners' consent and state taxes took more. No court or commission finding was located.",
-    "today": "The Tribe says much of the reservation is owned by non-Indians and it is buying land back."
+    "promised": "The 1855 Point Elliott treaty reserved a peninsula on Perry's Island for the Swinomish. An 1873 order fixed the reservation's northern boundary to make the treaty's wording more certain.",
+    "happened": "The Swinomish chairman says the 1873 order changed the boundary the treaty promised and that the President had no power to do it. No court or commission finding was located.",
+    "today": "In 2016 the Swinomish asked for recognition of the boundary they say the treaty set; the request was contested."
   },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

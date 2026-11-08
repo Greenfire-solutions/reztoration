@@ -1,0 +1,15 @@
+{
+  "id": "kappler-400",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "ICC Docket 304 opinion (pointer 2190) and findings (1456), March 17, 1971, 25 Ind. Cl. Comm. 1: 6,743.82 + 20,237.92 acres, net 26,981.74; value $230,000 as of March 22, 1833; $29,440 unconscionable; $200,560 less offsets; quote exact.",
+    "Final Award (1887), 30 Ind. Cl. Comm. 206: $182,610.00 in full satisfaction, after stipulation that $17,950.00 claimed as offsets was paid. Adjudicated award, so claims-commission is right.",
+    "OSU text: Feb. 18, 1833, 7 Stat. 420, proclaimed Mar. 22, 1833; $29,440 for debts; $18,000 claim under the 1831 treaty."
+  ],
+  "changes": [
+    "Open question about the legibility of $182,610.00 resolved and replaced with an audit note."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": []
+}

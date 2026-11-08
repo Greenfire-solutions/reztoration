@@ -1,0 +1,22 @@
+{
+  "id": "cession-1873-06-16-nez-perc",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "University of Idaho copies of the 1873 order and the 1875 revocation are already cited by the researcher; not reopened.",
+    "Docket 186 opinion (id 2111): quote \"That was the United States' undertaking to settle the band on the 1873 reservation in their homeland.\" exact; Kuykendall and Vance concur in part and dissent in part.",
+    "Interlocutory order (id 1452) opened: compensable claim under clauses (1) and (5) for the withdrawal, by the Executive Order of June 10, 1875, of the Wallowa Reservation created June 16, 1873; value as of June 10, 1875. This is the liability finding.",
+    "Final award (id 1124): $725,000 on stipulation, October 31, 1974, kind litigation right."
+  ],
+  "changes": [
+    "Removed the June 10, 1875 revocation as a separate executive-action breach; the revocation alone is not a finding. It is now described inside the Commission breach.",
+    "Commission breach now cites the interlocutory order (id 1452), added to sources.",
+    "plain.happened rewritten to match."
+  ],
+  "unverifiable": [
+    "The 1873 and 1875 order texts (lib.uidaho.edu) were not reopened."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes lists the Nez Perce Tribe of Idaho twice under two spellings and omits the Confederated Tribes of the Colville Reservation, the Docket 186 claimant (the latter already noted in the file)."
+  ]
+}

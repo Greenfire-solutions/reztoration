@@ -1,0 +1,44 @@
+{
+  "id": "kappler-87",
+  "name": "Treaty with the Chickasaw, 1805",
+  "signed": "1805-07-23",
+  "ratified": "1807-05-22",
+  "proclaimed": "1807-05-23",
+  "citation": "7 Stat. 89",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-chickasaw-1805-0079",
+  "nations": [
+    "Chickasaw Nation"
+  ],
+  "promises": [
+    "Article 2: the United States would pay $20,000 for the nation and its debts to traders, $1,000 each to George Colbert and O'Koy, and a life annuity of $100 to Chinubbee Mingo, all in specie.",
+    "Article 3: the boundary would be marked with a Chickasaw representative, paid $2 a day by the United States.",
+    "Article 4: for three years no settlement would be made or permitted on a described part of the cession.",
+    "Article 1: a tract of one mile square below the mouth of Duck River was reserved for the chief O'Koy."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "No court, Indian Claims Commission or Court of Claims finding about this treaty was located. The Chickasaw Nation's Commission claims (Dockets 267, 268 and 269) concern the Leased District, Choctaw freedmen allotments and a tract left out of a Choctaw cession, not this cession.",
+  "sources": [
+    {
+      "title": "Treaty with the Chickasaw, 1805",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-chickasaw-1805-0079",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 668",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/668/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Chickasaw Nation v. United States, Docket 267, Opinion of the Commission (September 16, 1957)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/572",
+      "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "Whether settlers entered the Article 4 tract within three years was not researched.",
+    "The Chickasaw Nation's own account of the 1805 treaty was not located."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "cession-1873-11-08-coeur-d-al-ne",
+  "name": "Coeur d'Alene agreement of July 28, 1873 (never ratified) and the executive order of November 8, 1873 setting apart the Coeur d'Alene Reservation",
+  "aka": [
+    "Coeur d'Alene Reservation executive order, 1873",
+    "Unratified Coeur d'Alene agreement of 1873"
+  ],
+  "signed": "1873-07-28",
+  "citation": "Agreement of July 28, 1873 (never ratified by Congress); Executive Order of November 8, 1873",
+  "textUrl": "https://presidency.ucsb.edu/documents/executive-order-establishment-coeur-dalene-indian-reservation-idaho",
+  "nations": [
+    "Coeur d'Alene Tribe (Schitsu'umsh)"
+  ],
+  "promises": [
+    "Under the 1873 agreement made by three commissioners for the Interior Department, the Coeur d'Alene would give up their claim to the lands outside a described reservation, and that reservation would be set apart for them.",
+    "The executive order of November 8, 1873 withdrew the reservation from sale and set it apart \"as a reservation for the Coeur d'Alene Indians\", taking in the reserve of June 14, 1867 and more country around Coeur d'Alene Lake and the Spokane River."
+  ],
+  "status": "unratified",
+  "breaches": [
+    {
+      "kind": "never-ratified",
+      "date": "1873-07-28",
+      "what": "The agreement of July 28, 1873, in which the tribe agreed to give up all its lands outside the proposed reservation, was never ratified by Congress. The President set apart the reservation by executive order instead, and nothing further was done to secure a cession of the outside lands until the tribe petitioned in 1885.",
+      "whoFoundIt": "Indian Claims Commission, Docket 81, Findings of Fact (1955), relying on the agreement in evidence",
+      "source": {
+        "title": "Coeur d'Alene Tribe of Indians v. United States, Docket 81, Findings of Fact (4 Ind. Cl. Comm. 1, August 26, 1955)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/27",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      },
+      "quote": "By this agreement made on July 28, 1873, which was never ratified By Congress"
+    }
+  ],
+  "landTaken": "Royce shows the country outside the 1873 reserve (area 552) as relinquished because the United States \"assumed\" the tribe gave it up by accepting the reserve. The Indian Claims Commission instead found that Indian title to those lands passed to the United States on March 3, 1891.",
+  "compensation": "In Docket 81 the Indian Claims Commission held in 1957 that the consideration paid for the lands ceded outside the reservation, with title passing March 3, 1891, was so grossly inadequate as to be unconscionable, and made a final award on May 6, 1958. That finding concerns the 1887 and 1889 agreements ratified in 1891, not this 1873 record.",
+  "today": "The Coeur d'Alene Tribe says the 1873 executive order set the original reservation boundaries of more than 500,000 acres, that the 1909 allotment act fractured tribal farmland, and that it owns the lower third of Lake Coeur d'Alene, upheld by the Supreme Court in 2001.",
+  "nationVoice": [
+    {
+      "nation": "Coeur d'Alene Tribe",
+      "summary": "The Tribe says the 1873 executive order under President Grant set its original reservation boundaries of more than 500,000 acres, and that the Supreme Court in 2001 upheld its rights to the lower third of Lake Coeur d'Alene.",
+      "url": "https://www.cdatribe-nsn.gov/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Coeur d'Alene Tribe of Indians v. United States, Docket 81, Findings of Fact (4 Ind. Cl. Comm. 1, August 26, 1955)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/27",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Coeur d'Alene Tribe of Indians v. United States, Docket 81, Opinion of the Commission (4 Ind. Cl. Comm. 13, August 26, 1955)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/165",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Coeur d'Alene Tribe of Indians v. United States, Docket 81, Second Interlocutory Order (December 3, 1957)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/182",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Ulysses S. Grant, Executive Order on the establishment of the Coeur d'Alene Indian Reservation, Idaho, November 8, 1873",
+      "url": "https://presidency.ucsb.edu/documents/executive-order-establishment-coeur-dalene-indian-reservation-idaho",
+      "publisher": "The American Presidency Project, UC Santa Barbara"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 866",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/866/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 868",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/868/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Coeur d'Alene Tribe, home page",
+      "url": "https://www.cdatribe-nsn.gov/",
+      "publisher": "Coeur d'Alene Tribe"
+    }
+  ],
+  "openQuestions": [
+    "The reservation acreage differs between sources (the Tribe says more than 500,000 acres; the OCR of the 1955 ICC findings reads 538,500; secondary sources say 598,000). Not settled.",
+    "The 1958 final award figure in Docket 81 is unreadable in the OCR text (opinion at id 224); the land value and consideration in the 1957 order are also garbled. Figures left out.",
+    "The Docket 81 unconscionable-consideration finding belongs to the 1891 records (cession-1891-03-03-coeur-d-al-ne and the 1892 and 1894 records for area 552), since the Commission dated the transfer of title to March 3, 1891.",
+    "This record maps both the reserve (553) and the surrounding country (552). Royce says the 1873 relinquishment was only assumed by the United States."
+  ],
+  "plain": {
+    "promised": "In 1873 the Coeur d'Alene agreed to give up land outside a reservation set apart for them. The President set the reservation apart by executive order that November.",
+    "happened": "Congress never ratified the 1873 agreement. The Indian Claims Commission found the outside lands passed to the United States only in 1891, for a price it called unconscionable.",
+    "today": "The Commission made a final award in 1958. The Tribe holds the lower third of Lake Coeur d'Alene, upheld by the Supreme Court in 2001."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

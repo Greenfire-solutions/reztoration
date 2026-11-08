@@ -21,7 +21,7 @@
     "Brood mares and a stallion, cows and a bull, ploughs, harness, work mules or horses, oxen, axes, hoes, spades, picks or mattocks and seed (Kappler, vol. 4, p. 1094, as excerpted by Oklahoma State University).",
     "A farmer to instruct the tribes, a superior and assistant school teachers, and a school-house (Kappler, vol. 4, as excerpted by Oklahoma State University)."
   ],
-  "status": "unratified",
+  "status": "broken",
   "breaches": [
     {
       "kind": "never-ratified",
@@ -86,7 +86,8 @@
     "Heizer notes the 1852 message lists treaty B under May 13, 1851, while the schedule gives May 30, 1851.",
     "Heizer (1972) prints only Article 3 of this treaty and Oklahoma State University gives excerpts, so any beef and flour article, the other mechanics and the duration of the provisions were not checked.",
     "The Senate's rejection date is given as July 8, 1852 by Heizer (1972, introduction), but the Senate clerk's 1904 search quoted in the National Archives' Prologue article (2013) gives July 2, 1852; the Senate Executive Journal was not opened to settle it.",
-    "Audit 2026-11-08: promises rewritten from treaty B's own text (Heizer 1972, and Kappler vol. 4 as excerpted by Oklahoma State University); the four generic promises copied across the California files ('Article 3 or 4', beef and flour 'during 1851 and 1852', staff 'for at least five years') did not fit this treaty or could not be checked for it."
+    "Audit 2026-11-08: promises rewritten from treaty B's own text (Heizer 1972, and Kappler vol. 4 as excerpted by Oklahoma State University); the four generic promises copied across the California files ('Article 3 or 4', beef and flour 'during 1851 and 1852', staff 'for at least five years') did not fit this treaty or could not be checked for it.",
+    "Status set to broken on 2026-11-08 under Jordan's rule: never ratified, but the land was taken and a finding documents it. The never-ratified breach stays so the map labels it."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

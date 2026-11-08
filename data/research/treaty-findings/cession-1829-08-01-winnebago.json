@@ -76,10 +76,11 @@
   "openQuestions": [
     "The $4,600,000 settlement covers three dockets (243, 244, 245); the share for this treaty's cession is not stated.",
     "The acreage of Royce Area 149 in the 1965 findings is OCR-damaged and was left out; confirm it against the scan.",
-    "No Ho-Chunk Nation or Winnebago Tribe of Nebraska account of this treaty specifically was found."
+    "No Ho-Chunk Nation or Winnebago Tribe of Nebraska account of this treaty specifically was found.",
+    "Audit 2026-11-08: plain.promised reworded; \"lead-mining country of northern Illinois and southern Wisconsin\" and \"traders\" were not stated elsewhere in the file (PROTOCOLS 15)."
   ],
   "plain": {
-    "promised": "Thirty years of yearly payments, goods, tobacco and salt, three blacksmith shops, and payment of traders' claims, in return for the lead-mining country of northern Illinois and southern Wisconsin.",
+    "promised": "Thirty years of yearly payments, goods, tobacco and salt, three blacksmith shops, and payment of named creditors' claims, in return for the land ceded (Royce Area 149).",
     "happened": "The Indian Claims Commission valued the land at $2,025,000.00 in 1830 but never ruled on the price paid. The claim was settled by compromise in 1970.",
     "today": "The settlement paid $4,600,000 for this and two other Winnebago claims together. A compromise is not a finding that the treaty was broken."
   },

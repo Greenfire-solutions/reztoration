@@ -1,0 +1,17 @@
+{
+  "id": "kappler-465",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "OSU text: Mar. 29, 1836, 7 Stat. 498, proclaimed June 4, 1836; four sections; possession in three months, removal in two years; $2,560 in specie; expenses paid.",
+    "ICC full-text search (Potawatomi, Tippecanoe, 1836; Royce Area 208): Dockets 71, 128, 15-D, 15-P and 29-D/E decisions opened; none mentions Wau-ke-wa's band or the March 29, 1836 treaty.",
+    "Forest County Potawatomi treaty page loads (HTTP 200)."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "kappler-465 merges Wau-ke-wa's band (area 208) with Aub-ba-naub-ba's band (area 209), which has its own April 11, 1836 treaty."
+  ]
+}

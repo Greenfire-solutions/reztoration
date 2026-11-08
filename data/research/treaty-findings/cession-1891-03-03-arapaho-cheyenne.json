@@ -1,0 +1,59 @@
+{
+  "id": "cession-1891-03-03-arapaho-cheyenne",
+  "name": "Act of March 3, 1891 ratifying the Cheyenne and Arapaho agreement of October 1890",
+  "aka": [
+    "Jerome Agreement (Cheyenne and Arapaho)"
+  ],
+  "signed": "1890-10",
+  "ratified": "1891-03-03",
+  "citation": "26 Stat. 989, 1022",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/942/mode/2up",
+  "nations": [
+    "Cheyenne and Arapaho Tribes (Southern Cheyenne and Southern Arapaho)"
+  ],
+  "promises": [
+    "Royce records that the Cheyenne and Arapaho ceded to the United States, subject to allotment, the reservation lands between the 98th and 100th meridians and the Washita and Cimarron rivers, and all other claims in Indian Territory.",
+    "The reservation had been set apart for the tribes by executive order of August 10, 1869, as the Indian Claims Commission records."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "litigation",
+      "date": "1965-10-18",
+      "what": "The tribes claimed additional compensation for the Oklahoma reservation lands ceded under the 1890 agreement (Docket 329-A) and for their Fort Laramie lands (Docket 329-B). Before the Commission decided value or liability, the parties settled both dockets for a single judgment of $15,000,000, which the Commission approved.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 329-A and 329-B, 16 Ind. Cl. Comm. 162",
+      "source": {
+        "title": "Cheyenne-Arapaho Tribes of Indians of Oklahoma v. United States, Dockets 329-A and 329-B, Opinion of the Commission (October 18, 1965)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2123",
+        "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+      }
+    }
+  ],
+  "compensation": "A compromise judgment of $15,000,000 settled Dockets 329-A and 329-B together; the tribes approved it 338 to 2 at a general meeting on September 18, 1965.",
+  "today": "The settlement made no finding that the 1891 price was unconscionable.",
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 942",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/942/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Cheyenne-Arapaho Tribes of Indians of Oklahoma v. United States, Dockets 329-A and 329-B, Opinion of the Commission (October 18, 1965)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2123",
+      "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "Royce cites the act at 26 Stat. 1022; the Commission cites the Act of March 3, 1891 at 26 Stat. 989 (the start of the appropriation act). Both are kept in the citation.",
+    "The exact signing day of the October 1890 agreement was not confirmed.",
+    "A search result says the agreement lacked the three-fourths signature required by the Medicine Lodge treaty; no primary source for this was opened.",
+    "The Cheyenne and Arapaho Tribes' own account of the 1890 agreement was not located."
+  ],
+  "plain": {
+    "promised": "The Cheyenne and Arapaho ceded their Oklahoma reservation, set apart in 1869, to the United States in 1890, subject to allotments for tribal members.",
+    "happened": "The tribes sued for more payment for these lands. The claim was settled by compromise before the Indian Claims Commission ruled on value or fault.",
+    "today": "A single $15,000,000 settlement in 1965 covered this claim and the tribes' Fort Laramie claim. No finding that the price was unfair was made."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kappler-580",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "OSU text: Oct. 18, 1848, 9 Stat. 952, ratified Jan. 23, 1849; Article 3 quote and 600,000-acre guarantee exact; Article 4 $350,000.",
+    "Wolf River treaty, May 12, 1854, 10 Stat. 1064 (OSU header).",
+    "Caselaw Access Project Menominee opinions: none concerns the 1848 treaty. Termination correctly not counted (it took the 1854 reservation, not land this treaty created)."
+  ],
+  "changes": [
+    "Article 4 promise now names the $350,000."
+  ],
+  "unverifiable": [
+    "menominee-nsn.gov content not readable (script-rendered)."
+  ],
+  "treatiesJsonErrors": [
+    "Area 321 is the Minnesota tract given to the Menominee, not land they ceded; the cession is area 271."
+  ]
+}

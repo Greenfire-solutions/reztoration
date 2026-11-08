@@ -13,7 +13,8 @@
   ],
   "promises": [
     "Article 1: the Menominee ceded the country between the Wolf River, the Menominee River and Green Bay, and a strip on the upper Wisconsin River, as bounded in the treaty.",
-    "Article 2: in return the United States promised yearly money, goods and services and other payments set out in the treaty text."
+    "Article 2: $20,000 a year for twenty years, and each year of that term $3,000 of provisions, 2,000 pounds of tobacco, thirty barrels of salt, $500 for farming tools and stock, and two blacksmiths with shops.",
+    "Article 2: the tribe's debts on an annexed schedule, $99,710.50, to be paid after the Commissioner of Indian Affairs examined each, any surplus to go to the tribe."
   ],
   "status": "no-breach-found",
   "breaches": [],
@@ -48,12 +49,12 @@
     }
   ],
   "openQuestions": [
-    "The payment articles were not set out here in detail because the OSU text was only skimmed; a deeper pass should record the annuity terms exactly.",
+    "Audit 2026-11-08: the payment articles were read from the OSU text and set out in the promises; dates and 7 Stat. 506 checked. No Court of Claims opinion in the Caselaw Access Project (95 to 121 Ct. Cl.) mentions this treaty.",
     "The Menominee had a special jurisdictional act (September 3, 1935) instead of an Indian Claims Commission docket; whether any claim under it concerned the 1836 price was not found.",
     "No Menominee narrative of this treaty was found on the Tribe's site; its College or Historic Preservation office may have one."
   ],
   "plain": {
-    "promised": "The United States would pay yearly money and goods for a large Menominee cession around Green Bay and the Wolf and Menominee rivers.",
+    "promised": "The United States would pay $20,000 a year for twenty years plus goods and blacksmiths, and pay the tribe's debts, for a large Menominee cession around Green Bay and the Wolf and Menominee rivers.",
     "happened": "No court, claims commission or government finding about this treaty was found.",
     "today": "The Menominee publish the treaty text; no claim about its price was found."
   },

@@ -14,7 +14,7 @@
     "Article 3 set apart 'forever' for the sole use and occupancy of the Diegueño nation a district from the state's southern line at the eastern base of the Sierra, north to the Temecula treaty reservation, around the San Jose del Valle grant to the San Felipe grant and south to the state line twenty miles from the start, with minerals reserved to the United States.",
     "Brood mares, young cows, bulls, oxen, mules, ploughs, grindstones and seed; a farmer with two assistants, a wheelwright, a carpenter, a blacksmith and school teachers, with school houses (Kappler, vol. 4, as excerpted by Oklahoma State University)."
   ],
-  "status": "unratified",
+  "status": "broken",
   "breaches": [
     {
       "kind": "never-ratified",
@@ -119,7 +119,8 @@
     "The tribal names are as the commissioners wrote them in 1851-52; most are village or local group names, not nations, and how each community names itself today was not established. treaties.json lists as present-day tribes: Campo Band of Diegueno Mission Indians of the Campo Indian Reservation, California.",
     "The Court of Claims judgment under the 1928 Act (Indians of California v. United States, 98 Ct. Cl. 583, 1942) and the Indian Claims Commission settlement for the Indians of California (Dockets 31 and 37) were not opened in this pass; they are the leads for the amounts paid.",
     "The article in which the signing tribes gave up their other lands was not checked for this treaty; because the Senate rejected the treaties, the United States took the land without the reserved tracts or the promised goods (1928 Act, section 2).",
-    "Audit 2026-11-08: promises corrected against treaty L as printed in Heizer (1972), the treaty text at https://digicoll.lib.berkeley.edu/record/83366/files/arfs003-001.pdf; Heizer omits some of this treaty's articles, so the goods and staff are taken from Oklahoma State University's excerpt of Kappler vol. 4 (https://oms.library.okstate.edu/s/oklahoma-built/item/21849), and any subsistence (beef and flour) article was not checked; the earlier 'beef and flour during 1851 and 1852' line was removed because it was copied from the other treaties."
+    "Audit 2026-11-08: promises corrected against treaty L as printed in Heizer (1972), the treaty text at https://digicoll.lib.berkeley.edu/record/83366/files/arfs003-001.pdf; Heizer omits some of this treaty's articles, so the goods and staff are taken from Oklahoma State University's excerpt of Kappler vol. 4 (https://oms.library.okstate.edu/s/oklahoma-built/item/21849), and any subsistence (beef and flour) article was not checked; the earlier 'beef and flour during 1851 and 1852' line was removed because it was copied from the other treaties.",
+    "Status set to broken on 2026-11-08 under Jordan's rule: never ratified, but the land was taken and a finding documents it. The never-ratified breach stays so the map labels it."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

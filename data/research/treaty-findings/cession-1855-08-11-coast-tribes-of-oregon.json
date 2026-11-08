@@ -21,7 +21,7 @@
     "A reservation would be created for them within the ceded area.",
     "The treaty was to take effect only on ratification by the United States."
   ],
-  "status": "unratified",
+  "status": "broken",
   "breaches": [
     {
       "kind": "never-ratified",
@@ -113,7 +113,8 @@
     "The amount recovered by the Tillamook and other bands after 1946 (and the later Indian Claims Commission dockets 239 and 240 for Tillamook and Clatsop bands) was not recorded.",
     "The treaty text in Senate Executive Document No. 25, 53rd Congress, was not opened.",
     "The Confederated Tribes of Siletz Indians and the Coquille Indian Tribe were not consulted for their own accounts in this pass.",
-    "Audit 2026-11-08: compensation no longer says the Coos, Lower Umpqua and Siuslaw were excluded from the 1935 Act; Alcea (329 U.S. 40) says only that their 1938 suit, under an earlier act in identical language, failed for want of proof of original title."
+    "Audit 2026-11-08: compensation no longer says the Coos, Lower Umpqua and Siuslaw were excluded from the 1935 Act; Alcea (329 U.S. 40) says only that their 1938 suit, under an earlier act in identical language, failed for want of proof of original title.",
+    "Status set to broken on 2026-11-08 under Jordan's rule: never ratified, but the land was taken and a finding documents it. The never-ratified breach stays so the map labels it."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

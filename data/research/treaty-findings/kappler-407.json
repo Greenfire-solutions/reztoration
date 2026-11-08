@@ -1,28 +1,28 @@
 {
   "id": "kappler-407",
-  "name": "Treaty with the Appalachicola Band, 1833",
+  "name": "Treaty with the Appalachicola Band, 1833 (relinquishment by Econchatimico)",
   "aka": [
-    "Relinquishment by Mulatto King and Tustenuggy Hajo of the Moultrie Creek reserve"
+    "Relinquishment by Econchatimico and his warriors of the Chattahoochee reserve, June 18, 1833"
   ],
   "signed": "1833-06-18",
-  "proclaimed": "1834-04-12",
-  "citation": "7 Stat. 427",
+  "citation": "7 Stat. 428",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-appalachicola-band-1833-0398",
   "nations": [
-    "Apalachicola bands of Mulatto King (Vacapasacy) and Tustenuggy Hajo"
+    "Apalachicola band of Econchatimico"
   ],
   "promises": [
-    "Article 2: within three years, patents for a section and a half each to Mulatto King and Tustenuggy Hajo for themselves, their sub-chiefs and warriors, laid off to take in their fields and improvements.",
-    "Article 3: their share of the $5,000 annuity under the Treaty of Camp Moultrie would continue while the Seminoles stayed in Florida, with the balance advanced if they removed under the Treaty of Payne's Landing.",
-    "Article 4: if they chose to give up the grants and join the Seminoles in the West under Payne's Landing, the United States would pay them a stated sum."
+    "Article 1: Econchatimico and his warriors gave up the reserve on the Chattahoochee made for them by the additional article of the Treaty of Camp Moultrie (1823).",
+    "Article 2: within three years, a patent to Econchatimico for himself, his sub-chiefs and warriors for three sections of land, laid off to take in their fields and improvements.",
+    "Article 3: their share of the $5,000 annuity under the Treaty of Camp Moultrie would continue while the Seminoles stayed in Florida, with the balance advanced when the Seminoles removed under the Treaty of Payne's Landing.",
+    "Article 4: if they gave up these grants and joined the Seminoles in the West under Payne's Landing, the United States would pay $3,000 for the reservation relinquished."
   ],
   "status": "no-breach-found",
   "breaches": [],
-  "today": "No court, Indian Claims Commission or government finding about this treaty was found. The Seminole Florida land claim (Dockets 73 and 151) was decided on wider grounds and does not mention these bands' reserves.",
+  "today": "No court, Indian Claims Commission or government finding about this treaty was found. A local historian writes that Econchatimico was still on his former reserve in 1838, received the $3,000 in October 1838, and was then taken west under military escort.",
   "nationVoice": [],
   "sources": [
     {
-      "title": "Treaty with the Appalachicola Band, 1833 (Kappler, vol. 2, p. 398)",
+      "title": "Treaty with the Appalachicola Band, 1833 (Kappler, vol. 2, p. 398; second relinquishment, 7 Stat. 428)",
       "url": "https://treaties.okstate.edu/treaties/treaty-with-the-appalachicola-band-1833-0398",
       "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
     },
@@ -35,17 +35,23 @@
       "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 748",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/748/mode/2up",
       "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Econchatimico's Reserve, Jackson County, Florida",
+      "url": "https://exploresouthernhistory.com/econchatimico.html",
+      "publisher": "ExploreSouthernHistory.com"
     }
   ],
   "openQuestions": [
-    "Whether the promised patents were issued, and whether the bands were removed without them, was not traced. This is the most likely place for a breach; Interior and War Department records of the Apalachicola removal of 1836-1840 would be the place to look.",
-    "treaties.json lists the Seminole Tribe of Florida and the Miccosukee Tribe as present-day tribes; some reference sources say the Apalachicola descendants are in the Muscogee (Creek) Nation. Not settled from a nation source.",
-    "This is a relinquishment of a reserve made by the 1823 Moultrie Creek treaty, in exchange for smaller grants, rather than a cession of aboriginal land."
+    "Audit 2026-11-08: Kappler p. 398 prints two relinquishments of June 18, 1833. This file first described the one by Mulatto King and Tustenuggy Hajo (7 Stat. 427), which Royce schedules separately 'with the Appalachicola band' (area 184, treaties.json kappler-406). This record (area 185, 'certain chiefs in Florida') is Econchatimico's relinquishment of the Chattahoochee reserve, 7 Stat. 428; the file was rewritten for it.",
+    "Kappler gives no proclamation date for this second relinquishment; the first was proclaimed April 12, 1834. Not settled, so left out.",
+    "Whether the three-section patent was ever issued was not found; the historian's account suggests Econchatimico took the $3,000 under Article 4 instead. Federal land and removal records would settle it.",
+    "treaties.json lists the Seminole Tribe of Florida and the Miccosukee Tribe; the historian says descendants of the band live near Muskogee, Oklahoma. Not settled from a nation source."
   ],
   "plain": {
-    "promised": "Two Apalachicola chiefs gave up their Moultrie Creek reserve in return for patents to a section and a half of land each within three years and their share of the annuity.",
+    "promised": "Econchatimico's band gave up its Chattahoochee reserve for a patent to three sections of land within three years and its share of the annuity, or $3,000 if it moved west.",
     "happened": "No court, claims commission or government finding about this treaty was found.",
-    "today": "Whether the patents were ever issued has not been traced."
+    "today": "Whether the patent was ever issued has not been traced; a historian says the chief took the $3,000 in 1838 and went west."
   },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

@@ -1,0 +1,50 @@
+{
+  "id": "cession-1876-04-10-pawnee",
+  "name": "Act of April 10, 1876 authorizing the sale of the Pawnee Reservation in Nebraska",
+  "aka": [
+    "Pawnee Reservation sale act"
+  ],
+  "signed": "1876-04-10",
+  "citation": "19 Stat. 28",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-19/pdf/STATUTE-19-Pg28.pdf",
+  "nations": [
+    "Pawnee Nation of Oklahoma (Chaui, Kitkehahki, Pitahawirata and Skidi bands)"
+  ],
+  "promises": [
+    "With the consent of the Pawnee expressed in open council, the Secretary of the Interior could appraise and sell the whole reservation set apart by the treaty of September 24, 1857, in 160 acre tracts, at no less than appraised value or $2.50 an acre.",
+    "The same Act provided a new reservation for the Pawnee in Indian Territory between the Cimarron and Arkansas rivers (Royce area 591)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The Indian Claims Commission's Pawnee case (Docket 10) describes the 1876 appraisal and the sales, which began July 15, 1878, but no finding that this sale broke a promise was found. The Commission did find the 1875 payment for a separate 4,800 acre strip (its Claim V) unconscionable; that is a different event. The Indian Territory reservation was ceded under the agreement of November 23, 1892.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Act of April 10, 1876, ch. 51, 19 Stat. 28 (An act to authorize the sale of the Pawnee Reservation)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-19/pdf/STATUTE-19-Pg28.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Additional Findings of Fact (8 Ind. Cl. Comm. 648, June 14, 1960)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/404",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Amended Conclusions of Law and Final Award (July 6, 1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/293",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 884",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/884/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "Whether the Pawnee consented in open council, and whether the sale proceeds were handled as the Act required, was not traced. The Commission noted that after the first auction sales continued without competition at the appraised price.",
+    "The Pawnee Nation's own history page (pawneenation.org) refused the request in this pass.",
+    "Area 590 is mapped to both this record and kappler-772 (the 1857 treaty)."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "cession-1878-05-27-ponka",
+  "name": "Act of May 27, 1878 removing the Ponca from the Quapaw reservation to a new home west of the Kaw",
+  "aka": [
+    "Ponca removal, 1878"
+  ],
+  "signed": "1878-05-27",
+  "citation": "20 Stat. 63, 76 (ch. 142)",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-20/pdf/STATUTE-20-Pg63-4.pdf",
+  "nations": [
+    "Ponca Tribe of Indians of Oklahoma",
+    "Ponca Tribe of Nebraska"
+  ],
+  "promises": [
+    "Congress appropriated thirty thousand dollars for removing the Ponca from their location on the Quapaw reservation in Indian Territory to a new one west of the Kaw, between the Arkansas and Shakaskia rivers, and for settling them there with land broken, tools, wagons and stock cattle.",
+    "The same Act paid the fifth of fifteen instalments due under the second article of the Ponca treaty of March 12, 1858."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1966-07-26",
+      "what": "The Indian Claims Commission concluded that, through the 1868 Sioux treaty that mistakenly included the Ponca reservation in the Great Sioux Reservation and the eventual removal and relocation of the Ponca in 1878 to a new reservation in Indian Territory, the United States deprived the Ponca of their Nebraska reservation without their consent and without paying for it.",
+      "whoFoundIt": "Indian Claims Commission, Docket 323, Order of July 26, 1966 (17 Ind. Cl. Comm. 288)",
+      "source": {
+        "title": "Ponca Tribe of Indians of Oklahoma v. United States, Docket 323, Order (17 Ind. Cl. Comm. 288, July 26, 1966)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1395",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      },
+      "quote": "the United States deprived the Ponca Tribe of Indians of its Nebraska reservation without its consent, and without the payment of any compensation"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1972-08-23",
+      "what": "The Commission valued the 96,000 acre Nebraska reservation at $211,200 as of March 16, 1877, credited the $48,389.46 spent buying land in Indian Territory for the tribe, and awarded just compensation of $174,327.06 plus 5 percent interest, $1,004,589.49 through June 30, 1972.",
+      "whoFoundIt": "Indian Claims Commission, Docket 323, Final Award on Remand (28 Ind. Cl. Comm. 350)",
+      "source": {
+        "title": "Ponca Tribe of Indians of Oklahoma v. United States, Docket 323, Final Award on Remand (28 Ind. Cl. Comm. 350, August 23, 1972)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1572",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "what": "The Ponca Tribe of Nebraska says the United States forcibly removed the Ponca to Oklahoma in 1877, that many died on the trail, that in 1878 the tribe was moved to a new reservation where food was scarce and malaria widespread, and that it lost nearly a third of its members to disease and starvation in the year after removal.",
+      "whoFoundIt": "Ponca Tribe of Nebraska",
+      "source": {
+        "title": "Ponca Tribe of Nebraska, About the Nation (Our Story)",
+        "url": "https://poncatribe-ne.gov/about-the-nation/",
+        "publisher": "Ponca Tribe of Nebraska"
+      }
+    }
+  ],
+  "landTaken": "The 96,000 acre Ponca reservation in Nebraska (Indian Claims Commission, Docket 323). Royce area 628 is the 101,894.31 acre reservation in Indian Territory later bought from the Cherokee for the Ponca, which the Commission counted as part payment.",
+  "compensation": "The Indian Claims Commission awarded $1,004,589.49 (principal $174,327.06 with interest to June 30, 1972) on August 23, 1972, after crediting $48,389.46 spent on the Indian Territory land. Earlier, the Act of March 3, 1881 bought the Indian Territory reservation and secured allotments for Ponca living in Nebraska; the Commission counted 27,235.90 acres of Nebraska allotments as an offset.",
+  "today": "The Indian Territory land bought for the Ponca was conveyed to the tribe on June 14, 1883 (Docket 323). The Ponca Tribe of Nebraska descends from those who returned with Standing Bear; it says 26,236 acres in Knox County were returned in 1881, and it was terminated and then restored by Congress in 1990.",
+  "nationVoice": [
+    {
+      "nation": "Ponca Tribe of Nebraska",
+      "summary": "The Tribe says the 1868 treaty with the Sioux took its reservation, the government forcibly removed it to Oklahoma in 1877, it lost nearly a third of its people in the year after removal, and Standing Bear's 1879 trial held that an Indian is a person under United States law.",
+      "url": "https://poncatribe-ne.gov/about-the-nation/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Act of May 27, 1878, ch. 142, 20 Stat. 63, at 76 (Indian appropriation act, Poncas)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-20/pdf/STATUTE-20-Pg63-4.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Ponca Tribe of Indians of Oklahoma v. United States, Docket 323, Order (17 Ind. Cl. Comm. 288, July 26, 1966)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1395",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Ponca Tribe of Indians of Oklahoma v. United States, Docket 323, Findings of Fact (17 Ind. Cl. Comm. 162, July 26, 1966)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2597",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Ponca Tribe of Indians of Oklahoma v. United States, Docket 323, Final Award on Remand (28 Ind. Cl. Comm. 350, August 23, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1572",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Ponca Tribe of Nebraska, About the Nation (Our Story)",
+      "url": "https://poncatribe-ne.gov/about-the-nation/",
+      "publisher": "Ponca Tribe of Nebraska"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 892",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/892/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 893",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/893/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "This Act only appropriated money for the move, so it is not counted as a breach itself; the breach rests on the Commission's finding, which names the 1878 relocation. The forced removal itself was ordered by the Act of March 3, 1877, which Royce describes as removal \"without regard to their consent\"; treaties.json has no separate record for it, so this record and cession-1881-03-03-ponka carry the removal.",
+    "Royce area 628 on this record is the reservation the Ponca received in Indian Territory, not the Nebraska land they lost.",
+    "Whether and how the 1972 award was distributed between the Oklahoma and Nebraska Ponca was not traced.",
+    "The Ponca Tribe of Nebraska's page gives both 1962 and 1966 for its termination; left out of this record.",
+    "The Ponca Tribe of Indians of Oklahoma's own account was not looked up in this pass."
+  ],
+  "plain": {
+    "promised": "Congress paid in 1878 to move the Ponca from the Quapaw lands to a new reservation in Indian Territory, after they had been taken from their 96,000 acre Nebraska reservation.",
+    "happened": "The Indian Claims Commission found the United States took the Nebraska reservation without consent or payment, through the 1868 Sioux treaty and the 1878 relocation. The Ponca Tribe of Nebraska says nearly a third of its people died within a year.",
+    "today": "In 1972 the Commission awarded $1,004,589.49. The Ponca Tribe of Nebraska says 26,236 acres in Knox County were returned in 1881 and that Congress restored the tribe in 1990."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

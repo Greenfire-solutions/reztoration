@@ -1,0 +1,17 @@
+{
+  "id": "cession-1869-08-10-arapaho-cheyenne",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Final judgment October 18, 1965 (id 2414): $15,000,000.00 on stipulation for Dockets 329-A and 329-B.",
+    "Compromise findings (id 1119): 4,608,878 acres of the August 10, 1869 executive order reservation ceded March 3, 1891 for an alleged unconscionable $1,500,000; value trial from May 24, 1965, then settlement. OSU dates the item 1968-12-10 (already flagged).",
+    "Interlocutory order 1961 (id 304): left open whether the Southern tribes' consideration was unconscionable. No finding on the 1891 price, so contested is right."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Royce p. 852 not reopened."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes includes the Northern Arapaho of Wind River, not parties to this reservation (already noted in the file)."
+  ]
+}

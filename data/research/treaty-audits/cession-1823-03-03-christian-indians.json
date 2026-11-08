@@ -1,0 +1,16 @@
+{
+  "id": "cession-1823-03-03-christian-indians",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Act of March 3, 1823, ch. 27, 3 Stat. 749-750 opened on govinfo (p. 750): purchase of the Indians' interest in three tracts of four hundred acres each in Tuscarawas (\"Tuscaroras\") County, granted 1796 to the Society of United Brethren in trust, with the Society's consent, one thousand dollars.",
+    "Status no-breach-found is right: an appropriation to buy land is not a finding, and no claim was located."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Royce schedule pp. 650 and 704 (archive.org) not reopened; the 4,000 versus 400 acre conflict stays in openQuestions."
+  ],
+  "treatiesJsonErrors": [
+    "Duplicates the Royce areas 4, 5 and 6 of cession-1788-09-03-christian-indians (already noted in the file); presentDayTribes empty."
+  ]
+}

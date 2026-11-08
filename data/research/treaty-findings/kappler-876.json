@@ -73,13 +73,13 @@
   ],
   "openQuestions": [
     "treaties.json gives this record the date 1855-08-02, but its Kappler link (seq 876, p. 868) and Royce area 464 are the treaty of October 18, 1864. The 1855 Treaty of Detroit already has its own record (kappler-741, area 396). This file researches the 1864 treaty; the date in treaties.json and area 396 on this record look wrong.",
-    "OSU prints the citation as 14 Stats., 637; the Indian Claims Commission cites 14 Stat. 657. 657 is used here; not checked against the Statutes at Large.",
+    "Audit 2026-11-08: 14 Stat. 657 confirmed against the Statutes at Large (the treaty begins on p. 657; ratification advised with amendments May 22, 1866, proclaimed August 16, 1866). OSU's '637' is a misprint.",
     "The 2010 boundary ruling (Saginaw Chippewa Indian Tribe v. Granholm, E.D. Mich. No. 05-10296) was not opened; it is reported here only as the Tribe states it.",
     "Whether a court, the Commission or Congress ever found that Indian agents failed the trust over Isabella allotments was not found; Docket 13-H's timber claim was dismissed for lack of proof."
   ],
   "plain": {
     "promised": "The unsold land in six Isabella County townships was set apart for the bands' exclusive use and ownership, with allotments for every member and sale limits for those judged not competent.",
-    "happened": "The Saginaw Chippewa say agents' dealings with timber barons and delayed annuities stripped them of nearly all allotments. The claims commission found no fraud in 1953 and dismissed the timber claim.",
+    "happened": "The Saginaw Chippewa say delayed annuities, lumbermen and deals between agents and timber barons cost them nearly all their allotments. The claims commission found no fraud in the 1864 treaty in 1953 and dismissed the timber claim.",
     "today": "The Tribe says a federal court upheld the reservation's historic boundaries in 2010."
   },
   "researchedAt": "2026-11-08",

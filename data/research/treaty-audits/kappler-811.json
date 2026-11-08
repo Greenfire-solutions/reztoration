@@ -1,0 +1,20 @@
+{
+  "id": "kappler-811",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Caselaw Access Project, static.case.law us-ct-cl metadata for vols. 60-140: Delaware Tribe v. United States at 72 Ct. Cl. 483 and 525, 74 Ct. Cl. 368 and 84 Ct. Cl. 535; text grepped for the 1860 treaty and the railroad.",
+    "74 Ct. Cl. 368 (May 2, 1932): fourth claim, gold premium on $286,742.15 from the Leavenworth, Pawnee and Western sale under the 1860 and 1861 treaties; petition dismissed. A ruling for the government, so not a breach.",
+    "ICC full-text search 'Leavenworth Pawnee Western Delaware': Docket 27-A decisions (391, 43, 236, 3) and Docket 337 (677) concern other cessions.",
+    "OSU text: May 30, 1860, 12 Stat. 1129, ratified July 27, proclaimed Aug. 22, 1860; severalty tracts exempt from levy and taxation; three appraisers, not below $1.25; twenty-five miles of road before patent."
+  ],
+  "changes": [
+    "today now records the 1932 Court of Claims dismissal of the railroad-sale gold-premium claim; the case added to sources; the open question about pre-1946 Court of Claims replaced by the audit result. no-breach-found accepted after the search."
+  ],
+  "unverifiable": [
+    "The 1861 supplemental treaty (12 Stat. 1177) and the appraisal of the railroad lands were not opened."
+  ],
+  "treatiesJsonErrors": [
+    "kappler-811 presentDayTribes names the Delaware Nation (Anadarko); the Kansas Delawares who made this treaty are ancestors of the Delaware Tribe of Indians (Bartlesville)."
+  ]
+}

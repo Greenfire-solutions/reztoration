@@ -1,0 +1,41 @@
+{
+  "id": "kappler-311",
+  "name": "Treaty with the Delawares, August 3, 1829 (Sandusky band)",
+  "signed": "1829-08-03",
+  "proclaimed": "1830-01-02",
+  "citation": "7 Stat. 326",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-delawares-1829-0303",
+  "nations": [
+    "Delaware (Lenape) band on the Sandusky River"
+  ],
+  "promises": [
+    "Article 2: the United States would pay the band $3,000, $2,000 in hand and $1,000 in horses, clothing, provisions and other goods for the journey west.",
+    "Article 1 records that the band ceded the three mile square tract on the Sandusky River reserved to them in 1817 and agreed to join their nation west of the Mississippi."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "No court, Indian Claims Commission or Court of Claims finding about this cession was located. The Commission's Ohio decisions (Docket 13-F) mention the tract only as a grant made in 1817.",
+  "sources": [
+    {
+      "title": "Treaty with the Delawares, 1829 (7 Stat. 326)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-delawares-1829-0303",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 724",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/724/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "James Strong et al. v. United States, Docket 13-F, Opinion of the Commission (May 23, 1973)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2293",
+      "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json names the Delaware Nation, Oklahoma, as the present-day tribe. The band agreed to join the Delawares west of the Mississippi; whether the Delaware Tribe of Indians (Bartlesville) or the Delaware Nation is the successor was not settled here.",
+    "The Delaware nations' own account of this treaty was not located."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

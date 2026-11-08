@@ -1,0 +1,56 @@
+{
+  "id": "cession-1888-12-04-umatilla",
+  "name": "Order of the Secretary of the Interior of December 4, 1888 fixing the diminished Umatilla Reservation",
+  "aka": [
+    "Umatilla Allotment Act (Slater Act) diminishment"
+  ],
+  "signed": "1888-12-04",
+  "citation": "Order of the Secretary of the Interior, December 4, 1888, under the Act of October 17, 1888",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/928/mode/2up",
+  "nations": [
+    "Confederated Tribes of the Umatilla Indian Reservation (Cayuse, Umatilla and Walla Walla)"
+  ],
+  "promises": [
+    "Royce records that the Secretary of the Interior fixed the boundaries of the diminished Umatilla Reservation in accordance with the Act of Congress of October 17, 1888; the diminished reservation is his area 696 and the ceded portion is area 697.",
+    "The Confederated Tribes state that the 1855 treaty set apart a reservation homeland in exchange for the 6.4 million acres ceded."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The Confederated Tribes state that federal legislation in the late 1800s reduced the reservation, which is now 172,000 acres. The Indian Claims Commission settled the tribes' claims in Dockets 264, 264-A and 264-B by compromise in 1966; those dockets concerned the 1855 cession, fishing rights and an erroneous 1871 survey, not this 1888 diminishment.",
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of the Umatilla Indian Reservation",
+      "summary": "The tribes say federal legislation in the late 1800s reduced the size of the reservation set apart in the 1855 treaty.",
+      "url": "https://ctuir.org/about/history-culture/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 928",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/928/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "History & Culture",
+      "url": "https://ctuir.org/about/history-culture/",
+      "publisher": "Confederated Tribes of the Umatilla Indian Reservation"
+    },
+    {
+      "title": "Confederated Tribes of the Umatilla Indian Reservation v. United States, Dockets 264, 264-A and 264-B, Opinion of the Commission on compromise settlement (16 Ind. Cl. Comm. 484, February 11, 1966)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2535",
+      "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "The relentless pursuit of Umatilla lands (Rich Wandschneider, February 16, 2023)",
+      "url": "https://library.josephy.org/the-relentless-pursuit-of-umatilla-lands/",
+      "publisher": "Josephy Center for Arts & Culture"
+    }
+  ],
+  "openQuestions": [
+    "The Act of March 3, 1885 (23 Stat. 340, the Slater Act) and the Act of October 17, 1888 were not opened; whether the tribes' consent was obtained as the 1885 act required (search results say an 1887 commission secured it) needs the commission report.",
+    "No court or Indian Claims Commission finding on the 1885 to 1888 diminishment was located; the 1966 compromise covers other claims.",
+    "The historian Rich Wandschneider gives a diminished reservation of 85,322 acres; this figure was not cross-checked and is left out of the record."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

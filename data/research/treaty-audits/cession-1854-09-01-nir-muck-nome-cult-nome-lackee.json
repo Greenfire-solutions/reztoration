@@ -1,0 +1,16 @@
+{
+  "id": "cession-1854-09-01-nir-muck-nome-cult-nome-lackee",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Paskenta Band page loaded: forcibly removed in 1854 to a reservation further west, Nome Cult Trail 1863, rancheria sold in 1959 under termination. Matches nationVoice.",
+    "Status no-breach-found is right: a reserve set up by a superintendent with no written promise; the 1959 termination took a rancheria this record did not create, so it is not a breach of this record."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Royce schedule p. 794 not reopened."
+  ],
+  "treatiesJsonErrors": [
+    "Paskenta Band of Nomlaki Indians missing from presentDayTribes (already noted in the file); this record is a reserve, not a cession."
+  ]
+}

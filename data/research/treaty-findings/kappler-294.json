@@ -1,0 +1,67 @@
+{
+  "id": "kappler-294",
+  "name": "Treaty with the Miami (Eel River or Thorntown party), 1828",
+  "signed": "1828-02-11",
+  "proclaimed": "1828-05-07",
+  "citation": "7 Stat. 309",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-miami-1828-0286",
+  "nations": [
+    "Miami Tribe of Oklahoma",
+    "Miami Indians of Indiana"
+  ],
+  "promises": [
+    "Article 2: the United States would pay $8,000 in goods, build twelve log houses, clear and fence forty acres on the Eel River reservation, and supply a wagon, oxen, horses, provisions and two hired hands for two years.",
+    "Article 3: the United States would pay Peter Langlois $1,000 in silver and $3,000 in goods for the party's debts.",
+    "Article 4: the United States would set aside $1,000 a year for five years for the education of Miami youth; the President and Senate could strike this article."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "litigation",
+      "date": "1968-12-03",
+      "what": "The Miami Tribe of Oklahoma and the Miami Indians of Indiana claimed additional compensation for the Thorntown Reservation ceded by this treaty. The claim was never tried; the Commission approved a settlement of $66,966 after consideration and offsets.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 255 and 124-C, 20 Ind. Cl. Comm. 97",
+      "source": {
+        "title": "Miami Tribe of Oklahoma et al. v. United States, Dockets 255 and 124-C, Findings of Fact on Compromise Settlement (December 3, 1968)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1012",
+        "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+      }
+    }
+  ],
+  "landTaken": "The Commission records that the Thorntown Reservation, described as ten miles square, contained 64,037.87 acres.",
+  "compensation": "The Commission records a treaty consideration of $19,485.00 and approved a settlement of $66,966 in 1968.",
+  "today": "The settlement made no finding that the 1828 price was unconscionable.",
+  "sources": [
+    {
+      "title": "Treaty with the Miami, 1828",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-miami-1828-0286",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 720",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/720/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Miami Tribe of Oklahoma et al. v. United States, Dockets 255 and 124-C, Findings of Fact on Compromise Settlement (20 Ind. Cl. Comm. 97, December 3, 1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1012",
+      "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Miami Tribe of Oklahoma et al. v. United States, Dockets 255 and 124-C, Opinion of the Commission (December 3, 1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1825",
+      "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "The Miami Tribe of Oklahoma's own account of the Thorntown cession was not located.",
+    "The Miami Indians of Indiana are not federally recognized; they are named because they were a petitioner."
+  ],
+  "plain": {
+    "promised": "The Eel River Miami gave up their Thorntown reservation for goods, houses, cleared land, livestock and an education fund, and moved to their Eel River reservation.",
+    "happened": "The Miami sued for more payment. The claim was settled before the Claims Commission decided whether the price was fair.",
+    "today": "The Commission approved a $66,966 settlement in 1968."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "cession-1878-11-09-uta-muncho-capote-wiminuehi-bands",
+  "name": "Agreement with the Capote, Muache and Weeminuche bands of Ute, 1878 (Pagosa Springs, never ratified)",
+  "aka": [
+    "Pagosa Springs agreement of November 9, 1878"
+  ],
+  "signed": "1878-11-09",
+  "citation": "Agreement of November 9, 1878 (not ratified; superseded by the agreement of March 6, 1880)",
+  "textUrl": "https://oms.library.okstate.edu/s/oklahoma-built/item/22296",
+  "nations": [
+    "Southern Ute Indian Tribe (Muache and Capote bands)",
+    "Ute Mountain Ute Tribe (Weeminuche band)"
+  ],
+  "promises": [
+    "The Muache, Capote and Weeminuche bands would give up their rights in the Confederated Ute reservation in Colorado set apart by the treaty of 1868, especially its southern part.",
+    "The United States would set apart a reservation for them on the San Juan River in Colorado and establish an Indian agency there in 1879."
+  ],
+  "status": "unratified",
+  "breaches": [
+    {
+      "kind": "never-ratified",
+      "date": "1880-03-06",
+      "what": "Congress took no action to ratify this agreement. It was superseded on March 6, 1880 by another agreement, amended and ratified by Congress on June 15, 1880.",
+      "whoFoundIt": "Charles C. Royce, Indian Land Cessions in the United States (Bureau of American Ethnology, 1899)",
+      "source": {
+        "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 893",
+        "url": "https://archive.org/stream/annualreportofbu218smit#page/893/mode/2up",
+        "publisher": "Smithsonian Institution, via Internet Archive"
+      },
+      "quote": "No action was taken by Congress ratifying this agreement."
+    }
+  ],
+  "today": "The reservation promised was set apart by executive order of February 7, 1879 and restored to the public domain by executive order of August 4, 1882 (Royce).",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 892",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/892/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 893",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/893/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 894",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/894/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Agreement with the Capote, Muache, and Weeminuche bands of Ute, 1878 (catalog record)",
+      "url": "https://oms.library.okstate.edu/s/oklahoma-built/item/22296",
+      "publisher": "Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "Royce says the Yampa, Grand River, Uinta and Tabeguache bands concurred in the cession; the Oklahoma State catalog lists them as signatories too. The Ute Indian Tribe of the Uintah and Ouray Reservation is not in presentDayTribes.",
+    "The Oklahoma State record cites 20 Stat. 396 for this agreement; that citation was not opened, so what Congress did at that page is not settled.",
+    "The Southern Ute and Ute Mountain Ute tribes' own accounts of the 1878 agreement were not found in this pass."
+  ],
+  "plain": {
+    "promised": "The Muache, Capote and Weeminuche Ute would give up their part of the 1868 Ute reservation, and the United States would set apart a new reservation for them on the San Juan River.",
+    "happened": "Congress never ratified the agreement. It was replaced by the agreement of March 6, 1880.",
+    "today": "The reservation set apart under it in 1879 was returned to the public domain in 1882."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

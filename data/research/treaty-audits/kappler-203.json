@@ -1,0 +1,21 @@
+{
+  "id": "kappler-203",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Senate Rep. Com. No. 215, 30th Cong., 1st Sess. (July 25, 1848), govinfo Serial Set PDF: $108,944.09 awarded; Wirt held the $141,055.91 balance belonged to the Creek nation; whole sum paid in solido to Governor Lumpkin on March 2, 1835 without examination; quote 'The committee cannot but regard the $250,000 as the fund of the Creek nation' exact; accompanies bill S. No. 329.",
+    "Qualifying admission: the researcher rules list congressional reports as government admissions; the committee states the balance 'is justly due them' and the Creek demands 'should have been complied with'. Kept, with its committee-level weight noted.",
+    "Repayment: 1852 Indian appropriation act (10 Stat. 41 ff.) has no such item; Caselaw Access Project Creek Nation Court of Claims opinions (1927-1942) do not mention Indian Spring or the balance; Creek-Seminole treaty of Aug. 7, 1856 (11 Stat. 699) Article 5 releases all Creek claims not secured by existing treaties and laws, without naming this one.",
+    "OSU text: Jan. 8, 1821, 7 Stat. 215, proclaimed Mar. 2, 1821; 1,000 acres at Indian Spring, 640 acres on the Ocmulgee; fourteen payments in fourteen successive years; Georgia claims up to $250,000."
+  ],
+  "changes": [
+    "Article 4 payment promise reworded: fourteen payments in all, including the first two (was 'then annual sums over fourteen years').",
+    "Compensation, openQuestions and plain.today now record that no repayment act was found and that the 1856 treaty released Creek claims in general terms."
+  ],
+  "unverifiable": [
+    "The fate of S. No. 329 and the 1848 House report (H. Rpt. 826) on the same claim were not traced."
+  ],
+  "treatiesJsonErrors": [
+    "kappler-203 presentDayTribes is empty; the Muscogee (Creek) Nation is the evident successor."
+  ]
+}

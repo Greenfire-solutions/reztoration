@@ -1,0 +1,42 @@
+{
+  "id": "cession-1876-08-15-sauk-and-fox-of-the-missouri-and-the-iow",
+  "name": "Act of August 15, 1876 (section 7): sale of ten sections of the Sac and Fox of the Missouri reservation",
+  "aka": [],
+  "signed": "1876-08-15",
+  "citation": "19 Stat. 208",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-19/pdf/STATUTE-19-Pg208.pdf",
+  "nations": [
+    "Sac and Fox Nation of Missouri in Kansas and Nebraska"
+  ],
+  "promises": [
+    "Section 7: when the Sac and Fox of the Missouri consented in open council, the Secretary of the Interior could offer for sale up to ten sections from the western part of their reservation in Kansas and Nebraska, on the same terms as the Otoe and Missouria lands, with the proceeds used for the tribe's benefit."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "Royce records that the tribe consented on January 8, 1877 and the ten sections were sold. No court or Indian Claims Commission finding about this sale was found.",
+  "nationVoice": [
+    {
+      "nation": "Sac and Fox Nation of Missouri in Kansas and Nebraska",
+      "summary": "The Nation says a treaty of 1837 removed it across the Missouri River into Kansas, to the Great Nemaha reservation in Doniphan and Brown counties.",
+      "url": "https://www.sacandfoxks.com/history/tribe"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Act of August 15, 1876, ch. 308, 19 Stat. 208 (sale of part of the Otoe and Missouria and the Sac and Fox of the Missouri reservations)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-19/pdf/STATUTE-19-Pg208.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 886",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/886/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "presentDayTribes includes the Sac & Fox Tribe of the Mississippi in Iowa (Meskwaki), which was not a party; the Act concerns the Sac and Fox of the Missouri only. \"and the Iowa\" in the schedule name was not confirmed in Royce's row.",
+    "How the sale proceeds were used was not traced."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

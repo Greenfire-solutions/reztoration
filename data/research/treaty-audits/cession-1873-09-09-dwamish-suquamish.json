@@ -1,0 +1,23 @@
+{
+  "id": "cession-1873-09-09-dwamish-suquamish",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce schedule (1899) pp. 800 and 864-865: the September 9, 1873 executive order 'fixes the N. boundary of Swinomish reserve, established by treaty Jan. 22, 1855'; parties listed as 'Dwamish and others'; remark 'simply to cure the indefinite language of the treaty'.",
+    "Order text at the American Presidency Project: 'the northern boundary of the Swinomish Reservation' from Similk Bay to Padilla Bay.",
+    "Royce 1855 remarks: Port Madison was enlarged by order of Oct. 21, 1864; the Sept. 9, 1873 boundary order is the Swinomish (Perry's Island) row.",
+    "Indianz.com, Dec. 14, 2016: Chairman Cladoosby says the 1873 order changed the treaty boundary and Grant lacked authority; 'fighting for this since 1873'.",
+    "Suquamish history page reopened: its allotment-loss account concerns Port Madison, not this order."
+  ],
+  "changes": [
+    "Record re-identified from the Port Madison (Suquamish) reservation to the Swinomish reservation northern boundary order; name, nations, promises, textUrl, sources and plain rewritten.",
+    "Suquamish nation-statement breach removed (wrong reservation); replaced by the Swinomish chairman's statement that the 1873 order changed the treaty boundary without authority. Status stays contested."
+  ],
+  "unverifiable": [
+    "swinomish-nsn.gov returned a Cloudflare challenge; the tribe's position is from a news report quoting its chairman.",
+    "The federal court rulings the Samish Nation says went against the Swinomish on the boundary were not opened."
+  ],
+  "treatiesJsonErrors": [
+    "cession-1873-09-09-dwamish-suquamish (area 349): presentDayTribes lists the Duwamish and Suquamish; the order concerns the Swinomish reservation, so the Swinomish Indian Tribal Community is the present-day tribe. Royce's 'Dwamish and others' is the Point Elliott signatory list."
+  ]
+}

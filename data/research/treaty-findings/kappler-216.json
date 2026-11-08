@@ -1,0 +1,67 @@
+{
+  "id": "kappler-216",
+  "name": "Treaty with the Iowa, 1824",
+  "signed": "1824-08-04",
+  "proclaimed": "1825-01-18",
+  "citation": "7 Stat. 231",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-iowa-1824-0208",
+  "nations": [
+    "Iowa Tribe of Kansas and Nebraska",
+    "Iowa Tribe of Oklahoma"
+  ],
+  "promises": [
+    "Article 2: the United States would pay the Ioway $500 that year in cash or goods and $500 a year for ten years.",
+    "Article 5: the United States would provide a blacksmith, farming tools, cattle and help with agriculture as long as the President thought proper.",
+    "Article 6: annuities would be paid in money, goods, provisions or animals as the tribe chose, with goods at first cost at St. Louis."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1963-08-29",
+      "what": "The Indian Claims Commission found that the Ioway land in northern Missouri ceded by this treaty had a fair market value of $698,040.00 in 1825, that the United States disbursed $13,846.23 under the treaty, and that this was an unconscionable consideration.",
+      "whoFoundIt": "Indian Claims Commission, Docket 135, 12 Ind. Cl. Comm. 487",
+      "source": {
+        "title": "Iowa Tribe of the Iowa Reservation in Kansas and Nebraska et al. v. United States, Docket 135, Opinion of the Commission (August 29, 1963)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/816",
+        "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+      }
+    }
+  ],
+  "landTaken": "The Commission describes the Ioway tract as 1,551,200 acres in northwestern Missouri, including all of present Gentry, Harrison and Mercer counties.",
+  "compensation": "The Commission's final award of May 7, 1965 gave the Iowa petitioners $633,193.77 ($678,193.77 less $45,000 in agreed offsets).",
+  "today": "After a Court of Claims remand on the extent of Ioway land (179 Ct. Cl. 8), the Commission in 1969 left the area credited and the 1965 final award unchanged.",
+  "sources": [
+    {
+      "title": "Treaty with the Iowa, 1824",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-iowa-1824-0208",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Iowa Tribe v. United States, Docket 135, Opinion of the Commission (12 Ind. Cl. Comm. 519, August 29, 1963)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/816",
+      "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Iowa Tribe v. United States, Docket 135, Final Award (May 7, 1965)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/772",
+      "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Iowa Tribe v. United States, Docket 135, Order on Remand (December 10, 1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1404",
+      "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json lists \"The Osage Nation, Oklahoma\" as the present-day tribe and \"Great and Little Osage; Iowa; Sauk and Fox\" as schedule tribes, with no Royce link. Kappler page 208 (HathiTrust seq 216) is the Iowa treaty; the successors are the Iowa Tribe of Kansas and Nebraska and the Iowa Tribe of Oklahoma, as the Commission found. Royce area 69 was first ceded by the Osage in 1808; this is a concurrent Ioway cession.",
+    "The Iowa tribes' own account of the 1824 treaty was not located."
+  ],
+  "plain": {
+    "promised": "The Ioway gave up their land in northern Missouri for $500 and $500 a year for ten years, plus a blacksmith, tools and farm help.",
+    "happened": "In 1963 the Indian Claims Commission found the land was worth $698,040.00 but the United States paid only $13,846.23, an unconscionable price.",
+    "today": "The Commission awarded the Iowa tribes $633,193.77 in 1965, after offsets."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "kappler-66",
+  "name": "Treaty with the Creeks, 1802 (Treaty of Fort Wilkinson)",
+  "aka": [
+    "Treaty of Fort Wilkinson (1802)"
+  ],
+  "signed": "1802-06-16",
+  "proclaimed": "1803-01-11",
+  "citation": "7 Stat. 68",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-creeks-1802-0058",
+  "nations": [
+    "Muscogee (Creek) Nation"
+  ],
+  "promises": [
+    "Article 2: the United States would pay the nation $3,000 every year, $1,000 a year for ten years to the chiefs who administer the government, and $25,000 in goods, debt payments and claims.",
+    "Article 2: the United States would furnish two sets of blacksmith tools and men to work them for three years.",
+    "Article 3: garrisons needed for the frontier would be placed on Indian land on the terms of the treaty of Colerain."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "In Docket 292 the Creek Nation claimed $87,309.75 that the United States had allegedly not disbursed under Article 2. The Indian Claims Commission dismissed the claim in 1959, holding that the burden of proving the failure lay on the nation. This was a ruling against the nation.",
+  "sources": [
+    {
+      "title": "Treaty with the Creeks, 1802",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-creeks-1802-0058",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 660",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/660/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Creek Nation v. United States, Docket 292, Opinion of the Commission (7 Ind. Cl. Comm. 117, February 18, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/113",
+      "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Creek Indian Land Cessions",
+      "url": "https://www.nps.gov/ocmu/learn/historyculture/upload/Accessible-Creek-Land-Cessions.pdf",
+      "publisher": "National Park Service, Ocmulgee Mounds National Historical Park"
+    }
+  ],
+  "openQuestions": [
+    "No Commission claim for additional payment for the land ceded in 1802 (Royce area 44) was found.",
+    "The Muscogee (Creek) Nation's own account of the 1802 treaty was not located."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

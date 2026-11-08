@@ -1,0 +1,17 @@
+{
+  "id": "cession-1873-03-03-creek-seminole",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Docket 167 findings (id 1430): Act of March 3, 1873 (17 Stat. 626); agreement of February 14, 1881; $175,000 paid; Hackbusch survey 1888 enclosed 176,198.99 acres, 1,198.99 acres of Creek land not ceded.",
+    "Interlocutory order July 6, 1967 (id 2219): fee simple title to 1,198.99 acres, deprived without compensation, defendant liable; quote exact. This is a liability finding on land taken in carrying out this record's purchase, so broken stands even though value was later settled.",
+    "Opinion (id 1302): Court of Claims denied relief under the 1924 Act; it reversed the Commission's res judicata dismissal on December 11, 1964 and remanded. Final award (id 1168): $50,000 on stipulation, May 1971, kind litigation right."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "17 Stat. 626 read only as quoted by the Commission (already noted in the file)."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes lacks the Muscogee (Creek) Nation and includes the Seminole Tribe of Florida (already noted in the file)."
+  ]
+}

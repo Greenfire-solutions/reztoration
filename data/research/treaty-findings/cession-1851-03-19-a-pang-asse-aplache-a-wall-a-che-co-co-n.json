@@ -21,7 +21,7 @@
     "Article 5: brood mares, cattle, ploughs, harness, axes, hoes, seed, iron and steel, blankets and clothing, divided among the tribes by their numbers.",
     "Article 6: a farmer, a blacksmith, a worker in wood, a superintendent and assistant school teachers for five years and as long after as the President thought advisable, with a school house built at federal cost."
   ],
-  "status": "unratified",
+  "status": "broken",
   "breaches": [
     {
       "kind": "never-ratified",
@@ -100,7 +100,8 @@
     "The tribal names are as the commissioners wrote them in 1851-52; most are village or local group names, not nations, and how each community names itself today was not established. treaties.json lists as present-day tribes: California Valley Miwok Tribe, California; Ione Band of Miwok Indians of California; Picayune Rancheria of Chukchansi Indians of California; Santa Rosa Indian Community of the Santa Rosa Rancheria, California; Shingle Springs Band of Miwok Indians, Shingle Springs Rancheria (Verona Tract), California; Table Mountain Rancheria of California.",
     "The Court of Claims judgment under the 1928 Act (Indians of California v. United States, 98 Ct. Cl. 583, 1942) and the Indian Claims Commission settlement for the Indians of California (Dockets 31 and 37) were not opened in this pass; they are the leads for the amounts paid.",
     "In Article 2 the signing tribes gave up their claims to other lands; because the Senate rejected the treaty, the United States took the land without the reserved tract or the promised goods (1928 Act, section 2).",
-    "Audit 2026-11-08: promises corrected against treaty M as printed in Heizer (1972), the treaty text at https://digicoll.lib.berkeley.edu/record/83366/files/arfs003-001.pdf."
+    "Audit 2026-11-08: promises corrected against treaty M as printed in Heizer (1972), the treaty text at https://digicoll.lib.berkeley.edu/record/83366/files/arfs003-001.pdf.",
+    "Status set to broken on 2026-11-08 under Jordan's rule: never ratified, but the land was taken and a finding documents it. The never-ratified breach stays so the map labels it."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

@@ -6,7 +6,7 @@
     "Executive Order No. 38-1"
   ],
   "signed": "1861-10-03",
-  "citation": "Executive Order of October 3, 1861 (Executive Order No. 38-1), confirmed by the Act of May 5, 1864",
+  "citation": "Executive Order of October 3, 1861 (Executive Order No. 38-1), confirmed by the Act of May 5, 1864, ch. 77, 13 Stat. 63",
   "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/824/mode/2up",
   "nations": [
     "Ute Indian Tribe of the Uintah and Ouray Reservation (Uintah and other Utah bands)"
@@ -20,8 +20,8 @@
     {
       "kind": "claims-commission",
       "date": "1957-02-21",
-      "what": "The Indian Claims Commission concluded that the United States' settlement of the White River Utes on the Uintah Reservation, in the early 1880s, deprived the Uintah Utes of an undivided half of the reservation's lands. The plaintiffs said this was done without their consent and without payment.",
-      "whoFoundIt": "Indian Claims Commission, Docket 45, 5 Ind. Cl. Comm. 59 (1957)",
+      "what": "The Indian Claims Commission found that the White River Utes were settled on the Uintah Reservation from 1881 without the Uintahs' knowledge or consent and that the Uintahs were never compensated for the undivided interest taken, and concluded that this deprived the Uintah Utes of an undivided half of the reservation.",
+      "whoFoundIt": "Indian Claims Commission, Docket 45, Findings of Fact 11-12 and Opinion, 5 Ind. Cl. Comm. 47 and 59 (1957)",
       "source": {
         "title": "Uintah Ute Indians of Utah v. United States, Docket 45, Opinion of the Commission (5 Ind. Cl. Comm. 59, February 21, 1957)",
         "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/86",
@@ -85,9 +85,10 @@
   "openQuestions": [
     "This Royce record is an executive order setting apart a reservation, not a cession. Royce area 431 is the Uintah valley reserve; what area 432 marks was not settled from the scanned schedule (Royce notes an unratified Ute treaty of June 8, 1865 ceding all land in Utah except the Uintah reserve).",
     "Hagen v. Utah held for the State; it is recorded under today, not as a breach. The 1903 Act is recorded as the breach because it removed the consent the 1902 Act required.",
-    "The Statutes at Large page for the 1864 confirming Act was not opened in this pass, so no citation is given.",
+    "The Statutes at Large page for the 1864 confirming Act was not opened; its citation (ch. 77, 13 Stat. 63) is taken from Hagen v. Utah.",
     "The Ute Indian Tribe's own account (utetribe.com) did not load for a robot; the nation voice is missing.",
-    "The 1905 Uinta forest reserve withdrawal from the reservation and Docket 44's subject were not researched."
+    "The 1905 Uinta forest reserve withdrawal from the reservation and Docket 44's subject were not researched.",
+    "Audit 2026-11-08: the Commission breach said the lack of consent and payment was only the plaintiffs' claim; findings 11 and 12 (id 13) state both as found facts, so \"what\" was corrected. Added the 1864 Act citation from Hagen v. Utah."
   ],
   "plain": {
     "promised": "In 1861 President Lincoln set apart about 2 million acres in the Uintah Valley, confirmed by Congress in 1864 for the permanent and exclusive settlement of the Utah tribes who moved there.",

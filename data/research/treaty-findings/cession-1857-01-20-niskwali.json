@@ -15,20 +15,8 @@
     "Royce records that the Nisqually reserve as enlarged and moved by this order is the present Nisqually reserve.",
     "The Nisqually Indian Tribe states that the enlargement gave a reservation of 4,717 acres on both sides of the river, in place of the 1,280 acres first set apart."
   ],
-  "status": "broken",
+  "status": "contested",
   "breaches": [
-    {
-      "kind": "government-admission",
-      "date": "1924-04-28",
-      "what": "Congress authorized $85,000 in full settlement of the claims of twenty-five heads of families of the Nisqually Reservation, as compensation for the difference between the appraised value and the compromise price paid for about 3,300 acres of allotted land taken for military purposes, and for surrender of treaty rights and removal expenses.",
-      "whoFoundIt": "Act of April 28, 1924, ch. 134, 43 Stat. 111",
-      "source": {
-        "title": "Act of April 28, 1924, ch. 134, 43 Stat. 111 (relief of dispossessed allotted Indians of the Nisqually Reservation)",
-        "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg111.pdf",
-        "publisher": "U.S. Government Publishing Office"
-      },
-      "quote": "approximately three thousand three hundred acres of allotted Indian land taken for military purposes, and for surrender of treaty rights and removal expenses"
-    },
     {
       "kind": "nation-statement",
       "date": "1917",
@@ -83,11 +71,12 @@
     "The same order also set up the Puyallup enlargement and the Muckleshoot reserve; those are not researched here.",
     "The Nisqually Tribe dates the enlargement to an 1856 executive order; Royce and the Indian Claims Commission (Docket 197, 1973, quoting 1 Kappler 918-19) date the President's approval to January 20, 1857.",
     "HistoryLink and Wikipedia report $65,000 appropriated in 1921; the Act found and opened is the Act of April 28, 1924 authorizing $85,000. Senate Document 243, 66th Congress, 2nd session (the Acting Secretary of the Interior's report of February 28, 1920) was not opened.",
-    "Indian Claims Commission Docket 197 (Nisqually) concerns the 1854 Medicine Creek cession and belongs with that treaty's record."
+    "Indian Claims Commission Docket 197 (Nisqually) concerns the 1854 Medicine Creek cession and belongs with that treaty's record.",
+    "Audit 2026-11-08: removed the Act of April 28, 1924 (43 Stat. 111) as a government-admission breach and downgraded to contested. The Act authorizes $85,000 \"in full settlement of the claims\" for the difference between appraised value and the compromise price paid; it pays, and states no wrong, so like an ICC compromise it is not a finding. It stays under compensation. Senate Document 243, 66th Congress, 2nd session, may hold an admission and is the lead for a deeper pass. HistoryLink states court challenges to the county condemnation were rejected."
   ],
   "plain": {
     "promised": "In 1857 the President enlarged and moved the Nisqually Reservation, as the Medicine Creek treaty allowed. The Tribe says it then held 4,717 acres on both sides of the river.",
-    "happened": "In 1917 the Army ordered Nisqually families from their homes, and Pierce County condemned 3,353 acres for Fort Lewis, the Tribe says. In 1924 Congress paid toward the land taken for military purposes and the surrender of treaty rights.",
+    "happened": "In 1917 the Army ordered Nisqually families from their homes, and Pierce County condemned 3,353 acres for Fort Lewis, the Tribe says. No court or commission finding that this broke the order was located.",
     "today": "Congress authorized $85,000 for the dispossessed families in 1924. The Tribe says the land north and east of the river is still part of the base."
   },
   "researchedAt": "2026-11-08",

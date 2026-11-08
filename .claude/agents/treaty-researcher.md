@@ -28,7 +28,9 @@ Project: `~/Desktop/Main projects/Reztoration`. Read `PROTOCOLS.md` first, every
 | status | only when |
 |---|---|
 | `broken` | at least one breach of kind `court-ruling`, `claims-commission`, `act-of-congress`, `executive-action` or `government-admission`, with a source url you opened |
-| `unratified` | signed but the Senate never ratified it (`never-ratified` breach, sourced) |
+| `unratified` | signed but the Senate never ratified it (`never-ratified` breach, sourced) and no finding documents a taking. If the US took the land anyway and a finding kind documents it (e.g. the 1928 California jurisdictional act, a Court of Claims ruling), the status is `broken`; keep the `never-ratified` breach so the map labels it "Broken (never ratified)" (Jordan's rule, 2026-11-08) |
+
+Jordan's rule (2026-11-08): an executive order shrinking or revoking an executive-order reservation is NOT by itself a breach. It is broken only with a court, claims-commission, Act-of-Congress or government-admission finding about that land.
 | `contested` | only `nation-statement`, `historian` or `litigation` evidence so far |
 | `no-breach-found` | you looked properly and found no documented breach. Never write "honored", "kept" or "fulfilled" |
 
@@ -101,3 +103,4 @@ Lessons from the first audit (16 of 20 files needed a correction):
 - **Write only** inside `data/research/treaty-findings/`. Never edit `treaties.json`, the map, or another researcher's file; if you find an error in `treaties.json`, put it in `openQuestions` and your report.
 - **When two researchers run at once**, each takes a different `--nation`, `--from/--to` or `--skip` range; check a file does not already exist before writing it.
 - **Court of Claims opinions are free at the Caselaw Access Project:** `https://static.case.law/<reporter>/<volume>/cases/<page4>-01.json` (e.g. `f-supp/64/cases/0339-01.json`, `ct-cl/...`). Leagle and Midpage paywall or rate-limit the same opinions. Use this before writing "no breach found" on any treaty a tribe sued over before 1946 (Rogue River 1946/1950 turned two no-breach files into broken).
+- **Two documents, one date or one page:** Royce and Kappler often print two agreements on the same day or the same page (Kappler p. 398 has two Appalachicola relinquishments of June 18, 1833; p. 457 has two Potawatomi band treaties; the Sept 9, 1873 order is Swinomish, not Port Madison). Match the Royce AREA NUMBER and the statute citation to the text before researching; do not take the first entry on the page.

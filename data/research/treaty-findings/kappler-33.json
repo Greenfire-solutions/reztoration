@@ -1,0 +1,52 @@
+{
+  "id": "kappler-33",
+  "name": "Treaty with the Creeks, 1790 (Treaty of New York)",
+  "aka": [
+    "Treaty of New York (1790)"
+  ],
+  "signed": "1790-08-07",
+  "proclaimed": "1790-08-13",
+  "citation": "7 Stat. 35",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-creeks-1790-0025",
+  "nations": [
+    "Muscogee (Creek) Nation"
+  ],
+  "promises": [
+    "Article 4: the boundary between the United States and the Creek Nation was fixed, the Creeks ceded the land north and east of it, and the United States would pay $1,500 a year and deliver goods.",
+    "Article 5: the United States solemnly guaranteed to the Creek Nation all their lands within the United States west and south of that boundary.",
+    "Article 6: a citizen who tried to settle on Creek lands would forfeit the protection of the United States, and the Creeks could punish him as they pleased.",
+    "Article 7: no citizen was to hunt on Creek lands or enter the Creek country without a passport."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "In Docket 275 the Indian Claims Commission (1970) held that the Article 5 guarantee was an undertaking to protect the Creeks' aboriginal occupancy against Georgia and white settlers, not a grant of recognized title. No court or Commission finding that a promise of this treaty was broken was located.",
+  "sources": [
+    {
+      "title": "Treaty with the Creeks, 1790",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-creeks-1790-0025",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 652",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/652/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Creek Nation v. United States, Docket 275, Opinion of the Commission (23 Ind. Cl. Comm. 1, April 15, 1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/927",
+      "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Creek Indian Land Cessions",
+      "url": "https://www.nps.gov/ocmu/learn/historyculture/upload/Accessible-Creek-Land-Cessions.pdf",
+      "publisher": "National Park Service, Ocmulgee Mounds National Historical Park"
+    }
+  ],
+  "openQuestions": [
+    "The Article 5 guarantee covered Creek land later taken by the Treaty of Fort Jackson (1814), which was the subject of the Commission's Docket 21; that docket concerns the 1814 treaty, not this one, and was not read for this record.",
+    "The Muscogee (Creek) Nation's own account of the 1790 treaty was not located.",
+    "The secret articles of the treaty were not reviewed."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

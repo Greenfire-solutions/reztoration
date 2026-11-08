@@ -883,7 +883,7 @@ function brokenCard(c) {
   const found = c.foundBy ? `${esc(KIND_LABEL[c.foundBy.kind] || c.foundBy.kind)}${c.foundBy.date ? `, ${esc(year(c.foundBy.date))}` : ''}` : '';
   const nations = c.nations.slice(0, 5).map((n) => `<span class="tag">${esc(n)}</span>`).join('') + (c.nations.length > 5 ? `<span class="tag">+${c.nations.length - 5}</span>` : '');
   return `<article class="bt-card s-${esc(c.status)}">
-    <div class="bt-head">${dot(c.status)}<span class="bt-st">${esc({ broken: 'Broken', unratified: 'Never ratified', contested: 'Contested' }[c.status])}</span><span class="bt-yr">${esc(year(c.date))}</span></div>
+    <div class="bt-head">${dot(c.status)}<span class="bt-st">${esc({ broken: 'Broken', unratified: 'Never ratified', contested: 'Contested' }[c.status])}${c.status === 'broken' && c.neverRatified ? ' · never ratified' : ''}</span><span class="bt-yr">${esc(year(c.date))}</span></div>
     <h3><a href="#treaty/${encodeURIComponent(c.id)}">${esc(c.name)}</a></h3>
     <div class="bt-nations">${nations}</div>
     ${c.voice ? `<div class="bt-voice"><div class="k">In the words of ${esc(c.voice.nation)}</div><p>${esc(c.voice.summary)}</p>${link(c.voice.url, 'Read it from the nation')}</div>` : ''}

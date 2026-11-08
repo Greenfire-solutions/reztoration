@@ -20,7 +20,7 @@
   ],
   "status": "no-breach-found",
   "breaches": [],
-  "today": "Royce lists the rest of the Kansas reservation (area 488) as ceded later; this record was not researched past the 1860 treaty.",
+  "today": "In 1932 the Court of Claims dismissed a Delaware claim that the United States owed the gold premium on $286,742.15 received for the land sold to the Leavenworth, Pawnee and Western Railroad under this treaty and the 1861 supplement, holding that accounting in legal-tender notes discharged its duty as trustee. Royce lists the rest of the Kansas reservation (area 488) as ceded later.",
   "nationVoice": [],
   "sources": [
     {
@@ -32,11 +32,16 @@
       "title": "Absentee Delaware Tribe of Oklahoma et al. and Delaware Tribe of Indians v. United States, Dockets 72 and 298, Findings of Fact (1969)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1194",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Delaware Tribe of Indians v. United States, 74 Ct. Cl. 368 (1932)",
+      "url": "https://static.case.law/us-ct-cl/74/cases/0368-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
     }
   ],
   "openQuestions": [
     "The Indian Claims Commission collection was searched (Delaware dockets 27-A, 72, 289, 298, 337 and others): Dockets 72 and 298 concern the 1854 trust lands and the 1854 cession, not the 1860 sale to the Leavenworth, Pawnee and Western Railroad. No Commission or court finding on this treaty was located.",
-    "Pre-1946 Court of Claims cases (Caselaw Access Project) were not searched for this treaty; a case on the 1860 railroad sale or the supplemental treaty of July 2, 1861 is the main lead.",
+    "Audit 2026-11-08: pre-1946 Court of Claims opinions in the Caselaw Access Project were searched (Delaware Tribe v. United States, 72 Ct. Cl. 483 and 525, 74 Ct. Cl. 368, 84 Ct. Cl. 535). Only 74 Ct. Cl. 368 (1932) concerns this treaty: it went against the tribe on the gold-premium claim for the railroad sale, so it is recorded in today, not as a breach. The Commission's Docket 27-A decisions were also checked and concern earlier cessions. No-breach-found stands.",
     "The 1861 supplemental treaty on the railroad's bonds, and reports that the railroad bought about 223,966 acres appraised near $286,742, were not opened; they are leads on whether the price or bonds were honored.",
     "treaties.json lists the Delaware Nation, Oklahoma (the Absentee or Western Delaware); the Kansas Delawares who made this treaty are the ancestors of the Delaware Tribe of Indians (Bartlesville). The OSU database lists both as successors.",
     "The Delaware Tribe's own account of the 1860 treaty was not found; a delawaretribe.org opinion piece on the railroad sale returned 404.",

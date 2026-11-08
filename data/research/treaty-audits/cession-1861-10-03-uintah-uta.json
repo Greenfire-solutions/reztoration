@@ -1,0 +1,21 @@
+{
+  "id": "cession-1861-10-03-uintah-uta",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Docket 45 opinion (id 86): \"to deprive the Uintah Utes of an undivided half of the lands of the Uintah Reservation\" exact. Findings (id 13) 11-13: White River Utes removed from August 1881 without the Uintahs' knowledge or consent; Uintahs not compensated for the undivided interest taken.",
+    "Hagen v. Utah (Cornell) loaded: about 2 million acres, EO No. 38-1; Act of May 5, 1864, ch. 77, 13 Stat. 63, \"permanent settlement and exclusive occupation\"; 1902 Act consent of a majority of adult males; Act of March 3, 1903, ch. 994, 32 Stat. 998 allot unilaterally if no consent by June 1; opened from August 28, 1905; Myton not Indian country.",
+    "Final judgment Dockets 44 and 45 (id 450): $7,700,000.00 on joint stipulation, so litigation is the right kind.",
+    "Both findings concern the reservation this order created, so broken stands."
+  ],
+  "changes": [
+    "Commission breach reworded: lack of consent and payment are the Commission's findings 11-12, not only the plaintiffs' claim; whoFoundIt adds the findings.",
+    "Added the 1864 Act citation (ch. 77, 13 Stat. 63) from Hagen v. Utah to citation and openQuestions."
+  ],
+  "unverifiable": [
+    "Ute Indian Tribe site not retried."
+  ],
+  "treatiesJsonErrors": [
+    "states lists UT, CO and NV; the Uintah Valley Reservation is in Utah only. Royce area 432 unidentified (already noted in the file)."
+  ]
+}

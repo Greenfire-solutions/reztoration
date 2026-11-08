@@ -1,0 +1,43 @@
+{
+  "id": "cession-1877-02-28-cherokee",
+  "name": "Act of February 28, 1877 providing for the sale of the unsold Cherokee Strip in Kansas",
+  "aka": [
+    "Cherokee Strip (Kansas) sale act, 1877"
+  ],
+  "signed": "1877-02-28",
+  "citation": "19 Stat. 265",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-19/pdf/STATUTE-19-Pg265.pdf",
+  "nations": [
+    "Cherokee Nation",
+    "United Keetoowah Band of Cherokee Indians"
+  ],
+  "promises": [
+    "The Act recited that the unsold lands of the Cherokee Strip on the southern boundary of Kansas were still the property of the Cherokee Nation, and that the 1872 prices of two dollars an acre east of the Arkansas River and one dollar and fifty cents west of it were too high.",
+    "The Secretary would offer the unsold land to settlers at one dollar and twenty-five cents an acre, and after one year sell what remained for cash at not less than one dollar an acre.",
+    "The proceeds would be paid into the Treasury to the credit of the Cherokee Nation and paid to its treasurer on the order of its legislative council.",
+    "The Act would take effect only when the legislature of the Cherokee Nation accepted it."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "No court, Indian Claims Commission or congressional finding that this sale broke a promise to the Cherokee Nation was found. The Act required the Cherokee legislature's acceptance before it took effect.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Act of February 28, 1877, ch. 75, 19 Stat. 265 (An act to provide for the sale of certain lands in Kansas)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-19/pdf/STATUTE-19-Pg265.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 888",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/888/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "This is not the Act taking the Black Hills. Royce lists two Acts of February 28, 1877: this one (19 Stat. 265, Cherokee, area 491) and the Sioux Act ratifying the agreement of September 26, 1876 (19 Stat. 254). treaties.json has no separate 1877-02-28 Sioux record; the Black Hills taking sits with cession-1876-09-26-arapaho-northern-cheyenne-sioux.",
+    "Whether and when the Cherokee legislature accepted the Act, and what the sales brought, was not traced.",
+    "The Cherokee Strip in Kansas came from Article 17 of the treaty of July 19, 1866 (kappler-950); any claim about how the strip was sold as a whole belongs there."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kappler-219",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Choctaw Nation v. United States, 119 U.S. 1 (1886), govinfo PDF: decided November 15, 1886; mistake in locating the line fixed by the Act of March 3, 1875 took 136,204 acres (fraction illegible; petition says 136,204.02) valued at $68,102, 'a just and valid claim'; quote exact; the petition names the 1825 treaty (7 Stat. 234) among those fixing the line.",
+    "Encyclopedia of Arkansas: $175,049.57 at $1.25 an acre; paid $68,102.00 in 1888, $0.50 an acre; line settled at the erroneous 1825 Conway survey.",
+    "OSU text: Jan. 20, 1825, 7 Stat. 234, proclaimed Feb. 19, 1825; Articles 1, 2, 3, 7 and 9 as stated."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [
+    "The Act of March 3, 1875 (18 Stat. 476) was not opened."
+  ],
+  "treatiesJsonErrors": []
+}

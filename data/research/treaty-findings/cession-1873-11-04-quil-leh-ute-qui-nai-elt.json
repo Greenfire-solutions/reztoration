@@ -1,0 +1,79 @@
+{
+  "id": "cession-1873-11-04-quil-leh-ute-qui-nai-elt",
+  "name": "Executive order of November 4, 1873 enlarging the Quinault Reservation (same order as cession-1873-11-04-quillehute-quinaielt)",
+  "aka": [
+    "Quinaielt Reserve executive order"
+  ],
+  "signed": "1873-11-04",
+  "citation": "Executive Order of November 4, 1873",
+  "textUrl": "https://www.presidency.ucsb.edu/documents/executive-order-defining-quinaielt-reserve-boundaries",
+  "nations": [
+    "Quinault Indian Nation (including the Queets)",
+    "Quileute Tribe",
+    "Hoh Indian Tribe"
+  ],
+  "promises": [
+    "The President set apart an enlarged reserve north and east of the treaty reserve, up to Quinault Lake and the Queets River, for the Quinaielt, Quillehute, Hoh, Quit and other fish-eating Indians of the Pacific coast."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1945-02-05",
+      "what": "The Court of Claims held that the northern boundary of the reservation had been located wrongly, that the \"northwest point\" of Quinault Lake named in the 1873 order was the point farthest north on its western shore, and that the United States had taken the lands lying between the correct line and the line adopted. The line used had been chosen, the court found, from expediency, because white settlers had located on the land.",
+      "whoFoundIt": "Court of Claims, The Quinaielt Tribe of Indians v. United States, 102 Ct. Cl. 822 (1945)",
+      "source": {
+        "title": "The Quinaielt Tribe of Indians v. The United States, 102 Ct. Cl. 822 (February 5, 1945)",
+        "url": "https://static.case.law/us-ct-cl/102/cases/0822-01.json",
+        "publisher": "Caselaw Access Project, Harvard Law School"
+      }
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1951-01-09",
+      "what": "Valuing the taking, the Court of Claims found that the United States took the 15,928.87 acre tract between 1892, when the erroneous survey was completed, and March 1, 1898, when the remaining land went into the national forest reserve or to the State of Washington. It valued the land at $25,000 and, with interest, found $87,988.68 due, but then set off $87,995.62 the United States had spent for the tribes outside treaty obligations, and dismissed the petition.",
+      "whoFoundIt": "Court of Claims, The Quinaielt Tribe of Indians v. United States, 118 Ct. Cl. 220 (1951)",
+      "source": {
+        "title": "The Quinaielt Tribe of Indians v. The United States, 118 Ct. Cl. 220 (January 9, 1951)",
+        "url": "https://static.case.law/us-ct-cl/118/cases/0220-01.json",
+        "publisher": "Caselaw Access Project, Harvard Law School"
+      }
+    }
+  ],
+  "landTaken": "The Court of Claims found a tract of 15,928.87 acres west of Quinault Lake taken between 1892 and March 1, 1898 (118 Ct. Cl. 220).",
+  "compensation": "None. The 1951 judgment set off federal spending against the $87,988.68 found due and dismissed the petition (118 Ct. Cl. 220).",
+  "today": "This record is the same executive order as cession-1873-11-04-quillehute-quinaielt; see that file for the full record.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Ulysses S. Grant, Executive Order Defining Quinaielt Reserve Boundaries, November 4, 1873",
+      "url": "https://www.presidency.ucsb.edu/documents/executive-order-defining-quinaielt-reserve-boundaries",
+      "publisher": "The American Presidency Project, UC Santa Barbara"
+    },
+    {
+      "title": "The Quinaielt Tribe of Indians v. The United States, 102 Ct. Cl. 822 (February 5, 1945)",
+      "url": "https://static.case.law/us-ct-cl/102/cases/0822-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "The Quinaielt Tribe of Indians v. The United States, 118 Ct. Cl. 220 (January 9, 1951)",
+      "url": "https://static.case.law/us-ct-cl/118/cases/0220-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 866",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/866/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "Duplicate of cession-1873-11-04-quillehute-quinaielt (Royce area 551). Royce's note for the 1873 order says \"See 372\"; area 372, which this record maps, is the original reserve of the 1855-1856 Treaty of Olympia, so this record's map area is not land the 1873 order added. treaties.json should probably merge the two records."
+  ],
+  "plain": {
+    "promised": "In 1873 the President enlarged the Quinault Reservation for the Quinault, Quileute, Hoh, Queets and other coast peoples.",
+    "happened": "The northern line was surveyed in the wrong place. The Court of Claims held in 1945 that the United States had taken 15,928.87 acres.",
+    "today": "In 1951 the court subtracted federal spending for the tribes from what was owed and dismissed the claim, so nothing was paid."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "kappler-876",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Internal consistency: name, signed 1864-10-18, ratified 1866-05-22, proclaimed 1866-08-16, citation, textUrl, promises and ICC sources all concern the October 18, 1864 treaty; the 1855 date appears only in the openQuestion flagging treaties.json.",
+    "Statutes at Large, 14 Stat. 657 (govinfo): treaty concluded Oct. 18, 1864, ratification advised with amendments May 22, 1866, proclaimed Aug. 16, 1866. 14 Stat. 637 is an unrelated private act, so OSU's 637 is a misprint.",
+    "ICC Docket 13-H opinion (524) and findings (354), May 14, 1953: no fraud in the 1864 treaty; timber claim too vague to support recovery.",
+    "Ziibiwing history page: delayed annuities, lumbermen swindles, agents and timber barons, 130,000 acres, 1,500 allotments, a handful by 1934, 2010 boundary ruling, as attributed."
+  ],
+  "changes": [
+    "Open question on 14 Stat. 657 resolved.",
+    "plain.happened reworded to follow the Tribe's account more closely (causes listed as the Tribe gives them) and to say the 1953 no-fraud finding was about the 1864 treaty."
+  ],
+  "unverifiable": [
+    "The 2010 boundary decision (E.D. Mich. No. 05-10296) was not opened."
+  ],
+  "treatiesJsonErrors": [
+    "kappler-876 is dated 1855-08-02 and lists Royce area 396 and the 1855 schedule name, but its Kappler page (p. 868) and area 464 are the treaty of October 18, 1864; the 1855 Treaty of Detroit is kappler-741 (area 396)."
+  ]
+}

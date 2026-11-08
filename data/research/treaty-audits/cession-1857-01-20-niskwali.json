@@ -1,0 +1,19 @@
+{
+  "id": "cession-1857-01-20-niskwali",
+  "auditedAt": "2026-11-08",
+  "verdict": "downgraded",
+  "checked": [
+    "Act of April 28, 1924, ch. 134, 43 Stat. 111 opened (govinfo): authorizes $85,000 \"in full settlement of the claims against the United States\" of 25 heads of families, for the difference between appraised value and compromise price for about 3,300 acres of allotted land taken for military purposes, and for surrender of treaty rights and removal expenses. The quote in the file was exact.",
+    "Nisqually Tribe heritage page loaded: 1,280 acres; enlarged to 4,717 acres by an order it dates January 20, 1856; Army in winter 1917; Pierce County condemned 3,353 acres; 3,300 acres north and east of the river are a Fort Lewis impact area.",
+    "HistoryLink essay 8005 loaded: landholders paid a small portion of value in April 1918; court challenges to the condemnation rejected; Congress gave some additional compensation in 1921."
+  ],
+  "changes": [
+    "Removed the 1924 Act as a government-admission breach; status broken to contested. A congressional payment \"in full settlement\" that states no wrong is a settlement, not an admission or a finding. The Act stays under compensation; plain.happened rewritten."
+  ],
+  "unverifiable": [
+    "Senate Document 243, 66th Congress, 2nd session (the Interior report the Act relies on) was not found online; it is the lead for any admission. No federal act authorizing condemnation of the allotments was located."
+  ],
+  "treatiesJsonErrors": [
+    "Royce 405 and 406 are both mapped here; one is the Puyallup enlargement (already noted in the file)."
+  ]
+}

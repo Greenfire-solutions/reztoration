@@ -1,0 +1,16 @@
+{
+  "id": "kappler-471",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "OSU text: Sept. 3, 1836, 7 Stat. 506, proclaimed Feb. 15, 1837; cession as described; $20,000 a year for twenty years, provisions, tobacco, salt, $500 farming, two blacksmiths; debts of $99,710.50 subject to examination.",
+    "No Menominee decision in the ICC collection; Caselaw Access Project Menominee opinions (95, 97, 101, 102, 107, 117, 118, 119, 121 Ct. Cl.) listed and grepped: none mentions the Cedar Point treaty."
+  ],
+  "changes": [
+    "Payment promises set out exactly from Article 2 (the file had said they were only skimmed); plain.promised updated to match."
+  ],
+  "unverifiable": [
+    "menominee-nsn.gov page returns 200 but renders by script; its content could not be read."
+  ],
+  "treatiesJsonErrors": []
+}

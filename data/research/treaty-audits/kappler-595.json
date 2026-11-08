@@ -1,0 +1,15 @@
+{
+  "id": "kappler-595",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "OSU text: Apr. 1, 1850, 9 Stat. 987, ratified Sept. 24, proclaimed Sept. 30, 1850; preamble admits the 148,000 acres were never received; $185,000 at $1.25 an acre, $100,000 invested at five percent, $85,000 paid."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "Area 263 (Delaware land sold to the Wyandot) is not a cession under this treaty, which paid for land never assigned."
+  ]
+}

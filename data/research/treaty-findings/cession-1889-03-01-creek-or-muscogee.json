@@ -1,0 +1,45 @@
+{
+  "id": "cession-1889-03-01-creek-or-muscogee",
+  "name": "Act of March 1, 1889 ratifying the Creek agreement of January 19, 1889",
+  "aka": [
+    "Creek cession of the Oklahoma lands"
+  ],
+  "signed": "1889-01-19",
+  "ratified": "1889-03-01",
+  "citation": "25 Stat. 757",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/930/mode/2up",
+  "nations": [
+    "Muscogee (Creek) Nation"
+  ],
+  "promises": [
+    "Royce records that the Creeks ceded to the United States the half of their domain lying west of the division line set by the treaty of June 14, 1866, and all claims to other lands except their domain east of that line.",
+    "The Indian Claims Commission records that the United States agreed to pay $2,280,857.10 for the cession."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "The Indian Claims Commission, quoting its own earlier findings, states that the consideration of $2,280,857.10 was paid to the Creek Nation under the 1889 agreement.",
+  "today": "In Docket 167 the Commission (1963) considered 1,198.99 acres lying east of the dividing line that the Court of Claims had held were released by the 1889 agreement; that land is outside the ceded area mapped here. Docket 167 ended in a $50,000 compromise in 1971. Royce records that the President's proclamation of March 23, 1889 opened the ceded lands to settlement.",
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 930",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/930/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Creek Nation v. United States, Docket 167, Opinion and Decision of the Commission (12 Ind. Cl. Comm. 54, February 28, 1963)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/708",
+      "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Creek Nation v. United States, Docket 167, Final Award on compromise (May 26, 1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1168",
+      "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json lists the Poarch Band of Creeks, Alabama, as a present-day tribe for this record; the 1889 agreement concerned the Creek Nation's domain in Indian Territory, and no source here ties the Poarch Band to it.",
+    "The Muscogee (Creek) Nation's own account of the 1889 cession was not located."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

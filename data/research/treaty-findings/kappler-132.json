@@ -1,0 +1,36 @@
+{
+  "id": "kappler-132",
+  "name": "Treaty with the Cherokee, March 22, 1816 (cession to South Carolina)",
+  "signed": "1816-03-22",
+  "ratified": "1816-04-08",
+  "citation": "7 Stat. 138",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1816-0124",
+  "nations": [
+    "Cherokee Nation"
+  ],
+  "promises": [
+    "Article 2: the United States promised that South Carolina would pay the Cherokee Nation $5,000 within ninety days after ratification, provided the nation sanctioned the treaty in council and South Carolina approved."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "No court, Indian Claims Commission or Court of Claims finding about this cession was located.",
+  "sources": [
+    {
+      "title": "Treaty with the Cherokee, 1816 (7 Stat. 138)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1816-0124",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 680",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/680/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "Whether South Carolina paid the $5,000 was not confirmed.",
+    "A second Cherokee treaty of the same day (7 Stat. 139) deals with boundaries and roads; this record is the South Carolina cession (Royce area 76).",
+    "The Cherokee Nation's own account of this cession was not located."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

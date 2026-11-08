@@ -24,9 +24,9 @@
       "kind": "claims-commission",
       "date": "1967-09-29",
       "what": "The Indian Claims Commission found that the United States, as trustee under the 1859 treaty, sold 285,658.20 acres of Sac and Fox trust land in 1864-65 for $282,557.48 when its fair market value was $856,974.60, that it violated its fiduciary obligations by failing to take reasonable and prudent steps to get the best prices, and that it was liable for $574,417.12.",
-      "whoFoundIt": "Indian Claims Commission, Docket 219, 18 Ind. Cl. Comm. 558 (1967)",
+      "whoFoundIt": "Indian Claims Commission, Docket 219, 18 Ind. Cl. Comm. 558 (Findings of Fact) and 639 (Final Award) (1967)",
       "source": {
-        "title": "Sac and Fox Tribe of the Mississippi in Iowa et al. v. United States, Docket 219, Final Award (18 Ind. Cl. Comm. 558, September 29, 1967)",
+        "title": "Sac and Fox Tribe of the Mississippi in Iowa et al. v. United States, Docket 219, Final Award (18 Ind. Cl. Comm. 639, September 29, 1967)",
         "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1818",
         "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
       },
@@ -50,12 +50,12 @@
       "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
     },
     {
-      "title": "Sac and Fox Tribe of the Mississippi in Iowa et al. v. United States, Docket 219, Opinion of the Commission (September 29, 1967)",
+      "title": "Sac and Fox Tribe of the Mississippi in Iowa et al. v. United States, Docket 219, Opinion of the Commission (18 Ind. Cl. Comm. 612, September 29, 1967)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1535",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
     },
     {
-      "title": "Sac and Fox Tribe of the Mississippi in Iowa et al. v. United States, Docket 219, Findings of Fact (September 29, 1967)",
+      "title": "Sac and Fox Tribe of the Mississippi in Iowa et al. v. United States, Docket 219, Findings of Fact (18 Ind. Cl. Comm. 558, September 29, 1967)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2643",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
     },
@@ -65,7 +65,7 @@
       "publisher": "Meskwaki Nation"
     },
     {
-      "title": "Sac and Fox Tribe of the Mississippi in Iowa et al. v. United States, Docket 219, Final Award (18 Ind. Cl. Comm. 558, September 29, 1967)",
+      "title": "Sac and Fox Tribe of the Mississippi in Iowa et al. v. United States, Docket 219, Final Award (18 Ind. Cl. Comm. 639, September 29, 1967)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1818",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
     }
@@ -74,11 +74,12 @@
     "treaties.json lists only the Sac & Fox Tribe of the Mississippi in Iowa; the Docket 219 plaintiffs were the Iowa tribe and the Sac and Fox Tribe of Indians of Oklahoma, and the Sac and Fox Nation of Oklahoma descends from the Kansas group. The list should probably name both.",
     "The Commission did not rule on the petitioners' charge of fraud in the 1864-65 sales; it decided the claim on the fiduciary ground.",
     "Whether the 1967 award was appealed to the Court of Claims was not checked.",
-    "The Meskwaki page does not discuss the 1859 treaty itself; an account from the Sac and Fox Nation of Oklahoma was not found in this pass."
+    "The Meskwaki page does not discuss the 1859 treaty itself; an account from the Sac and Fox Nation of Oklahoma was not found in this pass.",
+    "Audit 2026-11-08: figures, quote and the 153,600-acre promise checked against Docket 219 and the treaty text. The Final Award is at 18 Ind. Cl. Comm. 639 (the findings are at 558, the opinion at 612); citation corrected. Plain line said the land sold for 'about a third of its value', a ratio not stated in the file; replaced with the Commission's two figures."
   ],
   "plain": {
     "promised": "The tribe kept about 153,600 acres in Kansas, with 80 acres for each member, and the United States would sell the rest to the highest bidder and spend the money on homes, tools and stock.",
-    "happened": "The Indian Claims Commission found in 1967 that the United States, as trustee, sold the land in 1864-65 for about a third of its value and broke its duty to get the best price.",
+    "happened": "The Indian Claims Commission found in 1967 that the United States, as trustee, sold the land in 1864-65 for $282,557.48 when it was worth $856,974.60, and broke its duty to get the best price.",
     "today": "The Commission awarded $574,417.12 for this treaty, part of a net judgment of $899,408.54 that also covered the 1867 cession."
   },
   "researchedAt": "2026-11-08",

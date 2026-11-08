@@ -1,0 +1,66 @@
+{
+  "id": "kappler-175",
+  "name": "Treaty with the Osage, 1818",
+  "aka": [
+    "Lovely's Purchase cession"
+  ],
+  "signed": "1818-09-25",
+  "proclaimed": "1819-01-07",
+  "citation": "7 Stat. 183",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-osage-1818-0167",
+  "nations": [
+    "Osage Nation"
+  ],
+  "promises": [
+    "Article 2: in addition to what the Osage already received, the United States would pay its own citizens for property the Osage were proved to have taken or destroyed since 1814, up to $4,000.",
+    "Article 3: the articles would be permanent additions to the treaties then in force."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "litigation",
+      "date": "1970-09-03",
+      "what": "The Osage Nation claimed additional compensation for Royce area 97 ceded in 1818 (Docket 106). The Commission found in 1968 that the Osage held aboriginal title to the area but had not yet valued it when the parties settled Dockets 105 to 108 together for a net judgment of $13,250,000.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 105, 106, 107 and 108, 23 Ind. Cl. Comm. 447",
+      "source": {
+        "title": "Osage Nation v. United States, Dockets 105 to 108, Findings of Fact on Compromise Settlement (September 3, 1970)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1352",
+        "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+      }
+    }
+  ],
+  "compensation": "A compromise net judgment of $13,250,000 in 1970 settled the Osage claims for the 1808, 1818 and 1825 cessions and Docket 108 together.",
+  "today": "The settlement made no finding on the value of Royce area 97 or on whether the 1818 consideration was unconscionable.",
+  "sources": [
+    {
+      "title": "Treaty with the Osage, 1818",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-osage-1818-0167",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 692",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/692/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Osage Nation v. United States, Dockets 106-107, Opinion of the Commission (19 Ind. Cl. Comm. 447, September 20, 1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1593",
+      "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Osage Nation v. United States, Dockets 105 to 108, Findings of Fact on Compromise Settlement (September 3, 1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1352",
+      "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "The Osage Nation's own account of the 1818 cession was not located."
+  ],
+  "plain": {
+    "promised": "The Osage ceded land along the Arkansas and Verdigris rivers in 1818. In return the United States would pay its own citizens up to $4,000 for property taken by Osage war parties.",
+    "happened": "The Osage sued for more payment. The Claims Commission found the land was Osage land, then the case was settled before any value or fault was decided.",
+    "today": "A single $13,250,000 settlement in 1970 covered this and three other Osage claims."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

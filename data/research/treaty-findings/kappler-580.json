@@ -14,7 +14,7 @@
   "promises": [
     "Article 2: the Menominee ceded all their lands in Wisconsin.",
     "Article 3: the United States gave them, 'for a home, to be held as Indians' lands are held', land west of the Mississippi ceded by the Chippewa and Pillager bands in 1847, guaranteed to contain not less than 600,000 acres.",
-    "Article 4 and following: further payments in money set out in the treaty."
+    "Article 4: a further $350,000, paid at the times and for the purposes set out in the treaty."
   ],
   "status": "no-breach-found",
   "breaches": [],
@@ -51,7 +51,8 @@
   "openQuestions": [
     "The Court of Claims opinion of 1941 (95 Ct. Cl. 232) concerns the 1854 reservation's swamp lands; none of the later Menominee opinions opened concerns the 1848 price or the Minnesota land.",
     "treaties.json lists Royce area 321 (Minnesota) with this treaty; that is the 600,000-acre western tract given, not land ceded by the Menominee. The cession is area 271.",
-    "A deeper pass could look for a Menominee claim about the 1848 consideration under the 1935 jurisdictional act and for a Menominee account of Oshkosh's refusal to move to Crow Wing."
+    "A deeper pass could look for a Menominee claim about the 1848 consideration under the 1935 jurisdictional act and for a Menominee account of Oshkosh's refusal to move to Crow Wing.",
+    "Audit 2026-11-08: dates, 9 Stat. 952, the Article 3 quote and the 600,000-acre guarantee checked against the OSU text; Article 4 amount added. The Wolf River treaty citation (10 Stat. 1064, May 12, 1854) checked. No Menominee Court of Claims opinion in the Caselaw Access Project concerns this treaty."
   ],
   "plain": {
     "promised": "For all their Wisconsin land, the Menominee were to get money and a western home of at least 600,000 acres in Minnesota.",

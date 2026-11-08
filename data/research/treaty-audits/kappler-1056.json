@@ -1,0 +1,17 @@
+{
+  "id": "kappler-1056",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "OSU text: Dec. 14, 1843, 9 Stat. 337, ratified July 25, 1848 with the 'no better right' proviso; three sections donated, thirty-six sold; $46,080, $6,080 in 1844 then $4,000 a year for ten years (eleven years, as the file says)."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [
+    "Royce p. 778 not reopened."
+  ],
+  "treatiesJsonErrors": [
+    "Area 263 is a Delaware-to-Wyandot sale, not a cession to the United States (also mapped to kappler-595)."
+  ]
+}

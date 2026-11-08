@@ -18,7 +18,7 @@
     {
       "kind": "claims-commission",
       "date": "1956-02-29",
-      "what": "The Indian Claims Commission found that the United States never made a treaty of cession with the Colville, Lake, Sanpoil, Nespelem, Okanogan and Methow tribes and never paid them for their lands outside the reservation, and that those aboriginal lands were acquired by the United States on July 2, 1872, the date of this order, without payment, making it liable for their value.",
+      "what": "On the parties' stipulation that the United States never made a treaty of cession with the Colville, Lake, Sanpoil, Nespelem, Okanogan and Methow tribes and never paid them for their lands outside the reservation, the Indian Claims Commission held that those aboriginal lands were acquired by the United States on July 2, 1872, the date of this order, without compensation, and that it was liable for their value.",
       "whoFoundIt": "Indian Claims Commission, Docket 181, 4 Ind. Cl. Comm. 151 (1956) and 7 Ind. Cl. Comm. 187 (1959)",
       "source": {
         "title": "Confederated Tribes of the Colville Reservation et al. v. United States, Docket 181, Opinion of the Commission (7 Ind. Cl. Comm. 187, March 5, 1959)",
@@ -30,13 +30,13 @@
       "kind": "act-of-congress",
       "date": "1892-07-01",
       "what": "Congress declared the north half of the reservation, about 1,500,000 acres, vacated and restored to the public domain notwithstanding the executive order, and opened it to settlement, without ratifying the May 9, 1891 agreement under which the Indians were to be paid $1,500,000 and without providing that payment.",
-      "whoFoundIt": "Act of July 1, 1892, 27 Stat. 62; Indian Claims Commission findings on compromise settlement, Dockets 177, 181-A and 181-B (1967)",
+      "whoFoundIt": "Act of July 1, 1892, ch. 140, 27 Stat. 62; the missing ratification and payment are as the petitioners' claim is summarized in the Indian Claims Commission findings on compromise settlement, Dockets 177, 181-A and 181-B (1967)",
       "source": {
         "title": "Act of July 1, 1892, ch. 140, 27 Stat. 62 (opening of part of the Colville Reservation)",
         "url": "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg62.pdf",
         "publisher": "U.S. Government Publishing Office"
       },
-      "quote": "be, and is hereby, Vacated and restored to the public domain, notwithstanding any executive order or other proceeding"
+      "quote": "be, and is hereby, vacated and restored to the public domain, notwithstanding any executive order or other proceeding"
     },
     {
       "kind": "litigation",
@@ -106,7 +106,8 @@
     "The Lake Tribe's 1959 figure is unclear in the scan and is left out.",
     "Whether the 1956 liability finding is better placed with a Royce record for the unceded aboriginal lands was not settled; the Commission dated the taking to this order.",
     "The Confederated Tribes of the Colville Reservation's own history page was not found (colvilletribes.com history paths returned 404); the nation voice is missing.",
-    "The 1906 opening of the south half (34 Stat. 80) and the claims about it (Docket 177) were settled, not decided."
+    "The 1906 opening of the south half (34 Stat. 80) and the claims about it (Docket 177) were settled, not decided.",
+    "Audit 2026-11-08: quote corrected to the statute's lower-case \"vacated\"; the 1956 breach reworded because \"no treaty of cession, never paid\" was a stipulation of the parties, not a Commission finding; whoFoundIt for the 1892 Act notes that the 1967 summary of the unratified agreement is the petitioners' claim as summarized. The Lake Tribe's 1959 figure reads $125,000 in the second interlocutory order (id 248) but is still OCR-damaged there."
   ],
   "plain": {
     "promised": "In 1872 the President set apart the land between the Columbia and Okanogan rivers, north to Canada, as the Colville Reservation.",

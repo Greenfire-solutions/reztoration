@@ -19,7 +19,7 @@
     "Article 4 set apart as an Indian reservation, its use and possession 'forever guarantied' to the signing tribes and to other tribes the United States might move there from the Klamath and Trinity rivers, a tract around Scott's valley and across the Klamath to the 42nd parallel, estimated at twenty-four miles by fifteen.",
     "Article 4 let miners already working that part of Scott's river keep their claims for two years and let settlers stay until June 1, 1852, and reserved to the United States a right of way and the use of up to one thousand acres for farming."
   ],
-  "status": "unratified",
+  "status": "broken",
   "breaches": [
     {
       "kind": "never-ratified",
@@ -90,7 +90,8 @@
     "Heizer (1972) prints only Article 4 of this treaty, so the relinquishment article and the goods, mechanics and teachers promised were not checked; because the Senate rejected the treaty, the United States took the land without the reserved tract or the promised goods (1928 Act, section 2).",
     "Heizer's printed heading for this treaty reads 'October 6, 1851', but its closing clause, the President's schedule and the 1852 message all give November 4, 1851; the heading appears to repeat treaty Q's date.",
     "The Senate's rejection date is given as July 8, 1852 by Heizer (1972, introduction), but the Senate clerk's 1904 search quoted in the National Archives' Prologue article (2013) gives July 2, 1852; the Senate Executive Journal was not opened to settle it.",
-    "Audit 2026-11-08: promises rewritten from treaty R's own text (Heizer 1972); the four generic promises copied across the California files ('Article 3 or 4', beef and flour 'during 1851 and 1852', staff 'for at least five years') did not fit this treaty or could not be checked for it."
+    "Audit 2026-11-08: promises rewritten from treaty R's own text (Heizer 1972); the four generic promises copied across the California files ('Article 3 or 4', beef and flour 'during 1851 and 1852', staff 'for at least five years') did not fit this treaty or could not be checked for it.",
+    "Status set to broken on 2026-11-08 under Jordan's rule: never ratified, but the land was taken and a finding documents it. The never-ratified breach stays so the map labels it."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

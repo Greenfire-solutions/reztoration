@@ -1,0 +1,15 @@
+{
+  "id": "cession-1829-08-01-winnebago",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Kappler text on treaties.okstate.edu: 7 Stat. 323, proclaimed January 2, 1830; Articles 2 to 5 match the promises ($18,000 a year for 30 years, $30,000 in goods, tobacco and salt; three blacksmith shops; $23,532.28 to named creditors; grants to named descendants outside the mineral country). Article 6 not ratified.",
+    "Docket 243-245 additional findings (id 1096): Royce Area 149 worth $2,025,000.00, about $0.75 an acre, on January 2, 1830.",
+    "Compromise findings (id 1872) and final judgment: net $4,600,000.00 for Dockets 243, 244 and 245; governing bodies are the Tribal Council of the Winnebago Tribe of Nebraska and the Business Committee of the Wisconsin Winnebago. Kind litigation and status contested are right."
+  ],
+  "changes": [
+    "plain.promised: removed \"lead-mining country of northern Illinois and southern Wisconsin\" and \"traders'\" claims, which were not in the file (PROTOCOLS 15)."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": []
+}

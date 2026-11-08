@@ -16,7 +16,7 @@
     "Article 3 set apart 'forever' for the sole use and occupancy of the tribes a district from the mouth of Ash creek on the Sacramento river, twenty-five miles up the east branch, due north to the Pit river and down it to the start; bands of the Shasta, Nevada and Coast ranges were to be included, and provisions reduced if they did not come in.",
     "Brood mares, milch cows, work cattle, mules, ploughs, hoes, spades and grindstones; a farmer with two assistants, a wheelwright, a carpenter, a blacksmith and school teachers, paid by the United States for five years and as long after as the President thought advisable (Kappler, vol. 4, as excerpted by Oklahoma State University)."
   ],
-  "status": "unratified",
+  "status": "broken",
   "breaches": [
     {
       "kind": "never-ratified",
@@ -90,7 +90,8 @@
     "The tribal names are as the commissioners wrote them in 1851-52; most are village or local group names, not nations, and how each community names itself today was not established. treaties.json lists as present-day tribes: Nonfederally Recognized Indian Groups; Winnemem Wintu Tribe (Nonfederally Recognized Indian Group).",
     "The Court of Claims judgment under the 1928 Act (Indians of California v. United States, 98 Ct. Cl. 583, 1942) and the Indian Claims Commission settlement for the Indians of California (Dockets 31 and 37) were not opened in this pass; they are the leads for the amounts paid.",
     "In Article 3 the signing tribes gave up their claims to other lands; because the Senate rejected the treaty, the United States took the land without the reserved tract or the promised goods (1928 Act, section 2).",
-    "Audit 2026-11-08: promises corrected against treaty H as printed in Heizer (1972), the treaty text at https://digicoll.lib.berkeley.edu/record/83366/files/arfs003-001.pdf; Heizer omits some of this treaty's articles, so the goods and staff are taken from Oklahoma State University's excerpt of Kappler vol. 4 (https://oms.library.okstate.edu/s/oklahoma-built/item/21832), and any subsistence (beef and flour) article was not checked; the earlier 'beef and flour during 1851 and 1852' line was removed because it was copied from the other treaties."
+    "Audit 2026-11-08: promises corrected against treaty H as printed in Heizer (1972), the treaty text at https://digicoll.lib.berkeley.edu/record/83366/files/arfs003-001.pdf; Heizer omits some of this treaty's articles, so the goods and staff are taken from Oklahoma State University's excerpt of Kappler vol. 4 (https://oms.library.okstate.edu/s/oklahoma-built/item/21832), and any subsistence (beef and flour) article was not checked; the earlier 'beef and flour during 1851 and 1852' line was removed because it was copied from the other treaties.",
+    "Status set to broken on 2026-11-08 under Jordan's rule: never ratified, but the land was taken and a finding documents it. The never-ratified breach stays so the map labels it."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

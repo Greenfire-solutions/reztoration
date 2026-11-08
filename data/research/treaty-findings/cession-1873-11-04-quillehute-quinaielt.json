@@ -1,0 +1,83 @@
+{
+  "id": "cession-1873-11-04-quillehute-quinaielt",
+  "name": "Executive order of November 4, 1873 enlarging the Quinault Reservation",
+  "aka": [
+    "Quinaielt Reserve executive order",
+    "Executive Order Defining Quinaielt Reserve Boundaries"
+  ],
+  "signed": "1873-11-04",
+  "citation": "Executive Order of November 4, 1873, under the Treaty of Olympia (1855-1856)",
+  "textUrl": "https://www.presidency.ucsb.edu/documents/executive-order-defining-quinaielt-reserve-boundaries",
+  "nations": [
+    "Quinault Indian Nation (including the Queets)",
+    "Quileute Tribe",
+    "Hoh Indian Tribe"
+  ],
+  "promises": [
+    "The President withheld from sale and set apart an enlarged reserve, running from the old reserve's southwest corner to the south end of Quinault Lake, around the lake's east shore to its northwest point, and across to a point half a mile north of the Queets River, for the use of the Quinaielt, Quillehute, Hoh, Quit and other fish-eating Indians of the Pacific coast."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1945-02-05",
+      "what": "The Court of Claims held that the northern boundary of the reservation had been located wrongly, that the \"northwest point\" of Quinault Lake named in the 1873 order was the point farthest north on its western shore, and that the United States had taken the lands lying between the correct line and the line adopted. The line used had been chosen, the court found, from expediency, because white settlers had located on the land.",
+      "whoFoundIt": "Court of Claims, The Quinaielt Tribe of Indians v. United States, 102 Ct. Cl. 822 (1945)",
+      "source": {
+        "title": "The Quinaielt Tribe of Indians v. The United States, 102 Ct. Cl. 822 (February 5, 1945)",
+        "url": "https://static.case.law/us-ct-cl/102/cases/0822-01.json",
+        "publisher": "Caselaw Access Project, Harvard Law School"
+      }
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1951-01-09",
+      "what": "Valuing the taking, the Court of Claims found that the United States took the 15,928.87 acre tract between 1892, when the erroneous survey was completed, and March 1, 1898, when the remaining land went into the national forest reserve or to the State of Washington. It valued the land at $25,000 and, with interest, found $87,988.68 due, but then set off $87,995.62 the United States had spent for the tribes outside treaty obligations, and dismissed the petition.",
+      "whoFoundIt": "Court of Claims, The Quinaielt Tribe of Indians v. United States, 118 Ct. Cl. 220 (1951)",
+      "source": {
+        "title": "The Quinaielt Tribe of Indians v. The United States, 118 Ct. Cl. 220 (January 9, 1951)",
+        "url": "https://static.case.law/us-ct-cl/118/cases/0220-01.json",
+        "publisher": "Caselaw Access Project, Harvard Law School"
+      }
+    }
+  ],
+  "landTaken": "The Court of Claims found a tract of 15,928.87 acres west of Quinault Lake taken between 1892 and March 1, 1898 (118 Ct. Cl. 220).",
+  "compensation": "None. The Court of Claims valued the land at $25,000 and found $87,988.68 due with interest, then set off $87,995.62 in federal spending for the tribes and dismissed the petition in 1951 (118 Ct. Cl. 220).",
+  "today": "The 1951 judgment left nothing payable. Accounts in this pass say Congress returned north boundary land to the Quinault Nation in 1988, but the statute was not opened, so it is recorded only as an open question.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Ulysses S. Grant, Executive Order Defining Quinaielt Reserve Boundaries, November 4, 1873",
+      "url": "https://www.presidency.ucsb.edu/documents/executive-order-defining-quinaielt-reserve-boundaries",
+      "publisher": "The American Presidency Project, UC Santa Barbara"
+    },
+    {
+      "title": "The Quinaielt Tribe of Indians v. The United States, 102 Ct. Cl. 822 (February 5, 1945)",
+      "url": "https://static.case.law/us-ct-cl/102/cases/0822-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "The Quinaielt Tribe of Indians v. The United States, 118 Ct. Cl. 220 (January 9, 1951)",
+      "url": "https://static.case.law/us-ct-cl/118/cases/0220-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 866",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/866/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "Duplicate record: cession-1873-11-04-quil-leh-ute-qui-nai-elt is the same executive order. Royce lists this order as area 551 with \"See 372\"; area 372 is the original reserve of the 1855-1856 treaty, so the other record's map area is the treaty reserve, not the 1873 addition.",
+    "Several secondary sources say a 1988 Act of Congress returned the north boundary land to the Quinault Nation (one gives Pub. L. 100-638); the statute itself was not located and opened.",
+    "The Quinault Indian Nation's and the Quileute Tribe's own accounts of the north boundary were not found on their websites in this pass.",
+    "treaties.json lists only the Quileute and Quinault; the order also names the Hoh and Queets, and the Supreme Court in Halbert v. United States, 283 U.S. 753, held other tribes shared rights in the reservation."
+  ],
+  "plain": {
+    "promised": "In 1873 the President enlarged the Quinault Reservation for the Quinault, Quileute, Hoh, Queets and other coast peoples, with its northern line set at the northwest point of Quinault Lake.",
+    "happened": "The line was surveyed in the wrong place, leaving land to settlers and the national forest. The Court of Claims held in 1945 that the United States had taken 15,928.87 acres.",
+    "today": "In 1951 the court valued the land at $25,000, then subtracted federal spending for the tribes and dismissed the claim, so nothing was paid. A 1988 return of land is reported but not yet confirmed here."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "cession-1889-11-12-chippewa-bois-forte-band",
+  "name": "Agreement of November 12, 1889 with the Bois Forte and Deer Creek Chippewa under the Nelson Act",
+  "aka": [
+    "Nelson Act cession (Bois Forte)"
+  ],
+  "signed": "1889-11-12",
+  "citation": "Act of January 14, 1889, 25 Stat. 642; agreement in H.R. Ex. Doc. 247, 51st Cong., 1st sess.",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/938/mode/2up",
+  "nations": [
+    "Bois Forte Band of Chippewa (Minnesota Chippewa Tribe)"
+  ],
+  "promises": [
+    "Royce records that the Bois Forte and Deer Creek Chippewa ceded all their title to the Bois Forte and Deer Creek reservations, and their rights in the part of the Red Lake reservation not needed for allotment.",
+    "The Court of Claims records that section 7 of the 1889 act placed the money from disposing of the ceded lands in a permanent fund for all the Chippewa in Minnesota, drawing 5 percent interest for fifty years.",
+    "The Court of Claims records that the act allowed any Indian to decline removal and take an allotment on the reservation where he lived."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "Court of Claims suits by the Chippewa Indians of Minnesota under the 1889 act were dismissed in 1938 and 1940; in 1940 the court found a violation of the act in the estimating and sale of pine timber lands but dismissed the petition because offsets exceeded the loss.",
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 938",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/938/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Chippewa Indians of Minnesota v. United States, 88 Ct. Cl. 1 (1938)",
+      "url": "https://static.case.law/us-ct-cl/88/cases/0001-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Chippewa Indians of Minnesota v. United States, 90 Ct. Cl. 140 (1940)",
+      "url": "https://static.case.law/us-ct-cl/90/cases/0140-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Chippewa Indians of Minnesota v. United States, 91 Ct. Cl. 97 (1940)",
+      "url": "https://static.case.law/us-ct-cl/91/cases/0097-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "A Brief Summary of Bois Forte History",
+      "url": "https://boisforte.com/about/history/",
+      "publisher": "Bois Forte Band of Chippewa"
+    }
+  ],
+  "openQuestions": [
+    "In 91 Ct. Cl. 97 (1940) the Court of Claims held that the United States violated sections 4 and 5 of the 1889 act in estimating and selling ceded pine lands, with a loss of at least $340,061.66, but the opinion does not say which reservations the tracts lay in. If the tracts can be placed on Bois Forte or Deer Creek land, this record would be broken.",
+    "The Minnesota Chippewa Tribe's Nelson Act claims before the Indian Claims Commission (transferred to the Court of Claims in 1976) were not read for this record.",
+    "The Bois Forte Band's history page does not discuss the Nelson Act."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

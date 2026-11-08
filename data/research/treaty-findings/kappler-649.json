@@ -24,28 +24,40 @@
     {
       "kind": "act-of-congress",
       "date": "1858-06-12",
-      "what": "Section 3 of the Act of June 12, 1858 directed the Secretary of the Interior to locate 200 acres each, out of the 70,000-acre reserve this treaty kept, for persons of Miami blood excluded from the annuities. The Commission found 73 persons were allotted 14,533.38 acres of Miami land in Kansas without tribal consent.",
-      "whoFoundIt": "Act of June 12, 1858, sec. 3, 11 Stat. 329, 332, as found by the Indian Claims Commission, Dockets 251 and 124-A, Findings of Fact 15 and 16 (1958)",
+      "what": "Section 3 of the Act of June 12, 1858 directed the Secretary of the Interior to locate 200 acres each, out of the 70,000-acre tract reserved by this treaty, for persons of Miami blood excluded from the annuities. The Commission found 73 persons were allotted 14,533.38 acres of Miami land in Kansas without tribal consent.",
+      "whoFoundIt": "Act of June 12, 1858, ch. 155, sec. 3, 11 Stat. 329, 332; Indian Claims Commission, Dockets 251 and 124-A, Findings of Fact 15 and 16 (1958)",
       "source": {
-        "title": "Miami Tribe of Oklahoma et al. v. United States, Dockets 251 and 124-A, Findings of Fact (July 14, 1958)",
-        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/515",
-        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+        "title": "Act of June 12, 1858, ch. 155, 11 Stat. 329 (Statutes at Large, vol. 11, p. 329 ff.)",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-11/pdf/STATUTE-11-Pg329.pdf",
+        "publisher": "US Government Publishing Office"
       }
     },
     {
       "kind": "government-admission",
       "date": "1891-03-03",
-      "what": "After the Court of Claims found in 1891 that the 73 allottees had not moved west or lived on the land, had been chosen without consulting the tribe, and were not shown to be of Miami blood, Congress appropriated $18,370.89 and $43,600.14 to the Western Miami as a return of funds and payment for the allotted land.",
-      "whoFoundIt": "Act of March 3, 1891, 26 Stat. 1000, as found by the Indian Claims Commission, Dockets 251 and 124-A, Finding of Fact 17 (1958)",
+      "what": "Congress appropriated $18,370.89 to the Western Miami, stating the money was taken from their tribal funds against their protest and in violation of the 1854 treaty, and $43,600.14 for 14,533 acres guaranteed to them by the treaty and allotted to persons not entitled, as found by the Court of Claims in Congressional Case No. 1343.",
+      "whoFoundIt": "Act of March 3, 1891, ch. 543, 26 Stat. 989, 1000",
       "source": {
-        "title": "Miami Tribe of Oklahoma et al. v. United States, Dockets 251 and 124-A, Findings of Fact (July 14, 1958)",
-        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/515",
-        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+        "title": "Act of March 3, 1891, ch. 543, 26 Stat. 989 (Miami item at p. 1000)",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-26/pdf/STATUTE-26-Pg989.pdf",
+        "publisher": "US Government Publishing Office"
+      },
+      "quote": "taken from their tribal funds, against their protest, and in violation of the treaty of eighteen hundred and fifty-four"
+    },
+    {
+      "kind": "government-admission",
+      "date": "1895-03-02",
+      "what": "Congress appropriated $48,528.38 to the Indiana Miami, stating the sum was taken from their tribal funds against their protest, in violation of the 1854 treaty, and paid to persons not entitled to it, as found by the Court of Claims in Congressional Case No. 9255.",
+      "whoFoundIt": "Act of March 2, 1895, ch. 188, 28 Stat. 876, 903",
+      "source": {
+        "title": "Act of March 2, 1895, ch. 188, 28 Stat. 876 (Miami item at p. 903)",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-28/pdf/STATUTE-28-Pg876.pdf",
+        "publisher": "US Government Publishing Office"
       }
     }
   ],
   "landTaken": "14,533.38 acres of the 70,000-acre reserve, allotted to 73 persons in 1859, according to the Commission's findings.",
-  "compensation": "Congress paid the Western Miami $18,370.89 and $43,600.14 on March 3, 1891 (26 Stat. 1000), and on March 2, 1895 appropriated a further sum to the Miami of Indiana as a return of money taken from their tribal funds and paid to the 73 persons (the figure is unreadable in the scan). The Commission held it could not award interest on these sums.",
+  "compensation": "Congress paid the Western Miami $18,370.89 and $43,600.14 by the Act of March 3, 1891 (26 Stat. 1000), and appropriated $48,528.38 to the Indiana Miami by the Act of March 2, 1895 (28 Stat. 903) as a return of money taken from their tribal funds and paid to persons not entitled. The Commission held it could not award interest on these sums.",
   "today": "The Indian Claims Commission held in 1958 that the $200,000 paid for the 254,158.34 acres ceded here, worth $317,697.93, was not an unconscionable price, and that the commutation of annuities was fair. Remaining claims about forced allotments and land sales in Docket 251-A were settled by compromise for $10,000 in 1969.",
   "nationVoice": [
     {
@@ -59,6 +71,21 @@
       "title": "Treaty with the Miami, 1854 (Kappler, vol. 2, p. 641)",
       "url": "https://treaties.okstate.edu/treaties/treaty-with-the-miami-1854-0641",
       "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Act of June 12, 1858, ch. 155, 11 Stat. 329",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-11/pdf/STATUTE-11-Pg329.pdf",
+      "publisher": "US Government Publishing Office"
+    },
+    {
+      "title": "Act of March 3, 1891, ch. 543, 26 Stat. 989",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-26/pdf/STATUTE-26-Pg989.pdf",
+      "publisher": "US Government Publishing Office"
+    },
+    {
+      "title": "Act of March 2, 1895, ch. 188, 28 Stat. 876",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-28/pdf/STATUTE-28-Pg876.pdf",
+      "publisher": "US Government Publishing Office"
     },
     {
       "title": "Miami Tribe of Oklahoma et al. v. United States, Dockets 251 and 124-A, Findings of Fact (July 14, 1958)",
@@ -87,14 +114,13 @@
     }
   ],
   "openQuestions": [
-    "The Act of June 12, 1858 (11 Stat. 329) and the Act of March 3, 1891 (26 Stat. 1000) were read only as quoted and summarised in the Commission's findings; the statutes themselves were not opened (govinfo does not carry volume 26).",
-    "The 1895 appropriation to the Indiana Miami (28 Stat. 903) is unreadable in the scan.",
-    "The Court of Claims findings of January 5, 1891 (Congressional Case No. 1343) were not opened; H.R. Misc. Doc. 83, 51st Cong., 2d Sess. would be the copy."
+    "Audit 2026-11-08: the three statutes were opened on govinfo (which does carry volumes 26 and 28). Sec. 3 of the 1858 Act reads as the file says (11 Stat. 332). The 1891 Act (26 Stat. 1000) itself states the money was taken 'in violation of the treaty' of 1854, so that breach now cites the statute, not only the Commission's summary. The 1895 sum, unreadable in the Commission scan, is $48,528.38 (28 Stat. 903), added as a third breach.",
+    "The Court of Claims findings in Congressional Cases 1343 and 9255 were not opened; H.R. Misc. Doc. 83, 51st Cong., 2d Sess. would be the copy for the first."
   ],
   "plain": {
     "promised": "The Miami kept 70,000 acres in Kansas as tribal land, with no one added without the chiefs' agreement, and were paid $200,000 for the rest.",
     "happened": "An 1858 Act of Congress had 14,533.38 acres of that reserve allotted to 73 people without tribal consent. The Court of Claims found in 1891 they were not shown to be Miami.",
-    "today": "Congress paid $18,370.89 and $43,600.14 in 1891. The Commission found the $200,000 price itself was not unconscionable."
+    "today": "Congress paid $18,370.89 and $43,600.14 in 1891 and $48,528.38 in 1895, saying the money was taken in violation of the treaty. The Commission found the $200,000 price itself was not unconscionable."
   },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"
