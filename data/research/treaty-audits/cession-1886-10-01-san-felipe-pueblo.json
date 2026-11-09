@@ -1,0 +1,23 @@
+{
+  "id": "cession-1886-10-01-san-felipe-pueblo",
+  "auditedAt": "2026-11-08",
+  "verdict": "downgraded",
+  "checked": [
+    "Act of May 31, 1933, ch. 45, 48 Stat. 108-111, read in full on govinfo: section 2 sum for the Pueblo, section 3 sum for non-Indian claimants, section 6 election, section 10 instalments from fiscal 1937; the quotes in the old breaches were exact.",
+    "Act of June 7, 1924, 43 Stat. 636-638, sections 2 and 6, read on govinfo: Board reports cover land granted, confirmed or purchased; section 6 compensation covers land inside granted or confirmed land, for loss through the United States' failure seasonably to prosecute.",
+    "Royce 1899 schedule (pp. 920-923, block \"Oct. 1, Act of Congress, Stat. L. XI, 374\") lists this Pueblo's confirmed grant; matches the file.",
+    "Indian Claims Commission, 41 Ind. Cl. Comm. 29 (1977): the \"Congress determined the Board was unfair\" sentence is a general remark in Santa Clara's case."
+  ],
+  "changes": [
+    "Status lowered from broken to no-breach-found: both breaches (act-of-congress 1924 and government-admission 1933) removed because no opened source ties the divested land to this grant, and the 1933 Act is not an admission that the Board's compensation was inadequate.",
+    "The 1933 sums moved to compensation, worded from the Act itself; the ICC 1977 general remark no longer presented as a finding about this Pueblo.",
+    "today rewritten; plain summary removed (not required for no-breach-found and it described the removed breaches)."
+  ],
+  "unverifiable": [
+    "The Pueblo Lands Board report on this Pueblo (Senate hearings, Survey of Conditions of the Indians, part 20, 1932) could not be opened: HathiTrust full-text search returned a robot challenge, and no other public copy was found.",
+    "Whether the Pueblo had any granted or confirmed tract besides this grant in 1924 was not established from a source."
+  ],
+  "treatiesJsonErrors": [
+    "Date 1886-10-01 is Royce's schedule heading, not an event; the grant was confirmed by the Act of December 22, 1858, 11 Stat. 374, and is land the Pueblo kept, not a cession (already noted in the file)."
+  ]
+}

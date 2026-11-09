@@ -1,0 +1,91 @@
+{
+  "id": "kappler-53",
+  "name": "Treaty with the Seven Nations of Canada, 1796",
+  "aka": [
+    "Treaty of New York (1796)",
+    "1796 Treaty with the St. Regis Indians"
+  ],
+  "signed": "1796-05-31",
+  "proclaimed": "1797-01-31",
+  "citation": "7 Stat. 55",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-seven-nations-of-canada-1796-0045",
+  "nations": [
+    "Saint Regis Mohawk Tribe",
+    "Mohawk Council of Akwesasne",
+    "Kahnawà:ke (Caughnawaga) Mohawk"
+  ],
+  "promises": [
+    "The Seven Nations released to the State of New York all claim to lands in the state, but the tract equal to six miles square reserved for the Indians of the village of St. Regis in the sale to Alexander Macomb was to remain so reserved.",
+    "The Indians of St. Regis were to keep the use of their mills on Salmon River and Grass River and the meadows on Grass River, with one square mile reserved at each if they fell outside the tract.",
+    "New York was to pay sums at the mouth of the Chazy River in August 1796 and a yearly sum forever after.",
+    "The treaty was made with a commissioner appointed under the authority of the United States present."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "2022-03-14",
+      "what": "The federal court held that the 1796 treaty's proviso conferred recognized title on the St. Regis Indians, that New York's purchases of reservation land in 1824 and 1825 were never ratified by the United States, and that the Saint Regis Mohawk Tribe and the United States had each made out a prima facie case under the Nonintercourse Act. It dismissed New York's claims that the reservation was disestablished or diminished and struck its abandonment, release and ratification defenses.",
+      "whoFoundIt": "Canadian St. Regis Band of Mohawk Indians v. New York, 2022 WL 768669 (N.D.N.Y. March 14, 2022) (Kahn, J.)",
+      "source": {
+        "title": "Canadian St. Regis Band of Mohawk Indians v. State of New York, Nos. 5:82-CV-0783, 5:82-CV-1114, 5:89-CV-0829 (N.D.N.Y. March 14, 2022), 2022 WL 768669",
+        "url": "https://nill.narf.org/bulletins/federal/documents/stregis_v_ny.html",
+        "publisher": "Native American Rights Fund, National Indian Law Library"
+      },
+      "quote": "None of the land transactions in 1824 and 1825 were ratified by the United States Senate."
+    }
+  ],
+  "landTaken": "The Tribe puts the land New York bought in 1824 and 1825 at about 2,000 acres; the court records a purchase of a tract of 1,000 acres on June 12, 1824 and a final transaction on September 23, 1825.",
+  "compensation": "No payment for the 1824 and 1825 purchases beyond what New York paid at the time was found. The 2022 ruling did not set a remedy.",
+  "today": "The parties negotiated a settlement; H.R. 2916, to ratify the Agreement of Settlement and Compromise to Resolve the Akwesasne Mohawk Land Claim and the related transfers, passed the House on December 9, 2025. Its enactment was not confirmed as of 2026-11-08.",
+  "nationVoice": [
+    {
+      "nation": "Saint Regis Mohawk Tribe",
+      "summary": "The Tribe says the 1796 Treaty expressly reserved the Hogansburg Triangle and other tracts for its members, that New York bought about 2,000 acres in 1824 and 1825 without a federal commissioner and without federal ratification, and that the land was illegally taken.",
+      "url": "https://www.srmt-nsn.gov/news/2022/u-s-district-court-affirms-1796-treaty-boundary"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Saint Regis Mohawk Tribe, U.S. District Court affirms 1796 treaty boundary (March 2022)",
+      "url": "https://www.srmt-nsn.gov/news/2022/u-s-district-court-affirms-1796-treaty-boundary",
+      "publisher": "Saint Regis Mohawk Tribe"
+    },
+    {
+      "title": "Treaty with the Seven Nations of Canada, 1796 (Kappler, vol. 2)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-seven-nations-of-canada-1796-0045",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Canadian St. Regis Band of Mohawk Indians v. State of New York, Nos. 5:82-CV-0783, 5:82-CV-1114, 5:89-CV-0829 (N.D.N.Y. March 14, 2022), 2022 WL 768669",
+      "url": "https://nill.narf.org/bulletins/federal/documents/stregis_v_ny.html",
+      "publisher": "Native American Rights Fund, National Indian Law Library"
+    },
+    {
+      "title": "H.R. 2916, 119th Congress, to ratify the Akwesasne Mohawk land claim settlement (engrossed, passed the House December 9, 2025)",
+      "url": "https://www.congress.gov/119/bills/hr2916/BILLS-119hr2916eh.htm",
+      "publisher": "Library of Congress, congress.gov"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 656-657",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/656/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json lists no present-day tribes for this entry; the Saint Regis Mohawk Tribe and the other Akwesasne parties are named here. Not edited.",
+    "The 1796 treaty is a cession to New York State made with a US commissioner present; Royce area 28 draws the Seven Nations' release of New York lands, while the breach recorded concerns the reserved St. Regis tract inside it.",
+    "The ruling was read in the National Indian Law Library copy; the Westlaw citation is from that copy. Whether later rulings addressed New York's laches defense was not traced.",
+    "Whether New York paid the perpetual yearly sum was not researched.",
+    "The Mohawk Council of Akwesasne's and the Mohawk Nation Council's own accounts were not opened.",
+    "The settlement parties are named here only as far as the bill text shows (the three consolidated cases 82-CV-783, 82-CV-1114 and 89-CV-829); the agreement itself was not opened.",
+    "The court's quoted sentence was read in the National Indian Law Library copy through a summarising fetch; it should be checked against the full slip opinion."
+  ],
+  "plain": {
+    "promised": "In 1796 the Seven Nations of Canada gave up claims in New York, but a six-mile-square tract at St. Regis, plus mills and meadows, stayed reserved for the St. Regis Mohawks.",
+    "happened": "New York bought reservation land in 1824 and 1825 without federal approval. In 2022 a federal court held the treaty secured Mohawk title and found the sales never ratified.",
+    "today": "A settlement with New York passed the House in December 2025 but was not confirmed enacted. No payment beyond the 1820s prices was found."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

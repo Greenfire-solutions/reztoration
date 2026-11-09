@@ -1,0 +1,20 @@
+{
+  "id": "cession-1886-10-01-taos-pueblo",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Indian Claims Commission, 33 Ind. Cl. Comm. 82 (February 4, 1974), Docket 357-A, read: the Board's decision of March 17, 1927 on the town of Taos was a taking without just compensation in violation of the Fifth Amendment; $297,684.67 adopted as principal, 5 percent simple interest from March 17, 1927; town on 926 acres of the 1689 grant; Board awards $48,497.00 and $27,631.85; $84,707.09 under the 1933 Act; no taking of land outside the town.",
+    "United States v. Pueblo of Taos, 207 Ct. Cl. 53, 515 F.2d 1404 (May 14, 1975), on static.case.law: the United States conceded liability for $297,684.67 for extinguishing title to 926 acres; affirmed.",
+    "Act of May 31, 1933, 48 Stat. 108: $84,707.09 for Taos (section 2); section 3 sums for non-Indian claimants within the pueblo ($14,064.57) and the Tenorio Tract ($43,165.26)."
+  ],
+  "changes": [
+    "Removed the government-admission breach on the 1933 Act (the Commission held the land it paid for was not taken).",
+    "Compensation adds the Commission's no-taking holding for land outside the town."
+  ],
+  "unverifiable": [
+    "The 1976 final award and its payment were not re-opened (the file already leaves payment open)."
+  ],
+  "treatiesJsonErrors": [
+    "Date 1886-10-01 is Royce's schedule heading, not an event; land kept, not a cession."
+  ]
+}

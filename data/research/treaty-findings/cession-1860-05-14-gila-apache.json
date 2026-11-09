@@ -1,0 +1,40 @@
+{
+  "id": "cession-1860-05-14-gila-apache",
+  "name": "Gila Apache reservation of 1860 (Santa Lucia spring), approved by the Commissioner of Indian Affairs",
+  "signed": "1860-05-14",
+  "citation": "Approval of the Commissioner of Indian Affairs, May 14, 1860 (Royce)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/822/mode/2up",
+  "nations": [
+    "Fort Sill Apache Tribe (Chiricahua and Warm Springs Apache)",
+    "Mescalero Apache Tribe"
+  ],
+  "promises": [
+    "The Commissioner of Indian Affairs approved the agent's selection of a Gila Apache reservation, fifteen miles square from Santa Lucia spring, and asked the General Land Office to respect it (Royce).",
+    "The Indian Claims Commission found that Agent Steck recommended a single reservation on the Gila River for all the Indians of the Chiricahua area, and that the Commissioner approved it."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "None recorded for this reserve.",
+  "today": "The Indian Claims Commission found that the Gila River reservation was not carried out because of the Civil War and hostilities, that no treaty or agreement of cession ever became operative with the Chiricahua Apache, and that their lands were taken without consent or compensation; it dated the taking of their aboriginal title to September 4, 1886 (Dockets 30-A and 48-A, findings 6(f), 11 and 13).",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 822-823",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/822/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Fort Sill Apache Tribe et al. v. United States, Dockets 30-A and 48-A, Findings of Fact (June 28, 1968), 19 Ind. Cl. Comm. 212",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2269",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "Royce names the agent \"Steele\"; the Commission's findings name Agent Steck. Probably Michael Steck; not settled.",
+    "The Commission's finding of a taking without consent concerns the Chiricahua aboriginal territory as a whole, not this unrealised reserve; under Jordan's rule for executive reservations it is recorded in today, as on the other Apache executive-order reserves.",
+    "treaties.json lists no present-day tribes; the Fort Sill Apache Tribe is named as successor to the Chiricahua and Warm Springs bands the Commission calls Gila Apache. The Mescalero Apache Tribe is named because Chiricahua and Warm Springs people also live there; not settled.",
+    "No nation account of the 1860 reserve was found."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

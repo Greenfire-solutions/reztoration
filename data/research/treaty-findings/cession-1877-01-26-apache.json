@@ -1,0 +1,100 @@
+{
+  "id": "cession-1877-01-26-apache",
+  "name": "Executive order of January 26, 1877 restoring part of the White Mountain reservation to the public domain",
+  "aka": [
+    "Camp Apache tract order of 1877"
+  ],
+  "signed": "1877-01-26",
+  "citation": "Executive order of January 26, 1877 (Royce area 601)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/888/mode/2up",
+  "nations": [
+    "White Mountain Apache Tribe",
+    "San Carlos Apache Tribe",
+    "Western Apache (the groups named in Docket 22-D)"
+  ],
+  "promises": [
+    "Not a treaty: a presidential order. It restored to the public domain a rectangle of the White Mountain reservation, 360 by 240 chains, surveyed by Lieutenant E. D. Thomas northeast of the flagstaff of Camp Apache (Royce p. 888, area 601).",
+    "Royce cross-refers it to the orders of November 9, 1871, December 14, 1872, August 5, 1873, April 27, 1876 and March 31, 1877, which made and then cut down the White Mountain reservation (Royce p. 889)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1969-06-27",
+      "what": "The Indian Claims Commission concluded that by six executive orders, naming this order of January 26, 1877, the United States took without compensation Western Apache aboriginal title land inside the enlarged White Mountain reservation, each as of its date, and ordered the acreage and value of each excluded tract determined.",
+      "whoFoundIt": "Indian Claims Commission, San Carlos Apache Tribe et al. v. United States, Docket 22-D, Interlocutory Order, conclusion 5 (21 Ind. Cl. Comm. 189)",
+      "source": {
+        "title": "San Carlos Apache Tribe et al. v. United States, Docket 22-D, Interlocutory Order (June 27, 1969), 21 Ind. Cl. Comm. 189",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/932",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      },
+      "quote": "the United States successively extinguished, without the payment of compensation, said Indian title"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1969-06-27",
+      "what": "In its opinion the Commission concluded that by successively diminishing the enlarged White Mountain reservation, including by the order of January 26, 1877, the United States wrongfully took additional Western Apache aboriginal title lands as of the dates of the orders.",
+      "whoFoundIt": "Indian Claims Commission, Docket 22-D, Opinion of the Commission (21 Ind. Cl. Comm. 189)",
+      "source": {
+        "title": "San Carlos Apache Tribe et al. v. United States, Docket 22-D, Opinion of the Commission (June 27, 1969), 21 Ind. Cl. Comm. 189",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1611",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1972-09-12",
+      "what": "The Western Apache land claim ended in a final award entered on a stipulation for final judgment; the amount is a compromise, not a further finding.",
+      "whoFoundIt": "Indian Claims Commission, Docket 22-D, Final Award (28 Ind. Cl. Comm. 399)",
+      "source": {
+        "title": "San Carlos Apache Tribe et al. v. United States, Docket 22-D, Final Award (September 12, 1972)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1055",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    }
+  ],
+  "landTaken": "The tract described by the order (360 by 240 chains). No acreage figure was found in a source opened.",
+  "compensation": "The Docket 22-D claim was compromised; the final award of September 12, 1972 covers the Western Apache land claim as a whole (amount recorded in cession-1877-03-31-apache).",
+  "today": "The Fort Apache (White Mountain) and San Carlos reservations remain. Whether and how the 1972 award was distributed was not traced.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 888, executive order of January 26, 1877",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/888/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 889, remarks and area 601",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/889/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "San Carlos Apache Tribe et al. v. United States, Docket 22-D, Interlocutory Order (June 27, 1969), 21 Ind. Cl. Comm. 189",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/932",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "San Carlos Apache Tribe et al. v. United States, Docket 22-D, Opinion of the Commission (June 27, 1969), 21 Ind. Cl. Comm. 189",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1611",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "San Carlos Apache Tribe et al. v. United States, Docket 22-D, Final Award (September 12, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1055",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json error: presentDayTribes is empty for this record; the White Mountain Apache Tribe should be listed. Not edited.",
+    "Whether the whole of area 601 lay inside the Western Apache title area of Finding 11 was not plotted; the Commission names this order expressly, so the finding is treated as about this land.",
+    "The amount of the 1972 award was not re-read for this file; it is recorded and sourced in cession-1877-03-31-apache.",
+    "The White Mountain Apache Tribe's own account of this order was not located."
+  ],
+  "plain": {
+    "promised": "Not a treaty. A presidential order in 1877 took a surveyed tract near Camp Apache out of the White Mountain reservation and returned it to the public domain.",
+    "happened": "The Indian Claims Commission found this order was one of six by which the United States took Western Apache land inside the reservation without paying for it.",
+    "today": "The Western Apache claim was settled by a compromise award in 1972. Whether it was distributed was not traced."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

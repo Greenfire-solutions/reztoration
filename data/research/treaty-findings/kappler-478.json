@@ -1,0 +1,57 @@
+{
+  "id": "kappler-478",
+  "name": "Treaty with the Potawatomi, September 20, 1836 (bands of To-i-sa's brother Me-mat-way and Che-quaw-ka-ko)",
+  "signed": "1836-09-20",
+  "proclaimed": "1837-02-18",
+  "citation": "7 Stat. 513",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1836-0470",
+  "nations": [
+    "Citizen Potawatomi Nation",
+    "Prairie Band Potawatomi Nation"
+  ],
+  "promises": [
+    "The chiefs and their band ceded ten sections reserved for them by the second article of the Tippecanoe River treaty of October 27, 1832 (Article 1).",
+    "The United States was to pay them $8,000 by the first of May following (Article 2).",
+    "The band agreed to remove west of the Mississippi within two years (Article 3), and the United States was to appoint a commissioner to pay the band's proven debts out of that sum (Article 4)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "$8,000 under Article 2, less debts paid under Article 4. Whether it was paid was not traced.",
+  "today": "A 1972 dissent in the Potawatomi land claims (Dockets 29-D and 29-E) lists this treaty among thirteen made between December 1834 and February 1837 with Wabash Potawatomi village bands for village areas reserved to them in 1832, and says the reserves ceded under them were not tribal lands. No Commission award for these reserves was found.",
+  "nationVoice": [
+    {
+      "nation": "Citizen Potawatomi Nation",
+      "summary": "The Nation's Cultural Heritage Center says federal agent Abel C. Pepper, the commissioner on this treaty, gave whiskey to young leaders to secure the village treaties of 1834 to 1837, and that the government appointed young men as chiefs when the old leaders refused to negotiate.",
+      "url": "https://www.potawatomi.org/blog/2018/09/07/the-united-states-handling-of-the-indian-problem/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Potawatomi, September 20, 1836 (Kappler, vol. 2, p. 470)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1836-0470",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 762-763",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/762/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Hannahville Indian Community et al. v. United States, Dockets 29-D and 29-E, Order Denying Defendant's Motion to Dismiss, Part 1 (March 28, 1972), 27 Ind. Cl. Comm. 325, dissent",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1335",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Citizen Potawatomi Nation, The United States' handling of the 'Indian problem' (September 7, 2018)",
+      "url": "https://www.potawatomi.org/blog/2018/09/07/the-united-states-handling-of-the-indian-problem/",
+      "publisher": "Citizen Potawatomi Nation Cultural Heritage Center"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json names this entry for \"Potawatomi, Masac's band\" with Royce area 221. Kappler p. 470 (seq 478) and Royce p. 762 both show the September 20, 1836 treaty (7 Stat. 513) was with the bands of To-i-sa's brother Me-mat-way and Che-quaw-ka-ko; Masac (Mo-sack) is the September 22 treaty (7 Stat. 514, kappler-479). Royce p. 763 marks this cession \"See 221\": it is drawn inside the area of the Masac cession. Name not edited.",
+    "Royce lists the ten sections in the 1832 treaty as reserved for To-i-sa's brother's band to include their village.",
+    "The dissent in Dockets 29-D and 29-E was read; the majority opinion was not."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

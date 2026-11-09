@@ -1,0 +1,37 @@
+{
+  "id": "cession-1874-04-09-muckleshoot-reservation",
+  "name": "Executive order of April 9, 1874 setting apart lands for the Muckleshoot reservation",
+  "aka": [
+    "Royce area 564"
+  ],
+  "signed": "1874-04-09",
+  "citation": "Executive order of April 9, 1874",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/872/mode/2up",
+  "nations": [
+    "Muckleshoot Indian Tribe"
+  ],
+  "promises": [
+    "Not a cession: the President set apart certain lands for a reservation, supplemental to the executive order of January 20, 1857 (Royce p. 872).",
+    "Royce: this constitutes the present Muckleshoot reservation, sections 2 and 12 of T. 20 N., R. 5 E., and sections 20, 28 and 34 of T. 21 N., R. 5 E., Willamette meridian, within territory first ceded by the Dwamish and others on January 22, 1855 (p. 873, area 564)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "None by this order; it set land apart for the reservation.",
+  "today": "Royce (1899) records that these sections constitute the present Muckleshoot reservation.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 872-873, executive order of April 9, 1874, area 564",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/872/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The Muckleshoot claim before the Indian Claims Commission (Docket 98, decisions of 1953 and 1955) concerns aboriginal land ceded under the 1855 Point Elliott treaty, not this order; it was listed but not read.",
+    "Allotment and later loss of land inside the reservation were not researched.",
+    "No Muckleshoot account of this order was looked up in this pass.",
+    "treaties.json also has cession-1857-01-20-muckleshoot-reservation for the 1857 order (same area 564), which has no findings file yet. treaties.json lists no presentDayTribes for this record. Not edited."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

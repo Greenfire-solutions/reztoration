@@ -1,0 +1,17 @@
+{
+  "id": "cession-1894-08-15-yuma",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce schedule pp. 944-949 read in the Internet Archive full text of annualreportofbu218smit: Aug 15, 1894 Yuma row, Stat. L. XXVIII 332, agreement of Dec 4, 1893, reservation in San Diego County subject to allotments; 'See 652', California 2.",
+    "Arizona v. California, 530 U.S. 392 (2000, static.case.law): 25,000-acre boundary tract; conditions (canal within three years, allotments, sales, openings) 'could be read' as conditions; Margold 1936 and Austin 1977 opinions held the cession unconditional; Krulitz opinion issued in 1978, cited as M-36908 (Jan 2, 1979), 86 I.D. 3, 22; Secretarial Order of Dec 20, 1978 adopted it with an exception for lands acquired by Act of Congress or conveyed to third parties; the Court says the order 'amounted to an admission that the 1893 Agreement had been ineffective to transfer title'; Docket 320 allegations; Aug 11, 1983 $15 million consent judgment, not an admission by either party; both parties continue to recognize the tribe's entitlement.",
+    "Breach quote checked: the Court prints '[t]itle to the subject property is held by the United States in trust for the Quechan Tribe'."
+  ],
+  "changes": [
+    "Breach 1 'what': names Leo Krulitz; adds the order's exception for lands acquired by Congress or conveyed; 'reversing the 1936 Margold opinion' widened to the Department's Margold (1936) and Austin (1977) opinions; adds the Court's description of the order as an admission.",
+    "plain.happened no longer says about 25,000 acres still belong to the tribe."
+  ],
+  "unverifiable": [
+    "The Krulitz opinion (86 I.D. 3) and the Secretarial Order were not opened directly; checked as the Supreme Court quotes them. The 'government admission' wording rests on the Court's own description."
+  ]
+}

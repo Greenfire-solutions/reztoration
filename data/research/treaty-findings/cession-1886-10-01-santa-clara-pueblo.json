@@ -21,29 +21,17 @@
     {
       "kind": "act-of-congress",
       "date": "1924-06-07",
-      "what": "Under the Pueblo Lands Act, the Pueblo Lands Board found Santa Clara's title extinguished to 3,416 acres of its land, including the townsite of Espanola, which lies inside the patented grant. The Board valued the recoverable part at $226,366.43 but awarded $86,821.87.",
+      "what": "Under the Pueblo Lands Act, the Pueblo Lands Board found Santa Clara's title extinguished to 3,416 acres of its land, including the townsite of Espanola, which lies inside the patented grant, and found that all but 22.724 acres could have been recovered by the United States through seasonable prosecution. It valued the recoverable land at $226,366.43 but awarded $86,821.87.",
       "whoFoundIt": "Pueblo Lands Board report on Santa Clara, as set out by the Indian Claims Commission, 41 Ind. Cl. Comm. 29 (1977); Act of June 7, 1924, 43 Stat. 636",
       "source": {
         "title": "Pueblo of Santa Clara v. United States, Docket 356, Opinion on Motion for Summary Judgment: Townsite of Espanola, 41 Ind. Cl. Comm. 29 (October 5, 1977)",
         "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1348",
         "publisher": "Indian Claims Commission, via Oklahoma State University Library"
       }
-    },
-    {
-      "kind": "government-admission",
-      "date": "1933-05-31",
-      "what": "Congress authorized $181,114.19 for the Pueblo of Santa Clara 'in addition to the awards made by the Pueblo Lands Board', in payment of the United States' liability under the 1924 Act. The Indian Claims Commission records that the value of the Espanola townsite was left out of that sum.",
-      "whoFoundIt": "Act of May 31, 1933, ch. 45, sec. 2, 48 Stat. 108",
-      "source": {
-        "title": "Act of May 31, 1933, ch. 45, 48 Stat. 108",
-        "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg108.pdf",
-        "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
-      },
-      "quote": "In addition to the awards made by the Pueblo Lands Board"
     }
   ],
   "landTaken": "The Pueblo Lands Board found title extinguished to 3,416 acres, including the Espanola townsite; the Commission also cites testimony that title to a further 901 acres was extinguished on judicial review (41 Ind. Cl. Comm. 29).",
-  "compensation": "Board award $86,821.87 against a Board-found fair market value of $226,366.43 for the recoverable land; for the further acreage, a fair market value of $98,487.72 and an additional award of $27,146.87. The Commission gives the difference between appraisal and award as $218,587.83; Congress added only $181,114.19 in 1933, deducting the Espanola townsite's value of $37,348.69 plus an unexplained $124.95. The Commission wrote that Congress found the Board unfair and except in a few instances paid the difference.",
+  "compensation": "Board award $86,821.87 against a Board-found fair market value of $226,366.43 for the recoverable land; for the further acreage, a fair market value of $98,487.72 and an additional award of $27,146.87. The Commission gives the difference between appraisal and award as $218,587.83; Congress added only $181,114.19 in 1933, deducting the Espanola townsite's value of $37,348.69 plus an unexplained $124.95. The Commission wrote that Congress found the Board unfair and except in a few instances paid the difference. Section 2 of the Act of May 31, 1933 states no findings; it adds the sum \"in addition to the awards made by the Pueblo Lands Board\". In 1976 the Commission held that Congress, acting as trustee, paid full market value for Santa Clara's other lost land and that there was no Fifth Amendment taking (39 Ind. Cl. Comm. 34).",
   "today": "On October 5, 1977 the Indian Claims Commission refused summary judgment on Santa Clara's claim of $37,465.64 plus interest for the Espanola townsite as a Fifth Amendment taking, finding the record left too much unexplained; it held the claim timely. The final outcome was not researched.",
   "nationVoice": [],
   "sources": [
@@ -71,13 +59,19 @@
       "title": "Pueblo of Santa Clara v. United States, Docket 356, Opinion on Motion for Summary Judgment: Townsite of Espanola, 41 Ind. Cl. Comm. 29 (October 5, 1977)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1348",
       "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Pueblo of San Ildefonso, Santo Domingo, Santa Clara and Nambe v. United States, Dockets 354, 355, 356 and 358, Opinion on Plaintiffs' Motions for Rehearing, 39 Ind. Cl. Comm. 34 (September 16, 1976)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2713",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
     }
   ],
   "openQuestions": [
     "The date 1886-10-01 in treaties.json is not an event date for this land. Royce prints the Pueblo grants under a block headed 'Oct. 1, Act of Congress, Stat. L. XI, 374'; 11 Stat. 374 is the Act of December 22, 1858, which confirmed the grant. This is land the Pueblo kept, not land it ceded. Not edited.",
     "The final result of the Espanola townsite claim (Docket 356, transferred to the Court of Claims in 1978; see the 1982 order in 231 Ct. Cl. 1036 refusing dismissal) was not traced.",
     "The Pueblo of Santa Clara's own account was not located: santaclarapueblo.org loaded but carries no land history.",
-    "The statute link in treaties.json (ops.libs.uga.edu) was not used; the Act was read on govinfo."
+    "The statute link in treaties.json (ops.libs.uga.edu) was not used; the Act was read on govinfo.",
+    "Audit 2026-11-08 (round 14): the government-admission breach on the 1933 Act was removed and its content kept in compensation. the Act of May 31, 1933 (48 Stat. 108, read on govinfo) has no findings or preamble. Its title calls it a payment \"in part\" of the liability declared by the 1924 Act; section 2 adds sums \"in addition to the awards made by the Pueblo Lands Board\" and names pueblos, not grants or tracts. It is not, on its face, an admission that the Board's compensation was inadequate, and the Indian Claims Commission later held that Congress, acting as trustee, paid full market value for the lost land and that there was no Fifth Amendment taking (39 Ind. Cl. Comm. 34, 1976; 33 Ind. Cl. Comm. 82, 1974, for Taos land outside the town). The 1977 Commission remark that Congress \"determined the Board was unfair\" (41 Ind. Cl. Comm. 29) is a general description in Santa Clara's case, not a finding about this Pueblo. The 1933 Act is therefore not counted as a breach. The status rests on the Board finding for land inside the patented grant (41 Ind. Cl. Comm. 29); the seasonable-prosecution figure (all but 22.724 acres) was added from the same page."
   ],
   "plain": {
     "promised": "In 1858 Congress confirmed Santa Clara's land grant along the Rio Grande and later issued a patent, giving up only the United States' own claim.",

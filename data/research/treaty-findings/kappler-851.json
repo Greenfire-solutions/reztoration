@@ -43,12 +43,12 @@
     },
     {
       "kind": "claims-commission",
-      "date": "1969-11-14",
-      "what": "Of the reservation this treaty kept, 549,559 acres left after allotment were ceded under the Agreement of May 1, 1893 for $1,634,664. After the Court of Claims reversed the Commission's first ruling that the price was not unconscionable (176 Ct. Cl. 815, 1966), the Commission allowed recovery because the consideration was unconscionable and awarded $6,609,926.14, plus interest on a principal of $1,387,911.00.",
-      "whoFoundIt": "Indian Claims Commission, Nez Perce Tribe v. United States, Docket 175-B, opinion and final award of November 14, 1969 (22 Ind. Cl. Comm. 53), on remand from 176 Ct. Cl. 815 (1966)",
+      "date": "1972-11-01",
+      "what": "Of the reservation this treaty kept, 549,559 acres left after allotment were ceded under the Agreement of May 1, 1893 for $1,634,664. After the Court of Claims reversed the Commission's first ruling that the price was not unconscionable (176 Ct. Cl. 815, 1966), the Commission found in 1969 that the consideration was unconscionable and awarded $1,387,911 with interest. The Court of Claims reversed the interest in 1971 (194 Ct. Cl. 490), and on remand the Commission found a fair market value of $3,022,575, held the consideration 'so grossly inadequate as to make the consideration unconscionable', and awarded $1,387,911.00.",
+      "whoFoundIt": "Indian Claims Commission, Nez Perce Tribe v. United States, Docket 175-B, amended conclusions of law and final award of November 1, 1972 (29 Ind. Cl. Comm. 127), on remand from 194 Ct. Cl. 490 (1971); earlier award of November 14, 1969 (22 Ind. Cl. Comm. 53) vacated",
       "source": {
-        "title": "Nez Perce Tribe of Indians v. United States, Docket No. 175-B, Final Award, November 14, 1969",
-        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1098",
+        "title": "Nez Perce Tribe of Indians v. United States, Docket No. 175-B, Order Amending Findings of Fact and Conclusions of Law, November 1, 1972",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1016",
         "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
       }
     },
@@ -65,7 +65,7 @@
     }
   ],
   "landTaken": "The 1855 reservation outside the new boundaries (Article 1). Later, 549,559 acres of the 1863 reservation were ceded under the 1893 Agreement, as stated by the Indian Claims Commission (1964 and 1969 opinions, Docket 175-B).",
-  "compensation": "$4,157,605.06 final judgment in 1960 for the 1863 cession (Docket 175-A); $6,609,926.14 final award in 1969 for the 1893 cession (Docket 175-B).",
+  "compensation": "$4,157,605.06 final judgment in 1960 for the 1863 cession (Docket 175-A). For the 1893 cession (Docket 175-B), the 1969 award of $6,609,926.14 (principal $1,387,911 plus interest) was reversed as to interest by the Court of Claims in 1971 (194 Ct. Cl. 490); the final award of November 1, 1972 was $1,387,911.00 (29 Ind. Cl. Comm. 127).",
   "today": "The Nez Perce Tribe says its reservation was reduced to about 750,000 acres by this treaty and opened to settlement after allotment (Nez Perce Tribe, History).",
   "nationVoice": [
     {
@@ -76,8 +76,8 @@
   ],
   "plain": {
     "promised": "A smaller reservation around Lapwai and the Clearwater for the tribe's sole use, $262,500 in addition to the 1855 annuities, and the 1855 rights outside the reservation kept in force.",
-    "happened": "The Indian Claims Commission set the value of the land given up at $4,650,000 in 1959 and held the tribe entitled to a balance. In 1969 it found the 1893 price for remaining reservation land unconscionable.",
-    "today": "Final judgments were $4,157,605.06 in 1960 for the 1863 cession and $6,609,926.14 in 1969 for the 1893 cession. The tribe says this treaty cut its reservation to about 750,000 acres."
+    "happened": "The Indian Claims Commission set the value of the land given up at $4,650,000 in 1959 and held the tribe entitled to a balance. In 1972 it found the 1893 price for remaining reservation land unconscionable.",
+    "today": "Final awards were $4,157,605.06 in 1960 for the 1863 cession and $1,387,911 in 1972 for the 1893 cession, after a court struck the interest from a 1969 award. The tribe says this treaty cut its reservation to about 750,000 acres."
   },
   "sources": [
     {
@@ -124,14 +124,35 @@
       "title": "History",
       "url": "https://nezperce.org/about/history/",
       "publisher": "Nez Perce Tribe"
+    },
+    {
+      "title": "United States v. Nez Perce Tribe of Indians, 194 Ct. Cl. 490 (1971)",
+      "url": "https://static.case.law/us-ct-cl/194/cases/0490-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library"
+    },
+    {
+      "title": "Nez Perce Tribe of Indians v. United States, Docket No. 175-B, Order Amending Findings of Fact and Conclusions of Law, November 1, 1972",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1016",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Nez Perce Tribe of Indians v. United States, Docket No. 175-B, Opinion of the Commission, November 1, 1972",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2078",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Nez Perce Tribe of Indians v. United States, Docket No. 175-B, Final Award, November 1, 1972",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1735",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
     }
   ],
   "openQuestions": [
     "The 1959 findings' OCR is damaged: the acreage of the 1863 cession and the consideration paid could not be read reliably and are left out. The balance before offsets reads as $4,297,605.06, which agrees with the $4,157,605.06 judgment plus the $140,000 offset settlement.",
-    "The 1969 award of $6,609,926.14 appears to include interest; the order also provides simple interest on a principal of $1,387,911.00 from November 15, 1969. Whether that principal is the unconscionability difference was not confirmed.",
+    "Resolved by audit round 14: the $6,609,926.14 of 1969 was principal $1,387,911 plus 5% interest from August 15, 1894 ($5,222,015.14 per 194 Ct. Cl. 490); the principal is the unconscionability difference ($3,022,575 value less $1,634,664 paid, 29 Ind. Cl. Comm. 127).",
     "Treaty signers came mainly from the bands whose land stayed inside the new reservation; the bands whose homelands were ceded, including Joseph's Wallowa band, did not sign. This is widely reported by historians but was not confirmed from a finding in this pass.",
     "Docket 175 (a further Nez Perce claim, settled for $3,550,000 in 1971) was not read; its subject was not identified.",
-    "Audit 2026-11-08: the 1960 final judgment changed from claims-commission to litigation, because it was entered on a stipulation and its amount reflects a compromise of offsets (Docket 175-A, Final Judgment and Opinion, June 17, 1960). The 1959 breach no longer says \"grossly inadequate\", words that could not be found in the damaged scan; the $4,650,000 and $4,297,605.06 figures are now flagged as read from a damaged scan. \"About $2.97 an acre\" removed from the 1893 breach: the scan shows the per-acre figure as \"$f.97\", and the figure was the researcher's division."
+    "Audit 2026-11-08: the 1960 final judgment changed from claims-commission to litigation, because it was entered on a stipulation and its amount reflects a compromise of offsets (Docket 175-A, Final Judgment and Opinion, June 17, 1960). The 1959 breach no longer says \"grossly inadequate\", words that could not be found in the damaged scan; the $4,650,000 and $4,297,605.06 figures are now flagged as read from a damaged scan. \"About $2.97 an acre\" removed from the 1893 breach: the scan shows the per-acre figure as \"$f.97\", and the figure was the researcher's division.",
+    "Audit 2026-11-08 (round 14): Docket 175-B breach, compensation and plain corrected from the 1969 award of $6,609,926.14 with interest to the final award of $1,387,911.00 of November 1, 1972 (29 Ind. Cl. Comm. 127), after the Court of Claims reversed the interest award on March 19, 1971 (194 Ct. Cl. 490). The 1971 opinion gives the price paid as $1,626,222, the Commission $1,634,664; the Commission's figure is kept."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

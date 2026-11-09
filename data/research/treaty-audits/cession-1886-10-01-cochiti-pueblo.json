@@ -1,0 +1,22 @@
+{
+  "id": "cession-1886-10-01-cochiti-pueblo",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Act of May 31, 1933, 48 Stat. 108-111 opened: section 1 'in payment of the liability of the United States to the said pueblos as declared by the Act of June 7, 1924'; section 2 'In addition to the awards made by the Pueblo Lands Board', 'pueblo of Cochiti, $37,826.37'; section 3 non-Indian claimants within Cochiti $9,653.81. The file's quotes were exact, but the Act gives one sum per pueblo, not per grant.",
+    "Act of June 7, 1924, 43 Stat. 636 opened: section 6 liability and Board award for loss through failure to seasonably prosecute, for land within the exterior boundaries of land granted or confirmed to the pueblo.",
+    "ICC Docket 136 Findings (id 534) opened: Finding 16, the Board found Cochiti held 'no lands other than the (Cochiti) Pueblo Grant' (Report No. 1, April 30, 1930), made findings on claims extinguished within the Cochiti Grant and an award; 1931 amendment award $13,130.56; total $58,258.55 for losses within the grant after the 1933 Act. This ties the loss to THIS grant.",
+    "Royce 1899 schedule (Internet Archive OCR of annualreportofbu218smit) pp. 920-921: Cochiti Pueblo, Spanish grant 1689, confirmed 1858, patented 1864, 24,256.50 acres, area 668. Matches.",
+    "ICC Taos 1971 (id 1914) and San Ildefonso et al. 1976 (id 2713) opened: no Fifth Amendment taking because Congress, as trustee, paid full market value."
+  ],
+  "changes": [
+    "Removed the government-admission breach resting on the 1933 Act (coordinator's Pueblo ruling); 1933 sum kept in compensation.",
+    "Act-of-Congress breach kept but re-based on the 1924 Act with the Board finding recited in ICC Docket 136 Finding 16; source changed from the 1933 Act to the ICC findings; 1933 dropped from citation and whoFoundIt; quote removed.",
+    "Source fix: id 419 is the Final Order, not the Findings; added id 534 as the Findings and relabelled 419.",
+    "compensation: added Board awards ($13,130.56; total $58,258.55; first award unreadable in scan) and the $9,653.81 to non-Indian claimants; today: added the ICC no-Fifth-Amendment-taking holdings; plain rewritten."
+  ],
+  "unverifiable": [
+    "The Pueblo Lands Board's own Cochiti report not opened; read through ICC Finding 16. First Board award illegible in the scan ($7,3__.62)."
+  ],
+  "treatiesJsonErrors": []
+}

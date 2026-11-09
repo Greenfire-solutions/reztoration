@@ -1,0 +1,60 @@
+{
+  "id": "cession-1874-04-09-southern-apache",
+  "name": "Executive order of April 9, 1874 setting apart the Hot Springs reservation for the Southern Apache",
+  "aka": [
+    "Ojo Caliente reservation",
+    "Royce area 588"
+  ],
+  "signed": "1874-04-09",
+  "citation": "Executive order of April 9, 1874",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/874/mode/2up",
+  "nations": [
+    "Chiricahua and Warm Springs (Chihene) Apache, today the Fort Sill Apache Tribe and Chiricahua descendants at Mescalero"
+  ],
+  "promises": [
+    "Not a cession: the President set apart the Hot Springs reservation, from the ruins of an ancient pueblo in the Cañada Alamosa valley about 7 miles above the town of Cañada Alamosa: east 10 miles, north 25, west 30, south 25 and east 20 to the start (Royce p. 874).",
+    "The order of December 21, 1875 redrew the reserve and restored to market the part of this reserve not inside the new bounds (Royce p. 884, area 588)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "None by this order. The part of this reserve left out of the redrawn reserve (area 588) was restored to market by the order of December 21, 1875, recorded on cession-1875-12-21-southern-apache.",
+  "today": "The Indian Claims Commission found in 1968 that the Hot Springs (Ojo Caliente) reservation was abolished on August 25, 1877 and dated the taking of Chiricahua aboriginal lands to September 4, 1886 (Dockets 30-A and 48-A); that is a finding about aboriginal title, not this order.",
+  "nationVoice": [
+    {
+      "nation": "Fort Sill Apache Tribe",
+      "summary": "The Tribe says its members are survivors and descendants of the Chiricahua Apache, moved to Oklahoma in 1894 after nearly a decade of imprisonment and exile at Army posts in Florida and Alabama.",
+      "url": "https://www.fortsillapache-nsn.gov/history"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 874-875, executive order of April 9, 1874",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/874/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 884-885, executive order of December 21, 1875, area 588",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/884/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Fort Sill Apache Tribe et al. v. United States, Dockets 30-A et al., Findings of Fact (June 28, 1968), 19 Ind. Cl. Comm. 212",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2269",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "History",
+      "url": "https://www.fortsillapache-nsn.gov/history",
+      "publisher": "Fort Sill Apache Tribe"
+    }
+  ],
+  "openQuestions": [
+    "Same land (area 588) as cession-1875-12-21-southern-apache, which carries the restoration and was researched and audited; this record follows it and points there with sameEventAs.",
+    "The ICC findings (OSU 2269) and the Fort Sill Apache history page were reopened on 2026-11-08 to confirm the abolition of the Hot Springs reservation on August 25, 1877, the September 4, 1886 taking date and the Tribe's account.",
+    "Jordan may want to rule on whether an aboriginal-title taking (Docket 30-A, 1886) that covers an executive-order reserve counts for the order's row; until then this stays no-breach-found, as the 1875 record does.",
+    "treaties.json lists no presentDayTribes for this record. Not edited."
+  ],
+  "sameEventAs": "cession-1875-12-21-southern-apache",
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

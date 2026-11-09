@@ -1,0 +1,14 @@
+{
+  "id": "cession-1884-05-15-apache-jicarilla",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive OCR of annualreportofbu218smit) p. 916: President restores to public domain reserve set apart by EO of Sept. 21, 1880. Matches.",
+    "ICC Docket 22-A opinion (id 1536, Nov. 9, 1966) opened: taking of Indian title dated August 20, 1883 (Army removal to Fort Stanton); 1887 reservation 'with minor differences' the same as 1880. Findings (id 746, 1963) and stipulated final award (id 2037, April 21, 1971, $9,150,000.00) opened. Matches."
+  ],
+  "changes": [
+    "Replaced the note that the Commission records were not re-read with an audit line; added an open question: ICC 1963 Finding 55 dates the restoration to August 1883, Royce to May 15, 1884."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": []
+}

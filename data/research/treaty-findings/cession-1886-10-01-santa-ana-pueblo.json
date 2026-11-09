@@ -55,7 +55,8 @@
     "The date 1886-10-01 in treaties.json is not an event date for this land. Royce prints the Pueblo grants under a block headed 'Oct. 1, Act of Congress, Stat. L. XI, 374'; 11 Stat. 374 is the Act of December 22, 1858, which confirmed the grant. This is land the Pueblo kept, not land it ceded. Not edited. Santa Ana is not one of the claims in 11 Stat. 374; Royce lists it in that block with its own confirmation date.",
     "Royce's scan reads 'Confirmed by U. S. Feb. 9, 1876'; that date and the confirming act were not checked (an Act of February 9, 1869 is a possibility, unverified).",
     "The 1933 Act pays Santa Ana $2,908.38 for land divested under the 1924 Act, but the same Act ties Santa Ana's non-Indian claims to the El Ranchito grant, which Santa Ana acquired separately. Until the Pueblo Lands Board report shows land lost inside Royce Area 680, this record is kept at no-breach-found. Lead: the Board's Santa Ana report and Docket 137 (Zia, Jemez, Santa Ana) findings, which concern aboriginal land.",
-    "The statute link in treaties.json (ops.libs.uga.edu) was not used; the Act was read on govinfo."
+    "The statute link in treaties.json (ops.libs.uga.edu) was not used; the Act was read on govinfo.",
+    "Audit 2026-11-08 (round 14): no-breach-found confirmed. The Act of May 31, 1933 (read on govinfo) is not counted as a breach for any Pueblo grant: it states no findings and names pueblos, not grants, and the Indian Claims Commission held in 1976 that Congress paid full market value for land lost under the 1924 Act (39 Ind. Cl. Comm. 34)."
   ],
   "id": "cession-1886-10-01-santa-ana-pueblo",
   "researchedAt": "2026-11-08",

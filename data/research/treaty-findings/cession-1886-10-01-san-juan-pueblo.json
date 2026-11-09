@@ -21,29 +21,27 @@
     {
       "kind": "act-of-congress",
       "date": "1924-06-07",
-      "what": "Under the Pueblo Lands Act of 1924, title to land claimed by non-Indians within the Pueblo of San Juan's lands was extinguished in their favour. The Act of May 31, 1933 names the Pueblo of San Juan among the pueblos from which lands and water rights were divested under the 1924 Act.",
-      "whoFoundIt": "Act of June 7, 1924, 43 Stat. 636; Act of May 31, 1933, ch. 45, sec. 1-2, 48 Stat. 108",
+      "what": "Acting under the Pueblo Lands Act, the Pueblo Lands Board found that the Indian title to 3,499.72 acres of the 17,584.77-acre San Juan Pueblo Grant, and the water rights belonging to them, had been extinguished in favour of non-Indian claimants.",
+      "whoFoundIt": "Act of June 7, 1924, 43 Stat. 636; Pueblo Lands Board report on San Juan, as set out in Pueblo de San Juan v. United States, 47 F.2d 446 (10th Cir. 1931)",
       "source": {
-        "title": "Act of May 31, 1933, ch. 45, 48 Stat. 108",
-        "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg108.pdf",
-        "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
-      },
-      "quote": "for the purchase of lands and water rights to replace those which have been divested from said pueblo under the Act of June 7, 1924"
+        "title": "Pueblo de San Juan v. United States, 47 F.2d 446 (10th Cir. 1931)",
+        "url": "https://static.case.law/f2d/47/cases/0446-01.json",
+        "publisher": "Caselaw Access Project, Harvard Law School"
+      }
     },
     {
       "kind": "government-admission",
-      "date": "1933-05-31",
-      "what": "Congress authorized $153,863.04 for the Pueblo of San Juan 'in addition to the awards made by the Pueblo Lands Board', in payment of the liability of the United States to the Pueblo declared by the 1924 Act. The Indian Claims Commission later described these 1933 sums as Congress finding the Board's awards unfair.",
-      "whoFoundIt": "Act of May 31, 1933, ch. 45, sec. 2, 48 Stat. 108",
+      "date": "1931-02-18",
+      "what": "The Board, a federal body, found that 1,020.63 of those acres could have been recovered for the Pueblo by a suit the United States brought in time, valued them at $60,758.94 without improvements, and awarded $29,090.53 as the loss caused by the United States' failure to prosecute in time. The Court of Appeals recorded these findings on February 18, 1931.",
+      "whoFoundIt": "Pueblo Lands Board, under section 6 of the Act of June 7, 1924, as recorded in Pueblo de San Juan v. United States, 47 F.2d 446 (10th Cir. 1931)",
       "source": {
-        "title": "Act of May 31, 1933, ch. 45, 48 Stat. 108",
-        "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg108.pdf",
-        "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
-      },
-      "quote": "In addition to the awards made by the Pueblo Lands Board"
+        "title": "Pueblo de San Juan v. United States, 47 F.2d 446 (10th Cir. 1931)",
+        "url": "https://static.case.law/f2d/47/cases/0446-01.json",
+        "publisher": "Caselaw Access Project, Harvard Law School"
+      }
     }
   ],
-  "compensation": "The Pueblo Lands Board made an award under Section 6 of the 1924 Act (amount not read in this pass). The Act of May 31, 1933 authorized a further $153,863.04 for the Pueblo of San Juan, to be spent by the Secretary of the Interior with the Pueblo's approval on replacement lands, water rights or permanent improvements, in three annual instalments from fiscal year 1937. Section 6 of that Act let a pueblo accept the sums in full discharge of its claims under the 1924 Act. The Indian Claims Commission wrote in 1977 that in most cases the Board awarded only a fraction of fair market value and that Congress, finding the Board unfair, paid the difference except in a few instances.",
+  "compensation": "The Board awarded $29,090.53 for the 1,020.63 acres it found the United States could have recovered, and nothing for the other 2,479.09 acres of the 3,499.72 (a difference computed here from the court's figures). The Court of Appeals affirmed the award on February 18, 1931, rejecting the Pueblo's appeal for more. Section 2 of the Act of May 31, 1933 then authorized $153,863.04 \"in addition to the awards made by the Pueblo Lands Board\", for replacement land and water or improvements, in three instalments from fiscal year 1937; the Act does not say how the sum was reached.",
   "nationVoice": [],
   "sources": [
     {
@@ -70,22 +68,30 @@
       "title": "Pueblo of Santa Clara v. United States, Docket 356, Opinion on Motion for Summary Judgment: Townsite of Espanola, 41 Ind. Cl. Comm. 29 (October 5, 1977)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1348",
       "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Pueblo de San Juan v. United States, 47 F.2d 446 (10th Cir. 1931)",
+      "url": "https://static.case.law/f2d/47/cases/0446-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
     }
   ],
   "openQuestions": [
     "The date 1886-10-01 in treaties.json is not an event date for this land. Royce prints the Pueblo grants under a block headed 'Oct. 1, Act of Congress, Stat. L. XI, 374'; 11 Stat. 374 is the Act of December 22, 1858, which confirmed the grant. This is land the Pueblo kept, not land it ceded. Not edited.",
-    "The 1933 Act gives one sum for the Pueblo of San Juan and does not split it by tract. Section 6 of the 1924 Act covers only land inside the exterior boundaries of land granted or confirmed to a pueblo, so the sum relates to confirmed grant land, but this pass did not read the Pueblo Lands Board's own report on this Pueblo to confirm the acreage lost inside this grant (Royce's area) as against any other confirmed or purchased tract.",
     "Whether the Pueblo of San Juan elected under Section 6 of the 1933 Act to accept the sum in full discharge, and when it was actually appropriated and paid, was not researched.",
     "Ohkay Owingeh's own account of the 1924 Act losses was not located in this pass. treaties.json lists 'Pueblo of San Juan, New Mexico'; the Pueblo has used the name Ohkay Owingeh since 2005 (date not sourced here).",
-    "The statute link in treaties.json (ops.libs.uga.edu) was not used; the Act was read on govinfo."
+    "The statute link in treaties.json (ops.libs.uga.edu) was not used; the Act was read on govinfo.",
+    "Audit 2026-11-08 (round 14): breaches re-based on the Board findings recorded in Pueblo de San Juan v. United States, 47 F.2d 446 (10th Cir. 1931), which place the lost land inside the San Juan Pueblo Grant. The 1933 Act is no longer counted as a breach: the Act of May 31, 1933 (48 Stat. 108, read on govinfo) has no findings or preamble. Its title calls it a payment \"in part\" of the liability declared by the 1924 Act; section 2 adds sums \"in addition to the awards made by the Pueblo Lands Board\" and names pueblos, not grants or tracts. It is not, on its face, an admission that the Board's compensation was inadequate, and the Indian Claims Commission later held that Congress, acting as trustee, paid full market value for the lost land and that there was no Fifth Amendment taking (39 Ind. Cl. Comm. 34, 1976; 33 Ind. Cl. Comm. 82, 1974, for Taos land outside the town). The 1977 Commission remark that Congress \"determined the Board was unfair\" (41 Ind. Cl. Comm. 29) is a general description in Santa Clara's case, not a finding about this Pueblo. The 1933 Act is therefore not counted as a breach.",
+    "The Board gives the grant as 17,584.77 acres; Royce's scan reads 17,544.77. Not resolved; the Board's figure is used because it is the source of the breach.",
+    "The date of the Board's San Juan report was not read; the government-admission is dated by the court's decision."
   ],
-  "today": "The grant remains the Pueblo's land base. Land and water inside it that passed to non-Indians under the 1924 Act was compensated, not returned; the 1933 Act directed the money to replacement land, water and improvements.",
+  "today": "The grant remains the Pueblo's land base (Ohkay Owingeh). The land that passed to non-Indians under the 1924 Act was compensated, not returned. In a joint ruling for four other pueblos the Indian Claims Commission held in 1976 that the 1924 Act and the later payments were not a Fifth Amendment taking; no San Juan docket on this was found.",
   "plain": {
     "promised": "In 1858 Congress confirmed the Pueblo of San Juan's land grant and later issued a patent, giving up only the United States' own claim to it.",
-    "happened": "Under the Pueblo Lands Act of 1924, land held by non-Indians inside the Pueblo's lands was confirmed to them. In 1933 Congress named the Pueblo and authorized $153,863.04 more than the Pueblo Lands Board had awarded.",
-    "today": "The land that passed to non-Indians was not returned; the 1933 money was for replacement land, water and improvements."
+    "happened": "Under the 1924 Pueblo Lands Act, the Pueblo Lands Board ended the Pueblo's title to 3,499.72 acres of the grant. It found the United States could have saved 1,020.63 acres by suing in time, and paid $29,090.53 for them.",
+    "today": "The land was not returned. In 1933 Congress added $153,863.04 for replacement land, water and improvements."
   },
   "id": "cession-1886-10-01-san-juan-pueblo",
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "landTaken": "Indian title to 3,499.72 acres of the San Juan Pueblo Grant and the water rights belonging to them (Pueblo Lands Board, as recorded in 47 F.2d 446)."
 }

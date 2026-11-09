@@ -1,0 +1,23 @@
+{
+  "id": "cession-1889-03-02-sioux-standing-rock",
+  "auditedAt": "2026-11-08",
+  "verdict": "downgraded",
+  "checked": [
+    "105 Ct. Cl. 725 (static.case.law us-ct-cl/105/0725) opened in full: case C-531 (24) recovery $762,430.25, all petitions dismissed after offsets, decision date February 4, 1946",
+    "Claim 1 (rations) rests on article 5 of the 1877 agreement; the trust funds came from the 1895, 1902, 1906, 1907, 1908 and 1910 sale Acts; the 1889 Act enters only by section 19 and as the source of the offsets",
+    "Remand and re-entry: 112 Ct. Cl. 50 (June 28, 1948) opened; judgment re-entered unchanged; offsets were section 17 reimbursables of the 1889 Act",
+    "Royce p. 932 schedule text for this reservation's boundary (Internet Archive djvu text)",
+    "Section 19 quotation and February 10, 1890 proclamation, as stated in 105 Ct. Cl. 725",
+    "Nation-statement kept as written; Standing Rock history page (Wayback copy) not re-opened"
+  ],
+  "changes": [
+    "Removed the court-ruling breach on 105 Ct. Cl. 725: it is a breach of the 1877 ration duty paid from later sale funds, not of this record's land or event; moved to today with the 1948 re-entry",
+    "Status broken to contested",
+    "Rewrote plain to rest on the Tribe's statement",
+    "The opinion offsets only 'a part of the judgment in case (24)' with Standing Rock gratuities yet dismisses all seven petitions; today now says the recoveries were set off and the petitions dismissed"
+  ],
+  "unverifiable": [
+    "The Rule 131 tabulations in 105 Ct. Cl. 725 are missing from the digitised text, so the per-case split between rations and agency items was not checked",
+    "Supreme Court order of December 16, 1946 and the 1949 certiorari denial taken from 112 Ct. Cl. 50 and ICC Docket 119 (34 Ind. Cl. Comm. 230), not opened directly"
+  ]
+}

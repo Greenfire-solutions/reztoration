@@ -1,0 +1,89 @@
+{
+  "id": "cession-1886-10-01-moki",
+  "name": "Taking of the Hopi (Moki) country without a treaty of purchase (Royce Area 682)",
+  "aka": [
+    "Royce 682, Moki: country claimed by them at beginning of their relations with the U.S."
+  ],
+  "citation": "No treaty or statute: Royce records the country claimed at the beginning of relations with the United States, and that no treaty of purchase was ever made",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up",
+  "nations": [
+    "Hopi Tribe (Hopi villages of First Mesa, Mishongnovi, Sipaulavi, Shungopavi, Oraibi, Kyakotsmovi, Bakabi, Hotevilla and Moenkopi), called Moki or Moqui in Royce"
+  ],
+  "promises": [
+    "Not a treaty. Royce records that no treaty of purchase was ever made with the Hopi; their original claim is shown on his Arizona map No. 1.",
+    "Royce notes that by Executive order of December 16, 1882 the President set apart a reserve for them, shown on his Arizona map No. 2."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1970-06-29",
+      "what": "The Indian Claims Commission held that the Hopi held Indian title to the tract in its Finding 20 on December 16, 1882, that on that date the United States extinguished Hopi title to all of that tract outside the 1882 Executive Order Reservation without paying anything, and that on June 2, 1937 it extinguished Hopi title to 1,868,364 acres inside the 1882 reservation outside land management district 6.",
+      "whoFoundIt": "Indian Claims Commission, Hopi Tribe v. United States, Docket 196, Interlocutory Order, 23 Ind. Cl. Comm. 277 (1970)",
+      "source": {
+        "title": "Hopi Tribe v. United States, Docket 196, Interlocutory Order (June 29, 1970), 23 Ind. Cl. Comm. 277",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2498",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "the United States without the payment of any compensation, extinguished the Hopi Indian title"
+    },
+    {
+      "kind": "litigation",
+      "date": "1976-12-02",
+      "what": "The claim ended in a final award of $5,000,000.00 entered on a stipulation for final judgment after a hearing on November 11, 1976. A settlement is not a further finding.",
+      "whoFoundIt": "Indian Claims Commission, Docket 196, Final Award, 39 Ind. Cl. Comm. 204 (1976)",
+      "source": {
+        "title": "Hopi Tribe v. United States, Docket 196, Final Award (December 2, 1976), 39 Ind. Cl. Comm. 204",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2778",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "The Commission found Hopi title to the tract in its Finding 20 taken outside the 1882 reservation on December 16, 1882, and 1,868,364 acres inside that reservation taken on June 2, 1937. It held the evidence did not support Hopi title to the rest of the land claimed.",
+  "compensation": "$5,000,000.00 by final award on a stipulation for final judgment, December 2, 1976 (Docket 196).",
+  "today": "The Commission's award was a compromise. Whether and how it was distributed was not traced. The Navajo-Hopi dispute over the 1882 reservation is a separate matter not researched here.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 922-923, area 682",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Hopi Tribe v. United States, Docket 196, Interlocutory Order (June 29, 1970), 23 Ind. Cl. Comm. 277",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2498",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Hopi Tribe v. United States, Docket 196, Opinion on Title (June 29, 1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2143",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Hopi Tribe v. United States, Docket 196, Final Award (December 2, 1976), 39 Ind. Cl. Comm. 204",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2778",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Hopi Tribe v. United States, Docket 196, Findings of Fact and Conclusions of Law on Compromise Settlement (December 2, 1976)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2688",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The date 1886-10-01 in treaties.json is not a date of this taking. Royce 682 is undated ('country claimed by them at beginning of their relations with the U.S.') and is printed under 'Cessions of 1886' after the Pueblo grants headed 'Oct. 1, Act of Congress'. The Commission dated the takings December 16, 1882 and June 2, 1937. Not edited.",
+    "treaties.json lists no present-day tribes for this record; the Hopi Tribe should be listed. The statute link (ops.libs.uga.edu, 682c.pdf) was not opened. Not edited.",
+    "cession-1882-12-16-moki-and-others (Royce 640, the 1882 reservation) has no findings file yet; the 1937 part of this finding concerns land inside that reservation and could be carried there instead.",
+    "Whether the Commission's Finding 20 tract matches Royce's area 682 boundary was not checked on a map.",
+    "The Hopi Tribe's own account of the 1882 order and the loss of its land was not found on hopi-nsn.gov in this pass; the nation voice is missing.",
+    "2026-11-08: counted once with cession-1882-12-16-moki-and-others (the Hopi taking (Docket 196) is dated by the Dec 16, 1882 order). The map still shows this row."
+  ],
+  "plain": {
+    "promised": "Nothing. No treaty of purchase was ever made with the Hopi. In 1882 the President set apart a reservation for them.",
+    "happened": "The Indian Claims Commission found the United States took Hopi land outside the 1882 reservation on December 16, 1882 without paying, and 1,868,364 acres inside it in 1937.",
+    "today": "The claim was settled in 1976 for $5,000,000.00. Whether the money was distributed was not traced."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher",
+  "sameEventAs": "cession-1882-12-16-moki-and-others"
+}

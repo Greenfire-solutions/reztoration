@@ -1,0 +1,41 @@
+{
+  "id": "cession-1856-05-22-mendocino-indian-reservation",
+  "name": "Executive order of May 22, 1856 setting apart the Mendocino Indian reservation, California",
+  "signed": "1856-05-22",
+  "citation": "Executive order of May 22, 1856, under the Act of March 3, 1853",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/816/mode/2up",
+  "nations": [
+    "Pomo peoples of the Mendocino coast",
+    "Round Valley Indian Tribes"
+  ],
+  "promises": [
+    "Under the Act of March 3, 1853, which authorized military reserves for Indian purposes in California of not more than 25,000 acres each, President Pierce set apart the Mendocino reserve on the recommendation of Superintendent Henley (Royce).",
+    "Royce describes the tract as running along the coast from the south bank of the Noyo River to a point one mile north of the mouth of Hale (Bee-da-loe) Creek, and inland to include the valleys beyond the first range of hills."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "None to the Indians was found. The 1868 Act directed that the land be surveyed and sold at not less than $1.25 an acre, that buyers pay for United States improvements, and that persons who had made improvements on the reservation keep them with first right to buy 640 acres.",
+  "today": "Royce gives the reserve's actual abandonment for Indian purposes as March 31, 1866. Congress restored the reservation to the public lands by section 6 of the Act of July 27, 1868 (15 Stat. 223), with no provision for the Indians who had lived on it. That Act is the separate entry cession-1868-07-27-mendocino-indian-reservation.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 816-817",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/816/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Act of July 27, 1868, ch. 248, sec. 6, 15 Stat. 221, 223 (Mendocino Indian reservation restored to the public lands)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-15/pdf/STATUTE-15-Pg223.pdf",
+      "publisher": "US Government Publishing Office, govinfo"
+    }
+  ],
+  "openQuestions": [
+    "This record is the reserve's establishment; the 1868 restoration is a separate queue entry (cession-1868-07-27-mendocino-indian-reservation, same Royce area 522). Under Jordan's rule the end of a reservation set apart by executive order is not by itself a breach, and the 1868 Act is treated the same way here, as for the Round Valley Act of 1873, until a court, claims-commission or government finding about it is found.",
+    "Searched for findings: ICC full text for Mendocino with 1856 and Noyo (no hits), the 1885 Dawes report on California reservations (mentions Mendocino County only), and the Court of Claims Indians of California opinion of 1942 (98 Ct. Cl. 583, no mention). The Court of Claims offset decision of 1944 and the ICC California dockets 31 and 37 were not read for this tract.",
+    "Royce's note gives the Commissioner's recommendation as August 16, 1856 and the order as May 22, 1856; one of the two dates is likely misprinted in the scan.",
+    "No Pomo tribal account of the Mendocino reservation was found; secondary accounts of removals to Round Valley turned up in search but were not opened.",
+    "treaties.json lists no present-day tribes; which Pomo nations descend from the reservation's people (Sherwood Valley, Coyote Valley, Pinoleville and others, and Round Valley) was not settled."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

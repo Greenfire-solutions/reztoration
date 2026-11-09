@@ -1,0 +1,78 @@
+{
+  "id": "cession-1857-01-20-muckleshoot-reservation",
+  "name": "Executive order of January 20, 1857 establishing the Muckleshoot reservation",
+  "signed": "1857-01-20",
+  "citation": "Executive order of January 20, 1857 (1 Kappler 919)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/818/mode/2up",
+  "nations": [
+    "Muckleshoot Indian Tribe"
+  ],
+  "promises": [
+    "After a council at Fox Island, Governor Stevens recommended a new reservation on Muckleshoot Prairie for Indians under the Medicine Creek treaty, and the President approved it on January 20, 1857 (ICC Docket 98, finding 8).",
+    "The reservation was given metes and bounds by executive order of April 9, 1874; it then held 3,532.72 acres (ICC Docket 98, finding 8)."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "nation-statement",
+      "date": "2026-11-08",
+      "what": "The Muckleshoot Indian Tribe says the Indians at the 1856 Fox Island meeting understood that a wedge of land beginning at the junction of the White and Green Rivers would be part of the reservation, but the documents behind the January 20, 1857 order refer only to Muckleshoot Prairie.",
+      "whoFoundIt": "Muckleshoot Indian Tribe, History page (read 2026-11-08)",
+      "source": {
+        "title": "Muckleshoot Indian Tribe, History",
+        "url": "https://www.muckleshoot.nsn.us/history",
+        "publisher": "Muckleshoot Indian Tribe"
+      },
+      "quote": "the documents that led to the Executive Order of January 20, 1857, only refer to the Muckleshoot Prairie"
+    }
+  ],
+  "compensation": "In Docket 98 the Indian Claims Commission held the Muckleshoot entitled to compensation for their ancestors' aboriginal land taken as of March 8, 1859, when the Point Elliott treaty took effect, and entered a final judgment by stipulation on October 18, 1963. That claim was for land outside the reservation; the judgment figure is unclear in the scan.",
+  "today": "The Tribe says the reservation was enlarged by the 1874 order, allotted in 1904 to 16 families leaving no land in tribal hands, and that it has been reacquiring land within the reservation since, to nearly 4,000 acres by 2020.",
+  "nationVoice": [
+    {
+      "nation": "Muckleshoot Indian Tribe",
+      "summary": "The Tribe says the 1857 order covered only Muckleshoot Prairie and a military station, leaving out land the Indians at Fox Island understood was included, and that 1904 allotment left no land in tribal hands until its own reacquisition.",
+      "url": "https://www.muckleshoot.nsn.us/history"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Muckleshoot Indian Tribe, History",
+      "url": "https://www.muckleshoot.nsn.us/history",
+      "publisher": "Muckleshoot Indian Tribe"
+    },
+    {
+      "title": "Muckleshoot Tribe v. United States, Docket 98, Findings of Fact (August 25, 1955), 3 Ind. Cl. Comm. 658",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/25",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Muckleshoot Tribe v. United States, Docket 98, Opinion of the Commission (August 25, 1955), 3 Ind. Cl. Comm. 669",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/382",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Muckleshoot Tribe v. United States, Docket 98, Final Judgment (October 18, 1963)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/673",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 818-819",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/818/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "No court, claims-commission or government finding about the reservation itself was found. The Docket 98 award concerns aboriginal land outside it.",
+    "The 1874 enlargement is the separate entry cession-1874-04-09-muckleshoot-reservation (same Royce area 564).",
+    "The Docket 98 final judgment amount reads \"$?0,377.00\" in the scan; it is left out.",
+    "treaties.json lists no present-day tribes; the Muckleshoot Indian Tribe is named here. Not edited."
+  ],
+  "plain": {
+    "promised": "In 1857, after a council at Fox Island, the President set aside a reservation on Muckleshoot Prairie for Indians under the Medicine Creek treaty.",
+    "happened": "The Muckleshoot Tribe says the order left out land between the White and Green Rivers that its ancestors understood was included. No court or government finding was located.",
+    "today": "The reservation was enlarged in 1874, then allotted in 1904; the Tribe has been buying back land, to nearly 4,000 acres by 2020."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

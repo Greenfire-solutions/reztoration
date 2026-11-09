@@ -5,7 +5,7 @@
     "Sisseton-Wahpeton Agreement of 1889"
   ],
   "ratified": "1891-03-03",
-  "citation": "Act of March 3, 1891, ch. 543, 26 Stat. 1035",
+  "citation": "Act of March 3, 1891, ch. 543, 26 Stat. 989, 1035 (agreement of December 12, 1889; section 27 at 1038)",
   "textUrl": "https://static.case.law/us/420/cases/0425-01.json",
   "nations": [
     "Sisseton-Wahpeton Oyate"
@@ -14,10 +14,22 @@
     "Article 1: the bands ceded all unallotted land of the Lake Traverse Reservation left after allotments (DeCoteau, quoting the agreement).",
     "Article 2: the United States would pay $2.50 an acre for the ceded land.",
     "Article 3: back annuities would be paid and the annuities of $18,400 continued to July 1, 1901.",
-    "Article 4: allotments would be equalised so that each person, married women included, had 160 acres."
+    "Article 4: allotments would be equalised so that each person, married women included, had 160 acres.",
+    "Section 27 of the ratifying Act: the purchase money would be held in the Treasury in trust for the bands at 5 percent interest (the agreement had said 3), to be used for their education and civilization (ICC Docket 363, 1975)."
   ],
-  "status": "contested",
+  "status": "broken",
   "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1975-08-22",
+      "what": "In the bands' accounting claim the Commission held that the United States kept part of the fund from this cession (the minors' shares) at 3 percent instead of the 5 percent section 27 required, calling that fund established illegally, and surcharged it with the shortfall and with $358.76 and $1,236.26 it had carried to surplus. It also disallowed a 1919 transfer of $313.09 from the fund's interest that the United States admitted was improper.",
+      "whoFoundIt": "Indian Claims Commission, Lower Sioux Indian Community et al. v. United States, Docket 363, Opinion of August 22, 1975 (36 Ind. Cl. Comm. 295), Part 2",
+      "source": {
+        "title": "Lower Sioux Indian Community in Minnesota et al. v. United States, Docket 363, Opinion of the Commission, Part 2 (August 22, 1975), 36 Ind. Cl. Comm. 295",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2039",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
     {
       "kind": "nation-statement",
       "date": "2018-06-05",
@@ -31,8 +43,8 @@
     }
   ],
   "landTaken": "The Senate report quoted in DeCoteau estimated the surplus at 678,778 acres; the Court of Claims gives the final surplus as 608,865.56 acres.",
-  "compensation": "$2.50 an acre. Congress appropriated $2,203,000 for the land and the loyal scout claim (DeCoteau). After allotments the surplus proved smaller than estimated, and $236,048.83 was deducted (58 Ct. Cl. 302).",
-  "today": "In 1923 the Court of Claims dismissed the bands' claims, including one for the $236,048.83 deduction, for lack of proof (58 Ct. Cl. 302). In DeCoteau v. District County Court (1975) the Supreme Court held that the 1891 Act terminated the Lake Traverse Reservation, a ruling against the tribe.",
+  "compensation": "$2.50 an acre. Congress appropriated $2,203,000 for the land and the loyal scout claim (DeCoteau). After allotments the surplus proved smaller than estimated, and $236,048.83 was deducted (58 Ct. Cl. 302). The Commission in 1975 accepted the 1898 return of $177,635.85 to the Treasury as the price of the 71,055 acres overestimated in 1891 (679,950 estimated, 608,865 actual), plus $58,412.88 of interest (Docket 363).",
+  "today": "In 1923 the Court of Claims dismissed the bands' claims, including one for the $236,048.83 deduction, for lack of proof (58 Ct. Cl. 302). In DeCoteau v. District County Court (1975) the Supreme Court held that the 1891 Act terminated the Lake Traverse Reservation, a ruling against the tribe. The 1975 Commission surcharges in Docket 363 were part of an accounting still open in 1975; a final judgment on them was not traced.",
   "nationVoice": [
     {
       "nation": "Sisseton-Wahpeton Oyate",
@@ -45,6 +57,16 @@
       "title": "Royce, Indian Land Cessions in the United States (18th Annual Report, Bureau of American Ethnology, 1899), schedule p. 942, Sisseton and Wahpeton Sioux, Mar. 3, 1891",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/942/mode/2up",
       "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Lower Sioux Indian Community in Minnesota et al. v. United States, Docket 363, Opinion of the Commission, Part 2 (August 22, 1975), 36 Ind. Cl. Comm. 295",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2039",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sisseton and Wahpeton Bands et al. v. United States, Dockets 142, 359 to 363, Findings of Fact on Compromise Settlement (July 25, 1967), 18 Ind. Cl. Comm. 477",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2214",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
     },
     {
       "title": "Sisseton & Wahpeton Bands v. United States, 58 Ct. Cl. 302 (1923)",
@@ -63,15 +85,18 @@
     }
   ],
   "openQuestions": [
-    "No Indian Claims Commission finding on the price of the 1891 cession was found. The Commission's Sisseton and Wahpeton dockets (142, 359 to 363) were settled in 1967; whether they included this cession was not traced.",
+    "Audit 2026-11-08 (round 14): Dockets 142 and 359 to 363 read. Their land claims (the Minnesota treaties of 1851 and later) were compromised for $12,250,000 in 1967 (18 Ind. Cl. Comm. 477) and do not include this cession. The general accounting claim in Docket 363 was kept out of that settlement; its 1975 opinion (36 Ind. Cl. Comm. 295) rules on the trust fund from this cession and is added as a claims-commission breach, raising the status from contested to broken. No finding that the $2.50 price was unconscionable was found.",
+    "The 1923 deduction of $236,048.83 (58 Ct. Cl. 302) is $0.10 more than the two transfers the Commission describes, $177,635.85 of principal and $58,412.88 of interest (sum computed for this file). Not reconciled.",
+    "The sums surcharged in 1975 are small: the 2 percent shortfall on the minors' fund was ordered computed, not stated, and the total recovered was not traced. Whether Docket 363 ended in a judgment, a settlement or a transfer to the Court of Claims in 1978 was not traced.",
     "Royce's link in treaties.json points to p. 842 (the 1867 treaty); the 1891 entry is on p. 942.",
     "The Oyate's own website (swo-nsn.gov) had no history page on the 1891 Act that loaded; the chairman's 2018 article is used instead."
   ],
   "plain": {
-    "promised": "The bands sold the unallotted land of the Lake Traverse Reservation for $2.50 an acre, with 160-acre allotments for every member and back annuities paid.",
-    "happened": "No court or claims commission found the deal broken: a 1923 claim was dismissed. The Oyate says the Act let the 1867 treaty be renegotiated and cost 678,778 acres.",
-    "today": "In 1975 the Supreme Court held the 1891 Act ended the reservation, a ruling against the tribe. The Oyate supports the 1867 boundaries."
+    "promised": "The bands sold the unallotted Lake Traverse land for $2.50 an acre, with 160 acres for every member, and the money was to be held in trust for them at 5 percent interest.",
+    "happened": "The Indian Claims Commission found in 1975 that the United States paid only 3 percent on part of that trust money and wrongly moved small sums out of it. The Oyate says the Act cost it 678,778 acres.",
+    "today": "The 1975 sums were small and their final payment was not traced. A 1923 claim was dismissed, and in 1975 the Supreme Court held the Act ended the reservation, a ruling against the tribe."
   },
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "signed": "1889-12-12"
 }

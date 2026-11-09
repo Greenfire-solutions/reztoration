@@ -71,7 +71,7 @@
   ],
   "landTaken": "25,968.24 acres of the Lower Brule reservation were wrongly excluded by the 1890 survey (Docket 78, 1956).",
   "compensation": "For the Lower Brule survey strip: entitled to $18,818.11 plus interest ($71,747.63 in all), wholly offset by land purchases, so nothing was paid (Docket 78 Final Order, 1961).",
-  "today": "The Lower Brule finding covers only the survey strip. The Black Hills taking of 1877 that preceded this Act is recorded under kappler-1006 and cession-1876-09-26-arapaho-northern-cheyenne-sioux.",
+  "today": "The Lower Brule finding covers only the survey strip. The Black Hills taking of 1877 that preceded this Act is recorded under kappler-1006 and cession-1876-09-26-arapaho-northern-cheyenne-sioux. The Sioux sued under a 1920 jurisdictional act for the price the 1889 Act set for the ceded land: the Court of Claims held the United States accountable for $5,307,655.87, the proceeds of 9,261,592.62 acres, and rejected a claim to a further 271,482.57-acre strip west of the 103rd meridian as ceded in 1877 (97 Ct. Cl. 391, 1942). Its 1946 accounting found that fund used up by charges the Act allowed and dismissed the petition (105 Ct. Cl. 658). Neither is a finding against the United States, and no Indian Claims Commission finding on the 1889 price was found.",
   "nationVoice": [
     {
       "nation": "Lower Brule Sioux Tribe (Kul Wicasa Oyate)",
@@ -134,15 +134,31 @@
       "title": "Cheyenne River Sioux History (adapted from Donovin Sprague, Cheyenne River Sioux, 2003)",
       "url": "https://www.cheyenneriversioux.com/_files/ugd/4f97ff_1c3e2b297910478f9480d4cf3e4cfe58.pdf",
       "publisher": "Cheyenne River Sioux Tribe"
+    },
+    {
+      "title": "Sioux Tribe of Indians v. United States, 97 Ct. Cl. 391 (1942), No. C-531 (11)",
+      "url": "https://static.case.law/us-ct-cl/97/cases/0391-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Sioux Tribe of Indians v. United States, 105 Ct. Cl. 658 (1946), No. C-531 (11)",
+      "url": "https://static.case.law/us-ct-cl/105/cases/0658-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Sioux Tribe of Indians v. United States, 105 Ct. Cl. 725 (1946), Nos. C-531 (18) to (24)",
+      "url": "https://static.case.law/us-ct-cl/105/cases/0725-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
     }
   ],
   "openQuestions": [
     "Audit 2026-11-08: resolved. The Commission's 1961 opinion (9 Ind. Cl. Comm. 535, item 457) states the 1956 award as $19,476.18 and deducts $658.07 already credited to the Lower Brule by the Court of Claims, leaving $18,818.11, the figure in the final order.",
-    "The Court of Claims decided seven Sioux claims under the 1889 Act in Sioux Tribe of Indians v. United States, 105 C. Cls. 725 (1946); the opinion did not load (Leagle paywall, CourtListener bot check) and its holdings are not recorded.",
-    "The total acreage ceded by the Act is stated in the 1956 opinion, but the scan of that figure is unreadable, so it is left out.",
+    "Audit 2026-11-08 (round 14): 105 Ct. Cl. 725 (1946) loaded from the Caselaw Access Project. Its rulings that rations and agency costs were illegally charged to reservation trust funds rest on the 1877 agreement and the 1895 to 1910 sale Acts, not on this cession, and the recoveries were wholly offset; it also declined jurisdiction over a Lower Brule claim to 34,664.62 acres excluded by the 1890 survey. Not added as a breach here.",
+    "Audit 2026-11-08 (round 14): the 1889 Act's price was litigated in Court of Claims case C-531 (11): 97 Ct. Cl. 391 (1942) and 105 Ct. Cl. 658 (1946), both against the Sioux; the judgment was re-entered in 1948 and certiorari denied in 1949 (cited in ICC Docket 119, 34 Ind. Cl. Comm. 230). ICC Docket 74 concerns the 1851 lands and 74-B the Black Hills; Dockets 114 to 119 are post-1925 accountings. None was found to hold the 1889 price unconscionable.",
     "The Act's text was read only through the Commission's quotations; the Statutes at Large page (25 Stat. 888) was not opened.",
     "No tribal history page about the 1889 Act loaded (the Standing Rock Sioux Tribe site blocked automated reading).",
-    "Ration cuts after 1889 and the reservation diminishment cases of the 1900s are not recorded here."
+    "Ration cuts after 1889 and the reservation diminishment cases of the 1900s are not recorded here.",
+    "The 1956 Docket 78 opinion's figure for the total acreage ceded is unreadable in the scan; the Court of Claims gives 9,261,592.62 acres as the area the parties agreed passed under the cession (97 Ct. Cl. 391)."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher",

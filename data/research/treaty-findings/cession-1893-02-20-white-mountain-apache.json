@@ -1,0 +1,60 @@
+{
+  "id": "cession-1893-02-20-white-mountain-apache",
+  "name": "Act of February 20, 1893 restoring part of the White Mountain Apache Indian Reservation to the public domain (Royce Area 720)",
+  "aka": [
+    "White Mountain Apache reservation restoration act, 1893"
+  ],
+  "signed": "1893-02-20",
+  "citation": "Act of February 20, 1893, ch. 147, 27 Stat. 469",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg469.pdf",
+  "nations": [
+    "White Mountain Apache Tribe of the Fort Apache Reservation",
+    "San Carlos Apache Tribe"
+  ],
+  "promises": [
+    "Not a treaty: an Act of Congress. It restored to the public domain the part of the White Mountain Apache Indian Reservation (set up by executive orders of 1871 to 1877) bounded from the summit of Chromo Butte, about three and one-half miles southwest of McMillen, to the middle of Salt River and the reservation's western boundary.",
+    "Settlers paid at least $1.25 an acre for homestead land; after survey costs, the rest of the sale money was to be held in trust for the tribes on the reservation.",
+    "Section 5 says nothing in the Act recognizes the Indians' title or ownership to any part of the reservation."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "The tract within the boundaries in section 1 of the Act; Royce shows it in yellow surrounded by scarlet lines. No acreage was found in the sources read.",
+  "compensation": "The Act directed that sale receipts, less survey costs, be held in trust for the tribes on the reservation. What was actually received and spent was not traced.",
+  "today": "Congress took this tract without asking the Apache, and its section 5 denied their title. Later, in Docket 22-D, the Indian Claims Commission held that the Western Apache held aboriginal title to their country, including the lands inside the reservation, and named the specific executive orders of 1873 to 1902 by which reservation land was taken without compensation; this 1893 Act is not among them, and no finding about it was located. The Docket 22-D claim was settled in 1972 (see cession-1886-10-01-apache-western-bands).",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 944-945, area 720",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/944/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Act of February 20, 1893, ch. 147, 27 Stat. 469",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg469.pdf",
+      "publisher": "U.S. Government Publishing Office, Statutes at Large"
+    },
+    {
+      "title": "San Carlos Apache Tribe et al. v. United States, Docket 22-D, Interlocutory Order (June 27, 1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/932",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "San Carlos Apache Tribe et al. v. United States, Docket 22-D, Findings of Fact (June 27, 1969), 21 Ind. Cl. Comm. 189",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2005",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "San Carlos Apache Tribe et al. v. United States, Docket 22-D, Opinion of the Commission (June 27, 1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1611",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "Lead for a deeper pass: why the Commission's list of takings inside the reservation (August 5, 1873 to December 22, 1902) omits this 1893 Act. Possibly the trust proceeds were treated as payment, or the tract fell outside the claim; the Docket 22-H accounting decisions and the 1972 settlement findings (OSU id 1616) did not mention it in a search for '1893'. If a finding is found that this was a taking without adequate payment, the record becomes broken.",
+    "Whether the tract lies inside the Commission's Finding 11 boundary was not checked on a map.",
+    "treaties.json lists no present-day tribes; the White Mountain Apache Tribe and the San Carlos Apache Tribe should be listed. Not edited. Which division of the reservation the tract was in (Fort Apache or San Carlos) was not settled.",
+    "No White Mountain Apache Tribe or San Carlos Apache Tribe account of this Act was found in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

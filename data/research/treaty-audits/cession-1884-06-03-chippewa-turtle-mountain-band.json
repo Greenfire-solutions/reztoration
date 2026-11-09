@@ -1,0 +1,15 @@
+{
+  "id": "cession-1884-06-03-chippewa-turtle-mountain-band",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Order text (American Presidency Project, Kappler p. 885) opened: substitutes T. 162 N., R. 70 W. for T. 163 N., R. 71 W. The file matches the order.",
+    "Royce 1899 schedule (Internet Archive OCR of annualreportofbu218smit) p. 916 garbles this ('substituting T. 162 N., R. 70 W., and T. 163 N., R. 71 W., in lieu of Ts. 162 and 163 N., R. 71 W.'); the order itself is followed.",
+    "sameEventAs cession-1884-03-29-chippewa-turtle-mountain-band kept; checker confirms the primary has no sameEventAs."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "490 F.2d 935 (Ct. Cl. 1974) not re-opened (cited in today only)."
+  ],
+  "treatiesJsonErrors": []
+}

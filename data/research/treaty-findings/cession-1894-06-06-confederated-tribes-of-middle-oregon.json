@@ -41,17 +41,6 @@
       }
     },
     {
-      "kind": "act-of-congress",
-      "date": "1972-09-21",
-      "what": "Congress declared the McQuinn Strip, about 61,360 acres of federal land bounded by the Handley line of 1871, the McQuinn survey of 1887 and the 1894 boundary, to be held in trust for the Confederated Tribes and part of the Warm Springs Reservation, removing it from the Mount Hood and Willamette National Forests.",
-      "whoFoundIt": "Public Law 92-427, 86 Stat. 719 (1972)",
-      "source": {
-        "title": "Public Law 92-427, 86 Stat. 719 (September 21, 1972), McQuinn Strip",
-        "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg719.pdf",
-        "publisher": "U.S. Government Publishing Office"
-      }
-    },
-    {
       "kind": "nation-statement",
       "date": "1871",
       "what": "The Confederated Tribes say Handley's 1871 survey put the northern boundary well south of the agreed line, that McQuinn's 1887 resurvey found it where the Indians claimed, and that Congress adopted the Handley line in 1894 anyway.",
@@ -108,7 +97,8 @@
   "openQuestions": [
     "Royce cites the 1894 Act as 28 Stat. 88; the Act begins on page 86, as the Court of Claims and Public Law 92-427 cite it.",
     "The tribes' figure of revenues paid from 1948 and the 1948 Act itself were not checked against a statute.",
-    "Public Law 92-427 excludes lands inside the Mount Jefferson Wilderness, and the tribes say 17,251 acres of private land were also put inside the reservation; the second figure was not checked against the statute pages read."
+    "Public Law 92-427 excludes lands inside the Mount Jefferson Wilderness, and the tribes say 17,251 acres of private land were also put inside the reservation; the second figure was not checked against the statute pages read.",
+    "Audit 2026-11-08 (round 14): removed the 1972 'act-of-congress' breach: Public Law 92-427 returned the McQuinn Strip to the tribes in trust; it took nothing, so it is not a breach. It stays in 'today' and sources. Status rests on 95 Ct. Cl. 23 (1941), which held the United States appropriated the land north of the Handley-Campbell line, valued in 103 Ct. Cl. 741 (1945) from June 6, 1894. All figures, the quote and the 61,360 acres (86 Stat. 719, sec. 2) checked."
   ],
   "plain": {
     "promised": "The 1855 treaty reserved the Warm Springs Reservation, its north line tied to the Mutton Mountains. An 1894 Act fixed that line along an 1871 survey the tribes disputed.",

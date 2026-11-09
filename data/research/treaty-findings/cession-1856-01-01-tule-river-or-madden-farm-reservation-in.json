@@ -1,0 +1,68 @@
+{
+  "id": "cession-1856-01-01-tule-river-or-madden-farm-reservation-in",
+  "name": "Original Tule River reservation of 1856 (the Madden Farm)",
+  "aka": [
+    "Tule River Farm",
+    "Madden Farm reservation"
+  ],
+  "signed": "1856",
+  "citation": "No treaty or order; informally established in 1856 (Royce)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/814/mode/2up",
+  "nations": [
+    "Tule River Indian Tribe"
+  ],
+  "promises": [
+    "Royce says the tract was informally established in 1856 as an Indian reservation; no treaty, statute or written order is cited.",
+    "The Tribe says the federal government selected the site, on San Joaquin Valley farmland near present Porterville, to give the Tribe a permanent homeland."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "nation-statement",
+      "date": "2013-09-24",
+      "what": "The Tule River Tribe says that in 1857 Thomas Madden and two other local Indian agents illegally secured state patents and title to most of the original reservation, that the Treasury ignored a federal investigation's conclusion of fraud in 1858, and that its people were forcibly removed from the Madden Farm in 1876.",
+      "whoFoundIt": "Tule River Tribe, water settlement presentation, September 24, 2013",
+      "source": {
+        "title": "Tule River Tribe, with the Native American Rights Fund and others, water settlement presentation (September 24, 2013)",
+        "url": "https://narf.org/nill/documents/NARF_water_settlements/Tule/20130924presentation.pdf",
+        "publisher": "Native American Rights Fund"
+      },
+      "quote": "Thomas Madden and two other local Indian agents illegally secured state patents and title to most of the original Tule River Reservation."
+    }
+  ],
+  "compensation": "Royce says the United States paid Madden rent for the 1,280-acre farm until it was abandoned in 1876. Nothing paid to the Tribe for the farm was found; the Tribe's 2013 damages claim is recorded on cession-1873-01-09-king-s-river-tule-river-or-madden-farm-r.",
+  "today": "Royce records that in 1857-58 Thomas P. Madden, an employee of the Indian service, entered and obtained title to the land with state school warrants, that a further 160 acres fenced by the United States was entered by an Indian employee as a homestead in 1864, and that the Indians were removed in 1876 to the reservation set apart by the orders of January 9 and October 3, 1873.",
+  "nationVoice": [
+    {
+      "nation": "Tule River Indian Tribe",
+      "summary": "The Tribe says its original 1856 reservation of valley farmland was taken by Indian agents through state patents, that the government then leased the land back from Madden while the Tribe farmed it, and that its people were violently removed to the mountain reservation in 1876.",
+      "url": "https://narf.org/nill/documents/NARF_water_settlements/Tule/20130924presentation.pdf"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Tule River Tribe, with the Native American Rights Fund and others, water settlement presentation (September 24, 2013)",
+      "url": "https://narf.org/nill/documents/NARF_water_settlements/Tule/20130924presentation.pdf",
+      "publisher": "Native American Rights Fund"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 814-815",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/814/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The 1858 federal investigation the Tribe describes was not located; a government report finding fraud would be a government-admission finding. Lead: the 1858 to 1860 Senate and House executive documents on California Indian affairs, including J. Ross Browne's reports.",
+    "The Tribe gives the original reservation as 2,240 acres; Royce gives the Madden farm as 1,280 acres plus 160 acres adjoining. Not reconciled.",
+    "No Indian Claims Commission or Court of Claims decision on the Madden Farm was found (ICC full text \"Madden farm\" returned only an unrelated case). Tule River Indian Tribe v. United States, 231 Ct. Cl. 1031 (1982), concerns 1,440 acres of the later reservation, not this tract.",
+    "treaties.json lists no present-day tribes for this entry; the Tule River Indian Tribe is named here. Not edited.",
+    "Chairman Kenneth McDarment's 2016 Senate testimony would not load (HTTP 403)."
+  ],
+  "plain": {
+    "promised": "In 1856 the government set aside valley farmland near Porterville as the first Tule River reservation. No treaty or written order is recorded for it.",
+    "happened": "The Tule River Tribe says Indian agents illegally took title to most of it in 1857 and the Tribe was forced out in 1876. No court or government finding was located.",
+    "today": "Nothing paid to the Tribe for this land was found. The Tribe's damages claim is part of its water settlement talks."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

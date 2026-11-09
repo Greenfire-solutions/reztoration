@@ -1,0 +1,85 @@
+{
+  "id": "cession-1886-10-01-yuma",
+  "sameEventAs": "cession-1884-01-09-yuma",
+  "name": "Taking of the Quechan (Yuma) country without a treaty of purchase (Royce Area 685)",
+  "aka": [
+    "Royce 685, Yuma: country claimed by them at beginning of their relations with the U.S."
+  ],
+  "citation": "No treaty or statute: Royce records that no treaty of purchase was ever made and that the United States assumed title to their country",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up",
+  "nations": [
+    "Quechan Tribe of the Fort Yuma Indian Reservation (Yuma)"
+  ],
+  "promises": [
+    "Not a treaty. Royce records that no treaty of purchase was ever made with the Yuma and that the United States assumed title to their country, shown on his Arizona map No. 1.",
+    "Royce notes that most of them were concentrated on the Colorado River and Yuma reservations."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1959-09-30",
+      "what": "The Indian Claims Commission held that the Quechan had Indian title to the land in its Finding 21, that the United States extinguished that title in present Arizona on January 9, 1884 and in present California on March 3, 1853, and ordered the case to proceed to the value and any payment made.",
+      "whoFoundIt": "Indian Claims Commission, Quechan Tribe v. United States, Docket 319, Interlocutory Order, 8 Ind. Cl. Comm. 111 (1959)",
+      "source": {
+        "title": "Quechan Tribe of the Fort Yuma Reservation v. United States, Docket 319, Interlocutory Order (September 30, 1959), 8 Ind. Cl. Comm. 111",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/363",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1965-08-05",
+      "what": "The claim was settled for $520,000.00 net, and the Commission entered final judgment on the stipulation. A settlement is not a further finding.",
+      "whoFoundIt": "Indian Claims Commission, Docket 319, Final Judgment and Additional Findings of Fact in Compromise Settlement, 15 Ind. Cl. Comm. 489 (1965)",
+      "source": {
+        "title": "Quechan Tribe v. United States, Docket 319, Final Judgment (August 5, 1965)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/701",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "compensation": "$520,000.00 net by compromise final judgment, August 5, 1965. The Commission's findings on the settlement attribute $353,000 of it to the Arizona land.",
+  "today": "This record maps the Quechan country in Arizona (Royce 685), which is the land of the Docket 319 Arizona finding already carried by cession-1884-01-09-yuma. It is marked as the same event so the taking is not counted twice.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 922-923, area 685",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Quechan Tribe of the Fort Yuma Reservation v. United States, Docket 319, Interlocutory Order (September 30, 1959), 8 Ind. Cl. Comm. 111",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/363",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Quechan Tribe of the Fort Yuma Reservation v. United States, Docket 319, Opinion of the Commission (September 30, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/552",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Quechan Tribe v. United States, Docket 319, Additional Findings of Fact in Compromise Settlement (August 5, 1965), 15 Ind. Cl. Comm. 489",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/763",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Quechan Tribe v. United States, Docket 319, Final Judgment (August 5, 1965)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/701",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "Same event as cession-1884-01-09-yuma: the Commission dated the Arizona taking to that executive order. The 1886-10-01 date in treaties.json is a Royce heading, not a date of this taking. Not edited.",
+    "The settlement findings give the Arizona acreage as 881,644 acres in one place; the primary file notes the scan also reads 381,644, so no acreage is recorded here.",
+    "Royce shows the Yuma country only on his Arizona map; the California land taken March 3, 1853 (also in Docket 319) is not part of this polygon.",
+    "treaties.json lists no present-day tribes; the Quechan Tribe should be listed. Not edited. The Quechan Tribe's own account was not located."
+  ],
+  "plain": {
+    "promised": "Nothing. No treaty of purchase was made. The United States assumed title to the Quechan country and concentrated most of them on the Colorado River and Yuma reservations.",
+    "happened": "The Indian Claims Commission found Quechan title to their Arizona land was ended on January 9, 1884, and their California land on March 3, 1853.",
+    "today": "The claim was settled in 1965 for $520,000.00, of which $353,000 was for the Arizona land."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

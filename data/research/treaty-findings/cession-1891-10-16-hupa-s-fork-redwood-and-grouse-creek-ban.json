@@ -14,10 +14,23 @@
   ],
   "promises": [
     "Not a treaty. The President extended the Hoopa Valley Reservation to include a strip one mile wide on each side of the Klamath River from its limits to the Pacific (Royce).",
-    "The Supreme Court records that the order brought the old Klamath River Reservation and the connecting strip into the Hoopa Valley Reservation (Mattz v. Arnett, 1973)."
+    "The Supreme Court records that the order brought the old Klamath River Reservation and the connecting strip into the Hoopa Valley Reservation (Mattz v. Arnett, 1973).",
+    "The Court of Claims held that the order made the Square and the Addition a single reservation whose Indians held equal rights in its lands (Short v. United States, 1973)."
   ],
-  "status": "no-breach-found",
-  "breaches": [],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1973-10-17",
+      "what": "The Court of Claims held that the 1891 order joined the Hoopa Square and the Klamath River Addition into one reservation in which the Indians of both had equal rights, so the Secretary of the Interior's payment of the Square's timber revenues only to the Hoopa Valley Tribe's roll left out Indians of the reservation, chiefly Yurok of the Addition, who were entitled to recover a share.",
+      "whoFoundIt": "Court of Claims, Short v. United States, 202 Ct. Cl. 870, 486 F.2d 561 (1973)",
+      "source": {
+        "title": "Short v. United States, 202 Ct. Cl. 870 (1973)",
+        "url": "https://static.case.law/us-ct-cl/202/cases/0870-01.json",
+        "publisher": "Caselaw Access Project, Harvard Law School"
+      }
+    }
+  ],
   "today": "Congress ordered the original Klamath River Reservation sold by the Act of June 17, 1892, but the Supreme Court held in Mattz v. Arnett (1973) that the Act did not end the reservation. The Hoopa-Yurok Settlement Act of 1988 made the 1891 Addition the Yurok Reservation and the 1876 square the Hoopa Valley Reservation; the Federal Circuit held in Karuk Tribe v. Ammon (2000) that the executive orders gave no compensable property rights.",
   "nationVoice": [],
   "sources": [
@@ -35,13 +48,25 @@
       "title": "Karuk Tribe of California v. Ammon, 209 F.3d 1366 (Fed. Cir. 2000)",
       "url": "https://static.case.law/f3d/209/cases/1366-01.json",
       "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Short v. United States, 202 Ct. Cl. 870 (1973)",
+      "url": "https://static.case.law/us-ct-cl/202/cases/0870-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
     }
   ],
   "openQuestions": [
-    "This order added land; no finding that it was broken was found. The 1892 Act concerns the Klamath River Reservation (cession-1855-11-16-klamath, Royce 400).",
+    "Audit 2026-11-08 (round 14): a Court of Claims scan for the Hoopa Valley found Short v. United States, 202 Ct. Cl. 870 (1973), which rules on rights this order created in the Square (Royce 461, this row's area). Added as a court-ruling breach; status raised from no-breach-found to broken. The wrong was to Indians of the Addition (mostly Yurok), not to the Hoopa Valley Tribe, which received the revenues.",
+    "This order added land; it took none. The 1892 Act concerns the Klamath River Reservation (cession-1855-11-16-klamath, Royce 400). This row's Royce area 461 is the Hoopa Valley reserve (the Square) of 1864 and 1876.",
     "treaties.json lists only the Hoopa Valley Tribe; since 1988 the Addition is the Yurok Reservation, so the Yurok Tribe should be listed. Its royce link points to p. 832 (the 1864 entry); the 1891 entry is on p. 942. Noted, not edited.",
-    "Neither tribe's own account of the 1891 order was located in this pass."
+    "Neither tribe's own account of the 1891 order was located in this pass.",
+    "How much the Short plaintiffs were eventually paid (the case ran into the 1980s and 1990s) was not traced. Not marked sameEventAs cession-1891-10-16-klamath: same order, but a different Royce area (461, not 400) and a different breach."
   ],
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "plain": {
+    "promised": "Not a treaty. An 1891 presidential order added a strip along the Klamath River to the Hoopa Valley Reservation, making one reservation.",
+    "happened": "The Court of Claims held in 1973 that the United States wrongly paid the timber money from the Hoopa Square only to the Hoopa Valley Tribe, leaving out Indians of the added strip, mostly Yurok.",
+    "today": "The 1988 Hoopa-Yurok Settlement Act split the land into the Hoopa Valley and Yurok reservations. What the excluded Indians were finally paid was not traced."
+  }
 }

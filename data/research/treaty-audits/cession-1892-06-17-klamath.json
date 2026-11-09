@@ -1,0 +1,21 @@
+{
+  "id": "cession-1892-06-17-klamath",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce schedule pp. 944-949 read in the Internet Archive full text of annualreportofbu218smit: June 17, 1892 Act restoring the original Klamath River reservation to the public domain, allotments for Indians settled there; 'See 400', California 2.",
+    "Mattz v. Arnett, 412 U.S. 481 (1973, static.case.law): text of 27 Stat. 52 quoted (homestead settlement, one-year allotment window, Secretary 'may reserve' village sites, proceeds for maintenance and education); Oct 16, 1891 extension of Hoopa Valley Reservation; reservation not terminated. Quote in the breach is exact.",
+    "Court of Claims case names, all 231 us-ct-cl volumes: no Yurok or Klamath River Reservation case; the Klamath & Modoc cases concern the Oregon Klamath; Hoopa Valley Tribe v. United States, 219 Ct. Cl. 492 (1979) is a jurisdiction ruling.",
+    "sameEventAs cession-1855-11-16-klamath exists; kept."
+  ],
+  "changes": [
+    "Promise 2, breach 'what', landTaken and plain.happened: village sites were reservable at the Secretary's discretion, not reserved by the Act.",
+    "'Mattz v. Arnett records no consent' changed to 'No consent of the Indians was found' (Mattz is silent)."
+  ],
+  "unverifiable": [
+    "The govinfo PDF of 27 Stat. 52 was not reopened; the Act's text was checked as quoted in Mattz."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes is 'Klamath Tribes, Oregon'; Royce area 400 (California 2) is the Klamath River Reservation of the Yurok in California (Royce p. 944-945; Mattz v. Arnett). Should be the Yurok Tribe."
+  ]
+}

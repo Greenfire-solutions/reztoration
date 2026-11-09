@@ -1,0 +1,17 @@
+{
+  "id": "cession-1883-07-13-chippewa-of-minnesota",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive OCR of annualreportofbu218smit) p. 912: President revokes EO of Mar. 18, 1879 setting apart an addition to White Earth reservation. Matches.",
+    "ICC full text 'White Earth 1879 addition' and Court of Claims Chippewa of Minnesota opinions (87 Ct. Cl. 1, 88 Ct. Cl. 1, 91 Ct. Cl. 97) searched for 'March 18, 1879' and 'July 13, 1883': no finding on this revocation.",
+    "EO-addition revocation with no finding: no-breach-found is right under the 2026-11-08 rule."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "White Earth Nation's own account not located."
+  ],
+  "treatiesJsonErrors": [
+    "Tribe name: Royce p. 912 'Chippewa of the Mississippi'; treaties.json 'Chippewa of Minnesota' (already noted in the file)."
+  ]
+}

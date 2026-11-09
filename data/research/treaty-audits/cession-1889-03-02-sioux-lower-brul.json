@@ -1,0 +1,15 @@
+{
+  "id": "cession-1889-03-02-sioux-lower-brul",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Docket 78 figures (25,968.24 acres, $18,818.11, $71,747.63, offset) match the primary record's audited figures",
+    "105 Ct. Cl. 725 (static.case.law us-ct-cl/105/0725) opened in full: case C-531 (22) claim for 34,664.62 acres (3,763.55 included) dismissed for want of jurisdiction, amended petition filed more than five years after the 1920 act; no ration claim for Lower Brule",
+    "sameEventAs cession-1889-03-02-sioux kept: same survey-strip land and finding",
+    "Royce p. 932 to 934 schedule text"
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Docket 78 documents not re-read in full for this row (audited under the primary)"
+  ]
+}

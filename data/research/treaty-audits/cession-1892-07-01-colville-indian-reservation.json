@@ -1,0 +1,25 @@
+{
+  "id": "cession-1892-07-01-colville-indian-reservation",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce schedule pp. 944-949 read in the Internet Archive full text of annualreportofbu218smit: July 1, 1892 Act (27 Stat. 62) restoring the north half subject to allotments; areas 717 (ceded) and 718; 'This act became a law without the President's signature.'",
+    "27 Stat. 62-64 (govinfo PDF): sec. 1 vacated 'notwithstanding any executive order', about 1,500,000 acres; sec. 2 net proceeds held subject to future appropriation for public use and spent at the Secretary's discretion; sec. 3 $1.50 an acre from homesteaders; sec. 8 no recognition of Indian title; no $1,500,000 provided.",
+    "Antoine v. Washington, 420 U.S. 194 (1975, static.case.law): 1891 agreement, Art. 6 hunting and fishing quote, $1,500,000 in five instalments; majority calls the 1892 Act the first of the approving statutes; 1906 Act (34 Stat. 325, 377-378) carried the agreement into effect and authorized $1,500,000; five $300,000 appropriations 1907 to 1911. Dissent cites sec. 8.",
+    "Docket 181-C conclusions of law, 36 Ind. Cl. Comm. 183 (June 13, 1975, pointer 2665): title to the north half extinguished by the 1892 Act; liability for resources removed before 1892 with US aid.",
+    "Dockets 181-A/181-B final judgment of $3,500,000 on stipulation (Sept 7, 1967, pointer 2050).",
+    "Court of Claims list: Docket 181-C judgment of $3,397,874, Jan 23, 1981 (226 Ct. Cl. 725, one-line entry)."
+  ],
+  "changes": [
+    "Breach 'what' reworded: no longer implies the Act refused to ratify (Antoine's majority treats it as the first approving statute); now rests on the Act's own text (sec. 1, 2, 8) and adds the Commission's 1975 conclusion that the Act extinguished the north-half title.",
+    "Breach source changed from Antoine to the Act itself; whoFoundIt adds 36 Ind. Cl. Comm. 183; that order added to sources.",
+    "plain.happened adds that the Act did not recognize the tribes' title.",
+    "Two openQuestions added (Antoine framing, June 20 date in the ICC order; 1981 Docket 181-C judgment as a lead)."
+  ],
+  "unverifiable": [
+    "Whether the 1981 Docket 181-C judgment concerns the north half: the reporter entry is one line."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes is empty; the Confederated Tribes of the Colville Reservation are the successors (Antoine; ICC Dockets 181)."
+  ]
+}

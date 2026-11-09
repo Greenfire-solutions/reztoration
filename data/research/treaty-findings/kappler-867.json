@@ -1,0 +1,100 @@
+{
+  "id": "kappler-867",
+  "name": "Treaty with the Shoshoni-Goship, 1863 (Treaty of Tuilla Valley)",
+  "aka": [
+    "Treaty of Tooele Valley",
+    "Goshute Treaty of 1863"
+  ],
+  "signed": "1863-10-12",
+  "ratified": "1864-03-07",
+  "proclaimed": "1865-01-17",
+  "citation": "13 Stat. 681",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-shoshoni-goship-1863-0859",
+  "nations": [
+    "Confederated Tribes of the Goshute Reservation (Shoshonee-Goship bands)",
+    "Skull Valley Band of Goshute Indians"
+  ],
+  "promises": [
+    "Peace and friendship between the Goship bands and the United States (Article 1).",
+    "The bands agreed that routes of travel, military posts, station houses, telegraph and stage lines could run through their country (Articles 2 and 3).",
+    "The bands agreed their country could be explored and mined, and that mining and farming settlements, mills and ranches could be made in it (Article 4).",
+    "The boundaries of the country the Goship claimed and occupied were described (Article 5); the President could later settle them on reservations (Article 6).",
+    "The United States would pay $1,000 a year for twenty years for the loss of game and the inconvenience caused by settlement (Article 7, as summarised by the Indian Claims Commission)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1973-08-09",
+      "what": "The Indian Claims Commission found that the 1863 treaty was one of peace and friendship, not a cession, and that the Goshute aboriginal title to their land (except two small areas at Deep Creek and Skull Valley) was extinguished as of January 1, 1875 by white settlement, without payment. It valued the land at $5,980,122.00 and the lost profits from ores mined before that date at $1,273,000.00.",
+      "whoFoundIt": "Indian Claims Commission, Goshute Tribe v. United States, Docket 326-J, Findings of Fact 27-28 and Interlocutory Order of August 9, 1973 (31 Ind. Cl. Comm. 225)",
+      "source": {
+        "title": "Goshute Tribe v. United States, Docket 326-J, Interlocutory Order, August 9, 1973, 31 Ind. Cl. Comm. 225",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2208",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      },
+      "quote": "The date upon which plaintiff's aboriginal title was extinguished was January 1, 1875."
+    },
+    {
+      "kind": "litigation",
+      "date": "1975-11-05",
+      "what": "The Goshute claims in Dockets 326-B and 326-J ended in a compromise: the Commission entered a final award of $7,300,000 on a stipulation for settlement.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 326-B and 326-J, Final Award of November 5, 1975 (37 Ind. Cl. Comm. 41)",
+      "source": {
+        "title": "Confederated Tribes of the Goshute Reservation v. United States, Dockets 326-B and 326-J, Final Award, November 5, 1975",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2267",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    }
+  ],
+  "landTaken": "The Commission found the Goshute tract held by aboriginal title embraced 5,952,000 acres, of which 128,196.35 acres later set aside as the Deep Creek and Skull Valley reservations were excluded, leaving 5,823,803.65 acres to be valued (Docket 326-J, Finding 28).",
+  "compensation": "The 1973 interlocutory order found $5,980,122.00 for the land and $1,273,000.00 for lost ore profits, subject to offsets. The claims were then compromised for a final award of $7,300,000 on November 5, 1975, covering Dockets 326-B and 326-J.",
+  "today": "The Commission found the Goshute were concentrated at Deep Creek and Skull Valley, where reservations were formally set apart by executive orders of March 23, 1914 (Deep Creek) and September 7, 1917 and February 15, 1918 (Skull Valley) (Docket 326-J, Finding 27).",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Shoshoni-Goship, 1863 (Kappler, vol. 2)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-shoshoni-goship-1863-0859",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Goshute Tribe v. United States, Docket 326-J, Findings of Fact, August 9, 1973, 31 Ind. Cl. Comm. 225",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2201",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Goshute Tribe v. United States, Docket 326-J, Interlocutory Order, August 9, 1973, 31 Ind. Cl. Comm. 225",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2208",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Confederated Tribes of the Goshute Reservation v. United States, Dockets 326-B and 326-J, Findings of Fact on Compromise Settlement, November 5, 1975",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1800",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Confederated Tribes of the Goshute Reservation v. United States, Dockets 326-B and 326-J, Final Award, November 5, 1975",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2267",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 830-831, treaty of October 12, 1863, area 447",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/830/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The Commission dated the extinguishment to January 1, 1875 by gradual white encroachment, not to the treaty; the treaty itself is recorded as a peace treaty that opened the country to mining and settlement. The breach recorded is the taking of the land the treaty described without purchase.",
+    "Whether all twenty $1,000 annuities under Article 7 were paid was not traced; the Commission's findings mention that the 1873 Powell-Ingalls commission proposed no further annuities unless the Goshute accepted removal.",
+    "treaties.json lists no presentDayTribes for this record; the Oklahoma State University database names the Confederated Tribes of the Goshute Reservation and the Skull Valley Band of Goshute Indians as successors. Not edited.",
+    "No Goshute nation history page was opened in this pass; a nationVoice entry is still owed.",
+    "Royce p. 830 was fetched but the area 447 row was not read on the page scan in this pass; the Commission quotes Royce as saying the Goshute tract was taken possession of without formal purchase."
+  ],
+  "plain": {
+    "promised": "A peace treaty: the Goshute let roads, telegraph, mines and settlements into their country, and the United States promised $1,000 a year for twenty years for the lost game.",
+    "happened": "The Indian Claims Commission found in 1973 that the Goshute lost nearly all their land by January 1, 1875 to white settlement, without payment, and that profits from ores mined before then were also lost.",
+    "today": "The claims were settled for $7,300,000 in 1975. The Goshute kept only the Deep Creek and Skull Valley areas, set apart as reservations in 1914-1918."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

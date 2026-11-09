@@ -1,0 +1,57 @@
+{
+  "id": "cession-1873-04-08-round-valley-reservation-indians",
+  "name": "Executive order of April 8, 1873 withdrawing the Round Valley lands from sale under the Act of March 3, 1873",
+  "sameEventAs": "cession-1873-03-03-round-valley-reservation-indians",
+  "signed": "1873-04-08",
+  "citation": "Executive order of April 8, 1873 (under the Act of March 3, 1873, 17 Stat. 633)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/862/mode/2up",
+  "nations": [
+    "Round Valley Indian Tribes"
+  ],
+  "promises": [
+    "Under section 3 of the Act of March 3, 1873, the President was to withdraw from sale or entry the land within the boundaries the Act described for the Round Valley reservation, until the commission fixing the northern line reported (Royce p. 862; Senate Report No. 1522 of 1885).",
+    "The same Act required settlers within the reservation limits to remove once paid or tendered the appraised value of their improvements (Senate Report No. 1522, 1885)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "government-admission",
+      "date": "1885-02-27",
+      "what": "The Senate Committee on Indian Affairs, reporting by Senator Dawes, found that nine white occupants held about 97,500 acres of the Round Valley reservation as marked by its present limits under the Act of March 3, 1873, exclusively and without compensation, and said it could find no excuse for this condition of things. The report records that this order of April 8, 1873 withdrew the tract under the 1873 Act.",
+      "whoFoundIt": "Senate Report No. 1522, 48th Congress, 2d Session (1885)",
+      "source": {
+        "title": "Senate Report No. 1522, 48th Congress, 2d Session, Condition of Certain Indians in California (Mr. Dawes, Committee on Indian Affairs, February 27, 1885)",
+        "url": "https://shareok.org/items/ebd3a0c8-69dd-4264-925c-fb11e38f5188",
+        "publisher": "University of Oklahoma Libraries, SHAREOK (American Indian and Alaska Native Documents in the Congressional Serial Set)"
+      },
+      "quote": "The committee are unable to find any excuse for this condition of things."
+    }
+  ],
+  "compensation": "No payment to the Round Valley peoples for the occupied land was found. The 1885 report gives a witness estimate of the value of the white occupancy at $34,125 a year; that is an estimate in testimony, not an award.",
+  "today": "This order is a step in carrying out the Act of March 3, 1873; the boundaries were proclaimed on May 18, 1875. The full record of that reservation, including the Ninth Circuit ruling in Russ v. Wilkins (1980) and the 1947 restoration of about 7,531 acres, is on the findings for the Act of March 3, 1873.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 862-863",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/862/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Senate Report No. 1522, 48th Congress, 2d Session, Condition of Certain Indians in California (Mr. Dawes, Committee on Indian Affairs, February 27, 1885)",
+      "url": "https://shareok.org/items/ebd3a0c8-69dd-4264-925c-fb11e38f5188",
+      "publisher": "University of Oklahoma Libraries, SHAREOK (American Indian and Alaska Native Documents in the Congressional Serial Set)"
+    }
+  ],
+  "openQuestions": [
+    "Same land and event as cession-1873-03-03-round-valley-reservation-indians (Royce area 583): this order only withdrew the 1873 Act tract from sale while the boundary commission worked. The breach is the same 1885 Senate admission and should not be counted twice.",
+    "The order itself was read only in Royce's summary and in the 1885 report, which says it was issued on April 8, 1873 at the Indian Office's request of March 29, 1873 and sent on by Department letter of April 10, 1873.",
+    "The Round Valley Indian Tribes' own account of the 1873 boundaries was not found."
+  ],
+  "plain": {
+    "promised": "In 1873 Congress set new Round Valley reservation lines, and this order held the land back from sale while the boundary was fixed. Settlers inside were to be paid for improvements and leave.",
+    "happened": "In 1885 a Senate committee found white stockmen held about 97,500 acres of the 1873 reservation without paying and said there was no excuse for it.",
+    "today": "No payment for that occupation was found. The full story is on the record for the 1873 Act."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

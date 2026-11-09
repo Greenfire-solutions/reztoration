@@ -1,0 +1,19 @@
+{
+  "id": "kappler-1081",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "OSU Kappler text (agreement-with-the-columbia-and-colville-1883-1073): July 7, 1883; ratified July 4, 1884, 23 Stat. 79; Vol. 1 p. 224; every promise (two cows each, $1,000 house, mills, wagon and tools, $1,000 a year to Moses on condition, equal rights and protection on Colville, Sar-sarp-kin's allotments of four square miles and one square mile each or 100 cows, Tonasket's mill, school for 100 at Bonaparte Creek, physician, $100 a year, no removal until appropriation) matches.",
+    "treaties.json correction for this row (Royce pp. 912-913, area 618) agrees with the file.",
+    "ICC full text 'Moses Columbia Reservation' (9 hits): Dockets 161/224 (Yakima and the Moses band) concern 1855 Yakima-treaty aboriginal lands; 12 Ind. Cl. Comm. 301 says there was no relinquishment of those rights under the Moses Agreements of 1879 and 1883, which is not a finding that this agreement's promises were broken.",
+    "Docket 181-A claim (18 Ind. Cl. Comm. 531, pointer 2196) concerns Moses' people on the Columbia Reservation; settled with 181-B; Docket 181-C conclusions (36 Ind. Cl. Comm. 183, pointer 2665): north-half title extinguished by the 1892 Act.",
+    "Court of Claims case names, all 231 volumes: no Moses, Columbia or Chelan case; Colville entries are 181-C fee and judgment notes of 1981."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [
+    "Whether Congress appropriated and the Indian Office delivered the promised goods (already in openQuestions).",
+    "The nation-voice page (cctfnw.squarespace.com) was not reopened."
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "cession-1868-07-27-mendocino-indian-reservation",
+  "name": "Act of July 27, 1868 restoring the Mendocino Indian reservation to the public domain (15 Stat. 223)",
+  "aka": [
+    "Mendocino Indian Reservation, 1856-1866",
+    "Royce area 522"
+  ],
+  "signed": "1868-07-27",
+  "citation": "15 Stat. 223",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/850/mode/2up",
+  "nations": [
+    "Pomo peoples of the Mendocino coast (Northern Pomo and others), many of them moved to Round Valley"
+  ],
+  "promises": [
+    "Not a treaty: an Act of Congress. Royce records that Congress restored the Mendocino Indian reservation to the public domain.",
+    "Royce's note: the Act of March 3, 1853 authorised five military reserves for Indians in California of up to 25,000 acres each; President Pierce issued the executive order setting apart the Mendocino reserve on May 22, 1856, and its actual abandonment for Indian purposes occurred on March 31, 1866."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce area 522. Royce's description gives the tract as lying between the south bank of the Noyo river and a point 1 mile north of the mouth of Hale (Bee-da-loe) creek, extending east from the coast to include the valleys beyond the first range of hills.",
+  "today": "The Indians of California claims before the Indian Claims Commission (Dockets 31 and 37) were compromised in 1964 for $29,100,000; that settlement concerned aboriginal title taken as of March 3, 1853, not this reservation.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 850-851, Act of July 27, 1868, 15 Stat. 223, area 522",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/850/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Thompson et al. (Indians of California) v. United States, Dockets 31 and 37 et al., Findings of Fact on compromise settlement, July 20, 1964, 13 Ind. Cl. Comm. 369",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/914",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "The reservation was an executive-order reserve; under the 2026-11-08 rule its restoration is not itself a breach, and no court, Claims Commission or government admission about this land was found in this pass.",
+    "Royce's description of the Mendocino reserve (p. 850) opens with land on both sides of the Klamath river from its mouth 20 miles up, which is the Klamath River reserve, before giving the Noyo river and Hale creek bounds; the Klamath words look like a conflation in Royce. Only the Noyo-Hale creek description is used here.",
+    "Secondary sources found in a search (PBS SoCal, Kelley House Museum, the Fort Bragg city history) give 1865 or 1866 for the closing, describe forced marches to Round Valley and sale of the land at $1.25 an acre in 1869; none was opened and cited, and none is a finding.",
+    "The Senate's 1885 Round Valley report (Senate Report No. 1522, 48th Cong., 2d Sess.), cited on cession-1873-03-03-round-valley-reservation-indians, may discuss the Mendocino removals; not read for this tract.",
+    "No Pomo nation account of the Mendocino reservation was located. treaties.json lists no presentDayTribes for this record. Not edited.",
+    "treaties.json also has cession-1856-05-22-mendocino-indian-reservation for the 1856 order (same area 522), which has no findings file yet."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

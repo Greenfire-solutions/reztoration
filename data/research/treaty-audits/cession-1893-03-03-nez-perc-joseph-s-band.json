@@ -1,0 +1,18 @@
+{
+  "id": "cession-1893-03-03-nez-perc-joseph-s-band",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce schedule pp. 944-949 read in the Internet Archive full text of annualreportofbu218smit: Mar 3, 1893 Tonkawa row confirms agreement of Oct 21, 1891 (T. 25-26 N., R. 1-2 W.), 'See 606', Indian Territory 3; remark that the tract was conveyed by the Cherokee Nation in trust for the Nez Perce by deed of June 14, 1883.",
+    "27 Stat. 643-644 sec. 11 (govinfo PDF): $30,600 to the Tonkawa for four townships of 90,710.89 acres, agreement of Oct 21, 1891; deposited portion at 5 percent; agreement ratified.",
+    "Cherokee Docket 173, 9 Ind. Cl. Comm. 162, finding 5 (pointer 338): Joseph's band settled on Area 606 of 90,710.89 acres under 20 Stat. 63, 74; transferred to the Tonkawa June 1885. The Outlet award there (finding 46) is for 6,022,754.17 acres excluding the tribal tracts.",
+    "Court of Claims case names, all 231 volumes: no Tonkawa case."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "Row is named for Nez Perce (Joseph's band) with presentDayTribes 'Nez Perce Tribe of Idaho'; Royce's Area 606 entry for Mar 3, 1893 is the Tonkawa agreement (27 Stat. 643). The ceding party and present-day tribe is the Tonkawa Tribe of Oklahoma."
+  ]
+}

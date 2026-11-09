@@ -1,0 +1,104 @@
+{
+  "id": "cession-1886-10-01-walapai",
+  "name": "Taking of the Hualapai (Walapai) country without a treaty of purchase (Royce Area 683)",
+  "aka": [
+    "Royce 683, Walapai: country claimed by them at beginning of their relations with the U.S."
+  ],
+  "citation": "No treaty or statute: Royce records that no treaty of purchase was ever made and that the United States assumed title to their country",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up",
+  "nations": [
+    "Hualapai Tribe of the Hualapai Reservation, Arizona (Walapai)"
+  ],
+  "promises": [
+    "Not a treaty. Royce records that no treaty of purchase was ever made with the Hualapai and that the United States assumed title to their country, shown on his Arizona map No. 1.",
+    "Royce notes that the United States afterwards set apart a reserve for them by Executive order of January 4, 1883."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1962-11-19",
+      "what": "The Indian Claims Commission held that the Hualapai had Indian title to the land in its Finding 17 and that the United States extinguished that title outside the Hualapai Reservation on January 4, 1883, the day it set the reservation aside, without paying for it.",
+      "whoFoundIt": "Indian Claims Commission, Hualapai Tribe v. United States, Docket 90, Interlocutory Order, 11 Ind. Cl. Comm. 447 (1962)",
+      "source": {
+        "title": "Hualapai Tribe v. United States, Docket 90, Interlocutory Order (November 19, 1962), 11 Ind. Cl. Comm. 447",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/851",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "the United States extinguished without the payment of compensation said Indian title"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1966-12-21",
+      "what": "The Commission found the Hualapai aboriginal land comprised 4,459,500 acres worth $2,800,000.00 on January 4, 1883, acquired without payment, and held the tribe entitled to that sum less allowable offsets.",
+      "whoFoundIt": "Indian Claims Commission, Docket 90, Second Interlocutory Order, 17 Ind. Cl. Comm. 456 (1966)",
+      "source": {
+        "title": "Hualapai Tribe v. United States, Docket 90, Second Interlocutory Order (December 21, 1966), 17 Ind. Cl. Comm. 456",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1550",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1968-06-18",
+      "what": "Dockets 90 and 122 were consolidated and all Hualapai claims in them were settled by compromise for $2,950,000. A settlement is not a further finding.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 90 and 122, Final Judgment (1968)",
+      "source": {
+        "title": "Hualapai Tribe v. United States, Dockets 90 and 122, Final Judgment (June 18, 1968), 19 Ind. Cl. Comm. 161",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1217",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "4,459,500 acres of Hualapai aboriginal land, valued at $2,800,000.00 as of January 4, 1883 (Second Interlocutory Order, 1966).",
+  "compensation": "$2,950,000 by compromise final judgment of June 18, 1968, settling all claims in Dockets 90 and 122.",
+  "today": "The 1968 judgment settled all claims in both dockets. Whether and how it was distributed was not traced.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 922-923, area 683",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Hualapai Tribe v. United States, Docket 90, Interlocutory Order (November 19, 1962), 11 Ind. Cl. Comm. 447",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/851",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Hualapai Tribe v. United States, Docket 90, Opinion of the Commission (November 19, 1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/605",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Hualapai Tribe v. United States, Docket 90, Second Interlocutory Order (December 21, 1966), 17 Ind. Cl. Comm. 456",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1550",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Hualapai Tribe v. United States, Dockets 90 and 122, Final Judgment (June 18, 1968), 19 Ind. Cl. Comm. 161",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1217",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Hualapai Tribe v. United States, Dockets 90 and 122, Additional Findings of Fact on Compromise Settlement (June 18, 1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/930",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The date 1886-10-01 in treaties.json is not a date of this taking. Royce 683 is undated and printed under 'Cessions of 1886' after the Pueblo grants headed 'Oct. 1, Act of Congress'. The Commission dated the taking January 4, 1883. Not edited.",
+    "cession-1883-01-04-walapai (Royce 641, the 1883 reservation order) has no findings file yet; this file carries the January 4, 1883 taking of the land outside the reservation, and that record should point here with sameEventAs if it is researched on the same finding.",
+    "treaties.json lists no present-day tribes; the Hualapai Tribe should be listed. Not edited.",
+    "What Docket 122 claimed was not read. The Hualapai Tribe's own history page (hualapai-nsn.gov) returned 404; the nation voice is missing.",
+    "2026-11-08: counted once with cession-1883-01-04-walapai (the Hualapai taking (Docket 90) is dated by the Jan 4, 1883 order). The map still shows this row."
+  ],
+  "plain": {
+    "promised": "Nothing. No treaty of purchase was made. The United States assumed title to the Hualapai country and set apart a reservation in 1883.",
+    "happened": "The Indian Claims Commission found the United States took 4,459,500 acres of Hualapai land outside the reservation on January 4, 1883 without paying, and valued it at $2,800,000.00.",
+    "today": "All Hualapai claims in the two dockets were settled in 1968 for $2,950,000. Whether the money was distributed was not traced."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher",
+  "sameEventAs": "cession-1883-01-04-walapai"
+}

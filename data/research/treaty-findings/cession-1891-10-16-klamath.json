@@ -65,9 +65,9 @@
   ],
   "openQuestions": [
     "Same land and the same taking as cession-1855-11-16-klamath (the 1892 Act), so sameEventAs points there and the taking is counted once.",
-    "treaties.json notes this order is also recorded as cession-1891-10-16-hupa-s-fork-redwood-and-grouse-creek-ban; that row has no findings file yet and should point here or at the 1855 record when it is done.",
     "The 1891 extension also took in the strip between the old Hoopa square and the 1855 reserve; the 1892 Act reached only the 1855 reserve. Whether anything was taken from the connecting strip was not researched.",
-    "Short v. United States (Court of Claims, 1973) on Hoopa Valley timber revenue and the Yurok was not read in this pass."
+    "Audit 2026-11-08: Short v. United States, 202 Ct. Cl. 870 (1973) was read; it concerns the Square's timber revenue (Royce 461) and is recorded under cession-1891-10-16-hupa-s-fork-redwood-and-grouse-creek-ban, not here. That row now has a findings file.",
+    "treaties.json also lists this order as cession-1891-10-16-hupa-s-fork-redwood-and-grouse-creek-ban (Royce 461, the Square); the two rows are different areas."
   ],
   "plain": {
     "promised": "Not a treaty. An 1891 presidential order added a strip one mile each side of the Klamath River, down to the ocean, to the Hoopa Valley Reservation, taking in the 1855 Klamath River Reservation.",

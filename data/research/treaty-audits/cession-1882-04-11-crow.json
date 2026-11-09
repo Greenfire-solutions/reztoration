@@ -1,0 +1,17 @@
+{
+  "id": "cession-1882-04-11-crow",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive OCR of annualreportofbu218smit) pp. 906-907: Apr. 11, 1882, Act of Congress, 22 Stat. 42, Crow, 'Confirms agreement of June 12, 1880, for cession of a portion of their reserve'; map 'See 619'. Matches.",
+    "22 Stat. 42 opened on govinfo: ch. 74, ratifies the Crow agreement of June 12, 1880, executed by a majority of adult males per article 11 of the 1868 treaty.",
+    "81 Ct. Cl. 238 (March 4, 1935) opened: 'approximately 1,559,000 acres' for $30,000 a year for 25 years (22 Stat. 42); 'There has been no taking of any lands from the Crow Indians'; petition dismissed. Matches.",
+    "sameEventAs cession-1880-06-12-crow kept: same land (area 619) and event.",
+    "ICC full text 'Crow 1880 cession': Docket 54 (1958) concerns the 1868 treaty cession, not this one."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Crow Tribe's own account not searched."
+  ],
+  "treatiesJsonErrors": []
+}

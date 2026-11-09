@@ -11323,7 +11323,8 @@
    "540a"
   ],
   "presentDayTribes": [
-   "Wichita and Affiliated Tribes (Wichita, Keechi, Waco & Tawakonie), Oklahoma"
+   "Wichita and Affiliated Tribes (Wichita, Keechi, Waco & Tawakonie), Oklahoma",
+   "Caddo Nation of Oklahoma"
   ],
   "scheduleTribes": [
    "Wichita"
@@ -11333,6 +11334,13 @@
   "states": [
    "OK"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 860 (page scan checked): '1872 Oct. 19, Agreement, Wichita and affiliated bands: Cede to the U. S. all claim to lands in Texas, Louisiana, and Indian Territory', with a reserve between the Washita and the Canadian; p. 861 'This agreement has never been ratified'. Kappler's text (Oklahoma State University copy checked) is signed by 'George Washington, his X mark, War-Loo-Pee (Guadaloupe), his X mark, Chiefs of Caddoes. Antelope, his X mark, Delegate for Caddoes' beside the Wichita, Towoccaro, Waco and Keechi signers, so the Caddo Nation of Oklahoma is added.",
+   "source": "https://treaties.okstate.edu/treaties/agreement-with-the-wichita-and-affiliated-tribes-1872-22669"
+  },
   "name": "Cession of land of the Wichita, 1872-10-19"
  },
  {
@@ -11348,7 +11356,8 @@
   ],
   "presentDayTribes": [
    "Fort Sill Apache Tribe of Oklahoma",
-   "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+   "San Carlos Apache Tribe of the San Carlos Reservation, Arizona",
+   "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
   ],
   "scheduleTribes": [
    "Apache"
@@ -11361,13 +11370,13 @@
   "states": [
    "AZ"
   ],
-  "note": "Royce prints two orders of this day for the Apache: the Chiricahua reservation (map 'See 600'; it was revoked on Oct. 30, 1876, cession-1876-10-30-apache, which carries 600) together with the restoration of the Camp Grant reserve (541), and the San Carlos addition to the White Mountain reservation (no number). The USFS layer folded them into this record. The Fort Sill Apache Tribe is the Chiricahua successor; the San Carlos Apache Tribe is carried for the Camp Grant and San Carlos lands, as on cession-1871-11-09-apache. Area 600 stays as Royce's cross-reference.",
+  "note": "Royce prints two orders of this day for the Apache: the Chiricahua reservation (map 'See 600'; it was revoked on Oct. 30, 1876, cession-1876-10-30-apache, which carries 600) together with the restoration of the Camp Grant reserve (541), and the San Carlos addition to the White Mountain reservation (no number). The USFS layer folded them into this record. The Fort Sill Apache Tribe is the Chiricahua successor; the San Carlos Apache Tribe is carried for the Camp Grant and San Carlos lands, as on cession-1871-11-09-apache. The White Mountain Apache Tribe is carried because the second order enlarged the White Mountain reservation (the San Carlos addition was later cut back, Royce p. 861). Area 600 stays as Royce's cross-reference.",
   "correction": {
    "fields": [
     "presentDayTribes",
     "note"
    ],
-   "why": "Royce p. 860 (page scan checked): 1872 Dec. 14, Executive order, 'Apache': 'President sets apart a reserve to be known as Chiricahua reservation. President restores to public domain reservation established at Camp Grant, Nov. 9, 1871'; and a second order the same day, 'Apache': 'President enlarges White Mountain reservation by tract known as \"San Carlos addition\"'. p. 861: 'Revoked and canceled by Executive order of Oct. 30, 1876', 'See 600', Arizona 2; 541, Arizona 2. presentDayTribes was empty.",
+   "why": "Royce p. 860 (page scan checked): 1872 Dec. 14, Executive order, 'Apache': 'President sets apart a reserve to be known as Chiricahua reservation. President restores to public domain reservation established at Camp Grant, Nov. 9, 1871'; and a second order the same day, 'Apache': 'President enlarges White Mountain reservation by tract known as \"San Carlos addition\"'. p. 861: 'Revoked and canceled by Executive order of Oct. 30, 1876', 'See 600', Arizona 2; 541, Arizona 2. presentDayTribes was empty. White Mountain Apache Tribe added (round 14): Royce p. 860, second order of Dec. 14, 1872, 'President enlarges White Mountain reservation by tract known as \"San Carlos addition\"'; p. 861 'This San Carlos addition was partly restored to the public domain by Executive order of Aug. 5, 1873'.",
    "source": "https://archive.org/stream/annualreportofbu218smit#page/860/mode/2up"
   },
   "name": "Cession of land of the Apache, 1872-12-14"
@@ -15456,11 +15465,20 @@
   "scheduleTribes": [
    "Crow"
   ],
-  "statute": [],
+  "statute": [
+   "https://www.govinfo.gov/content/pkg/STATUTE-22/pdf/STATUTE-22-Pg42.pdf"
+  ],
   "executiveOrder": [],
   "states": [
    "MT"
   ],
+  "correction": {
+   "fields": [
+    "statute"
+   ],
+   "why": "Royce p. 906 (page scan checked): '1882 Apr. 11, Act of Congress, Stat. L. XXII, 42, Crow'. 22 Stat. 42 (govinfo scan checked), ch. 74: 'An act to accept and ratify the agreement submitted by the Crow Indians of Montana for the sale of a portion of their reservation', the agreement of June 12, 1880 (cession-1880-06-12-crow). statute was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/906/mode/2up"
+  },
   "name": "Cession of land of the Crow, 1882-04-11"
  },
  {
@@ -15491,7 +15509,7 @@
   "date": "1882-07-10",
   "kappler": null,
   "royce": [
-   "https://archive.org/stream/annualreportofbu218smit#page/786/mode/2up"
+   "https://archive.org/stream/annualreportofbu218smit#page/908/mode/2up"
   ],
   "cessions": [
    "635"
@@ -15509,6 +15527,13 @@
   "states": [
    "MT"
   ],
+  "correction": {
+   "fields": [
+    "royce"
+   ],
+   "why": "Royce p. 908 (page scan checked): '1882 July 10, Act of Congress, Crow: Ratifies agreement of Aug. 22, 1881, for cession of a portion of their reservation', the Northern Pacific right of way; p. 909: 'This cession consisted of a right of way 400 feet in width for Northern Pacific railroad, and is neither colored nor numbered on the map.' The USFS link pointed at p. 786 (the 1851 Fort Laramie entry).",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/908/mode/2up"
+  },
   "name": "Cession of land of the Crow, 1882-07-10"
  },
  {
@@ -15946,7 +15971,7 @@
    "Minnesota Chippewa Tribe, Minnesota"
   ],
   "scheduleTribes": [
-   "Chippewa of Minnesota"
+   "Chippewa of the Mississippi"
   ],
   "statute": [],
   "executiveOrder": [
@@ -15955,7 +15980,14 @@
   "states": [
    "MN"
   ],
-  "name": "Cession of land of the Chippewa of Minnesota, 1883-07-13"
+  "correction": {
+   "fields": [
+    "scheduleTribes"
+   ],
+   "why": "Royce p. 912 (page scan checked): '1883 July 13, Executive order, Chippewa of the Mississippi: President revokes Executive order of Mar. 18, 1879, setting apart an addition to White Earth reservation'; p. 913 'See 610', Minnesota 2. The USFS layer gave the tribe as 'Chippewa of Minnesota'.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/912/mode/2up"
+  },
+  "name": "Cession of land of the Chippewa of the Mississippi, 1883-07-13"
  },
  {
   "id": "cession-1883-08-15-iowa",
@@ -16423,7 +16455,9 @@
   "cessions": [
    "682"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Hopi Tribe of Arizona"
+  ],
   "scheduleTribes": [
    "Moki"
   ],
@@ -16434,6 +16468,13 @@
   "states": [
    "AZ"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 922 (page scan checked) prints this row under the heading '1886 Oct. 1, Act of Congress, Stat. L. XI, 374' carried down from the Pueblo rows, but the row has no date of its own: it is the tribe's original country, 'Country claimed by them at beginning of their relations with the U. S.', shown on Arizona map 1. 'Moki', area 682. p. 923: 'No treaty of purchase was ever made with these Indians ... By Executive order of Dec. 16, 1882, the President set apart a reserve for them'. The Moki are the Hopi. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up"
+  },
   "name": "Cession of land of the Moki, 1886-10-01"
  },
  {
@@ -16446,7 +16487,11 @@
   "cessions": [
    "687"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Tohono O'odham Nation of Arizona",
+   "Gila River Indian Community of the Gila River Indian Reservation, Arizona",
+   "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+  ],
   "scheduleTribes": [
    "Maricopa; Papago; Pima"
   ],
@@ -16457,6 +16502,13 @@
   "states": [
    "AZ"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 922 (page scan checked) prints this row under the heading '1886 Oct. 1, Act of Congress, Stat. L. XI, 374' carried down from the Pueblo rows, but the row has no date of its own: it is the tribe's original country, 'Country claimed by them at beginning of their relations with the U. S.', shown on Arizona map 1. 'Papago, Pima, and Maricopa', area 687. p. 923: 'No treaty of purchase was ever made with these tribes ... Reservations were, however, assigned them, upon which they were concentrated, known as the Papago, Gila River, Gila Bend, and Salt River reserves'. The Papago and Gila Bend reserves are the Tohono O'odham Nation's; Gila River and Salt River are the two Pima-Maricopa communities. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up"
+  },
   "name": "Cession of land of the Maricopa, Papago, Pima, 1886-10-01"
  },
  {
@@ -16469,7 +16521,9 @@
   "cessions": [
    "686"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Cocopah Tribe of Arizona"
+  ],
   "scheduleTribes": [
    "Cocopa"
   ],
@@ -16480,6 +16534,13 @@
   "states": [
    "AZ"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 922 (page scan checked) prints this row under the heading '1886 Oct. 1, Act of Congress, Stat. L. XI, 374' carried down from the Pueblo rows, but the row has no date of its own: it is the tribe's original country, 'Country claimed by them at beginning of their relations with the U. S.', shown on Arizona map 1. 'Cocopa', area 686. p. 923: 'No treaty of purchase was ever made with this tribe. The U. S. assumed title to their country'. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up"
+  },
   "name": "Cession of land of the Cocopa, 1886-10-01"
  },
  {
@@ -16492,7 +16553,9 @@
   "cessions": [
    "685"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Quechan Tribe of the Fort Yuma Indian Reservation, California & Arizona"
+  ],
   "scheduleTribes": [
    "Yuma"
   ],
@@ -16503,6 +16566,13 @@
   "states": [
    "AZ"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 922 (page scan checked) prints this row under the heading '1886 Oct. 1, Act of Congress, Stat. L. XI, 374' carried down from the Pueblo rows, but the row has no date of its own: it is the tribe's original country, 'Country claimed by them at beginning of their relations with the U. S.', shown on Arizona map 1. 'Yuma', area 685. p. 923: 'No treaty of purchase was ever made with this tribe ... Most of them have been concentrated on the Colorado river and Yuma reservations'. The Yuma are the Quechan. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up"
+  },
   "name": "Cession of land of the Yuma, 1886-10-01"
  },
  {
@@ -16515,7 +16585,10 @@
   "cessions": [
    "684"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Fort Mojave Indian Tribe of Arizona, California & Nevada",
+   "Colorado River Indian Tribes of the Colorado River Indian Reservation, Arizona and California"
+  ],
   "scheduleTribes": [
    "Mohave"
   ],
@@ -16526,6 +16599,13 @@
   "states": [
    "AZ"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 922 (page scan checked) prints this row under the heading '1886 Oct. 1, Act of Congress, Stat. L. XI, 374' carried down from the Pueblo rows, but the row has no date of its own: it is the tribe's original country, 'Country claimed by them at beginning of their relations with the U. S.', shown on Arizona map 1. 'Mohave', area 684. p. 923: 'No treaty of purchase was ever made with this tribe ... Most of them have been concentrated on a reserve known as Colorado River reservation'. The Mohave today are the Fort Mojave Indian Tribe and part of the Colorado River Indian Tribes. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up"
+  },
   "name": "Cession of land of the Mohave, 1886-10-01"
  },
  {
@@ -16538,7 +16618,9 @@
   "cessions": [
    "683"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Hualapai Indian Tribe of the Hualapai Indian Reservation, Arizona"
+  ],
   "scheduleTribes": [
    "Walapai"
   ],
@@ -16549,6 +16631,13 @@
   "states": [
    "AZ"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 922 (page scan checked) prints this row under the heading '1886 Oct. 1, Act of Congress, Stat. L. XI, 374' carried down from the Pueblo rows, but the row has no date of its own: it is the tribe's original country, 'Country claimed by them at beginning of their relations with the U. S.', shown on Arizona map 1. 'Walapai', area 683. p. 923: 'No treaty of purchase was ever made with this tribe. The U. S. assumed title to their country ... and afterwards set apart a reserve for them by Executive order of Jan. 4, 1883'. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up"
+  },
   "name": "Cession of land of the Walapai, 1886-10-01"
  },
  {
@@ -16717,12 +16806,12 @@
   "states": [
    "NM"
   ],
-  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: they begin on p. 920 under the Executive order of Oct. 1, 1886 for the Chehalis, and p. 922 carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading for the rows continued there. The grant's own dates are in the Royce row (Spanish grant, confirmation by Congress, patent). The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
+  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: they begin on p. 920 under the Executive order of Oct. 1, 1886 for the Chehalis, and p. 922 carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading for the rows continued there. Royce's Laguna row gives only 'Spanish grant 1689; 125,225 acres', with no confirmation or patent date: Laguna is not one of the Pueblo claims confirmed by the Act of Dec. 22, 1858 (11 Stat. 374), under whose heading Royce prints it. The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
   "correction": {
    "fields": [
     "note"
    ],
-   "why": "Note only; no field changed. Royce p. 922 (page scan checked): continuation page headed '1886 Oct. 1, Act of Congress, Stat. L., XI, 374', row 'Laguna Pueblo: Spanish grant 1689; 125,225 acres'. p. 920: the Oct. 1, 1886 date belongs to the Executive order for the Chehalis printed above the first Pueblo row.",
+   "why": "Note only; no field changed. Royce p. 922 (page scan checked): continuation page headed '1886 Oct. 1, Act of Congress, Stat. L., XI, 374', row 'Laguna Pueblo: Spanish grant 1689; 125,225 acres'. p. 920: the Oct. 1, 1886 date belongs to the Executive order for the Chehalis printed above the first Pueblo row. Round 14: 11 Stat. 374 (govinfo scan checked) confirms the claims of Jemez, Acoma, San Juan, Picuris, San Felipe, Pecos, Cochiti, Santo Domingo, Taos, Santa Clara, Tesuque, San Ildefonso, Pojoaque, Zia, Sandia, Isleta and Nambe; Laguna is not among them.",
    "source": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up"
   },
   "name": "Cession of land of the Laguna Pueblo, 1886-10-01"
@@ -16870,7 +16959,7 @@
    "664"
   ],
   "presentDayTribes": [
-   "Pueblo of San Juan, New Mexico"
+   "Ohkay Owingeh, New Mexico"
   ],
   "scheduleTribes": [
    "San Juan Pueblo"
@@ -16882,12 +16971,13 @@
   "states": [
    "NM"
   ],
-  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: on p. 920 they follow, with no date of their own, the Executive order of Oct. 1, 1886 for the Chehalis, and on the next page the printer carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading. The grant's own dates are in the Royce row: a Spanish grant, confirmed by Congress (Stat. L. XI, 374, the confirmation of Dec. 22, 1858) and patented in 1864. The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
+  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: on p. 920 they follow, with no date of their own, the Executive order of Oct. 1, 1886 for the Chehalis, and on the next page the printer carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading. The grant's own dates are in the Royce row: a Spanish grant, confirmed by Congress (Stat. L. XI, 374, the confirmation of Dec. 22, 1858) and patented in 1864. The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession. Royce's San Juan Pueblo is the Pueblo now named Ohkay Owingeh; the USFS name 'Pueblo of San Juan, New Mexico' is replaced by the name on the current federal list.",
   "correction": {
    "fields": [
-    "note"
+    "note",
+    "presentDayTribes"
    ],
-   "why": "Note only; no field changed. Royce p. 920 (page scan checked): the Chehalis row is dated '1886 Oct. 1, Executive order'; the next block, 'Act of Congress, Stat. L., XI, 374', has no date cell of its own and lists the Pueblo grants, here 'San Juan Pueblo: Spanish grant 1689; confirmed by U. S. Dec. 22, 1858; patented 1864; 17,544.77 acres'. p. 921: map numbers 662 to 673, New Mexico and Texas (detail).",
+   "why": "Royce p. 920 (page scan checked): the Chehalis row is dated '1886 Oct. 1, Executive order'; the next block, 'Act of Congress, Stat. L., XI, 374', has no date cell of its own and lists the Pueblo grants, here 'San Juan Pueblo: Spanish grant 1689; confirmed by U. S. Dec. 22, 1858; patented 1864; 17,544.77 acres'. p. 921: map numbers 662 to 673, New Mexico and Texas (detail). Round 14: presentDayTribes changed from 'Pueblo of San Juan, New Mexico' to 'Ohkay Owingeh, New Mexico', the name in the Federal Register list of recognized tribes; 11 Stat. 374 (govinfo scan checked) lists 'C, Pueblo of San Juan in the county of Rio Ariba'.",
    "source": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up"
   },
   "name": "Cession of land of the San Juan Pueblo, 1886-10-01"
@@ -17212,12 +17302,12 @@
   "states": [
    "NM"
   ],
-  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: they begin on p. 920 under the Executive order of Oct. 1, 1886 for the Chehalis, and p. 922 carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading for the rows continued there. The grant's own dates are in the Royce row (Spanish grant, confirmation by Congress, patent). The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
+  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: they begin on p. 920 under the Executive order of Oct. 1, 1886 for the Chehalis, and p. 922 carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading for the rows continued there. Royce's Santa Ana row reads 'Confirmed by U. S. Feb. 9, 1876; 17,361 acres' and gives no Spanish grant date. Santa Ana is not one of the claims in the Act of Dec. 22, 1858 (11 Stat. 374) under whose heading Royce prints it; the Feb. 9, 1876 confirmation is Royce's date and its act has not been checked. The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
   "correction": {
    "fields": [
     "note"
    ],
-   "why": "Note only; no field changed. Royce p. 922 (page scan checked): continuation page headed '1886 Oct. 1, Act of Congress, Stat. L., XI, 374', row 'Santa Ana Pueblo: Confirmed by U. S. Feb. 9, 1876; 17,361 acres'. p. 920: the Oct. 1, 1886 date belongs to the Executive order for the Chehalis printed above the first Pueblo row.",
+   "why": "Note only; no field changed. Royce p. 922 (page scan checked): continuation page headed '1886 Oct. 1, Act of Congress, Stat. L., XI, 374', row 'Santa Ana Pueblo: Confirmed by U. S. Feb. 9, 1876; 17,361 acres'. p. 920: the Oct. 1, 1886 date belongs to the Executive order for the Chehalis printed above the first Pueblo row. Round 14: 11 Stat. 374 (govinfo scan checked) lists seventeen Pueblo claims and not Santa Ana.",
    "source": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up"
   },
   "name": "Cession of land of the Santa Ana Pueblo, 1886-10-01"
@@ -17298,7 +17388,9 @@
   "cessions": [
    "661"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Confederated Tribes of the Chehalis Reservation"
+  ],
   "scheduleTribes": [
    "Chehalis"
   ],
@@ -17309,6 +17401,13 @@
   "states": [
    "WA"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 920 (page scan checked): '1886 Oct. 1, Executive order, Chehalis: President establishes a reservation for Chehalis Indians in lieu of reserve set apart by Executive order of July 8, 1864', described by metes and bounds; p. 921 area 661, Washington. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up"
+  },
   "name": "Cession of land of the Chehalis, 1886-10-01"
  },
  {
@@ -18299,7 +18398,7 @@
    "495"
   ],
   "presentDayTribes": [
-   "Sac & Fox Tribe of the Mississippi in Iowa"
+   "Sac & Fox Nation, Oklahoma"
   ],
   "scheduleTribes": [
    "Sauk and Fox of the Mississippi"
@@ -18309,6 +18408,13 @@
   "states": [
    "OK"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce pp. 938 and 940 (page scan checked): '1891 Feb. 13, Act of Congress, Stat. L. XXVI, 749, Sauk and Fox: Confirms agreement by which these Indians cede to the U. S.' their reservation lands in Indian Territory between the North Fork of the Canadian and the Cimarron, 'and all other land or country in Indian territory in which said Sac and Fox nation has or claims any title', map 'See 495', Indian Territory 3. These were the Indian Territory Sac and Fox (now the Sac and Fox Nation, Oklahoma); the Indian Claims Commission dismissed the petition of the Sac and Fox Tribe of the Mississippi in Iowa for want of any interest in these lands (Docket 220, 1962, as read in this record's findings). The Iowa tribe is replaced.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/940/mode/2up"
+  },
   "name": "Cession of land of the Sauk and Fox of the Mississippi, 1891-02-13"
  },
  {
@@ -18316,7 +18422,7 @@
   "date": "1891-03-03",
   "kappler": null,
   "royce": [
-   "https://archive.org/stream/annualreportofbu218smit#page/842/mode/2up"
+   "https://archive.org/stream/annualreportofbu218smit#page/942/mode/2up"
   ],
   "cessions": [
    "496"
@@ -18333,6 +18439,13 @@
    "ND",
    "SD"
   ],
+  "correction": {
+   "fields": [
+    "royce"
+   ],
+   "why": "Royce p. 942 (page scan checked): '1891 Mar. 3, Act of Congress, Stat. L. XXVI, 1035, Sisseton and Wahpeton Sioux: Confirms agreement with these Indians by which they cede to the U. S. all the unallotted lands of their (Lake Traverse) reservation'; p. 943 'See 496'. The USFS link pointed at p. 842 (the 1867 treaty that made the reservation).",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/942/mode/2up"
+  },
   "name": "Cession of land of the Sioux (Wahpeton and Sisseton Bands), 1891-03-03"
  },
  {
@@ -18495,13 +18608,14 @@
   "date": "1891-10-16",
   "kappler": null,
   "royce": [
-   "https://archive.org/stream/annualreportofbu218smit#page/832/mode/2up"
+   "https://archive.org/stream/annualreportofbu218smit#page/942/mode/2up"
   ],
   "cessions": [
    "461"
   ],
   "presentDayTribes": [
-   "Hoopa Valley Tribe, California"
+   "Hoopa Valley Tribe, California",
+   "Yurok Tribe of the Yurok Reservation, California"
   ],
   "scheduleTribes": [
    "Hupa (S. Fork, Redwood, and Grouse Creek bands)"
@@ -18513,6 +18627,14 @@
   "states": [
    "CA"
   ],
+  "correction": {
+   "fields": [
+    "royce",
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 942 (page scan checked): '1891 Oct. 16, Executive order, Hupa et al.: The President extends the limits of their reservation so as to include a tract of country 1 mile in width on each side of the Klamath river, and extending from the then limits thereof to the Pacific ocean'; p. 943: 'This extension includes the land set apart to the Klamath Indians by Executive order, Nov. 16, 1855 ... (See No. 400, California map 2)', map 'See 400, 461', California 2. The USFS link pointed at p. 832 (the 1864 Hoopa Valley entry). The Klamath River strip added is Yurok land, so the Yurok Tribe is added beside the Hoopa Valley Tribe.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/942/mode/2up"
+  },
   "name": "Cession of land of the Hupa (S. Fork, Redwood, and Grouse Creek bands), 1891-10-16"
  },
  {
@@ -18560,18 +18682,30 @@
    "400"
   ],
   "presentDayTribes": [
-   "Klamath Tribes, Oregon"
+   "Yurok Tribe of the Yurok Reservation, California"
   ],
   "scheduleTribes": [
    "Klamath"
   ],
-  "statute": [],
+  "statute": [
+   "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg52.pdf"
+  ],
   "executiveOrder": [
    "http://ops.libs.uga.edu/ehistory/InvasionOfAmerica/ExecOrdersIndianLand/400r.pdf"
   ],
   "states": [
    "CA"
   ],
+  "note": "Royce area 400 is the Klamath River reservation of Nov. 16, 1855 on the lower Klamath in California, Yurok country; the Klamath Tribes of Oregon are a different nation. Royce maps this Act 'See 400'. Same Act and land as the breach on cession-1855-11-16-klamath; count it once.",
+  "correction": {
+   "fields": [
+    "presentDayTribes",
+    "statute",
+    "note"
+   ],
+   "why": "Royce p. 944 (page scan checked): '1892 June 17, Act of Congress, Stat. L. XXVII, 52: Restores the original Klamath River reservation to the public domain. Provides for allotments to Indians settled thereon.' p. 945 map 'See 400', California 2. Royce p. 943: the Klamath River strip is 'the land set apart to the Klamath Indians by Executive order, Nov. 16, 1855 ... (See No. 400, California map 2)'. 27 Stat. 52 (govinfo scan checked), ch. 120: 'the lands embraced in what was Klamath River Reservation in the State of California, as set apart ... by an Executive order dated November sixteenth, eighteen hundred and fifty-five'. The Klamath Tribes, Oregon, are replaced by the Yurok Tribe; the statute link is added.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/944/mode/2up"
+  },
   "name": "Cession of land of the Klamath, 1892-06-17"
  },
  {
@@ -18610,7 +18744,9 @@
    "717",
    "718"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Confederated Tribes of the Colville Reservation"
+  ],
   "scheduleTribes": [
    "Colville Indian Reservation"
   ],
@@ -18622,6 +18758,13 @@
   "states": [
    "WA"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 944 (page scan checked): '1892 July 1, Act of Congress, Stat. L. XXVII, 62: Provides that, subject to allotments in severalty, a portion of Colville reservation be restored to the public domain', the part north of the line between Ts. 34 and 35 N.; p. 945: 'The ceded portion is No. 717', reservation as diminished 718, Washington 2. presentDayTribes was empty; the reservation is that of the Confederated Tribes of the Colville Reservation.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/944/mode/2up"
+  },
   "name": "Cession of land of the Colville Indian Reservation, 1892-07-01"
  },
  {
@@ -18804,19 +18947,30 @@
    "606"
   ],
   "presentDayTribes": [
-   "Nez Perce Tribe of Idaho"
+   "Tonkawa Tribe of Indians of Oklahoma"
   ],
   "scheduleTribes": [
-   "Nez Percé (Joseph's band)"
+   "Tonkawa"
   ],
   "statute": [
-   "http://ops.libs.uga.edu/ehistory/InvasionOfAmerica/FedStatIndianLand/606r.pdf"
+   "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg612.pdf"
   ],
   "executiveOrder": [],
   "states": [
    "OK"
   ],
-  "name": "Cession of land of the Nez Percé (Joseph's band), 1893-03-03"
+  "note": "This is the Tonkawa cession (agreement of Oct. 21, 1891, ratified by sec. 11 of the Act of Mar. 3, 1893, 27 Stat. 643), not a Nez Perce one. The four townships had been conveyed by the Cherokee Nation to the U. S. in trust for the Nez Perce in 1883 (area 606); Joseph's band left in 1885 and the Tonkawa were placed there. Royce maps it 'See 606', so area 606 is kept as Royce's cross-reference; the id keeps its old name.",
+  "correction": {
+   "fields": [
+    "scheduleTribes",
+    "presentDayTribes",
+    "statute",
+    "note"
+   ],
+   "why": "Royce p. 946 (page scan checked): '1893 Mar. 3, Act of Congress, Stat. L. XXVII, 643, Tonkawa: Confirms agreement made with these Indians Oct. 21, 1891, by which they cede to the U. S. all their title and interest in the following lands: T. 25 N., R. 1 W.; T. 26 N., R. 1 W.; T. 25 N., R. 2 W., and T. 26 N., R. 2 W.' p. 947: 'This tract was conveyed by the Cherokee nation to the U. S. in trust for the use and benefit of the Nez Perces by deed dated June 14, 1883', map 'See 606', Indian Territory 3. 27 Stat. 643 (govinfo scan checked), 'Tonkawa Indian lands', sec. 11: payment 'to the Tonkawa tribe of Indians in the Territory of Oklahoma for all their right, title, claim, and interest' in four townships. The Nez Perce Tribe of Idaho and the area 606 statute file are replaced.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/946/mode/2up"
+  },
+  "name": "Cession of land of the Tonkawa, 1893-03-03"
  },
  {
   "id": "cession-1893-03-03-kickapoo",
@@ -18899,11 +19053,22 @@
   "scheduleTribes": [
    "Confederated Tribes of middle Oregon"
   ],
-  "statute": [],
+  "statute": [
+   "https://www.govinfo.gov/content/pkg/STATUTE-28/pdf/STATUTE-28-Pg86.pdf"
+  ],
   "executiveOrder": [],
   "states": [
    "OR"
   ],
+  "note": "Royce cites this Act as Stat. L. XXVIII, 88; the Act (ch. 93) is printed on 28 Stat. 86. Royce maps it 'See 370', the Warm Springs reservation of the 1855 treaty, which is kept as his cross-reference.",
+  "correction": {
+   "fields": [
+    "statute",
+    "note"
+   ],
+   "why": "Royce p. 946 (page scan checked): '1894 June 6, Act of Congress, Stat. L. XXVIII, 88, Warm Springs: Declares the northern boundary of the Warm Springs reservation to be that part of the line run and surveyed by T. B. Handley, in the year 1871'; p. 947 'For the history see No. 370', 'See 370', Oregon 1. 28 Stat. 86 (govinfo scan checked): 'CHAP. 93. An Act Defining and permanently fixing the northern boundary line of the Warm Springs Indian Reservation', approved June 6, 1894. statute was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/946/mode/2up"
+  },
   "name": "Cession of land of the Confederated Tribes of middle Oregon, 1894-06-06"
  },
  {
@@ -18988,19 +19153,32 @@
    "400"
   ],
   "presentDayTribes": [
-   "Klamath Tribes, Oregon"
+   "Confederated Tribes and Bands of the Yakama Nation"
   ],
   "scheduleTribes": [
-   "Klamath"
+   "Yakima"
   ],
-  "statute": [],
-  "executiveOrder": [
-   "http://ops.libs.uga.edu/ehistory/InvasionOfAmerica/ExecOrdersIndianLand/400r.pdf"
+  "statute": [
+   "https://www.govinfo.gov/content/pkg/STATUTE-28/pdf/STATUTE-28-Pg286-2.pdf"
   ],
+  "executiveOrder": [],
   "states": [
-   "CA"
+   "WA"
   ],
-  "name": "Cession of land of the Klamath, 1894-08-15"
+  "note": "This is the Yakama Wenatshapam Fishery cession, not a Klamath one: Royce's first Aug. 15, 1894 row is the Yakima agreement of Jan. 8, 1894 (28 Stat. 320) giving up the one-township fishery at the forks of the Wenatshapam (Wenatchee) River promised by Article 10 of the 1855 treaty. Royce's map column for that row reads 'See 400, California 2', which is a Royce error (area 400 is the Klamath River reservation in California, Yurok country); the USFS layer copied it into a Klamath row. Area 400 is kept only because it is what Royce prints; it is not this land, and the fishery tract has no Royce number. Royce's second Aug. 15, 1894 Yakima row (same 28 Stat. 320, land set apart under the Act of Nov. 28, 1892) describes the same tract. The Klamath Tribes of Oregon and the executive order file for area 400 are removed.",
+  "correction": {
+   "fields": [
+    "scheduleTribes",
+    "presentDayTribes",
+    "states",
+    "statute",
+    "executiveOrder",
+    "note"
+   ],
+   "why": "Royce p. 948 (page scan checked): '1894 Aug. 15, Act of Congress, Stat. L. XXVIII, 320, Yakima: Confirms agreement made with these Indians Jan. 8, 1894, by which they cede to the U. S. all their claim to the lands surveyed and set apart for them in 1893 in accordance with article 10 of the treaty of 1855'; p. 949 map column 'See 400, California 2'. Royce p. 945 (Nov. 28, 1892 Yakima row): 'before being confirmed the Indians concluded to sell to the U. S. all their right thereto. See act of Congress, Aug. 15, 1894, confirming agreement of Jan. 8, 1894.' 28 Stat. 320 (govinfo scan checked): 'Agreement with the Yakima Nation of Indians in Washington', Article I cedes 'all their right of fishery, as set forth in article 10' and the land 'known as the Wenatshapam fishery'. Royce's tribal index lists no Klamath cession on Aug. 15, 1894.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/948/mode/2up"
+  },
+  "name": "Cession of land of the Yakima, 1894-08-15"
  },
  {
   "id": "cession-1894-08-15-yuma",

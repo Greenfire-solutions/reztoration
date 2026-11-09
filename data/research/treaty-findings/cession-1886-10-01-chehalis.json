@@ -1,0 +1,69 @@
+{
+  "id": "cession-1886-10-01-chehalis",
+  "name": "Executive order of October 1, 1886 re-establishing the Chehalis Reservation and opening most of it to Indian homestead entry (Royce Area 661)",
+  "aka": [
+    "Chehalis Reservation executive order, 1886"
+  ],
+  "signed": "1886-10-01",
+  "citation": "Executive Order of October 1, 1886 (1 Kappler 903, as cited by the Indian Claims Commission)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up",
+  "nations": [
+    "Confederated Tribes of the Chehalis Reservation"
+  ],
+  "promises": [
+    "Not a treaty: an executive order. Royce records that the President established a reservation for the Chehalis in lieu of the reserve set apart on July 8, 1864, on the same metes and bounds plus the S. half of sec. 3 and the NW. quarter of sec. 10, T. 15 N., R. 4 W.",
+    "The Court of Claims found that the order restored 3,753.63 acres of the 4,224.63-acre reservation to the public domain for Indian homestead entry and set aside 471 acres for a school."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "The Court of Claims (1934) found 3,753.63 acres restored to the public domain for Indian homestead entry, after which thirty-six Indians on the reservation made homestead selections of all the land except the school reserve.",
+  "compensation": "None for this order. The Indian Claims Commission dismissed the claim for the 3,753.63 acres.",
+  "today": "In Docket 237 the Chehalis also claimed for the taking of the 3,753.63 acres by this order. The Indian Claims Commission found the land had been allotted and patented to the Indians living on it, except the school land, and dismissed that claim; the Court of Claims did not disturb that part on appeal, so the dismissal is final (Commission opinion of March 14, 1960). That ruling went against the tribe and is recorded here, not as a breach. The Chehalis aboriginal land claim in the same docket, about land taken on March 3, 1855, is carried by cession-1864-07-08-chehalis-chinook-klatsop-klikitat.",
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of the Chehalis Reservation",
+      "summary": "The Tribe's own history says the February 1855 treaty council broke down and no treaty was ever signed, that its reservation near Oakville was made by executive order in July 1864, and that two more executive orders followed, in 1886 and 1909.",
+      "url": "https://www.chehalistribe.org/our-story/people-of-the-sands/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 920-921, area 661",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Upper Chehalis Tribe, et al. v. United States, Docket 237, Opinion of the Commission (June 25, 1956)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/352",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Upper Chehalis Tribe, et al. v. United States, Docket 237, Amended Findings of Fact (March 14, 1960), 8 Ind. Cl. Comm. 436",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/403",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Upper Chehalis Tribe, et al. v. United States, Docket 237, Opinion of the Commission (March 14, 1960), 8 Ind. Cl. Comm. 463",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/260",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Duwamish et al. Tribes of Indians v. United States, 79 Ct. Cl. 530 (1934)",
+      "url": "https://static.case.law/us-ct-cl/79/cases/0530-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library"
+    },
+    {
+      "title": "People of the Sands",
+      "url": "https://www.chehalistribe.org/our-story/people-of-the-sands/",
+      "publisher": "Confederated Tribes of the Chehalis Reservation"
+    }
+  ],
+  "openQuestions": [
+    "The Commission's 1960 opinion gives the order's date once as October 11, 1886; its amended findings, the Court of Claims and Royce give October 1, 1886.",
+    "Royce describes the order as establishing a reservation on the 1864 boundaries; the homestead opening is from the Court of Claims and Commission findings. Kappler's text of the order (1 Kappler 903) was not opened.",
+    "Whether the thirty-six homesteads were later lost by Chehalis families (sale, tax or fee patent) was not researched.",
+    "treaties.json lists no present-day tribes; the Confederated Tribes of the Chehalis Reservation should be listed. Not edited."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -14,22 +14,9 @@
     "The Act set apart for the Indians receiving rations at the Rosebud agency the lands between the Missouri River, the forty-third parallel and the White River described by Royce.",
     "The Act of March 2, 1889 divided the Great Sioux Reservation into separate reservations; section 21 opened the rest to sale for the benefit of the Sioux, and section 19 kept in force all provisions of the 1868 treaty and the 1877 agreement not in conflict with it (Court of Claims, 105 Ct. Cl. 725)."
   ],
-  "status": "broken",
-  "breaches": [
-    {
-      "kind": "court-ruling",
-      "date": "1946-02-04",
-      "what": "The Court of Claims held that the United States illegally charged the cost of food rations it owed the Sioux under the 1877 agreement against trust funds of the Rosebud Indians made from the sale of their reservation lands, and allowed recovery (cases C-531 (18) and (19)); it then set off the whole sum against gratuities spent under the 1889 Act, so no judgment was entered.",
-      "whoFoundIt": "Court of Claims, Sioux Tribe of Indians v. United States, 105 Ct. Cl. 725 (1946), cases C-531 (18) and (19)",
-      "source": {
-        "title": "Sioux Tribe of Indians v. United States, 105 Ct. Cl. 725 (1946), Nos. C-531 (18) to (24)",
-        "url": "https://static.case.law/us-ct-cl/105/cases/0725-01.json",
-        "publisher": "Caselaw Access Project, Harvard Law School"
-      }
-    }
-  ],
-  "compensation": "The 1946 recoveries for Rosebud ($547,347.60 in case 18 and $338,256.40 in case 19, with interest) were wholly offset (105 Ct. Cl. 725).",
-  "today": "Nothing was paid on the 1946 ruling. The Lower Brule Sioux Tribe's history says the 1889 Act split the Sicangu between Rosebud and Lower Brule.",
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "In 1946 the Court of Claims held that the United States illegally charged food rations it owed the Sioux under the 1877 agreement, and certain agency costs, against Rosebud trust funds (case C-531 (18) and (19)); those funds came from land sales under later Acts (1895 to 1910). It allowed $547,347.60 and $338,256.40 but set the recoveries off against reimbursable expenditures under section 17 of the 1889 Act and dismissed all seven petitions, so nothing was paid (105 Ct. Cl. 725). The Supreme Court vacated that judgment and remanded the cases on December 16, 1946 to consider the Indian Claims Commission Act; the Court of Claims re-entered it unchanged on June 28, 1948 (112 Ct. Cl. 50), and certiorari was denied in 1949 (as cited in ICC Docket 119, 34 Ind. Cl. Comm. 230). That ruling concerns the 1877 ration duty and the later sale funds, not this reservation's land under the 1889 Act, so it is not counted as a breach of this record. The Lower Brule Sioux Tribe's history says the 1889 Act split the Sicangu between Rosebud and Lower Brule.",
   "nationVoice": [],
   "sources": [
     {
@@ -44,17 +31,12 @@
     }
   ],
   "openQuestions": [
-    "The 1889 Act itself and the land ceded under it are recorded under cession-1889-03-02-sioux (Royce 631 and 699). This Royce row is the reservation kept. It is not marked sameEventAs that record because the breach found here concerns this reservation's own funds, not the cession.",
-    "The ration charges ruled illegal in 105 Ct. Cl. 725 were made from trust funds arising under later sale acts (1895 to 1910). The opinion ties the subsistence duty to the 1877 agreement, which section 19 of the 1889 Act continued; the breach is recorded against this record on that basis.",
+    "Audit 2026-11-08 (round 14): removed the court-ruling breach on 105 Ct. Cl. 725 and moved it to today. The opinion grounds the illegal charges in article 5 of the 1877 agreement (19 Stat. 254) and the trust funds of the 1895 to 1910 sale Acts; the 1889 Act appears only through section 19 and as the source of the offsets. The 1946 judgment was vacated and re-entered unchanged in 1948 (112 Ct. Cl. 50). Status lowered to no-breach-found.",
+    "The 1889 Act itself and the land ceded under it are recorded under cession-1889-03-02-sioux (Royce 631 and 699). This Royce row is the reservation kept. It is not marked sameEventAs that record because this row is the land kept, not the land ceded.",
     "Later reductions of this reservation by Acts of Congress after 1889 are not in Royce's schedule and are not researched here.",
     "The ICC accounting dockets for each reservation (114 to 119) were seen in the index but not read for this record.",
     "No Rosebud Sioux Tribe page on the 1889 Act was found in this pass."
   ],
-  "plain": {
-    "promised": "The 1889 Act gave the Rosebud people their own reservation and kept in force the 1877 promise that the United States would feed the Sioux until they could support themselves.",
-    "happened": "The Court of Claims held in 1946 that the United States illegally paid for those rations out of Rosebud trust funds from the sale of their land.",
-    "today": "The court allowed recovery of $547,347.60 and $338,256.40 but set both off against other spending, so nothing was paid."
-  },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"
 }

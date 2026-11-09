@@ -1,0 +1,80 @@
+{
+  "id": "cession-1886-10-01-mohave",
+  "sameEventAs": "cession-1865-03-03-colorado-river",
+  "name": "Taking of the Mohave country without a treaty of purchase (Royce Area 684)",
+  "aka": [
+    "Royce 684, Mohave: country claimed by them at beginning of their relations with the U.S."
+  ],
+  "citation": "No treaty or statute: Royce records that no treaty of purchase was ever made and that the United States assumed title to their country",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up",
+  "nations": [
+    "Fort Mojave Indian Tribe",
+    "Colorado River Indian Tribes (Mohave members)"
+  ],
+  "promises": [
+    "Not a treaty. Royce records that no treaty of purchase was ever made with the Mohave and that the United States assumed title to their country, shown on his Arizona map No. 1.",
+    "Royce notes that most of them were concentrated on the Colorado River reservation."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1959-03-19",
+      "what": "The Indian Claims Commission concluded that the Mohave exclusively used and occupied their lands from time immemorial, were deprived of their lands in present Arizona and Nevada on March 3, 1865 and of their California lands on March 3, 1853, received no compensation, and were entitled to the value.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 283 and 295, Interlocutory Order, 7 Ind. Cl. Comm. 219 (1959)",
+      "source": {
+        "title": "Mohave Indians who are members of the Colorado River Indian Tribes et al. v. United States, Dockets 283 and 295, Interlocutory Order (March 19, 1959), 7 Ind. Cl. Comm. 219",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/283",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1973-09-26",
+      "what": "After a 1971 final award, the parties settled and the Commission entered a final award on their stipulation. A settlement is not a further finding.",
+      "whoFoundIt": "Indian Claims Commission, Docket 283, Final Award on compromise settlement (1973)",
+      "source": {
+        "title": "Mohave Tribe v. United States, Docket 283, Final Award on compromise settlement (September 26, 1973), 31 Ind. Cl. Comm. 425",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2245",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "compensation": "As recorded in the primary file: a final award of $428,358.07 after offsets (December 29, 1971), then $468,358.07 on the parties' stipulation (September 26, 1973).",
+  "today": "This record maps the Mohave country in Arizona (Royce 684). The Commission dated the taking of the Arizona and Nevada land to the Act of March 3, 1865, already carried by cession-1865-03-03-colorado-river, so it is marked as the same event.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 922-923, area 684",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Mohave Indians who are members of the Colorado River Indian Tribes et al. v. United States, Dockets 283 and 295, Interlocutory Order (March 19, 1959), 7 Ind. Cl. Comm. 219",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/283",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Mohave Tribe v. United States, Docket 283, Final Award (December 29, 1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2618",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Mohave Tribe v. United States, Docket 283, Final Award on compromise settlement (September 26, 1973), 31 Ind. Cl. Comm. 425",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2245",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "Same event as cession-1865-03-03-colorado-river. The 1886-10-01 date in treaties.json is a Royce heading, not a date of this taking. Not edited.",
+    "The award figures are taken from the primary file; the 1971 and 1973 award pages were not re-read in this pass.",
+    "treaties.json lists no present-day tribes; the Fort Mojave Indian Tribe and the Colorado River Indian Tribes should be listed. Not edited. No nation account was looked up."
+  ],
+  "plain": {
+    "promised": "Nothing. No treaty of purchase was made. The United States assumed title to the Mohave country and concentrated most of them on the Colorado River reservation.",
+    "happened": "The Indian Claims Commission found the Mohave lost their Arizona and Nevada land on March 3, 1865, and their California land on March 3, 1853, without payment.",
+    "today": "After a 1971 award of $428,358.07, the claim was settled in 1973 for $468,358.07."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

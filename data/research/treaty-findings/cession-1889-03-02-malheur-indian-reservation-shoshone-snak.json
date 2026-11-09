@@ -1,0 +1,62 @@
+{
+  "id": "cession-1889-03-02-malheur-indian-reservation-shoshone-snak",
+  "name": "Executive order of March 2, 1889 restoring the last of the Malheur Reservation (the north half of old Camp Harney) to the public domain",
+  "aka": [
+    "Malheur Reservation, Camp Harney tract, restoration order of 1889"
+  ],
+  "signed": "1889-03-02",
+  "citation": "Executive Order of March 2, 1889",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/930/mode/2up",
+  "nations": [
+    "Burns Paiute Tribe (Wadatika band of Northern Paiute)"
+  ],
+  "promises": [
+    "Not a treaty: an executive order. Royce records that the President restored to the public domain the remainder of the Malheur reservation: fractional secs. 7, 8, 17, 18 and 19, T. 22 S., R. 32 1/2 E., Willamette meridian, 317.65 acres, the north half of the old Camp Harney military reservation."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "317.65 acres, the north half of the old Camp Harney military reservation (Royce).",
+  "today": "Royce records that Camp Harney was excepted from the 1872 Malheur reserve and made part of the Indian reservation only on July 23, 1880 (his area 647). The Indian Claims Commission's Docket 17 finding, that the Paiute bands were deprived of the Malheur Reservation in January 1879 without compensation, is carried by cession-1872-09-12-paiute-shoshone-snake; the claimants limited that claim to the reservation as set up in 1872 and modified in 1875 and 1876, which did not include Camp Harney. No court, claims-commission, Act of Congress or government finding about this 317.65-acre tract was found, so this record is not marked as the same event. Under the rule for executive-order reservations, the order alone is not a breach.",
+  "nationVoice": [
+    {
+      "nation": "Burns Paiute Tribe",
+      "summary": "The tribe writes that an executive order set aside 1.8 million acres for its people, dating it 1869, that the reservation was short-lived, that survivors were marched more than 300 miles to Fort Simcoe and Fort Vancouver after the Bannock War, and that the land was returned to the public domain in their absence.",
+      "url": "https://burnspaiute-nsn.gov/about-bpt/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 930-931, 'See 647'",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/930/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 911, note on the history of the Malheur reserve",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/911/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Snake or Piute Indians of the Former Malheur Reservation v. United States, Docket 17, Opinion of the Commission (December 28, 1956)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/513",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Snake or Piute Indians of the Former Malheur Reservation v. United States, Docket 17, Second Interlocutory Order (April 15, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/32",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "About the Burns Paiute Tribe",
+      "url": "https://burnspaiute-nsn.gov/about-bpt/",
+      "publisher": "Burns Paiute Tribe"
+    }
+  ],
+  "openQuestions": [
+    "If Jordan treats the restoration of the whole Malheur reserve as one event, this record could point to cession-1872-09-12-paiute-shoshone-snake with sameEventAs; it is kept separate because the Docket 17 claim area excluded Camp Harney.",
+    "cession-1883-05-21-malheur-indian-reservation-shoshone-snak also maps Royce area 647 and has no findings file yet; Royce p. 931 sends this entry to the May 21, 1883 order for the history.",
+    "The Burns Paiute page dates the executive order to 1869; Royce and the Commission date the Malheur reserve to September 12, 1872. The executive order link in treaties.json (647c.pdf) was not opened.",
+    "treaties.json lists no present-day tribes; the Burns Paiute Tribe should be listed. Not edited."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

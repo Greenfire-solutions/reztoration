@@ -1,6 +1,6 @@
 {
   "id": "cession-1886-10-01-jemez-pueblo",
-  "name": "Pueblo of Jemez: the confirmed Spanish grant (Royce 662) and the taking of Jemez aboriginal land outside it (ICC Docket 137)",
+  "name": "Pueblo of Jemez grant, confirmed by Congress December 22, 1858 (Royce Area 662)",
   "aka": [
     "Jemez Pueblo grant",
     "Pueblo de Zia, Pueblo de Jemez and Pueblo de Santa Ana v. United States, ICC Docket 137"
@@ -17,34 +17,11 @@
     "Not a treaty. Royce lists the Jemez Pueblo grant as a Spanish grant of 1689, confirmed by the United States on December 22, 1858 (11 Stat. 374) and patented in 1864, of 17,510.45 acres. This was land the Pueblo kept.",
     "Outside the grant, the Court of Claims held in 1964 that Jemez, Zia and Santa Ana together held Indian title in 1848 to 298,634 acres of the tract they claimed."
   ],
-  "status": "broken",
-  "breaches": [
-    {
-      "kind": "claims-commission",
-      "date": "1970-12-17",
-      "what": "In the joint claim of Zia, Jemez and Santa Ana, the Commission found that the United States took 282,415.73 acres of the Pueblos' aboriginal land, worth $938,000 on the dates of taking, without paying compensation. It had earlier dated the takings to the 1905 Jemez Forest Reserve, settlers' entries and the 1936 grazing district.",
-      "whoFoundIt": "Indian Claims Commission, Docket 137, Interlocutory Orders of March 7, 1968 and December 17, 1970 (24 Ind. Cl. Comm. 270)",
-      "source": {
-        "title": "Pueblo de Zia et al. v. United States, Docket 137, Interlocutory Order (December 17, 1970), 24 Ind. Cl. Comm. 270",
-        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2120",
-        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
-      }
-    },
-    {
-      "kind": "litigation",
-      "date": "1974-01-10",
-      "what": "The joint claim ended in a final judgment of $749,083.75 for the three Pueblos on a stipulation of settlement. A settlement is not a further finding.",
-      "whoFoundIt": "Indian Claims Commission, Docket 137, Amended Final Award of January 10, 1974",
-      "source": {
-        "title": "Pueblo de Zia et al. v. United States, Docket 137, Order Amending Opinion and Finding of Fact, and Amended Final Award (January 10, 1974)",
-        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1199",
-        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
-      }
-    }
-  ],
-  "landTaken": "282,415.73 acres held jointly with Zia and Santa Ana (Docket 137, 1970). The Commission held that a tract set apart for Jemez by Executive Order of December 19, 1906 and 908.48 acres set apart by Executive Order of October 4, 1915 were never taken.",
-  "compensation": "Joint settlement of $749,083.75 for Zia, Jemez and Santa Ana (January 10, 1974), after a vacated 1971 award of $766,936.08.",
-  "today": "Separately, Jemez sued under the Quiet Title Act for the Valles Caldera National Preserve. In 2023 the Tenth Circuit affirmed that Jemez had not shown aboriginal title to the whole Caldera but held, on the trial court's own findings, that Jemez still holds aboriginal title to Banco Bonito, and remanded for judgment on that point.",
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "None documented inside the grant. (Docket 137: 282,415.73 acres of aboriginal land outside the grants, held jointly with Zia and Santa Ana.)",
+  "compensation": "None for this grant documented. Section 2 of the Act of May 31, 1933 authorized $1,885 for the Pueblo of Jemez in addition to the Pueblo Lands Board's awards, without naming a tract. Outside the grant, Docket 137 ended in a joint settlement of $749,083.75 for Zia, Jemez and Santa Ana (January 10, 1974).",
+  "today": "Outside the grant: in Indian Claims Commission Docket 137 (Zia, Jemez and Santa Ana jointly), the Court of Claims held in 1964 that the three Pueblos had aboriginal title to 298,634 acres of public domain around their grants (165 Ct. Cl. 501), and the Commission found on December 17, 1970 that the United States took 282,415.73 acres of it, worth $938,000, without compensation; the claim ended in a $749,083.75 settlement on January 10, 1974. The Spanish grants were expressly outside that claim, so it is not counted against this grant. Separately, Jemez sued under the Quiet Title Act for the Valles Caldera National Preserve. In 2023 the Tenth Circuit affirmed that Jemez had not shown aboriginal title to the whole Caldera but held, on the trial court's own findings, that Jemez still holds aboriginal title to Banco Bonito, and remanded for judgment on that point.",
   "nationVoice": [],
   "sources": [
     {
@@ -82,13 +59,9 @@
     "Same taking as the Zia record (one joint claim, Docket 137), so it is marked sameEventAs cession-1886-10-01-sia-pueblo and counted there.",
     "Docket 174 (Pueblo de Pecos and Pueblo de Jemez, 1959) concerns the Pecos lands Jemez represents; it is not researched here.",
     "The Pueblo of Jemez's own account was not found online in this pass; its claims are known here only through the court record.",
-    "What judgment the district court entered for Banco Bonito after the 2023 remand was not traced."
+    "What judgment the district court entered for Banco Bonito after the 2023 remand was not traced.",
+    "Audit 2026-11-08 (round 14): status lowered from broken to no-breach-found. The breaches all concerned Docket 137, aboriginal land outside the Spanish grants; the Court of Claims (165 Ct. Cl. 501) records that the Pueblos conceded no claim to the patented grants. This record maps Royce's grant (land kept), so the finding is not about this row and was moved to today. Section 2 of the Act of May 31, 1933 authorized $1,885 for Jemez in addition to the Board's awards; for the reasons in the round-14 audits of the other Pueblo grants, that Act is not counted as a breach, and the land it concerns is not located. sameEventAs kept: the Docket 137 record is the same one held on the Zia file."
   ],
-  "plain": {
-    "promised": "Not a treaty. The United States confirmed Jemez's Spanish grant of 17,510.45 acres in 1858. Outside it, Jemez, Zia and Santa Ana together held Indian title to 298,634 acres, a court held in 1964.",
-    "happened": "The Indian Claims Commission found the United States took 282,415.73 acres of that shared land without payment, through a 1905 forest reserve, settlers' entries and a 1936 grazing district.",
-    "today": "The joint claim was settled in 1974 for $749,083.75. In 2023 a federal appeals court held Jemez still holds aboriginal title to Banco Bonito in the Valles Caldera."
-  },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"
 }

@@ -1,0 +1,23 @@
+{
+  "id": "cession-1891-03-03-sioux-wahpeton-and-sisseton-bands",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "ICC title search for Sisseton Wahpeton: Dockets 142 and 359 to 363",
+    "Findings on compromise settlement, July 25, 1967 (item 2214, 18 Ind. Cl. Comm. 477): $12,250,000 for the land claims under the 1851 and later Minnesota treaties, excluding the Docket 363 general accounting claim; $5,097,575 to Sisseton and Wahpeton in Docket 142",
+    "Docket 363 opinion Part 2, August 22, 1975 (item 2039, 36 Ind. Cl. Comm. 295): agreement of December 12, 1889, c. 543, 26 Stat. 989, 1035, $2.50 an acre, 5 percent under section 27; acreage 679,950 estimated, 608,865 actual, $177,635.85 and $58,412.88 returned; minors' fund held illegally at 3 percent, surcharged; $358.76 and $1,236.26 surcharged; $313.09 admitted improper and disallowed",
+    "58 Ct. Cl. 302 and DeCoteau figures not re-opened beyond the comparison above"
+  ],
+  "changes": [
+    "Added signed date 1889-12-12 and the full citation",
+    "Added section 27 trust promise",
+    "Added a claims-commission breach from Docket 363 (1975) on the trust fund made from this cession's proceeds; status contested to broken",
+    "Rewrote plain to match",
+    "Recorded that the Docket 142 and 359 to 363 compromise does not cover this cession, and a $0.10 gap between the 1923 deduction and the 1975 transfers"
+  ],
+  "unverifiable": [
+    "Whether Docket 363's accounting ended in a judgment, settlement or 1978 transfer, and the sums finally paid",
+    "Docket 363 1973 findings (item 1057) only scanned for 1891 references",
+    "26 Stat. 1035 govinfo PDF returned an empty file"
+  ]
+}

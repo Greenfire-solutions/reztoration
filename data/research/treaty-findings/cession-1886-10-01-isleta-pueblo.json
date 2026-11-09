@@ -13,37 +13,13 @@
   "promises": [
     "This was not a cession. Congress confirmed the Pueblo of Isleta's land claim, as reported favorably by the Surveyor General of New Mexico, and directed that a patent issue for it (Act of December 22, 1858). Royce lists it as confirmed in 1858 and patented in 1864 for 110,080.31 acres.",
     "The Act said the confirmation was only a relinquishment of the United States' own title and claim and did not affect any adverse valid rights.",
-    "In the Pueblo Lands Act of 1924 the United States, acting in its sovereign capacity as guardian of the Pueblo Indians, undertook to quiet title to lands within Pueblo grants and to pay for lands it could have recovered for the Pueblos by seasonable prosecution but did not."
+    "Later law, not part of the grant: in the Pueblo Lands Act of 1924 the United States, in its sovereign capacity as guardian of the Pueblo Indians, undertook to quiet title to Pueblo lands and made itself liable for losses it could have prevented by seasonable prosecution."
   ],
-  "status": "broken",
-  "breaches": [
-    {
-      "kind": "act-of-congress",
-      "date": "1924-06-07",
-      "what": "Under the Pueblo Lands Act, non-Indians who had held land inside Pueblo grants adversely for the required years could keep it, so Isleta lost land inside its confirmed grant. Congress later named Isleta among the pueblos from which lands and water rights had been divested under that Act.",
-      "whoFoundIt": "Act of June 7, 1924, 43 Stat. 636, as applied to Isleta in the Act of May 31, 1933, 48 Stat. 108",
-      "source": {
-        "title": "Act of May 31, 1933, ch. 45, 48 Stat. 108 (payments to Indian pueblos under the Pueblo Lands Act)",
-        "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg108.pdf",
-        "publisher": "US Government Publishing Office, govinfo"
-      }
-    },
-    {
-      "kind": "government-admission",
-      "date": "1933-05-31",
-      "what": "Congress authorized $47,751.31 for the Pueblo of Isleta, on top of the Pueblo Lands Board's awards, in payment of the liability of the United States to the pueblo declared by the 1924 Act, to replace divested lands and water rights.",
-      "whoFoundIt": "Act of May 31, 1933, ch. 45, sections 1 and 2, 48 Stat. 108",
-      "source": {
-        "title": "Act of May 31, 1933, ch. 45, 48 Stat. 108 (payments to Indian pueblos under the Pueblo Lands Act)",
-        "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg108.pdf",
-        "publisher": "US Government Publishing Office, govinfo"
-      },
-      "quote": "in payment of the liability of the United States to the said pueblos as declared by the Act of June 7, 1924"
-    }
-  ],
-  "landTaken": "The acreage of Isleta grant land lost to non-Indian claimants was not found in a source opened.",
-  "compensation": "The Act of May 31, 1933 authorized $47,751.31 for Isleta in addition to the Pueblo Lands Board's own awards, to be appropriated in three annual installments from fiscal year 1937 and spent with the pueblo's approval on land, water rights or improvements. The same Act paid $6,624.45 to non-Indian claimants within Isleta whose claims the Board did not sustain. The amount of the Board's own award to Isleta was not found.",
-  "today": "In 1959 the Indian Claims Commission dismissed Isleta's Docket 211, which sought compensation for the Peralta tract and the Bosque de los Pinos tract south of the grant; it held Isleta had no Indian title to land that passed to non-Indians under Spanish grants before 1848 and had not proved it bought the Bosque tract. That was a ruling against the nation, about land outside the patented grant. The Commission's findings also record a supplemental patent of October 7, 1933 for land erroneously omitted from the 1864 survey.",
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "None documented inside this grant. The Pueblo Lands Board's Isleta losses that the Indian Claims Commission describes lie outside it: the 14,710.85-acre Peralta tract in the Lo de Padilla Grant (patented to Isleta in 1908) and fifteen tracts of 59.848 acres in the Gutierrez and Sedillo grants.",
+  "compensation": "The Act of May 31, 1933 authorized $47,751.31 for Isleta in addition to the Pueblo Lands Board's awards, and $6,624.45 for non-Indian claimants within the pueblo of Isleta whose claims the Board did not sustain. The Indian Claims Commission records (Docket 211, Findings 17 to 21) that this sum included $29,421.70 for the 14,710.85-acre Peralta tract in the Lo de Padilla Grant at $2 an acre, which Isleta received; the Board had made no award for that tract but awarded $2 an acre for two small tracts in the same area. What land the rest of the 1933 sum covered was not found; the scan of the House committee's figure for it is unreadable. The Indian Claims Commission held in other pueblos' cases that this Pueblo Lands Act compensation was not a Fifth Amendment taking, because Congress as trustee paid full market value (Taos, 1971; San Ildefonso and others, 1976).",
+  "today": "The grant remains Isleta land; the Commission's findings record a supplemental patent of October 7, 1933 for land erroneously omitted from the 1864 survey. In 1959 the Indian Claims Commission dismissed Isleta's Docket 211 claims for the Peralta tract and the Bosque de los Pinos tract, both outside this grant, finding the Peralta settlement fairly negotiated before the Pueblo Lands Board and the Bosque tract never Isleta's; the Court of Claims affirmed (152 Ct. Cl. 866, March 10, 1961) and the Supreme Court denied certiorari (368 U.S. 822). Those were rulings against the nation. In 1949 the United States put three tracts of 17,492 acres, including most of the Peralta tract, in trust for Isleta (63 Stat. 604, as recorded by the Commission).",
   "nationVoice": [],
   "sources": [
     {
@@ -80,20 +56,33 @@
       "title": "Pueblo de Isleta v. United States, Docket 211, Final Order (June 5, 1959)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/396",
       "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Pueblo de Isleta v. United States, App. No. 8-59, 152 Ct. Cl. 866 (March 10, 1961)",
+      "url": "https://static.case.law/us-ct-cl/152/cases/0866-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Pueblo of Taos v. United States, Docket 357-A, Opinion of the Commission, 24 Ind. Cl. Comm. 414 (February 10, 1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1914",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Pueblo of San Ildefonso et al. v. United States, Docket 354 et al., Opinion on Plaintiffs' Motions for Rehearing, 39 Ind. Cl. Comm. 34 (September 16, 1976)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2713",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
     }
   ],
   "openQuestions": [
     "The date 1886-10-01 is the heading of Royce's schedule section, not an event; this record is Isleta's confirmed grant, land kept rather than ceded. treaties.json names it a \"cession\".",
-    "The Pueblo Lands Board's own report on Isleta (its acreage findings and award) was not opened; the breach rests on the 1933 Act naming Isleta.",
     "The Commission's 1959 findings give the supplemental patent of October 7, 1933 an acreage that the scan renders unclearly (about 20,000 acres); it is left out of the record.",
     "The Pueblo of Isleta's own account of its land losses was not found on isletapueblo.com.",
-    "treaties.json links a University of Georgia PDF (677r.pdf) that was not opened."
+    "treaties.json links a University of Georgia PDF (677r.pdf) that was not opened.",
+    "Audit 2026-11-08: downgraded from broken to no-breach-found. Both breaches rested on the Act of May 31, 1933 (48 Stat. 108). Opened: section 1 does say 'in payment of the liability of the United States to the said pueblos as declared by the Act of June 7, 1924', and section 2 names 'pueblo of Isleta, $47,751.31'. But the Act gives one sum per pueblo and does not say where the land lay, and Isleta held other grants besides this one. ICC Docket 211, Findings 16 to 21 (OSU id 194), summarising the Board's two Isleta reports of August 1928 and the 1932 and 1933 congressional reports, place the losses it describes outside this grant: $29,421.70 of the 1933 sum was for the Peralta tract in the Lo de Padilla Grant, and the Board's other awards it mentions were for tracts in the Lo de Padilla and Gutierrez-Sedillo grants. No source opened ties any loss to the 1858/1864 Isleta grant (Royce's area), so the 1933 Act cannot carry a breach on this record. If the Board's Report No. 2 on Isleta shows extinguished claims inside the 1864 grant, the breach could be restored.",
+    "Audit 2026-11-08: lead: the Peralta loss belongs to the Lo de Padilla Grant, which has no Royce record; it could be an extra- record, though the Commission held that settlement fair and Congress paid for it.",
+    "Audit 2026-11-08: the day of the Board's Isleta reports is unclear in the scan ('August 37, 1928'); a search summary of J. J. Bowden's history gives August 17, 1928, but that page did not load. Left as August 1928.",
+    "Audit 2026-11-08: Pueblo ruling (coordinator, 2026-11-08): the Act of May 31, 1933 (48 Stat. 108) is not a finding or a government admission. It has no findings or preamble; section 2 pays sums 'in addition to' the Board's awards, by pueblo, not by grant, and its 'liability of the United States ... as declared by the Act of June 7, 1924' wording covers every pueblo it names. The Indian Claims Commission held there was no Fifth Amendment taking because Congress, as trustee, paid full market value (Pueblo of Taos, Docket 357-A, 24 Ind. Cl. Comm. 414, February 10, 1971; San Ildefonso et al., Docket 354, 39 Ind. Cl. Comm. 34, September 16, 1976, both opened). Applied here: the 1933 sums are recorded only as compensation, and no other source ties a loss inside this grant to a Board finding or a taking holding, so the record is no-breach-found."
   ],
-  "plain": {
-    "promised": "In 1858 Congress confirmed the Pueblo of Isleta's land grant, patented in 1864, and in 1924 the United States, as guardian, said it would clear title to Pueblo grant lands and pay for losses it could have prevented.",
-    "happened": "Under the 1924 Pueblo Lands Act non-Indians kept some land inside the Isleta grant. In 1933 Congress named Isleta as having lost land and water rights and admitted the United States was liable.",
-    "today": "Congress authorized $47,751.31 for Isleta in 1933, beyond the Lands Board's awards. A separate Isleta claim to land south of the grant was dismissed in 1959."
-  },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"
 }

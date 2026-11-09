@@ -1,0 +1,62 @@
+{
+  "id": "cession-1875-05-18-round-valley-reservation-indians",
+  "name": "Executive order of May 18, 1875 proclaiming the boundaries of the Round Valley reservation under the Act of March 3, 1873",
+  "sameEventAs": "cession-1873-03-03-round-valley-reservation-indians",
+  "signed": "1875-05-18",
+  "citation": "Executive order of May 18, 1875 (under the Act of March 3, 1873, 17 Stat. 633)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/880/mode/2up",
+  "nations": [
+    "Round Valley Indian Tribes"
+  ],
+  "promises": [
+    "The order proclaimed and defined the boundaries of the Round Valley reservation in accordance with the Act of March 3, 1873 and the report of the boundary commission, approved August 4, 1874 (Royce pp. 862-863 and 880; Senate Report No. 1522 of 1885).",
+    "Under the 1873 Act, white settlers inside the reservation were to be paid the appraised value of their improvements and remove."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "government-admission",
+      "date": "1885-02-27",
+      "what": "The Senate Committee on Indian Affairs, reporting by Senator Dawes, found that nine white occupants held about 97,500 acres of the Round Valley reservation as marked by its present limits under the Act of March 3, 1873, exclusively and without compensation, and said it could find no excuse for this condition of things. The report records that the order of May 18, 1875 proclaimed and defined these boundaries.",
+      "whoFoundIt": "Senate Report No. 1522, 48th Congress, 2d Session (1885)",
+      "source": {
+        "title": "Senate Report No. 1522, 48th Congress, 2d Session, Condition of Certain Indians in California (Mr. Dawes, Committee on Indian Affairs, February 27, 1885)",
+        "url": "https://shareok.org/items/ebd3a0c8-69dd-4264-925c-fb11e38f5188",
+        "publisher": "University of Oklahoma Libraries, SHAREOK (American Indian and Alaska Native Documents in the Congressional Serial Set)"
+      },
+      "quote": "The committee are unable to find any excuse for this condition of things."
+    }
+  ],
+  "compensation": "No payment to the Round Valley peoples for the occupied land was found.",
+  "today": "Royce (1899) says these remained the reservation's boundaries except for the Camp Wright mile square added on July 26, 1876. The full record of the 1873 reservation, including Russ v. Wilkins (9th Cir. 1980), is on the findings for the Act of March 3, 1873.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 880-881",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/880/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 862-863",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/862/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Senate Report No. 1522, 48th Congress, 2d Session, Condition of Certain Indians in California (Mr. Dawes, Committee on Indian Affairs, February 27, 1885)",
+      "url": "https://shareok.org/items/ebd3a0c8-69dd-4264-925c-fb11e38f5188",
+      "publisher": "University of Oklahoma Libraries, SHAREOK (American Indian and Alaska Native Documents in the Congressional Serial Set)"
+    }
+  ],
+  "openQuestions": [
+    "Same land and event as cession-1873-03-03-round-valley-reservation-indians (Royce area 583): this order proclaimed the boundaries that Act called for. The breach is the same 1885 Senate admission and should not be counted twice.",
+    "The order was read in Royce's summary and in the 1885 report, not in Kappler vol. 1.",
+    "The Round Valley Indian Tribes' own account was not found."
+  ],
+  "plain": {
+    "promised": "This 1875 order fixed the Round Valley reservation lines set by Congress in 1873, with settlers inside to be paid for improvements and leave.",
+    "happened": "In 1885 a Senate committee found white stockmen held about 97,500 acres inside these lines without paying, and said there was no excuse for it.",
+    "today": "No payment for that occupation was found. The full story is on the record for the 1873 Act."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "cession-1887-09-01-uintah-uta",
+  "name": "Executive order of September 1, 1887 setting apart the Uintah military reservation at Fort Duchesne",
+  "aka": [
+    "Fort Duchesne military reservation executive order, 1887"
+  ],
+  "signed": "1887-09-01",
+  "citation": "Executive Order of September 1, 1887",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/924/mode/2up",
+  "nations": [
+    "Ute Indian Tribe of the Uintah and Ouray Reservation"
+  ],
+  "promises": [
+    "Not a treaty: an executive order. Royce records that the President set apart as the Uintah military reservation a tract around Fort Duchesne, Utah Territory, 2 miles wide and 3 miles long, beginning 2 miles due north of the fort's flagstaff."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "Royce places the tract inside the Uintah reservation (area 431). The Uintah Valley Reservation was confirmed by Congress in 1864; the Indian Claims Commission (Docket 45, 1957) said that in every instance where reservation land was taken compensation was paid. No court, claims-commission, Act of Congress or government finding about this military reserve was found, in the Commission's full text ('Fort Duchesne' appears only as a meeting place) or in the Court of Claims case list.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 924-925, 'See 431'",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/924/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Uintah Ute Indians of Utah v. United States, Docket 45, Opinion of the Commission (February 21, 1957), 5 Ind. Cl. Comm. 59",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/86",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Uintah & White River Bands of Ute Indians v. United States, 139 Ct. Cl. 1 (1957)",
+      "url": "https://static.case.law/us-ct-cl/139/cases/0001-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library"
+    },
+    {
+      "title": "Uintah Ute Indians of Utah v. United States, Dockets 44 and 45, Findings of Fact as to Proposed Compromise Settlement (June 13, 1960)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/428",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "Whether the military reservation was later returned to the tribe, and on what terms, was not researched. A 1960 Commission record describes Fort Duchesne as the location of the Uintah and Ouray Indian Agency, but how the land came back was not traced.",
+    "treaties.json gives Royce area 431; Royce marks this entry 'See 431' and says the rectangular tract is outlined in scarlet. Not edited.",
+    "treaties.json lists no present-day tribes; the Ute Indian Tribe of the Uintah and Ouray Reservation should be listed. Not edited. The executive order link (431r.pdf) was not opened."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

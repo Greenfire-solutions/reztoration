@@ -16,34 +16,9 @@
     "Royce records the grant as 34,766.86 acres, a Spanish grant of 1689 patented in 1864.",
     "The Pueblo Lands Act of 1924 made the United States liable, and directed the Pueblo Lands Board to award compensation, for Pueblo land and water lost through the United States' failure to seasonably prosecute the Pueblo's rights (Section 6)."
   ],
-  "status": "broken",
-  "breaches": [
-    {
-      "kind": "act-of-congress",
-      "date": "1924-06-07",
-      "what": "Under the Pueblo Lands Act of 1924, title to land claimed by non-Indians within the Pueblo of San Felipe's lands was extinguished in their favour. The Act of May 31, 1933 names the Pueblo of San Felipe among the pueblos from which lands and water rights were divested under the 1924 Act.",
-      "whoFoundIt": "Act of June 7, 1924, 43 Stat. 636; Act of May 31, 1933, ch. 45, sec. 1-2, 48 Stat. 108",
-      "source": {
-        "title": "Act of May 31, 1933, ch. 45, 48 Stat. 108",
-        "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg108.pdf",
-        "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
-      },
-      "quote": "for the purchase of lands and water rights to replace those which have been divested from said pueblo under the Act of June 7, 1924"
-    },
-    {
-      "kind": "government-admission",
-      "date": "1933-05-31",
-      "what": "Congress authorized $14,954.53 for the Pueblo of San Felipe 'in addition to the awards made by the Pueblo Lands Board', in payment of the liability of the United States to the Pueblo declared by the 1924 Act. The Indian Claims Commission later described these 1933 sums as Congress finding the Board's awards unfair.",
-      "whoFoundIt": "Act of May 31, 1933, ch. 45, sec. 2, 48 Stat. 108",
-      "source": {
-        "title": "Act of May 31, 1933, ch. 45, 48 Stat. 108",
-        "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg108.pdf",
-        "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
-      },
-      "quote": "In addition to the awards made by the Pueblo Lands Board"
-    }
-  ],
-  "compensation": "The Pueblo Lands Board made an award under Section 6 of the 1924 Act (amount not read in this pass). The Act of May 31, 1933 authorized a further $14,954.53 for the Pueblo of San Felipe, to be spent by the Secretary of the Interior with the Pueblo's approval on replacement lands, water rights or permanent improvements, in three annual instalments from fiscal year 1937. Section 6 of that Act let a pueblo accept the sums in full discharge of its claims under the 1924 Act. The Indian Claims Commission wrote in 1977 that in most cases the Board awarded only a fraction of fair market value and that Congress, finding the Board unfair, paid the difference except in a few instances.",
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "Section 2 of the Act of May 31, 1933 (48 Stat. 108) authorized $14,954.53 for the Pueblo of San Felipe \"in addition to the awards made by the Pueblo Lands Board\", in payment \"in part\" of the United States' liability declared by the 1924 Act, for replacement land and water or permanent improvements, in three annual instalments from fiscal year 1937. Section 3 separately authorized $16,424.68 for non-Indian claimants within the Pueblo of San Felipe whose claims the Board did not sustain. The Board's own award to the Pueblo was not read. The Act does not say which land the sum concerns.",
   "nationVoice": [],
   "sources": [
     {
@@ -74,17 +49,13 @@
   ],
   "openQuestions": [
     "The date 1886-10-01 in treaties.json is not an event date for this land. Royce prints the Pueblo grants under a block headed 'Oct. 1, Act of Congress, Stat. L. XI, 374'; 11 Stat. 374 is the Act of December 22, 1858, which confirmed the grant. This is land the Pueblo kept, not land it ceded. Not edited.",
-    "The 1933 Act gives one sum for the Pueblo of San Felipe and does not split it by tract. Section 6 of the 1924 Act covers only land inside the exterior boundaries of land granted or confirmed to a pueblo, so the sum relates to confirmed grant land, but this pass did not read the Pueblo Lands Board's own report on this Pueblo to confirm the acreage lost inside this grant (Royce's area) as against any other confirmed or purchased tract.",
     "Whether the Pueblo of San Felipe elected under Section 6 of the 1933 Act to accept the sum in full discharge, and when it was actually appropriated and paid, was not researched.",
     "The Pueblo of San Felipe's own account was not located (sanfelipepueblo.org did not answer). Whether San Felipe held other confirmed or purchased land in 1924 was not checked.",
-    "The statute link in treaties.json (ops.libs.uga.edu) was not used; the Act was read on govinfo."
+    "The statute link in treaties.json (ops.libs.uga.edu) was not used; the Act was read on govinfo.",
+    "Audit 2026-11-08 (round 14): status lowered from broken to no-breach-found. Both breaches rested only on the 1933 Act, which names the Pueblo but not the grant or any tract. Section 6 of the 1924 Act limits compensation to land inside a granted or confirmed tract, but no source opened in this pass says the divested land lay inside this grant (Royce's area), or that this was the Pueblo's only granted or confirmed tract in 1924. Lead: the Pueblo Lands Board's report on this Pueblo (Senate Committee on Indian Affairs, Survey of Conditions of the Indians, part 20, 1932, pp. 10705-11317; HathiTrust blocked robots) or a Tenth Circuit review of its award, like 47 F.2d 446 for San Juan.",
+    "Audit 2026-11-08 (round 14): the Act of May 31, 1933 (48 Stat. 108, read on govinfo) has no findings or preamble. Its title calls it a payment \"in part\" of the liability declared by the 1924 Act; section 2 adds sums \"in addition to the awards made by the Pueblo Lands Board\" and names pueblos, not grants or tracts. It is not, on its face, an admission that the Board's compensation was inadequate, and the Indian Claims Commission later held that Congress, acting as trustee, paid full market value for the lost land and that there was no Fifth Amendment taking (39 Ind. Cl. Comm. 34, 1976; 33 Ind. Cl. Comm. 82, 1974, for Taos land outside the town). The 1977 Commission remark that Congress \"determined the Board was unfair\" (41 Ind. Cl. Comm. 29) is a general description in Santa Clara's case, not a finding about this Pueblo. The 1933 Act is therefore not counted as a breach."
   ],
-  "today": "The grant remains the Pueblo's land base. Land and water inside it that passed to non-Indians under the 1924 Act was compensated, not returned; the 1933 Act directed the money to replacement land, water and improvements.",
-  "plain": {
-    "promised": "In 1858 Congress confirmed the Pueblo of San Felipe's land grant and later issued a patent, giving up only the United States' own claim to it.",
-    "happened": "Under the Pueblo Lands Act of 1924, land held by non-Indians inside the Pueblo's lands was confirmed to them. In 1933 Congress named the Pueblo and authorized $14,954.53 more than the Pueblo Lands Board had awarded.",
-    "today": "The land that passed to non-Indians was not returned; the 1933 money was for replacement land, water and improvements."
-  },
+  "today": "The grant remains the Pueblo's land base. Land and water that passed to non-Indians under the 1924 Act was compensated, not returned; where it lay is not established here.",
   "id": "cession-1886-10-01-san-felipe-pueblo",
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

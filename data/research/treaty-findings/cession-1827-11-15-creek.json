@@ -1,0 +1,55 @@
+{
+  "id": "cession-1827-11-15-creek",
+  "name": "Treaty with the Creeks, 1827 (Creek Agency, November 15, 1827)",
+  "signed": "1827-11-15",
+  "proclaimed": "1828-03-04",
+  "citation": "7 Stat. 307",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-creeks-1827-0284",
+  "nations": [
+    "Muscogee (Creek) Nation"
+  ],
+  "promises": [
+    "The Creek chiefs ceded all remaining Creek land found on survey to lie within the chartered limits of Georgia, which the 1826 Treaty of Washington had been meant but failed to include.",
+    "The United States agreed to pay $27,491 after ratification and the sanction of a Creek council.",
+    "The United States agreed to allow a further $15,000 on account of the cession, part of it to be applied under the direction of the President."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "$27,491, and a further $15,000, under the treaty. Whether these were paid was not traced.",
+  "today": "No Indian Claims Commission or Court of Claims decision about this 1827 cession was found. The Commission's Creek land dockets that were opened concern other cessions: Docket 21 the 1814 Treaty of Fort Jackson, Docket 272 Royce area 172 under the 1832 treaty, and Docket 275 Royce area 73 and part of area 203.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Creeks, 1827 (Kappler, vol. 2)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-creeks-1827-0284",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 720-721",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/720/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Creek Nation v. United States, Docket 272, Additional Findings of Fact (June 15, 1977), 40 Ind. Cl. Comm. 175",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1369",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Creek Nation v. United States, Docket 275, Findings of Fact (April 15, 1970), 23 Ind. Cl. Comm. 16",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1549",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Creek Nation v. United States, Docket 21, Findings of Fact (September 10, 1962), 11 Ind. Cl. Comm. 53",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/715",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json lists no present-day tribe; the Muscogee (Creek) Nation is named here. The Poarch Band of Creek Indians descends from Creeks who stayed east and may also be a successor. Not edited.",
+    "ICC full-text searches for the treaty date, the payment of $27,491, Little Prince and the chartered limits of Georgia found no decision on this cession. The Court of Claims Creek cases (more than thirty, 1919 to 1981) were listed by name but not each read for this tract.",
+    "The Muscogee (Creek) Nation's own account of the 1826 and 1827 Georgia cessions was not found in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

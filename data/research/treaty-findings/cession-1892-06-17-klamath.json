@@ -13,14 +13,14 @@
   ],
   "promises": [
     "Not a treaty. The land was the Klamath River Reservation set apart by executive order of November 16, 1855 and, from October 16, 1891, part of the extended Hoopa Valley Reservation (Royce, pp. 942-944; Mattz v. Arnett).",
-    "The Act itself provided allotments for Indians settled on the lands, kept Indian village sites reserved, and directed the sale proceeds to the maintenance and education of the Indians (Mattz v. Arnett)."
+    "The Act itself let Indians on the reservation apply for allotments within a year, allowed the Secretary of the Interior to reserve village sites for their permanent use, and directed the sale proceeds to the maintenance and education of the Indians (Mattz v. Arnett)."
   ],
   "status": "broken",
   "breaches": [
     {
       "kind": "act-of-congress",
       "date": "1892-06-17",
-      "what": "Congress declared all lands of the Klamath River Reservation subject to homestead settlement, entry and purchase, apart from allotments and village sites. Mattz v. Arnett records no consent by the Indians. The Supreme Court held in 1973 that the Act did not end the reservation.",
+      "what": "Congress declared all lands of the Klamath River Reservation subject to homestead settlement, entry and purchase, apart from allotments and any village sites the Secretary chose to reserve. No consent of the Indians was found. The Supreme Court held in 1973 that the Act did not end the reservation.",
       "whoFoundIt": "Act of June 17, 1892, ch. 120, 27 Stat. 52, as read in Mattz v. Arnett, 412 U.S. 481 (1973)",
       "source": {
         "title": "Mattz v. Arnett, 412 U.S. 481 (1973)",
@@ -30,7 +30,7 @@
       "quote": "subject to settlement, entry, and purchase under the laws of the United States granting homestead rights"
     }
   ],
-  "landTaken": "The lands of the 1855 reservation other than allotments and reserved village sites were opened; no acreage taken was found in this pass.",
+  "landTaken": "The lands of the 1855 reservation other than allotments and any village sites the Secretary reserved were opened; no acreage taken was found in this pass.",
   "compensation": "Sale proceeds were to be used for the maintenance and education of the Indians on the lands (Mattz, 1973). No other compensation was found.",
   "today": "Mattz v. Arnett (1973) held the reservation was not terminated and its land is still Indian country. It is now the Yurok Reservation.",
   "nationVoice": [
@@ -65,11 +65,12 @@
   "openQuestions": [
     "This is the same Act and the same land already recorded as the breach on cession-1855-11-16-klamath, so sameEventAs points there and the taking is counted once.",
     "treaties.json names the present-day tribe as the Klamath Tribes, Oregon. Royce area 400 is the Klamath River Reservation of the Yurok in California (Royce p. 943, Mattz). Not edited.",
-    "Mattz does not say whether the Indians consented; none was found."
+    "Mattz does not say whether the Indians consented; none was found.",
+    "Audit 2026-11-08 (round 14): village sites reworded: the Act says the Secretary 'may reserve' village sites, not that it reserved them (Mattz v. Arnett, quoting 27 Stat. 52); 'Mattz records no consent' changed to 'no consent was found', since Mattz is silent on consent. The Court of Claims case list (us-ct-cl, all 231 volumes) has no Yurok or Klamath River case; the only related entry, Hoopa Valley Tribe v. United States, 219 Ct. Cl. 492 (1979), is a jurisdiction ruling."
   ],
   "plain": {
     "promised": "Not a treaty. The land was the 1855 Klamath River Reservation of the Yurok, made part of the Hoopa Valley Reservation in 1891.",
-    "happened": "This 1892 Act of Congress opened the reservation to homesteaders, keeping allotments and village sites for the Indians. No consent was found. The Supreme Court held in 1973 that the reservation was not ended.",
+    "happened": "This 1892 Act of Congress opened the reservation to homesteaders, apart from allotments and village sites the government could set aside. No consent was found. The Supreme Court held in 1973 that the reservation was not ended.",
     "today": "Sale money was to support the Indians on the land; nothing more was found. It is now the Yurok Reservation."
   },
   "researchedAt": "2026-11-08",

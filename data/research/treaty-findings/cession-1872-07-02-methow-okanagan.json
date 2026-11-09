@@ -29,7 +29,7 @@
     {
       "kind": "act-of-congress",
       "date": "1892-07-01",
-      "what": "Congress declared the north half of the reservation, about 1,500,000 acres, vacated and restored to the public domain notwithstanding the executive order, and opened it to settlement, without ratifying the May 9, 1891 agreement under which the Indians were to be paid $1,500,000 and without providing that payment.",
+      "what": "Congress declared the north half of the reservation, about 1,500,000 acres, vacated and restored to the public domain notwithstanding the executive order, and opened it to settlement, stating that the Act did not recognize Indian title and leaving the sale money at the disposal of Congress, without providing the $1,500,000 the May 9, 1891 agreement promised. Antoine v. Washington (1975) treats the Act as Congress first approving that agreement.",
       "whoFoundIt": "Act of July 1, 1892, ch. 140, 27 Stat. 62; the missing ratification and payment are as the petitioners' claim is summarized in the Indian Claims Commission findings on compromise settlement, Dockets 177, 181-A and 181-B (1967)",
       "source": {
         "title": "Act of July 1, 1892, ch. 140, 27 Stat. 62 (opening of part of the Colville Reservation)",
@@ -111,7 +111,7 @@
   ],
   "plain": {
     "promised": "In 1872 the President set apart the land between the Columbia and Okanogan rivers, north to Canada, as the Colville Reservation.",
-    "happened": "The Indian Claims Commission found the tribes' lands outside the reservation were taken on the day of this order without payment. In 1892 Congress opened the north half to settlers without ratifying the agreement to pay $1,500,000.",
+    "happened": "The Indian Claims Commission found the tribes' lands outside the reservation were taken on the day of this order without payment. In 1892 Congress opened the north half to settlers without providing the $1,500,000 the 1891 agreement promised.",
     "today": "The outside lands brought $1,000,000 after offsets in 1960. Congress set aside $1,500,000 for the north half in 1906. Reservation claims were settled for $3,500,000 in 1967."
   },
   "researchedAt": "2026-11-08",

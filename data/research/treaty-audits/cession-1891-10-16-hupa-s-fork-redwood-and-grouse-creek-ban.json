@@ -1,0 +1,20 @@
+{
+  "id": "cession-1891-10-16-hupa-s-fork-redwood-and-grouse-creek-ban",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce p. 942 to 943: Hupa et al., October 16, 1891, map 'See 400, 461'; Royce pp. 832 to 833: 461 is the Hoopa Valley reserve (the Square), boundaries adopted June 23, 1876",
+    "Court of Claims case names for vol. 202 (static.case.law metadata): Short v. United States, 202 Ct. Cl. 870, decided October 17, 1973",
+    "Short opinion: the 1891 order formed a single reservation; Indians of the Addition had equal rights in the Square; timber revenues paid only to the Hoopa Valley Tribe roll; 22 named plaintiffs entitled to recover"
+  ],
+  "changes": [
+    "Added a court-ruling breach from Short v. United States (1973); status no-breach-found to broken",
+    "Added a promise and plain lines from the ruling",
+    "Not marked sameEventAs cession-1891-10-16-klamath: same order, different Royce area and breach"
+  ],
+  "unverifiable": [
+    "Later Short proceedings and payments not traced",
+    "Mattz v. Arnett and Karuk Tribe v. Ammon not re-opened",
+    "Neither tribe's own account searched"
+  ]
+}

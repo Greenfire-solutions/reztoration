@@ -1,0 +1,57 @@
+{
+  "id": "cession-1868-07-27-smith-river-reservation",
+  "name": "Act of July 27, 1868 discontinuing the Smith River reservation, California (15 Stat. 221)",
+  "aka": [
+    "Smith River Indian Reservation, 1862-1868",
+    "Royce area 521"
+  ],
+  "signed": "1868-07-27",
+  "citation": "15 Stat. 221",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/850/mode/2up",
+  "nations": [
+    "Tolowa Dee-ni' Nation",
+    "other Indians removed to Smith River from the Klamath River reserve and the Humboldt Bay region"
+  ],
+  "promises": [
+    "Not a treaty: an Act of Congress. Royce records that Congress discontinued the Smith River reservation in California and provided for removal of its Indians to the Hoopa Valley and Round Valley reservations.",
+    "Royce's note: after the Klamath River reserve was destroyed by a freshet, the agent moved the Indians to the Smith River valley; on May 6, 1862 the Secretary of the Interior temporarily set apart Townships 17, 18 and 19 North, Range 1 West, Humboldt meridian, subject to approval and appropriation by Congress.",
+    "Royce's note: Congress failed to make the appropriation, rent was paid to settlers for some years, and in 1869 the reserve was abandoned and the Indians were removed to Hoopa Valley."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce area 521: Townships 17, 18 and 19 North, Range 1 West, Humboldt meridian, set apart temporarily by the Secretary of the Interior on May 6, 1862 (Royce p. 851).",
+  "today": "The Tolowa Dee-ni' Nation's tribal heritage preservation office publishes the history of the Smith River valley under the title \"Reservation Ranch - Selling Stolen Land\". The Indians of California claims before the Indian Claims Commission (Dockets 31 and 37) were compromised in 1964 for $29,100,000; that settlement concerned aboriginal title taken as of March 3, 1853, not this reservation.",
+  "nationVoice": [
+    {
+      "nation": "Tolowa Dee-ni' Nation",
+      "summary": "The Nation writes that the Tolowa Dee-ni' lived and thrived in the Smith River valley before 1852 and that in 1853 miners claimed the valley regardless of the presence of its original inhabitants.",
+      "url": "https://www.tolowa.gov/reservationranch"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 850-851, Act of July 27, 1868, 15 Stat. 221, area 521",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/850/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Thompson et al. (Indians of California) v. United States, Dockets 31 and 37 et al., Findings of Fact on compromise settlement, July 20, 1964, 13 Ind. Cl. Comm. 369",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/914",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Reservation Ranch - Selling Stolen Land",
+      "url": "https://www.tolowa.gov/reservationranch",
+      "publisher": "Tolowa Dee-ni' Nation, Tribal Heritage Preservation Office"
+    }
+  ],
+  "openQuestions": [
+    "The reservation was set apart by the Secretary of the Interior subject to Congress, which never funded it; the 1868 Act ended it. Under the 2026-11-08 rule this is not itself a breach, and no court, Claims Commission or government admission about this land was found.",
+    "The 1964 Indians of California findings say reservation lands paid for as offsets in the 1944 Court of Claims judgment (102 Ct. Cl. 837) were excluded from the award area; whether the Smith River tract was among them was not checked. The 1942 Court of Claims opinion (98 Ct. Cl. 583) does not mention it.",
+    "The Tolowa Dee-ni' page opened describes the Smith River valley generally, not the 1862-1868 reservation; its continuation is an ArcGIS story map that was not read.",
+    "The Act's text (15 Stat. 221) was read only in Royce's summary.",
+    "treaties.json lists no presentDayTribes for this record (the Tolowa Dee-ni' Nation is the evident successor). Not edited."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

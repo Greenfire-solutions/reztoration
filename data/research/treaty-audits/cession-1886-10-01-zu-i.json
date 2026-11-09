@@ -1,0 +1,17 @@
+{
+  "id": "cession-1886-10-01-zu-i",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce pp. 922 to 923 schedule text: 'Zuni (original grant)', 'Spanish grant 1689; 17,581.25 acres', under the block 'Oct. 1, Act of Congress, Stat. L., XI, 374'",
+    "11 Stat. 374 (govinfo page image): Act of December 22, 1858 lists pueblos A to R and five towns; Zuni is not among them",
+    "Zuni Tribe v. United States, 12 Cl. Ct. 607 (May 27, 1987): historians generally agree the 1689 grant was forged"
+  ],
+  "changes": [
+    "Fixed an open question that said the 1858 Act confirmed this grant"
+  ],
+  "unverifiable": [
+    "The 12 Cl. Ct. 641 opinion and the $25,000,000 1991 judgment were not re-opened (taken from cession-1877-03-16-zu-i)",
+    "Royce area number 681 not matched to the map plate"
+  ]
+}

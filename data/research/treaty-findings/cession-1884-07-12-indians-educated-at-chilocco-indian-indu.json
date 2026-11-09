@@ -1,0 +1,48 @@
+{
+  "id": "cession-1884-07-12-indians-educated-at-chilocco-indian-indu",
+  "name": "Executive order of July 12, 1884 setting apart the Chilocco reserve for Indians educated at the Chilocco Indian Industrial School (Royce Area 657)",
+  "aka": [
+    "Chilocco school reserve executive order, 1884"
+  ],
+  "signed": "1884-07-12",
+  "citation": "Executive Order of July 12, 1884",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/916/mode/2up",
+  "nations": [
+    "Indians educated at Chilocco Indian Industrial School (students of many nations)",
+    "Cherokee Nation, in whose Cherokee Outlet the reserve lay"
+  ],
+  "promises": [
+    "Not a treaty: an executive order. Royce records that the President set apart the Chilocco reserve in Indian Territory for Indians educated at the Chilocco Indian Industrial School: secs. 13 to 16 and 21 to 28, and the E. half of secs. 17, 20 and 29, T. 29 N., R. 2 E. of the Indian meridian."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "None found for this order. The Cherokee Phoenix reports that the United States bought the property from the Cherokee Nation in 1893, and that about 75 years later the Nation bought back 2,667 acres found surplus to the school at $3.75 an acre.",
+  "today": "This order set apart land for a school, it did not take land from the school's beneficiaries, and no court, claims-commission, Act of Congress or government finding about it was found. The land lay in the Cherokee Outlet; the Indian Claims Commission's finding that the 1893 Outlet price was unconscionable is carried by cession-1893-03-03-cherokee. In 2016 the Bureau of Indian Affairs placed 1,333.99 acres of the Cherokee Nation's Chilocco land in trust (Cherokee Phoenix).",
+  "nationVoice": [
+    {
+      "nation": "Cherokee Nation (Cherokee Phoenix)",
+      "summary": "The Nation's newspaper reports that the government developed the Chilocco school after buying the property from the Cherokee Nation in 1893, that the Nation later bought back 2,667 surplus acres, and that 1,333.99 acres were placed in trust in 2016.",
+      "url": "https://www.cherokeephoenix.org/news/bia-places-tribes-chilocco-property-in-trust/article_904d49ac-903a-5014-909f-ebc11a44a909.html"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 916-917, area 657",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/916/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "BIA places tribe's Chilocco property in trust (May 19, 2016)",
+      "url": "https://www.cherokeephoenix.org/news/bia-places-tribes-chilocco-property-in-trust/article_904d49ac-903a-5014-909f-ebc11a44a909.html",
+      "publisher": "Cherokee Phoenix"
+    }
+  ],
+  "openQuestions": [
+    "The order predates the 1891 Outlet agreement. Whether the Chilocco reserve was inside the 6,022,754.17 acres the Indian Claims Commission valued in Docket 173 (cession-1893-03-03-cherokee) was not checked; a full-text search of the Commission decisions for 'Chilocco' found only an unrelated Kiowa offsets opinion.",
+    "Royce also lists a small school reserve described by metes and bounds right after this entry; it was not matched to an area number. The executive order link in treaties.json (ops.libs.uga.edu, 657r.pdf) was not opened.",
+    "treaties.json lists no present-day tribes; the Cherokee Nation is the nation whose land this was. Not edited.",
+    "The year of the buy-back is not given in the Cherokee Phoenix article and is not recorded."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cession-1886-10-01-santa-clara-pueblo",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Indian Claims Commission, 41 Ind. Cl. Comm. 29 (October 5, 1977), Docket 356, read in full: Espanola townsite inside the patented grant; 3,416 acres; all but 22.724 acres recoverable; $226,366.43 found, $86,821.87 awarded; further 901 acres, $98,487.72 and $27,146.87; difference $218,587.83; 1933 sum $181,114.19; Espanola $37,348.69 plus $124.95 deducted; summary judgment refused.",
+    "Act of May 31, 1933, 48 Stat. 108: $181,114.19 (section 2), $35,350.88 for non-Indian claimants (section 3).",
+    "Indian Claims Commission, 39 Ind. Cl. Comm. 34 (1976), Dockets 354-356 and 358: no Fifth Amendment taking, no interest."
+  ],
+  "changes": [
+    "Removed the government-admission breach resting on the 1933 Act; its content kept in compensation.",
+    "Act-of-congress breach reworded to add the Board's seasonable-prosecution finding.",
+    "Compensation adds the 1976 Commission ruling; source added."
+  ],
+  "unverifiable": [
+    "The final outcome of the Espanola townsite claim after 1977 was not traced (as the file already says)."
+  ],
+  "treatiesJsonErrors": [
+    "Date 1886-10-01 is Royce's schedule heading, not an event; land kept, not a cession."
+  ]
+}

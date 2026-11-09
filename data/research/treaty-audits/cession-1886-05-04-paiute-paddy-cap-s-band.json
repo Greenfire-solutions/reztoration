@@ -1,0 +1,15 @@
+{
+  "id": "cession-1886-05-04-paiute-paddy-cap-s-band",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Order text (American Presidency Project) opened: T. 15 S., Rs. 1, 2, 3 E. of the Boise meridian for Paddy Caps band, with the private-title exception. Matches.",
+    "Royce 1899 schedule (Internet Archive OCR of annualreportofbu218smit) p. 920: same description; area 660.",
+    "ICC Docket 326-K additional findings (id 2716, Aug. 15, 1977) opened: describes the order, Royce Area 660, reservation 312,320 acres after the addition; no finding against it."
+  ],
+  "changes": [
+    "today and sources: added the Docket 326-K description; status unchanged."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": []
+}

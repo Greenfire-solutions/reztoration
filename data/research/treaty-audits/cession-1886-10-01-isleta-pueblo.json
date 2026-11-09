@@ -1,0 +1,22 @@
+{
+  "id": "cession-1886-10-01-isleta-pueblo",
+  "auditedAt": "2026-11-08",
+  "verdict": "downgraded",
+  "checked": [
+    "Act of May 31, 1933, 48 Stat. 108 opened: section 1 does say 'in payment of the liability of the United States to the said pueblos as declared by the Act of June 7, 1924', but that is general language for every pueblo named; section 2 'pueblo of Isleta, $47,751.31'; section 3 'within the pueblo of Isleta, $6,624.45'. No findings, no preamble, nothing about which grant.",
+    "ICC Docket 211 Findings (id 194, June 5, 1959) opened: Board's two Isleta reports of August 1928; Peralta tract of 14,710.85 acres lies entirely within the Lo de Padilla Grant (patented 1908); House committee reports say $29,421.70 of the 1933 Isleta sum was for that tract at $2 an acre; Board awarded $2 an acre for two small tracts in the same area and an award for fifteen tracts of 59.848 acres in the Gutierrez and Sedillo grants. All outside the 1864 Isleta grant.",
+    "152 Ct. Cl. 866 (March 10, 1961) opened: Docket 211 affirmed; cert. denied 368 U.S. 822.",
+    "Royce 1899 schedule (Internet Archive OCR of annualreportofbu218smit) p. 922: Isleta Pueblo, confirmed 1858, patented 1864, 110,080.31 acres. Matches.",
+    "Web search for the Board's Isleta report found no online copy."
+  ],
+  "changes": [
+    "Status broken to no-breach-found: both breaches removed (the 1933 Act is not a finding or admission per the coordinator's Pueblo ruling, and the only sources opened place Isleta's Board losses outside this grant).",
+    "plain removed; promise 3 relabelled as later law; landTaken, compensation and today rewritten from the ICC findings; added 152 Ct. Cl. 866, the Taos 1971 and San Ildefonso 1976 ICC opinions as sources; open questions record the reasoning and the Lo de Padilla lead."
+  ],
+  "unverifiable": [
+    "The Board's Report No. 2 on Isleta (August 1928) was not found online; if it shows extinguished claims inside the 1864 grant with an award, the breach could be restored. Day of the reports unclear in the scan."
+  ],
+  "treatiesJsonErrors": [
+    "treaties.json files the Isleta grant as a 'cession' dated 1886-10-01; it is land confirmed (kept) in 1858, and 1886-10-01 is Royce's section heading (already noted in the file)."
+  ]
+}

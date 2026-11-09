@@ -1,0 +1,57 @@
+{
+  "id": "cession-1877-08-25-southern-apache",
+  "name": "Executive order of August 25, 1877 restoring the Hot Springs (Ojo Caliente) reservation to the public domain",
+  "aka": [
+    "Ojo Caliente abolition of 1877"
+  ],
+  "signed": "1877-08-25",
+  "citation": "Executive order of August 25, 1877 (Royce area 587)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/890/mode/2up",
+  "nations": [
+    "Chiricahua and Warm Springs (Chihene) Apache, today the Fort Sill Apache Tribe and Chiricahua descendants at Mescalero"
+  ],
+  "promises": [
+    "Not a treaty: a presidential order. It restored to the public domain the Hot Springs reservation as established by the executive order of December 21, 1875 (Royce p. 890, area 587)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "The Hot Springs reservation of December 21, 1875 (Royce area 587). No acreage was found in a source opened.",
+  "compensation": "None for this order. The Chiricahua aboriginal land claim (Dockets 30-A and 48-A) ended in a 1971 judgment entered on a stipulation; see cession-1876-10-30-apache.",
+  "today": "The Indian Claims Commission found that in 1876-1877 the Government reversed its policy of settling the Chiricahua on reservations in their homelands, abolished the Ojo Caliente reservation on August 25, 1877 and moved them toward San Carlos; it dated the taking of their aboriginal title to September 4, 1886, Geronimo's surrender (findings 14(a) and 14(b)). That is a finding about aboriginal title, not about this order.",
+  "nationVoice": [
+    {
+      "nation": "Fort Sill Apache Tribe",
+      "summary": "The Tribe says its original territory covered much of the Southwest, including eastern Arizona and western New Mexico, that its people endured nearly a decade of imprisonment and exile in Florida and Alabama before being moved to Oklahoma in 1894, and that a reservation proclamation for its New Mexico land was issued in November 2011.",
+      "url": "https://fortsillapache-nsn.gov/history-and-traditional-culture/history/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 890, executive order of August 25, 1877",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/890/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 891, remarks",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/891/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Fort Sill Apache Tribe et al. v. United States, Dockets 30-A and 48-A, Findings of Fact (June 28, 1968), 19 Ind. Cl. Comm. 212",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2269",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "History",
+      "url": "https://fortsillapache-nsn.gov/history-and-traditional-culture/history/",
+      "publisher": "Fort Sill Apache Tribe"
+    }
+  ],
+  "openQuestions": [
+    "An executive order taking back executive-order land is not a breach by itself (Jordan, 2026-11-08). The Commission names this abolition in finding 14(b) but dates the taking to September 4, 1886, so the file keeps no-breach-found, consistent with cession-1875-12-21-southern-apache and cession-1874-11-24-apache-southern. Jordan may want to rule on whether a finding that names the abolition counts for its row.",
+    "This record maps the same polygon (area 587) as cession-1875-12-21-southern-apache, which made the reservation; this one ended it. Different events, so no sameEventAs.",
+    "treaties.json error: presentDayTribes is empty for this record; the Fort Sill Apache Tribe should be listed. Not edited."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

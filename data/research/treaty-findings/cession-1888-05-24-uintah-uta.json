@@ -1,0 +1,59 @@
+{
+  "id": "cession-1888-05-24-uintah-uta",
+  "name": "Act of May 24, 1888 restoring part of the Uintah Valley Reservation to the public domain (the 1888 strip)",
+  "aka": [
+    "Uintah Valley Reservation restoration act, 1888"
+  ],
+  "signed": "1888-05-24",
+  "citation": "Act of May 24, 1888, ch. 310, 25 Stat. 157",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg157.pdf",
+  "nations": [
+    "Ute Indian Tribe of the Uintah and Ouray Reservation (Uintah and White River bands)"
+  ],
+  "promises": [
+    "Not a treaty: an Act of Congress. It restored to the public domain the part of the Uintah Valley Reservation lying within boundaries running from mile-post 19 of Du Bois' survey to the east boundary of the reservation.",
+    "The land was to be sold for cash, non-mineral land for not less than $1.25 an acre and mineral entries at $20 an acre, and all money from the sales was to belong to the Indians.",
+    "The Court of Claims records that the Act took effect only if three-fourths of the adult male Indians on the reservation consented."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "The part of the Uintah Valley Reservation within the boundaries in section 1 of the Act. No acreage was found in the sources read.",
+  "compensation": "The Court of Claims found that the required consent of the Uintah and White River bands was obtained, the lands were sold, and $22,417.93 in receipts was credited to the two bands; under the Act of May 27, 1902 a further $10,000 was appropriated and paid for lands detached from the reservation under the 1888 Act.",
+  "today": "The Indian Claims Commission, in Docket 45 (1957), noted that the 1888 Act required the Indians' ratification to take effect and said that in every instance where reservation land was taken compensation was paid. The Court of Claims (1957) recorded the consent and payments above. No finding that this Act broke a promise was found.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 926-927, 'See 431'",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/926/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Act of May 24, 1888, ch. 310, 25 Stat. 157",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg157.pdf",
+      "publisher": "U.S. Government Publishing Office, Statutes at Large"
+    },
+    {
+      "title": "Uintah & White River Bands of Ute Indians v. United States, 139 Ct. Cl. 1 (1957)",
+      "url": "https://static.case.law/us-ct-cl/139/cases/0001-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library"
+    },
+    {
+      "title": "Uintah Ute Indians of Utah v. United States, Docket 45, Opinion of the Commission (February 21, 1957), 5 Ind. Cl. Comm. 59",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/86",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Uintah Ute Indians of Utah v. United States, Docket 45, Findings of Fact (February 21, 1957), 5 Ind. Cl. Comm. 47",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/13",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json gives Royce area 431 and the Royce page 924 for this record; Royce prints this Act on p. 926 with 'See 431' in the number column, so it has no polygon of its own. Not edited.",
+    "The consent proviso is on 25 Stat. 158, which was not opened; it is taken from the Court of Claims findings.",
+    "Whether $1.25 and $20 an acre, or $22,417.93 plus $10,000, was a fair price for the strip (later known for gilsonite) was not examined by any decision found.",
+    "treaties.json lists no present-day tribes; the Ute Indian Tribe of the Uintah and Ouray Reservation should be listed. Not edited. The Ute Indian Tribe's own account was not opened."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

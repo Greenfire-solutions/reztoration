@@ -1,0 +1,67 @@
+{
+  "id": "cession-1882-05-05-maricopa-pima",
+  "name": "Executive order of May 5, 1882 adding land to the Gila River Reservation for the Pima and Maricopa",
+  "aka": [
+    "Gila River addition of 1882"
+  ],
+  "signed": "1882-05-05",
+  "citation": "Executive order of May 5, 1882 (Royce area 634)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/906/mode/2up",
+  "nations": [
+    "Akimel O'odham (Pima) and Piipaash (Maricopa), today the Gila River Indian Community and the Salt River Pima-Maricopa Indian Community"
+  ],
+  "promises": [
+    "Not a treaty: a presidential order. It set apart a tract in Townships 2 and 3 South, Ranges 2 and 3 East, west of the existing reservation and south of the Gila River, as an addition to the reserve established by the order of August 31, 1876 (Royce p. 906, area 634).",
+    "Royce cross-refers the order to the executive orders of January 10, 1879 and June 14, 1879."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "None taken by this order; it added land to the reservation.",
+  "compensation": "None stated for this order.",
+  "today": "In Docket 228 the Indian Claims Commission found the growth of the Pima reservations between 1859 and 1883 inconsistent with an intent to take their aboriginal title, and fixed the taking of Pima-Maricopa aboriginal land not already entered by settlers at November 15, 1883, the date of a later order (opinion and interlocutory order of January 20, 1972). Congress later set conditions on the plan for the Docket 228 judgment funds (Public Law 108-22, 2003). The Commission counted the additions made between 1879 and 1883 among the enlargements that showed no intent to take Pima title.",
+  "nationVoice": [
+    {
+      "nation": "Gila River Indian Community",
+      "summary": "The Community says Congress set apart the first reservation in Arizona for it in 1859, and that in the 1870s and 1880s upstream diversions and dams built by non-Native farmers cut off its Gila River water and largely wiped out its farming, followed by decades of famine.",
+      "url": "https://www.gilariver.org/index.php/about/history"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 906, executive order of May 5, 1882",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/906/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 907, remarks and area 634",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/907/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Gila River Pima-Maricopa Indian Community v. United States, Docket 228, Additional Findings of Fact 26 to 28 (January 20, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1832",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Gila River Pima-Maricopa Indian Community v. United States, Docket 228, Opinion of the Commission on date of taking (January 20, 1972), 27 Ind. Cl. Comm. 11",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1900",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Public Law 108-22 (May 14, 2003), 117 Stat. 696, section 201 (plan for Docket No. 228 judgment funds)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-108publ22/html/PLAW-108publ22.htm",
+      "publisher": "US Government Publishing Office"
+    },
+    {
+      "title": "History",
+      "url": "https://www.gilariver.org/index.php/about/history",
+      "publisher": "Gila River Indian Community"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json error: presentDayTribes is empty for this record; the Gila River Indian Community should be listed. Not edited.",
+    "No finding or Act about the land of this addition was located. The order was read only in Royce's summary."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

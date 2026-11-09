@@ -21,7 +21,7 @@
     {
       "kind": "government-admission",
       "date": "1978-12-20",
-      "what": "Interior Solicitor Krulitz concluded that the 1893 Agreement made a conditional cession of the disputed lands, that the United States had not met the conditions, and that title is held by the United States in trust for the Quechan; the Secretary of the Interior adopted that opinion by Secretarial Order, reversing the 1936 Margold opinion.",
+      "what": "Interior Solicitor Leo Krulitz concluded that the 1893 Agreement made a conditional cession of the disputed lands, that the United States had not met the conditions, and that title is held by the United States in trust for the Quechan. The Secretary of the Interior adopted that opinion by Secretarial Order, except for lands acquired under Acts of Congress or conveyed to third parties, reversing the Department's 1936 Margold and 1977 Austin opinions that the cession was unconditional. The Supreme Court calls the order an admission that the agreement had been ineffective to transfer title.",
       "whoFoundIt": "Secretarial Order of December 20, 1978; Opinion of the Solicitor M-36908 (January 2, 1979), 86 I.D. 3, as set out in Arizona v. California, 530 U.S. 392 (2000)",
       "source": {
         "title": "Arizona v. California, 530 U.S. 392 (2000)",
@@ -72,11 +72,12 @@
     "The Krulitz opinion and the 1978 Secretarial Order were not opened directly; they are cited as the Supreme Court sets them out.",
     "The 1978 order excepted lands the United States had acquired by Act of Congress or conveyed to third parties; how much of the 25,000 acres it returned in fact was not found.",
     "The Quechan Tribe's website (quechantribe.com/about-us) gives no account of the 1893 agreement; the nation voice is missing. Press accounts (Yuma Sun) describe the signing as fraudulent; not cited here.",
-    "Docket 319 (aboriginal lands) is a separate claim, recorded on cession-1884-01-09-yuma."
+    "Docket 319 (aboriginal lands) is a separate claim, recorded on cession-1884-01-09-yuma.",
+    "Audit 2026-11-08 (round 14): breach wording checked against Arizona v. California, 530 U.S. 392, 404-405 (2000). The Krulitz opinion is dated January 2, 1979 (86 I.D. 3) but the Court says it was issued in 1978 and adopted by the Secretarial Order of December 20, 1978; 'reversing the 1936 Margold opinion' widened to Margold and the 1977 Austin opinion, which had reaffirmed it; the order's exception for lands acquired by Congress or conveyed to third parties added; the Court's own word 'admission' added. Plain no longer says 'about 25,000 acres still belong' to the tribe, since the order excepted some parcels. The 1983 consent judgment stays litigation."
   ],
   "plain": {
     "promised": "In 1893 the Quechan gave up their 1884 reservation in return for irrigated allotments, a canal within three years and other conditions.",
-    "happened": "In 1978 the Interior Department concluded the conditions were never met and that about 25,000 acres of boundary land still belong in trust to the Quechan. The tribe's claim was settled in 1983.",
+    "happened": "In 1978 the Interior Department concluded the conditions were never met and that the boundary land, apart from some parcels already conveyed or acquired by Congress, is still held in trust for the Quechan. The tribe's claim was settled in 1983.",
     "today": "The tribe received $15 million in 1983. In 2000 the Supreme Court let it seek water rights for the boundary lands."
   },
   "researchedAt": "2026-11-08",

@@ -20,7 +20,7 @@
   ],
   "status": "no-breach-found",
   "breaches": [],
-  "landTaken": "Royce area 635 (the agreement gives the total as five thousand six hundred and fifty acres, more or less).",
+  "landTaken": "The agreement gives the total as five thousand six hundred and fifty acres, more or less: a strip up to 400 feet wide (5,384 acres, more or less) and eleven station parcels. Royce says this right of way is neither colored nor numbered on his map; his number 635 on this row marks the remnant of the Crow reservation still held under the 1868 treaty.",
   "compensation": "$25,000, appropriated by section 2 of the Act; section 3 required the Northern Pacific to repay that sum to the Treasury within sixty days.",
   "today": "The preamble of the Act records that the agreement was executed by a majority of adult Crow men as Article 11 of the 1868 treaty required. In 1935 the Court of Claims listed this cession of 5,650 acres for $25,000 among Crow cessions made for a consideration, said there had been no taking of Crow lands, and dismissed the Crow petition (81 Ct. Cl. 238). That was a ruling against the nation.",
   "nationVoice": [],
@@ -44,7 +44,8 @@
   "openQuestions": [
     "treaties.json links this record to Royce p. 786; the entry is on p. 908 (page scan checked).",
     "Whether the trespass and timber clauses were kept was not researched; no court or Commission finding on them was found. The ICC full-text search for Crow and the Northern Pacific right of way returned no Crow decision.",
-    "The Crow Tribe's own account of the 1881 agreement was not located."
+    "The Crow Tribe's own account of the 1881 agreement was not located.",
+    "Audit 2026-11-08: landTaken said the cession was Royce area 635. Royce p. 909 says the Northern Pacific right of way 'is neither colored nor numbered on the map'; the 635 on that row belongs to the line 'The remnant of the Crow reservation ... is still occupied by them'. Corrected. Strip acreage (5,384) added from the agreement text at 22 Stat. 158."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

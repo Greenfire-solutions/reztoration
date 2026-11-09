@@ -39,7 +39,7 @@
     }
   ],
   "landTaken": "Not stated for Royce Area 716 alone in the sources read; the Commission valued the 1910 Act homestead lands as a whole.",
-  "compensation": "The final award in Docket 350-F (August 23, 1972) was $8,809,057 plus interest, covering the homestead lands and the other 1910 Act claims; the homestead part was a net principal of $2,765,067.",
+  "compensation": "The final award in Docket 350-F (August 23, 1972) was $8,809,057, which already includes interest to June 30, 1972, plus further interest from that date; it covers the homestead lands and the other 1910 Act claims. The homestead lands' share was a principal of $2,765,067, or $7,605,086 with interest to June 30, 1972 (28 Ind. Cl. Comm. 264).",
   "today": "Not researched past the 1972 award.",
   "nationVoice": [],
   "sources": [
@@ -68,12 +68,13 @@
     "Royce records this order as an addition to the reservation, not a cession. The breach recorded here is the later sale of its land under the 1910 Act, as found for the homestead lands as a whole; how much of Area 716 was sold, and its share of the award, were not found.",
     "The Act of June 1, 1910 (36 Stat. 455) was not opened; it is cited as the Court of Claims gives it.",
     "Whether any of this tract was later flooded by Garrison Dam was not researched.",
-    "The MHA Nation account of this addition was not located."
+    "The MHA Nation account of this addition was not located.",
+    "Audit 2026-11-08 (round 14): compensation and plain reworded: the $8,809,057 award already includes interest to June 30, 1972 (homestead lands $2,765,067 principal plus $4,840,019 interest), so 'plus interest' and '$2,765,067 of it' misread the summary table in 28 Ind. Cl. Comm. 264. Both breaches confirmed as about this addition's land: 182 Ct. Cl. 543 and the 1972 opinion both name Royce Area 716 among the homestead lands."
   ],
   "plain": {
     "promised": "Not a treaty. An 1892 presidential order added a small tract north of the Missouri River to the Fort Berthold Reservation.",
     "happened": "Under a 1910 Act the United States sold reservation land, including this tract, to homesteaders. The Court of Claims held such land compensable, and the Indian Claims Commission found the sales grossly negligent, at under half the land's value.",
-    "today": "The Commission awarded $8,809,057 plus interest in 1972 for the 1910 Act claims, $2,765,067 of it for the homestead lands."
+    "today": "The Commission awarded $8,809,057 in 1972 for the 1910 Act claims, interest included. The homestead lands' share was a principal of $2,765,067."
   },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

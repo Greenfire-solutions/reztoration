@@ -1,0 +1,52 @@
+{
+  "id": "cession-1873-11-22-colorado-river",
+  "name": "Executive order of November 22, 1873 adding to the Colorado River reservation",
+  "aka": [
+    "Royce area 554"
+  ],
+  "signed": "1873-11-22",
+  "citation": "Executive order of November 22, 1873",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/868/mode/2up",
+  "nations": [
+    "Colorado River Indian Tribes (Mohave, Chemehuevi, Hopi and Navajo)"
+  ],
+  "promises": [
+    "An addition, not a cession: the President added to the Colorado River reservation set up by the Act of March 3, 1865 the bottom land adjoining it on the north side of the reserve to within 6 miles of Ehrenberg on the south, bounded west by the Colorado river and east by mountains and mesas (Royce p. 868).",
+    "Royce notes a further enlargement by the order of November 16, 1874 and the order of May 15, 1876 (p. 869, area 554)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "None by this order; it added land. The Indian Claims Commission found the Mohave were deprived of their lands as of March 3, 1865 without compensation (Dockets 283 and 295); that belongs to the 1865 Act (cession-1865-03-03-colorado-river).",
+  "today": "The Colorado River Indian Tribes say the reservation covers almost 300,000 acres on both banks of the river.",
+  "nationVoice": [
+    {
+      "nation": "Colorado River Indian Tribes",
+      "summary": "CRIT says the reservation was created in 1865 for the Indians of the Colorado River, first the Mohave and Chemehuevi, with Hopi and Navajo people relocated there later.",
+      "url": "https://crit-nsn.gov/crit_contents/about/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 868-869, executive order of November 22, 1873, area 554",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/868/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Mohave Tribe of Indians v. United States, Dockets 283 and 295, Interlocutory Order, March 19, 1959, 7 Ind. Cl. Comm. 219",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/283",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "About the Mohave, Chemehuevi, Hopi and Navajo Tribes",
+      "url": "https://crit-nsn.gov/crit_contents/about/",
+      "publisher": "Colorado River Indian Tribes"
+    }
+  ],
+  "openQuestions": [
+    "This follows cession-1874-11-16-colorado-river, an enlargement with the same no-breach result. The CRIT page and the Docket 283/295 interlocutory order (Mohave title taken as of March 3, 1865 without compensation) were reopened on 2026-11-08.",
+    "The dispute over the reservation's western boundary under the 1876 order (Arizona v. California) was not researched; it concerns the 1876 order.",
+    "treaties.json lists no presentDayTribes for this record. Not edited."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

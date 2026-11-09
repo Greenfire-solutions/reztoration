@@ -1,0 +1,120 @@
+{
+  "id": "cession-1882-12-16-moki-and-others",
+  "name": "Executive order of December 16, 1882 setting apart the Moqui (Hopi) reservation",
+  "aka": [
+    "1882 Executive Order Reservation",
+    "Hopi Reservation of 1882"
+  ],
+  "signed": "1882-12-16",
+  "citation": "Executive order of December 16, 1882 (Royce area 640)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/908/mode/2up",
+  "nations": [
+    "Hopi Tribe (the villages of First Mesa, Mishongnovi, Sipaulavi, Shungopavi, Oraibi, Kyakotsmovi, Bakabi, Hotevilla and Moenkopi)"
+  ],
+  "promises": [
+    "Not a treaty: a presidential order. It set apart a reserve for the Moqui and other Indians bounded by 110 and 111 degrees west longitude and 35 degrees 30 minutes and 36 degrees 30 minutes north latitude (Royce p. 908, area 640).",
+    "The Indian Claims Commission found the Government expected the order to protect the Hopi from the Navajo and from white settlers and to give them enough land, intending it as a permanent Hopi home (Opinion on Motion, 1973)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1970-06-29",
+      "what": "The Commission concluded that on December 16, 1882 the United States, without payment, extinguished Hopi title to all their aboriginal land lying outside the boundaries of this order's reservation.",
+      "whoFoundIt": "Indian Claims Commission, Hopi Tribe v. United States, Docket 196, Interlocutory Order, conclusion 3 (23 Ind. Cl. Comm. 277)",
+      "source": {
+        "title": "Hopi Tribe v. United States, Docket 196, Interlocutory Order (June 29, 1970), 23 Ind. Cl. Comm. 277",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2498",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      },
+      "quote": "On December 16, 1882, the United States without the payment of any compensation, extinguished the Hopi Indian title"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1970-06-29",
+      "what": "The Commission also concluded that on June 2, 1937 the United States extinguished Hopi title to some 1,868,364 acres inside this 1882 reservation, all of it outside land management district 6, when grazing regulations confined the Hopi to district 6 and left the rest to Navajo use; it reaffirmed both dates in 1973.",
+      "whoFoundIt": "Indian Claims Commission, Docket 196, Interlocutory Order, conclusion 4, and Opinion on Motion (31 Ind. Cl. Comm. 16)",
+      "source": {
+        "title": "Hopi Tribe v. United States, Docket 196, Opinion on Motion (July 9, 1973), 31 Ind. Cl. Comm. 16",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1361",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1976-12-02",
+      "what": "The Hopi claim was settled by a stipulated final award of $5,000,000, approved as a compromise.",
+      "whoFoundIt": "Indian Claims Commission, Docket 196, Final Award (39 Ind. Cl. Comm. 223)",
+      "source": {
+        "title": "Hopi Tribe v. United States, Docket 196, Final Award (December 2, 1976), 39 Ind. Cl. Comm. 223",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2778",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    }
+  ],
+  "landTaken": "Hopi aboriginal land outside the 1882 reservation (December 16, 1882) and 1,868,364 acres inside it outside district 6 (June 2, 1937), as found by the Commission (Docket 196, 1970).",
+  "compensation": "$5,000,000 by stipulated final award of December 2, 1976 (Docket 196), a compromise.",
+  "today": "The Hopi Tribe's own timeline says a 1962 court ruling (Healing v. Jones) made the 1882 reservation outside district 6 a joint use area with the Navajo, that the Navajo-Hopi Land Settlement Act of December 22, 1974 provided for its partition, and that an interim partition line of 1979 gave each tribe 911,041 acres of the 1882 land base.",
+  "nationVoice": [
+    {
+      "nation": "The Hopi Tribe",
+      "summary": "The Tribe's timeline says that between 1878 and 1934 ten executive orders and four Acts of Congress removed lands from the Hopi and added them to the Navajo Reservation, surrounding the Hopi reservation, and that the 1962 ruling cost the Hopi 911,041 acres of the 1882 reservation.",
+      "url": "https://www.hopi-nsn.gov/wp-content/uploads/2015/02/2-3-2015-Vol.23-No.3.pdf"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 908, executive order of December 16, 1882",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/908/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 909, area 640",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/909/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Hopi Tribe v. United States, Docket 196, Interlocutory Order (June 29, 1970), 23 Ind. Cl. Comm. 277",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2498",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Hopi Tribe v. United States, Docket 196, Opinion on Title (June 29, 1970), 23 Ind. Cl. Comm. 277",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2143",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Hopi Tribe v. United States, Docket 196, Opinion on Motion (July 9, 1973), 31 Ind. Cl. Comm. 16",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1361",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Hopi Tribe v. United States, Docket 196, Findings of Fact and Conclusions of Law on Compromise Settlement (December 2, 1976)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2688",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Hopi Tribe v. United States, Docket 196, Final Award (December 2, 1976), 39 Ind. Cl. Comm. 223",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2778",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Hopi Tutuveni, vol. 23 no. 3 (February 3, 2015), timeline of the Hopi land base presented by the Hopi Department of Natural Resources",
+      "url": "https://www.hopi-nsn.gov/wp-content/uploads/2015/02/2-3-2015-Vol.23-No.3.pdf",
+      "publisher": "The Hopi Tribe"
+    }
+  ],
+  "openQuestions": [
+    "Healing v. Jones, 210 F. Supp. 125 (D. Ariz. 1962), aff'd 373 U.S. 758 (1963), and the Navajo-Hopi Land Settlement Act (Public Law 93-531) were not opened; they appear here only through the Hopi Tribe's timeline and the Commission's citation.",
+    "The Commission withheld action on Hopi counts 5 to 8 (rental value for Navajo use before the taking) in 1973; how they ended beyond the 1976 settlement was not traced.",
+    "Navajo Nation claims to the same area (Docket 229) were not researched for this file.",
+    "treaties.json error: presentDayTribes is empty for this record; the Hopi Tribe of Arizona should be listed. Not edited."
+  ],
+  "plain": {
+    "promised": "Not a treaty. An 1882 presidential order set apart a reservation for the Hopi, which the Government expected to protect them from Navajo and settler encroachment.",
+    "happened": "The Indian Claims Commission found the United States took Hopi land outside it in 1882, and 1,868,364 acres inside it in 1937, without payment. The claim was settled for $5,000,000 in 1976.",
+    "today": "The Hopi Tribe says a 1962 ruling made most of the 1882 reservation a joint use area with the Navajo, later partitioned, leaving each tribe 911,041 acres of it."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

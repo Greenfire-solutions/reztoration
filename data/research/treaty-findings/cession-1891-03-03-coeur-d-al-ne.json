@@ -43,7 +43,7 @@
     }
   ],
   "landTaken": "2,389,924 acres in Idaho and Washington, 334,328 of them in Washington (Docket 81 opinion, 1957).",
-  "compensation": "Paid: $231,884.97 credited by the Commission under Articles 6 and 11. Found due: $4,427,778.03 before offsets (1957). Final award of May 6, 1958: $4,342,778.03, from which attorneys' fees were paid.",
+  "compensation": "Paid: $231,884.97 credited by the Commission under Articles 6 and 11. The difference between the value and the payment is $4,427,778.03 (computed for this file from the Commission's two figures; the 1957 orders do not state it). Final award of May 6, 1958: $4,342,778.03, from which attorneys' fees were paid.",
   "today": "The Coeur d'Alene Tribe kept its Idaho reservation; the Tribe says its rights to the lower third of Lake Coeur d'Alene were upheld by the Supreme Court in 2001.",
   "nationVoice": [
     {
@@ -95,6 +95,7 @@
     }
   ],
   "openQuestions": [
+    "Audit 2026-11-08: the $4,427,778.03 'found due' figure is not stated in the 1957 opinion, findings or order; it is the value less the payment, now labelled as computed.",
     "The final award amount is read from the 1958 fees order, which names \"the award of $4,342,778.03\"; the final award document itself was not found in the collection. The 1958 fees opinion's OCR of the same figure is garbled.",
     "The Act of March 3, 1891 also ratified the Coeur d'Alene agreement of September 9, 1889 ceding part of the reservation itself; that cession is not recorded here.",
     "The Tribe's website was cited through cession-1873-11-08-coeur-d-al-ne and not reloaded in this pass."

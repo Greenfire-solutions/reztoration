@@ -1,0 +1,77 @@
+{
+  "id": "cession-1883-07-06-yuma",
+  "name": "Executive order of July 6, 1883 setting apart a reserve for the Yuma (Quechan) in Arizona, cancelled in 1884",
+  "aka": [
+    "Arizona Yuma reserve of 1883"
+  ],
+  "signed": "1883-07-06",
+  "citation": "Executive order of July 6, 1883 (Royce area 648)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/912/mode/2up",
+  "nations": [
+    "Quechan Tribe of the Fort Yuma Indian Reservation (Kwatsáan)"
+  ],
+  "promises": [
+    "Not a treaty: a presidential order. It set apart a reserve for the Yuma in Arizona, from the Colorado River channel opposite the mouth of the Gila, up the Gila to the line between ranges 19 and 20 West, north to the first standard parallel south and west to the Colorado (Royce p. 912, area 648).",
+    "Royce records that the executive order of January 9, 1884 restored this reserve to the public domain and set apart a new one on the California side of the river (Royce p. 914)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1959-09-30",
+      "what": "The Commission found that by the January 9, 1884 order, which cancelled this order of the preceding year, and the removal of the tribe to the California reserve, the United States extinguished Quechan Indian title to their lands in Arizona, and it adjudged the United States liable for their value.",
+      "whoFoundIt": "Indian Claims Commission, Quechan Tribe v. United States, Docket 319, Findings 24 and 26 and Opinion (8 Ind. Cl. Comm. 111)",
+      "source": {
+        "title": "Quechan Tribe of the Fort Yuma Reservation v. United States, Docket 319, Opinion of the Commission (September 30, 1959)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/552",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      },
+      "quote": "on January 9, 1884, the United States had extinguished Indian occupancy in Arizona"
+    }
+  ],
+  "landTaken": "Not stated for this reserve. The Commission's Finding 21 describes the Quechan aboriginal tract on both sides of the Colorado.",
+  "compensation": "See cession-1884-01-09-yuma: the Docket 319 claim was compromised on value, not tried.",
+  "today": "This is the same taking (January 9, 1884) recorded under cession-1884-01-09-yuma, which also maps this reserve (area 648); it is counted once.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 912, executive order of July 6, 1883",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/912/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 913, area 648",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/913/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 914, executive order of January 9, 1884",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/914/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Quechan Tribe of the Fort Yuma Reservation v. United States, Docket 319, Findings of Fact (September 30, 1959), 8 Ind. Cl. Comm. 111",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/323",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Quechan Tribe of the Fort Yuma Reservation v. United States, Docket 319, Opinion of the Commission (September 30, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/552",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "Same land and event as cession-1884-01-09-yuma (the January 9, 1884 cancellation and extinguishment of Arizona title, Docket 319). That record already maps area 648.",
+    "Whether all of the 1883 reserve lies inside the Arizona part of the Commission's Finding 21 tract was not plotted; its south-west corner at the Gila-Colorado confluence is on the Finding 21 boundary river, and the Commission names the cancelled order of the preceding year.",
+    "The Quechan Tribe's own account of the 1883 and 1884 orders was not located.",
+    "treaties.json error: presentDayTribes is empty for this record; the Quechan Tribe of the Fort Yuma Indian Reservation should be listed. Not edited."
+  ],
+  "plain": {
+    "promised": "Not a treaty. An 1883 presidential order set apart a reserve for the Quechan (Yuma) in Arizona where the Gila meets the Colorado.",
+    "happened": "In 1884 another order cancelled it and moved the reserve to California. The Indian Claims Commission found that this ended Quechan title to their Arizona lands and held the United States liable.",
+    "today": "The claim was compromised; it is the same taking shown on the 1884 Yuma entry."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher",
+  "sameEventAs": "cession-1884-01-09-yuma"
+}

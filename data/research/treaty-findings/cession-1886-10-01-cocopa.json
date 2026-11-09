@@ -1,0 +1,46 @@
+{
+  "id": "cession-1886-10-01-cocopa",
+  "name": "Taking of the Cocopah country without a treaty of purchase (Royce Area 686)",
+  "aka": [
+    "Royce 686, Cocopa: country claimed by them at beginning of their relations with the U.S."
+  ],
+  "citation": "No treaty or statute: Royce records that no treaty of purchase was ever made and that the United States assumed title to their country",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up",
+  "nations": [
+    "Cocopah Indian Tribe (Cocopa)"
+  ],
+  "promises": [
+    "Not a treaty. Royce records that no treaty of purchase was ever made with the Cocopa and that the United States assumed title to their country, shown on his Arizona map No. 1.",
+    "Royce notes that most of them had been concentrated on the Colorado River reservation."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "No claims award for Cocopah aboriginal land was found.",
+  "today": "Royce himself records that the United States assumed title without any treaty of purchase, but no court, claims-commission, Act of Congress or government finding about this taking was found. A full-text search of the Indian Claims Commission decisions for 'Cocopa' and 'Cocopah' returned only passing mentions in the Mohave and Quechan findings, and the Court of Claims volumes list no Cocopah case.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 922-923, area 686",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Quechan Tribe v. United States, Docket 319, Findings of Fact (September 30, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/323",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Mohave Indians et al. v. United States, Dockets 283 and 295, Findings of Fact (March 19, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/186",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "Whether the Cocopah filed a claim with the Indian Claims Commission was not settled; none appears in the Oklahoma State University collection. The Commission's 1978 Final Report docket list was not checked. A web search pointed only to a 1970 district court suit by the Native American Rights Fund over accretion land at the reservation, which was not opened.",
+    "The 1886-10-01 date in treaties.json is a Royce heading, not a date of any taking; Royce 686 is undated. Not edited.",
+    "treaties.json lists no present-day tribes; the Cocopah Indian Tribe should be listed. Not edited.",
+    "The Cocopah Indian Tribe's history page (cocopah.com/history) returned 404; the nation voice is missing."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

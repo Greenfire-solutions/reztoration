@@ -1,0 +1,19 @@
+{
+  "id": "cession-1894-08-15-klamath",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce schedule pp. 944-949 read in the Internet Archive full text of annualreportofbu218smit: first Aug 15, 1894 row is Yakima, Stat. L. XXVIII 320, confirming the agreement of Jan 8, 1894 ceding lands surveyed in 1893 under Art. 10 of the 1855 treaty; its map column reads 'See 400 / California 2'. The 1892 Yakima row on p. 944-945 (No. 720) has the Wenatshapam remark. Confirms this row is the Yakama Wenatshapam Fishery, not Klamath.",
+    "Docket 162, 4 Ind. Cl. Comm. 269 findings (pointer 370): Art. 10 text; no effort to survey until 1892, survey Aug or Sept 1893; parties agreed 23,000 acres; value $3.00 an acre, total $69,000 (finding at scan line 538).",
+    "Docket 162 opinion (pointer 157): consideration of about 87 cents an acre unconscionable; award at $3.00 an acre less amount paid (scan misreads 23,000 as 53,000).",
+    "Docket 162, 15 Ind. Cl. Comm. 617 opinion and Final Award (Aug 31, 1965, pointers 695, 699): $49,000 on the plaintiff's motion approved by defendant, offsets for 1894 to 1905 reserved; the 1956 holding of $69,000 value recited.",
+    "sameEventAs kappler-706: kappler-706 carries the same 1956 Docket 162 breach; kept."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "Row is named Klamath with presentDayTribes 'Klamath Tribes, Oregon' and state CA (Royce area 400). Royce p. 948 shows the entry is the Yakima agreement of Jan 8, 1894 (28 Stat. 320), the Wenatshapam Fishery in Washington; Royce's own map column misprints 'See 400, California 2'. Should be the Confederated Tribes and Bands of the Yakama Nation, WA."
+  ]
+}

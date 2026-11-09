@@ -1,0 +1,78 @@
+{
+  "id": "cession-1859-02-28-maricopa-pima",
+  "name": "Act of February 28, 1859 setting apart the Gila River reservation for the Pima and Maricopa",
+  "aka": [
+    "Gila River Indian Reservation, 1859"
+  ],
+  "signed": "1859-02-28",
+  "citation": "Act of February 28, 1859 (cited as 11 Stat. 388 by the Court of Claims)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/820/mode/2up",
+  "nations": [
+    "Gila River Indian Community (Akimel O'odham and Pee-Posh)",
+    "Salt River Pima-Maricopa Indian Community"
+  ],
+  "promises": [
+    "Congress ordered that a tract of not more than 100 square miles be surveyed around the existing Pima and Maricopa villages and set apart for them (Royce; 231 Ct. Cl. 193).",
+    "The Act appropriated $10,000 for presents to the Pima and Maricopa in recognition of their kindness to United States citizens (231 Ct. Cl. 193).",
+    "The Court of Claims read the reservation as intended to keep the Pima and Maricopa secure in the lands their villages and irrigated farms had long occupied."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1982-06-30",
+      "what": "The Court of Claims held that the United States, having set apart the reservation in 1859 and enlarged it, had a special relationship with the Pima and Maricopa over their lands and water, could not honorably and fairly ignore the continuous loss of Gila River water to upstream diversions, and did not take reasonable action to restore an equivalent supply until 1905. It held the United States liable for that period and sent the case back to fix damages.",
+      "whoFoundIt": "Gila River Pima-Maricopa Indian Community v. United States, 231 Ct. Cl. 193, 684 F.2d 852 (1982), Docket 236-C",
+      "source": {
+        "title": "Gila River Pima-Maricopa Indian Community v. United States, 231 Ct. Cl. 193, 684 F.2d 852 (1982) (Docket 236-C)",
+        "url": "https://static.case.law/us-ct-cl/231/cases/0193-01.json",
+        "publisher": "Caselaw Access Project, Harvard Law School"
+      },
+      "quote": "the United States could not honorably and fairly avert its face from the continuous loss of water suffered by the Pimas and Maricopas"
+    }
+  ],
+  "compensation": "The amount of damages on remand in Docket 236-C was not found.",
+  "today": "In 1974 the Court of Claims reviewed when the Pima-Maricopa aboriginal title outside the reservation was extinguished (204 Ct. Cl. 137). The Gila River Indian Community's water claims were settled when Congress passed the Arizona Water Settlements Act in 2004, as the Community's Governor described in 2016.",
+  "nationVoice": [
+    {
+      "nation": "Gila River Indian Community",
+      "summary": "Governor Stephen Roe Lewis said non-Indians upstream began to divert Gila River water and eventually deprived the Community of water for its farming economy, bringing harmful changes to diet and culture, until Congress approved the water settlement in 2004.",
+      "url": "https://www.gricnews.org/index.php/grin-articles/2016-articles/october-21-2016-articles/excerpt-of-gov-lewis-remarks-from-natl-water-summit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Gila River Indian News, Excerpt of Gov. Lewis remarks from National Tribal Water Summit (October 21, 2016)",
+      "url": "https://www.gricnews.org/index.php/grin-articles/2016-articles/october-21-2016-articles/excerpt-of-gov-lewis-remarks-from-natl-water-summit",
+      "publisher": "Gila River Indian Community"
+    },
+    {
+      "title": "Gila River Pima-Maricopa Indian Community v. United States, 231 Ct. Cl. 193, 684 F.2d 852 (1982) (Docket 236-C)",
+      "url": "https://static.case.law/us-ct-cl/231/cases/0193-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Gila River Pima-Maricopa Indian Community v. United States, 204 Ct. Cl. 137 (1974)",
+      "url": "https://static.case.law/us-ct-cl/204/cases/0137-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 820-821",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/820/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json lists no present-day tribes for this entry; the Gila River Indian Community and the Salt River Pima-Maricopa Indian Community are named here. Not edited.",
+    "The Court of Claims cites the Act as 11 Stat. 388; Royce's reference column for the row appears to read Stat. L. XI, 401 in the scan, but the alignment is unclear. The Statutes at Large page was not opened.",
+    "What damages were finally paid in Docket 236-C, and how the 2004 Arizona Water Settlements Act treated those claims, were not traced; the 2004 Act was not opened.",
+    "The 1982 ruling held no liability for years after 1905 and rejected the Community's claim to water for all practicably irrigable acres."
+  ],
+  "plain": {
+    "promised": "In 1859 Congress set apart land around the Pima and Maricopa villages on the Gila River, keeping them secure in the farms they had long watered.",
+    "happened": "Upstream settlers took the river. In 1982 the Court of Claims held the United States liable for failing until 1905 to act on the Pima and Maricopa's loss of water.",
+    "today": "Damages on remand were not traced. The Community's water claims were settled by Congress in 2004."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

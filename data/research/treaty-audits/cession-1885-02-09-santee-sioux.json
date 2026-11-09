@@ -1,0 +1,15 @@
+{
+  "id": "cession-1885-02-09-santee-sioux",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Order text (American Presidency Project, Kappler p. 864) opened: unallotted and unselected lands of the Niobrara or Santee reservation restored from April 15, 1885, open to settlement from May 15, 1885, under the act of March 3, 1863 and the 1868 treaty, except agency, school and missionary lands. Matches.",
+    "ICC full text 'Santee Niobrara 1885': no hits.",
+    "Court of Claims case names (us-ct-cl, all 231 volumes, static.case.law metadata) scanned for the nation: no Santee case; Sioux Tribe cases (1936-1953) are the Great Sioux claims, not this order. Closes the file's open point that the Court of Claims was not searched."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Santee Sioux Nation's own account not located."
+  ],
+  "treatiesJsonErrors": []
+}

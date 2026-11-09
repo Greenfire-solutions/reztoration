@@ -40,22 +40,10 @@
         "url": "https://static.case.law/us-ct-cl/207/cases/0053-01.json",
         "publisher": "Caselaw Access Project, Harvard Law School"
       }
-    },
-    {
-      "kind": "government-admission",
-      "date": "1933-05-31",
-      "what": "Congress authorized $84,707.09 for the Pueblo of Taos 'in addition to the awards made by the Pueblo Lands Board', in payment of the United States' liability under the 1924 Act for land and water divested from the Pueblo.",
-      "whoFoundIt": "Act of May 31, 1933, ch. 45, sec. 2, 48 Stat. 108",
-      "source": {
-        "title": "Act of May 31, 1933, ch. 45, 48 Stat. 108",
-        "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg108.pdf",
-        "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
-      },
-      "quote": "In addition to the awards made by the Pueblo Lands Board"
     }
   ],
   "landTaken": "926 acres of the 1689 grant occupied by the town of Taos (Indian Claims Commission, 1974), plus other grant land outside the town that the Pueblo Lands Board confirmed to non-Indians (acreage not read).",
-  "compensation": "For land outside the town, the Board first awarded $48,497.00 and in 1930 a further $27,631.85, and Congress added $84,707.09 in 1933; the Commission refused interest on those sums. For the town of Taos, the Final Award of March 17, 1976 gave $297,684.67 plus 5 percent simple interest from March 17, 1927 until paid, with offsets reserved to Docket 357.",
+  "compensation": "For land outside the town, the Board first awarded $48,497.00 and in 1930 a further $27,631.85, and Congress added $84,707.09 in 1933; the Commission refused interest on those sums. For the town of Taos, the Final Award of March 17, 1976 gave $297,684.67 plus 5 percent simple interest from March 17, 1927 until paid, with offsets reserved to Docket 357. In the same 1974 opinion the Commission held that the Board's and Congress's payments for grant land outside the town were a good-faith effort to realize its full value, so that land was not taken in the Fifth Amendment sense.",
   "today": "Separately, the Blue Lake area in the mountains above the grant was taken into a national forest in 1906. Public Law 91-550, signed on December 15, 1970, returned it; President Nixon called the 1906 taking of 48,000 acres an injustice. That land lies outside this grant and is not counted as a breach here. Whether the 1976 award was paid was not researched.",
   "nationVoice": [
     {
@@ -127,7 +115,8 @@
     "The Board's appraisal of all Taos grant land lost reads $458,520.61 or $458,523.61 in different places of the scanned 1971 order; not used.",
     "Whether the 1976 award with interest was paid, and how the reserved offsets in Docket 357 were applied, was not traced.",
     "Public Law 91-550 itself was not opened; the 1970 return is cited from the National Archives account.",
-    "The statute link in treaties.json (ops.libs.uga.edu) was not used; the Act was read on govinfo."
+    "The statute link in treaties.json (ops.libs.uga.edu) was not used; the Act was read on govinfo.",
+    "Audit 2026-11-08 (round 14): the government-admission breach on the Act of May 31, 1933 was removed. That Act states no findings, and the Commission held in this very case (33 Ind. Cl. Comm. 82, 1974) that the land outside the town, for which the $84,707.09 was paid, was not taken. The status rests on the 1974 Commission holding about the town's 926 acres and its 1975 affirmance."
   ],
   "plain": {
     "promised": "In 1858 Congress confirmed Taos Pueblo's grant, and an 1864 patent covered about 17,360 acres, including the 926 acres where the town of Taos stands.",

@@ -5,7 +5,7 @@
     "Act of December 22, 1858 (11 Stat. 374)"
   ],
   "signed": "1858-12-22",
-  "citation": "Act of December 22, 1858, ch. 5, 11 Stat. 374 (confirmation); Act of June 7, 1924, 43 Stat. 636; Act of May 31, 1933, 48 Stat. 108",
+  "citation": "Act of December 22, 1858, ch. 5, 11 Stat. 374 (confirmation); Act of June 7, 1924, ch. 331, 43 Stat. 636",
   "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-11/pdf/STATUTE-11-Pg374.pdf",
   "nations": [
     "Pueblo de Cochiti"
@@ -14,36 +14,23 @@
     "Congress confirmed the Pueblo of Cochiti's land claim, as reported favorably by the Surveyor General of New Mexico, and ordered it surveyed and patented (Act of December 22, 1858, 11 Stat. 374).",
     "The Act says the confirmation is only a relinquishment of the United States' own title and claim, and does not affect any adverse valid rights.",
     "Royce records the grant as 24,256.50 acres, a Spanish grant of 1689 patented on November 1, 1864.",
-    "The Pueblo Lands Act of 1924 made the United States liable, and directed the Pueblo Lands Board to award compensation, for Pueblo land and water lost through the United States' failure to seasonably prosecute the Pueblo's rights (Section 6)."
+    "Later law, not part of the grant: the Pueblo Lands Act of 1924 made the United States liable, and directed the Pueblo Lands Board to award compensation, for Pueblo land and water lost through the United States' failure to seasonably prosecute the Pueblo's rights (Section 6)."
   ],
   "status": "broken",
   "breaches": [
     {
       "kind": "act-of-congress",
       "date": "1924-06-07",
-      "what": "Under the Pueblo Lands Act of 1924, title to land claimed by non-Indians within the Pueblo of Cochiti's lands was extinguished in their favour. The Act of May 31, 1933 names the Pueblo of Cochiti among the pueblos from which lands and water rights were divested under the 1924 Act.",
-      "whoFoundIt": "Act of June 7, 1924, 43 Stat. 636; Act of May 31, 1933, ch. 45, sec. 1-2, 48 Stat. 108",
+      "what": "Under the Pueblo Lands Act of 1924, title to land claimed by non-Indians inside the Pueblo of Cochiti's confirmed grant was extinguished in their favour. The Indian Claims Commission records that the Pueblo Lands Board made findings as to claims extinguished within the Cochiti Grant and made a compensation award to the Pueblo for them, and that the Board found Cochiti held no land other than that grant.",
+      "whoFoundIt": "Act of June 7, 1924, ch. 331, 43 Stat. 636, sections 5 and 6; Pueblo Lands Board reports on Cochiti (Report No. 1, April 30, 1930, and 1931 amendments) as recited in Pueblo de Cochiti v. United States, Docket 136, Findings of Fact 16, 7 Ind. Cl. Comm. 422 (March 27, 1959)",
       "source": {
-        "title": "Act of May 31, 1933, ch. 45, 48 Stat. 108",
-        "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg108.pdf",
-        "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
-      },
-      "quote": "for the purchase of lands and water rights to replace those which have been divested from said pueblo under the Act of June 7, 1924"
-    },
-    {
-      "kind": "government-admission",
-      "date": "1933-05-31",
-      "what": "Congress authorized $37,826.37 for the Pueblo of Cochiti 'in addition to the awards made by the Pueblo Lands Board', in payment of the liability of the United States to the Pueblo declared by the 1924 Act. The Indian Claims Commission later described these 1933 sums as Congress finding the Board's awards unfair.",
-      "whoFoundIt": "Act of May 31, 1933, ch. 45, sec. 2, 48 Stat. 108",
-      "source": {
-        "title": "Act of May 31, 1933, ch. 45, 48 Stat. 108",
-        "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg108.pdf",
-        "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
-      },
-      "quote": "In addition to the awards made by the Pueblo Lands Board"
+        "title": "Pueblo de Cochiti v. United States, Docket 136, Findings of Fact, 7 Ind. Cl. Comm. 422 (March 27, 1959)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/534",
+        "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+      }
     }
   ],
-  "compensation": "The Pueblo Lands Board made an award under Section 6 of the 1924 Act (amount not read in this pass). The Act of May 31, 1933 authorized a further $37,826.37 for the Pueblo of Cochiti, to be spent by the Secretary of the Interior with the Pueblo's approval on replacement lands, water rights or permanent improvements, in three annual instalments from fiscal year 1937. Section 6 of that Act let a pueblo accept the sums in full discharge of its claims under the 1924 Act. The Indian Claims Commission wrote in 1977 that in most cases the Board awarded only a fraction of fair market value and that Congress, finding the Board unfair, paid the difference except in a few instances.",
+  "compensation": "The Indian Claims Commission (Docket 136, Finding 16) records that the Pueblo Lands Board made an award to Cochiti for claims extinguished within the Cochiti Grant, an additional award of $13,130.56 in its 1931 amendments after the district court quiet-title decree, and that with the $37,826.37 authorized by the Act of May 31, 1933 the total award to Cochiti for losses within the grant was $58,258.55. The first Board award is partly unreadable in the scan ($7,3__.62); $58,258.55 less the other two sums would be $7,301.62, an auditor's subtraction, not a figure read from the source. The 1933 money was to be spent by the Secretary of the Interior with the Pueblo's approval on replacement lands, water rights or permanent improvements, in three annual instalments from fiscal year 1937; section 6 of that Act let a pueblo accept the sums in full discharge of its claims under the 1924 Act. The same Act paid $9,653.81 to non-Indian claimants within Cochiti whose claims the Board did not sustain. The Indian Claims Commission wrote in 1977 that in most cases the Board awarded only a fraction of fair market value and that Congress, finding the Board unfair, paid the difference except in a few instances.",
   "nationVoice": [],
   "sources": [
     {
@@ -72,23 +59,39 @@
       "publisher": "Indian Claims Commission, via Oklahoma State University Library"
     },
     {
-      "title": "Pueblo de Cochiti v. United States, Docket 136, Findings of Fact and Final Order, 7 Ind. Cl. Comm. 422 (March 27, 1959)",
+      "title": "Pueblo de Cochiti v. United States, Docket 136, Findings of Fact, 7 Ind. Cl. Comm. 422 (March 27, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/534",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Pueblo de Cochiti v. United States, Docket 136, Final Order (March 27, 1959)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/419",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Pueblo of Taos v. United States, Docket 357-A, Opinion of the Commission, 24 Ind. Cl. Comm. 414 (February 10, 1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1914",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Pueblo of San Ildefonso et al. v. United States, Docket 354 et al., Opinion on Plaintiffs' Motions for Rehearing, 39 Ind. Cl. Comm. 34 (September 16, 1976)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2713",
       "publisher": "Indian Claims Commission, via Oklahoma State University Library"
     }
   ],
   "openQuestions": [
     "The date 1886-10-01 in treaties.json is not an event date for this land. Royce prints the Pueblo grants under a block headed 'Oct. 1, Act of Congress, Stat. L. XI, 374'; 11 Stat. 374 is the Act of December 22, 1858, which confirmed the grant. This is land the Pueblo kept, not land it ceded. Not edited.",
-    "The 1933 Act gives one sum for the Pueblo of Cochiti and does not split it by tract. Section 6 of the 1924 Act covers only land inside the exterior boundaries of land granted or confirmed to a pueblo, so the sum relates to confirmed grant land, but this pass did not read the Pueblo Lands Board's own report on this Pueblo to confirm the acreage lost inside this grant (Royce's area) as against any other confirmed or purchased tract.",
     "Whether the Pueblo of Cochiti elected under Section 6 of the 1933 Act to accept the sum in full discharge, and when it was actually appropriated and paid, was not researched.",
     "The Pueblo de Cochiti's own account was not located (pueblodecochiti.org did not answer).",
-    "The statute link in treaties.json (ops.libs.uga.edu) was not used; the Act was read on govinfo."
+    "The statute link in treaties.json (ops.libs.uga.edu) was not used; the Act was read on govinfo.",
+    "Audit 2026-11-08: the scan of Finding 16 is damaged at the first Board award and at the Senate committee's 1932 recommendation ($36,88_); neither is recorded as a figure.",
+    "Audit 2026-11-08: the government-admission breach resting on the Act of May 31, 1933 was removed and the 1933 sum kept in compensation. Pueblo ruling (coordinator, 2026-11-08): the Act of May 31, 1933 (48 Stat. 108) is not a finding or a government admission. It has no findings or preamble; section 2 pays sums 'in addition to' the Board's awards, by pueblo, not by grant, and its 'liability of the United States ... as declared by the Act of June 7, 1924' wording covers every pueblo it names. The Indian Claims Commission held there was no Fifth Amendment taking because Congress, as trustee, paid full market value (Pueblo of Taos, Docket 357-A, 24 Ind. Cl. Comm. 414, February 10, 1971; San Ildefonso et al., Docket 354, 39 Ind. Cl. Comm. 34, September 16, 1976, both opened). The remaining act-of-congress breach stands because a separate source ties the loss to this grant: ICC Docket 136, Finding 16 (OSU id 534; the file had cited id 419, which is the Final Order) recites the Board's finding that Cochiti held 'no lands other than the (Cochiti) Pueblo Grant' and its findings and award for claims extinguished within the Cochiti Grant. The Board's own report was not opened; it is read through the Commission's findings."
   ],
-  "today": "The grant remains the Pueblo's land base. Land and water inside it that passed to non-Indians under the 1924 Act was compensated, not returned; the 1933 Act directed the money to replacement land, water and improvements. A separate Indian Claims Commission claim (Docket 136) for about 13,000 acres east of the grant, expressly not for the grant itself, was dismissed on March 27, 1959: the Commission held the Pueblo had not established its claim.",
+  "today": "The grant remains the Pueblo's land base. Land and water inside it that passed to non-Indians under the 1924 Act was compensated, not returned; the 1933 Act directed the money to replacement land, water and improvements. A separate Indian Claims Commission claim (Docket 136) for about 13,000 acres east of the grant, expressly not for the grant itself, was dismissed on March 27, 1959: the Commission held the Pueblo had not established its claim. The Indian Claims Commission later held, in cases brought by other pueblos, that the Pueblo Lands Act compensation was not a Fifth Amendment taking because Congress, acting as trustee, paid full market value (Taos, 1971; San Ildefonso and others, 1976); no such ruling for Cochiti was found.",
   "plain": {
     "promised": "In 1858 Congress confirmed the Pueblo of Cochiti's land grant and later issued a patent, giving up only the United States' own claim to it.",
-    "happened": "Under the Pueblo Lands Act of 1924, land held by non-Indians inside the Pueblo's lands was confirmed to them. In 1933 Congress named the Pueblo and authorized $37,826.37 more than the Pueblo Lands Board had awarded.",
-    "today": "The land that passed to non-Indians was not returned; the 1933 money was for replacement land, water and improvements."
+    "happened": "Under the Pueblo Lands Act of 1924, land held by non-Indians inside the Cochiti grant was confirmed to them. The Pueblo Lands Board found claims extinguished within the grant and awarded the Pueblo compensation, as the Indian Claims Commission records.",
+    "today": "The land was not returned. Congress added $37,826.37 in 1933, for a total of $58,258.55 for losses within the grant, to be spent on replacement land, water and improvements."
   },
   "id": "cession-1886-10-01-cochiti-pueblo",
   "researchedAt": "2026-11-08",

@@ -1,0 +1,18 @@
+{
+  "id": "cession-1892-07-13-coeur-d-al-ne",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce schedule pp. 944-949 read in the Internet Archive full text of annualreportofbu218smit: July 13, 1892 Act directing restoration, on the Indians' consent, of the tract from the river crossing east half a mile, south half a mile, west to the lake; 'See 552', too small to map.",
+    "27 Stat. 120, 124 (govinfo PDF, 'Coeur d'Alenes' paragraph): consent clause, 320 acres more or less, $5 an acre into the Treasury for the Indians, townsite entry only, settlers already there may buy lots at $5 an acre.",
+    "Idaho v. United States, 533 U.S. 262 (2001): describes the 1894 Harrison cession (28 Stat. 322) as compensated to the Tribe and no one else; does not mention the 1892 Act.",
+    "ICC full-text 'Coeur Harrison': 0 decisions. Court of Claims case names, all 231 volumes: no Coeur d'Alene case."
+  ],
+  "changes": [
+    "'today' no longer says the 1894 cession 'succeeded this provision' (not in Idaho v. United States).",
+    "openQuestion added on the settlers' purchase proviso and the searches run."
+  ],
+  "unverifiable": [
+    "Whether the tribe consented under this Act or the 1894 agreement replaced it (already in openQuestions)."
+  ]
+}

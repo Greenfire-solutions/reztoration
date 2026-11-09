@@ -1,0 +1,20 @@
+{
+  "id": "cession-1882-07-10-crow",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "22 Stat. 157-160 opened: ch. 284, July 10, 1882; agreement of Aug. 22, 1881; strip up to 400 feet, 5,384 acres; parcels A to K; total 5,650 acres; $25,000; trespass and timber clause; existing treaties in force; sec. 3 company to repay $25,000 within sixty days and pay damages. Matches.",
+    "Royce 1899 schedule (Internet Archive OCR of annualreportofbu218smit) pp. 908-909: ratifies agreement of Aug. 22, 1881; remark says the right of way is 'neither colored nor numbered on the map'.",
+    "81 Ct. Cl. 238 opened: '5,650 acres ... in consideration of $25,000 (22 Stat. 157)'; no taking; dismissed.",
+    "ICC full text 'Crow Northern Pacific 1881': no decision on this agreement (Docket 54 concerns the 1868 cession)."
+  ],
+  "changes": [
+    "landTaken: removed the claim that the cession is Royce area 635; Royce says it is unnumbered and 635 marks the remnant reservation. Added the 5,384-acre strip figure from the agreement."
+  ],
+  "unverifiable": [
+    "Crow Tribe's own account not searched."
+  ],
+  "treatiesJsonErrors": [
+    "cessions: [\"635\"] assigns Royce area 635 to this cession, so the map draws the polygon for the remnant Crow reservation (still held under the 1868 treaty) as land ceded in 1882. Royce p. 909 says the 1881 right of way is neither colored nor numbered; this record should have no cession polygon. Not edited."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cession-1891-02-13-sauk-and-fox-of-the-mississippi",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "26 Stat. 749 (govinfo page image): ch. 165, February 13, 1891, ratifying the agreement of June 12, 1890",
+    "167 Ct. Cl. 710 (October 16, 1964): 548 allotments, 391,188.05 acres, $1.23 an acre, at least $3.00; quoted duress sentence exact",
+    "Docket 220 opinion 1967 (item 1668): revaluation at $3.00, unconscionable",
+    "Docket 220 findings 1962 (item 631) and opinion (item 815): $485,000 agreed, $481,000 paid",
+    "Docket 220 order of February 14, 1967 (item 934): $1,173,564.15 value, final award $692,564.15",
+    "Royce p. 939 to 940: 'See 495'"
+  ],
+  "changes": [
+    "Added the final award of $692,564.15 and the paid figure of $481,000 to compensation and plain; removed the open question saying the final figure was not found"
+  ],
+  "unverifiable": [
+    "Sac and Fox Nation account not searched"
+  ]
+}

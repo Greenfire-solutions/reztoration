@@ -1,0 +1,74 @@
+{
+  "id": "cession-1875-04-23-apache",
+  "name": "Executive order of April 23, 1875 revoking the Camp Verde reserve and restoring it to the public domain",
+  "aka": [
+    "Camp Verde reservation",
+    "Royce area 582"
+  ],
+  "signed": "1875-04-23",
+  "citation": "Executive order of April 23, 1875",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/880/mode/2up",
+  "nations": [
+    "Yavapai-Apache Nation (Yavapai and Dilzhe'e Apache)",
+    "Tonto Apache Tribe",
+    "Northern Tonto Apache (as named in Docket 22-J)"
+  ],
+  "promises": [
+    "Not a treaty: a presidential order. It revoked all orders setting apart the Camp Verde reserve and restored it to the public domain (Royce p. 880; area 582, see the order of November 9, 1871)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1969-06-27",
+      "what": "The Indian Claims Commission held that the United States took the remaining Northern Tonto aboriginal title lands on April 23, 1875, when the Camp Verde reservation was restored to the public domain by executive order, without the payment of any compensation.",
+      "whoFoundIt": "Indian Claims Commission, Northern Tonto Apache et al. v. United States, Docket 22-J, Opinion of the Commission (21 Ind. Cl. Comm. 223)",
+      "source": {
+        "title": "Northern Tonto Apache et al. v. United States, Docket 22-J, Opinion of the Commission, June 27, 1969, 21 Ind. Cl. Comm. 223",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1516",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      },
+      "quote": "by restoring the Camp Verde Reservation to the public domain the United States wrongfully took"
+    }
+  ],
+  "landTaken": "Royce area 582, the Camp Verde reserve. The Commission valued the remaining Northern Tonto aboriginal lands as of April 23, 1875; the acreage was not read here.",
+  "compensation": "The Northern Tonto claim (Docket 22-J) was compromised for $685,800, entered September 12, 1972 (as recorded on cession-1871-11-09-apache).",
+  "today": "The Yavapai-Apache Nation marks Exodus Day each year for the 1875 removal from the Verde Valley (as recorded on cession-1871-11-09-apache).",
+  "nationVoice": [
+    {
+      "nation": "Yavapai-Apache Nation",
+      "summary": "The Nation holds Exodus Day each year to remember the forced removal of the Yavapai and Apache from the Verde Valley in 1875.",
+      "url": "https://ictnews.org/archive/exodus-day-commemorates-removal-restoration-of-two-people/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 880-881, executive order of April 23, 1875",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/880/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Northern Tonto Apache et al. v. United States, Docket 22-J, Opinion of the Commission, June 27, 1969, 21 Ind. Cl. Comm. 223",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1516",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Exodus Day commemorates removal, restoration of two people",
+      "url": "https://ictnews.org/archive/exodus-day-commemorates-removal-restoration-of-two-people/",
+      "publisher": "ICT (Indian Country Today)"
+    }
+  ],
+  "openQuestions": [
+    "Area 582 is also mapped on cession-1871-11-09-apache, whose breaches already carry the Docket 22-J finding about the April 23, 1875 restoration; it is counted once there, so sameEventAs points at that record.",
+    "The $685,800 settlement figure was taken from cession-1871-11-09-apache, where it was opened and audited; it was not reopened in this pass. The ICT Exodus Day article was reopened on 2026-11-08.",
+    "treaties.json lists no presentDayTribes for this record. Not edited."
+  ],
+  "plain": {
+    "promised": "Not a treaty: a presidential order. It cancelled the Camp Verde reserve and returned it to the public domain.",
+    "happened": "The Indian Claims Commission found in 1969 that by restoring Camp Verde to the public domain the United States took the remaining Northern Tonto lands without any payment.",
+    "today": "Counted once with the 1871 reservation orders. The Northern Tonto claim was settled for $685,800 in 1972; the Yavapai-Apache Nation marks Exodus Day for the 1875 removal."
+  },
+  "sameEventAs": "cession-1871-11-09-apache",
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

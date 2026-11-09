@@ -1,0 +1,16 @@
+{
+  "id": "cession-1884-07-04-nez-perc-moses-band",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "23 Stat. 76 opened on govinfo: ch. 180, Indian appropriation act approved July 4, 1884; 'Columbias and Colvilles' paragraph accepts, ratifies and confirms the agreement of July 7, 1883.",
+    "Royce 1899 schedule (Internet Archive OCR of annualreportofbu218smit) p. 916: ratifies agreement of July 7, 1883 for relinquishment of remainder of Columbia reserve with certain exceptions. Matches.",
+    "ICC 1967 Colville compromise (id 2196) opened: net $3,500,000.00, no finding of liability. Matches.",
+    "sameEventAs kappler-1081 kept."
+  ],
+  "changes": [
+    "citation: added chapter 180. Removed the open question saying the Act was not opened; replaced with what the Act says."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "cession-1892-11-19-navaho",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce schedule pp. 944-949 read in the Internet Archive full text of annualreportofbu218smit: Nov 19, 1892 order modifying the May 17, 1884 order so its lands west of 110 degrees in Utah are restored to the public domain; 'See 655', Utah 2.",
+    "ICC full text 'Navajo November 19, 1892' (3 hits, Pueblo dockets) and 'Navajo May 17, 1884' (8 hits) and 'Navajo Paiute Strip' (0): none on this order.",
+    "Docket 229, 23 Ind. Cl. Comm. 244, finding 17 (pointer 1235): Navajo aboriginal title as of July 25, 1868 within a boundary running through Navajo Mountain to the Colorado; date of taking 1868, not 1892.",
+    "Navajo Court of Claims opinions 176 Ct. Cl. 502 through 231 Ct. Cl. 1057 (12 opened): no mention of the 1884 or 1892 orders or the Paiute Strip."
+  ],
+  "changes": [
+    "openQuestion added recording the Docket 229 1868 valuation date and the Court of Claims scan; status unchanged (Jordan's executive-order rule)."
+  ],
+  "unverifiable": [
+    "The 1884 and 1892 executive orders themselves were not opened (UGA links); the order is described from Royce."
+  ]
+}

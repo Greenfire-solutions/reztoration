@@ -23,7 +23,7 @@
       "kind": "act-of-congress",
       "date": "1930",
       "what": "Acting under the Pueblo Lands Act, the Pueblo Lands Board determined that title to all of the lands within the exterior boundaries of the Pecos grant was extinguished, in favour of 339 non-Indian claims covering the whole grant.",
-      "whoFoundIt": "Pueblo Lands Board, Reports No. 1 and No. 2 on Pecos (1930), set out in Indian Claims Commission Findings 6 and 7, Docket 174",
+      "whoFoundIt": "Act of June 7, 1924, 43 Stat. 636; Pueblo Lands Board, Reports No. 1 and No. 2 on Pecos (1930), set out in Indian Claims Commission Findings 6 and 7, Docket 174",
       "source": {
         "title": "Pueblo de Pecos, Pueblo de Jemez, and Pueblo de Jemez acting for Pueblo de Pecos v. United States, Docket 174, Findings of Fact, 8 Ind. Cl. Comm. 195 (December 11, 1959)",
         "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/463",
@@ -33,7 +33,7 @@
     {
       "kind": "government-admission",
       "date": "1930",
-      "what": "The Board found, under Section 6 of the 1924 Act, a loss to the Pecos through the United States' failure seasonably to prosecute their rights, and set the award at $1.50 an acre. It also noted that the government had taken no action for some ten years after the Pecos asked for help recovering their land, and that the Pecos had not received an adequate sum.",
+      "what": "The Board found, under section 6 of the 1924 Act, a loss to the Pecos through the United States' failure seasonably to prosecute their rights, and set the award at $1.50 an acre. It noted that no action was taken for some ten years after the Pecos asked for help with their land, and that they had not received an adequate sum from their own sales of it.",
       "whoFoundIt": "Pueblo Lands Board, Report No. 2 on Pecos (1930), set out in Indian Claims Commission Finding 7, Docket 174",
       "source": {
         "title": "Pueblo de Pecos, Pueblo de Jemez, and Pueblo de Jemez acting for Pueblo de Pecos v. United States, Docket 174, Findings of Fact, 8 Ind. Cl. Comm. 195 (December 11, 1959)",
@@ -44,7 +44,7 @@
   ],
   "landTaken": "The whole Pecos grant: the Board extinguished title to all lands within its exterior boundaries (Indian Claims Commission Findings 6 and 7).",
   "compensation": "$1.50 an acre, which the Indian Claims Commission gives as $28,145 for the 18,763.33-acre grant, paid in 1931. The Commission records that Congress gave additional compensation to certain pueblos after investigating the Board's awards but did not increase the Pecos award; Pecos is not named in the Act of May 31, 1933.",
-  "today": "The Pecos people resettled at Jemez in 1838, and an Act of 1936 (49 Stat. 1528) merged the Pueblos of Jemez and Pecos. Their claim for the difference between the Board's award and fair value was rejected by the Indian Claims Commission on December 11, 1959 as res judicata, because no appeal was taken from the Board's award; the Court of Claims affirmed on March 10, 1961 (152 Ct. Cl. 865) and the Supreme Court denied review. No land was returned.",
+  "today": "The Pecos people resettled at Jemez in 1838, and an Act of 1936 (49 Stat. 1528) merged the Pueblos of Jemez and Pecos. Their claim for the difference between the Board's award and fair value was rejected by the Indian Claims Commission on December 11, 1959 as res judicata, because no appeal was taken from the Board's award, and held there had been no taking; the Court of Claims affirmed on March 10, 1961 (152 Ct. Cl. 865) and the Supreme Court denied review. No land was returned.",
   "nationVoice": [
     {
       "nation": "Pueblo of Jemez",
@@ -101,7 +101,8 @@
     "The Court of Claims summary gives the certiorari citation as '868 U.S. 821', an evident scan error (likely 368 U.S. 821); not used.",
     "The ICC opinion gives the 1936 merger Act's day as 'June 16' in a damaged scan; only the year and 49 Stat. 1528 are used.",
     "This Pecos grant record is separate land from the Jemez grant (cession-1886-10-01-jemez-pueblo); not marked sameEventAs.",
-    "The statute link in treaties.json (ops.libs.uga.edu) was not used; the Act was read on govinfo."
+    "The statute link in treaties.json (ops.libs.uga.edu) was not used; the Act was read on govinfo.",
+    "Audit 2026-11-08 (round 14): the Board's remark that the Pecos \"had not received an adequate sum\" was about the money they got from their own sales of grant land, not about the Board's award; the breach text now says so. The Act of 1924 added to the first breach's citation. The Court of Claims summary (152 Ct. Cl. 865) records that the Commission also held there had been no taking; added to today."
   ],
   "plain": {
     "promised": "In 1858 Congress confirmed the Pecos people's grant, and an 1864 patent covered 18,763.33 acres, giving up only the United States' own claim.",

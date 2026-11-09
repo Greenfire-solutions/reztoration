@@ -1,0 +1,86 @@
+{
+  "id": "cession-1882-12-12-papago-and-others",
+  "name": "Executive order of December 12, 1882 establishing the Gila Bend Reserve for the Papago (Tohono O'odham) and other Indians",
+  "aka": [
+    "Gila Bend Reserve",
+    "San Lucy District"
+  ],
+  "signed": "1882-12-12",
+  "citation": "Executive order of December 12, 1882 (1 Kappler 804; Royce area 639)",
+  "textUrl": "https://www.presidency.ucsb.edu/documents/executive-order-establishment-gila-bend-reserve",
+  "nations": [
+    "Tohono O'odham Nation (Papago), San Lucy District"
+  ],
+  "promises": [
+    "Not a treaty: a presidential order. It withdrew from sale and settlement Township 5 South, Range 5 West, Gila and Salt River meridian, except section 18, and set it apart for the Papago and other Indians settled there (Kappler p. 804; Royce p. 908, area 639)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "government-admission",
+      "date": "2011-10-04",
+      "what": "Interior testified that the Bureau of Indian Affairs and the Army Corps of Engineers assured the Nation that the Painted Rock Dam, completed in 1960, would not impair farming on the reservation, but that the dam flooded nearly 9,880 acres of it, making them unusable, and destroyed a 750-acre tribal farm.",
+      "whoFoundIt": "US Department of the Interior, testimony of Paula L. Hart on H.R. 2938 (October 4, 2011)",
+      "source": {
+        "title": "Testimony of Paula L. Hart, Director, Office of Indian Gaming, US Department of the Interior, on H.R. 2938, House Subcommittee on Indian and Alaska Native Affairs (October 4, 2011)",
+        "url": "https://naturalresources.house.gov/UploadedFiles/HartTestimony10.04.11.pdf",
+        "publisher": "US House Committee on Natural Resources"
+      },
+      "quote": "Both the Bureau of Indian Affairs (BIA) and the Corps assured the Nation that flooding would not impair agricultural use"
+    }
+  ],
+  "landTaken": "Nearly 9,880 acres of the San Lucy District (Gila Bend Reservation) flooded by the Painted Rock Dam (Interior testimony, 2011). The reservation was also reduced by an executive order of June 17, 1909 (Docket 345 finding); that reduction is not a breach by itself.",
+  "compensation": "Under the Gila Bend Indian Reservation Lands Replacement Act of October 20, 1986, the United States would pay the Tohono O'odham Nation $30,000,000 if it assigned its interest in 9,880 acres of the reservation and waived all claims of injury to the reservation's land and water; the Nation may buy replacement land to be held in trust (Public Law 99-503, sections 4, 6 and 9).",
+  "today": "Interior described the 1986 Act as intended to remedy the flooding damage and as terms both the United States and the Nation agreed to (testimony, 2011). In the Papago land claim (Docket 345) the Indian Claims Commission excluded the Gila Bend Reservation from the claim and found no exclusive Papago aboriginal use of the Gila Bend river area (1968).",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Chester A. Arthur, Executive Order: Establishment of Gila Bend Reserve, December 12, 1882 (from Kappler, Indian Affairs: Laws and Treaties, vol. 1, p. 804)",
+      "url": "https://www.presidency.ucsb.edu/documents/executive-order-establishment-gila-bend-reserve",
+      "publisher": "The American Presidency Project, UC Santa Barbara"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 908, executive order of December 12, 1882",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/908/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 909, area 639",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/909/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Testimony of Paula L. Hart, Director, Office of Indian Gaming, US Department of the Interior, on H.R. 2938, House Subcommittee on Indian and Alaska Native Affairs (October 4, 2011)",
+      "url": "https://naturalresources.house.gov/UploadedFiles/HartTestimony10.04.11.pdf",
+      "publisher": "US House Committee on Natural Resources"
+    },
+    {
+      "title": "Gila Bend Indian Reservation Lands Replacement Act, Public Law 99-503 (October 20, 1986), 100 Stat. 1798",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-100/pdf/STATUTE-100-Pg1798.pdf",
+      "publisher": "US Government Publishing Office"
+    },
+    {
+      "title": "Papago Tribe of Arizona v. United States, Docket 345, Findings of Fact (September 10, 1968), 19 Ind. Cl. Comm. 394",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2539",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Papago Tribe of Arizona v. United States, Docket 345, Opinion of the Commission (September 10, 1968), 19 Ind. Cl. Comm. 394",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2544",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "The breach rests on a government admission about federal flooding of this reservation land, not on a court or Commission finding; the 1986 Act itself does not mention flooding. Jordan may want to rule on whether damage by a federal dam counts as a breach of an executive-order reservation.",
+    "The June 17, 1909 order that reduced the reservation was not opened; the acreage it removed is uncertain.",
+    "The Tohono O'odham Nation's own account of San Lucy and the flooding was not found on its website.",
+    "treaties.json error: presentDayTribes is empty for this record; the Tohono O'odham Nation of Arizona should be listed. Not edited."
+  ],
+  "plain": {
+    "promised": "Not a treaty. An 1882 presidential order set apart a township near Gila Bend, Arizona, for the Papago (Tohono O'odham) and other Indians living there.",
+    "happened": "Interior says federal agencies assured the Nation the Painted Rock Dam would not harm its farmland, yet from 1960 the dam flooded nearly 9,880 acres, making them unusable.",
+    "today": "A 1986 Act offered $30,000,000 and replacement trust land in exchange for those acres and a waiver of claims."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

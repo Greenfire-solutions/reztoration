@@ -1,0 +1,21 @@
+{
+  "id": "cession-1893-03-03-pawnee",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce schedule pp. 944-949 read in the Internet Archive full text of annualreportofbu218smit: Pawnee row confirms agreement of Nov 23, 1892 (Cimarron-Arkansas tract), 'See 591'.",
+    "27 Stat. 644 sec. 12-13 (govinfo PDF): $80,000, residue at 5 percent, agreement ratified; lands declared public domain.",
+    "Docket 10, 1 Ind. Cl. Comm. 245 (July 14, 1950, pointer 91): Claim VI 88.43 acres sold to the town of Pawnee under the Act of Mar 1, 1907 for $110.55, paid about Mar 17, 1921, interest from 1893 owed, $155.00; Claim VII 25.54 acres patented June 3, 1920 to the Home Mission Board, $31.90 with interest.",
+    "Docket 10 Final Award (July 6, 1962, pointer 293): Claim VI $155.00, Claim VII $31.90 plus interest; total $7,315,985.70 after $10,000 offsets.",
+    "Pawnee Tribe v. United States, 56 Ct. Cl. 1 (Dec 6, 1920, static.case.law head matter): finding VII, 171,088.37 surplus acres less 755 reserved, 170,333.37 at $1.25 = $212,916.71, $80,000 paid, $132,916.71 and interest from Mar 3, 1893 unpaid; 'A just claim is thus presented'."
+  ],
+  "changes": [
+    "Added a court-ruling breach for 56 Ct. Cl. 1 (1920): balance of $132,916.71 and all interest unpaid 27 years after ratification; source added.",
+    "compensation cites 56 Ct. Cl. 1 (the researcher's '54 Ct. Cl. 1', from the ICC scan, was not findable).",
+    "Removed the openQuestion that the Court of Claims report could not be found; added one on the interest discrepancy and whether Congress paid.",
+    "plain.happened rewritten to lead with the 1920 finding."
+  ],
+  "unverifiable": [
+    "When Congress paid the $132,916.71, if it did: not traced."
+  ]
+}

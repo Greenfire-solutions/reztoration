@@ -1,0 +1,108 @@
+{
+  "id": "cession-1883-01-04-walapai",
+  "name": "Executive order of January 4, 1883 setting apart the Hualapai (Walapai) reservation",
+  "aka": [
+    "Hualapai Reservation order"
+  ],
+  "signed": "1883-01-04",
+  "citation": "Executive order of January 4, 1883 (Royce area 641)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/910/mode/2up",
+  "nations": [
+    "Hualapai Tribe (Walapai)"
+  ],
+  "promises": [
+    "Not a treaty: a presidential order. It set apart for the Hualapai a reserve beginning on the Colorado River five miles east of Tinnakah Spring and running by Music Mountains back to the river, at least 2 miles south of Peach Spring and 2 miles east of Pine Spring (Royce p. 910; Commission finding 16).",
+    "Royce notes General Willcox had set the tract apart as a military reservation on July 8, 1881 and the Commissioner of Indian Affairs recommended it become an Indian reserve on September 5, 1882 (Royce p. 911)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1962-11-19",
+      "what": "The Commission found that the Hualapai's Indian title to their aboriginal land outside this reservation was extinguished by the United States on January 4, 1883, when this order set the reservation aside and the tribe accepted it, and that it was extinguished without payment of compensation.",
+      "whoFoundIt": "Indian Claims Commission, Hualapai Tribe v. United States, Docket 90, Finding of Fact 18 and Interlocutory Order (11 Ind. Cl. Comm. 447)",
+      "source": {
+        "title": "Hualapai Tribe v. United States, Docket 90, Findings of Fact (November 19, 1962), 11 Ind. Cl. Comm. 447",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/909",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      },
+      "quote": "was extinguished by the United States without payment of compensation therefor to the Hualapai Tribe"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1966-12-21",
+      "what": "The Commission found the Hualapai aboriginal land comprised 4,459,500 acres worth $2,800,000 on January 4, 1883, acquired by the United States without payment, and awarded that sum less offsets.",
+      "whoFoundIt": "Indian Claims Commission, Docket 90, Second Interlocutory Order (17 Ind. Cl. Comm. 536)",
+      "source": {
+        "title": "Hualapai Tribe v. United States, Docket 90, Second Interlocutory Order (December 21, 1966)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1550",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1968-06-18",
+      "what": "Dockets 90 and 122 were consolidated and settled by a stipulated final judgment of $2,950,000, approved as a compromise.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 90 and 122, Final Judgment (19 Ind. Cl. Comm. 179)",
+      "source": {
+        "title": "Hualapai Tribe v. United States, Dockets 90 and 122, Final Judgment (June 18, 1968)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1217",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    }
+  ],
+  "landTaken": "The Hualapai aboriginal land outside the reservation; the Commission found the aboriginal holding comprised 4,459,500 acres (Second Interlocutory Order, 1966).",
+  "compensation": "$2,950,000 by stipulated final judgment of June 18, 1968 (Dockets 90 and 122), a compromise. The Commission had valued the land at $2,800,000 as of January 4, 1883.",
+  "today": "In United States v. Santa Fe Pacific Railroad Co. (December 8, 1941) the Supreme Court held that the creation of this reservation at the Walapai's request and their acceptance of it amounted to a relinquishment of their claims to land outside it, while rejecting the railroad's argument that earlier events had extinguished their title. That ruling went against the tribe on the outside lands and is not counted as a breach; the Commission later held the United States liable for their value.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 910, executive order of January 4, 1883",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/910/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 911, remarks and area 641",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/911/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Hualapai Tribe v. United States, Docket 90, Findings of Fact (November 19, 1962), 11 Ind. Cl. Comm. 447",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/909",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Hualapai Tribe v. United States, Docket 90, Interlocutory Order (November 19, 1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/851",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Hualapai Tribe v. United States, Docket 90, Second Interlocutory Order (December 21, 1966)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1550",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Hualapai Tribe v. United States, Dockets 90 and 122, Final Judgment (June 18, 1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1217",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "United States v. Santa Fe Pacific Railroad Co., 314 U.S. 339 (1941)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/314/339",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    }
+  ],
+  "openQuestions": [
+    "The land found taken lies outside this order's reservation (Royce area 641, which was kept). The order is the act the Commission dated the taking by, as with cession-1884-01-09-yuma and cession-1883-11-15-maricopa-pima.",
+    "The Hualapai Tribe's own history (including the 1874 removal to La Paz) was not found on its website in a form that loads; nationVoice is empty.",
+    "Docket 122 (the second Hualapai claim settled in 1968) was not researched.",
+    "treaties.json error: presentDayTribes is empty for this record; the Hualapai Indian Tribe of the Hualapai Indian Reservation should be listed. Not edited."
+  ],
+  "plain": {
+    "promised": "Not a treaty. An 1883 presidential order set apart a reservation along the Colorado River for the Hualapai, at the tribe's request.",
+    "happened": "The Indian Claims Commission found that with this order the United States took the rest of the Hualapai's 4,459,500-acre homeland without paying for it.",
+    "today": "The Commission valued the land at $2,800,000; the claims were settled for $2,950,000 in 1968."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

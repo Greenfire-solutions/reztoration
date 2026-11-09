@@ -1,0 +1,16 @@
+{
+  "id": "cession-1886-10-01-acoma-pueblo",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive OCR of annualreportofbu218smit) pp. 920-921: Acoma Pueblo, Spanish grant 1689, confirmed Dec. 22, 1858, 95,792 acres, area 663. Matches.",
+    "11 Stat. 374 relied on as cited (opened in Cochiti/Isleta checks; the Act confirms the Surveyor General's favourable pueblo reports).",
+    "ICC Docket 266 findings (id 1149) opened: patent Nov. 19, 1877, 95,791.66 acres; Cubero conflict 283.24 acres not affecting Acoma title; Board report Oct. 5, 1929, grant 94,169 acres. Final judgment (id 2401) $6,107,157.00 on stipulation, June 17, 1970. Matches.",
+    "Act of May 31, 1933 opened: Acoma is not in section 2 or section 3."
+  ],
+  "changes": [
+    "today: reworded the 1967 holding to the opinion's terms (liable for loss through failure to protect Acoma's rights) and added the opinion (id 2571) as a source."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "cession-1886-10-01-pecos-pueblo",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Indian Claims Commission Findings of Fact, Docket 174, 8 Ind. Cl. Comm. 195 (December 11, 1959), Findings 6-9, read: 339 adverse claims; title to all lands within the exterior boundaries of the Pecos grant extinguished; $1.50 an acre; loss through the United States' failure seasonably to prosecute; about ten years without action; inadequate sums from the Indians' own sales; Congress did not increase the Pecos award; res judicata.",
+    "Grant of 18,763.33 acres matches Royce (scan) and the Commission; the award figure is legible only as $28,1x5 in the scan, consistent with $1.50 times 18,763.33 (the file already says so).",
+    "Pueblo de Pecos, 152 Ct. Cl. 865 (March 10, 1961), on static.case.law: affirmed; the summary says the Commission also held no taking; certiorari \"868 U.S. 821\" as printed.",
+    "Pecos is not named in the Act of May 31, 1933."
+  ],
+  "changes": [
+    "Second breach reworded: the \"adequate sum\" remark concerns the Pecos' own sales.",
+    "First breach citation now names the 1924 Act.",
+    "today adds the Commission's no-taking holding."
+  ],
+  "unverifiable": [
+    "The Board report itself (August 1930) was read only as set out in the Commission's findings; its day is unreadable."
+  ],
+  "treatiesJsonErrors": [
+    "Date 1886-10-01 is Royce's schedule heading, not an event; land kept, not a cession."
+  ]
+}
