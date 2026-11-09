@@ -2738,5 +2738,31 @@
   "note": "Royce p. 916 names no tribe: the order sets apart the Chilocco reserve 'for Indians educated at Chilocco Indian Industrial School'. The land was in the Cherokee Outlet (findings name the Cherokee Nation as the nation whose land it was), but Royce does not, so presentDayTribes is left empty on purpose.",
   "why": "Note only, no data field changed. Royce p. 916 (page scan checked; the Tribe column is blank): 1884 July 12, Executive order: 'President sets apart Chilocco reserve in Indian Territory for Indians educated at Chilocco Indian Industrial School, as follows: Secs. 13, 14, 15, 16 ... in T. 29 N., R. 2 E., of the Indian meridian.'",
   "source": "https://archive.org/stream/annualreportofbu218smit#page/916/mode/2up"
+ },
+ "cession-1891-02-13-iowa": {
+  "splitFrom": "cession-1883-08-15-iowa",
+  "name": "Agreement with the Iowa of May 20, 1890, ratified by the Act of February 13, 1891",
+  "date": "1891-02-13",
+  "royce": [
+   "https://archive.org/stream/annualreportofbu218smit#page/912/mode/2up"
+  ],
+  "cessions": [
+   "649"
+  ],
+  "scheduleTribes": [
+   "Iowa"
+  ],
+  "presentDayTribes": [
+   "Iowa Tribe of Oklahoma"
+  ],
+  "statute": [
+   "https://www.govinfo.gov/content/pkg/STATUTE-26/pdf/STATUTE-26-Pg749.pdf"
+  ],
+  "states": [
+   "OK"
+  ],
+  "note": "Royce has no row for this cession: his schedule for Feb. 13, 1891 (pp. 938 and 940, page scans checked) lists only the Sauk and Fox agreement under Stat. L. XXVI, 749, and there is no 'See 649' entry. The area is 649 because Article I of the Iowa agreement cedes the reservation by the same boundary Royce gives for 649 (p. 912). Each member kept an 80-acre allotment (Article II), so what passed to the United States was the residue of 649, not all of it.",
+  "why": "Act of February 13, 1891, ch. 165, 26 Stat. 749, ratifies both the Sac and Fox agreement of June 12, 1890 and the Iowa agreement of May 20, 1890 (Iowa text at 26 Stat. 753-758, page scans checked). Iowa Article I: the Iowa 'surrender and relinquish to the United States all their right, title, claim and interest' in the tract running from where the Deep Fork of the Canadian meets the west boundary of the Sac and Fox Reservation, north to the Cimarron, up it to the Indian Meridian, south to the Deep Fork and down it, set apart by Executive Order of Aug. 15, 1883: Royce 649. Royce lists no Iowa cession of 1890 or 1891 and the USFS layer has none, so the cession had no record.",
+  "source": "https://www.govinfo.gov/content/pkg/STATUTE-26/pdf/STATUTE-26-Pg749.pdf"
  }
 }

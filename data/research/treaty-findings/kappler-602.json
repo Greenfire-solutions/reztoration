@@ -38,6 +38,18 @@
       }
     },
     {
+      "kind": "court-ruling",
+      "date": "1933-04-10",
+      "what": "The Court of Claims held that the land this treaty set out as the Assiniboine's territory (about 6,477,940 acres between the Missouri and the Yellowstone) was all taken by the United States: about 163,125 acres by the Fort Buford military reservation order of 1868, about 5,865,990 acres by the executive order of April 13, 1875 adding it to the Blackfeet, Gros Ventre and Crow reservation; part of that was restored to the public domain by the order of July 1880, and the remainder south of the forty-seventh parallel was surveyed about 1882 and opened to settlement or given to the Northern Pacific Railroad. It valued the land at no more than $3,238,970 and dismissed the claim only because the government's set-offs, $4,227,474.56, were larger.",
+      "whoFoundIt": "Court of Claims, Assiniboine Indian Tribe v. United States, 77 Ct. Cl. 347 (No. J-31, decided April 10, 1933; findings amended December 4, 1933)",
+      "source": {
+        "title": "Assiniboine Indian Tribe v. United States, 77 Ct. Cl. 347 (1933)",
+        "url": "https://static.case.law/us-ct-cl/77/cases/0347-01.json",
+        "publisher": "Caselaw Access Project (Harvard Law School Library)"
+      },
+      "quote": "There is no question but what the lands granted the plaintiff tribe by the Treaty of Fort Laramie were taken over by the Government"
+    },
+    {
       "kind": "executive-action",
       "date": "1880-07-13",
       "what": "After an executive order of April 12, 1870 set aside a reservation for the three tribes, the executive order of July 13, 1880 restored Royce Area 620, part of their 1851 territory, to the public domain. The Commission notes that the 1866 agreement with the tribes was never ratified by the Senate.",
@@ -70,8 +82,8 @@
       }
     }
   ],
-  "landTaken": "For the Three Affiliated Tribes (Mandan, Hidatsa and Arikara): 9,846,186.93 acres of their 1851 territory, for which the Court of Claims awarded compensation in 1930 (as recorded by the Indian Claims Commission, 1955, and Public Law 96-404). Not settled here for the other signatory nations.",
-  "compensation": "Court of Claims judgment of $4,923,093.47 for the Three Affiliated Tribes' 1851 territory (71 Ct. Cl. 308, 1930), about 50 cents an acre; the Indian Claims Commission recorded in 1955 that the United States had paid it at the land's value when taken, with no interest for the delay. The Commission held the interest claim barred as already decided. Congress in 1980 (Public Law 96-404) let the tribes sue again for damages for that delay; the outcome of that suit was not located.",
+  "landTaken": "For the Three Affiliated Tribes (Mandan, Hidatsa and Arikara): 9,846,186.93 acres of their 1851 territory, for which the Court of Claims awarded compensation in 1930 (as recorded by the Indian Claims Commission, 1955, and Public Law 96-404). For the Assiniboine: all of their 1851 territory, about 6,477,940 acres, which the Court of Claims held in 1933 the United States had taken (77 Ct. Cl. 347). Not settled here for the other signatory nations.",
+  "compensation": "Court of Claims judgment of $4,923,093.47 for the Three Affiliated Tribes' 1851 territory (71 Ct. Cl. 308, 1930), about 50 cents an acre; the Indian Claims Commission recorded in 1955 that the United States had paid it at the land's value when taken, with no interest for the delay. The Commission held the interest claim barred as already decided. Congress in 1980 (Public Law 96-404) let the tribes sue again for damages for that delay; the outcome of that suit was not located. For the Assiniboine, the Court of Claims in 1933 valued their taken 1851 territory at no more than 50 cents an acre, $3,238,970, and awarded nothing because it set off $4,227,474.56 the government had paid or spent for the tribe, including payments under the act of May 1, 1888 (77 Ct. Cl. 347).",
   "today": "Not researched. The Oglala Sioux Tribe and Standing Rock Sioux Tribe asked in 2023 for nation-to-nation consultation with the 1851 and 1868 treaty signatory tribes (see kappler-1006).",
   "nationVoice": [
     {
@@ -82,8 +94,8 @@
   ],
   "plain": {
     "promised": "Protection from harm by United States citizens, recognised territories for each nation, and $50,000 a year in goods and provisions, a term the Senate cut from fifty years to ten.",
-    "happened": "An executive order of 1880 returned part of the Mandan, Hidatsa and Arikara territory to the public domain. The Court of Claims in 1930 awarded those tribes $4,923,093.47 for 9,846,186.93 acres.",
-    "today": "The Indian Claims Commission recorded that the 1930 award was paid, without interest for the delay. Congress let the tribes sue again in 1980 for that delay; the outcome has not been located. Other nations' claims are not settled here."
+    "happened": "An 1880 executive order returned part of the Mandan, Hidatsa and Arikara territory to the public domain, and the Court of Claims awarded them $4,923,093.47 in 1930. In 1933 it found the United States had taken all the Assiniboine's treaty land.",
+    "today": "The 1930 award was paid without interest for the delay; the outcome of a 1980 suit over that delay is not located. The Assiniboine got nothing in 1933: the court set past government spending for them against the land's value."
   },
   "sources": [
     {
@@ -120,6 +132,11 @@
       "title": "MHA Nation History",
       "url": "https://www.mhanation.com/history/",
       "publisher": "Mandan, Hidatsa and Arikara Nation"
+    },
+    {
+      "title": "Assiniboine Indian Tribe v. United States, 77 Ct. Cl. 347 (1933)",
+      "url": "https://static.case.law/us-ct-cl/77/cases/0347-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School Library)"
     }
   ],
   "openQuestions": [
@@ -131,7 +148,10 @@
     "The Commission's 1958 award to the Crow for the 1868 cession of land recognised as theirs by this treaty is recorded under kappler-1016.",
     "No account of this treaty by a signatory nation was located in this pass.",
     "The ICC's 1968 findings also record a Fort Buford reservation of 98,645.67 acres set up by executive order on August 18, 1868 inside the tribes' 1851 territory.",
-    "Audit 2026-11-08: Public Law 96-404 breach reworded; the act authorises a suit over lands 'claimed to be' taken, and does not itself find a violation, so it stays litigation. Other figures (9,846,186.93 acres; $4,923,093.47; Dec. 1, 1930; 1880 executive order restoring Royce Area 620; Fort Buford 98,645.67 acres) checked and held. The note that no signatory nation's account was located is out of date: the MHA Nation history page is cited."
+    "Audit 2026-11-08: Public Law 96-404 breach reworded; the act authorises a suit over lands 'claimed to be' taken, and does not itself find a violation, so it stays litigation. Other figures (9,846,186.93 acres; $4,923,093.47; Dec. 1, 1930; 1880 executive order restoring Royce Area 620; Fort Buford 98,645.67 acres) checked and held. The note that no signatory nation's account was located is out of date: the MHA Nation history page is cited.",
+    "Added 2026-11-08: the Assiniboine taking found in Assiniboine Indian Tribe v. United States, 77 Ct. Cl. 347 (1933). The same opinion is the primary finding on cession-1875-04-13-blackfoot-blood-gros-ventre-piegan-river for the 1875 order; here it is recorded as the breach of this treaty's Article 5 recognition of Assiniboine territory. No sameEventAs is set, because this treaty has other, separate breaches.",
+    "The same 1933 opinion rejected the Assiniboine claim under Article 3 that the United States owed damages for settlers killing the buffalo after the 1880 order, doubting that 'depredations' covered game and finding the loss unproven; that part is not a breach. It also held the tribe had no title by immemorial possession north of the Missouri.",
+    "Whether the Assiniboine later brought this land before the Indian Claims Commission was not checked in this pass."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"
