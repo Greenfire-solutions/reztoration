@@ -20,7 +20,8 @@ const list = treaties
   .filter((t) => { const y = Number(String(t.date).slice(0, 4)); return y >= from && y <= to; })
   .sort((a, b) => b.presentDayTribes.length + b.cessions.length - (a.presentDayTribes.length + a.cessions.length));
 const skip = Number(opt('skip') || 0);
-console.log(`${done.size} researched, ${treaties.length - done.size} to go${nation ? ` (filter: ${nation})` : ''}\n`);
+const doneInList = treaties.filter((t) => done.has(t.id)).length;
+console.log(`${doneInList} of ${treaties.length} researched, ${treaties.length - doneInList} to go${nation ? ` (filter: ${nation})` : ''}\n`);
 for (const t of list.slice(skip, skip + count)) {
   console.log(JSON.stringify({ id: t.id, name: t.name, date: t.date, kappler: t.kappler, royce: t.royce, statute: t.statute, scheduleTribes: t.scheduleTribes, presentDayTribes: t.presentDayTribes, states: t.states, cessions: t.cessions }));
 }

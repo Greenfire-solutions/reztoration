@@ -34,3 +34,4 @@ Project: `~/Desktop/Main projects/Reztoration`. Read `PROTOCOLS.md` (rules 9 to 
 - Check the file researched the right document: confirm the Royce area number and statute citation match the text described. Two round-9 files described a neighbouring agreement printed on the same page or date.
 - Before confirming a no-breach-found, scan the Court of Claims case names on static.case.law (`us-ct-cl`) for the nation; pre-1946 special-act claims never reached the ICC (kappler-880 Omaha was missed this way).
 - Before accepting "not traced" or no-breach-found, run `node scripts/research/icc.mjs full <nation> <place or treaty year>`; title search missed the Seneca 1831 findings.
+- **Court of Claims by name, instantly:** `node scripts/research/ctcl-index.mjs find <nation words>` lists every Court of Claims case (all 231 volumes, 18,452 cases) whose name has those words, with its JSON url. Run it for the nation (and its older spellings) before any no-breach-found.
