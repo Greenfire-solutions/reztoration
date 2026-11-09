@@ -1,0 +1,59 @@
+{
+  "id": "cession-1877-03-16-zu-i",
+  "name": "Executive order of March 16, 1877 setting apart the Zuni Reservation",
+  "aka": [
+    "Zuni Pueblo reservation order of 1877"
+  ],
+  "signed": "1877-03-16",
+  "citation": "Executive order of March 16, 1877 (Royce area 645, boundaries amended by executive order of May 1, 1883)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/890/mode/2up",
+  "nations": [
+    "A:shiwi (Zuni Tribe of the Zuni Reservation, New Mexico)"
+  ],
+  "promises": [
+    "This was an executive order, not a treaty. The President set apart a reservation for the occupancy of the Zuni, bounded from the 136th to the 148th milestone on the western boundary of New Mexico and running east past Nutria Springs and the Ojo Pescado (Royce p. 890).",
+    "Royce records that these boundaries were amended by executive order of May 1, 1883, so as to include the Zuni settlements around Nutria and Pescado springs (Royce pp. 890-891, 910-911)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "None by this order: it set land apart for the Zuni. Royce maps the reservation as area 645.",
+  "compensation": "None stated in the order.",
+  "today": "In Zuni Tribe v. United States (Claims Court No. 161-79L, May 27, 1987) the court held the Zuni had aboriginal title to the large claim area in Arizona and New Mexico, which the tribe said the United States took between 1846 and 1939 without adequate compensation; the opinion does not mention the 1877 order. A separate suit, Docket 327-81L, sought compensation for Zuni trust lands. The Zuni Land Conservation Act of 1990 (Public Law 101-486) authorized $25,000,000 for a Zuni Indian Resource Development Trust Fund and paid the tribe's costs in Dockets 327-81L and 224-84L, without findings of fault. The University of Utah archive of the Zuni claims records that 327-81L never went to trial and was settled by act of Congress, and that judgment of $25,000,000 was entered in 161-79L on January 22, 1991.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 890, executive order of March 16, 1877",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/890/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 910, executive order of May 1, 1883, area 645",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/910/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Zuni Tribe v. United States, 12 Cl. Ct. 607 (May 27, 1987)",
+      "url": "https://static.case.law/cl-ct/12/cases/0607-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Zuni Land Conservation Act of 1990, Public Law 101-486, 104 Stat. 1174",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg1174.pdf",
+      "publisher": "US Government Publishing Office, govinfo"
+    },
+    {
+      "title": "Zuni land claims cases records, 1941-1991",
+      "url": "https://archiveswest.orbiscascade.org/ark:80444/xv28125",
+      "publisher": "Archives West (University of Utah, J. Willard Marriott Library)"
+    }
+  ],
+  "openQuestions": [
+    "Status kept at no-breach-found: the 1987 Claims Court ruling concerns Zuni aboriginal lands outside this reservation, and the opinion opened does not mention the 1877 order. The 1990 Act settled the trust-land suit (Docket 327-81L) without a finding; a settlement is not a breach finding.",
+    "Docket 327-81L concerned Zuni trust lands, which include this reservation; its pleadings and any findings on damage to reservation land were not read.",
+    "Whether the 1987 claim area overlaps land left outside the 1877 or 1883 boundaries, and how the 1991 judgment in 161-79L was reached, were not researched.",
+    "treaties.json names the tribe from Royce's spelling \"Zuñi\" (id slug \"zu-i\"); the Pueblo of Zuni's own account of the 1877 reservation was not located in this pass.",
+    "The order was read only in Royce's summary, not in Kappler vol. 1."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

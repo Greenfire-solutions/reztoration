@@ -79,7 +79,8 @@
     "The acreages (48,000 and 91,837 acres in 1873, 55,396 today) come from the Tribe's 2013 presentation, not the orders; the 1878 order states no acreage.",
     "The Indians of California claims (ICC Dockets 31 and 37) covered aboriginal California land generally and were not reviewed for this file.",
     "The Tribe's own website was not found; its 2016 Senate testimony would not download.",
-    "treaties.json lists Big Sandy and North Fork Mono rancherias as present-day tribes; their link to this reservation was not checked."
+    "treaties.json lists Big Sandy and North Fork Mono rancherias as present-day tribes; their link to this reservation was not checked.",
+    "2026-11-08: counted once with cession-1873-10-03-king-s-river-owen-s-river-tule-river (the same October 3, 1873 Tule River order, listed twice). The map still shows this row."
   ],
   "plain": {
     "promised": "Not a treaty. In October 1873 the President replaced the January reserve with a larger Tule River reservation, about doubled in size, the Tribe says, because the first land was poor for farming.",
@@ -87,5 +88,6 @@
     "today": "The remainder is the Tule River Reservation, 55,396 acres by the Tribe's count. Nothing paid or returned was found; a 2025 water settlement bill had not become law."
   },
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "sameEventAs": "cession-1873-10-03-king-s-river-owen-s-river-tule-river"
 }

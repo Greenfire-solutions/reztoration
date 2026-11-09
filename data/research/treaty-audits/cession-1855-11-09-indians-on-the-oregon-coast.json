@@ -1,0 +1,27 @@
+{
+  "id": "cession-1855-11-09-indians-on-the-oregon-coast",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce p. 814 (full text): Nov. 9, 1855 executive order, Indians on coast of Oregon, Coast reservation from Tsiltcoos River to a point due east of Cape Lookout; p. 815 remarks: modified by EO Dec. 21, 1865, another portion relinquished by act of Mar. 3, 1875.",
+    "Royce p. 878: Act of Mar. 3, 1875 restores part of the Alsea and Siletz reservation to public domain and keeps the tract from 2 miles south of Siletz agency to Salmon River as a permanent reservation (areas 578 and 579).",
+    "treaties.json: this row and cession-1875-03-03-indians-on-the-oregon-coast carry identical cessions (578, 579) and statute links; the 1855 order mapped on area 479 is cession-1855-11-09-indians-on-coast-of-oregon.",
+    "United States v. Alcea Band of Tillamooks, 329 U.S. 40, decided Nov. 25, 1946 (Cornell LII): quote 'were deprived of their original possessions by the Executive Order of November 9, 1855' exact; Court of Claims found the taking complete Nov. 9, 1855; a large part of the reservation was Tillamook land; the 1875 statute removed more land to open it for settlement.",
+    "Docket 239 opinion (OSU id 106): 'The land involved herein is a part of the land involved in the Alcea' case (115 Ct. Cl. 463), valued as of 1855 at $1.20 an acre.",
+    "CTSI pages opened: Creating the Coast (Siletz) Reservation (misinterpretation used to open most lands without treaty agreement or compensation and force the 1892 cession of 191,000 acres); 1875 page (about 700,000 acres opened, about 225,000 remaining, Agent Simpson falsely reported consent)."
+  ],
+  "changes": [
+    "Rewrote the record to rest on the 1855 order itself (name, aka, signed 1875-03-03 to 1855-11-09, citation, textUrl to Royce p. 814, promises), as the row is dated and named for the 1855 order.",
+    "Removed the act-of-congress breach (Act of March 3, 1875) and the nation-statement about the 1875 Act: both belong to cession-1875-03-03-indians-on-the-oregon-coast, and keeping them would count one Act on two records. The 1875 Act is now in today and nationVoice only.",
+    "Added a court-ruling breach on Alcea (1946) about the 1855 order, and a nation-statement from the CTSI page on the creation of the reservation. Status remains broken.",
+    "Rewrote landTaken, compensation, today, plain, sources and openQuestions to match; added an audit line to openQuestions."
+  ],
+  "unverifiable": [
+    "Which original title (Tillamook, Alsea or other) covered areas 578 and 579 was not mapped; the Alcea finding is tied to land inside area 579 through the Docket 239 opinion's statement, not by a boundary comparison.",
+    "The amount the Alcea tribes recovered was not traced."
+  ],
+  "treatiesJsonErrors": [
+    "cession-1855-11-09-indians-on-the-oregon-coast and cession-1875-03-03-indians-on-the-oregon-coast have identical cessions (578, 579) and statute links: one Royce event split onto two dates. The 1855 order is also cession-1855-11-09-indians-on-coast-of-oregon (area 479). Suggest the 1855-11-09 'the-oregon-coast' row either be merged into the 1855 order row or have 578/579 left only on the 1875 row; this audit rests the file on the 1855 order to avoid double counting the 1875 Act.",
+    "presentDayTribes is empty for this row and for cession-1875-03-03-indians-on-the-oregon-coast; the Confederated Tribes of Siletz Indians are the obvious successor."
+  ]
+}

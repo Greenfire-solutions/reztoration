@@ -1,0 +1,16 @@
+{
+  "id": "cession-1864-10-21-dwamish",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce p. 834 (full text): 'Secretary of Interior enlarges reserve at Port Madison established by treaty of Jan. 22, 1855. Boundaries of addition not given, but are shown on the original plat in the Office of Indian Affairs.' Matches.",
+    "ICC Suquamish dockets (132, 92) listed by title search concern the Point Elliott cession and consideration, not this enlargement; no finding on the 1864 addition."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Royce gives no acreage for the addition."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes 'Duwamish Tribe of Indians [Unrecognized]': Port Madison is the Suquamish Tribe's reservation (already noted in the findings file)."
+  ]
+}

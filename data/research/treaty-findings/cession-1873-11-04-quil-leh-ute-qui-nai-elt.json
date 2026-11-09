@@ -69,7 +69,8 @@
   "openQuestions": [
     "Duplicate of cession-1873-11-04-quillehute-quinaielt (Royce area 551). Royce's note for the 1873 order says \"See 372\"; area 372, which this record maps, is the original reserve of the 1855-1856 Treaty of Olympia, so this record's map area is not land the 1873 order added. treaties.json should probably merge the two records.",
     "Audit 2026-11-08: both Court of Claims opinions re-opened (102 Ct. Cl. 822, decided February 5, 1945; 118 Ct. Cl. 220, decided January 9, 1951); every figure and date in the breaches matches. Reworded the 1945 breach: the white-settler reason is the Commissioner of Indian Affairs' letter, which the court quoted, not the court's own finding.",
-    "Audit 2026-11-08: the 1945 opinion says the 1873 order was issued \"formally designating the reservation as provided for by the Treaty\" and included Superintendent Miller's 1861 reserve, so this is the treaty reservation selected under the Treaty of Olympia, not a reservation made only by executive order; Jordan's executive-order rule does not apply. The two 1873-11-04 records now carry the same breaches, landTaken and compensation."
+    "Audit 2026-11-08: the 1945 opinion says the 1873 order was issued \"formally designating the reservation as provided for by the Treaty\" and included Superintendent Miller's 1861 reserve, so this is the treaty reservation selected under the Treaty of Olympia, not a reservation made only by executive order; Jordan's executive-order rule does not apply. The two 1873-11-04 records now carry the same breaches, landTaken and compensation.",
+    "2026-11-08: counted once with cession-1873-11-04-quillehute-quinaielt (the same 1873 Quinault order, listed twice). The map still shows this row."
   ],
   "plain": {
     "promised": "In 1873 the President enlarged the Quinault Reservation for the Quinault, Quileute, Hoh, Queets and other coast peoples.",
@@ -77,5 +78,6 @@
     "today": "In 1951 the court valued the land at $25,000, then subtracted federal spending for the tribes and dismissed the claim, so nothing was paid."
   },
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "sameEventAs": "cession-1873-11-04-quillehute-quinaielt"
 }

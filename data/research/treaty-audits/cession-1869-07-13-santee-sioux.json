@@ -1,0 +1,13 @@
+{
+  "id": "cession-1869-07-13-santee-sioux",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce p. 850 (full text): 'President rescinds Executive order of Mar. 20, 1867, and restores to the public domain the land ... between the Big Sioux on the E. and the James river on the W., and between the forty-fourth and forty-fifth parallels'. Matches.",
+    "Royce p. 847: reserve never occupied by the Santee Sioux."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "The 1875 rescission date in a secondary compilation was not checked; Royce gives July 13, 1869."
+  ]
+}

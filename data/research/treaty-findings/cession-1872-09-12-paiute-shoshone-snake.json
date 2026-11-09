@@ -62,13 +62,18 @@
       "title": "About the Burns Paiute Tribe",
       "url": "https://burnspaiute-nsn.gov/about-bpt/",
       "publisher": "Burns Paiute Tribe"
+    },
+    {
+      "title": "Snake or Piute Indians of the Former Malheur Reservation v. United States, Docket 17, Order Allowing Attorney Fees (May 31, 1960)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/33",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
     }
   ],
   "openQuestions": [
     "Possible duplicate: cession-1872-09-12-paiute-shoshoni-snake records the same executive order of September 12, 1872. That record maps Royce area 537 (the country withdrawn in 1871 and restored by this order); this record maps areas 638 and 646, the reservation itself. Same event, different polygons, so the same finding is used. Jordan may want the two merged or labelled \"reservation\" and \"land restored\".",
     "treaties.json error: presentDayTribes is empty for this record; the Burns Paiute Tribe should be listed. It also links a statute file (638c.pdf) for what Royce lists as an executive order; the University of Georgia files did not load.",
     "The 1956 Commission opinion (id 513) and the Burns Paiute page were taken from the parallel record and not re-read in this pass; the 1959 order (id 32) was re-read.",
-    "A final award in Docket 17 after 1959 was not traced."
+    "Audit 2026-11-08: the two Malheur records agree on the finding (January 1879 taking, $579,722.00 less offsets, parties to the unratified treaty of December 10, 1868), re-read in OSU id 32. This record maps the reservation itself (Royce 638 and 646), which the finding covers: the Commission's land is the reservation as defined on January 28, 1876, which Royce says took in all of the 1872 reserve. cession-1872-09-12-paiute-shoshoni-snake maps area 537, the country restored to the public domain in 1872, which the Docket 17 finding does not cover. Lead on the final award: a Commission order of May 31, 1960 on attorney fees (OSU id 33, 8 Ind. Cl. Comm. 512) refers to an award to the petitioners made in December; the figure (beginning $567,0) and the year are unreadable in the scan, so no final figure is recorded."
   ],
   "plain": {
     "promised": "Not a treaty: an executive order. In 1872 the President set apart the Malheur Reservation in southeastern Oregon for the Paiute and Snake bands.",

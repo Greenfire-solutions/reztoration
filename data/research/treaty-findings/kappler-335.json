@@ -1,12 +1,16 @@
 {
   "id": "kappler-335",
   "name": "Treaty with the Seneca, etc., 1831 (mixed band of Senecas and Shawnees at Lewistown)",
-  "aka": ["Treaty of Lewistown, July 20, 1831"],
+  "aka": [
+    "Treaty of Lewistown, July 20, 1831"
+  ],
   "signed": "1831-07-20",
   "proclaimed": "1832-04-06",
   "citation": "7 Stat. 351",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-etc-1831-0327",
-  "nations": ["Mixed band of Senecas and Shawnees at Lewistown, Ohio (today the Eastern Shawnee Tribe of Oklahoma and the Seneca-Cayuga Nation)"],
+  "nations": [
+    "Mixed band of Senecas and Shawnees at Lewistown, Ohio (today the Eastern Shawnee Tribe of Oklahoma and the Seneca-Cayuga Nation)"
+  ],
   "promises": [
     "Article 2: removal west of the Mississippi and a patent in fee simple to 60,000 acres next to the Sandusky Senecas' land and the Cherokee settlements, for as long as they exist as a nation and remain on it.",
     "Article 3: the United States pays the cost of removal and supplies provisions for one year after arrival.",
@@ -14,23 +18,87 @@
     "Article 8: the ceded lands sold at public sale; after deducting 70 cents an acre and the listed costs, the balance becomes a fund paying the tribes 5 per cent a year.",
     "Article 11: the new lands would never be within the bounds of any State or Territory or subject to its laws, and the President would protect the band there against all interruption."
   ],
-  "status": "no-breach-found",
-  "breaches": [],
-  "today": "No court, Indian Claims Commission or government finding about this treaty was found. By the treaty of December 29, 1832 (7 Stat. 411) the united Senecas and Shawnees gave up the land granted west of the Neosho and received a 60,000-acre tract east of it in its place. The Commission transferred Seneca-Cayuga Dockets 341-A to D to the Court of Claims on September 29, 1978, with only attorney expense applications pending; the Shawnee settlement in Docket 64 et al. (1977) concerned the 1795 Treaty of Greenville cession, not this one.",
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1971-12-29",
+      "what": "The Indian Claims Commission held that the United States breached this treaty: under Article 8 the Lewistown Reservation was to be sold at public sale in the manner of selling public lands, but the sale proclaimed for December 24, 1832 was not held until December 28 and was closed the next day, far short of the two weeks the Act of April 24, 1820 required, and the United States wrongfully withheld 640 acres (section 16, set aside as school land) from sale without paying for them.",
+      "whoFoundIt": "Indian Claims Commission, Seneca-Cayuga Tribe of Oklahoma v. United States, Dockets 341-A and 341-B, Opinion and Interlocutory Order of December 29, 1971 (26 Ind. Cl. Comm. 625, 643)",
+      "source": {
+        "title": "Seneca-Cayuga Tribe of Oklahoma et al. v. United States, Dockets 341-A and 341-B, Interlocutory Order (December 29, 1971), 26 Ind. Cl. Comm. 643",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1267",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      },
+      "quote": "constituted breaches of both the Sandusky Treaty (February 28, 1831, 7 Stat. 348) and the Lewistown Treaty"
+    }
+  ],
+  "today": "By the treaty of December 29, 1832 (7 Stat. 411) the united Senecas and Shawnees gave up the land granted west of the Neosho and received a 60,000-acre tract east of it in its place. The Docket 341-B award went to the Seneca-Cayuga Tribe; no claim by the Shawnee half of the band under this treaty was found. The Shawnee settlement in Docket 64 et al. (1977) concerned the 1795 Treaty of Greenville cession, not this one.",
   "nationVoice": [],
   "sources": [
-    { "title": "Treaty with the Seneca, etc., 1831 (Kappler, vol. 2, p. 327)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-etc-1831-0327", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
-    { "title": "Treaty with the Seneca and Shawnee, 1832 (Kappler, vol. 2, p. 383)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-and-shawnee-1832-0383", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
-    { "title": "Shawnee Tribe of Oklahoma et al. v. United States, Dockets 64, 335 and 338, Findings of Fact on Compromise Settlement (June 3, 1977), 40 Ind. Cl. Comm. 161", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2329", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Seneca-Cayuga Tribe of Oklahoma et al. v. United States, Dockets 341-A to D et al., Order Certifying and Transferring Cases to the Court of Claims (September 29, 1978), 43 Ind. Cl. Comm. 658", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2724", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 686", "url": "https://archive.org/stream/annualreportofbu218smit#page/686/mode/2up", "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive" }
+    {
+      "title": "Treaty with the Seneca, etc., 1831 (Kappler, vol. 2, p. 327)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-etc-1831-0327",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Seneca-Cayuga Tribe of Oklahoma et al. v. United States, Dockets 341-A and 341-B, Opinion of the Commission (December 29, 1971), 26 Ind. Cl. Comm. 625",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/923",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Seneca-Cayuga Tribe of Oklahoma et al. v. United States, Dockets 341-A and 341-B, Interlocutory Order (December 29, 1971), 26 Ind. Cl. Comm. 643",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1267",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Seneca-Cayuga Tribe of Oklahoma et al. v. United States, Dockets 341-A and 341-B, Opinion of the Commission on the accounting (December 7, 1972), 29 Ind. Cl. Comm. 262",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2596",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Seneca-Cayuga Tribe of Oklahoma et al. v. United States, Dockets 341-A and 341-B, Opinion of the Commission on value and damages (April 4, 1974), 33 Ind. Cl. Comm. 436",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1560",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Seneca-Cayuga Tribe of Oklahoma et al. v. United States, Dockets 341-A and 341-B, Findings of Fact on Final Award (June 11, 1975), 36 Ind. Cl. Comm. 170",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2109",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Treaty with the Seneca and Shawnee, 1832 (Kappler, vol. 2, p. 383)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-and-shawnee-1832-0383",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Shawnee Tribe of Oklahoma et al. v. United States, Dockets 64, 335 and 338, Findings of Fact on Compromise Settlement (June 3, 1977), 40 Ind. Cl. Comm. 161",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2329",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Seneca-Cayuga Tribe of Oklahoma et al. v. United States, Dockets 341-A to D et al., Order Certifying and Transferring Cases to the Court of Claims (September 29, 1978), 43 Ind. Cl. Comm. 658",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2724",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 686",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/686/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
   ],
   "openQuestions": [
     "The Article 11 promise that the land would never be within a State or Territory was overtaken when the area became part of Indian Territory and then Oklahoma; no court or government finding treating that as a breach of this treaty was found, so it is not recorded as one.",
     "Whether the Article 8 fund was created and the 5 per cent paid was not traced. The Shawnee of Wapakoneta won a Court of Claims finding on similar sale terms (United States v. Blackfeather, 155 U.S. 180), but that case does not mention the Lewistown band.",
-    "What Seneca-Cayuga Dockets 341-A to D claimed was not found.",
-    "No Eastern Shawnee Tribe or Seneca-Cayuga Nation account of this treaty was found at the addresses tried."
+    "No Eastern Shawnee Tribe or Seneca-Cayuga Nation account of this treaty was found at the addresses tried.",
+    "Audit 2026-11-08: status raised from no-breach-found to broken. Docket 341-B is this treaty (Royce Area 164, 7 Stat. 351); the Commission's December 29, 1971 opinion and interlocutory order (OSU ids 923, 1267) hold the Lewistown sale and the withheld school land were breaches of it. Added the 1972 accounting, 1974 no-damages ruling and 1975 final award (OSU ids 2596, 1560, 2109). Whether the Eastern Shawnee Tribe or its predecessors ever claimed the Shawnee half of the Lewistown proceeds was not found."
   ],
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "compensation": "On April 4, 1974 the Commission held the tribe had not shown the lands were worth more than the amounts received, so it found no damages from the faulty sales (33 Ind. Cl. Comm. 436). On the accounting, on December 7, 1972 it awarded for the two 1831 treaties together $42,021.12 in principal and accrued interest, plus 5 per cent a year on $6,013.49 of unpaid principal from January 1, 1972 (29 Ind. Cl. Comm. 262). After the United States withdrew its claimed offsets, the Commission made that award final in June 1975, in satisfaction of all claims in Dockets 341-A and 341-B (36 Ind. Cl. Comm. 170). For this treaty the accounting award included $10,662.15 under Article 8 ($1,396.39 of sale proceeds never paid out, with interest) and $3,311.68 for the Senecas' half of the withheld school land; the other half belonged to the Shawnees of the mixed band.",
+  "plain": {
+    "promised": "The mixed band of Senecas and Shawnees at Lewistown gave up their Ohio reserve for land in the west. The United States would sell the Ohio land at a proper public sale and pay 5 per cent a year on the proceeds.",
+    "happened": "In 1971 the Indian Claims Commission found the United States broke the treaty: the sale was held four days late and closed after one day, and 640 acres were held back unpaid.",
+    "today": "The Commission found no loss in land value, but on the accounts it awarded the Seneca-Cayuga $42,021.12 plus interest for both 1831 Seneca treaties, made final in 1975."
+  }
 }

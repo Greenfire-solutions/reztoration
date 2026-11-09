@@ -1,0 +1,16 @@
+{
+  "id": "cession-1867-06-14-coeur-d-al-ne",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce p. 846 (full text): EO June 14, 1867, Coeur d'Alene reserve from the head of the Latah to the St. Joseph River at the old mission, west to the Washington line, about 250,000 acres. Matches.",
+    "Royce pp. 866-867: the Nov. 8, 1873 reserve is area 552 ('the present reserve'), with the 1867 boundaries shown by a dotted black line.",
+    "Docket 81 findings, Aug. 26, 1955 (OSU id 27): concern the lands outside the reservation ceded by the agreement of March 26, 1887, ratified March 3, 1891; reservation as established in 1873 contained 538,500 acres; nothing on the 1867 order."
+  ],
+  "changes": [
+    "openQuestions: corrected the description of area 552 (it is the 1873 reserve, not the country outside it; that country is area 553, cession-1891-03-03-coeur-d-al-ne); audit line added."
+  ],
+  "unverifiable": [
+    "Order text (UGA 552r.pdf) not opened; Royce only."
+  ]
+}

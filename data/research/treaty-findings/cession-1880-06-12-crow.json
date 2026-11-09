@@ -1,0 +1,51 @@
+{
+  "id": "cession-1880-06-12-crow",
+  "name": "Crow agreement of June 12, 1880, ratified by the Act of April 11, 1882 (cession of the western part of the Crow Reservation)",
+  "aka": [
+    "Crow cession of 1882"
+  ],
+  "signed": "1880-06-12",
+  "ratified": "1882-04-11",
+  "citation": "Act of April 11, 1882, ch. 74, 22 Stat. 42",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-22/pdf/STATUTE-22-Pg42.pdf",
+  "nations": [
+    "Apsáalooke (Crow Tribe)"
+  ],
+  "promises": [
+    "The Crow sold the western part of their 1868 reservation, from the mouth of Boulder Creek up the Yellowstone to the 45th parallel, east to Clarke's Fork, north to the line between Townships 6 and 7 South, west to the 110th meridian and back down Boulder Creek.",
+    "In return the United States was to survey the remaining farming land and allot it in severalty, with titles that could not be sold, leased or taxed for 25 years (first consideration).",
+    "The United States was to appropriate $30,000 a year for 25 years for houses, seed, implements, stock or cash, on top of existing annuities (second consideration).",
+    "Grazing or driving cattle across the reservation was to be paid for, with the money going to the Crow, and all provisions of the treaty of May 7, 1868 were to continue in force (third and fourth considerations)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce area 619. The Court of Claims (1935) describes it as a cession of approximately 1,559,000 acres.",
+  "compensation": "$30,000 a year for 25 years under the agreement; the Act appropriated the first installment and $15,000 for the survey.",
+  "today": "The Act states the agreement was executed by a majority of adult Crow men, as Article 11 of the 1868 treaty required. In 1935 the Court of Claims, hearing Crow claims under a 1926 jurisdictional act, said there had been no taking of Crow lands, that every cession was made for a consideration, and dismissed the petition (Crow Nation v. United States, 81 Ct. Cl. 238). This was a ruling against the nation.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Act of April 11, 1882, ch. 74, 22 Stat. 42",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-22/pdf/STATUTE-22-Pg42.pdf",
+      "publisher": "US Government Publishing Office, govinfo"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 900, agreement of June 12, 1880, area 619",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/900/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Crow Nation or Tribe of Indians of Montana v. United States, 81 Ct. Cl. 238 (March 4, 1935)",
+      "url": "https://static.case.law/us-ct-cl/81/cases/0238-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    }
+  ],
+  "openQuestions": [
+    "Whether the 25 annual $30,000 payments were all appropriated was not traced.",
+    "The Crow Tribe's Indian Claims Commission Docket 54 concerns the 1868 cession; no Commission claim about this 1880-82 cession was found in the 1962 Docket 54 texts searched.",
+    "Royce records an earlier agreement of May 14, 1880 that the Crow did not ratify, replaced by this one.",
+    "The Crow Tribe's own account of the 1880 agreement was not located."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1583,7 +1583,11 @@
    "Shoshone-Bannock Tribes of the Fort Hall Reservation, Idaho"
   ],
   "note": "A railroad right-of-way cession of 1,840 acres out of the Fort Hall reservation (area 524, 'Too small to be shown on the map'), not a cession of the reservation itself.",
-  "why": "Royce p. 926 (page scan checked): Sept. 1, 1888, Act of Congress, Stat. L. XXV, 452, tribe 'Bannock and Shoshoni of Fort Hall reservation': 'Congress ratifies agreement by which said Indians surrender the following lands, all of which are contained in T. 6 S., R. 34 E., of Boise meridian ... comprising an area of 1,840 acres ... relinquished to the U. S. for the use of the Utah and Northern and Oregon Short Line railways'; p. 927 'Too small to be shown on the map', 524, Idaho. The Coeur d'Alene were copied from the June 14, 1867 row for area 524 (see cession-1867-06-14-bannock-coeur-d-alene-shoshoni) and are removed. The Shoshone-Bannock Tribes were listed twice under two spellings; one is kept.",
+  "executiveOrder": [],
+  "statute": [
+   "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg452.pdf"
+  ],
+  "why": "Royce p. 926 (page scan checked): Sept. 1, 1888, Act of Congress, Stat. L. XXV, 452, tribe 'Bannock and Shoshoni of Fort Hall reservation': 'Congress ratifies agreement by which said Indians surrender the following lands, all of which are contained in T. 6 S., R. 34 E., of Boise meridian ... comprising an area of 1,840 acres ... relinquished to the U. S. for the use of the Utah and Northern and Oregon Short Line railways'; p. 927 'Too small to be shown on the map', 524, Idaho. The Coeur d'Alene were copied from the June 14, 1867 row for area 524 (see cession-1867-06-14-bannock-coeur-d-alene-shoshoni) and are removed. The Shoshone-Bannock Tribes were listed twice under two spellings; one is kept. Round 13: the only document link was an executive-order file (ExecOrdersIndianLand 524r.pdf) for what is an Act; it is removed and the statute is linked instead: 25 Stat. 452, ch. 936, Sept. 1, 1888, 'An act to accept and ratify an agreement made with the Shoshone and Bannack Indians, for the surrender and relinquishment to the United States of a portion of the Fort Hall Reservation' (govinfo page image checked).",
   "source": "https://archive.org/stream/annualreportofbu218smit#page/926/mode/2up"
  },
  "cession-1889-02-23-bannock-coeur-d-alene-shoshoni": {
@@ -1597,7 +1601,11 @@
    "https://archive.org/stream/annualreportofbu218smit#page/928/mode/2up"
   ],
   "note": "Royce maps this Act only as 'See 524' and records it as never carried into effect: the Lemhi Indians refused to leave their reservation.",
-  "why": "Royce p. 928 (page scan checked): Feb. 23, 1889, Act of Congress, Stat. L. XXV, 687, tribe 'Shoshoni and Bannock of Fort Hall reservation': 'Confirms agreement to cede to U. S. for the use of the Lemhi Indians the following lands' (the Port Neuf and Marsh creek tract); p. 929 'As the Lemhi Indians refused to leave their reservation, this act was inoperative and never carried into effect', 'See 524', Idaho. The Coeur d'Alene were copied from the June 14, 1867 row for area 524 and are removed. The Shoshone-Bannock Tribes were listed twice under two spellings; one is kept. The Royce link pointed to p. 926 (the Sept. 1, 1888 Act) and is set to p. 928.",
+  "executiveOrder": [],
+  "statute": [
+   "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg687.pdf"
+  ],
+  "why": "Royce p. 928 (page scan checked): Feb. 23, 1889, Act of Congress, Stat. L. XXV, 687, tribe 'Shoshoni and Bannock of Fort Hall reservation': 'Confirms agreement to cede to U. S. for the use of the Lemhi Indians the following lands' (the Port Neuf and Marsh creek tract); p. 929 'As the Lemhi Indians refused to leave their reservation, this act was inoperative and never carried into effect', 'See 524', Idaho. The Coeur d'Alene were copied from the June 14, 1867 row for area 524 and are removed. The Shoshone-Bannock Tribes were listed twice under two spellings; one is kept. The Royce link pointed to p. 926 (the Sept. 1, 1888 Act) and is set to p. 928. Round 13: the executive-order file (ExecOrdersIndianLand 524r.pdf) on this Act is removed and the statute is linked instead: 25 Stat. 687, ch. 203, Feb. 23, 1889, 'An act to accept and ratify the agreement submitted by the Shoshones, Bannocks, and Sheepeaters of the Fort Hall and Lemhi Reservation in Idaho May fourteenth, eighteen hundred and eighty' (govinfo page image checked).",
   "source": "https://archive.org/stream/annualreportofbu218smit#page/928/mode/2up"
  },
  "cession-1889-03-01-creek-or-muscogee": {
@@ -1610,12 +1618,22 @@
    "551"
   ],
   "note": "Duplicate record: the same executive order of Nov. 4, 1873 as cession-1873-11-04-quillehute-quinaielt (the USFS layer carries it twice under two spellings). Count it once. Royce maps the order as 551 and 'See 372'; area 372 is the original Quinault reserve of the treaty of July 1, 1855, which stays with kappler-727.",
-  "why": "Royce p. 866 (page scan checked): Nov. 4, 1873, Executive order, 'Quinaielt, Quillehute, et al.': 'President sets apart enlargement to reserve provided for in treaty of July 1, 1855'; p. 867: 'For boundaries of original reserve see treaty of July 1, 1855, Washington map 1', 551 Washington 2, See 372 Washington 1. This record mapped only 372, the treaty reserve, and not the land the order added; it is set to 551, the order's own area. The id is kept because it has a findings file.",
+  "presentDayTribes": [
+   "Quileute Tribe of the Quileute Reservation, Washington",
+   "Quinault Tribe of the Quinault Reservation, Washington",
+   "Hoh Indian Tribe"
+  ],
+  "why": "Royce p. 866 (page scan checked): Nov. 4, 1873, Executive order, 'Quinaielt, Quillehute, et al.': 'President sets apart enlargement to reserve provided for in treaty of July 1, 1855'; p. 867: 'For boundaries of original reserve see treaty of July 1, 1855, Washington map 1', 551 Washington 2, See 372 Washington 1. This record mapped only 372, the treaty reserve, and not the land the order added; it is set to 551, the order's own area. The id is kept because it has a findings file. Round 13: Kappler (OSU treaty-with-the-quinaielt-etc-1855-0719) lists the successors of the treaty of July 1, 1855, whose reserve this order enlarged, as the Hoh Indian Tribe, the Quileute Tribe and the Quinault Indian Nation; the Hoh Indian Tribe is added.",
   "source": "https://archive.org/stream/annualreportofbu218smit#page/866/mode/2up"
  },
  "cession-1873-11-04-quillehute-quinaielt": {
   "note": "A second record for this order, cession-1873-11-04-quil-leh-ute-qui-nai-elt, is a duplicate under another spelling; count the order once.",
-  "why": "Note only; no field changed. Royce p. 866-867 (page scans checked) has one row for the Nov. 4, 1873 executive order enlarging the Quinault reserve, map 551 and 'See 372'.",
+  "presentDayTribes": [
+   "Quileute Tribe of the Quileute Reservation, Washington",
+   "Quinault Tribe of the Quinault Reservation, Washington",
+   "Hoh Indian Tribe"
+  ],
+  "why": "Note only; no field changed. Royce p. 866-867 (page scans checked) has one row for the Nov. 4, 1873 executive order enlarging the Quinault reserve, map 551 and 'See 372'. Round 13: the order enlarged the reserve 'provided for in treaty of July 1, 1855' (Royce p. 866, 'Quinaielt, Quillehute, et al.'); Kappler (OSU treaty-with-the-quinaielt-etc-1855-0719) lists the successors of that treaty as the Hoh Indian Tribe, the Quileute Tribe and the Quinault Indian Nation, so the Hoh Indian Tribe is added.",
   "source": "https://archive.org/stream/annualreportofbu218smit#page/866/mode/2up"
  },
  "cession-1873-12-23-dwamish-suquamish": {
@@ -1750,9 +1768,10 @@
   ],
   "royce": [
    "https://archive.org/stream/annualreportofbu218smit#page/940/mode/2up",
-   "https://archive.org/stream/annualreportofbu218smit#page/852/mode/2up"
+   "https://archive.org/stream/annualreportofbu218smit#page/942/mode/2up"
   ],
-  "why": "Royce p. 940 (page scan checked): Mar. 3, 1891, Act of Congress, Stat. L. XXVI, 1022, 'Cheyenne and Arapaho': 'Confirms agreement with these Indians by which they cede to the U. S. all claims they have to the following lands', the Cherokee Outlet tract and, continued on p. 942, their Indian Territory reservation between the Cimarron, the 98th meridian, the 100th meridian and the Washita; p. 941 notes that the reservation 'in lieu' of the treaty one was set aside by the Executive order of Aug. 10, 1869 (area 525, cession-1869-08-10-arapaho-cheyenne). The parties were the southern Cheyenne and Arapaho of Indian Territory; the Arapaho Tribe of the Wind River Reservation is removed, as on the 1869 record. Royce p. 940 is added as the link for this Act.",
+  "executiveOrder": [],
+  "why": "Royce p. 940 (page scan checked): Mar. 3, 1891, Act of Congress, Stat. L. XXVI, 1022, 'Cheyenne and Arapaho': 'Confirms agreement with these Indians by which they cede to the U. S. all claims they have to the following lands', the Cherokee Outlet tract and, continued on p. 942, their Indian Territory reservation between the Cimarron, the 98th meridian, the 100th meridian and the Washita; p. 941 notes that the reservation 'in lieu' of the treaty one was set aside by the Executive order of Aug. 10, 1869 (area 525, cession-1869-08-10-arapaho-cheyenne). The parties were the southern Cheyenne and Arapaho of Indian Territory; the Arapaho Tribe of the Wind River Reservation is removed, as on the 1869 record. Royce p. 940 is added as the link for this Act. Round 13: Royce p. 942 (page scan checked) continues the entry, Stat. L. XXVI, 1022, 'Also cede to the U. S., subject to allotment' the reservation between the Washita, the 98th meridian, the Cimarron and the 100th meridian; p. 943: 'See 525'. The p. 852 link (the 1869 order) is replaced by p. 942, and the executive-order file (ExecOrdersIndianLand 525r.pdf, the 1869 order) is removed from this Act.",
   "source": "https://archive.org/stream/annualreportofbu218smit#page/940/mode/2up"
  },
  "kappler-1028": {
@@ -1771,5 +1790,334 @@
   "note": "The treaty with Mulatto King (Vacapasacy) and Tustenuggy Hajo, head chief of Ematlochee's town, for the Apalachicola band: they relinquish the Yellow Hare reserve on the Apalachicola made for them by the additional article of the Camp Moultrie treaty of Sept. 18, 1823, and receive a section and a half each by patent. The companion treaty of the same day with other chiefs (7 Stat. 428, area 185) is kappler-407.",
   "why": "Note only; no field changed. Kappler seq 406 is p. 398, the Treaty with the Appalachicola Band, June 18, 1833, 7 Stat. 427 (OSU treaty-with-the-appalachicola-band-1833-0398: 'convey ... to Mulatto King or Vacapasacy; and to Tustenuggy Hajo, head Chief of Ematlochees town'; successor in interest 'The Muscogee (Creek) Nation'). Royce p. 748 (page scan checked): June 18, 1833, Pope's, Fayette county, Florida territory, Stat. L. VII, 427, Appalachicola band, relinquishing the reservation 'to include Yellow Hare's improvements'; p. 749: 184, Florida. The record's area, schedule tribe and present-day tribe already agree with these.",
   "source": "https://treaties.okstate.edu/treaties/treaty-with-the-appalachicola-band-1833-0398"
+ },
+ "cession-1872-09-26-sioux-wahpeton": {
+  "name": "Agreement with the Shoshoni (Eastern Shoshone) ceding the southern part of the Wind River reservation (Brunot cession), 1872-09-26",
+  "scheduleTribes": [
+   "Shoshoni"
+  ],
+  "presentDayTribes": [
+   "Eastern Shoshone Tribe of the Wind River Reservation, Wyoming"
+  ],
+  "states": [
+   "WY"
+  ],
+  "note": "One cession counted three times by the USFS layer: the Brunot agreement of Sept. 26, 1872 (cession-1872-09-26-sioux-wahpeton, with the reservation kept on cession-1872-09-26-shoshoni), the Act of June 22, 1874 that ratified it in general terms (Stat. L. XVIII, 166; cession-1874-06-22-sioux-wahpeton) and the Act of Dec. 15, 1874 that ratified and confirmed it (Stat. L. XVIII, 291; cession-1874-12-15-sioux-wahpeton). All three map area 539. Count the cession once. The Sisseton and Wahpeton Sioux name came from the neighbouring Sioux rows; the ids are kept because they have findings files.",
+  "why": "Royce p. 858 (page scan checked): Sept. 26, 1872, Agreement, Stat. L. XVIII, 291, tribe 'Shoshoni': 'Cede a portion of reservation (subject to approval of Congress) established for them by treaty of July 3, 1868' south of a line from the mouth of the Little Papo-Agie; 'Retain remainder of their reservation which constitutes the present Wind River reservation'. p. 859: 'See acts of Congress of June 22, 1874, and Dec. 15, 1874, ratifying and confirming this agreement', 539 Wyoming 2; 540 Wyoming 2. p. 878: Dec. 15, 1874, Act, Stat. L. XVIII, 291, Shoshoni, 'Ratifies agreement of Sept. 26, 1872', 'See 539'. The Sisseton and Wahpeton Sioux agreement is the row above it (Sept. 20, 1872, area 538, kappler-1065); the USFS layer gave this Wyoming area their name. The Sioux, Wahpeton and the Sisseton-Wahpeton Oyate are replaced by the Shoshoni and the Eastern Shoshone Tribe.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/858/mode/2up"
+ },
+ "cession-1871-02-06-menomini": {
+  "name": "Act of Congress for the sale of the Stockbridge and Munsee reserve, 1871-02-06",
+  "scheduleTribes": [
+   "Stockbridge and Munsee"
+  ],
+  "presentDayTribes": [
+   "Stockbridge Munsee Community, Wisconsin"
+  ],
+  "note": "Royce numbers this reserve 403 because it was first ceded by the Menominee (treaty of Feb. 11, 1856, kappler-763), who sold the two townships for the Stockbridge and Munsee; the 1871 Act is the Stockbridge and Munsee's own sale. The id is kept because it has a findings file.",
+  "why": "Royce p. 854 (page scan checked): 1871 Feb. 6, Act of Congress, Stat. L. XVI, 404, tribe 'Stockbridge and Munsee': 'All except 18 sections of their reserve to be appraised and sold. 18 sections reserved for their future home.' p. 855: 'The two townships comprising this reserve were purchased from the Menomini by treaty of Feb. 11, 1856. As a secondary cession of the Menomini it is colored blue and numbered 403 on Wisconsin map 2. The 18 sections retained by the Stockbridge are indicated by a scarlet line', 'See 403', Wisconsin 2. The Menomini and the Menominee Indian Tribe of Wisconsin were not parties and are replaced.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/854/mode/2up"
+ },
+ "cession-1872-09-12-paiute-shoshone-snake": {
+  "presentDayTribes": [
+   "Burns Paiute Tribe"
+  ],
+  "statute": [],
+  "note": "Same executive order of Sept. 12, 1872 as cession-1872-09-12-paiute-shoshoni-snake: that record maps 537, the country withdrawn on Mar. 14, 1871 and restored by this order; this one maps 'See 638, 646', the Malheur reservation it set apart (areas Royce numbers under the orders of Sept. 13, 1882 and later). Count the order once. The statute link (ops.libs.uga.edu FedStatIndianLand/638c.pdf) is removed: this was an executive order, and area 638 belongs to the order of Sept. 13, 1882 (cession-1882-09-13-paiute-shoshone-snake). Both ids are kept because each has a findings file.",
+  "why": "Royce p. 858 (page scan checked): Sept. 12, 1872, Executive order, tribe 'Paiute, Snake, and Shoshoni': 'President sets apart reservation known as Malheur', 'This embraces Nos. 638 and 646', and 'restores to public domain remainder of tract temporarily withdrawn by Executive order of Mar. 14, 1871'. p. 859: 'See 638, 646', Oregon 2 for the reservation; 537, Oregon 2, for the restoration. p. 908-909: Sept. 13, 1882, Executive order restores the part of the Malheur reserve south of the fourth standard parallel, 638 Oregon 2. The Malheur reservation's Northern Paiute are represented today by the Burns Paiute Tribe, which the USFS layer already lists on the sister record for the same order; presentDayTribes was empty here.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/858/mode/2up"
+ },
+ "cession-1872-09-12-paiute-shoshoni-snake": {
+  "note": "Same executive order of Sept. 12, 1872 as cession-1872-09-12-paiute-shoshone-snake. This record maps 537, the country withdrawn on Mar. 14, 1871 and restored by the order; the other maps 'See 638, 646', the Malheur reservation. Count the order once.",
+  "why": "Note only; no field changed. Royce p. 858-859 (page scans checked): one row for the Sept. 12, 1872 order, with two map entries, 'See 638, 646' (the reservation) and 537 (the restoration).",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/858/mode/2up"
+ },
+ "cession-1872-04-09-methow-okanagan": {
+  "statute": [],
+  "note": "The order setting apart the first Colville reservation, revoked and restored to the public domain by the order of July 2, 1872 (cession-1872-07-02-methow-okanagan). The USFS layer filed a link for area 533 as a federal statute (ops.libs.uga.edu FedStatIndianLand/533c.pdf); there is no statute, so it is removed, as it was from the July 2 record.",
+  "why": "Royce p. 856 (page scan checked): 1872 Apr. 9, Executive order, no Statutes reference, tribe 'Methow, Okanagan et al.': 'President sets apart reservation known as Colville reservation, in Washington territory', bounded by the Columbia, the 49th parallel, the Pend d'Oreille and the 117th meridian. p. 857: 'Restored to public domain by Executive order of July 2, 1872', 533 Washington 1.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/856/mode/2up"
+ },
+ "cession-1867-11-16-santee-sioux": {
+  "note": "Date kept as Royce gives it. The American Presidency Project dates the Secretary's letter and the President's approval Nov. 15, 1867; the order may have been approved on the 15th and recorded on the 16th. Not settled.",
+  "why": "Note only; no field changed. Royce p. 846 (page scan checked): '1867 Nov. 16, Executive order, Santee Sioux. President withdraws certain townships as an addition to Niobrara reservation by Executive order of Feb. 27, 1866', and relinquishes fractional T. 32 N., R. 6 W.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/846/mode/2up"
+ },
+ "cession-1871-01-01-methow-okanagan": {
+  "note": "The date 1871-01-01 is a placeholder. Royce gives this entry the year 1871 only, with no day, and calls it a memorandum: 'Territory originally claimed by Methow, Okanagan, Kootenay, Pend d'Oreille, Colville, North Spokane, San Poeil, and other tribes', taken without a treaty. It is not an event of January 1.",
+  "why": "Note only; no field changed. Royce p. 856 (page scan checked): '1871 ....... (Memorandum.) (Memorandum.) Methow, Okanagan et al.'; p. 857: 'No treaty was ever made with these Indians for the extinguishment of their territorial rights. The U. S. simply took possession of their country, except such portions as have been set apart by Executive order', 532, Montana 1, Idaho, Washington 1.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/856/mode/2up"
+ },
+ "cession-1855-11-09-indians-on-the-oregon-coast": {
+  "royce": [
+   "https://archive.org/stream/annualreportofbu218smit#page/814/mode/2up"
+  ],
+  "statute": [],
+  "note": "Duplicate record of the executive order of Nov. 9, 1855 setting apart the Coast (Siletz) reservation; cession-1855-11-09-indians-on-coast-of-oregon is the other. Count the order once. Areas 578 and 579 stay as Royce's own cross-reference ('See 578, 579, 479'), but Royce numbers them under the Act of Mar. 3, 1875 (Stat. L. XVIII, 446) that restored those two tracts to the public domain (cession-1875-03-03-indians-on-the-oregon-coast, p. 878). The p. 878 Royce link and the two statute files (FedStatIndianLand 578c.pdf and 579r.pdf, the 1875 Act) belong to that record and are removed here. The id is kept because it has a findings file.",
+  "why": "Royce p. 814 (page scan checked): Nov. 9, 1855, Executive order, 'Indians on coast of Oregon': 'President sets apart a reserve known as Coast reservation (which afterwards, on being reduced, was called Siletz reservation)'; p. 815: 'Modified and partly relinquished by Executive order of Dec. 21, 1865. Another portion relinquished by act of Congress, Mar. 3, 1875', 'See 578, 579, 479', Oregon 1. p. 878-879: Mar. 3, 1875, Act of Congress, Stat. L. XVIII, 446, 'Restores a portion of Alsea and Siletz reservation to public domain'; '(See Executive orders of Nov. 9, 1855, and Dec. 21, 1865.) This relinquishment comprises two separate tracts', 578, 579 Oregon 1.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/814/mode/2up"
+ },
+ "cession-1855-11-16-klamath": {
+  "presentDayTribes": [
+   "Yurok Tribe of the Yurok Reservation, California"
+  ],
+  "note": "The Klamath River reservation in California (lower Klamath, the Yurok country), not the Klamath Tribes of Oregon, a different nation whose own reservation was made by the treaty of Oct. 14, 1864. The 1891 order that took this strip into the extended Hoopa Valley reservation is cession-1891-10-16-klamath.",
+  "why": "Royce p. 814 (page scan checked): Nov. 16, 1855, Executive order, 'Klamath': 'President sets apart a reserve of 25,000 acres on both sides of Klamath river in California, the same being a strip commencing at the Pacific ocean and extending 1 mile in width on each side of the Klamath river for a distance of 20 miles.' p. 815: selected by Superintendent Henley under the act of Mar. 3, 1855; destroyed by the freshet of 1861 and the Indians removed to Smith River; 400, California 2. The Klamath Tribes, Oregon are replaced by the Yurok Tribe.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/814/mode/2up"
+ },
+ "cession-1891-10-16-klamath": {
+  "presentDayTribes": [
+   "Yurok Tribe of the Yurok Reservation, California"
+  ],
+  "note": "Same executive order of Oct. 16, 1891 as cession-1891-10-16-hupa-s-fork-redwood-and-grouse-creek-ban (Royce maps it 'See 400, 461'); count the order once. The strip along the lower Klamath is the Klamath River reservation of 1855 (area 400), Yurok country; the Klamath Tribes of Oregon are a different nation.",
+  "why": "Royce p. 942 (page scan checked): Oct. 16, 1891, Executive order, 'Hupa et al.': 'The President extends the limits of their reservation so as to include a tract of country 1 mile in width on each side of the Klamath river, and extending from the then limits thereof to the Pacific ocean.' p. 943: 'This extension includes the land set apart to the Klamath Indians by Executive order, Nov. 16, 1855, which, however, was subsequently abandoned by them because of the destruction of their property by a great freshet. (See No. 400, California map 2.)', 'See 400, 461', California 2. The Klamath Tribes, Oregon are replaced by the Yurok Tribe.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/942/mode/2up"
+ },
+ "cession-1858-06-08-delaware": {
+  "name": "Act of Congress confirming the sale of the Christian Indians’ four sections, 1858-06-08",
+  "scheduleTribes": [
+   "Munsee or Christian Indians"
+  ],
+  "note": "The Munsee or Christian Indians in Kansas, not the Delaware nation: they sold four sections they had bought from the Delawares under the treaty of May 6, 1854, and later joined the Swan Creek and Black River Chippewa (treaty of July 16, 1859). presentDayTribes is left as the USFS layer gives it; which nation descends from these Munsee is for Jordan.",
+  "why": "Royce p. 820 (page scan checked): June 8, 1858, Act of Congress, Stat. L. XI, 312, tribe 'Munsee or Christian Indians': 'Christian Indians sell four sections purchased of the Delawares under treaty of May 6, 1854, and sale confirmed by Congress.' p. 821: 'The President is authorized to purchase another home for them. See Delaware treaty of May 6, 1854. A new home was found for them among the Swan Creek and Black River Chippewa in Kansas, with whom they became confederated', 'See 317', Kansas 2.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/820/mode/2up"
+ },
+ "kappler-763": {
+  "royce": [
+   "https://archive.org/stream/annualreportofbu218smit#page/816/mode/2up"
+  ],
+  "why": "Royce p. 816 (page scan checked): Feb. 11, 1856, Keshena, Wisconsin, Stat. L. XI, 679, Menomini: 'Cede two townships in SW. corner of their reserve for the location of the Stockbridge and Munsee'; p. 817: 'By treaty of Feb. 11, 1856, with the Menomini, two townships were purchased from them for the location of the Stockbridge and Munsee', 403, Wisconsin 2. Kappler (OSU treaty-with-the-menominee-1856-0755): Feb. 11, 1856, 11 Stat. 679. The Royce link pointed to p. 854, the Stockbridge and Munsee Act of Feb. 6, 1871 (cession-1871-02-06-menomini), and is set to p. 816.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/816/mode/2up"
+ },
+ "cession-1864-10-21-dwamish": {
+  "presentDayTribes": [
+   "Suquamish Indian Tribe of the Port Madison Reservation, Washington"
+  ],
+  "note": "An enlargement of the Port Madison reserve made by the Point Elliott treaty (kappler-677), the reservation of the Suquamish Tribe. Royce's 'Dwamish et al.' is the treaty's signatory heading, not the people of this reserve.",
+  "why": "Royce p. 834 (page scan checked): Oct. 21, 1864, Executive order, 'Dwamish et al.': 'Secretary of Interior enlarges reserve at Port Madison established by treaty of Jan. 22, 1855. Boundaries of addition not given'; p. 835: 'Enlargement shown on map of Washington, along Admiralty inlet', 465. The Duwamish Tribe [Unrecognized] is replaced by the Suquamish Tribe, whose reservation this is.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/834/mode/2up"
+ },
+ "cession-1866-09-22-payallup": {
+  "presentDayTribes": [
+   "Shoalwater Bay Indian Tribe of the Shoalwater Bay Indian Reservation"
+  ],
+  "note": "Not a Puyallup reservation: the order withdrew land for the Shoalwater Bay reservation in south-western Washington. Royce's tribe column reads 'Puyallup and others'; the people of this reserve are the Shoalwater Bay Indian Tribe.",
+  "why": "Royce p. 842 (page scan checked): 1866 Sept. 22, Executive order, 'Puyallup and others': 'President withdraws parts of secs. 2 and 3, T. 14 N., R. 11 W., for a reservation at Shoalwater bay'; p. 843: 493, Washington (northwestern). The Puyallup Tribe is replaced by the Shoalwater Bay Indian Tribe.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/842/mode/2up"
+ },
+ "kappler-466": {
+  "kappler": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1836-0459",
+  "note": "The Hathitrust link at Kappler seq 466 (p. 458) is the other treaty of the same day, with O-kah-mause, Kee-waw-nay, Nee-boash and Mat-chis-jaw (7 Stat. 500), now split out as cession-1836-04-22-potawatomi-o-kah-mause-s-band. This record's area 210 and schedule name are the bands of Nas-waw-kee and Quash-quaw, whose treaty is on p. 459 (7 Stat. 501); the link is set to the Oklahoma State University copy of that treaty. The id is kept because it has a findings file.",
+  "why": "Royce p. 758 (page scan checked): Apr. 22, 1836, Indian agency in Indiana, Stat. L. VII, 501, 'Potawatomi (bands of Nas-waw-kee and Quash-quaw)': 'The foregoing bands cede to the U. S. 3 sections of land reserved for them by the second article of the treaty concluded on Tippecanoe river, Oct. 26, 1832'; p. 759: 210, Indiana (detail). Kappler (OSU treaty-with-the-potawatomi-1836-0459): Apr. 22, 1836, 7 Stat. 501, 'Nas-waw-kee and Quash-quaw chiefs and head men', three sections. OSU treaty-with-the-potawatomi-1836-0458 is the O-kah-mause treaty (7 Stat. 500, ten sections).",
+  "source": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1836-0459"
+ },
+ "cession-1836-04-22-potawatomi-o-kah-mause-s-band": {
+  "splitFrom": "kappler-466",
+  "date": "1836-04-22",
+  "kappler": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1836-0458",
+  "royce": [
+   "https://archive.org/stream/annualreportofbu218smit#page/758/mode/2up"
+  ],
+  "cessions": [],
+  "scheduleTribes": [
+   "Potawatomi (bands of O-kah-mause, Kee-waw-nay, Nee-bosh, and Mah-che-saw)"
+  ],
+  "presentDayTribes": [
+   "Citizen Potawatomi Nation, Oklahoma"
+  ],
+  "states": [
+   "IN"
+  ],
+  "note": "Royce gives this treaty no map area: 'Boundaries not ascertained' for both tracts, so nothing is drawn. Present-day nation carried over from kappler-466, the same-day treaty with neighbouring bands; which nations descend from these bands was not settled. Kappler's own page for it is seq 466 (p. 458), the link the USFS layer gave kappler-466.",
+  "why": "Royce p. 758 (page scan checked): Apr. 22, 1836, Indian agency in Indiana, Stat. L. VII, 500, 'Potawatomi (bands of O-kah-mause, Kee-waw-nay, Nee-bosh, and Mah-che-saw)': 'The foregoing chiefs and their bands cede to the U. S. the following lands, viz: 1. Eight sections of land reserved for the bands of O-kaw-mause, Kee-waw-nay, and Nee-bosh by the treaty of Oct. 26, 1832. 2. Two sections of land reserved for the band of Mah-che-saw by the treaty of Oct. 26, 1832', and they agree to remove west of the Mississippi within two years; p. 759: 'Boundaries not ascertained' (twice), no number. Kappler (OSU treaty-with-the-potawatomi-1836-0458): Apr. 22, 1836, 7 Stat. 500, 'O-kah-mause, Kee-waw-nay, Nee-boash, and Mat-chis-jaw', ten sections. It had no record of its own.",
+  "source": "https://treaties.okstate.edu/treaties/treaty-with-the-potawatomi-1836-0458"
+ },
+ "kappler-439": {
+  "note": "Area 201 is also drawn with the treaty of Oct. 27, 1832 (kappler-380), which made the reserve: Royce's map column for that treaty reads 'See 201' with 'Ceded to the U. S. by treaty of Dec. 17, 1834, and again ceded to the U. S. by treaty of Sept. 23, 1836'. Royce numbers 201 under this treaty, so both records keep it.",
+  "why": "Note only; no field changed. Royce p. 754 (page scan checked): Dec. 17, 1834, Logansport, Indiana, Stat. L. VII, 469, 'Potawatomi (Mota's band)': 'Mota and his band cede to the U. S. the 4 sections of land reserved for them by the second article of the treaty between the U. S. and the Potawattamie Indians on Oct. 27, 1832'; p. 755: 201, Indiana (detail). p. 743: 'See 201'.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/754/mode/2up"
+ },
+ "kappler-333": {
+  "note": "The Oklahoma State University database lists the Seneca Nation of Indians and the Tonawanda Band of Seneca as successors along with the Seneca-Cayuga Nation, but that list covers every Seneca treaty; this one was made with the Seneca of Sandusky river in Ohio only, who moved to Indian Territory and are today the Seneca-Cayuga Nation. presentDayTribes is left as it is.",
+  "why": "Note only; no field changed. Kappler (OSU treaty-with-the-seneca-1831-0325): Feb. 28, 1831, 7 Stat. 348, original signatory 'Seneka'; successors listed 'Seneca Nation of Indians | Seneca-Cayuga Nation | Tonawanda Band of Seneca'. Royce p. 686 schedule tribe for this treaty: 'Seneka of Sandusky river' (as carried on the record).",
+  "source": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-1831-0325"
+ },
+ "kappler-677": {
+  "presentDayTribes": [
+   "Duwamish Tribe of Indians [Unrecognized]",
+   "Suquamish Indian Tribe of the Port Madison Reservation, Washington",
+   "Tulalip Tribes of Washington",
+   "Lummi Tribe of the Lummi Reservation",
+   "Swinomish Indian Tribal Community",
+   "Snoqualmie Indian Tribe",
+   "Muckleshoot Indian Tribe",
+   "Stillaguamish Tribe of Indians of Washington",
+   "Sauk-Suiattle Indian Tribe",
+   "Upper Skagit Indian Tribe",
+   "Nooksack Indian Tribe"
+  ],
+  "note": "The Oklahoma State University database also lists the Samish Indian Nation and the Skokomish Indian Tribe as successors; they are not added here (left for Jordan). The Snoqualmie are added because the treaty names the Snoqualmoo as a party and OSU lists Snoqualmie among the original signatories, though not among its successors.",
+  "why": "Royce p. 798 (page scan checked): Jan. 22, 1855, Point Elliott, Washington territory, Stat. L. XII, 927, 'Dwamish, Suquamish, and other allied tribes', ceding the country from Point Pully to the 49th parallel. Kappler (OSU treaty-with-the-dwamish-suquamish-etc-1855-0669): original signatories Dwamish, Sammamish, Snohomish, Sk-tahlmish, Skagit, Skopeahmish, Sktahlejum, Smalhkamish, Snoqualmie, Suquamish; successors in interest Lummi Tribe of the Lummi Reservation, Muckleshoot Indian Tribe, Nooksack Indian Tribe, Samish Indian Nation, Sauk-Suiattle Indian Tribe, Skokomish Indian Tribe, Stillaguamish Tribe of Indians of Washington, Suquamish Indian Tribe of the Port Madison Reservation, Swinomish Indian Tribal Community, Tulalip Tribes of Washington, Upper Skagit Indian Tribe. The record listed only the Duwamish and Suquamish; the other treaty peoples' successors are added.",
+  "source": "https://treaties.okstate.edu/treaties/treaty-with-the-dwamish-suquamish-etc-1855-0669"
+ },
+ "kappler-644": {
+  "presentDayTribes": [
+   "Peoria Tribe of Indians of Oklahoma"
+  ],
+  "why": "Royce p. 794 (page scan checked): May 30, 1854, Washington, D. C., Stat. L. X, 1082, 'Kaskaskia, Peoria, Piankishaw and Wea': 'Cede part of tract assigned them by treaties of Oct. 27 and Oct. 29, 1832.' Kappler (OSU treaty-with-the-kaskaskia-peoria-etc-1854-0636): original signatories Kaskaskia, Peoria, Piankishaw, Wea; successor in interest 'Peoria Tribe of Indians of Oklahoma' only. The Miami Tribe of Oklahoma was not a party and is removed, as on kappler-384 and kappler-390.",
+  "source": "https://treaties.okstate.edu/treaties/treaty-with-the-kaskaskia-peoria-etc-1854-0636"
+ },
+ "kappler-97": {
+  "presentDayTribes": [
+   "Peoria Tribe of Indians of Oklahoma"
+  ],
+  "why": "Royce p. 672 (page scan checked): Dec. 30, 1805, Vincennes, Indiana territory, Stat. L. VII, 100, 'Piankishaw': 'The Piankishaw tribe cedes to the U. S. all that tract of country (except as hereinbelow reserved) lying between the Wabash and the tract ceded by the Kaskaskia tribe in 1803'. Kappler (OSU treaty-with-the-piankashaw-1805-0089): original signatory Piankishaw; successor in interest 'Peoria Tribe of Indians of Oklahoma'. The Miami Tribe of Oklahoma was not a party and is removed, as on the Piankishaw treaty of Aug. 27, 1804 (kappler-80).",
+  "source": "https://treaties.okstate.edu/treaties/treaty-with-the-piankashaw-1805-0089"
+ },
+ "cession-1876-10-30-apache": {
+  "presentDayTribes": [
+   "Fort Sill Apache Tribe of Oklahoma"
+  ],
+  "note": "The Chiricahua reservation's people are represented today by the Fort Sill Apache Tribe (the Fort Sill Chiricahua Warm Springs Apache Tribe); some Chiricahua descendants also live on the Mescalero reservation.",
+  "why": "Royce p. 888 (page scan checked): 1876 Oct. 30, Executive order, 'Apache': 'President revokes and cancels order of Dec. 14, 1872, setting apart Chiricahua reservation', bounded from Dragoon springs along the Chiricahua mountains to the Peloncillo mountains and the Mexican boundary. presentDayTribes was empty; the Fort Sill Apache Tribe, the Chiricahua successor and the plaintiff successor in the Commission's case (findings file), is added.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/888/mode/2up"
+ },
+ "cession-1890-10-23-ponka": {
+  "royce": [
+   "https://archive.org/stream/annualreportofbu218smit#page/938/mode/2up"
+  ],
+  "why": "Royce p. 938 (page scan checked): 1890 Oct. 23, President's proclamation, Stat. L. XXVI, 1559, 'Ponka': 'President reserves from entry that tract of land occupied by the agency and school buildings', the S. half of the SE. quarter of sec. 26 and the S. half of the SW. quarter of sec. 25, T. 32 N., R. 7 W.; p. 939: 'Too small to be entered on the map (forms part of 472)', 'See 472', Dakota 1. The Royce link pointed to p. 818, the original area 472 entry, and is set to p. 938.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/938/mode/2up"
+ },
+ "cession-1887-05-21-shoshoni": {
+  "royce": [
+   "https://archive.org/stream/annualreportofbu218smit#page/924/mode/2up"
+  ],
+  "statute": [],
+  "note": "The order setting apart the Wind River military reservation for Fort Washakie (1,405 acres) inside the Wind River reservation; Royce maps it only as 'See 540', the reservation kept by the Brunot agreement of Sept. 26, 1872 (cession-1872-09-26-shoshoni), so it shares that area. The statute file (FedStatIndianLand 540r.pdf) is for an executive order and is removed.",
+  "why": "Royce p. 924 (page scan checked): the executive order in which 'The President sets apart as the Wind River military reservation for Fort Washakie the following lands', near the flagstaff of Fort Washakie, Wyoming territory, 'Area, 1,405 acres, more or less'; p. 925: 'See 540', Wyoming 2. The Royce link pointed to p. 858 (the 1872 agreement) and is set to p. 924.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/924/mode/2up"
+ },
+ "cession-1875-07-03-paiute": {
+  "note": "Not a separate event: July 3, 1875 is the day the Secretary of the Interior approved the boundaries of the 1,000 acres kept as the Moapa reservation by the Act of Mar. 3, 1875. Royce numbers that tract 577 under the Act, which cession-1875-03-03-paiute carries. Count the Act once. The id is kept because it has a findings file.",
+  "why": "Note only; no field changed. Royce p. 878 (page scan checked): Mar. 3, 1875, Act of Congress, Stat. L. XVIII, 445, Paiute: 'President restores a portion of Moapa River reservation to public domain' and 'retains 1,000 acres of Moapa River reservation as future reserve for Pai Utes'; p. 879: 576, and 577 'See Executive orders of Mar. 12, 1873, Feb. 12, 1874, and July 31, 1875. This constitutes the present Moapa reservation, and the boundaries of the same were approved by the Secretary of the Interior, July 3, 1875', Nevada.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/878/mode/2up"
+ },
+ "cession-1882-12-21-chippewa-turtle-mountain-band": {
+  "note": "Areas 654 and 656 are kept as Royce's own cross-reference for this order ('See 654, 656': 'Part of this reserve was relinquished by Executive order of Mar. 29, 1884, as amended by Executive order of June 3, 1884'); Royce numbers 654 under the order of Mar. 29, 1884 and 656 under that of June 3, 1884, which carry them too. The reservation as created in 1882 has no number of its own.",
+  "why": "Note only; no field changed. Royce p. 908 (page scan checked): Dec. 21, 1882, Executive order, 'Chippewa (Turtle Mountain band)': 'President sets apart reserve for Turtle mountain band of Chippewas'; p. 909: 'See 654, 656', Dakota 2. p. 917: 654 (Mar. 29, 1884), 'Amended by Executive order of June 3, 1884', 'See 656'; 656 (June 3, 1884), Dakota 2.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/908/mode/2up"
+ },
+ "cession-1874-06-22-sioux-wahpeton": {
+  "name": "Act of Congress ratifying in general terms the Shoshoni (Eastern Shoshone) Brunot agreement, 1874-06-22",
+  "scheduleTribes": [
+   "Shoshoni"
+  ],
+  "presentDayTribes": [
+   "Eastern Shoshone Tribe of the Wind River Reservation, Wyoming"
+  ],
+  "royce": [
+   "https://archive.org/stream/annualreportofbu218smit#page/874/mode/2up"
+  ],
+  "note": "One cession counted three times by the USFS layer: the Brunot agreement of Sept. 26, 1872 (cession-1872-09-26-sioux-wahpeton, with the reservation kept on cession-1872-09-26-shoshoni), the Act of June 22, 1874 that ratified it in general terms (Stat. L. XVIII, 166; cession-1874-06-22-sioux-wahpeton) and the Act of Dec. 15, 1874 that ratified and confirmed it (Stat. L. XVIII, 291; cession-1874-12-15-sioux-wahpeton). All three map area 539. Count the cession once. The Sisseton and Wahpeton Sioux name came from the neighbouring Sioux rows; the ids are kept because they have findings files.",
+  "why": "Royce p. 874 (page scan checked): 1874 June 22, Act of Congress, Stat. L. XVIII, 166, tribe 'Shoshoni': 'Ratifies agreement of Sept. 26, 1872, for cession of part of reservation established by treaty of July 3, 1868'; p. 875: 'See 539', Wyoming 2. The row below it is the Sisseton and Wahpeton Act of the same day (Stat. L. XVIII, 167, 'See 538', cession-1874-06-22-sioux-sisseton); the USFS layer gave this Wyoming area their name. The Sioux, Wahpeton and the Sisseton-Wahpeton Oyate are replaced by the Shoshoni and the Eastern Shoshone Tribe. The Royce link pointed to p. 850 and is set to p. 874.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/874/mode/2up"
+ },
+ "cession-1874-12-15-sioux-wahpeton": {
+  "name": "Act of Congress ratifying the Shoshoni (Eastern Shoshone) Brunot agreement, 1874-12-15",
+  "scheduleTribes": [
+   "Shoshoni"
+  ],
+  "presentDayTribes": [
+   "Eastern Shoshone Tribe of the Wind River Reservation, Wyoming"
+  ],
+  "note": "One cession counted three times by the USFS layer: the Brunot agreement of Sept. 26, 1872 (cession-1872-09-26-sioux-wahpeton, with the reservation kept on cession-1872-09-26-shoshoni), the Act of June 22, 1874 that ratified it in general terms (Stat. L. XVIII, 166; cession-1874-06-22-sioux-wahpeton) and the Act of Dec. 15, 1874 that ratified and confirmed it (Stat. L. XVIII, 291; cession-1874-12-15-sioux-wahpeton). All three map area 539. Count the cession once. The Sisseton and Wahpeton Sioux name came from the neighbouring Sioux rows; the ids are kept because they have findings files.",
+  "why": "Royce p. 878 (page scan checked): 1874 Dec. 15, Act of Congress, Stat. L. XVIII, 291, tribe 'Shoshoni': 'Ratifies agreement of Sept. 26, 1872, for cession of part of reservation established by treaty of July 3, 1868'; p. 879: 'This had already been ratified in general terms by act of Congress approved June 22, 1874', 'See 539', Wyoming 2. The Sioux, Wahpeton and the Sisseton-Wahpeton Oyate are replaced by the Shoshoni and the Eastern Shoshone Tribe.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/878/mode/2up"
+ },
+ "cession-1874-06-22-sioux-sisseton": {
+  "note": "Royce cites this Act as Stat. L. XVIII, 167. No statute link is added: the govinfo page for 18 Stat. 167 resolves to the Revised Statutes (Part 1), not this session law, and no working copy of the Act was found. The citation stands here instead.",
+  "why": "Note only; no field changed. Royce p. 874 (page scan checked): 1874 June 22, Act of Congress, Stat. L. XVIII, 167, 'Sisseton and Wahpeton Sioux': 'Ratifies agreement of Sept. 20, 1872, for cession of lands'; p. 875: 'See acts of Congress of June 7, 1872, and Feb. 14, 1873', 'See 538', Dakota 1.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/874/mode/2up"
+ },
+ "cession-1873-11-22-dwamish": {
+  "presentDayTribes": [
+   "Lummi Tribe of the Lummi Reservation"
+  ],
+  "note": "An enlargement of the Lummi reserve made by the Point Elliott treaty (kappler-677). Royce's 'Dwamish and allied tribes' is the treaty's signatory heading, not the people of this reserve.",
+  "why": "Royce p. 868 (page scan checked): 1873 Nov. 22, Executive order, 'Dwamish and allied tribes': 'President enlarges reserve set apart at Lummi river by treaty Jan. 22, 1855, by the following addition', from the eastern mouth of Lummi river to the Gulf of Georgia and Point Francis; p. 869: 'For original reserve, see Washington map 1 (350)', 555, Washington 2. The Duwamish Tribe [Unrecognized] is replaced by the Lummi Tribe, whose reservation this is.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/868/mode/2up"
+ },
+ "cession-1873-09-06-niskwali": {
+  "presentDayTribes": [
+   "Puyallup Tribe of the Puyallup Reservation, Washington"
+  ],
+  "note": "An enlargement of the Puyallup reserve, not the Nisqually reserve. Royce's 'Niskwali and others' is the Medicine Creek treaty's heading.",
+  "why": "Royce p. 864 (page scan checked): 1873 Sept. 6, Executive order, 'Niskwali and others': 'President enlarges Puyallup reserve, as set apart by Executive order of Jan. 20, 1857'; p. 865: 'This enlargement only included fractional sec. 34, T. 21 N., R. 3 E., and is too small to be separately shown on the map. As herein enlarged it constitutes the present Puyallup reserve', 'See 405'. The Nisqually Indian Tribe is replaced by the Puyallup Tribe.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/864/mode/2up"
+ },
+ "cession-1873-03-03-miami": {
+  "statute": [
+   "https://www.govinfo.gov/content/pkg/STATUTE-17/pdf/STATUTE-17-Pg631.pdf"
+  ],
+  "why": "Royce p. 862 (page scan checked): 1873 Mar. 3, Act of Congress, Stat. L. XVII, 631, Miami: 'Remainder of reserve in Kansas to be sold and Miamis may become merged with Kaskaskias et al.'; p. 863: 'See 330', Kansas 2. The statute is linked: 17 Stat. 631, ch. 332, 'An Act to abolish the tribal Relations of the Miami Indians, and for other Purposes' (govinfo page image checked).",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/862/mode/2up"
+ },
+ "cession-1873-03-03-round-valley-reservation-indians": {
+  "statute": [
+   "https://www.govinfo.gov/content/pkg/STATUTE-17/pdf/STATUTE-17-Pg633.pdf"
+  ],
+  "executiveOrder": [],
+  "presentDayTribes": [
+   "Round Valley Indian Tribes of the Round Valley Reservation, California"
+  ],
+  "why": "Royce p. 862 (page scan checked): 1873 Mar. 3, Act of Congress, Stat. L. XVII, 633, no tribe named: 'Restores part of Round Valley reservation to public domain', making the line between Ts. 22 and 23 N. the southern boundary of the Indian reservation in Round valley; p. 863: 544, and 'See 583', California 2 (detail of Round Valley reservation). The statute is linked: 17 Stat. 633, ch. 333, 'An Act to restore a Part of the Round Valley Indian Reservation, in California, to the public Lands' (govinfo page image checked). The executive-order file (ExecOrdersIndianLand 583r.pdf) belongs to the order of May 18, 1875 that proclaimed the boundaries ('See 583') and is removed from this Act. presentDayTribes was empty; the Round Valley Indian Tribes, the nation of this reservation, is added.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/862/mode/2up"
+ },
+ "cession-1872-12-14-apache": {
+  "presentDayTribes": [
+   "Fort Sill Apache Tribe of Oklahoma",
+   "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+  ],
+  "note": "Royce prints two orders of this day for the Apache: the Chiricahua reservation (map 'See 600'; it was revoked on Oct. 30, 1876, cession-1876-10-30-apache, which carries 600) together with the restoration of the Camp Grant reserve (541), and the San Carlos addition to the White Mountain reservation (no number). The USFS layer folded them into this record. The Fort Sill Apache Tribe is the Chiricahua successor; the San Carlos Apache Tribe is carried for the Camp Grant and San Carlos lands, as on cession-1871-11-09-apache. Area 600 stays as Royce's cross-reference.",
+  "why": "Royce p. 860 (page scan checked): 1872 Dec. 14, Executive order, 'Apache': 'President sets apart a reserve to be known as Chiricahua reservation. President restores to public domain reservation established at Camp Grant, Nov. 9, 1871'; and a second order the same day, 'Apache': 'President enlarges White Mountain reservation by tract known as \"San Carlos addition\"'. p. 861: 'Revoked and canceled by Executive order of Oct. 30, 1876', 'See 600', Arizona 2; 541, Arizona 2. presentDayTribes was empty.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/860/mode/2up"
+ },
+ "cession-1876-01-28-paiute-shoshone-snake": {
+  "presentDayTribes": [
+   "Burns Paiute Tribe"
+  ],
+  "statute": [],
+  "note": "Same executive order of Jan. 28, 1876 as cession-1876-01-28-paiute-shoshoni (area 589, the part restored); this record maps 'See 638, 646', the Malheur reserve as re-set. Count the order once. The statute file (FedStatIndianLand 638c.pdf) is removed: this was an executive order.",
+  "why": "Royce p. 884 (page scan checked): 1876 Jan. 28, Executive order, 'Paiute and Shoshoni': 'President supersedes order of May 15, 1875, and sets apart a new reserve on Malheur river' and 'restores to public domain a portion of the tract added to the Malheur reservation by Executive order of May 15, 1875'; p. 885: 'This was composed of all the original reserve by Executive order of Sept. 12, 1872, and a portion of the addition as described in Executive order of May 15, 1875', 'See 638, 646', Oregon 2; 589, Oregon 2. presentDayTribes was empty; the Burns Paiute Tribe, the Malheur reservation's Northern Paiute, is added as on the Sept. 12, 1872 order.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/884/mode/2up"
+ },
+ "cession-1875-12-21-southern-apache": {
+  "presentDayTribes": [
+   "Fort Sill Apache Tribe of Oklahoma"
+  ],
+  "note": "The Hot Springs (Ojo Caliente) reserve of the Warm Springs Apache. Their successor is the Fort Sill Apache Tribe, officially the Fort Sill Chiricahua Warm Springs Apache Tribe. Some Warm Springs descendants live on the Mescalero reservation; whether to add the Mescalero Apache Tribe is left for Jordan.",
+  "why": "Royce p. 882 (page scan checked): 1875 Dec. 21, Executive order, 'Southern Apache': 'President establishes boundaries of Hot Springs reservation in lieu of boundaries defined by Executive order Apr. 9, 1874', in the valley of Canada Alamosa river; p. 884: same day, 'Southern Apache', 'President restores to market that part of reserve established by Executive order of Apr. 9, 1874, not included in Executive order of Dec. 21, 1875'; p. 883: 'Canceled and restored to public domain by Executive order of Aug. 25, 1877', 587, New Mexico 2. presentDayTribes was empty.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/882/mode/2up"
+ },
+ "cession-1874-06-23-eastern-shawnee": {
+  "note": "Same transaction as cession-1875-03-03-eastern-shawnee: this is the Eastern Shawnee agreement selling the north-east corner of their reserve for the Modoc, and the Act of Mar. 3, 1875 (Stat. L. XVIII, 447) confirmed it. Both map area 571. Count it once.",
+  "why": "Note only; no field changed. Royce p. 876 (page scan checked): 1874 June 23, Agreement, 'Eastern Shawnee': 'Cede a tract in NE. corner of their reserve for occupancy of Modocs', 4,000 acres. p. 878: 1875 Mar. 3, Act of Congress, Stat. L. XVIII, 447, 'Modok': 'Act confirming sale by Eastern Shawnees of N. E. part of their reserve to Modocs, by agreement June 23, 1874'; p. 879: 'See 571'.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/876/mode/2up"
+ },
+ "cession-1875-03-03-eastern-shawnee": {
+  "note": "Same transaction as cession-1874-06-23-eastern-shawnee: this Act (Stat. L. XVIII, 447) confirmed the Eastern Shawnee agreement of June 23, 1874 selling part of their reserve for the Modoc. Both map area 571. Count it once.",
+  "why": "Note only; no field changed. Royce p. 878 (page scan checked): 1875 Mar. 3, Act of Congress, Stat. L. XVIII, 447, 'Modok': 'Act confirming sale by Eastern Shawnees of N. E. part of their reserve to Modocs, by agreement June 23, 1874'; p. 879: 'See 571', Indian Territory 3.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/878/mode/2up"
+ },
+ "cession-1875-10-20-crow": {
+  "note": "Area 585 is also on cession-1876-03-08-crow, the order that revoked this one. This order set the tract apart; that one restored it. Two events on one tract; the land was never ceded by the Crow.",
+  "why": "Note only; no field changed. Royce p. 882 (page scan checked): 1875 Oct. 20, Executive order, Crow: 'President sets apart an addition to reservation established by treaty May 7, 1868', on the Yellowstone from 107 W. to Big Timber creek; p. 883: 'Revoked and canceled by Executive order of Mar. 8, 1876', 585, Montana 2.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/882/mode/2up"
+ },
+ "cession-1876-03-08-crow": {
+  "note": "Area 585 is also on cession-1875-10-20-crow, the order that set the tract apart; this order revoked it and restored the tract to the public domain. Two events on one tract.",
+  "why": "Note only; no field changed. Royce p. 884 (page scan checked): 1876 Mar. 8, Executive order, Crow: 'President revokes Executive order of Oct. 20, 1875, and restores tract therein reserved to public domain.' p. 883: 585 is numbered under the Oct. 20, 1875 order.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/884/mode/2up"
  }
 }

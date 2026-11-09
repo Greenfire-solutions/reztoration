@@ -110,7 +110,8 @@
     "The Indian Claims Commission in 1966 (Docket 328) treated 230,547.44 acres of Southern Ute land as taken without consideration; the Supreme Court's 1971 res judicata ruling ended that claim, so the Commission's view is not recorded as a finding.",
     "No Southern Ute or Ute Mountain Ute account of the 1880 agreement was found in this pass.",
     "Audit 2026-11-08: the Ute Business Committee statement was made on Wednesday, October 12, 2022 (the KSL / Deseret News story ran on October 13); the nation-statement date was changed from 2022-10-13 to 2022-10-12 to match cession-1880-03-06-uta. The stale note saying the related file still carried the note-3 admission was rewritten.",
-    "Audit 2026-11-08: treaties.json duplicate confirmed. This entry and cession-1880-03-06-uta are one agreement over the same Royce areas (616, 617); Royce gives September 11, 1880 only as the end of the Ute assent (June 29 to September 11, 1880). The map should show one treaty, not two."
+    "Audit 2026-11-08: treaties.json duplicate confirmed. This entry and cession-1880-03-06-uta are one agreement over the same Royce areas (616, 617); Royce gives September 11, 1880 only as the end of the Ute assent (June 29 to September 11, 1880). The map should show one treaty, not two.",
+    "2026-11-08: counted once with cession-1880-03-06-uta (the same 1880 Ute agreement; September 11 is when assent was completed). The map still shows this row."
   ],
   "plain": {
     "promised": "The Ute bands agreed to give up their Colorado reservation in return for land to settle on, allotted to them in severalty, with the rest sold and the money used for them.",
@@ -118,5 +119,6 @@
     "today": "Settlements in 1950 exceeded $31 million, and the Uncompahgre Band settled for $300,000 in 1965. The Ute Indian Tribe asks that its Uncompahgre Reservation homelands be restored."
   },
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "sameEventAs": "cession-1880-03-06-uta"
 }

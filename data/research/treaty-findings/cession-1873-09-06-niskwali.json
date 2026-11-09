@@ -1,0 +1,31 @@
+{
+  "id": "cession-1873-09-06-niskwali",
+  "name": "Executive order of September 6, 1873 enlarging the Puyallup reservation",
+  "signed": "1873-09-06",
+  "citation": "Executive Order of September 6, 1873 (Royce, see area 405)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/864/mode/2up",
+  "nations": [
+    "Puyallup Tribe of Indians"
+  ],
+  "promises": [
+    "Not a treaty. The President enlarged the Puyallup reserve set apart by executive order of January 20, 1857.",
+    "Royce says the enlargement covered only fractional section 34, T. 21 N., R. 3 E., too small to map, and that the reserve as enlarged was the Puyallup reserve of his day."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "An enlargement, not a taking. No court or claims finding about this order was located.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 864-865",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/864/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json names the tribe \"Niskwali\" and the present-day tribe as the Nisqually Indian Tribe; Royce lists \"Niskwali and others\", but the order enlarges the Puyallup reservation, so the Puyallup Tribe is the nation concerned. Not edited.",
+    "The Nisqually claim (ICC Docket 197) concerns the Medicine Creek treaty cession, not this order."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

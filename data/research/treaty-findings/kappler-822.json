@@ -20,7 +20,7 @@
   "status": "no-breach-found",
   "breaches": [],
   "compensation": "The price was the appraised value, $286,742.15, in railroad bonds. The 1866 treaty (kappler-945) has the United States guarantee payment for these lands.",
-  "today": "The Indian Claims Commission's Delaware awards found in this pass concern other matters: the 1854 trust lands not sold at public auction (Dockets 72 and 298, 1969), the Delaware Outlet (Dockets 27-A and 241), the 1818 Indiana cession (Docket 337) and Royce Area 11 (Docket 27-B). None addresses the 1860-61 railroad sale.",
+  "today": "The Court of Claims dismissed a Delaware claim about this sale: in Delaware Tribe of Indians v. United States, No. E-493, 74 Ct. Cl. 368 (May 2, 1932), the tribe sought $83,680.61, the gold premium on the $286,742.15 paid for these lands, arguing it should have been credited in coin rather than legal-tender notes; the court held the United States owed nothing. The Indian Claims Commission's Delaware awards found in this pass concern other matters: the 1854 trust lands not sold at public auction (Dockets 72 and 298, 1969), the Delaware Outlet (Dockets 27-A and 241), the 1818 Indiana cession (Docket 337) and Royce Area 11 (Docket 27-B). None addresses the 1860-61 railroad sale.",
   "nationVoice": [],
   "sources": [
     {
@@ -37,12 +37,18 @@
       "title": "Absentee Delaware Tribe of Oklahoma et al. and Delaware Tribe of Indians v. United States, Dockets 72 and 298, Final Award (September 10, 1969), 21 Ind. Cl. Comm. 344",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2294",
       "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Delaware Tribe of Indians v. United States, No. E-493, 74 Ct. Cl. 368 (May 2, 1932)",
+      "url": "https://static.case.law/us-ct-cl/74/cases/0368-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
     }
   ],
   "openQuestions": [
     "Whether the railroad bonds were paid, and whether any claim was brought over the 1860-61 sale price, was not settled.",
     "The Delaware Tribe of Indians' website pages on the Kansas period returned errors and could not be read.",
-    "treaties.json gives only the Delaware Nation, Oklahoma as present-day tribe; the Kansas Delawares who moved to the Cherokee Nation in 1867 are the Delaware Tribe of Indians (Bartlesville). Not edited."
+    "treaties.json gives only the Delaware Nation, Oklahoma as present-day tribe; the Kansas Delawares who moved to the Cherokee Nation in 1867 are the Delaware Tribe of Indians (Bartlesville). Not edited.",
+    "Audit 2026-11-08: the 1932 Court of Claims dismissal of the gold-premium claim on the $286,742.15 railroad payment (74 Ct. Cl. 368) added to today as a ruling against the tribe, not a breach. The other Delaware Court of Claims opinions of 1931-1937 (72 Ct. Cl. 483, 72 Ct. Cl. 525, 84 Ct. Cl. 535) concern the 1854 investments, the 1818-1829 reservation survey and the statute of limitations, and were also dismissed."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

@@ -1,0 +1,41 @@
+{
+  "id": "cession-1880-01-06-navaho",
+  "name": "Executive order of January 6, 1880 adding land to the Navajo Reservation",
+  "aka": [
+    "Navajo eastern and southern addition of 1880"
+  ],
+  "signed": "1880-01-06",
+  "citation": "Executive order of January 6, 1880 (Royce area 615)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/898/mode/2up",
+  "nations": [
+    "Diné (Navajo Nation)"
+  ],
+  "promises": [
+    "This was an executive order, not a treaty. The President set apart an addition to the reservation of the treaty of June 1, 1868 and the order of October 29, 1878: from the San Juan River 15 miles east of the reservation's eastern line, south past the reservation's southeast corner by six miles, then west to 110 degrees west longitude and north to the reservation."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "None by this order: it added land to the Navajo Reservation (Royce area 615, Arizona and New Mexico).",
+  "compensation": "None stated.",
+  "today": "The reservation was changed again by executive order of May 17, 1884, which relinquished some New Mexico townships; that order is a separate record (cession-1884-05-17-navaho).",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 898, executive order of January 6, 1880",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/898/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 899, area 615",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/899/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "Whether any of this addition was among the New Mexico townships relinquished in 1884, and whether any finding covers that, was not researched here.",
+    "treaties.json gives New Mexico only; Royce maps area 615 on the Arizona and New Mexico maps. Not edited.",
+    "The order was read only in Royce's summary."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

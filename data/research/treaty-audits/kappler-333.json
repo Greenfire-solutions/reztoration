@@ -1,0 +1,20 @@
+{
+  "id": "kappler-333",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "OSU Kappler p. 325: Feb. 28, 1831, 7 Stat. 348, proclaimed Mar. 24, 1831; 30,000 and 10,000 acre tracts ceded; about 67,000 acres west; five per cent on the balance; $6,000 advance. Promises match.",
+    "ICC Docket 341-A is this treaty (Royce Area 163, 7 Stat. 348). Opinion and interlocutory order of Dec. 29, 1971 (OSU ids 923, 1267, 26 Ind. Cl. Comm. 625): sale proclaimed for Dec. 10, 1832 opened Dec. 11 and closed Dec. 20, contrary to the 1820 Act; the failure 'constituted breaches of both the Sandusky Treaty ... and the Lewistown Treaty'; 640 acres of school land wrongfully withheld.",
+    "Accounting opinion Dec. 7, 1972 (OSU id 2596): $42,021.12 for both treaties plus 5% on $6,013.49 from Jan. 1, 1972; Sandusky items include school land $1,030.40 and the 82 acres at $1,049.42 with interest. April 4, 1974 (OSU id 1560): no damages from the sale conduct. Final award June 11, 1975 (OSU ids 2109, 1032) after offsets withdrawn.",
+    "1978 transfer order (OSU id 2724): only an attorney's expense application pending, as the file said."
+  ],
+  "changes": [
+    "status raised from no-breach-found to broken on a claims-commission finding (the checker confirms).",
+    "Added the breach, compensation, rewritten today, plain lines, five ICC sources; removed the 'what 341-A to D claimed' open question; audit line added."
+  ],
+  "unverifiable": [
+    "Final award order (id 1032) reads $42,321.12 in the scan; the findings state $42,021.12 three times and that is used.",
+    "Seneca-Cayuga Nation account not searched further."
+  ],
+  "treatiesJsonErrors": []
+}

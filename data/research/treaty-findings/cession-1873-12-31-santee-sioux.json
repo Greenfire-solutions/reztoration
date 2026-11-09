@@ -1,0 +1,31 @@
+{
+  "id": "cession-1873-12-31-santee-sioux",
+  "name": "Executive order of December 31, 1873 amending the Santee (Niobrara) reservation order of August 31, 1869",
+  "signed": "1873-12-31",
+  "citation": "Executive Order of December 31, 1873 (Royce area 556)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/868/mode/2up",
+  "nations": [
+    "Santee Sioux Nation"
+  ],
+  "promises": [
+    "Not a treaty. Royce says the order only excepted from the lands added to the reserve in 1869 lots 1 to 4 of section 3, T. 32 [33?] N., R. 4 W., which had been patented to Thomas J. Quinn, a tract too small to map.",
+    "Royce's area 556 is the Santee or Niobrara reserve as it then stood."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "No court or claims finding about this order was located. Royce notes that the executive order of February 9, 1885 restored unallotted Santee reservation lands to the public domain; that order has its own record.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 868-869",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/868/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The ICC title search for \"santee\" returns only the Sioux Nation (Black Hills) dockets.",
+    "The township of the excepted lots is printed by Royce as \"T. 32 [33?] N.\"; left as printed."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

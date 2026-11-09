@@ -1,0 +1,65 @@
+{
+  "id": "cession-1873-08-16-crow",
+  "name": "Agreement with the Crow of August 16, 1873 (the Judith Basin agreement, never ratified)",
+  "aka": [
+    "Crow agreement of 1873"
+  ],
+  "signed": "1873-08-16",
+  "citation": "Unratified agreement of August 16, 1873 (Royce, see area 557)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/864/mode/2up",
+  "nations": [
+    "Apsáalooke (Crow Tribe of Montana)"
+  ],
+  "promises": [
+    "The United States agreed that a described country (the Judith Basin) would be the Crow reserve.",
+    "The second article of the Fort Laramie treaty of May 7, 1868 was to be abrogated, and the Crow were to cede to the United States their claim to the country described there.",
+    "The Act of March 3, 1873 (17 Stat. 626) had authorized the Secretary of the Interior to negotiate with the Crow for the cession of part of their reservation."
+  ],
+  "status": "unratified",
+  "breaches": [
+    {
+      "kind": "never-ratified",
+      "what": "Royce records that Congress did not ratify the agreement and that the Crow refused to move to the Judith Basin reserve, so the reserve set apart by executive order of January 31, 1874 was revoked on March 25, 1875.",
+      "whoFoundIt": "Royce, Indian Land Cessions (1899), remarks on the order of January 31, 1874 (area 557)",
+      "source": {
+        "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 870-871",
+        "url": "https://archive.org/stream/annualreportofbu218smit#page/870/mode/2up",
+        "publisher": "Smithsonian Institution, via Internet Archive"
+      },
+      "quote": "Revoked by order of Mar. 25, 1875, for the reason that the Crow refused to remove and Congress did not ratify the agreement."
+    }
+  ],
+  "landTaken": "None under this agreement, which was never ratified.",
+  "compensation": "None located.",
+  "today": "The Crow Tribe's Indian Claims Commission case (Docket 54) concerns the lands ceded in the 1868 Fort Laramie treaty; no claim about this agreement was located.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 862-863",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/862/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 864-865",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/864/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 870-871",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/870/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The agreement's own text was not opened; its terms are taken from Royce's summary.",
+    "The Crow Tribe's own account of the 1873 agreement was not located in this pass.",
+    "Later Crow cessions (1880-82 and 1891) have their own records."
+  ],
+  "plain": {
+    "promised": "The Crow were to give up part of their 1868 reservation and move to a new reserve in the Judith Basin.",
+    "happened": "Congress never ratified the agreement. The Crow refused to move, and the Judith Basin reserve was cancelled in 1875.",
+    "today": "No land changed hands under this agreement. No claims case about it was found."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

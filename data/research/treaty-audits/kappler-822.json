@@ -1,0 +1,19 @@
+{
+  "id": "kappler-822",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Oklahoma State University Kappler text: July 2, 1861, 12 Stat. 1177, ratified Aug. 6, 1861, proclaimed Oct. 4, 1861; 223,966.78 acres appraised at $286,742.15; 29 bonds of the Leavenworth, Pawnee and Western Railroad Company. Matches.",
+    "Delaware railroad bond cases looked for as instructed: the Caselaw Access Project Court of Claims volumes 1-231 were scanned by case name. 74 Ct. Cl. 368 (No. E-493, May 2, 1932) concerns this sale directly: claim four sought $83,680.61, the gold premium on $286,742.15, and the petition was dismissed. 72 Ct. Cl. 483 (1854 investments, bond abstraction restored by the Act of July 12, 1862, dismissed), 72 Ct. Cl. 525 (1818-1829 survey, dismissed) and 84 Ct. Cl. 535 (limitations, dismissed) do not help the tribe. Kindred v. Union Pacific, 225 U.S. 582 (1912) is a right-of-way case between private parties.",
+    "ICC Docket 72/298 findings (OSU 1194) and Docket 27-E final award (OSU 1862) grepped: no railroad sale claim. No-breach-found stands."
+  ],
+  "changes": [
+    "today now records the 1932 Court of Claims dismissal of the gold-premium claim on the railroad payment (a ruling against the tribe, not a breach); source added; audit line added."
+  ],
+  "unverifiable": [
+    "Whether the railroad paid every bond in full was not stated outright; the 1932 opinion treats the $286,742.15 as received."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes gives only the Delaware Nation, Oklahoma; the Kansas Delawares party to this treaty moved to the Cherokee Nation in 1867 and are the Delaware Tribe of Indians (Bartlesville)."
+  ]
+}

@@ -91,7 +91,8 @@
   "openQuestions": [
     "Audit 2026-11-08: the Statutes at Large were opened (Library of Congress scan of the 43rd Congress, PDF page 475). The reduction is in the Indian appropriation act of March 3, 1875, ch. 132, at 18 Stat. 445, under Nevada; the Band's counsel's citation of 18 Stat. 475 is a misprint.",
     "Royce cession 558 is attached to this id in treaties.json alongside 576; Royce's text links 558 to the Moapa reserve but the OCR of the 1874 page is broken, so which polygon is which was not settled.",
-    "Audit 2026-11-08: removed the sentence on Paiute consent from the breach; no source opened says whether consent was or was not sought."
+    "Audit 2026-11-08: removed the sentence on Paiute consent from the breach; no source opened says whether consent was or was not sought.",
+    "2026-11-08: counted once with cession-1875-03-03-paiute (the Moapa reservation cut to 1,000 acres by the 1875 Act; one taking). The map still shows this row."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher",
@@ -99,5 +100,6 @@
     "promised": "Not a treaty: a presidential order. It enlarged the Moapa River Reservation in southeastern Nevada for the Southern Paiute; the Band's counsel describes the enlarged reservation as well over 2,000,000 acres.",
     "happened": "In 1875 Congress cut the reservation to 1,000 acres chosen by the Secretary of the Interior, and the rest went back to the public domain. The Moapa Band's counsel says 99.5% of the reservation was lost.",
     "today": "No payment for the 1875 cut was found; Southern Paiute claims were settled by compromise for $7,253,165.19 in 1965. In 1980 Congress restored approximately 70,500 acres to the Moapa reservation."
-  }
+  },
+  "sameEventAs": "cession-1875-03-03-paiute"
 }

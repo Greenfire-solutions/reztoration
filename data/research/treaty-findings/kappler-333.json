@@ -1,12 +1,16 @@
 {
   "id": "kappler-333",
   "name": "Treaty with the Seneca, 1831 (Senecas of Sandusky)",
-  "aka": ["Treaty of Washington with the Seneca of Sandusky River, February 28, 1831"],
+  "aka": [
+    "Treaty of Washington with the Seneca of Sandusky River, February 28, 1831"
+  ],
   "signed": "1831-02-28",
   "proclaimed": "1831-03-24",
   "citation": "7 Stat. 348",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-1831-0325",
-  "nations": ["Seneca of Sandusky River, Ohio (today part of the Seneca-Cayuga Nation)"],
+  "nations": [
+    "Seneca of Sandusky River, Ohio (today part of the Seneca-Cayuga Nation)"
+  ],
   "promises": [
     "Article 2: removal west of the Mississippi and a patent in fee simple to about 67,000 acres next to the Cherokee lands and the Missouri line, for as long as they exist as a nation and remain on it.",
     "Article 3: the United States pays the cost of removal and supplies provisions for one year after arrival.",
@@ -15,22 +19,82 @@
     "Article 8: the 40,000 ceded acres sold at public sale; after deducting the minimum price of public lands and the listed costs, the balance becomes a fund paying the tribe 5 per cent a year.",
     "Article 12: the new lands may not be sold or ceded except to the United States."
   ],
-  "status": "no-breach-found",
-  "breaches": [],
-  "today": "No court, Indian Claims Commission or government finding about this treaty was found. By the treaty of December 29, 1832 (7 Stat. 411) the united Senecas and Shawnees gave up the land granted to them west of the Neosho (Grand) river and received a tract east of it, which takes in the Sandusky Senecas' land on the east side. The Commission transferred Seneca-Cayuga Dockets 341-A to D to the Court of Claims on September 29, 1978, when only attorney expense applications were pending in them; what those dockets claimed was not traced.",
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1971-12-29",
+      "what": "The Indian Claims Commission held that the United States breached this treaty: under Article 8 the Sandusky Reservation was to be sold at public sale under the rules for public lands, but the sale proclaimed for December 10, 1832 did not begin until December 11 and was closed on December 20, short of the two weeks the Act of April 24, 1820 required, and the United States wrongfully withheld 640 acres (section 16, set aside as school land) from sale without paying for them.",
+      "whoFoundIt": "Indian Claims Commission, Seneca-Cayuga Tribe of Oklahoma v. United States, Dockets 341-A and 341-B, Opinion and Interlocutory Order of December 29, 1971 (26 Ind. Cl. Comm. 625, 643)",
+      "source": {
+        "title": "Seneca-Cayuga Tribe of Oklahoma et al. v. United States, Dockets 341-A and 341-B, Interlocutory Order (December 29, 1971), 26 Ind. Cl. Comm. 643",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1267",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      },
+      "quote": "Defendant's failure to properly conduct the respective public sales constituted breaches of both the Sandusky Treaty"
+    }
+  ],
+  "today": "By the treaty of December 29, 1832 (7 Stat. 411) the united Senecas and Shawnees gave up the land granted to them west of the Neosho (Grand) river and received a tract east of it. The Commission's 1975 final award in Dockets 341-A and 341-B closed the claims under this treaty; Dockets 341-A to D were transferred to the Court of Claims on September 29, 1978 with only an attorney's expense application pending.",
   "nationVoice": [],
   "sources": [
-    { "title": "Treaty with the Seneca, 1831 (Kappler, vol. 2, p. 325)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-1831-0325", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
-    { "title": "Treaty with the Seneca and Shawnee, 1832 (Kappler, vol. 2, p. 383)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-and-shawnee-1832-0383", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
-    { "title": "Seneca-Cayuga Tribe of Oklahoma et al. v. United States, Dockets 341-A to D et al., Order Certifying and Transferring Cases to the Court of Claims (September 29, 1978), 43 Ind. Cl. Comm. 658", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2724", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 686", "url": "https://archive.org/stream/annualreportofbu218smit#page/686/mode/2up", "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive" }
+    {
+      "title": "Treaty with the Seneca, 1831 (Kappler, vol. 2, p. 325)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-1831-0325",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Seneca-Cayuga Tribe of Oklahoma et al. v. United States, Dockets 341-A and 341-B, Opinion of the Commission (December 29, 1971), 26 Ind. Cl. Comm. 625",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/923",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Seneca-Cayuga Tribe of Oklahoma et al. v. United States, Dockets 341-A and 341-B, Interlocutory Order (December 29, 1971), 26 Ind. Cl. Comm. 643",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1267",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Seneca-Cayuga Tribe of Oklahoma et al. v. United States, Dockets 341-A and 341-B, Opinion of the Commission on the accounting (December 7, 1972), 29 Ind. Cl. Comm. 262",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2596",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Seneca-Cayuga Tribe of Oklahoma et al. v. United States, Dockets 341-A and 341-B, Opinion of the Commission on value and damages (April 4, 1974), 33 Ind. Cl. Comm. 436",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1560",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Seneca-Cayuga Tribe of Oklahoma et al. v. United States, Dockets 341-A and 341-B, Findings of Fact on Final Award (June 11, 1975), 36 Ind. Cl. Comm. 170",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2109",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Treaty with the Seneca and Shawnee, 1832 (Kappler, vol. 2, p. 383)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-seneca-and-shawnee-1832-0383",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Seneca-Cayuga Tribe of Oklahoma et al. v. United States, Dockets 341-A to D et al., Order Certifying and Transferring Cases to the Court of Claims (September 29, 1978), 43 Ind. Cl. Comm. 658",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2724",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 686",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/686/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
   ],
   "openQuestions": [
-    "What Seneca-Cayuga Dockets 341-A to D claimed and how the Court of Claims disposed of them after 1978 was not found; one of them may concern the Article 8 land-sale fund. Read the Commission's 1978 Final Report docket list before treating this as settled.",
     "Whether the Article 8 fund was ever created and the 5 per cent paid, and whether the Article 4 mills were built, was not traced in Treasury or Indian Office records.",
     "No Seneca-Cayuga Nation account of this treaty was found; its website returned nothing on the 1831 removal at the address tried.",
-    "treaties.json lists only the Seneca-Cayuga Tribe of Oklahoma; the Oklahoma State University database also names the Seneca Nation of Indians and the Tonawanda Band as successors. Not settled."
+    "treaties.json lists only the Seneca-Cayuga Tribe of Oklahoma; the Oklahoma State University database also names the Seneca Nation of Indians and the Tonawanda Band as successors. Not settled.",
+    "Audit 2026-11-08: status raised from no-breach-found to broken. The file said what Dockets 341-A to D claimed was not traced; Docket 341-A is this treaty (Royce Area 163, 7 Stat. 348), and the Commission's December 29, 1971 opinion and interlocutory order (OSU ids 923, 1267) hold the sale and the withheld school land were breaches of it. Added the 1972 accounting award, the 1974 no-damages ruling and the 1975 final award (OSU ids 2596, 1560, 2109). The final award order (id 1032) reads $42,321.12 in the scan; the findings state $42,021.12 three times, used here."
   ],
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "compensation": "On April 4, 1974 the Commission held the tribe had not shown the lands were worth more than the amounts received, so it found no damages from the faulty sales (33 Ind. Cl. Comm. 436). On the accounting, on December 7, 1972 it awarded for the two 1831 treaties together $42,021.12 in principal and accrued interest, plus 5 per cent a year on $6,013.49 of unpaid principal from January 1, 1972 (29 Ind. Cl. Comm. 262). After the United States withdrew its claimed offsets, the Commission made that award final in June 1975, in satisfaction of all claims in Dockets 341-A and 341-B (36 Ind. Cl. Comm. 170). For this treaty the accounting award included the withheld school land, valued at $1,030.40 with a 5 per cent annuity from 1833, and $1,049.42 in principal and interest for 82 acres the United States could not account for.",
+  "plain": {
+    "promised": "The Seneca of Sandusky gave up their Ohio reserve for land west of the Mississippi. The United States would sell the Ohio land at a proper public sale and pay them 5 per cent a year on the proceeds.",
+    "happened": "In 1971 the Indian Claims Commission found the United States broke the treaty: the land sale was not run as the law required, and 640 acres were held back and never paid for.",
+    "today": "The Commission found the faulty sale lost no value, but on the accounts it awarded $42,021.12 plus interest for both 1831 Seneca treaties, made final in 1975."
+  }
 }

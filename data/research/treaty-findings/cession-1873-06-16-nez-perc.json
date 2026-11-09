@@ -91,7 +91,8 @@
     "treaties.json lists only the Nez Perce Tribe of Idaho; the Docket 186 claim was brought by the Confederated Tribes of the Colville Reservation, where descendants of Joseph's Band live, and the list should probably include them.",
     "The Nez Perce Tribe's and the Colville Tribes' own accounts of the Wallowa reservation were not found on their websites in this pass.",
     "The Wallowa Valley lay within the 1863 treaty cession; the Nez Perce Tribe's recovery for that cession (Docket 175-A) belongs to the 1863 treaty's record.",
-    "Audit 2026-11-08: removed the Executive Order of June 10, 1875 as a separate executive-action breach: revoking an executive-order reservation is not by itself a finding. The revocation is now described inside the Commission breach, whose interlocutory order (id 1452) states the compensable claim as a conclusion of law. Status stays broken on that finding."
+    "Audit 2026-11-08: removed the Executive Order of June 10, 1875 as a separate executive-action breach: revoking an executive-order reservation is not by itself a finding. The revocation is now described inside the Commission breach, whose interlocutory order (id 1452) states the compensable claim as a conclusion of law. Status stays broken on that finding.",
+    "2026-11-08: counted once with cession-1875-06-10-nez-perc (the Wallowa reservation whose 1875 revocation the Commission found compensable; one taking). The map still shows this row."
   ],
   "plain": {
     "promised": "In 1873 the President set apart the Wallowa Valley in Oregon, the homeland of Joseph's Band, as a reservation for the non-treaty Nez Perce.",
@@ -99,5 +100,6 @@
     "today": "The claim was settled for $725,000 in 1974, paid to the Colville Tribes on behalf of the Joseph Band."
   },
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "sameEventAs": "cession-1875-06-10-nez-perc"
 }

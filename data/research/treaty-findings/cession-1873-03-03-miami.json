@@ -1,0 +1,43 @@
+{
+  "id": "cession-1873-03-03-miami",
+  "name": "Act of March 3, 1873 for the sale of the remaining Miami reserve in Kansas (17 Stat. 631)",
+  "signed": "1873-03-03",
+  "citation": "17 Stat. 631",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/862/mode/2up",
+  "nations": [
+    "Miami Tribe of Oklahoma"
+  ],
+  "promises": [
+    "Not a treaty. Royce summarises the Act as providing that the remainder of the Miami reserve in Kansas be sold and that the Miami may become merged with the Kaskaskia and others.",
+    "Royce describes the remnant as several detached tracts within the outer lines of the 70,000 acres reserved by the treaty of 1854."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "In Docket 251-A the Miami Tribe of Oklahoma claimed, among other things, an accounting for the sale of slightly more than 10,000 acres of unallotted Kansas land that brought about $80,000. The Commission recorded that the land was sold at appraised value, that there was little basis to challenge the appraisals, and approved a $10,000 compromise on January 9, 1969.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 862-863",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/862/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Miami Tribe of Oklahoma v. United States, Docket 251-A, Findings of Fact on Compromise Settlement (1969), 20 Ind. Cl. Comm. 236",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1405",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Miami Tribe of Oklahoma v. United States, Docket 251, Findings of Fact (1958), 6 Ind. Cl. Comm. 513",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/515",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The Docket 251-A compromise does not name the 1873 Act; it is reported here as the closest claim located, not as a finding about this sale. A settlement would count only as litigation in any case.",
+    "Docket 251 (1958) concerns the 1854 cession in Kansas, not this remnant.",
+    "treaties.json lists no statute for this record; Royce gives 17 Stat. 631 and \"See 330\". Not edited.",
+    "The Miami Tribe of Oklahoma's own account of the Kansas reserve sale was not searched in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

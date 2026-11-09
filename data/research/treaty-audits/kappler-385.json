@@ -1,0 +1,15 @@
+{
+  "id": "kappler-385",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce p. 742-743 (OSU Kappler text not reopened): Oct. 27, 1832, Green Bay, Stat. L. VII, 405; Menominees accept the Senate proviso for 3 townships for the Stockbridge, Munsee and Brothertown, reject the new line and cede 200,000 acres along the southwestern line of the New York Indians' 500,000 acres. Matches the promises.",
+    "Menominee claims searched as instructed: OSU ICC full-text search for Menominee/Menomonee/Menominees (67, 4 and 18 hits) returns no docket brought by the Menominee; the Menominee-related hits are other tribes' cases and the Emigrant New York Indians Docket 75 (the New York Indians' interest, not a Menominee claim).",
+    "case.law us-ct-cl: Menominee Tribe v. United States, 101 Ct. Cl. 10 and 22 (1944), 102 Ct. Cl. 555 (1945), 107 Ct. Cl. 23 (1946), 118 Ct. Cl. 290 (1951) opened; all are 1935 jurisdictional-act suits on interest, log funds and timber, none mentions the 1831 or 1832 treaties. No-breach-found stands."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "The ICC Final Report (1978) docket list itself was not opened; a scan of Court of Claims volumes 85 to 125 by metadata failed partway, so volumes outside 101, 102, 107 and 118 were not all checked."
+  ],
+  "treatiesJsonErrors": []
+}

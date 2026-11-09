@@ -1,0 +1,14 @@
+{
+  "id": "cession-1867-11-16-santee-sioux",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "American Presidency Project: Browning's letter and Johnson's approval both dated November 15, 1867; T. 32 N., R. 4 W. and listed sections of fractional T. 33 N., R. 4 W. withdrawn; fractional T. 32 N., R. 6 W. restored to market. Matches the file, including the Nov. 15 vs Nov. 16 note.",
+    "Royce p. 846: withdraws townships as an addition to the Niobrara reservation of Feb. 27, 1866 and relinquishes fractional T. 32 N., R. 6 W."
+  ],
+  "changes": [],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "date 1867-11-16 follows Royce; the order itself is dated November 15, 1867 (American Presidency Project, from Kappler). Already noted in the findings file."
+  ]
+}

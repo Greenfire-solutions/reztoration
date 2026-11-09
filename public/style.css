@@ -208,6 +208,7 @@ body[data-mode="today"] .then-only { display: none; }
 .bt-card dd { margin: 0; }
 .bt-found { display: block; font-size: 12px; margin-top: 2px; }
 .bt-more { margin-top: auto; padding-top: 6px; font-size: 13px; }
+.bt-also { margin: 6px 0 0; font-size: 12px; opacity: .8; }
 .bt-foot { margin-top: 24px; max-width: 760px; }
 #broken .more { text-align: center; margin-top: 16px; }
 @media (max-width: 720px) {

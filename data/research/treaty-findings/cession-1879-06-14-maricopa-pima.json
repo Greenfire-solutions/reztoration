@@ -1,0 +1,54 @@
+{
+  "id": "cession-1879-06-14-maricopa-pima",
+  "name": "Executive order of June 14, 1879 setting apart the Salt River tract and a Gila River addition for the Pima and Maricopa",
+  "aka": [
+    "Salt River Reservation order of 1879"
+  ],
+  "signed": "1879-06-14",
+  "citation": "Executive order of June 14, 1879 (Royce areas 611 and 612)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/894/mode/2up",
+  "nations": [
+    "Akimel O'odham and Pee-Posh (Gila River Indian Community)",
+    "Salt River Pima-Maricopa Indian Community"
+  ],
+  "promises": [
+    "This was an executive order, not a treaty. The President revoked the order of January 10, 1879 and set apart other tracts in its place: a tract on the Salt River running up to the Camp McDowell military reservation, and a tract between the old Gila reservation and the junction of the Salt and Gila rivers (Royce areas 611 and 612).",
+    "Royce notes the order also temporarily withdrew parts of Townships 1 and 2 North, Ranges 5 and 6 East, south of the Salt River."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "None set apart by this order was taken by it. It replaced the January 10, 1879 additions, which it revoked; no acreage for either was found in a source opened.",
+  "compensation": "None stated.",
+  "today": "In Docket 228 the Indian Claims Commission treated the growth of the Pima reservations, including the Salt River Reservation established in 1879 for Pimas who had moved there, as inconsistent with an intent to extinguish their aboriginal title, and fixed the date of taking of Pima-Maricopa aboriginal land not already entered by settlers at November 15, 1883 (opinion of January 20, 1972). In Docket 236-C the Gila River community claimed the United States interfered with and failed to protect its use of Gila River water; the Commission's 1972 opinion on a preliminary motion does not mention this order.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 894, executive order of June 14, 1879",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/894/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 896, continuation and areas 611, 612",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/896/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Gila River Pima-Maricopa Indian Community v. United States, Docket 228, Opinion of the Commission on date of taking (January 20, 1972), 27 Ind. Cl. Comm. 11",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1900",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Gila River Pima-Maricopa Indian Community v. United States, Docket 236-C, Opinion of the Commission (November 17, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2565",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json lists no present-day tribes for this entry; the Gila River Indian Community and the Salt River Pima-Maricopa Indian Community are named here. treaties.json was not edited.",
+    "This order revoked the January 10, 1879 additions; whether that revocation cut land the Pima and Maricopa used was not established, and no finding about it was located. Under the rule for executive-order land it is not a breach by itself.",
+    "The Gila River water dockets (236 series) were searched only for mention of 1879 or the Salt River tract; their final outcomes were not traced.",
+    "The order was read only in Royce's summary, not in Kappler vol. 1."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

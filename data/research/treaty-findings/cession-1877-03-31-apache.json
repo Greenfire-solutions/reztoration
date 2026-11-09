@@ -1,0 +1,97 @@
+{
+  "id": "cession-1877-03-31-apache",
+  "name": "Executive order of March 31, 1877 restoring part of the White Mountain reservation to the public domain",
+  "aka": [
+    "San Pedro and Gila tract cut from the White Mountain (San Carlos) reservation"
+  ],
+  "signed": "1877-03-31",
+  "citation": "Executive order of March 31, 1877 (Royce areas 602 and 603)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/890/mode/2up",
+  "nations": [
+    "White Mountain Apache Tribe",
+    "San Carlos Apache Tribe",
+    "Western Apache (Cibecue, Southern Tonto and the other Western Apache groups named in Docket 22-D)"
+  ],
+  "promises": [
+    "This was an executive order, not a treaty. It took back land from a reservation set apart by executive order: the President restored to the public domain the part of the White Mountain reservation running from the mouth of the San Pedro up the south bank of the Gila ten miles, then south to the reservation's southern boundary and back along its western boundary (Royce area 602).",
+    "Royce records the remainder (area 603) as the White Mountain reserve as it then existed.",
+    "No payment or consent is stated in Royce's summary of the order."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1969-06-27",
+      "what": "The Indian Claims Commission held that by successively cutting down the enlarged White Mountain reservation through executive orders including the order of March 31, 1877, the United States took Western Apache aboriginal title land inside the reservation without paying compensation, and ordered the acreage and value of each excluded tract determined as of the order's date.",
+      "whoFoundIt": "Indian Claims Commission, San Carlos Apache Tribe et al. v. United States, Docket 22-D, Interlocutory Order, conclusion 5 (21 Ind. Cl. Comm. 189)",
+      "source": {
+        "title": "San Carlos Apache Tribe et al. v. United States, Docket 22-D, Interlocutory Order (June 27, 1969)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/932",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "the United States successively extinguished, without the payment of compensation, said Indian title"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1969-06-27",
+      "what": "In its opinion the Commission concluded that by diminishing the enlarged White Mountain reservation by the orders of August 5, 1873 through December 22, 1902, including March 31, 1877, the United States wrongfully took additional Western Apache aboriginal title lands as of the dates of the orders.",
+      "whoFoundIt": "Indian Claims Commission, Docket 22-D, Opinion of the Commission (21 Ind. Cl. Comm. 189)",
+      "source": {
+        "title": "San Carlos Apache Tribe et al. v. United States, Docket 22-D, Opinion of the Commission (June 27, 1969)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1611",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1972-09-12",
+      "what": "The Western Apache land claim ended in a final award entered on a stipulation for final judgment of $4,900,000; the amount is a compromise, not a further finding.",
+      "whoFoundIt": "Indian Claims Commission, Docket 22-D, Final Award (28 Ind. Cl. Comm. 399)",
+      "source": {
+        "title": "San Carlos Apache Tribe et al. v. United States, Docket 22-D, Final Award (September 12, 1972)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1055",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "Royce area 602, the strip south of the Gila from the mouth of the San Pedro upstream ten miles, restored to the public domain. No acreage was found in a source opened.",
+  "compensation": "None at the time. The Western Apache land claim in Docket 22-D, which covers this tract and the other reductions, was settled for $4,900,000 by final award on September 12, 1972.",
+  "today": "The Fort Apache (White Mountain) and San Carlos reservations remain. Whether and how the 1972 award was distributed was not traced.",
+  "nationVoice": [],
+  "plain": {
+    "promised": "Not a treaty: a presidential order that cut a strip along the Gila River below the San Pedro out of the White Mountain reservation in Arizona and returned it to the public domain, with no payment stated.",
+    "happened": "In 1969 the Indian Claims Commission held that this order and others like it took Western Apache land inside the reservation without paying for it.",
+    "today": "The Western Apache claim covering this and other reductions was settled in 1972 for $4,900,000. Whether it was paid out has not been traced. The Fort Apache and San Carlos reservations remain."
+  },
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 890, executive order of March 31, 1877, areas 602 and 603",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/890/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "San Carlos Apache Tribe et al. v. United States, Docket 22-D, Interlocutory Order (June 27, 1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/932",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "San Carlos Apache Tribe et al. v. United States, Docket 22-D, Opinion of the Commission (June 27, 1969)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1611",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "San Carlos Apache Tribe et al. v. United States, Docket 22-D, Final Award (September 12, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1055",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json lists no present-day tribes for this entry; the nations above are the plaintiffs named in Docket 22-D. treaties.json was not edited.",
+    "This finding is the Commission's about this order by name; the same conclusion is also cited in cession-1871-11-09-apache and cession-1886-10-01-apache-western-bands for the reservation as a whole. Here it is counted only for the March 31, 1877 tract.",
+    "Whether the whole of area 602 lay inside the Western Apache title area of Finding 11 was not plotted. The acreage and value the Commission would have found were not reached because the claim was settled.",
+    "The order's own text was read only in Royce's summary.",
+    "No White Mountain or San Carlos Apache account of this order was found in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

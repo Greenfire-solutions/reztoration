@@ -1,0 +1,15 @@
+{
+  "id": "kappler-1065",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "OSU Kappler page answers with a redirect and was not re-read; Royce p. 858-859: Sept. 20, 1872 agreement, Sisseton and Wahpeton, Rev. Stat. 1050, area 538 Dakota 1, overlapping the Chippewa cession of Oct. 2, 1863. Matches.",
+    "Sisseton and Wahpeton Bands v. United States, 277 U.S. 424 (May 28, 1928), opened on case.law: eight million acres believed, eleven million actual; Act of Feb. 14, 1873, c. 138, 17 Stat. 437, 456; ratified by the Indians May 2, 1873; installments appropriated and paid; 58 Ct. Cls. 302 dismissal affirmed. Matches; correctly in today as rulings against the bands.",
+    "ICC Dockets 142 and 359-363 compromise (OSU id 2214): $12,250,000 settlement of the Minnesota-era claims; nothing on the 1872 agreement. No-breach-found stands."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Pembina Chippewa Docket 18-A overlap not read (already in openQuestions)."
+  ],
+  "treatiesJsonErrors": []
+}

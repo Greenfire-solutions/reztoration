@@ -1,0 +1,14 @@
+{
+  "id": "cession-1836-04-11-potawatomi-aub-ba-naub-ba-s-band",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Treaty text (OSU Tribal Treaties Database, Kappler p. 457): April 11, 1836, 7 Stat. 499, proclaimed May 25, 1836; Article 1 cession of the 36 sections reserved by Article 2 of the Tippecanoe treaty of October 26, 1832; Article 2 $23,040 in specie in two annuity payments; Article 3 removal west within two years; Article 4 stricken by the Senate.",
+    "Royce p. 758 (full text): Aub-ba-naub-ba's band by Pau-koo-shuck cede the 36 sections and agree to remove; matches the record and treaties.json area 209.",
+    "ICC Dockets 15-P et al. (OSU id 2280) and 128 et al. (id 1472) opened and searched: no mention of this treaty or band reserve; 15-P concerns Royce area 177."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Whether the $23,040 was paid was not traceable from the sources opened."
+  ]
+}

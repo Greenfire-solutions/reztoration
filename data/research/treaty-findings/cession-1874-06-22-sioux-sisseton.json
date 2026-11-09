@@ -1,0 +1,35 @@
+{
+  "id": "cession-1874-06-22-sioux-sisseton",
+  "name": "Act of June 22, 1874 ratifying the Sisseton and Wahpeton agreement of September 20, 1872 (18 Stat. 167)",
+  "signed": "1874-06-22",
+  "citation": "18 Stat. 167",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/874/mode/2up",
+  "nations": [
+    "Sisseton-Wahpeton Oyate"
+  ],
+  "promises": [
+    "Not a treaty. The Act ratified the agreement of September 20, 1872 for the cession of lands by the Sisseton and Wahpeton (Royce, see area 538)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The 1872 agreement itself is recorded as kappler-1065, where no breach was found and the installments were recorded as paid.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 874-875",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/874/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 862-863",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/862/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "Not re-counted: the cession of area 538 is the subject of kappler-1065 and of the February 14, 1873 Act (17 Stat. 456) that first confirmed the agreement with amendments.",
+    "treaties.json lists no statute for this record; Royce gives 18 Stat. 167. Not edited."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

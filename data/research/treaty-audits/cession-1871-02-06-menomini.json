@@ -1,0 +1,19 @@
+{
+  "id": "cession-1871-02-06-menomini",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce p. 854-855: Act of Feb. 6, 1871, 16 Stat. 404, Stockbridge and Munsee, all except 18 sections of the reserve to be appraised and sold; reserve bought from the Menomini by treaty of Feb. 11, 1856 and numbered 403 as a secondary Menomini cession. Matches.",
+    "Stockbridge Tribe v. United States, 61 Ct. Cl. 472 (Jan. 25, 1926) opened on case.law: the 1871 Act's citizen/Indian apportionment, per capita payment to the citizen party, the Stockbridge Consolidated Fund, and that the 1893 Act did not reapportion the fund. Matches.",
+    "Wisconsin v. Stockbridge-Munsee Community, 554 F.3d 657 (7th Cir. 2009), copy opened: 1871 Act diminished the reservation; it went against the tribe, correctly in today, not breaches.",
+    "Tribal timeline (mohican-nsn.gov) opened: quote 'Lumber barons claim part of Reservation.' under 1871 is exact.",
+    "ICC Docket 300-A (OSU id 1903) concerns New York sales of 1818-1847, as the file says. Status contested is right."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "The 7th Circuit says the Old Citizen Party's ouster was reported to be obtained by fraud and Congress restored them in 1893; whether that is a government admission about this Act remains open, as the file says."
+  ],
+  "treatiesJsonErrors": [
+    "cession-1871-02-06-menomini: scheduleTribes 'Menomini' and presentDayTribes 'Menominee Indian Tribe of Wisconsin' are wrong for this Act; it concerns the Stockbridge and Munsee (Stockbridge-Munsee Community)."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cession-1859-10-western-shoshoni-ruby-valley",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce p. 822 (full text): agent Jarvis selected and set apart a reserve at Ruby Valley in October 1859; six miles square, later abandoned and an Overland Stage station.",
+    "Docket 326-K opinion, Oct. 11, 1972, 29 Ind. Cl. Comm. 5 (OSU id 2489): restates the 1962 holding that Indian title was acquired without compensation; Nevada title extinguished by gradual encroachment and United States acquisition, disposal or taking; 22,211,753 Nevada acres valued, excluding 23,597 acres in Indian reservations; valuation date July 1, 1872; footnote 5 mentions the 1859 Ruby Valley reservation (citing Royce) as continued only a few years.",
+    "Docket 326-K additional findings (id 1476): Ruby Valley stock-raising lands inside the Western Shoshone tract; Overland Stage Company selected land in Ruby Valley for its farm in spring 1865.",
+    "United States v. Dann, 470 U.S. 39 (Cornell LII): '$26 million in compensation'.",
+    "Question put by the lead: is the 326-K finding about this land and event? The land is inside the valued tract and not among the excluded reservations; the event (loss by encroachment and United States disposal, the reserve becoming a stage company farm) is what the finding describes. Kept as broken, with the limit stated in the file."
+  ],
+  "changes": [
+    "landTaken, plain.today and openQuestions[0] corrected: the Commission does mention the 1859 reserve (footnote 5 of the 1972 opinion), though it makes no separate finding; added the valued and excluded acreages.",
+    "breach 'what' now also records the Overland Stage Company finding for Ruby Valley.",
+    "Audit line added to openQuestions."
+  ],
+  "unverifiable": [
+    "The Commission's footnote relies on Royce; no Commission finding locates the six-mile square on its map."
+  ]
+}

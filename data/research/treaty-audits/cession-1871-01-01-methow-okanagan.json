@@ -1,0 +1,22 @@
+{
+  "id": "cession-1871-01-01-methow-okanagan",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce schedule p. 856-857 (full text): undated 1871 memorandum, 'Territory originally claimed by Methow, Okanagan, Kootenay, Pend d'Oreille, Colville, North Spokane, San Poeil and other tribes'; remark that no treaty was ever made and that area 532 is the country outside the reservations of April 9 and July 2, 1872. Matches.",
+    "ICC Docket 181 findings of fact (OSU id 441), finding 42: the defendant never considered the petitioners' aboriginal rights to their non-reservation lands and took them without consent or compensation beginning July 2, 1872. Opinion (OSU id 14): title outside the reservation extinguished without compensation as of July 2, 1872. The breach text matches; kind claims-commission is right (a contested finding, not a settlement).",
+    "Second interlocutory order of March 5, 1959 (OSU id 248): Colville $111,000, Sanpoil-Nespelem $436,000, Okanogan $237,000, Methow $152,000, Lake (damaged) $125,000. Final judgment March 1, 1960 (OSU id 568): $61,000 offsets, total net recovery $1,000,000; the five gross awards less $61,000 equal $1,000,000 only with Lake at $125,000.",
+    "1959 opinion (OSU id 191) tract descriptions: Colville tract (130,590 acres) and Lakes tract east of the Columbia; Methow and Okanogan tracts west of the Okanogan River; Sanpoil-Nespelem south of the Columbia in the Big Bend. Against Royce, the last three lie in area 532 and the first two in area 533.",
+    "Triple-count check: this record, 1872-04-09 and 1872-07-02 all rest on the one July 2, 1872 taking of non-reservation lands. After the correction this record carries the Sanpoil-Nespelem, Okanogan and Methow lands and the 04-09 record the Colville and Lake lands; the date placeholder (1871-01-01) is already disclosed in openQuestions."
+  ],
+  "changes": [
+    "compensation and plain.today rewritten to the three tribes whose Docket 181 tracts lie in area 532, with their 1959 awards; the old text named only the Methow and called the other figures unreadable.",
+    "sources: added the second interlocutory order (OSU id 248).",
+    "openQuestions: audit line added explaining the tract-to-area split and that it is the auditor's reading of boundaries."
+  ],
+  "unverifiable": [
+    "Whether the Kootenay, Pend d'Oreille and Spokane parts of area 532 have their own findings (Kalispel, Spokane, Kootenai dockets) was not traced.",
+    "The Commission never names Royce areas; the tract-to-area split is a boundary reading."
+  ],
+  "treatiesJsonErrors": []
+}

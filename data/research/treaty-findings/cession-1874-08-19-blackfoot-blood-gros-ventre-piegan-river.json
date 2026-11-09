@@ -78,7 +78,8 @@
     "The Court of Claims measured the taking from the 1855 treaty lands (Royce 399 and 574), not from the 1873 executive-order boundary.",
     "treaties.json lists the Crow Tribe as a present-day tribe; the River Crow are named in the Act, but the Court of Claims case was brought by the Blackfeet and Gros Ventre. Not edited.",
     "No Fort Belknap (Aaniiih and Nakoda) account of the 1874 changes was found.",
-    "Audit 2026-11-08: removed the claims-commission breach. The 1952 Commission opinion (Docket 279, p. 306) only describes the tribes' Court of Claims claim for 2,092,420 acres as alleged; it finds nothing about it, and the Court of Claims finding is already recorded as the court-ruling breach. The acreage stays in landTaken as the tribes' allegation. Status unchanged (broken on the 1935 Court of Claims finding)."
+    "Audit 2026-11-08: removed the claims-commission breach. The 1952 Commission opinion (Docket 279, p. 306) only describes the tribes' Court of Claims claim for 2,092,420 acres as alleged; it finds nothing about it, and the Court of Claims finding is already recorded as the court-ruling breach. The acreage stays in landTaken as the tribes' allegation. Status unchanged (broken on the 1935 Court of Claims finding).",
+    "2026-11-08: counted once with cession-1874-04-15-blackfoot-blood-gros-ventre-piegan-river (the order carrying out the April 15, 1874 Act; the 1935 Court of Claims finding is one taking). The map still shows this row."
   ],
   "plain": {
     "promised": "Not a treaty. The President returned to the public domain the part of the 1873 Blackfeet reserve between the Sun River and the Marias River and Birch Creek, with no agreement and no payment.",
@@ -86,5 +87,6 @@
     "today": "The court valued the land at $6,130,874.88, but offsets cut the award to $622,465.57, with no interest."
   },
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "sameEventAs": "cession-1874-04-15-blackfoot-blood-gros-ventre-piegan-river"
 }

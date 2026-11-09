@@ -1,0 +1,16 @@
+{
+  "id": "kappler-838",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Oklahoma State University Kappler text: June 24, 1862, 12 Stat. 1237, ratified July 16, 1862, proclaimed July 28, 1862; Articles 1, 3, 4 and 6 as summarised. Matches.",
+    "Docket 303 opinion (OSU 475, 8 Ind. Cl. Comm. 831, June 29, 1960) opened: recoveries for trust land funds unaccounted for by Agent Hutchinson, the school section, University land, treaty funds, and school lands sold by trustees who did not invest the proceeds as the 1862 treaty required. Quote matches the text across a line break.",
+    "Final award (OSU 810, Nov. 26, 1962): nine items totalling $164,432.84 less $2,028.77 offsets = $162,404.07, plus interest on $30,603.94 at 5 per cent from Mar. 22, 1869 to Mar. 22, 1934 and 4 per cent after, for the bands of the 1862 and 1867 (15 Stat. 517) treaties. The file says the award is shared with the 1867 treaty. The $162,404.07 is this treaty's money together with the 1867 treaty's.",
+    "The 1960 opinion prints $1,490.00 for the University land where the final award gives $7,490.00; the file already flags this."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Ottawa Tribe v. United States, 166 Ct. Cl. 373 and 168 Ct. Cl. 940 (1964) were seen only as case names (likely the Docket 303 attorney fee or appeal); not opened."
+  ],
+  "treatiesJsonErrors": []
+}

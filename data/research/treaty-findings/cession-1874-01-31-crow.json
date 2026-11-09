@@ -1,0 +1,35 @@
+{
+  "id": "cession-1874-01-31-crow",
+  "name": "Executive order of January 31, 1874 setting apart the Judith Basin reserve for the Crow",
+  "signed": "1874-01-31",
+  "citation": "Executive Order of January 31, 1874 (Royce area 557)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/870/mode/2up",
+  "nations": [
+    "Apsáalooke (Crow Tribe of Montana)"
+  ],
+  "promises": [
+    "Not a treaty. Pending action by Congress on the agreement of August 16, 1873, the President withdrew from entry and settlement the country drained by the Judith, Arrow and Dog rivers as a Crow reserve."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "Royce records that the order was revoked on March 25, 1875 because the Crow refused to move and Congress did not ratify the agreement. The Crow kept their 1868 reservation; no land was taken by this order.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 870-871",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/870/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 864-865",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/864/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "Under the 2026-11-08 rule the 1875 revocation of this executive-order reserve is not by itself a breach; it has its own record (cession-1875-03-25-crow).",
+    "The unratified agreement is recorded under cession-1873-08-16-crow."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

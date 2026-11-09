@@ -1,0 +1,63 @@
+{
+  "id": "cession-1875-12-21-southern-apache",
+  "name": "Executive Order of December 21, 1875 redrawing the Hot Springs (Ojo Caliente) reservation for the Southern Apache (Royce areas 587 and 588)",
+  "aka": [
+    "Ojo Caliente reservation",
+    "Warm Springs Apache reservation"
+  ],
+  "signed": "1875-12-21",
+  "citation": "Executive Order of December 21, 1875 (Royce pp. 882-885)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/882/mode/2up",
+  "nations": [
+    "Chiricahua and Warm Springs (Chihene) Apache, today the Fort Sill Apache Tribe and Chiricahua descendants at Mescalero"
+  ],
+  "promises": [
+    "Not a treaty: a presidential order. It fixed new boundaries for the Hot Springs reservation in place of those of April 9, 1874: a tract about 20 miles wide and 35 miles long near Cañada Alamosa, New Mexico (Royce p. 882, area 587).",
+    "The same order restored to market the part of the April 9, 1874 reserve not included in the new boundaries (Royce p. 884, area 588).",
+    "Royce notes the reserve was canceled and restored to the public domain by executive order of August 25, 1877."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The Indian Claims Commission found in 1968 that the reservation near Hot Springs (Ojo Caliente) was abolished on August 25, 1877, as the government moved the Chiricahua to San Carlos, outside their homelands; it dated the taking of their aboriginal lands to September 4, 1886, Geronimo's surrender (Docket 30-A and related). That finding is about aboriginal title, not this order.",
+  "nationVoice": [
+    {
+      "nation": "Fort Sill Apache Tribe",
+      "summary": "The Tribe says its members descend from the Chiricahua Apache of the Southwest, held as prisoners of war in Florida and Alabama, moved to Fort Sill in 1894, and that a reservation proclamation for its land in New Mexico was issued in 2011.",
+      "url": "https://www.fortsillapache-nsn.gov/history"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 882-883",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/882/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 884-885",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/884/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Fort Sill Apache Tribe et al. v. United States, Dockets 30-A et al., Findings of Fact (June 28, 1968), 19 Ind. Cl. Comm. 212",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2269",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Fort Sill Apache Tribe et al. v. United States, Docket 182-A, Opinion of the Commission (May 6, 1977)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2559",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "History",
+      "url": "https://www.fortsillapache-nsn.gov/history",
+      "publisher": "Fort Sill Apache Tribe"
+    }
+  ],
+  "openQuestions": [
+    "An executive order taking back executive-order land is not a breach by itself (Jordan, 2026-11-08). The Commission's Chiricahua findings mention the 1877 abolition but date the taking of aboriginal title to September 4, 1886; they are not a finding that this order was broken. This follows the audit of cession-1874-11-24-apache-southern.",
+    "treaties.json lists no presentDayTribes for this record; the Fort Sill Apache Tribe is the Commission's plaintiff for the Warm Springs Apache. Not edited.",
+    "The 1877 cancellation and the removal to San Carlos may deserve their own record if a finding about the Ojo Caliente land itself is found."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kappler-880",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Oklahoma State University Kappler text: Mar. 6, 1865, 14 Stat. 667, ratified Feb. 13, 1866, proclaimed Feb. 15, 1866; Art. 2 $50,000 for goods, provisions, cattle, horses, buildings and improvements; Art. 3 $7,000 damages. Matches.",
+    "Docket 225 compromise findings (OSU 369) opened: 225-B was the claim for the 1865 cession for the Winnebago, never tried, settled within Docket 225 Consolidated. The litigation breach is right.",
+    "Court of Claims, Omaha Tribe of Indians v. United States, 53 Ct. Cl. 549 (June 10, 1918), findings VIII and IX: 103 stock cattle bought in 1867 with Omaha money, 50 died, $1,666.50 allowed; infirmary of 1875, $3,127.08 of Omaha money; judgment $122,295.31.",
+    "Supreme Court, United States v. Omaha Tribe of Indians, 253 U.S. 275 (decided June 1, 1920), opened at Cornell LII: ties the cattle to the 1865 treaty's $50,000 and holds the fault lay with the agents of the United States; upholds the infirmary item under Art. 4 of 1854 and Art. 2 of 1865 as a misappropriation; reverses only the $4,560 for horses. This is a court finding of breach of this treaty."
+  ],
+  "changes": [
+    "Added a court-ruling breach (253 U.S. 275, 1920; 53 Ct. Cl. 549, 1918) for the Article 2 cattle and the infirmary; status contested to broken (the checker agrees); compensation, today and plain rewritten from those findings; two sources added; audit line added."
+  ],
+  "unverifiable": [
+    "Whether the 1918 judgment, as modified, was paid was not traced. The Docket 225 Consolidated settlement total is OCR-garbled and remains out of the file."
+  ],
+  "treatiesJsonErrors": []
+}

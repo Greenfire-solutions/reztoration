@@ -1,0 +1,18 @@
+{
+  "id": "kappler-335",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "OSU Kappler p. 327 not reopened; 7 Stat. 351 and the Article 8 terms match the 1971 opinion's quotations of the treaty (70 cents an acre deducted, $6,000 advance, sawmill and blacksmith).",
+    "ICC Docket 341-B is this treaty (Royce Area 164). Dec. 29, 1971 opinion and order (OSU ids 923, 1267): sale proclaimed for Dec. 24, 1832 held Friday Dec. 28 and closed the next day; breach of the Lewistown Treaty; 640 acres withheld.",
+    "Dec. 7, 1972 accounting (OSU id 2596): $10,662.15 under Article VIII and $3,311.68 for the Senecas' half of the school land; 1974 no-damages ruling; 1975 final award $42,021.12 for both dockets."
+  ],
+  "changes": [
+    "status raised from no-breach-found to broken on the 1971 claims-commission finding.",
+    "Added the breach (quote naming both treaties), compensation, today, plain, sources; removed the 'not found' docket question; audit line added."
+  ],
+  "unverifiable": [
+    "Whether the Shawnee half of the mixed band (Eastern Shawnee) ever claimed its share of the Lewistown proceeds was not found."
+  ],
+  "treatiesJsonErrors": []
+}

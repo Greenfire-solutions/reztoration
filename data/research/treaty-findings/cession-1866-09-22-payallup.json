@@ -32,9 +32,10 @@
     }
   ],
   "openQuestions": [
-    "treaties.json names this entry for the Puyallup and gives the Puyallup Tribe as present-day tribe. Royce's tribe column reads 'Puyallup and others', but the order sets apart the Shoalwater Bay reservation in north-western Washington, the home of the Shoalwater Bay Indian Tribe. Not edited.",
+    "treaties.json names this entry for the Puyallup and gives the Puyallup Tribe as present-day tribe. Royce's tribe column reads 'Puyallup and others', but the order sets apart the Shoalwater Bay reservation on Shoalwater (Willapa) Bay in south-western Washington, the home of the Shoalwater Bay Indian Tribe. Not edited.",
     "Indian Claims Commission dockets of the Chinook (234) and Chehalis concern aboriginal title, not this reservation; not read in full.",
-    "The Shoalwater Bay Indian Tribe's own account was not located in this pass."
+    "The Shoalwater Bay Indian Tribe's own account was not located in this pass.",
+    "Audit 2026-11-08 (round 12): 'north-western Washington' corrected to south-western: Shoalwater Bay lies on the Pacific coast of south-western Washington, and Royce's township (T. 14 N., R. 11 W.) is there. Royce p. 842 entry (Puyallup and others; parts of secs. 2 and 3, T. 14 N., R. 11 W.) confirmed."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

@@ -1,0 +1,23 @@
+{
+  "id": "cession-1872-09-26-sioux-wahpeton",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce p. 858-859: Sept. 26, 1872 agreement, Shoshoni, Stat. L. XVIII, 291: 'Cede a portion of reservation ... S. of a line' along the Little Popo Agie and Popo Agie (area 539) and 'Retain remainder ... present Wind River reservation' (area 540); ratified by Acts of June 22 and Dec. 15, 1874. The file is internally about the Eastern Shoshone Brunot cession throughout; area 539 is the ceded land, so the mapping is right.",
+    "ICC Docket 63 findings (OSU id 22): 700,642 acres; $5,000 a year for five years, Washakie $500 a year; $25,000 spent and $2,500 salary; eighty cents an acre, $560,513.60; $27,500 unconscionable. Opinion (OSU id 434): the same, and the quote 'purchase price of less than four cents per acre for lands worth twenty times that amount' matches (OCR-damaged scan).",
+    "1958 opinion (OSU id 322): 1954 order of $533,013.60 less offsets; $100,000 offsets agreed; final order April 22, 1957.",
+    "Docket 157 compromise findings (OSU id 883): gold claim 1868-1874, United States responsible, settled for a $120,000 judgment."
+  ],
+  "changes": [
+    "today: corrected the gold claim's period (1868 to 1874) and wording (the United States 'was responsible', not 'with United States help'); added the $120,000 settlement.",
+    "compensation: added the 1954 interlocutory figure $533,013.60 as stated in the 1958 opinion.",
+    "openQuestions: audit line, including the area 539/540 split."
+  ],
+  "unverifiable": [
+    "Eastern Shoshone tribal page (easternshoshone.org/?p=10) opened: 'Subsequent agreements ceded the South Pass and Big Horn Hot Springs regions ... leaving only 2.2 M acres'. The summary matches."
+  ],
+  "treatiesJsonErrors": [
+    "cession-1872-09-26-sioux-wahpeton: scheduleTribes 'Sioux, Wahpeton' and presentDayTribes 'Sisseton-Wahpeton Oyate' are wrong; Royce's Sept. 26, 1872 entry (area 539) is the Shoshone (Brunot) cession, so presentDayTribes should be the Eastern Shoshone Tribe of the Wind River Reservation. The id itself carries the error.",
+    "cession-1872-09-26-shoshoni (not in this sample) maps area 540, the retained Wind River reservation, but uses the same Docket 63 cession finding; its presentDayTribes list (Western Shoshone, Bishop Paiute and others) is far wider than the Eastern Shoshone party to this agreement."
+  ]
+}

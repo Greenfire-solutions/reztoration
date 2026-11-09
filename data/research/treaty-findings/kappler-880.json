@@ -18,8 +18,20 @@
     "Article 3: Article 8 of the 1854 treaty extended for ten years, and $7,000 paid for damage from the Winnebago's temporary stay and timber use on Omaha land.",
     "Article 4: the remaining reservation to be allotted in severalty, and whites not to go or reside on it."
   ],
-  "status": "contested",
+  "status": "broken",
   "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1920-06-01",
+      "what": "The Supreme Court held that the United States did not comply with Article 2 when it bought 103 stock cattle with Omaha money in 1867 and 50 died from bad condition, and upheld $1,666.50 for them. It also upheld $3,127.08 of Omaha money spent in 1875 on an infirmary unfit for their use, a misappropriation under the 1854 and 1865 treaties.",
+      "whoFoundIt": "Supreme Court, United States v. Omaha Tribe of Indians, 253 U.S. 275 (1920), affirming on these items the Court of Claims, Omaha Tribe of Indians v. United States, 53 Ct. Cl. 549 (1918), findings VIII and IX, under the jurisdictional act of June 22, 1910",
+      "source": {
+        "title": "United States v. Omaha Tribe of Indians, 253 U.S. 275 (June 1, 1920)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/253/275",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
+      "quote": "In either event the fault lay with the agents of the United States"
+    },
     {
       "kind": "litigation",
       "date": "1960-02-11",
@@ -32,8 +44,8 @@
       }
     }
   ],
-  "compensation": "The treaty price was $50,000 (Article 2) plus $7,000 in damages (Article 3). The Commission's summary of Docket 225-B gives the consideration as cash and provisions; the scanned figures are partly unreadable and are left out.",
-  "today": "The Docket 225-B claim was settled, not decided, as part of the 1960 Docket 225 Consolidated compromise.",
+  "compensation": "The treaty price was $50,000 (Article 2) plus $7,000 in damages (Article 3). The Court of Claims allowed $1,666.50 for the dead cattle and $3,127.08 for the infirmary as part of a 1918 judgment of $122,295.31 on several Omaha treaty claims; the Supreme Court in 1920 upheld those two items and struck $4,560 for horses. The Docket 225-B claim for the land was later settled, not decided.",
+  "today": "The Docket 225-B claim for fair payment for the ceded land was settled, not decided, as part of the 1960 Docket 225 Consolidated compromise.",
   "nationVoice": [],
   "sources": [
     {
@@ -55,17 +67,28 @@
       "title": "Omaha Tribe of Nebraska et al. v. United States, Docket 225 Consolidated, Opinion of the Commission (February 11, 1960)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/149",
       "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "United States v. Omaha Tribe of Indians, 253 U.S. 275 (June 1, 1920)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/253/275",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Omaha Tribe of Indians v. United States, No. 31002, 53 Ct. Cl. 549 (June 10, 1918)",
+      "url": "https://static.case.law/us-ct-cl/53/cases/0549-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
     }
   ],
   "openQuestions": [
     "The settlement total for Docket 225 Consolidated and the acreage in Docket 225-B are poorly scanned; neither is recorded.",
     "Royce (p. 837) records 20 more sections bought from the Omaha by Act of June 22, 1874 for the Winnebago; that is a separate event.",
-    "The Omaha Tribe's own account of the 1865 cession was not located in this pass."
+    "The Omaha Tribe's own account of the 1865 cession was not located in this pass.",
+    "Audit 2026-11-08: status raised from contested to broken on a court finding the file had missed: United States v. Omaha Tribe of Indians, 253 U.S. 275 (1920), affirming 53 Ct. Cl. 549 (1918) on the Article 2 cattle and the infirmary. Found by checking the Caselaw Access Project Court of Claims volumes for Omaha cases. Whether the 1918 judgment was paid was not traced."
   ],
   "plain": {
-    "promised": "The Omaha sold the northern part of their reservation, for the Winnebago, for $50,000 in goods and improvements and $7,000 in damages, and kept the rest as allotted land closed to whites.",
-    "happened": "The Omaha later claimed before the Indian Claims Commission that they were not fairly paid for this land. The claim was never decided.",
-    "today": "It was settled in 1960 as part of a compromise of all the tribe's claims in that case."
+    "promised": "The Omaha sold the northern part of their reservation, for the Winnebago, for $50,000 in goods, cattle and improvements and $7,000 in damages, and kept the rest as allotted land closed to whites.",
+    "happened": "The Supreme Court held in 1920 that the United States failed the treaty when it bought sick cattle with Omaha money, half of which died, and spent Omaha money on an unusable infirmary.",
+    "today": "The courts allowed $1,666.50 for the cattle and $3,127.08 for the infirmary. A later claim that the land itself was underpaid was settled in 1960, not decided."
   },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

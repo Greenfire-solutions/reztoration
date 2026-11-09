@@ -28,7 +28,7 @@
     }
   ],
   "landTaken": "Royce shows as this area (532) the former country of these tribes not within the reservations of April 9 and July 2, 1872. The Commission found the petitioner tribes' non-reservation lands taken as of July 2, 1872.",
-  "compensation": "In Docket 181 the Commission's 1960 final judgment, on the parties' stipulation, allowed $61,000.00 in offsets in all against its interlocutory judgment of March 5, 1959; the Methow Tribe's award was $152,000.00 less an offset of $6,700.00. The other tribes' figures are partly unreadable in the scan.",
+  "compensation": "Of the Docket 181 tracts, the Sanpoil-Nespelem tract (south of the Columbia), the Okanogan tract and the Methow tract (west of the Okanogan River) lie in this area; the Colville and Lakes tracts lie east of the Columbia, inside the April 9, 1872 tract (Royce area 533). The Commission's second interlocutory order of March 5, 1959 awarded the Sanpoil-Nespelem Tribe $436,000.00, the Okanogan Tribe $237,000.00 and the Methow Tribe $152,000.00, less offsets. The final judgment of March 1, 1960 allowed $61,000.00 in offsets across all five awards (the Methow offset was $6,700.00) and states a total net recovery of $1,000,000.00.",
   "today": "The Commission's award covers the six Colville tribes only; Royce's area also names the Kootenay, Pend d'Oreille and North Spokane, whose claims were not traced here.",
   "nationVoice": [],
   "sources": [
@@ -58,6 +58,11 @@
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
     },
     {
+      "title": "Confederated Tribes of the Colville Reservation et al. v. United States, Docket 181, Second Interlocutory Order (March 5, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/248",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
       "title": "Confederated Tribes of the Colville Reservation et al. v. United States, Docket 181, Final Judgment (March 1, 1960)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/568",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
@@ -66,12 +71,13 @@
   "openQuestions": [
     "The date 1871-01-01 is a placeholder: Royce's entry is an undated memorandum under 1871. The Commission dated the taking July 2, 1872, the same finding used for cession-1872-07-02-methow-okanagan.",
     "Royce's area 532 reaches into Idaho and Montana and names the Kootenay, Pend d'Oreille and North Spokane; the Docket 181 finding covers only the six Colville tribes' lands, so it does not cover the whole polygon.",
-    "The Confederated Tribes of the Colville Reservation's own history of the taking was not found (noted also on the 1872-07-02 record)."
+    "The Confederated Tribes of the Colville Reservation's own history of the taking was not found (noted also on the 1872-07-02 record).",
+    "Audit 2026-11-08: compensation and plain.today rewritten. The Sanpoil-Nespelem, Okanogan and Methow figures are clean in the second interlocutory order (OSU id 248); the earlier text called them unreadable and named only the Methow. Which Docket 181 tracts fall in area 532 and which in area 533 is the auditor's reading of the tract descriptions in the 1959 opinion (OSU id 191: Colville tract east of the Columbia from Kettle Falls to Hunters, Lakes tract east of the Columbia to the Canadian line, Methow and Okanogan tracts west of the Okanogan River) against Royce's boundaries, not a statement of the Commission. This record, cession-1872-04-09-methow-okanagan and cession-1872-07-02-methow-okanagan rest on the same July 2, 1872 taking; read together, this record carries the Sanpoil-Nespelem, Okanogan and Methow lands and the April 9 record the Colville and Lake lands, so they do not double-count it."
   ],
   "plain": {
     "promised": "Nothing was promised: no treaty was ever made for the land of the Methow, Okanogan, Colville, Sanpoil, Nespelem and Lake tribes.",
     "happened": "The Indian Claims Commission found in 1956 that the United States took their lands outside the Colville Reservation without paying for them, as of July 2, 1872.",
-    "today": "The Commission's 1960 judgment paid for the six tribes' lands; the Methow award was $152,000.00 less $6,700.00. Other tribes in this area were not traced."
+    "today": "In 1959 the Commission awarded $436,000.00 for the Sanpoil-Nespelem lands, $237,000.00 for the Okanogan lands and $152,000.00 for the Methow lands in this area, less offsets. Other tribes named in this area were not traced."
   },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

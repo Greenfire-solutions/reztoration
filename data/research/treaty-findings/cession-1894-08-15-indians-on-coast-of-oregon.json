@@ -18,8 +18,19 @@
     "Five sections would be reserved from sale, with the timber to be cut and sold by the Siletz Indians for their own use and benefit (Article IV).",
     "Up to one third of the interest could be paid to Oregon in lieu of taxes once allotments became taxable (Article III)."
   ],
-  "status": "contested",
+  "status": "broken",
   "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1955-11-23",
+      "what": "The Indian Claims Commission found that the land ceded under the 1892 agreement, 191,798.80 acres of the Siletz Reservation, was worth $3.00 an acre, or $575,396.00, on October 31, 1892, and that the $142,600.00 paid for it was an unconscionable consideration under the Indian Claims Commission Act.",
+      "whoFoundIt": "Indian Claims Commission, Tillamook Tribe of Indians et al. (prosecuted by the Confederated Tribes of Siletz Indians) v. United States, Docket 239, findings of fact 36 and 37 and opinion of November 23, 1955, 4 Ind. Cl. Comm. 31 and 57",
+      "source": {
+        "title": "Tillamook Tribe of Indians et al. v. United States, Docket 239, Findings of Fact (November 23, 1955), 4 Ind. Cl. Comm. 31",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/466",
+        "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+      }
+    },
     {
       "kind": "nation-statement",
       "date": "1892-10-31",
@@ -32,13 +43,13 @@
       }
     }
   ],
-  "landTaken": "All unallotted land of the Siletz Reservation except five sections (28 Stat. 324). The Siletz Tribe gives 191,000 or more acres; no government source opened here states the acreage.",
-  "compensation": "$142,600 under Article II of the agreement (28 Stat. 324). No later claims award for this cession was found.",
+  "landTaken": "All unallotted land of the Siletz Reservation except five sections (28 Stat. 324). The Indian Claims Commission found the ceded area was 191,798.80 acres, not the 177,563 acres first estimated (Docket 239, finding 5). The Siletz Tribe gives 191,000 or more acres.",
+  "compensation": "$142,600 under Article II of the agreement (28 Stat. 324). In Docket 239 (1955) the Indian Claims Commission held the plaintiffs entitled to $3.00 an acre for 191,798.80 acres, less the $142,600 already paid and any offsets the United States could show. The final award amount was not located.",
   "today": "The Supreme Court in Alcea (1946) described this Act as Congress officially accepting the reservation as it then existed, and said that thereafter Congress did not take reservation lands without compensation. The Siletz Tribe says the commissioners promised that later generations could take allotments from the ceded land and that clear title would come within five years, among promises it says went unfulfilled.",
   "plain": {
-    "promised": "$142,600 for all unallotted Siletz Reservation land except five sections, with $100,000 held at 5 percent interest paid yearly, $75 to each adult, and the five sections' timber for the Siletz people's own use.",
-    "happened": "The Confederated Tribes of Siletz Indians say the agreement was forced through threats and unkept promises, and that the timber was undervalued. No court or claims finding on it has been located.",
-    "today": "No later claims award was found, and whether the $100,000 fund and its interest were paid was not checked. The Siletz Tribe says the commissioners won agreement with promises, such as future allotments and early clear title, that went unfulfilled."
+    "promised": "$142,600 for all unallotted Siletz Reservation land except five sections, with $100,000 held at 5 percent interest paid yearly, $75 to each adult, and the five sections’ timber for the Siletz people’s own use.",
+    "happened": "In 1955 the Indian Claims Commission found the land was worth $575,396.00 in 1892 and that the $142,600.00 paid was unconscionable. The Siletz Tribe says the agreement was forced through threats and unkept promises.",
+    "today": "The Commission held the Siletz entitled to $3.00 an acre less what was paid and any offsets; the final award amount was not found. The Siletz Tribe says promises such as future allotments and early clear title went unfulfilled."
   },
   "nationVoice": [
     {
@@ -67,14 +78,26 @@
       "title": "The 1892 \"Surplus Lands\" \"Agreement\"",
       "url": "https://ctsi.nsn.us/the-1892-surplus-lands-agreement/",
       "publisher": "Confederated Tribes of Siletz Indians"
+    },
+    {
+      "title": "Tillamook Tribe of Indians et al. v. United States, Docket 239, Findings of Fact (November 23, 1955), 4 Ind. Cl. Comm. 31",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/466",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Tillamook Tribe of Indians et al. v. United States, Docket 239, Opinion of the Commission (November 23, 1955), 4 Ind. Cl. Comm. 57",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/106",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
     }
   ],
   "openQuestions": [
     "Royce's schedule names the tribe for this entry 'Alsea et al.', while treaties.json says 'Indians on coast of Oregon' and gives Royce cession 479. Area 479 appears to be the Yaquina tract released in 1865, not the unallotted land ceded in 1892; the area number Royce gives this entry could not be read cleanly from the text layer. Not edited.",
-    "No Indian Claims Commission or Court of Claims decision on the adequacy of the $142,600 was found; whether the Siletz pressed such a claim before or after termination (1954) was not researched.",
+    "Docket 239 (1955) found the $142,600 unconscionable; the final award entered after offsets, and whether it was paid, were not located (the Commission’s 1959 opinion in the docket, id 325, has no text layer).",
     "Whether the $100,000 trust fund and its interest were paid as Article II required was not checked against Interior records.",
     "The 74 cents an acre and 191,000 acre figures are the Tribe's; the commissioners' final report they cite was not opened.",
-    "Audit 2026-11-08: the Tribe's page says the Secretary had 'apparently' already decided to declare the land surplus, and lists the allotment and clear-title promises among promises it says went unfulfilled without saying what became of those two; the breach, today and plain lines were reworded to match."
+    "Audit 2026-11-08: the Tribe's page says the Secretary had 'apparently' already decided to declare the land surplus, and lists the allotment and clear-title promises among promises it says went unfulfilled without saying what became of those two; the breach, today and plain lines were reworded to match.",
+    "Audit 2026-11-08 (round 12): status raised from contested to broken on the Indian Claims Commission Docket 239 findings of November 23, 1955 (finding 36: value $3.00 an acre, $575,396.00, at October 31, 1892; finding 37: the $142,600.00 paid was an unconscionable consideration). The findings concern this cession: the 1892 agreement ratified by the Act of August 15, 1894 (28 Stat. 286), all unallotted Siletz land except five timbered sections. The opinion (Chief Commissioner Witt) says the claim is prosecuted solely by the Confederated Tribes of Siletz Indians; the other plaintiffs were dismissed.",
+    "Audit 2026-11-08: the opinion gives the price paid as 82 cents an acre; $142,600 over the 191,798.80 acres found is about 74 cents, the Tribe’s figure. The difference was not resolved and neither per-acre figure is used in the record."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

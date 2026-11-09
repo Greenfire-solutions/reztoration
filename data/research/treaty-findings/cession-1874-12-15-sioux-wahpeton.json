@@ -1,0 +1,81 @@
+{
+  "id": "cession-1874-12-15-sioux-wahpeton",
+  "name": "Act of December 15, 1874 ratifying the Shoshone (Brunot) agreement of September 26, 1872 (Royce area 539)",
+  "aka": [
+    "Brunot cession",
+    "Lander Purchase"
+  ],
+  "signed": "1874-12-15",
+  "citation": "Act of December 15, 1874, 18 Stat. 291 (Royce p. 878)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/878/mode/2up",
+  "nations": [
+    "Eastern Shoshone Tribe of the Wind River Reservation (Shoshone of the 1868 treaty)"
+  ],
+  "promises": [
+    "The agreement of September 26, 1872 ceded to the United States the part of the Shoshone reservation set apart by the treaty of July 3, 1868 lying south of a line along the Little Popo Agie, the Popo Agie and its North Fork (Article I, as quoted by the Indian Claims Commission, finding 3).",
+    "The Shoshone kept the rest of the 1868 reservation, the present Wind River reservation (Royce).",
+    "As consideration for the 700,642 acres, the United States agreed to spend $5,000 a year for five years for the Shoshone and to pay Chief Washakie $500 a year for five years (Commission finding 3)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1954-08-20",
+      "what": "The Indian Claims Commission found that the agreement, approved by the Act of December 15, 1874, ceded 700,642 acres worth eighty cents an acre, $560,513.60, and that the $27,500 paid was an unconscionable consideration; it awarded the value less the amount paid.",
+      "whoFoundIt": "Indian Claims Commission, Shoshone Tribe of the Wind River Reservation v. United States, Docket 63, Findings of Fact and Opinion (3 Ind. Cl. Comm. 313 and 333)",
+      "source": {
+        "title": "Shoshone Tribe of Indians of the Wind River Reservation v. United States, Docket 63, Opinion of the Commission (3 Ind. Cl. Comm. 333, August 20, 1954)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/434",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      },
+      "quote": "less than four cents per acre for lands worth twenty times that amount was shockingly low"
+    }
+  ],
+  "landTaken": "The Commission found the cession covered 700,642 acres (Docket 63, finding 3).",
+  "compensation": "The Commission found the Shoshone received $27,500 ($25,000 spent for their use and $2,500 paid to Washakie) for land worth $560,513.60, and entered an interlocutory award of the value less the $27,500 paid (Docket 63, 1954). The final judgment was not re-read for this file.",
+  "today": "The same cession and the same Commission finding are already recorded under cession-1872-09-26-sioux-wahpeton and cession-1872-09-26-shoshoni, and under cession-1874-06-22-sioux-wahpeton (Royce's general ratification of June 22, 1874). This is one taking, not four.",
+  "nationVoice": [
+    {
+      "nation": "Eastern Shoshone Tribe",
+      "summary": "The Tribe says Chief Washakie chose the Wind River Basin as its permanent homeland, and that later agreements ceding the South Pass and Big Horn Hot Springs regions, then allotment, left about 2.2 million of 4.4 million acres.",
+      "url": "https://easternshoshone.org/about/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 878-879",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/878/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Shoshone Tribe of Indians of the Wind River Reservation v. United States, Docket 63, Findings of Fact (3 Ind. Cl. Comm. 313, August 20, 1954)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/22",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Shoshone Tribe of Indians of the Wind River Reservation v. United States, Docket 63, Opinion of the Commission (3 Ind. Cl. Comm. 333, August 20, 1954)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/434",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "About the Eastern Shoshone Tribe",
+      "url": "https://easternshoshone.org/about/",
+      "publisher": "Eastern Shoshone Tribe"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json error: this record names the \"Sioux, Wahpeton\" (scheduleTribes) and the Sisseton-Wahpeton Oyate (presentDayTribes), but Royce's December 15, 1874 entry (18 Stat. 291, area 539, Wyoming) ratifies the Shoshone agreement of September 26, 1872. presentDayTribes should be the Eastern Shoshone Tribe of the Wind River Reservation. Not edited.",
+    "Duplicate: this is one of four queue entries for one cession (cession-1872-09-26-sioux-wahpeton, cession-1872-09-26-shoshoni, cession-1874-06-22-sioux-wahpeton, this record). All rest on the same Docket 63 finding; the map should not count them as four broken treaties. Jordan may want them merged.",
+    "The Shoshone asked the Commission to value the land as of December 15, 1874; the Commission held the choice immaterial because the parties agreed values did not change between September 1872 and December 1874.",
+    "The final judgment in Docket 63 was not re-read for this file.",
+    "2026-11-08: counted once with cession-1872-09-26-sioux-wahpeton (the Act ratifying the Eastern Shoshone Brunot cession; one cession). The map still shows this row."
+  ],
+  "plain": {
+    "promised": "Congress ratified an 1872 agreement in which the Shoshone gave up the southern 700,642 acres of their 1868 reservation for $5,000 a year for five years and a salary for Chief Washakie.",
+    "happened": "The Indian Claims Commission found in 1954 that the $27,500 paid, under four cents an acre, was unconscionable for land worth $560,513.60.",
+    "today": "The Commission awarded the land's value less the $27,500 paid. This is the same cession recorded under three other entries."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher",
+  "sameEventAs": "cession-1872-09-26-sioux-wahpeton"
+}

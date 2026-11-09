@@ -1,0 +1,65 @@
+{
+  "id": "cession-1872-10-19-wichita",
+  "name": "Agreement with the Wichita and affiliated bands, October 19, 1872 (never ratified)",
+  "aka": [
+    "Agreement with the Wichita and affiliated tribes, 1872"
+  ],
+  "signed": "1872-10-19",
+  "citation": "Unratified agreement of October 19, 1872 (Royce area 540A)",
+  "textUrl": "https://treaties.okstate.edu/treaties/agreement-with-the-wichita-and-affiliated-tribes-1872-22669",
+  "nations": [
+    "Wichita and Affiliated Tribes (Wichita, Keechi, Waco and Tawakonie)"
+  ],
+  "promises": [
+    "The United States granted the Wichita and affiliated bands, as a home, a tract in Indian Territory between the Washita and main Canadian rivers, from the ninety-eighth meridian west to 98 degrees 40 minutes west longitude.",
+    "In return the bands ceded to the United States all claim to lands in Texas, Louisiana, Indian Territory or elsewhere in the United States."
+  ],
+  "status": "unratified",
+  "breaches": [
+    {
+      "kind": "never-ratified",
+      "what": "Royce recorded in 1899 that the agreement had never been ratified, although the Wichita had been living on the reserve it described for several years. The Oklahoma State University Kappler edition also tags it not ratified.",
+      "whoFoundIt": "Royce, Indian Land Cessions (1899), remarks on area 540A",
+      "source": {
+        "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 860-861",
+        "url": "https://archive.org/stream/annualreportofbu218smit#page/860/mode/2up",
+        "publisher": "Smithsonian Institution, via Internet Archive"
+      },
+      "quote": "This agreement has never been ratified although the Indians have been in full occupancy of the reserve for several years."
+    }
+  ],
+  "landTaken": "None by this agreement, which was never ratified. Royce notes the lands it purported to cede were covered by the claims and earlier cessions of other tribes.",
+  "compensation": "None located for this agreement.",
+  "today": "In Wichita Indian Tribe v. United States, 696 F.2d 1378 (Fed. Cir. January 10, 1983), the court reversed the dismissal of the Wichita claims for aboriginal title lands in Texas and Oklahoma and sent them back to the Claims Court to fix the extent of title and any liability. The outcome after remand was not traced.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 860-861",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/860/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Agreement with the Wichita and affiliated tribes, 1872",
+      "url": "https://treaties.okstate.edu/treaties/agreement-with-the-wichita-and-affiliated-tribes-1872-22669",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Wichita Indian Tribe v. United States, 696 F.2d 1378 (Fed. Cir. 1983)",
+      "url": "https://static.case.law/f2d/696/cases/1378-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    }
+  ],
+  "openQuestions": [
+    "The Wichita reservation was later allotted and its surplus opened under the 1891 agreement ratified in 1895; that taking belongs to a later record and was not researched here.",
+    "The result of the remanded Wichita aboriginal title case (Claims Court, after 1983) was not found; it may hold a finding about the lands this agreement purported to cede.",
+    "The Wichita and Affiliated Tribes history pages (wichitatribe.com) did not load for a robot on 2026-11-08, so the nation's own account is missing.",
+    "Royce: the reserve overlapped territory assigned to the Cheyenne and Arapaho by the executive order of August 10, 1869."
+  ],
+  "plain": {
+    "promised": "The Wichita and allied bands were to get a home between the Washita and Canadian rivers in Indian Territory, and in return give up all claims to land in Texas, Louisiana and elsewhere.",
+    "happened": "The agreement was never ratified. Royce recorded in 1899 that the Wichita had nonetheless lived on the reserve for several years.",
+    "today": "A federal appeals court in 1983 revived the Wichita claims for lost aboriginal lands and sent them back for trial. How that case ended has not been traced."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -805,6 +805,8 @@ async function openTreaty(id) {
   let h = `<h2 style="margin-top:18px">${esc(t.name)}</h2>
     <p class="sub">${esc(t.date || '')}${f?.citation ? ` · ${esc(f.citation)}` : ''}${t.cessions.length ? ` · Royce cession ${t.cessions.map(esc).join(', ')}` : ''}</p>
     <div class="status s-${esc(t.status)}">${dot(t.status)}<b>${esc(t.statusLabel)}</b><span>${esc(t.statusNote)}</span></div>`;
+  if (t.sameEventAs) h += `<p class="note">This row of the government's list records the same taking as <a href="#treaty/${encodeURIComponent(t.sameEventAs.id)}">${esc(t.sameEventAs.name)}</a>. It is counted once, there.</p>`;
+  if (t.alsoRecordedAs?.length) h += `<p class="note">The same taking is also recorded as ${t.alsoRecordedAs.map((o) => `<a href="#treaty/${encodeURIComponent(o.id)}">${esc(o.name)}</a>`).join(', ')}. It is counted once, here.</p>`;
   if (f?.unsupported) h += `<p class="note">The research claimed "${esc(f.claimed)}"; the evidence recorded so far supports "${esc(t.statusLabel)}", so that is what is shown.</p>`;
   if (f?.nationVoice?.length) h += `<h3>In the nation's words</h3>${f.nationVoice.map((v) => `<div class="card own"><b>${esc(v.nation)}</b><div>${esc(v.summary)}</div>${link(v.url, 'Read it from the nation')}</div>`).join('')}`;
   if (f?.promises?.length) h += `<h3>What the United States promised</h3><ul class="promises">${f.promises.map((p) => `<li>${esc(p)}</li>`).join('')}</ul>`;
@@ -892,6 +894,7 @@ function brokenCard(c) {
       ${c.plain.happened ? `<dt>What happened</dt><dd>${esc(c.plain.happened)}${found ? ` <span class="bt-found">${c.foundBy.url ? link(c.foundBy.url, `Found by: ${KIND_LABEL[c.foundBy.kind] || c.foundBy.kind}${c.foundBy.date ? `, ${year(c.foundBy.date)}` : ''}`) : found}</span>` : ''}</dd>` : ''}
       ${c.plain.today ? `<dt>Today</dt><dd>${esc(c.plain.today)}</dd>` : ''}
     </dl>
+    ${c.alsoRecordedAs?.length ? `<p class="bt-also">Also recorded as ${c.alsoRecordedAs.map((o) => `<a href="#treaty/${encodeURIComponent(o.id)}">${esc(o.name)}</a>`).join(', ')}</p>` : ''}
     <a class="bt-more" href="#treaty/${encodeURIComponent(c.id)}">The full record, every source, and the land on the map</a>
   </article>`;
 }

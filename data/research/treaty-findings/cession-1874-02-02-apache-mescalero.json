@@ -1,0 +1,40 @@
+{
+  "id": "cession-1874-02-02-apache-mescalero",
+  "name": "Executive order of February 2, 1874 replacing the Mescalero Apache reservation of May 29, 1873",
+  "signed": "1874-02-02",
+  "citation": "Executive Order of February 2, 1874 (Royce, see area 643)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/870/mode/2up",
+  "nations": [
+    "Mescalero Apache Tribe"
+  ],
+  "promises": [
+    "Not a treaty. The President cancelled the order of May 29, 1873 and set apart a reserve at Fort Stanton in its place, running west to the summit of the Sierra Blanca and south to 33 degrees north latitude."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "Royce records this reserve was cancelled and replaced by the executive order of October 20, 1875. The Indian Claims Commission dated the taking of Mescalero aboriginal land to May 29, 1873 (Docket 22-B), a finding carried by that record.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 870-871",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/870/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 862-863",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/862/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Mescalero Apache Tribe v. United States, Docket 22-B, Interlocutory Order (1966), 17 Ind. Cl. Comm. 162",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1062",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "Not re-counted: the Docket 22-B taking and the 1967 settlement are carried by cession-1873-05-29-apache-mescalero.",
+    "Royce notes the successive Mescalero orders largely covered the same ground and maps the present reserve under the order of March 24, 1883."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

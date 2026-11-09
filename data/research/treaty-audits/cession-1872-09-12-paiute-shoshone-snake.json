@@ -1,0 +1,22 @@
+{
+  "id": "cession-1872-09-12-paiute-shoshone-snake",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce p. 858-859: Sept. 12, 1872 executive order setting apart Malheur (boundaries as in the promise), 'This embraces Nos. 638 and 646'; the restoration of the rest of the 1871 withdrawal is area 537. Matches.",
+    "ICC Docket 17 second interlocutory order of April 15, 1959 (OSU id 32): amended order of Feb. 4, 1957, parties to the unratified treaty of Dec. 10, 1868, deprived of original Indian title in January 1879 without compensation, $579,722.00 less offsets. Matches the file and the parallel record exactly.",
+    "Duplicate check: both 09-12 records state the same finding, date and figure. This one maps the reservation (638, 646), which the finding covers; the -shoshoni- record maps area 537, outside the reservation, which the finding does not cover.",
+    "Burns Paiute page opened: 1.8 million acres, 1869 date, Fort Simcoe and Fort Vancouver. Summary matches.",
+    "Under Jordan's EO rule, broken rests on the Commission's taking finding about this land, not on the 1882-83 revocations. Status stands."
+  ],
+  "changes": [
+    "openQuestions: replaced the 'final award not traced' line with an audit line on the duplicate's mapping and the 1960 attorney-fee order (OSU id 33) that refers to a December award whose figure is damaged; source added."
+  ],
+  "unverifiable": [
+    "The final award figure and date (the 1960 fee order reads about '$567,0..' made in December) could not be read; not recorded."
+  ],
+  "treatiesJsonErrors": [
+    "cession-1872-09-12-paiute-shoshone-snake: presentDayTribes is empty (Burns Paiute Tribe), and the 638c.pdf link is filed as a statute though Royce lists an executive order.",
+    "cession-1872-09-12-paiute-shoshoni-snake (not in this sample) duplicates the same Sept. 12, 1872 order with area 537; its Docket 17 finding is about the reservation, not area 537."
+  ]
+}

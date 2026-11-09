@@ -1,0 +1,19 @@
+{
+  "id": "cession-1855-11-16-klamath",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce pp. 814-815 (full text): Nov. 16, 1855 executive order, 25,000 acres, 1 mile each side of the Klamath for 20 miles; selected by Henley under the Act of Mar. 3, 1855; agent reported destruction by freshet Dec. 31, 1861; not occupied again as a reservation until 1877.",
+    "Mattz v. Arnett, 412 U.S. 481 (Cornell LII): Act of June 17, 1892, 27 Stat. 52; quote 'subject to settlement, entry, and purchase under the laws of the United States granting homestead rights' exact; allotments; proceeds to a fund for maintenance and education; held the reservation not terminated and still Indian country; 1891 joinder to Hoopa Valley.",
+    "Status rule: the breach is an Act of Congress opening an executive-order reservation, a finding kind under rule 9; kept."
+  ],
+  "changes": [
+    "openQuestions: 'destroyed by a freshet in 1861-62' corrected to Royce's wording (agent's report of December 31, 1861); audit line added noting Mattz cites both the 1853 and 1855 Acts and that no court held the 1892 Act a taking."
+  ],
+  "unverifiable": [
+    "Whether the Yurok consented to the 1892 Act was not found."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes gives 'Klamath Tribes, Oregon'; the Klamath River Reservation is the Yurok reservation in California (Royce; Mattz v. Arnett). Should be the Yurok Tribe of the Yurok Reservation, California."
+  ]
+}

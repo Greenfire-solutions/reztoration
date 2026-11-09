@@ -1,0 +1,38 @@
+{
+  "id": "cession-1876-06-23-hupa-s-fork-redwood-and-grouse-creek-ban",
+  "name": "Executive Order of June 23, 1876 proclaiming the boundaries of the Hoopa Valley Reservation (Royce area 461)",
+  "signed": "1876-06-23",
+  "citation": "Executive Order of June 23, 1876, under the Act of April 8, 1864 (Royce p. 886)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/886/mode/2up",
+  "nations": [
+    "Hoopa Valley Tribe (Natinixwe, Hupa), with the South Fork, Redwood and Grouse Creek bands named by Royce"
+  ],
+  "promises": [
+    "Not a cession: the President proclaimed the boundaries of the Hoopa Valley reservation as one of the reserves authorized by the Act of April 8, 1864 (Royce p. 886).",
+    "Royce notes the reserve had been located on August 21, 1864 by Superintendent Wiley (Royce p. 887).",
+    "The Federal Circuit describes the order as defining the boundaries of the twelve-mile square and setting it apart for Indian purposes."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The square set apart by this order remains the Hoopa Valley Reservation: the Hoopa-Yurok Settlement Act of 1988 made the square the Hoopa Valley Tribe's reservation and the 1891 addition the Yurok Reservation. In Karuk Tribe v. Ammon (2000) the Federal Circuit held, for the United States and the Hoopa Valley Tribe, that the plaintiffs had no compensable property interest, so the 1988 Act took nothing from them.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 886-887",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/886/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Karuk Tribe of California v. Ammon, 209 F.3d 1366 (Fed. Cir. 2000)",
+      "url": "https://static.case.law/f3d/209/cases/1366-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    }
+  ],
+  "openQuestions": [
+    "Karuk v. Ammon gives the order's date as June 23, 1876 in one passage and June 28, 1876 in another; Royce gives June 23.",
+    "The Hoopa Valley Tribe's website has no history page that loaded; its own account is not recorded.",
+    "California Indian claims (Indian Claims Commission Dockets 31 and 37) were compromised; their bearing on Hupa lands outside the square was not traced. Same Royce area as cession-1864-08-21-hupa-s-fork-redwood-and-grouse-creek-ban."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

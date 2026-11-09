@@ -1,0 +1,23 @@
+{
+  "id": "cession-1872-04-09-methow-okanagan",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce p. 856-857: April 9, 1872 executive order setting apart the Colville reservation east of the Columbia (boundaries match the promise); remark 'Restored to public domain by Executive order of July 2, 1872' and the 1881 Spokane reserve; area 533, Washington 1. Matches.",
+    "ICC Docket 181 finding 5 (OSU id 441): the April 9 order, its revocation on July 2, 1872, and the petition excluding lands inside the July 2 reservation. Finding 42: white squatters, most of them east of the Columbia within the April 9 reservation, bore on moving the reservation west; non-reservation lands taken without compensation as of July 2, 1872.",
+    "Under Jordan's EO rule the July 2 revocation alone is not a breach; this record is broken on the Commission's finding about the Colville and Lakes tracts, which lie inside this tract (1959 opinion, OSU id 191). So it rests on a finding about its own land.",
+    "Awards: Colville $111,000 and Lake $125,000 (OSU id 248); Colville net $104,600 after offsets (OSU id 568)."
+  ],
+  "changes": [
+    "compensation and plain.today: replaced the Methow award (whose tract is west of the Okanogan River, outside this area) with the Colville and Lake awards, with the arithmetic check for the damaged Lake figure stated.",
+    "breach what: removed 'with the defendant's acquiescence' (that word is unreadable in finding 42) and tied the finding to the Colville and Lakes tracts.",
+    "sources: added OSU ids 248 and 191; audit line in openQuestions."
+  ],
+  "unverifiable": [
+    "The southern part of this tract was Spokane land (Spokane reserve of 1881); the Spokane and Kalispel claims were not traced.",
+    "The UGA statute file 533c.pdf was not reopened."
+  ],
+  "treatiesJsonErrors": [
+    "cession-1872-04-09-methow-okanagan: the statute link (533c.pdf) files an executive order as a federal statute; Royce lists area 533 as an executive order (an earlier correction fixed the same link on cession-1872-07-02-methow-okanagan but not here)."
+  ]
+}

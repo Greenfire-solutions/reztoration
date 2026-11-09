@@ -20,6 +20,11 @@ for (const file of fs.readdirSync(dir).filter((f) => f.endsWith('.json'))) {
   const r = checkFinding(f);
   if (f.id !== id) r.problems.push(`id inside the file ("${f.id}") does not match the file name`);
   if (!known.has(id) && !String(id).startsWith('extra-')) r.problems.push('id is not in treaties.json (name an added treaty extra-<slug>)');
+  if (f.sameEventAs !== undefined) {
+    if (f.sameEventAs === id) r.problems.push('sameEventAs points at itself');
+    else if (!known.has(f.sameEventAs) && !String(f.sameEventAs).startsWith('extra-')) r.problems.push(`sameEventAs "${f.sameEventAs}" is not in treaties.json`);
+    else { try { const p = JSON.parse(fs.readFileSync(path.join(dir, f.sameEventAs + '.json'), 'utf8')); if (p.sameEventAs) r.problems.push(`sameEventAs "${f.sameEventAs}" itself points elsewhere; point at the primary`); } catch { r.problems.push(`sameEventAs "${f.sameEventAs}" has no findings file`); } }
+  }
   tally[r.status] = (tally[r.status] || 0) + 1;
   if (r.problems.length) { bad++; console.log(`${id}: shown as ${r.status}\n  - ${r.problems.join('\n  - ')}`); }
   else if (only.length) console.log(`${id}: OK, shown as ${r.status}`);

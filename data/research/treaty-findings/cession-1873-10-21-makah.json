@@ -1,0 +1,40 @@
+{
+  "id": "cession-1873-10-21-makah",
+  "name": "Executive order of October 21, 1873 defining the addition to the Makah reservation",
+  "signed": "1873-10-21",
+  "citation": "Executive Order of October 21, 1873 (Royce area 548)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/866/mode/2up",
+  "nations": [
+    "Makah Tribe"
+  ],
+  "promises": [
+    "Not a treaty. The President revoked the orders of October 26, 1872 and January 2, 1873 and set out again the addition to the reservation made by the Treaty of Neah Bay of January 31, 1855.",
+    "Royce says it simply corrected a faulty description in the earlier orders, includes a small tract first ceded by the S'Klallam on January 26, 1855, and forms part of the Makah reservation."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "An addition to the reservation, not a taking. The Makah land claim before the Indian Claims Commission (Docket 60-A) concerns the 1855 cession, not this order.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 866-867",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/866/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 860-861",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/860/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Makah Indian Tribe v. United States, Docket 60-A, Opinion of the Commission (1970), 23 Ind. Cl. Comm. 165",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1109",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The Makah Tribe's own account of the reservation additions was not searched in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

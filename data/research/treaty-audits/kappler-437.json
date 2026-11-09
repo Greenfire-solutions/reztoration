@@ -1,0 +1,15 @@
+{
+  "id": "kappler-437",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Oklahoma State University Kappler text: Dec. 10, 1834, 7 Stat. 467, proclaimed Mar. 16, 1835; Muck Rose band cedes six sections reserved by Article 2 of the Oct. 26, 1832 treaty; possession within three years; $400 goods and $1,000 a year for two years. Matches.",
+    "Royce schedule (BAE 18th Annual Report, OCR text) lists the October 26, 1832 Tippecanoe reserves by band, including this one; the Potawatomi Docket 29-K opinion (OSU id 667) concerns Royce Area 117, not these band reserves.",
+    "Docket 15-P/29-N/306 (OSU 2280) and Docket 128 et al. (OSU 1472) grepped for Muck Rose, Mota and 1834: no mention."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "No ICC or Court of Claims docket for the 1834-1837 Indiana band reserve cessions was found; none listed in the Court of Claims Potawatomi case names either."
+  ],
+  "treatiesJsonErrors": []
+}

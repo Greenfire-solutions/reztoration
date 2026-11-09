@@ -20,7 +20,7 @@
   ],
   "status": "no-breach-found",
   "breaches": [],
-  "today": "Royce (p. 841) records that by an agreement with the Cherokee approved April 11, 1867 the Delawares merged their tribal existence with the Cherokee and took up residence in the Cherokee country. No court, claims-commission or government finding of a breach of this treaty was found; the Indian Claims Commission Delaware awards located concern other treaties.",
+  "today": "Royce (p. 841) records that by an agreement with the Cherokee approved April 11, 1867 the Delawares merged their tribal existence with the Cherokee and took up residence in the Cherokee country. No court, claims-commission or government finding of a breach of this treaty was found. In Delaware Tribe of Indians v. United States, 74 Ct. Cl. 368 (1932), the Court of Claims dismissed the tribe's claims for the gold premium on funds, including school-fund distributions made in 1872-1875 under this treaty to Delawares who took citizenship, and on the $286,742.15 railroad payment that Article 1 guaranteed. The Indian Claims Commission Delaware awards located concern other treaties.",
   "nationVoice": [],
   "sources": [
     {
@@ -32,13 +32,19 @@
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 840-841",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/840/mode/2up",
       "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Delaware Tribe of Indians v. United States, No. E-493, 74 Ct. Cl. 368 (May 2, 1932)",
+      "url": "https://static.case.law/us-ct-cl/74/cases/0368-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
     }
   ],
   "openQuestions": [
     "Whether the Delawares received a separate tract under Article 4, and whether Article 1 payments were made, was not settled; the 1867 Cherokee agreement replaced the separate home.",
     "The Delaware Tribe of Indians' pages on the Kansas removal returned errors and could not be read; secondary summaries say the tribe could not secure the reservation it expected.",
     "Delaware Indians v. Cherokee Nation, 193 U.S. 127 (1904) concerns the 1867 agreement and is a lead.",
-    "treaties.json gives the Delaware Nation, Oklahoma as present-day tribe; the Kansas Delawares who moved in 1867 are the Delaware Tribe of Indians. Not edited."
+    "treaties.json gives the Delaware Nation, Oklahoma as present-day tribe; the Kansas Delawares who moved in 1867 are the Delaware Tribe of Indians. Not edited.",
+    "Audit 2026-11-08: 74 Ct. Cl. 368 (1932, dismissed) added to today. Lead: the Court of Claims in United States v. Delaware Tribe of Indians, 192 Ct. Cl. 385 (1970), records that twelve Delaware suits were settled for $150,000 under the Act of April 21, 1904 (33 Stat. 222); which claims those suits covered, and whether any arose under this treaty, was not traced. A settlement would be litigation, not a finding."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

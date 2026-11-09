@@ -1,0 +1,41 @@
+{
+  "id": "cession-1878-10-29-navabo",
+  "name": "Executive order of October 29, 1878 adding land to the Navajo Reservation",
+  "aka": [
+    "Navajo western addition of 1878"
+  ],
+  "signed": "1878-10-29",
+  "citation": "Executive order of October 29, 1878 (Royce area 608)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/892/mode/2up",
+  "nations": [
+    "Diné (Navajo Nation)"
+  ],
+  "promises": [
+    "This was an executive order, not a treaty. The President set apart as an addition to the Navajo Reservation of the treaty of June 1, 1868 the tract from the reservation's northwest corner on the Arizona-Utah line west to 110 degrees west longitude, south to 36 degrees north latitude, and east to the reservation."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "None by this order: it added land to the Navajo Reservation (Royce area 608).",
+  "compensation": "None stated.",
+  "today": "Royce records the reservation was enlarged again by executive order of January 6, 1880.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 892, executive order of October 29, 1878, area 608",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/892/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 898, executive order of January 6, 1880",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/898/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json spells the nation \"Navabo\", Royce's misprint; the queue name was not edited.",
+    "No court or Commission finding about this addition was located; the Navajo land claim (Docket 229) concerns aboriginal land outside the 1868 reservation and was not researched for this order.",
+    "Whether any of this addition was later taken back was not researched. The order was read only in Royce's summary."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

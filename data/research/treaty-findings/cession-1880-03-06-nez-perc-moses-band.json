@@ -1,0 +1,53 @@
+{
+  "id": "cession-1880-03-06-nez-perc-moses-band",
+  "name": "Executive order of March 6, 1880 enlarging the Columbia (Moses) Reservation",
+  "aka": [
+    "Addition to the Columbia Reservation for Chief Moses and his people"
+  ],
+  "signed": "1880-03-06",
+  "citation": "Executive order of March 6, 1880 (Royce area 618)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/898/mode/2up",
+  "nations": [
+    "Confederated Tribes of the Colville Reservation (Chief Moses' Columbia or Sinkiuse people, with Chelan, Entiat and Wenatchi)"
+  ],
+  "promises": [
+    "This was an executive order, not a treaty. The President added to the Columbia Reservation of April 19, 1879 the country from its southern line down the Okanogan to the Columbia, down the Columbia to the outlet of Lake Chelan, along the south shore of the lake to Shehekin Creek, and west to 44 degrees west of Washington.",
+    "The Commission describes the reservation, as amended in 1880 and 1883, as set apart for the permanent use and occupancy of Chief Moses and his people."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "None by this order: it enlarged the reservation (Royce area 618).",
+  "compensation": "None stated.",
+  "today": "Under an agreement of July 7, 1883, ratified by the Act of July 4, 1884 (23 Stat. 76, 79-80), Moses' people gave up the Columbia Reservation for equal rights on the Colville Reservation; except for allotted tracts it was restored to the public domain by executive order of May 1, 1886. The Colville Tribes' claim in Docket 181-A, that moving Moses' groups onto the Colville Reservation took an interest in Colville lands without compensation, was settled together with Docket 181-B for a net judgment of $3,500,000.00 in 1967, with no finding of liability.",
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of the Colville Reservation",
+      "summary": "The Colville Tribes' history records that the Columbia Reservation was set aside by executive order in 1879, amended in 1880 and 1883, for the permanent use of Chief Moses and his people, and that his people were moved to the Colville Reservation from about 1886.",
+      "url": "https://cctfnw.squarespace.com/ct-fish-history"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 898, executive order of March 6, 1880, area 618",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/898/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Confederated Tribes of the Colville Reservation v. United States, Dockets 177, 181-A, 181-B, Findings of Fact on Compromise Settlement (September 7, 1967), 18 Ind. Cl. Comm. 531",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2196",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History of the Confederated Tribes of the Colville Reservation",
+      "url": "https://cctfnw.squarespace.com/ct-fish-history",
+      "publisher": "CCT Fish & Wildlife, Confederated Tribes of the Colville Reservation"
+    }
+  ],
+  "openQuestions": [
+    "Royce files Moses' people as \"Nez Perce (Moses' band)\"; treaties.json already carries a correction to the Colville Tribes for this id.",
+    "No court or Commission finding about the loss of the Columbia Reservation itself was located; the 1967 settlement made no finding. See also cession-1879-04-19-nez-perc-moses-band and cession-1886-05-01-nez-perc-moses-band.",
+    "The order was read only in Royce's summary."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

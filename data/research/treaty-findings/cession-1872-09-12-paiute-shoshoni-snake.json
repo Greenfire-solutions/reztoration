@@ -75,7 +75,8 @@
     "A final award in Docket 17 after the 1959 interlocutory order was not found in the collection; whether and when the $579,722.00 was paid was not traced.",
     "The Burns Paiute Tribe's page dates the executive order reservation to 1869; Royce and the Commission date the orders 1871, 1872 and 1875.",
     "The Northern Paiute claim (Docket 87) found in 1959 that the United States took the Oregon Paiute lands without compensation, but the 1965 final judgment covers only the Owens Valley and western Nevada groups; what became of the Oregon claim was not traced.",
-    "The executive order texts were read through Royce's schedule, not the orders themselves."
+    "The executive order texts were read through Royce's schedule, not the orders themselves.",
+    "2026-11-08: counted once with cession-1872-09-12-paiute-shoshone-snake (the same 1872 Malheur order; the January 1879 taking is counted on the reservation record). The map still shows this row."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher",
@@ -83,5 +84,6 @@
     "promised": "Not a treaty: an executive order. The President set apart the Malheur Reservation in southeastern Oregon, and returned the rest of the country withdrawn in 1871 to the public domain.",
     "happened": "The Indian Claims Commission found that the Snake or Paiute bands were deprived of the former Malheur Reservation in January 1879 without any compensation. The reservation was largely restored to the public domain in 1882 and 1883.",
     "today": "The Commission awarded $579,722.00 less offsets in 1959. No later payment was traced. The Burns Paiute Tribe writes that its people were marched more than 300 miles in deep snow, and the reservation was given up in their absence."
-  }
+  },
+  "sameEventAs": "cession-1872-09-12-paiute-shoshone-snake"
 }

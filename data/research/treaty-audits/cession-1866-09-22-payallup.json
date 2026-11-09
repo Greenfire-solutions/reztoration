@@ -1,0 +1,17 @@
+{
+  "id": "cession-1866-09-22-payallup",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce p. 842 (full text): 'Puyallup and others. President withdraws parts of secs. 2 and 3, T. 14 N., R. 11 W., for a reservation at Shoalwater bay.' Matches.",
+    "Royce p. 833: the U.S. took the Chehalis and other tribes' country without treaty, assigning first the Chehalis reserve and then Shoalwater Bay. Matches.",
+    "ICC title search for Shoalwater: none."
+  ],
+  "changes": [
+    "openQuestions: Shoalwater Bay placed in 'north-western Washington' corrected to south-western Washington (Willapa Bay); audit line added."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "presentDayTribes 'Puyallup Tribe': the order sets apart the Shoalwater Bay reservation (already noted in the findings file); the successor is the Shoalwater Bay Indian Tribe."
+  ]
+}

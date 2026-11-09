@@ -1,0 +1,19 @@
+{
+  "id": "kappler-347",
+  "auditedAt": "2026-11-08",
+  "verdict": "could-not-verify",
+  "checked": [
+    "OSU Kappler p. 339: Jan. 19, 1832, 7 Stat. 364; 16,000-acre Big Spring reserve; $1.25 an acre in silver; promises match. Royce area 171 per the 1976 opinion.",
+    "ICC Dockets 212 and 213 opinion of Aug. 5, 1976 (OSU id 2247): Areas 171, 211, 212, 213, 259 (Ohio) and 95, 96, 260 (Michigan); Area 171 is the Big Spring Reservation; cites the treaty as 7 Stat. 362 in one place and 7 Stat. 364 in the table. Feb. 9, 1977 opinion (OSU id 2766) is procedural; transfer to the Court of Claims July 13, 1978 (OSU id 2035).",
+    "Public Law 98-602 (98 Stat. 3149, Oct. 30, 1984) opened: funds for judgments in Dockets 212 and 213 'before the United States Claims Court'.",
+    "case.law: Zane ex rel. Wyandot Tribe, 221 Ct. Cl. 884 (Oct. 12, 1979) is Docket 120, not these dockets.",
+    "Tenth Circuit, Kansas ex rel. Kobach v. DOI, No. 21-3097 (July 3, 2023), opened: says the ICC found the consideration unconscionable and ordered $200,000 for Dockets 212 and 213."
+  ],
+  "changes": [
+    "openQuestions: audit line recording the Tenth Circuit statement as a lead, why it is not counted as a breach, and the sources searched; Tenth Circuit opinion added to sources."
+  ],
+  "unverifiable": [
+    "The Claims Court judgment in Dockets 212 and 213 itself was not found. The Tenth Circuit's summary conflicts with the primary record (dockets transferred undecided; PL 98-602 names the Claims Court), covers eight areas, and may describe a compromise, so the status stays no-breach-found until the judgment is read."
+  ],
+  "treatiesJsonErrors": []
+}

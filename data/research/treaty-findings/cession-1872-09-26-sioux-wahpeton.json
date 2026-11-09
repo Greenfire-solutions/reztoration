@@ -33,8 +33,8 @@
     }
   ],
   "landTaken": "The 1872 agreement described 700,642 acres, as both parties agreed before the Commission (Docket 63 findings and opinion).",
-  "compensation": "Value $560,513.60 against $27,500 paid. The parties later agreed offsets of $100,000, and the Commission entered a final order on April 22, 1957 (1958 opinion, Docket 63).",
-  "today": "A separate claim (Docket 157) that white miners took gold from this land between 1868 and the cession, with United States help, was settled by compromise in 1965.",
+  "compensation": "Value $560,513.60 against $27,500 paid; the 1954 interlocutory order awarded $533,013.60 less offsets. The parties later agreed offsets of $100,000, and the Commission entered a final order on April 22, 1957 (1958 opinion, Docket 63).",
+  "today": "A separate claim (Docket 157) that white miners invaded the reservation between 1868 and 1874 and removed large quantities of gold, for which the petitioner held the United States responsible, was settled by compromise in 1965 for a judgment of $120,000 (a stipulated gold value of $195,000 less $75,000 in offsets).",
   "nationVoice": [
     {
       "nation": "Eastern Shoshone Tribe",
@@ -82,7 +82,8 @@
   "openQuestions": [
     "treaties.json error: this record names the \"Sioux, Wahpeton\" (scheduleTribes) and the Sisseton-Wahpeton Oyate (presentDayTribes). Royce's September 26, 1872 entry (area 539, Wyoming) is the Shoshone agreement; presentDayTribes should be the Eastern Shoshone Tribe of the Wind River Reservation.",
     "The final award figure of April 22, 1957 is partly unreadable in the 1958 opinion scan; value less price less the $100,000 offsets would be $433,013.60, which matches the readable digits but was left out of the record.",
-    "The government argued the 1868 treaty had reserved only about 503,000 of the 700,642 acres; the Commission rejected this."
+    "The government argued the 1868 treaty had reserved only about 503,000 of the 700,642 acres; the Commission rejected this.",
+    "Audit 2026-11-08: today corrected: Docket 157 alleged gold taken between 1868 and 1874 (not 'between 1868 and the cession') and that the United States was responsible (not 'with United States help'); the $120,000 settlement figure added (OSU id 883). The $533,013.60 interlocutory figure is stated in the 1958 opinion (OSU id 322). Royce's September 26, 1872 entry has two areas: 539 is the ceded southern part (this record) and 540 is the retained Wind River reservation, which treaties.json files as cession-1872-09-26-shoshoni; that record uses the same Docket 63 finding for land that was not ceded."
   ],
   "plain": {
     "promised": "In 1872 the Eastern Shoshone gave up the southern part of their Wind River reservation, where miners had moved in. The United States agreed to spend $5,000 a year for five years for them and pay Chief Washakie $500 a year.",

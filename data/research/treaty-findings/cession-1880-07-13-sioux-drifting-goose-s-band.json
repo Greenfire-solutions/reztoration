@@ -1,0 +1,48 @@
+{
+  "id": "cession-1880-07-13-sioux-drifting-goose-s-band",
+  "name": "Executive order of July 13, 1880 restoring the Drifting Goose reservation to the public domain",
+  "aka": [
+    "Revocation of the Drifting Goose reservation"
+  ],
+  "signed": "1880-07-13",
+  "citation": "Executive order of July 13, 1880 (Royce area 613)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/902/mode/2up",
+  "nations": [
+    "Hunkpati band of the Ihanktonwanna (Yanktonai), today within the Crow Creek Sioux Tribe"
+  ],
+  "promises": [
+    "This was an executive order, not a treaty. It took back land from a reservation set apart by executive order: the President restored to the public domain the reserve set apart for Drifting Goose's band by the order of June 27, 1879 (Townships 119 to 121 North, Range 63 West).",
+    "No payment or replacement land is stated in Royce's summary."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce area 613, the James River reserve, restored to the public domain. The South Dakota State Archives gives it as a 65,000-acre reservation.",
+  "compensation": "None found.",
+  "today": "The South Dakota State Archives records that Drifting Goose, leader of the Hunkpati band of Yanktonai, refused to sign the 1859 treaty, and that in 1880 he and his people gave up the reservation and settled at Crow Creek Agency. No court, Commission or government finding about this revocation was located.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 902, executive order of July 13, 1880",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/902/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 896, executive order of June 27, 1879",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/896/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Crow Creek Agency, Indian Archives Project guide",
+      "url": "https://history.sd.gov/archives/forms/indian%20archives/Indian%20Archives%20Project/crowcreek.pdf",
+      "publisher": "South Dakota State Archives"
+    }
+  ],
+  "openQuestions": [
+    "Rule for executive-order land (Jordan, 2026-11-08): an order revoking an executive-order reservation is not by itself a breach. No finding about this land was found: the Yankton title in Docket 332-C stops at Snake Creek, and the Yanktonai intervention there was dismissed. A Yanktonai or Crow Creek claim reaching the James River townships, if any, is the lead.",
+    "Whether the band consented to leaving the reserve, as the archives' wording suggests, or was pressed by settlement, is not settled in the sources opened.",
+    "Royce's scan reads the revocation date as \"July ]S, 1880\" in the 1879 remark and July 13, 1880 in the 1880 entry; July 13 is used.",
+    "The Crow Creek Sioux Tribe's own account was not located."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

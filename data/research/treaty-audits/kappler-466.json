@@ -1,0 +1,15 @@
+{
+  "id": "kappler-466",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "The file researched the right document: OSU p. 459 text is Nas-waw-kee and Quash-quaw, Apr. 22, 1836, 7 Stat. 501, proclaimed May 25, 1836; three sections from the Oct. 26, 1832 reserves; $1,920; removal in two years; Article 4 stricken; Article 5 expenses. All match.",
+    "OSU p. 458 opened: O-kah-mause, Kee-waw-nay, Nee-boash and Mat-chis-jaw, ten sections, $6,400, 7 Stat. 500, the treaty the Kappler link actually points to.",
+    "Royce schedule OCR: 1832 reserve 7 is \"Nees-waugh-gee and Quash-qua, 3 sections\", and a separate 1836 entry cedes the 3 sections, matching area 210."
+  ],
+  "changes": [],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "Kappler link (seq 466) shows p. 458, the O-kah-mause, Kee-waw-nay, Nee-boash and Mat-chis-jaw treaty (7 Stat. 500); this record's Royce area 210 and scheduleTribes are the Nas-waw-kee and Quash-quaw treaty on p. 459 (7 Stat. 501)."
+  ]
+}

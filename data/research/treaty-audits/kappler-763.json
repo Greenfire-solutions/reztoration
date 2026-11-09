@@ -1,0 +1,20 @@
+{
+  "id": "kappler-763",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Oklahoma State University Kappler text: Feb. 11, 1856, 11 Stat. 679, ratified Apr. 18, 1856, proclaimed Apr. 24, 1856; Art. 1 two townships for the Stockbridge and Munsee; Art. 2 sixty cents an acre spent as under Art. 3 of the 1854 treaty; Art. 3 roads, semi-annual or quarterly annuities. Matches.",
+    "Menominee Tribe page opened: treaty text only, no commentary. nationVoice matches.",
+    "Royce OCR p. 816-817 (area 403): two townships bought for the Stockbridge and Munsee, who removed there; Act of Feb. 6, 1871 sold all but 18 sections. today matches.",
+    "Court of Claims Menominee opinions opened (95 Ct. Cl. 232, 101 Ct. Cl. 10 and 22, 102 Ct. Cl. 555, 107 Ct. Cl. 23, 117 Ct. Cl. 442): swamp lands, interest, log fund and 1908 timber act; none concerns the 1856 cession. The ICC title search returns no Menominee decisions under any spelling."
+  ],
+  "changes": [
+    "Added ratified 1856-04-18 and proclaimed 1856-04-24; audit line records the Court of Claims check."
+  ],
+  "unverifiable": [
+    "Whether the sixty cents an acre was paid was not traced."
+  ],
+  "treatiesJsonErrors": [
+    "royce link points to schedule p. 854; the Menominee entry of Feb. 11, 1856 (area 403) is on Royce pp. 816-817."
+  ]
+}

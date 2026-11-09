@@ -1,0 +1,19 @@
+{
+  "id": "kappler-945",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Oklahoma State University Kappler text: July 4, 1866, 14 Stat. 793, ratified July 26, 1866, proclaimed Aug. 10, 1866; Art. 1 United States to secure and pay full value of the land sold to the Leavenworth, Pawnee and Western; Art. 2 sale of the rest to the Missouri River Railroad Company. Matches.",
+    "Delaware Court of Claims cases searched (Caselaw Access Project, all us-ct-cl volumes by case name): 74 Ct. Cl. 368 (1932) dismissed claims including the gold premium on school-fund distributions made in 1872-1875 under this treaty and on the $286,742.15 railroad payment Article 1 guaranteed. 38 Ct. Cl. 234 and 39 Ct. Cl. 547 are Delaware Indians v. Cherokee Nation (the 1867 agreement). No Court of Claims or ICC finding of breach of this treaty was found.",
+    "192 Ct. Cl. 385 (1970) records twelve Delaware suits settled for $150,000 under the Act of April 21, 1904; recorded as a lead only."
+  ],
+  "changes": [
+    "today extended with the 1932 dismissal; source added; audit line with the 1904 settlement lead added."
+  ],
+  "unverifiable": [
+    "Which claims the twelve suits settled in 1904 covered was not traced."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes gives only the Delaware Nation, Oklahoma; the Kansas Delawares party to this treaty are the Delaware Tribe of Indians (Bartlesville)."
+  ]
+}

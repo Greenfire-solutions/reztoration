@@ -1,0 +1,49 @@
+{
+  "id": "cession-1876-08-15-missouri-oto",
+  "name": "Act of August 15, 1876 providing for the sale of 120,000 acres of the Otoe and Missouria reservation",
+  "aka": [
+    "Act to provide for the sale of a portion of the reservation of the confederated Otoe and Missouria and the Sac and Fox of the Missouri Tribes"
+  ],
+  "signed": "1876-08-15",
+  "citation": "Act of August 15, 1876, ch. 308, 19 Stat. 208",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-19/pdf/STATUTE-19-Pg208.pdf",
+  "nations": [
+    "Otoe-Missouria Tribe of Indians"
+  ],
+  "promises": [
+    "This was an Act of Congress, not a treaty. With the consent of the Otoe and Missouria given in open council, the reservation in Kansas and Nebraska was to be surveyed and appraised by three commissioners, one of them chosen by the tribes in open council (sections 1 and 2).",
+    "120,000 acres from the western side of the reservation were to be offered for sale to actual settlers only, in tracts of no more than 160 acres, and no land was to be sold below its appraised value or below $2.50 an acre (section 3).",
+    "The proceeds were to be credited to the tribes in the Treasury at five percent interest, the income to be spent for their benefit (section 4)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce area 595: 120,000 acres from the western side of the 1854 Otoe and Missouria reservation on the Kansas-Nebraska border, sold under this Act as amended on March 3, 1879 (20 Stat. 471).",
+  "compensation": "The lands were sold for the tribes' account. The Court of Claims records that they were appraised at an average of $3.56 an acre and sold for an average of $3.85 an acre.",
+  "today": "The Indian Claims Commission dismissed the tribe's claim on this sale (Docket 11, fifth cause of action), finding no duress, no unconscionable consideration because the land sold above its appraised value, and consent secured in open council. On May 3, 1955 the Court of Claims held those findings supported by substantial evidence and affirmed them (Otoe and Missouria Tribe v. United States, 131 Ct. Cl. 593). This was a ruling against the tribe. The remainder of the reservation was sold under the Act of March 3, 1881, a separate record.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Act of August 15, 1876, ch. 308, 19 Stat. 208",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-19/pdf/STATUTE-19-Pg208.pdf",
+      "publisher": "US Government Publishing Office, govinfo"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 886, area 595",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/886/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Otoe and Missouria Tribe of Indians v. United States, 131 Ct. Cl. 593 (May 3, 1955)",
+      "url": "https://static.case.law/us-ct-cl/131/cases/0593-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    }
+  ],
+  "openQuestions": [
+    "The Commission's own findings and opinion in Docket 11 (2 Ind. Cl. Comm. 335) were not reopened for this file; the outcome is taken from the Court of Claims opinion, which states and affirms it.",
+    "The date the tribes gave consent in open council was not found in a source opened; Royce's remark on p. 887 is garbled in the scan.",
+    "The Otoe-Missouria Tribe's own account of the 1876 sale was not located on a tribal site.",
+    "Royce notes the Act of 1872 (June 10, 1872) was not carried into effect and that this Act raised the area from 80,000 to 120,000 acres."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

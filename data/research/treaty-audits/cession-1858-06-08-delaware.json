@@ -1,0 +1,17 @@
+{
+  "id": "cession-1858-06-08-delaware",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Act of June 8, 1858, ch. 122, 11 Stat. 312 (govinfo page image): Article 13 of the Delaware treaty of May 6, 1854 granted four sections to the Christian Indians; patent May 21, 1857; sale to A. J. Isacks May 29, 1857 for $43,400, called a fair consideration; proceeds for a permanent home and stock, balance invested for a school; land divisible in severalty, inalienable without the President's consent. All match.",
+    "Royce (full text): 'Sold by the Christian Indians to A. J. Isacks May 29, 1857, and sale confirmed by act of Congress, June 8, 1858', under area 317; Munsee or Christian Indians united with the Swan Creek and Black River Chippewa (treaty of July 16, 1859).",
+    "ICC title search for 'Christian Indians' returns only an Oneida docket (290); nothing on this sale."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Whether Isacks paid and how the fund was used was not traced."
+  ],
+  "treatiesJsonErrors": [
+    "scheduleTribes 'Delaware' and presentDayTribes 'Delaware Nation, Oklahoma': Royce and the Act concern the Munsee or Christian Indians (already noted in the findings file)."
+  ]
+}

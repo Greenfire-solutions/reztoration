@@ -1,0 +1,66 @@
+{
+  "id": "cession-1878-05-27-nez-perc-joseph-s-band",
+  "name": "Act of May 27, 1878 (Indian appropriations): removal of Chief Joseph's band of Nez Perce from Fort Leavenworth to the Indian Territory",
+  "aka": [
+    "Indian Department appropriations act for fiscal year 1879, Nez Perces of Joseph's band item"
+  ],
+  "signed": "1878-05-27",
+  "citation": "Act of May 27, 1878, ch. 142, 20 Stat. 63, 74",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-20/pdf/STATUTE-20-Pg63-4.pdf",
+  "nations": [
+    "Nimiipuu (Nez Perce Tribe)",
+    "Confederated Tribes of the Colville Reservation (descendants of Chief Joseph's band)"
+  ],
+  "promises": [
+    "This was an appropriation, not a treaty. Congress gave $20,000 for removing the Nez Perce of Joseph's band, then held as prisoners of war at Fort Leavenworth, Kansas, to a suitable location in the Indian Territory, and for their settlement, clothing, subsistence and teaching.",
+    "Royce records that the band selected Townships 25 and 26 North, Ranges 1 and 2 West, in the Indian Territory, 90,710.89 acres, deeded by the Cherokee to the United States in trust for them (area 606)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce area 606: the 90,710.89-acre reserve in the Indian Territory. Royce records that the band, determining to return to Idaho, deeded its claim to it to the United States on May 22, 1885.",
+  "compensation": "None found for the 1885 deed of the Indian Territory reserve.",
+  "today": "In Docket 179 the Colville Tribes, for Joseph's band, claimed the band's share of Nez Perce trust funds and allotments it never received; the claim was settled by compromise for $1,119,071.78 in 1970, with no finding of liability. The Colville Tribes record that Chief Moses invited Joseph's band to the Colville Reservation in 1885 and that the government moved members of the band there in 1885 and later years.",
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of the Colville Reservation",
+      "summary": "The Colville Tribes' history records that in 1885 Chief Moses invited Chief Joseph and his band to stay on the Colville Reservation, and that the government moved members of the Joseph Band there from 1885.",
+      "url": "https://cctfnw.squarespace.com/ct-fish-history"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Act of May 27, 1878, ch. 142, 20 Stat. 63 (Nez Perces of Joseph's band, p. 74)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-20/pdf/STATUTE-20-Pg63-4.pdf",
+      "publisher": "US Government Publishing Office, govinfo"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 892, area 606",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/892/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Confederated Tribes of the Colville Reservation (Joseph Band of the Nez Perce) v. United States, Docket 179, Opinion (May 27, 1952)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/468",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Confederated Tribes of the Colville Reservation (Joseph Band of the Nez Perce) v. United States, Docket 179, Findings of Fact on Compromise Settlement (April 29, 1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2651",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History of the Confederated Tribes of the Colville Reservation",
+      "url": "https://cctfnw.squarespace.com/ct-fish-history",
+      "publisher": "CCT Fish & Wildlife, Confederated Tribes of the Colville Reservation"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json gives Oklahoma and only the Nez Perce Tribe of Idaho; most of Joseph's own band went to the Colville Reservation in 1885, so the Colville Tribes are added here. treaties.json was not edited.",
+    "Royce also says the band was moved to land west of the Kaws and that the reserve deed from the Cherokee is dated June 14, 1883; the reserve was paid for under the Act of March 3, 1881. Those later acts were not opened.",
+    "Whether anything was paid for the 90,710.89 acres the band deeded back on May 22, 1885, and what became of that land, was not traced.",
+    "No court or Commission finding about this Act or the Indian Territory reserve was located. The broken promise most often told, that the band would be returned to Idaho after its surrender in 1877, belongs to the 1877 surrender and was not researched here.",
+    "The Nez Perce Tribe's own account of the years in the Indian Territory was not located in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

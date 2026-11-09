@@ -1,0 +1,14 @@
+{
+  "id": "cession-1872-06-01-miami",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce p. 856-857: June 1, 1872 Act, Stat. L. XVII, 213, Miami (Meshingomesia's band), partition among the band of the tract reserved by treaty of Nov. 28, 1840; 'See 256 Indiana (detail)'. Matches.",
+    "OSU ICC collection full-text search for 'Meshingomesia' returns no decisions; no breach is claimed."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Not every one of the 44 Miami-titled ICC decisions was read; the full-text search was used instead."
+  ],
+  "treatiesJsonErrors": []
+}

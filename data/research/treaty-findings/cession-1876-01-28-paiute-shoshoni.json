@@ -99,7 +99,8 @@
     "Royce cession 589 is the strip of the May 15, 1875 addition that this order left out and restored to the public domain. No finding was found that addresses that strip on its own; the Commission's findings cover the reservation inside the 1876 boundaries.",
     "The Commission's final judgment in Docket 17 (offsets and the final figure) was not opened; the $567,000 figure is the Interior Department's. The net acreage valued in 1959 is garbled in the scanned opinion and is left out.",
     "The Burns Paiute page gives 1869 as the year the reservation was set aside; the federal records opened give September 12, 1872. Recorded as the tribe's own account, not reconciled.",
-    "The Court of Claims decision of June 2, 1953 (125 Ct. Cl. 241) that sent the case back to the Commission was not opened."
+    "The Court of Claims decision of June 2, 1953 (125 Ct. Cl. 241) that sent the case back to the Commission was not opened.",
+    "2026-11-08: counted once with cession-1872-09-12-paiute-shoshone-snake (an order on the Malheur reservation; the January 1879 taking of the reservation is counted once). The map still shows this row."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher",
@@ -107,5 +108,6 @@
     "promised": "Not a treaty: a presidential order. It set new boundaries for the Malheur Reservation on the Malheur River, Silvies Creek and Malheur Lake, a home the Indian Claims Commission later found the bands never ceded.",
     "happened": "The Indian Claims Commission found that in January 1879 the United States forcibly removed the bands to the Yakima Reservation and restored their lands to the public domain without their consent or payment.",
     "today": "The Commission valued the land at $579,722.00. Interior described a $567,000 judgment, standing at $519,827.49 with interest in 1963, and asked Congress to distribute it. Whether it was distributed has not been traced."
-  }
+  },
+  "sameEventAs": "cession-1872-09-12-paiute-shoshone-snake"
 }

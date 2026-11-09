@@ -1,0 +1,17 @@
+{
+  "id": "cession-1865-07-10-washo",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce pp. 836-837 (full text): quote 'taken possession of by settlers between 1855 and 1865 without purchase of their title by U. S.' exact; Lockhart's July 1, 1865 recommendation of two 360-acre reserves; July 10 order for 8 sections; Parker's Oct. 23, 1865 report that no suitable land remained.",
+    "Docket 288 interlocutory order of March 20, 1959 (OSU id 517) and opinion (id 190): Indian title proven; California title acquired March 3, 1853; Nevada date left open; the United States paid nothing.",
+    "Docket 288 opinion of October 31, 1969 (id 2531): Nevada valuation date December 31, 1862; liability $5,053,350 less allowable offsets; no compromise.",
+    "Docket 288 final award, 24 Ind. Cl. Comm. 107 (id 1629): $94,000 offset under section 5 of the IRA; net judgment $4,959,350."
+  ],
+  "changes": [
+    "openQuestions: the line saying the 1969 valuation decision was not read now records its Nevada valuation date and liability figure; source added; audit line added."
+  ],
+  "unverifiable": [
+    "The day of the final award is illegible in the scan; the collection date (1970-12-02) is used, as the file says."
+  ]
+}

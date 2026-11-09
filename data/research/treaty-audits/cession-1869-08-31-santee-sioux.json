@@ -1,0 +1,13 @@
+{
+  "id": "cession-1869-08-31-santee-sioux",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "American Presidency Project: Cox's letter and Grant's approval both August 31, 1869; restoration to market and withdrawal of lands per the Commissioner's report.",
+    "Royce p. 852 (full text): restored fractional Ts. 31 N., R. 6 W.; 31 and 32 N., R. 7 W.; 31 and 32 N., R. 8 W.; added T. 31 N., R. 4 W. and the part of E. half T. 33 N., R. 4 W. south of the Missouri. Matches the file's list (OCR read, consistent)."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Township list checked against the Royce text layer, not the page image."
+  ]
+}
