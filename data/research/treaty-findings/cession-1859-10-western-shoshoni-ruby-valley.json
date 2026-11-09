@@ -1,0 +1,70 @@
+{
+  "id": "cession-1859-10-western-shoshoni-ruby-valley",
+  "name": "Ruby Valley reserve set apart by Agent Jarvis for the Western Shoshone, October 1859",
+  "aka": [
+    "Ruby Valley reserve, Nevada",
+    "Royce area 422"
+  ],
+  "signed": "1859-10",
+  "citation": "Selection by Indian agent Jarvis, October 1859 (Royce schedule p. 822, no day given)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/822/mode/2up",
+  "nations": [
+    "Western Shoshone (Newe); present-day Te-Moak Tribe of Western Shoshone Indians of Nevada"
+  ],
+  "promises": [
+    "Not a treaty or an executive order: Royce records that agent Jarvis selected and set apart a reserve six miles square at Ruby Valley, Nevada, for the Western Shoshone.",
+    "Royce adds that after being occupied and cultivated for several years it was abandoned and became a station of the Overland Stage Company."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1972-10-11",
+      "what": "The Indian Claims Commission, restating its 1962 title decision, held that Western Shoshone title to their Nevada lands was extinguished without compensation by the gradual encroachment of settlers and the United States' acquisition, disposal or taking of the lands, and valued them as of July 1, 1872. Its findings place Ruby Valley inside the Western Shoshone tract.",
+      "whoFoundIt": "Indian Claims Commission, Western Shoshone Identifiable Group v. United States, Docket 326-K, opinion and additional findings of October 11, 1972 (29 Ind. Cl. Comm. 5)",
+      "source": {
+        "title": "Western Shoshone Identifiable Group v. United States, Docket 326-K, Opinion of the Commission (October 11, 1972), 29 Ind. Cl. Comm. 5",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2489",
+        "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+      }
+    }
+  ],
+  "landTaken": "Royce gives the reserve as six miles square. The Commission dealt with the whole Western Shoshone tract, of which Ruby Valley was part; it made no finding about this reserve by name.",
+  "compensation": "The Docket 326-K award ($26 million, as the Supreme Court gives it) was deposited in a Treasury account; the Supreme Court held in United States v. Dann (1985) that this deposit was payment under the Indian Claims Commission Act.",
+  "today": "United States v. Dann (1985) went against the Dann sisters, who argued Western Shoshone title survived; the Court held the award deposit barred that defence. Many Western Shoshone reject the award (see kappler-859, Treaty of Ruby Valley, 1863).",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 822-823",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/822/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Western Shoshone Identifiable Group v. United States, Docket 326-K, Opinion of the Commission (October 11, 1972), 29 Ind. Cl. Comm. 5",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2489",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Western Shoshone Identifiable Group v. United States, Docket 326-K, Additional Findings of Fact on Value (October 11, 1972), 29 Ind. Cl. Comm. 5",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1476",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "United States v. Dann, 470 U.S. 39 (1985)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/470/39",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    }
+  ],
+  "openQuestions": [
+    "The Commission's findings mention Ruby Valley (Overland Stage farm in 1865, stock-raising lands) but do not discuss the 1859 agent reserve itself; the breach rests on the Commission's finding for the whole tract that contains it.",
+    "Royce gives the month only; no day for the selection was found.",
+    "The Te-Moak Tribe's or the Western Shoshone National Council's own account of the 1859 reserve was not located; their position on the 1863 treaty is recorded in kappler-859."
+  ],
+  "plain": {
+    "promised": "Not a treaty. In 1859 an Indian agent set apart a reserve six miles square at Ruby Valley, Nevada, for the Western Shoshone. It was later abandoned and became a stagecoach station.",
+    "happened": "The Indian Claims Commission found that Western Shoshone title to their Nevada lands, which include Ruby Valley, was taken without compensation through settler encroachment and United States action.",
+    "today": "A $26 million award was deposited, and the Supreme Court treated it as payment in 1985. Many Western Shoshone reject it. The Commission did not name this reserve."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

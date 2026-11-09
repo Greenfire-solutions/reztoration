@@ -1,0 +1,36 @@
+{
+  "id": "cession-1864-10-21-dwamish",
+  "name": "Order of October 21, 1864 enlarging the Port Madison Reservation",
+  "aka": [
+    "Port Madison Reservation enlargement",
+    "Royce area 465"
+  ],
+  "signed": "1864-10-21",
+  "citation": "Executive order (Royce: the Secretary of the Interior enlarged the reserve at Port Madison established by the Treaty of Point Elliott, January 22, 1855)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/834/mode/2up",
+  "nations": [
+    "Suquamish Tribe (Port Madison Reservation); Royce names the Dwamish et al."
+  ],
+  "promises": [
+    "Not a treaty. Royce records that the Secretary of the Interior enlarged the reserve at Port Madison set up by the Treaty of Point Elliott (January 22, 1855); its boundaries were shown on the original plat in the Office of Indian Affairs, not described (Royce p. 834).",
+    "Royce shows the enlargement on the Washington map along Admiralty Inlet (Royce p. 835)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "No court, claims-commission, Act of Congress or government finding about the land added in 1864 was found. Suquamish claims before the Indian Claims Commission (Docket 132) concern the Point Elliott cession, not this enlargement.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 834-835",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/834/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json gives the Duwamish Tribe [Unrecognized] as present-day tribe. Port Madison is the Suquamish Tribe's reservation; Royce's tribe column reads 'Dwamish et al.'. Not edited.",
+    "Loss of Port Madison land through allotment and sale is reported in secondary sources; no finding about it was located.",
+    "The Suquamish Tribe's own account of the reservation was not opened in this pass."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

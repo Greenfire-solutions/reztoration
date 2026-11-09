@@ -1,0 +1,51 @@
+{
+  "id": "kappler-884",
+  "name": "Treaty with the Snake, 1865",
+  "aka": [
+    "Treaty with the Woll-pah-pe tribe of Snake Indians",
+    "Sprague River treaty of August 12, 1865"
+  ],
+  "signed": "1865-08-12",
+  "ratified": "1866-07-05",
+  "proclaimed": "1866-07-10",
+  "citation": "14 Stat. 683",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-snake-1865-0876",
+  "nations": [
+    "Woll-pah-pe band of Northern Paiute (Snake); descendants among the Klamath Tribes and other Northern Paiute nations"
+  ],
+  "promises": [
+    "Article 2: the Woll-pah-pe ceded the country between the north fork of John Day's River, Crooked River, Harney Lake and the heads of the Malheur and Burnt rivers.",
+    "Article 3: the band to move to the Klamath reservation set by the treaty of October 1864, under the protection of an agent.",
+    "Article 4: depredations against band members to be punished as if committed against white persons.",
+    "Articles 6 and 7: $5,000 to fence, break and cultivate land in the first year, then $2,000 a year for five years and $1,200 a year for ten years."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The Indian Claims Commission in Docket 17 (Snake or Piute Indians of the former Malheur Reservation) found that the Woll-pah-pe cession overlapped the 1855 Walla Walla and 1864 Klamath cessions and part of the later Malheur Reservation; it did not find a breach of this treaty.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Snake, 1865 (Kappler vol. 2, p. 876)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-snake-1865-0876",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 836-837",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/836/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Snake or Piute Indians of the former Malheur Reservation v. United States, Docket 17, Amended Findings of Fact (December 28, 1956)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/358",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "Whether the annuities in Articles 6 and 7 were paid, and whether the band ever settled at Klamath, was not traced.",
+    "treaties.json gives the Klamath Tribes as sole present-day tribe; the OSU database lists many Shoshone and Paiute successors. Which nation carries this band today was not settled.",
+    "The Klamath Tribes' history page names the Yahooskin band but not the 1865 treaty.",
+    "Royce (p. 837) notes area 474 conflicts with the 1855 Walla Walla and Middle Oregon cessions and the 1864 Klamath cession."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

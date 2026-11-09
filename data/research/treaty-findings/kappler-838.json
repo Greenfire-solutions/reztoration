@@ -1,0 +1,89 @@
+{
+  "id": "kappler-838",
+  "name": "Treaty with the Ottawa of Blanchard's Fork and Roche de Boeuf, 1862",
+  "aka": [
+    "Ottawa treaty of June 24, 1862"
+  ],
+  "signed": "1862-06-24",
+  "ratified": "1862-07-16",
+  "proclaimed": "1862-07-28",
+  "citation": "12 Stat. 1237",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-ottawa-of-blanchards-fork-and-roche-de-boeuf-1862-0830",
+  "nations": [
+    "Ottawa Tribe of Oklahoma (Odawa of Blanchard's Fork and Roche de Boeuf, then in Franklin County, Kansas)"
+  ],
+  "promises": [
+    "Article 1: tribal relations with the United States to end after five years, the Ottawas becoming citizens.",
+    "Article 3: allotments of 160 acres to each head of family and 80 acres to every other member, and five sections for chiefs and headmen.",
+    "Article 4: $18,000 paid as annuities in September 1862, and all money the United States held for the tribe paid in four annual payments, with accruing interest.",
+    "Article 6: land set apart to endow a school for the Ottawas; the remainder of the reserve sold for the tribe's benefit (Royce p. 826)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1960-06-29",
+      "what": "The Indian Claims Commission held the United States liable to the Ottawas for trust land funds its agent did not account for, the school section, land conveyed to Ottawa University, treaty funds not delivered, and school lands sold by trustees who did not invest the proceeds as the 1862 treaty required.",
+      "whoFoundIt": "Indian Claims Commission, Ottawa Tribe et al. v. United States, Docket 303, opinion, findings and interlocutory order of June 29, 1960 (8 Ind. Cl. Comm. 831)",
+      "source": {
+        "title": "Ottawa Tribe et al. v. United States, Docket 303, Opinion of the Commission (June 29, 1960), 8 Ind. Cl. Comm. 831",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/475",
+        "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+      },
+      "quote": "school lands sold by the trustees who did not invest the proceeds as required by the 1862 Treaty"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1962-11-26",
+      "what": "The Commission entered a final award of $162,404.07 for the bands that made the 1862 and 1867 treaties, with interest on the $30,603.94 of trust land funds unaccounted for by Agent Hutchinson.",
+      "whoFoundIt": "Indian Claims Commission, Ottawa Tribe et al. v. United States, Docket 303, Final Award (November 26, 1962), 11 Ind. Cl. Comm. 578",
+      "source": {
+        "title": "Ottawa Tribe et al. v. United States, Docket 303, Final Award (November 26, 1962), 11 Ind. Cl. Comm. 578",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/810",
+        "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+      }
+    }
+  ],
+  "compensation": "Final award of $162,404.07, plus interest on $30,603.94 at 5 per cent from March 22, 1869 to March 22, 1934 and 4 per cent after, after $2,028.77 of offsets (Docket 303, 1962).",
+  "today": "The Ottawa Tribe of Oklahoma brought the claim. Its later history (the 1956 termination act and 1978 restoration) was not researched in this pass.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Ottawa of Blanchard's Fork and Roche de Boeuf, 1862 (Kappler vol. 2, p. 830)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-ottawa-of-blanchards-fork-and-roche-de-boeuf-1862-0830",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Ottawa Tribe et al. v. United States, Docket 303, Findings of Fact (June 29, 1960), 8 Ind. Cl. Comm. 831",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/456",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Ottawa Tribe et al. v. United States, Docket 303, Opinion of the Commission (June 29, 1960), 8 Ind. Cl. Comm. 831",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/475",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Ottawa Tribe et al. v. United States, Docket 303, Final Award (November 26, 1962), 11 Ind. Cl. Comm. 578",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/810",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 826-827",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/826/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The Ottawa Tribe of Oklahoma's own account of the 1862 treaty was not located in this pass.",
+    "The 1960 opinion scan prints the University land figure as 1,490.00 in one place; the final award gives $7,490.00 for 1,280 acres.",
+    "Royce (p. 827) treats the reserve as practically relinquished by this treaty, with later acts regulating disposal of remnants."
+  ],
+  "plain": {
+    "promised": "The Ottawas of Blanchard's Fork and Roche de Boeuf in Kansas were promised allotments, payment of all tribal money held by the United States with interest, and land to endow a school for their children.",
+    "happened": "The Indian Claims Commission found in 1960 that a government agent failed to account for trust land money and that school lands were sold without the proceeds being invested as the treaty required.",
+    "today": "In 1962 the Commission awarded the Ottawas $162,404.07 plus interest on part of it."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

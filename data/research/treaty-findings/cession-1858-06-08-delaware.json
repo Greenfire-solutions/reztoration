@@ -1,0 +1,43 @@
+{
+  "id": "cession-1858-06-08-delaware",
+  "name": "Act of June 8, 1858 confirming the sale of the Christian (Munsee) Indians' four sections in Kansas",
+  "aka": [
+    "An Act to confirm the Sale of the Reservation held by the Christian Indians"
+  ],
+  "signed": "1858-06-08",
+  "citation": "Act of June 8, 1858, ch. 122, 11 Stat. 312",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-11/pdf/STATUTE-11-Pg312.pdf",
+  "nations": [
+    "Munsee or Christian Indians (Royce), the Moravian Munsee then living among the Delawares in Kansas"
+  ],
+  "promises": [
+    "Not a treaty. The Act recites that Article 13 of the Delaware treaty of May 6, 1854 granted four sections of land to the Christian Indians, patented to them on May 21, 1857.",
+    "It confirmed their sale of the four sections to A. J. Isacks for $43,400, a sum the Act called fair consideration, once Isacks paid it to the Secretary of the Interior for the Indians.",
+    "The proceeds were to buy a permanent home, buildings, stock and tools for the Christian Indians, with the balance invested for a school; land bought for them could be divided in severalty and was not to be sold without the President's approval."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "The sale price was $43,400 (11 Stat. 312).",
+  "today": "Royce records that a new home was found for the Christian Indians among the Swan Creek and Black River Chippewa in Kansas, with whom they confederated (Royce p. 821; treaty of July 16, 1859). No court, claims-commission or government finding of a breach was found.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Act of June 8, 1858, ch. 122, 11 Stat. 312 (An Act to confirm the Sale of the Reservation held by the Christian Indians)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-11/pdf/STATUTE-11-Pg312.pdf",
+      "publisher": "US Government Publishing Office"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 820-821",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/820/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json names this entry for the Delaware and gives the Delaware Nation, Oklahoma as present-day tribe. Royce's tribe column reads 'Munsee or Christian Indians', and the Act concerns the Christian Indians' four sections. Not edited.",
+    "Royce lists no area number of its own for this entry (\"See 317\"); the four sections lay inside the Delaware cession of 1854.",
+    "The present-day successors of the Kansas Christian Munsee were not settled here; Royce (p. 841) says Delaware, Chippewa, Munsee and Shawnee later moved from Kansas and merged with the Cherokee Nation.",
+    "Whether Isacks paid the $43,400 and how the fund was used was not traced."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

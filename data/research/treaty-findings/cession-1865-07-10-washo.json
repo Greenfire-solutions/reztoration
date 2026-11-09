@@ -1,0 +1,91 @@
+{
+  "id": "cession-1865-07-10-washo",
+  "name": "Order of the Secretary of the Interior, July 10, 1865, on reserves for the Washo (Royce area 473)",
+  "aka": [
+    "Washoe original country, Royce area 473"
+  ],
+  "signed": "1865-07-10",
+  "citation": "Order of the Secretary of the Interior, July 10, 1865 (Royce schedule p. 836)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/836/mode/2up",
+  "nations": [
+    "Washoe Tribe of Nevada and California (Wá·šiw)"
+  ],
+  "promises": [
+    "Not a treaty. Royce records that the country claimed by the Washoes was taken possession of by settlers between 1855 and 1865 without purchase of their title by the United States.",
+    "On July 1, 1865 Agent Lockhart recommended two reserves of 360 acres each in Carson and Washoe valleys; on July 10 the Secretary of the Interior directed that two reserves totalling 8 sections be set apart; in October Agent Parker reported no suitable lands remained vacant, and no further action was taken (Royce p. 837)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "government-admission",
+      "date": "1899",
+      "what": "The government's own land cession survey records that the Washo country was taken by settlers between 1855 and 1865 without the United States buying the Indians' title, and that the reserves ordered in 1865 were never set apart.",
+      "whoFoundIt": "Charles C. Royce, Indian Land Cessions in the United States, 18th Annual Report of the Bureau of American Ethnology (1899), pp. 836-837",
+      "source": {
+        "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 836-837",
+        "url": "https://archive.org/stream/annualreportofbu218smit#page/836/mode/2up",
+        "publisher": "Smithsonian Institution, via Internet Archive"
+      },
+      "quote": "taken possession of by settlers between 1855 and 1865 without purchase of their title by U. S."
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1959-03-20",
+      "what": "The Indian Claims Commission held that the Washoe had Indian title to the area in its findings and that the United States acquired that title without paying compensation, the California lands taken as of March 3, 1853.",
+      "whoFoundIt": "Indian Claims Commission, Washoe Tribe v. United States, Docket 288, opinion and findings of March 20, 1959 (7 Ind. Cl. Comm. 266)",
+      "source": {
+        "title": "Washoe Tribe of the States of Nevada and California v. United States, Docket 288, Opinion of the Commission (March 20, 1959), 7 Ind. Cl. Comm. 266",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/190",
+        "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1970-12-02",
+      "what": "The Commission entered a final award for the Washoe of $4,959,350, the $5,053,350 found due less $94,000 of offsets.",
+      "whoFoundIt": "Indian Claims Commission, Washoe Tribe v. United States, Docket 288, Final Award, 24 Ind. Cl. Comm. 107",
+      "source": {
+        "title": "Washoe Tribe v. United States, Docket 288, Final Award (December 2, 1970), 24 Ind. Cl. Comm. 107",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1629",
+        "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+      }
+    }
+  ],
+  "compensation": "Net award of $4,959,350 (Docket 288, 1970), after deducting $94,000 spent on land for the tribe under the Indian Reorganization Act.",
+  "today": "No reserve was set apart under the 1865 order (Royce). Washoe lands today are later allotments, colonies and purchases; not traced here.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 836-837",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/836/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Washoe Tribe v. United States, Docket 288, Findings of Fact (March 20, 1959), 7 Ind. Cl. Comm. 266",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/532",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Washoe Tribe of the States of Nevada and California v. United States, Docket 288, Opinion of the Commission (March 20, 1959), 7 Ind. Cl. Comm. 266",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/190",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Washoe Tribe v. United States, Docket 288, Final Award (December 2, 1970), 24 Ind. Cl. Comm. 107",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1629",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "The Washoe Tribe's own account was not located (its website did not appear in searches).",
+    "The 1959 opinion left the Nevada taking date open; the later valuation decision (1969) was not read.",
+    "The day of the 1970 final award is smudged in the scan; the date given is the collection's date."
+  ],
+  "plain": {
+    "promised": "Not a treaty. In 1865 the Interior Secretary ordered two small reserves set apart for the Washoe, after settlers had taken over their country.",
+    "happened": "The government's own 1899 survey says settlers took the Washoe country without the United States buying it, and no reserve was found. The Indian Claims Commission held in 1959 the United States took Washoe title without paying.",
+    "today": "In 1970 the Commission awarded the Washoe $4,959,350 after deductions."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

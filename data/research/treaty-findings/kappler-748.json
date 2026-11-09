@@ -1,0 +1,84 @@
+{
+  "id": "kappler-748",
+  "name": "Treaty with the Molala, 1855",
+  "aka": [
+    "Treaty with the Mo-lal-la-las or Molel tribe",
+    "Dayton treaty of December 21, 1855"
+  ],
+  "signed": "1855-12-21",
+  "ratified": "1859-03-08",
+  "proclaimed": "1859-04-27",
+  "citation": "12 Stat. 981",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-molala-1855-0740",
+  "nations": [
+    "Molalla (Mo-lal-la-las or Molel), now part of the Confederated Tribes of the Grand Ronde Community of Oregon"
+  ],
+  "promises": [
+    "Article 2: the Molalla to share all treaty rights of the Umpqua and Calapooia of the Umpqua Valley (treaty of November 29, 1854), with a flour mill and saw mill for ten years, a manual-labor school, a carpenter for ten years and an additional farmer for five years.",
+    "Articles 3 to 5: the confederated bands to move to a tract at the head of the Yamhill River, the United States paying the whole cost of removal, temporary buildings and medical care, and furnishing rations until six months after arrival at their permanent home.",
+    "Article 6: the United States to appropriate $12,000 to extinguish white settlers' titles in the Grand Round Valley and to open farms, buy teams, tools and stock for the Indians."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1946-02-04",
+      "what": "The Court of Claims held the Molel Tribe entitled to recover $37,406.82 in treaty funds appropriated but not spent for its benefit, with administrative expense wrongly charged to it, and the $12,000 promised by Article 6 for which no specific appropriation was ever made.",
+      "whoFoundIt": "Court of Claims, Rogue River Tribe of Indians et al. v. United States, 105 Ct. Cl. 495 (1946), under the jurisdictional act of August 26, 1935",
+      "source": {
+        "title": "Rogue River Tribe of Indians et al. v. United States, 105 Ct. Cl. 495 (February 4, 1946)",
+        "url": "https://static.case.law/us-ct-cl/105/cases/0495-01.json",
+        "publisher": "Caselaw Access Project, Harvard Law School"
+      },
+      "quote": "entitled to recover $12,000 stipulated in such article for which no specific appropriation was ever made"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1950-04-03",
+      "what": "After deducting offsets for gratuities and a share of money paid to Siletz Indians, the Court of Claims entered judgment for the Molel Tribe of $34,996.85 out of the $49,406.82 found due in 1946.",
+      "whoFoundIt": "Court of Claims, Rogue River Tribe of Indians et al. v. United States, 116 Ct. Cl. 454 (1950)",
+      "source": {
+        "title": "Rogue River Tribe of Indians et al. v. United States, 116 Ct. Cl. 454 (April 3, 1950)",
+        "url": "https://static.case.law/us-ct-cl/116/cases/0454-01.json",
+        "publisher": "Caselaw Access Project, Harvard Law School"
+      }
+    }
+  ],
+  "compensation": "Judgment of $34,996.85 for the Molel Tribe (116 Ct. Cl. 454, April 3, 1950), after offsets of $13,722.37 for gratuities and $687.60 as its share of $6,000 paid to Siletz Indians. Whether and how it was paid was not traced.",
+  "today": "The Molalla are part of the Confederated Tribes of the Grand Ronde Community of Oregon (treaties.json; OSU successor list). The Grand Ronde Reservation named in this treaty is now theirs; its later history was not traced in this pass.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Molala, 1855 (Kappler vol. 2, p. 740)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-molala-1855-0740",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Rogue River Tribe of Indians et al. v. United States, 105 Ct. Cl. 495 (February 4, 1946)",
+      "url": "https://static.case.law/us-ct-cl/105/cases/0495-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Rogue River Tribe of Indians et al. v. United States, 116 Ct. Cl. 454 (April 3, 1950)",
+      "url": "https://static.case.law/us-ct-cl/116/cases/0454-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 814-815",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/814/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "The Confederated Tribes of Grand Ronde's own account of the Molalla treaty was not located in this pass.",
+    "The Western Oregon Indian Termination Act of 1954 and the Grand Ronde Restoration Act of 1983 bear on the Grand Ronde Reservation; not researched here.",
+    "Kappler gives ratification as March 8, 1859 and proclamation April 27, 1859 (OSU edition)."
+  ],
+  "plain": {
+    "promised": "The Molalla gave up land in southern Oregon. The United States promised mills, a school, workers, the cost of moving them to Grand Ronde, rations, and $12,000 to buy out settlers and set up farms.",
+    "happened": "The Court of Claims found in 1946 that treaty money was never spent for the Molalla and that the $12,000 was never appropriated.",
+    "today": "In 1950 the court entered judgment of $34,996.85 for the Molalla after deductions. Whether it was paid was not traced."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

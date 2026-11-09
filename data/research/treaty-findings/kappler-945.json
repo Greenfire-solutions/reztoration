@@ -1,0 +1,45 @@
+{
+  "id": "kappler-945",
+  "name": "Treaty with the Delawares, 1866",
+  "aka": [
+    "Delaware Agency treaty of July 4, 1866"
+  ],
+  "signed": "1866-07-04",
+  "ratified": "1866-07-26",
+  "proclaimed": "1866-08-10",
+  "citation": "14 Stat. 793",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-delawares-1866-0937",
+  "nations": [
+    "Lenape (Delaware) of Kansas; now the Delaware Tribe of Indians"
+  ],
+  "promises": [
+    "Article 1: the United States to secure and pay the Delawares the full value of the land and improvements sold to the Leavenworth, Pawnee and Western Railroad under the 1860 and 1861 treaties.",
+    "Article 2: the rest of the Kansas reservation to be sold to the Missouri River Railroad Company or others in a body at not less than $2.50 an acre plus improvements.",
+    "Article 4: the United States to sell the Delawares a tract in the Indian Territory, 160 acres for each person who moved, at the price the United States paid.",
+    "Article 5: the United States guaranteed peaceable possession of the new home and protection from hostile Indians and civil strife."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "Royce (p. 841) records that by an agreement with the Cherokee approved April 11, 1867 the Delawares merged their tribal existence with the Cherokee and took up residence in the Cherokee country. No court, claims-commission or government finding of a breach of this treaty was found; the Indian Claims Commission Delaware awards located concern other treaties.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Delawares, 1866 (Kappler vol. 2, p. 937)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-delawares-1866-0937",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 840-841",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/840/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "Whether the Delawares received a separate tract under Article 4, and whether Article 1 payments were made, was not settled; the 1867 Cherokee agreement replaced the separate home.",
+    "The Delaware Tribe of Indians' pages on the Kansas removal returned errors and could not be read; secondary summaries say the tribe could not secure the reservation it expected.",
+    "Delaware Indians v. Cherokee Nation, 193 U.S. 127 (1904) concerns the 1867 agreement and is a lead.",
+    "treaties.json gives the Delaware Nation, Oklahoma as present-day tribe; the Kansas Delawares who moved in 1867 are the Delaware Tribe of Indians. Not edited."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

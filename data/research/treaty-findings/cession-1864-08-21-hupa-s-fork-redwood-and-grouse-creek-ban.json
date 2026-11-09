@@ -1,0 +1,47 @@
+{
+  "id": "cession-1864-08-21-hupa-s-fork-redwood-and-grouse-creek-ban",
+  "name": "Hoopa Valley reserve located by Superintendent Wiley, August 21, 1864",
+  "aka": [
+    "Hoopa Valley Reservation",
+    "the Square"
+  ],
+  "signed": "1864-08-21",
+  "citation": "Proclamation of Superintendent Austin Wiley under the Act of April 8, 1864 (13 Stat. 39); boundaries adopted by Executive Order of June 23, 1876",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/832/mode/2up",
+  "nations": [
+    "Hoopa Valley Tribe (Natinixwe)"
+  ],
+  "promises": [
+    "Not a treaty. Under the Act of April 8, 1864, which let the President set apart up to four reservations in California, Superintendent Wiley located the whole of Hoopa Valley as one of them (Royce p. 832).",
+    "Royce records that Congress on March 3, 1865 appropriated $60,000 to pay for the improvements of white settlers on the reserve, and that the 1875 survey boundaries were adopted by Executive Order of June 23, 1876 (Royce p. 833)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The Hoopa-Yurok Settlement Act of 1988 made the square the Hoopa Valley Reservation of the Hoopa Valley Tribe and the 1891 addition the Yurok Reservation. In Karuk Tribe v. Ammon (2000) the Federal Circuit held, for the United States and the Hoopa Valley Tribe, that the 1864 Act and the executive orders created no vested property rights for the plaintiffs, so no taking claim lay.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 832-833",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/832/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Act of April 8, 1864, 13 Stat. 39",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-13/pdf/STATUTE-13-Pg39.pdf",
+      "publisher": "US Government Publishing Office"
+    },
+    {
+      "title": "Karuk Tribe of California v. Ammon, Nos. 99-5002, 99-5003, 99-5006 (Fed. Cir. April 18, 2000)",
+      "url": "https://caselaw.findlaw.com/us-federal-circuit/1082285.html",
+      "publisher": "FindLaw"
+    }
+  ],
+  "openQuestions": [
+    "Karuk v. Ammon notes a related treaty of August 12, 1864 with the Hupa that was never presented to Congress for ratification; it is not in the queue and may deserve an extra- entry.",
+    "The Hoopa Valley Tribe's own account of 1864 was not located in this pass (its website did not appear in searches).",
+    "California Indian claims in Indian Claims Commission dockets 31 and 37 were compromised; their bearing on Hupa lands was not traced.",
+    "The text of the Act of April 8, 1864 was downloaded from govinfo but its Hoopa wording was taken from Royce and Karuk v. Ammon."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

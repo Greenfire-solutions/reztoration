@@ -1,0 +1,97 @@
+{
+  "id": "cession-1855-11-09-indians-on-the-oregon-coast",
+  "name": "Reduction of the Coast (Siletz) Reservation by the Act of March 3, 1875 (Royce areas 578 and 579)",
+  "aka": [
+    "Alsea and Siletz reservations, Act of March 3, 1875",
+    "Coast Reservation set apart by Executive Order of November 9, 1855"
+  ],
+  "signed": "1875-03-03",
+  "citation": "Act of March 3, 1875, 18 Stat. 446 (Royce schedule p. 878); the reservation itself was set apart by Executive Order of November 9, 1855",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/878/mode/2up",
+  "nations": [
+    "Confederated Tribes of Siletz Indians (Alsea, Yaquina, Coos, Lower Umpqua, Siuslaw, Tillamook, Tututni, Coquille, Chetco and other peoples then on the Coast Reservation)"
+  ],
+  "promises": [
+    "Not a treaty. The Executive Order of November 9, 1855 set apart the Coast Reservation for the Indians on the coast of Oregon, from the mouth of the Tsiltcoos River north to a point due east of Cape Lookout (Royce, p. 814).",
+    "Royce's own entry for the 1855 order points to this queue entry's areas: 'Another portion relinquished by act of Congress, Mar. 3, 1875. See 578, 579, 479' (Royce, p. 815).",
+    "The 1875 Act restored a portion of the Alsea and Siletz reservation to the public domain (area 578) and kept a smaller tract, from two miles south of the Siletz agency north to the Salmon River, 'as a permanent reservation' for the Indians (area 579) (Royce, p. 878).",
+    "The Siletz Tribe records that Senator Mitchell added a proviso that the Act would not take effect unless the Indians in the areas to be opened agreed to remove (CTSI)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1875-03-03",
+      "what": "Congress removed a large part of the Coast Reservation, including the Alsea reservation, and opened it to non-Indian settlement; the Supreme Court later described the Act as removing additional land from the reservation in order to open more land for public settlement.",
+      "whoFoundIt": "Act of March 3, 1875, 18 Stat. 446, as described in United States v. Alcea Band of Tillamooks, 329 U.S. 40 (1946)",
+      "source": {
+        "title": "United States v. Alcea Band of Tillamooks, 329 U.S. 40 (1946)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/329/40",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
+      "quote": "in order to open more land for public settlement, removed additional land from the reservation"
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1875-03-03",
+      "what": "The Confederated Tribes of Siletz Indians say the Act opened about 700,000 more acres of their reservation to non-Indians, that the Yachats headmen repeatedly said they wanted to stay, that a former agent falsely reported their consent to remove, and that about 225,000 acres remained.",
+      "whoFoundIt": "Confederated Tribes of Siletz Indians, Changing Federal Policy & Reduction of the Coast Reservation by Act of Congress, 1875",
+      "source": {
+        "title": "Changing Federal Policy & Reduction of the Coast Reservation by Act of Congress, 1875",
+        "url": "https://ctsi.nsn.us/changing-federal-policy-reduction-of-the-coast-reservation-by-act-of-congress-1875/",
+        "publisher": "Confederated Tribes of Siletz Indians"
+      }
+    }
+  ],
+  "landTaken": "The Siletz Tribe gives about 700,000 acres opened by the 1875 Act and about 225,000 acres remaining afterward (CTSI). Royce gives no acreage for areas 578 and 579.",
+  "compensation": "No payment for the land removed in 1875 was found. Alcea (1946) held four tribes entitled to compensation for their original title under the jurisdictional act of August 26, 1935; Docket 239 (1955) notes the Court of Claims valued the Alcea lands as of 1855 at $1.20 per acre (115 Ct. Cl. 463, 1950).",
+  "today": "The tract kept in 1875 (area 579) was itself reduced by the agreement of October 31, 1892, ratified August 15, 1894 (28 Stat. 286), ceding the unallotted land for $142,600.00; in Docket 239 the Indian Claims Commission found that price an unconscionable consideration for land it valued at $575,396.00 (findings of November 23, 1955). That cession is the separate queue entry cession-1894-08-15-indians-on-coast-of-oregon.",
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of Siletz Indians",
+      "summary": "The Tribe says the 1875 Act took most of what was left of its reservation for settlers, on a report of consent that its headmen never gave.",
+      "url": "https://ctsi.nsn.us/changing-federal-policy-reduction-of-the-coast-reservation-by-act-of-congress-1875/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 878-879",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/878/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 814-815",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/814/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "United States v. Alcea Band of Tillamooks, 329 U.S. 40 (1946)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/329/40",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Changing Federal Policy & Reduction of the Coast Reservation by Act of Congress, 1875",
+      "url": "https://ctsi.nsn.us/changing-federal-policy-reduction-of-the-coast-reservation-by-act-of-congress-1875/",
+      "publisher": "Confederated Tribes of Siletz Indians"
+    },
+    {
+      "title": "Tillamook Tribe of Indians et al. (Confederated Tribes of Siletz Indians) v. United States, Docket 239, Findings of Fact (November 23, 1955), 4 Ind. Cl. Comm. 31",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/466",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json dates this entry 1855-11-09 and names it for the 1855 order, but its Royce areas 578 and 579 are the March 3, 1875 entry on Royce p. 878; the 1855 order itself is the separate file cession-1855-11-09-indians-on-coast-of-oregon. Not edited.",
+    "The text of 18 Stat. 446 was not opened directly (the govinfo link for that page redirected); the Act is cited through Royce, Alcea (1946) and the Docket 239 findings.",
+    "Area 579 is the tract the Act kept as a permanent reservation, not a taking in 1875; it is the land later ceded in 1892.",
+    "Whether any court or the Indian Claims Commission awarded compensation specifically for the 1875 removal (for example to the Alsea, Coos, Lower Umpqua or Siuslaw) was not settled; Coos Bay Indian Tribe v. United States (1938) and Siletz claims in later dockets are leads.",
+    "The existing file cession-1894-08-15-indians-on-coast-of-oregon is marked contested; the Docket 239 unconscionable-consideration finding (id 466 and opinion id 106) appears to support a broken status there. Reported, not edited."
+  ],
+  "plain": {
+    "promised": "Not a treaty. An 1855 presidential order set apart the Coast Reservation for the Indians of the Oregon coast. In 1875 Congress kept a smaller tract as a permanent reservation.",
+    "happened": "Congress in 1875 removed a large part of the reservation, including the Alsea reservation, to open it for settlement, as the Supreme Court later described. The Siletz Tribe says its headmen never consented.",
+    "today": "No payment for the 1875 removal was found. The tract kept in 1875 was mostly ceded in 1892 for a price the Indian Claims Commission later found unconscionable."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "cession-1855-11-16-klamath",
+  "name": "Executive Order of November 16, 1855 setting apart the Klamath River Reservation (California)",
+  "aka": [
+    "Klamath River Reservation",
+    "Lower Klamath reservation (later the Yurok Reservation)"
+  ],
+  "signed": "1855-11-16",
+  "citation": "Executive Order of November 16, 1855 (President Franklin Pierce), under the Act of March 3, 1855",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/814/mode/2up",
+  "nations": [
+    "Yurok Tribe"
+  ],
+  "promises": [
+    "Not a treaty. The President set apart a reserve of 25,000 acres on both sides of the Klamath River in California: a strip from the Pacific Ocean extending one mile on each side of the river for twenty miles (Royce, p. 814; Mattz v. Arnett, 1973).",
+    "Royce records it as one of the two additional reserves authorized by the Act of March 3, 1855, selected by Superintendent Henley (Royce, p. 815)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1892-06-17",
+      "what": "Congress declared the reservation's lands subject to settlement, entry and purchase under the homestead laws, with allotments for resident Indians and the sale proceeds to be used for their maintenance and education. The Supreme Court later held the Act did not end the reservation.",
+      "whoFoundIt": "Act of June 17, 1892, 27 Stat. 52, as set out in Mattz v. Arnett, 412 U.S. 481 (1973)",
+      "source": {
+        "title": "Mattz v. Arnett, 412 U.S. 481 (1973)",
+        "url": "https://www.law.cornell.edu/supremecourt/text/412/481",
+        "publisher": "Legal Information Institute, Cornell Law School"
+      },
+      "quote": "subject to settlement, entry, and purchase under the laws of the United States granting homestead rights"
+    }
+  ],
+  "landTaken": "The Act opened the reservation lands other than allotments and reserved village sites to non-Indian entry; no acreage taken was recorded in this pass.",
+  "compensation": "Under the 1892 Act the sale proceeds were to fund the maintenance and education of the Indians then on the lands (Mattz, 1973). No separate compensation was found.",
+  "today": "In Mattz v. Arnett (1973) the Supreme Court held the Klamath River Reservation was not terminated by the 1892 Act and its land remains Indian country. The reservation was joined to the Hoopa Valley Reservation in 1891 and is now the Yurok Reservation.",
+  "nationVoice": [
+    {
+      "nation": "Yurok Tribe",
+      "summary": "The Tribe says the 1855 reservation confined the Yurok people to an area considerably smaller than their ancestral territory, and describes later relocations and squatters on the reservation.",
+      "url": "https://www.yuroktribe.org/formation-of-reservations"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 814-815",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/814/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Mattz v. Arnett, 412 U.S. 481 (1973)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/412/481",
+      "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "Formation of Reservations",
+      "url": "https://www.yuroktribe.org/formation-of-reservations",
+      "publisher": "Yurok Tribe"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json lists the present-day tribe as the Klamath Tribes, Oregon. The Klamath River Reservation is the Yurok reservation in California (Royce, Mattz); the Klamath Tribes are a different nation. Not edited.",
+    "Royce's Klamath remarks say the reserve was destroyed by a freshet in 1861-62 and not occupied as a reservation until 1877; Mattz says most Yuroks stayed and the reservation continued in fact.",
+    "Mattz does not say whether the Indians consented to the 1892 Act; no record of consent was found.",
+    "Yurok claims for aboriginal lands were part of the California Indians' Indian Claims Commission dockets (31 and 37), which were compromised; not traced here.",
+    "Karuk Tribe of California v. Ammon (Fed. Cir. 2000) held executive-order reservation status under the 1864 Act created no compensable property interest; how that bears on the 1855 order was not settled."
+  ],
+  "plain": {
+    "promised": "Not a treaty. An 1855 presidential order set apart a 25,000 acre strip, one mile on each side of the Klamath River for twenty miles, as a reservation for the Yurok.",
+    "happened": "An 1892 Act of Congress opened the reservation lands to homesteaders, with allotments for Indians living there and sale money for their support. The Supreme Court in 1973 held the reservation still exists.",
+    "today": "No compensation beyond the 1892 sale proceeds was found. The land is now the Yurok Reservation."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

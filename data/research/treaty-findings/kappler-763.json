@@ -1,0 +1,53 @@
+{
+  "id": "kappler-763",
+  "name": "Treaty with the Menominee, 1856",
+  "aka": [
+    "Keshena treaty of February 11, 1856"
+  ],
+  "signed": "1856-02-11",
+  "citation": "11 Stat. 679",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-menominee-1856-0755",
+  "nations": [
+    "Menominee Indian Tribe of Wisconsin (Omāēqnomenēwak)"
+  ],
+  "promises": [
+    "Article 1: the Menominee ceded not more than two townships in the western part of their reservation, for the Stockbridge and Munsee and other New York Indians.",
+    "Article 2: the United States to pay sixty cents an acre, if the New York Indians were located there, to be spent on Menominee improvement as under the 1854 treaty.",
+    "Article 3: roads laid out by law to have right of way through Menominee lands on the same terms as through citizens' lands; annuities might be paid semi-annually or quarterly."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "The treaty price was sixty cents an acre. Whether it was paid was not traced.",
+  "today": "Royce records that the Stockbridge and Munsee were moved onto the two townships, and that by Act of February 6, 1871 they sold all but 18 sections of it (Royce p. 817). No court, claims-commission or government finding of a breach of this treaty was found.",
+  "nationVoice": [
+    {
+      "nation": "Menominee Indian Tribe of Wisconsin",
+      "summary": "The Tribe publishes the text of the 1856 treaty among its treaty pages, without commentary.",
+      "url": "https://menominee-nsn.gov/CulturePages/Treaty1856"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Treaty with the Menominee, 1856 (Kappler vol. 2, p. 755)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-menominee-1856-0755",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "February 11, 1856 Treaty",
+      "url": "https://menominee-nsn.gov/CulturePages/Treaty1856",
+      "publisher": "Menominee Indian Tribe of Wisconsin"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 816-817",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/816/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "Searches of the Oklahoma State University Indian Claims Commission collection for \"Menominee\" returned no decisions, so Menominee dockets could not be read there; a Menominee claim over the 1856 price may exist elsewhere.",
+    "Menominee Tribe v. United States, 117 Ct. Cl. 442 (1950) concerns timber cutting under the 1908 Act, not this cession.",
+    "treaties.json links Royce p. 854 for this entry; the Menominee entry of February 11, 1856 is on Royce pp. 816-817 (area 403). Not edited."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

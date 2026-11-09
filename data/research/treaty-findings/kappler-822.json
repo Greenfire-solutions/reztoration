@@ -1,0 +1,49 @@
+{
+  "id": "kappler-822",
+  "name": "Treaty with the Delawares, 1861",
+  "aka": [
+    "Leavenworth agreement of July 2, 1861"
+  ],
+  "signed": "1861-07-02",
+  "ratified": "1861-08-06",
+  "proclaimed": "1861-10-04",
+  "citation": "12 Stat. 1177",
+  "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-delawares-1861-0814",
+  "nations": [
+    "Lenape (Delaware) of Kansas; now the Delaware Tribe of Indians and the Delaware Nation, Oklahoma"
+  ],
+  "promises": [
+    "The treaty recites that under the treaty of May 30, 1860 the Leavenworth, Pawnee and Western Railroad Company could buy the Delawares' surplus lands at their appraised value, receiving title by halves as it built the road.",
+    "The 223,966.78 acres of surplus land were appraised at $286,742.15, and the company gave 29 bonds for that sum, payable in ten years with six per cent interest, to the Commissioner of Indian Affairs.",
+    "The company pledged lands to secure payment of the bonds; Royce summarises the treaty as confirming the sale to the railroad (Royce p. 824)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "The price was the appraised value, $286,742.15, in railroad bonds. The 1866 treaty (kappler-945) has the United States guarantee payment for these lands.",
+  "today": "The Indian Claims Commission's Delaware awards found in this pass concern other matters: the 1854 trust lands not sold at public auction (Dockets 72 and 298, 1969), the Delaware Outlet (Dockets 27-A and 241), the 1818 Indiana cession (Docket 337) and Royce Area 11 (Docket 27-B). None addresses the 1860-61 railroad sale.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Treaty with the Delawares, 1861 (Kappler vol. 2, p. 814)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-delawares-1861-0814",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database (Kappler)"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 824-825",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/824/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Absentee Delaware Tribe of Oklahoma et al. and Delaware Tribe of Indians v. United States, Dockets 72 and 298, Final Award (September 10, 1969), 21 Ind. Cl. Comm. 344",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2294",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "Whether the railroad bonds were paid, and whether any claim was brought over the 1860-61 sale price, was not settled.",
+    "The Delaware Tribe of Indians' website pages on the Kansas period returned errors and could not be read.",
+    "treaties.json gives only the Delaware Nation, Oklahoma as present-day tribe; the Kansas Delawares who moved to the Cherokee Nation in 1867 are the Delaware Tribe of Indians (Bartlesville). Not edited."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}
