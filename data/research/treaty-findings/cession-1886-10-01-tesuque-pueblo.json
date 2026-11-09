@@ -1,0 +1,55 @@
+{
+  "name": "Pueblo of Tesuque grant, confirmed by Congress December 22, 1858 (Royce Area 672)",
+  "aka": [
+    "Royce 672, Tesuque Pueblo",
+    "Act of December 22, 1858 (11 Stat. 374)"
+  ],
+  "signed": "1858-12-22",
+  "citation": "Act of December 22, 1858, ch. 5, 11 Stat. 374",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-11/pdf/STATUTE-11-Pg374.pdf",
+  "nations": [
+    "Pueblo of Tesuque"
+  ],
+  "promises": [
+    "Congress confirmed the Pueblo of Tesuque's land claim, as reported favorably by the Surveyor General of New Mexico, and ordered it surveyed and patented (Act of December 22, 1858, 11 Stat. 374).",
+    "The Act says the confirmation is only a relinquishment of the United States' own title and claim, and does not affect any adverse valid rights.",
+    "Royce records the grant as 17,471.12 acres, confirmed in 1858 and patented in 1864.",
+    "The Pueblo Lands Act of 1924 made the United States liable, and directed the Pueblo Lands Board to award compensation, for Pueblo land and water lost through the United States' failure to seasonably prosecute the Pueblo's rights (Section 6)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "Tesuque is not among the pueblos given additional compensation in Section 2 of the Act of May 31, 1933. Section 3 of that Act paid $1,094.64 to non-Indian claimants within the Pueblo of Tesuque whose claims were not sustained, that is, land that stayed with the Pueblo.",
+  "today": "No finding was found that land inside the Tesuque grant was lost under the 1924 Act or otherwise.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule for 1886, block 'Act of Congress, Stat. L. XI, 374', pp. 920-921",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Act of December 22, 1858, ch. 5, 11 Stat. 374, An Act to confirm the Land Claim of certain Pueblos and Towns in the Territory of New Mexico",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-11/pdf/STATUTE-11-Pg374.pdf",
+      "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
+    },
+    {
+      "title": "Act of June 7, 1924, ch. 331, 43 Stat. 636 (Pueblo Lands Act)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg636.pdf",
+      "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
+    },
+    {
+      "title": "Act of May 31, 1933, ch. 45, 48 Stat. 108",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg108.pdf",
+      "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
+    }
+  ],
+  "openQuestions": [
+    "The date 1886-10-01 in treaties.json is not an event date for this land. Royce prints the Pueblo grants under a block headed 'Oct. 1, Act of Congress, Stat. L. XI, 374'; 11 Stat. 374 is the Act of December 22, 1858, which confirmed the grant. This is land the Pueblo kept, not land it ceded. Not edited.",
+    "The Pueblo Lands Board's report on Tesuque was not read; it could show grant land confirmed to non-Indians with no award. Lead for a deeper pass.",
+    "The Pueblo of Tesuque's own account was not located: pueblooftesuque.org loaded with no history text.",
+    "The statute link in treaties.json (ops.libs.uga.edu) was not used; the Act was read on govinfo."
+  ],
+  "id": "cession-1886-10-01-tesuque-pueblo",
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

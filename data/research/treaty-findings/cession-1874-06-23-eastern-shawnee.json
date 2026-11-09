@@ -12,7 +12,7 @@
     "Eastern Shawnee Tribe of Oklahoma"
   ],
   "promises": [
-    "Not a treaty with the United States taking land by force: by agreement of June 23, 1874 the Eastern Shawnee ceded a tract in the northeast corner of their reserve, about 4,000 acres, for the Modocs to occupy (Royce).",
+    "Not a treaty: by agreement of June 23, 1874 the Eastern Shawnee ceded a tract in the northeast corner of their reserve, about 4,000 acres, for the Modocs to occupy (Royce).",
     "The tract ran south 2.5 miles along the Missouri state line from the reserve's northeast corner, west 2.5 miles, then north to the reserve line (Royce).",
     "Congress confirmed the sale by Act of March 3, 1875, 18 Stat. 447 (Royce)."
   ],
@@ -26,7 +26,8 @@
     "The price paid was not read in a primary source; Royce gives no figure. Whether it was fair was not examined by any decision found.",
     "Indian Claims Commission Eastern Shawnee titles (Dockets 334-A, 13-G and related, 64) were listed; none concerns this 1874 sale. Docket 64 (compromise, 1977) was not read in full.",
     "treaties.json links no statute for this record; Royce cites 18 Stat. 447 for the confirming Act.",
-    "Duplicate: the confirming Act is recorded under cession-1875-03-03-eastern-shawnee; same land (area 571), same event."
+    "Duplicate: the confirming Act is recorded under cession-1875-03-03-eastern-shawnee; same land (area 571), same event.",
+    "Audit 2026-11-08 (round 13): confirmed against the Royce pp. 876-878 page scans (Royce p. 877: \"See act of Mar. 3, 1875, ratifying this agreement\", area 571; p. 878: Stat. L. XVIII, 447, Modok). Wording \"taking land by force\" removed from the first promise: no source says so. ICC full-text searches (Eastern Shawnee Modoc; Shawnee Modocs 1874; Modoc Quapaw agency) found nothing on this sale; Docket 64 compromise findings (ICC id 2329) concern other cessions. Court of Claims case names (us-ct-cl vols 1-231) list no Eastern Shawnee or Modoc claim about it."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher",

@@ -2119,5 +2119,181 @@
   "note": "Area 585 is also on cession-1875-10-20-crow, the order that set the tract apart; this order revoked it and restored the tract to the public domain. Two events on one tract.",
   "why": "Note only; no field changed. Royce p. 884 (page scan checked): 1876 Mar. 8, Executive order, Crow: 'President revokes Executive order of Oct. 20, 1875, and restores tract therein reserved to public domain.' p. 883: 585 is numbered under the Oct. 20, 1875 order.",
   "source": "https://archive.org/stream/annualreportofbu218smit#page/884/mode/2up"
+ },
+ "cession-1877-03-31-apache": {
+  "presentDayTribes": [
+   "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona",
+   "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+  ],
+  "why": "Royce p. 890 (page scan checked): 1877 Mar. 31, Executive order, 'Apache': 'President restores a portion of White Mountain reservation to public domain', the tract from the mouth of the San Pedro up the S. bank of the Gila 10 miles and south to the reservation's southern boundary; 'Remainder being the White Mountain reserve as it now exists'. p. 891: 'See Executive orders of Nov. 9, 1871, Dec. 14, 1872, Aug. 5, 1873, Apr. 27, 1876, and Jan. 26, 1877', 602 and 603, Arizona 2. presentDayTribes was empty. The White Mountain reservation of these orders is today divided between the Fort Apache (White Mountain Apache Tribe) and San Carlos (San Carlos Apache Tribe) reservations; the restored Gila strip lay at the San Carlos end. Both are added, the same two nations the sister orders (cession-1871-11-09-apache, cession-1872-12-14-apache) carry.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/890/mode/2up"
+ },
+ "cession-1879-06-14-maricopa-pima": {
+  "presentDayTribes": [
+   "Gila River Indian Community of the Gila River Indian Reservation, Arizona",
+   "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+  ],
+  "why": "Royce p. 894 (page scan checked): 1879 June 14, Executive order, 'Pima and Maricopa': 'President revokes Executive order of Jan. 10, 1879, and sets apart other tracts in lieu of those therein withdrawn', one of them beginning where the range line between Rs. 4 and 5 E. crosses the Salt river and running by Camp McDowell. p. 895: 'See act of Congress Feb. 28, 1859, and Executive orders of Aug. 31, 1876, Jan. 10, 1879, and May 5, 1882. In addition to the two tracts permanently set apart, this order ... also temporarily withdrew portions of Ts. 1 and 2 N., Rs. 5 and 6 E., lying S. of Salt river', 611, 612, Arizona 2. presentDayTribes was empty. The Act of 1859 reserve on the Gila is the Gila River Indian Community's; the Salt River tract by Camp McDowell is the Salt River Pima-Maricopa Indian Community's.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/894/mode/2up"
+ },
+ "cession-1878-05-27-nez-perc-joseph-s-band": {
+  "presentDayTribes": [
+   "Nez Perce Tribe of Idaho",
+   "Confederated Tribes of the Colville Reservation, Washington"
+  ],
+  "why": "Royce p. 892 (page scan checked): 1878 May 27, Act of Congress, Stat. L. XX, 74, 'Nez Percé (Joseph's band)': 'Provides for their removal from Fort Leavenworth and their location upon a reserve in Indian Territory', Ts. 25 and 26 N., Rs. 1 and 2 W., 90,710.89 acres, deeded by the Cherokees in trust for them; 'Determining to return to Idaho, they deeded their claim to the U. S., May 22, 1885'. p. 893: 606, Indian Territory 3. Royce does not say where the band went in 1885; Joseph and much of his band were placed on the Colville Reservation, and the Indian Claims Commission heard the band's claims as 'Confederated Tribes of the Colville Reservation as the representative of the Joseph Band of the Nez Perce Tribe' (Docket 179, opinion of May 27, 1952, OSU ICC collection id 468, caption checked). The Colville Tribes are added beside the Nez Perce Tribe.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/892/mode/2up"
+ },
+ "cession-1878-10-29-navabo": {
+  "name": "Cession of land of the Navaho, 1878-10-29",
+  "scheduleTribes": [
+   "Navaho"
+  ],
+  "presentDayTribes": [
+   "Navajo Nation, Arizona, New Mexico & Utah"
+  ],
+  "why": "Royce p. 892 (page scan checked, tribe cell enlarged): 1878 Oct. 29, Executive order, tribe 'Navaho': 'President sets apart tract as an addition to Navajo reservation established by treaty June 1, 1868', west along the Arizona-Utah line to 110 W. and south to 36 N. p. 893: 'Enlarged by Executive order of Jan. 6, 1880', 608, Arizona 2. The spelling 'Navabo' is not on this row of the scan (the misprint appears elsewhere in Royce's text); the name and schedule tribe are set to Royce's 'Navaho'. presentDayTribes read only 'Navajo'; it is given the Navajo Nation's full name as on cession-1880-01-06-navaho. The id is kept because it has a findings file.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/892/mode/2up"
+ },
+ "cession-1880-01-06-navaho": {
+  "states": [
+   "AZ",
+   "NM"
+  ],
+  "why": "Royce p. 898 (page scan checked): 1880 Jan. 6, Executive order, 'Navaho': 'President sets apart an addition to reserve established by treaty June 1, 1868, and Executive order Oct. 29, 1878', from the San Juan river on the east line of the reservation in New Mexico ... thence W. to 110 W. longitude and N. to the SW. corner of the reservation 'in the territory of Arizona'. p. 899: 615, 'Arizona 2, New Mexico 2'. States was NM only; Arizona is added.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/898/mode/2up"
+ },
+ "cession-1872-09-26-shoshoni": {
+  "presentDayTribes": [
+   "Eastern Shoshone Tribe of the Wind River Reservation, Wyoming"
+  ],
+  "note": "This row maps area 540, the part of the 1868 reservation the Shoshoni kept (the present Wind River reservation); the land ceded by the same Brunot agreement is area 539 on cession-1872-09-26-sioux-wahpeton. Count the agreement once.",
+  "why": "Royce p. 858 (page scan checked): 1872 Sept. 26, Agreement, Stat. L. XVIII, 291, tribe 'Shoshoni': 'Cede a portion of reservation (subject to approval of Congress) established for them by treaty of July 3, 1868' south of a line from the mouth of the Little Papo-Agie; 'Retain remainder of their reservation which constitutes the present Wind River reservation'. p. 859: 539 Wyoming 2; 540 Wyoming 2. The party is the Shoshoni of the Wind River reservation alone; presentDayTribes listed thirteen Shoshone and Paiute nations of Nevada, California and Idaho who were not parties. It is narrowed to the Eastern Shoshone Tribe, as on the sister record for the same agreement.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/858/mode/2up"
+ },
+ "cession-1873-04-08-round-valley-reservation-indians": {
+  "presentDayTribes": [
+   "Round Valley Indian Tribes of the Round Valley Reservation, California"
+  ],
+  "why": "Royce p. 862 (page scan checked): 1873 Apr. 8, Executive order, no tribe named: 'President withdraws from sale certain lands in Round valley, specified by act of Mar. 3, 1873, until report of commissioners is received fixing N. boundary'. p. 863: 'The commissioners made their report Nov. 1, 1873. It was approved by the Secretary of the Interior Aug. 4, 1874, and proclamation of the boundaries made by Executive order of May 18, 1875', 'See 583', California 2. presentDayTribes was empty; the Round Valley Indian Tribes, the nation of this reservation, is added, as on cession-1873-03-03-round-valley-reservation-indians.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/862/mode/2up"
+ },
+ "cession-1875-05-18-round-valley-reservation-indians": {
+  "presentDayTribes": [
+   "Round Valley Indian Tribes of the Round Valley Reservation, California"
+  ],
+  "why": "Royce p. 880 (page scan checked): 1875 May 18, Executive order, no tribe named: 'President proclaims the boundaries of Round Valley reservation in accordance with act of Congress Mar. 3, 1873'. p. 881: 'These constitute the present boundaries of the reserve except that the military reserve of 1 square mile at Camp Wright was added to the Indian reservation by Executive order of July 26, 1876', 583, California 2 (detail of Round Valley reservation). presentDayTribes was empty; the Round Valley Indian Tribes, the nation of this reservation, is added.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/880/mode/2up"
+ },
+ "kappler-378": {
+  "scheduleTribes": [
+   "Shawnee and Delaware, late of Cape Girardeau"
+  ],
+  "note": "Royce gives this treaty no area of its own: 'This cession was already covered by the previous cessions of 1825 and 1829 by the same tribes', 'See 125, 126, 150 a'. The three areas stay as Royce's cross-references; they are counted on the 1825 Shawnee and 1829 Delaware treaties.",
+  "why": "Royce p. 740 (page scan checked): 1832 Oct. 26, Castor Hill, St. Louis county, Mo., Stat. L. VII, 397, tribe 'Shawnee and Delaware, late of Cape Girardeau': 'The Delawares and Shawanoes, late of Cape Girardeau, cede and relinquish to the U. S. all their lands in the state of Missouri, as well as all claims against the U. S. for loss of property and improvements'. p. 741: 'This cession was already covered by the previous cessions of 1825 and 1829 by the same tribes', 'See 125, 126, 150 a', Missouri 2. scheduleTribes carried the labels of the 1825 and 1829 schedule rows ('Shawnee nation residing in Missouri', 'Delaware [supplemental to treaty of Oct. 3, 1818]'); it is set to Royce's tribe for this treaty. presentDayTribes is not changed (the Delaware successor question is left to Jordan).",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/740/mode/2up"
+ },
+ "cession-1886-10-01-jemez-pueblo": {
+  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: on p. 920 they follow, with no date of their own, the Executive order of Oct. 1, 1886 for the Chehalis, and on the next page the printer carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading. The grant's own dates are in the Royce row: a Spanish grant, confirmed by Congress (Stat. L. XI, 374, the confirmation of Dec. 22, 1858) and patented in 1864. The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
+  "why": "Note only; no field changed. Royce p. 920 (page scan checked): the Chehalis row is dated '1886 Oct. 1, Executive order'; the next block, 'Act of Congress, Stat. L., XI, 374', has no date cell of its own and lists the Pueblo grants, here 'Jemez Pueblo: Spanish grant 1689; confirmed by U. S. Dec. 22, 1858; patented 1864; 17,510.45 acres'. p. 921: map numbers 662 to 673, New Mexico and Texas (detail).",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up"
+ },
+ "cession-1886-10-01-acoma-pueblo": {
+  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: on p. 920 they follow, with no date of their own, the Executive order of Oct. 1, 1886 for the Chehalis, and on the next page the printer carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading. The grant's own dates are in the Royce row: a Spanish grant, confirmed by Congress (Stat. L. XI, 374, the confirmation of Dec. 22, 1858) and patented in 1864. The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
+  "why": "Note only; no field changed. Royce p. 920 (page scan checked): the Chehalis row is dated '1886 Oct. 1, Executive order'; the next block, 'Act of Congress, Stat. L., XI, 374', has no date cell of its own and lists the Pueblo grants, here 'Acoma Pueblo: Spanish grant 1689; confirmed by U. S. Dec. 22, 1858; 95,792 acres'. p. 921: map numbers 662 to 673, New Mexico and Texas (detail).",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up"
+ },
+ "cession-1886-10-01-san-juan-pueblo": {
+  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: on p. 920 they follow, with no date of their own, the Executive order of Oct. 1, 1886 for the Chehalis, and on the next page the printer carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading. The grant's own dates are in the Royce row: a Spanish grant, confirmed by Congress (Stat. L. XI, 374, the confirmation of Dec. 22, 1858) and patented in 1864. The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
+  "why": "Note only; no field changed. Royce p. 920 (page scan checked): the Chehalis row is dated '1886 Oct. 1, Executive order'; the next block, 'Act of Congress, Stat. L., XI, 374', has no date cell of its own and lists the Pueblo grants, here 'San Juan Pueblo: Spanish grant 1689; confirmed by U. S. Dec. 22, 1858; patented 1864; 17,544.77 acres'. p. 921: map numbers 662 to 673, New Mexico and Texas (detail).",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up"
+ },
+ "cession-1886-10-01-picuris-pueblo": {
+  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: on p. 920 they follow, with no date of their own, the Executive order of Oct. 1, 1886 for the Chehalis, and on the next page the printer carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading. The grant's own dates are in the Royce row: a Spanish grant, confirmed by Congress (Stat. L. XI, 374, the confirmation of Dec. 22, 1858) and patented in 1864. The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
+  "why": "Note only; no field changed. Royce p. 920 (page scan checked): the Chehalis row is dated '1886 Oct. 1, Executive order'; the next block, 'Act of Congress, Stat. L., XI, 374', has no date cell of its own and lists the Pueblo grants, here 'Picuris Pueblo: Spanish grant 1689; confirmed by U. S. Dec. 22, 1858; patented 1864; 17,460.69 acres'. p. 921: map numbers 662 to 673, New Mexico and Texas (detail).",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up"
+ },
+ "cession-1886-10-01-san-felipe-pueblo": {
+  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: on p. 920 they follow, with no date of their own, the Executive order of Oct. 1, 1886 for the Chehalis, and on the next page the printer carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading. The grant's own dates are in the Royce row: a Spanish grant, confirmed by Congress (Stat. L. XI, 374, the confirmation of Dec. 22, 1858) and patented in 1864. The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
+  "why": "Note only; no field changed. Royce p. 920 (page scan checked): the Chehalis row is dated '1886 Oct. 1, Executive order'; the next block, 'Act of Congress, Stat. L., XI, 374', has no date cell of its own and lists the Pueblo grants, here 'San Felipe Pueblo: Spanish grant 1689; confirmed by U. S. Dec. 22, 1858; patented 1864; 34,766.86 acres'. p. 921: map numbers 662 to 673, New Mexico and Texas (detail).",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up"
+ },
+ "cession-1886-10-01-pecos-pueblo": {
+  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: on p. 920 they follow, with no date of their own, the Executive order of Oct. 1, 1886 for the Chehalis, and on the next page the printer carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading. The grant's own dates are in the Royce row: a Spanish grant, confirmed by Congress (Stat. L. XI, 374, the confirmation of Dec. 22, 1858) and patented in 1864. The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
+  "why": "Note only; no field changed. Royce p. 920 (page scan checked): the Chehalis row is dated '1886 Oct. 1, Executive order'; the next block, 'Act of Congress, Stat. L., XI, 374', has no date cell of its own and lists the Pueblo grants, here 'Pecos Pueblo: Spanish grant 1689; confirmed by U. S. Dec. 22, 1858; patented 1864; 18,763.33 acres'. p. 921: map numbers 662 to 673, New Mexico and Texas (detail).",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up"
+ },
+ "cession-1886-10-01-cochiti-pueblo": {
+  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: on p. 920 they follow, with no date of their own, the Executive order of Oct. 1, 1886 for the Chehalis, and on the next page the printer carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading. The grant's own dates are in the Royce row: a Spanish grant, confirmed by Congress (Stat. L. XI, 374, the confirmation of Dec. 22, 1858) and patented in 1864. The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
+  "why": "Note only; no field changed. Royce p. 920 (page scan checked): the Chehalis row is dated '1886 Oct. 1, Executive order'; the next block, 'Act of Congress, Stat. L., XI, 374', has no date cell of its own and lists the Pueblo grants, here 'Cochiti Pueblo: Spanish grant 1689; confirmed by U. S. Dec. 22, 1858; patented 1864; 24,256.50 acres'. p. 921: map numbers 662 to 673, New Mexico and Texas (detail).",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up"
+ },
+ "cession-1886-10-01-santo-domingo-pueblo": {
+  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: on p. 920 they follow, with no date of their own, the Executive order of Oct. 1, 1886 for the Chehalis, and on the next page the printer carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading. The grant's own dates are in the Royce row: a Spanish grant, confirmed by Congress (Stat. L. XI, 374, the confirmation of Dec. 22, 1858) and patented in 1864. The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
+  "why": "Note only; no field changed. Royce p. 920 (page scan checked): the Chehalis row is dated '1886 Oct. 1, Executive order'; the next block, 'Act of Congress, Stat. L., XI, 374', has no date cell of its own and lists the Pueblo grants, here 'Santo Domingo Pueblo: Spanish grant 1689; confirmed by U. S. Dec. 22, 1858; patented 1864; 74,743.11 acres'. p. 921: map numbers 662 to 673, New Mexico and Texas (detail).",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up"
+ },
+ "cession-1886-10-01-taos-pueblo": {
+  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: on p. 920 they follow, with no date of their own, the Executive order of Oct. 1, 1886 for the Chehalis, and on the next page the printer carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading. The grant's own dates are in the Royce row: a Spanish grant, confirmed by Congress (Stat. L. XI, 374, the confirmation of Dec. 22, 1858) and patented in 1864. The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
+  "why": "Note only; no field changed. Royce p. 920 (page scan checked): the Chehalis row is dated '1886 Oct. 1, Executive order'; the next block, 'Act of Congress, Stat. L., XI, 374', has no date cell of its own and lists the Pueblo grants, here 'Taos Pueblo: Confirmed by U. S. Dec. 22, 1858; patented 1864; 17,360.55 acres'. p. 921: map numbers 662 to 673, New Mexico and Texas (detail).",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up"
+ },
+ "cession-1886-10-01-santa-clara-pueblo": {
+  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: on p. 920 they follow, with no date of their own, the Executive order of Oct. 1, 1886 for the Chehalis, and on the next page the printer carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading. The grant's own dates are in the Royce row: a Spanish grant, confirmed by Congress (Stat. L. XI, 374, the confirmation of Dec. 22, 1858) and patented in 1864. The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
+  "why": "Note only; no field changed. Royce p. 920 (page scan checked): the Chehalis row is dated '1886 Oct. 1, Executive order'; the next block, 'Act of Congress, Stat. L., XI, 374', has no date cell of its own and lists the Pueblo grants, here 'Santa Clara Pueblo: Confirmed by U. S. Dec. 22, 1858; patented 1864; 17,368.52 acres'. p. 921: map numbers 662 to 673, New Mexico and Texas (detail).",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up"
+ },
+ "cession-1886-10-01-tesuque-pueblo": {
+  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: on p. 920 they follow, with no date of their own, the Executive order of Oct. 1, 1886 for the Chehalis, and on the next page the printer carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading. The grant's own dates are in the Royce row: a Spanish grant, confirmed by Congress (Stat. L. XI, 374, the confirmation of Dec. 22, 1858) and patented in 1864. The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
+  "why": "Note only; no field changed. Royce p. 920 (page scan checked): the Chehalis row is dated '1886 Oct. 1, Executive order'; the next block, 'Act of Congress, Stat. L., XI, 374', has no date cell of its own and lists the Pueblo grants, here 'Tesuque Pueblo: Confirmed by U. S. Dec. 22, 1858; patented 1864; 17,471.12 acres'. p. 921: map numbers 662 to 673, New Mexico and Texas (detail).",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up"
+ },
+ "cession-1886-10-01-san-ildefonso-pueblo": {
+  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: on p. 920 they follow, with no date of their own, the Executive order of Oct. 1, 1886 for the Chehalis, and on the next page the printer carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading. The grant's own dates are in the Royce row: a Spanish grant, confirmed by Congress (Stat. L. XI, 374, the confirmation of Dec. 22, 1858) and patented in 1864. The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
+  "why": "Note only; no field changed. Royce p. 920 (page scan checked): the Chehalis row is dated '1886 Oct. 1, Executive order'; the next block, 'Act of Congress, Stat. L., XI, 374', has no date cell of its own and lists the Pueblo grants, here 'San Ildefonso Pueblo: Confirmed by U. S. Dec. 22, 1858; patented 1864; 17,292.64 acres'. p. 921: map numbers 662 to 673, New Mexico and Texas (detail).",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up"
+ },
+ "cession-1886-10-01-pojoaque-pueblo": {
+  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: they begin on p. 920 under the Executive order of Oct. 1, 1886 for the Chehalis, and p. 922 carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading for the rows continued there. The grant's own dates are in the Royce row (Spanish grant, confirmation by Congress, patent). The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
+  "why": "Note only; no field changed. Royce p. 922 (page scan checked): continuation page headed '1886 Oct. 1, Act of Congress, Stat. L., XI, 374', row 'Pojoaque Pueblo: Confirmed by U. S. Dec. 22, 1858; patented 1864; 13,520.38 acres'. p. 920: the Oct. 1, 1886 date belongs to the Executive order for the Chehalis printed above the first Pueblo row.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up"
+ },
+ "cession-1886-10-01-sia-pueblo": {
+  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: they begin on p. 920 under the Executive order of Oct. 1, 1886 for the Chehalis, and p. 922 carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading for the rows continued there. The grant's own dates are in the Royce row (Spanish grant, confirmation by Congress, patent). The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
+  "why": "Note only; no field changed. Royce p. 922 (page scan checked): continuation page headed '1886 Oct. 1, Act of Congress, Stat. L., XI, 374', row 'Sia Pueblo: Spanish grant 1689; confirmed by U. S. Dec. 22, 1858; patented 1864; 17,514.63 acres'. p. 920: the Oct. 1, 1886 date belongs to the Executive order for the Chehalis printed above the first Pueblo row.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up"
+ },
+ "cession-1886-10-01-sandia-pueblo": {
+  "presentDayTribes": [
+   "Pueblo of Sandia, New Mexico"
+  ],
+  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: they begin on p. 920 under the Executive order of Oct. 1, 1886 for the Chehalis, and p. 922 carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading for the rows continued there. The grant's own dates are in the Royce row (Spanish grant, confirmation by Congress, patent). The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
+  "why": "Royce p. 922 (page scan checked): continuation page headed '1886 Oct. 1, Act of Congress, Stat. L., XI, 374', row 'Sandia Pueblo: Spanish grant 1748; confirmed by U. S. Dec. 22, 1858; patented 1864; 24,187.29 acres'. p. 920: the Oct. 1, 1886 date belongs to the Executive order for the Chehalis printed above the first Pueblo row. presentDayTribes was empty; the Pueblo of Sandia, the pueblo this grant was made to, is added.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up"
+ },
+ "cession-1886-10-01-isleta-pueblo": {
+  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: they begin on p. 920 under the Executive order of Oct. 1, 1886 for the Chehalis, and p. 922 carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading for the rows continued there. The grant's own dates are in the Royce row (Spanish grant, confirmation by Congress, patent). The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
+  "why": "Note only; no field changed. Royce p. 922 (page scan checked): continuation page headed '1886 Oct. 1, Act of Congress, Stat. L., XI, 374', row 'Isleta Pueblo: Confirmed by U. S. Dec. 22, 1858; patented 1864; 110,080.31 acres'. p. 920: the Oct. 1, 1886 date belongs to the Executive order for the Chehalis printed above the first Pueblo row.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up"
+ },
+ "cession-1886-10-01-nambe-pueblo": {
+  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: they begin on p. 920 under the Executive order of Oct. 1, 1886 for the Chehalis, and p. 922 carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading for the rows continued there. The grant's own dates are in the Royce row (Spanish grant, confirmation by Congress, patent). The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
+  "why": "Note only; no field changed. Royce p. 922 (page scan checked): continuation page headed '1886 Oct. 1, Act of Congress, Stat. L., XI, 374', row 'Nambe Pueblo: Confirmed by U. S. Dec. 22, 1858; patented 1864; 13,586.33 acres'. p. 920: the Oct. 1, 1886 date belongs to the Executive order for the Chehalis printed above the first Pueblo row.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up"
+ },
+ "cession-1886-10-01-laguna-pueblo": {
+  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: they begin on p. 920 under the Executive order of Oct. 1, 1886 for the Chehalis, and p. 922 carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading for the rows continued there. The grant's own dates are in the Royce row (Spanish grant, confirmation by Congress, patent). The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
+  "why": "Note only; no field changed. Royce p. 922 (page scan checked): continuation page headed '1886 Oct. 1, Act of Congress, Stat. L., XI, 374', row 'Laguna Pueblo: Spanish grant 1689; 125,225 acres'. p. 920: the Oct. 1, 1886 date belongs to the Executive order for the Chehalis printed above the first Pueblo row.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up"
+ },
+ "cession-1886-10-01-santa-ana-pueblo": {
+  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: they begin on p. 920 under the Executive order of Oct. 1, 1886 for the Chehalis, and p. 922 carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading for the rows continued there. The grant's own dates are in the Royce row (Spanish grant, confirmation by Congress, patent). The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
+  "why": "Note only; no field changed. Royce p. 922 (page scan checked): continuation page headed '1886 Oct. 1, Act of Congress, Stat. L., XI, 374', row 'Santa Ana Pueblo: Confirmed by U. S. Feb. 9, 1876; 17,361 acres'. p. 920: the Oct. 1, 1886 date belongs to the Executive order for the Chehalis printed above the first Pueblo row.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up"
+ },
+ "cession-1886-10-01-zu-i": {
+  "note": "The date 1886-10-01 is not a date of this grant. Royce prints no date for the Pueblo rows: they begin on p. 920 under the Executive order of Oct. 1, 1886 for the Chehalis, and p. 922 carries 'Oct. 1, Act of Congress, Stat. L., XI, 374' down as the column heading for the rows continued there. The grant's own dates are in the Royce row (Spanish grant, confirmation by Congress, patent). The date is left as the USFS layer gives it because Royce gives no other; this is a confirmed land grant, not a cession.",
+  "why": "Note only; no field changed. Royce p. 922 (page scan checked): continuation page headed '1886 Oct. 1, Act of Congress, Stat. L., XI, 374', row 'Zuñi (original grant): Spanish grant 1689; 17,581.25 acres'. p. 920: the Oct. 1, 1886 date belongs to the Executive order for the Chehalis printed above the first Pueblo row.",
+  "source": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up"
  }
 }

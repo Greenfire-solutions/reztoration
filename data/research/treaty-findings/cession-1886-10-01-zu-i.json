@@ -1,0 +1,51 @@
+{
+  "name": "Zuni original grant (Royce Area 681)",
+  "aka": [
+    "Royce 681, Zuni (original grant)",
+    "Cruzate grant of 1689 (Zuni)"
+  ],
+  "citation": "No Act of Congress confirmed it: Royce lists it as 'Spanish grant 1689; 17,581.25 acres' in the block headed 'Act of Congress, Stat. L. XI, 374', but Zuni is not among the claims in that Act",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up",
+  "nations": [
+    "A:shiwi (Pueblo of Zuni)"
+  ],
+  "promises": [
+    "Royce records a Spanish grant of 1689 of 17,581.25 acres around the Zuni pueblo. Congress did not confirm it; the Act of December 22, 1858 does not name Zuni.",
+    "The Claims Court found in 1987 that historians generally agree the 1689 Zuni grant document was forged, possibly in the late Mexican period."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "today": "The pueblo area lies within the Zuni Reservation set apart by executive order of March 16, 1877 (researched as cession-1877-03-16-zu-i). In Zuni Tribe v. United States (1987) the Claims Court found Zuni aboriginal title to a far larger area and that the United States treated land outside the central pueblo area as public domain; the tribe excluded the present reservation from that claim, which ended in a $25,000,000 judgment in 1991. That finding concerns land outside this grant and is not counted here.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule for 1886, block 'Act of Congress, Stat. L. XI, 374', pp. 922-923",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Act of December 22, 1858, ch. 5, 11 Stat. 374, An Act to confirm the Land Claim of certain Pueblos and Towns in the Territory of New Mexico",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-11/pdf/STATUTE-11-Pg374.pdf",
+      "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
+    },
+    {
+      "title": "Zuni Tribe v. United States, 12 Cl. Ct. 607 (1987)",
+      "url": "https://static.case.law/cl-ct/12/cases/0607-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Zuni Tribe v. United States, 12 Cl. Ct. 641 (1987)",
+      "url": "https://static.case.law/cl-ct/12/cases/0641-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    }
+  ],
+  "openQuestions": [
+    "The date 1886-10-01 in treaties.json is not an event date for this land. Royce prints the Pueblo grants under a block headed 'Oct. 1, Act of Congress, Stat. L. XI, 374'; 11 Stat. 374 is the Act of December 22, 1858, which confirmed the grant. This is land the Pueblo kept, not land it ceded. Not edited. Zuni is not one of the claims in 11 Stat. 374, so treaties.json's statute link for this row does not fit it.",
+    "This record is the same pueblo area as part of the 1877 reservation (cession-1877-03-16-zu-i) but a different event (Royce's grant listing); not marked sameEventAs. The $25,000,000 judgment of January 22, 1991 is taken from that file, not reread here.",
+    "The Pueblo of Zuni's own account was not located: ashiwi.org loaded with no land history.",
+    "Royce's 'Zuni (original grant)' row gives no confirming act; how the 17,581.25 acres were measured was not found."
+  ],
+  "id": "cession-1886-10-01-zu-i",
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

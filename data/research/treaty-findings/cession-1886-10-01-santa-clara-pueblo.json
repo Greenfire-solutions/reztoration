@@ -1,0 +1,90 @@
+{
+  "name": "Pueblo of Santa Clara grant, confirmed by Congress December 22, 1858 (Royce Area 671)",
+  "aka": [
+    "Royce 671, Santa Clara Pueblo",
+    "Act of December 22, 1858 (11 Stat. 374)"
+  ],
+  "signed": "1858-12-22",
+  "citation": "Act of December 22, 1858, ch. 5, 11 Stat. 374 (confirmation); Act of June 7, 1924, 43 Stat. 636; Act of May 31, 1933, 48 Stat. 108",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-11/pdf/STATUTE-11-Pg374.pdf",
+  "nations": [
+    "Pueblo of Santa Clara"
+  ],
+  "promises": [
+    "Congress confirmed the Pueblo of Santa Clara's land claim, as reported favorably by the Surveyor General of New Mexico, and ordered it surveyed and patented (Act of December 22, 1858, 11 Stat. 374).",
+    "The Act says the confirmation is only a relinquishment of the United States' own title and claim, and does not affect any adverse valid rights.",
+    "Royce records the grant as 17,368.52 acres, confirmed in 1858 and patented in 1864.",
+    "The Pueblo Lands Act of 1924 made the United States liable, and directed the Pueblo Lands Board to award compensation, for Pueblo land and water lost through the United States' failure to seasonably prosecute the Pueblo's rights (Section 6)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1924-06-07",
+      "what": "Under the Pueblo Lands Act, the Pueblo Lands Board found Santa Clara's title extinguished to 3,416 acres of its land, including the townsite of Espanola, which lies inside the patented grant. The Board valued the recoverable part at $226,366.43 but awarded $86,821.87.",
+      "whoFoundIt": "Pueblo Lands Board report on Santa Clara, as set out by the Indian Claims Commission, 41 Ind. Cl. Comm. 29 (1977); Act of June 7, 1924, 43 Stat. 636",
+      "source": {
+        "title": "Pueblo of Santa Clara v. United States, Docket 356, Opinion on Motion for Summary Judgment: Townsite of Espanola, 41 Ind. Cl. Comm. 29 (October 5, 1977)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1348",
+        "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+      }
+    },
+    {
+      "kind": "government-admission",
+      "date": "1933-05-31",
+      "what": "Congress authorized $181,114.19 for the Pueblo of Santa Clara 'in addition to the awards made by the Pueblo Lands Board', in payment of the United States' liability under the 1924 Act. The Indian Claims Commission records that the value of the Espanola townsite was left out of that sum.",
+      "whoFoundIt": "Act of May 31, 1933, ch. 45, sec. 2, 48 Stat. 108",
+      "source": {
+        "title": "Act of May 31, 1933, ch. 45, 48 Stat. 108",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg108.pdf",
+        "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
+      },
+      "quote": "In addition to the awards made by the Pueblo Lands Board"
+    }
+  ],
+  "landTaken": "The Pueblo Lands Board found title extinguished to 3,416 acres, including the Espanola townsite; the Commission also cites testimony that title to a further 901 acres was extinguished on judicial review (41 Ind. Cl. Comm. 29).",
+  "compensation": "Board award $86,821.87 against a Board-found fair market value of $226,366.43 for the recoverable land; for the further acreage, a fair market value of $98,487.72 and an additional award of $27,146.87. The Commission gives the difference between appraisal and award as $218,587.83; Congress added only $181,114.19 in 1933, deducting the Espanola townsite's value of $37,348.69 plus an unexplained $124.95. The Commission wrote that Congress found the Board unfair and except in a few instances paid the difference.",
+  "today": "On October 5, 1977 the Indian Claims Commission refused summary judgment on Santa Clara's claim of $37,465.64 plus interest for the Espanola townsite as a Fifth Amendment taking, finding the record left too much unexplained; it held the claim timely. The final outcome was not researched.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule for 1886, block 'Act of Congress, Stat. L. XI, 374', pp. 920-921",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Act of December 22, 1858, ch. 5, 11 Stat. 374, An Act to confirm the Land Claim of certain Pueblos and Towns in the Territory of New Mexico",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-11/pdf/STATUTE-11-Pg374.pdf",
+      "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
+    },
+    {
+      "title": "Act of June 7, 1924, ch. 331, 43 Stat. 636 (Pueblo Lands Act)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg636.pdf",
+      "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
+    },
+    {
+      "title": "Act of May 31, 1933, ch. 45, 48 Stat. 108",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg108.pdf",
+      "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
+    },
+    {
+      "title": "Pueblo of Santa Clara v. United States, Docket 356, Opinion on Motion for Summary Judgment: Townsite of Espanola, 41 Ind. Cl. Comm. 29 (October 5, 1977)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1348",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "The date 1886-10-01 in treaties.json is not an event date for this land. Royce prints the Pueblo grants under a block headed 'Oct. 1, Act of Congress, Stat. L. XI, 374'; 11 Stat. 374 is the Act of December 22, 1858, which confirmed the grant. This is land the Pueblo kept, not land it ceded. Not edited.",
+    "The final result of the Espanola townsite claim (Docket 356, transferred to the Court of Claims in 1978; see the 1982 order in 231 Ct. Cl. 1036 refusing dismissal) was not traced.",
+    "The Pueblo of Santa Clara's own account was not located: santaclarapueblo.org loaded but carries no land history.",
+    "The statute link in treaties.json (ops.libs.uga.edu) was not used; the Act was read on govinfo."
+  ],
+  "plain": {
+    "promised": "In 1858 Congress confirmed Santa Clara's land grant along the Rio Grande and later issued a patent, giving up only the United States' own claim.",
+    "happened": "Under the 1924 Pueblo Lands Act, title to 3,416 acres, including the Espanola townsite, passed to non-Indians. The Board awarded far less than it valued the land; in 1933 Congress added $181,114.19.",
+    "today": "The land was not returned. A claim for the Espanola townsite was still open in 1977; its outcome is not recorded here."
+  },
+  "id": "cession-1886-10-01-santa-clara-pueblo",
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

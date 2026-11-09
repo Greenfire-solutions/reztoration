@@ -1,0 +1,102 @@
+{
+  "name": "Pueblo of Santo Domingo grant, confirmed by Congress December 22, 1858 (Royce Area 669)",
+  "aka": [
+    "Royce 669, Santo Domingo Pueblo",
+    "Act of December 22, 1858 (11 Stat. 374)"
+  ],
+  "signed": "1858-12-22",
+  "citation": "Act of December 22, 1858, ch. 5, 11 Stat. 374 (confirmation); Act of June 7, 1924, 43 Stat. 636; Act of May 31, 1933, 48 Stat. 108",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-11/pdf/STATUTE-11-Pg374.pdf",
+  "nations": [
+    "Kewa Pueblo (Santo Domingo Pueblo)"
+  ],
+  "promises": [
+    "Congress confirmed the Pueblo of Santo Domingo's land claim, as reported favorably by the Surveyor General of New Mexico, and ordered it surveyed and patented (Act of December 22, 1858, 11 Stat. 374).",
+    "The Act says the confirmation is only a relinquishment of the United States' own title and claim, and does not affect any adverse valid rights.",
+    "Royce records the grant as 74,743.11 acres, a Spanish grant of 1689 patented on November 1, 1864.",
+    "The Pueblo Lands Act of 1924 made the United States liable, and directed the Pueblo Lands Board to award compensation, for Pueblo land and water lost through the United States' failure to seasonably prosecute the Pueblo's rights (Section 6)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1924-06-07",
+      "what": "Under the Pueblo Lands Act of 1924, title to land claimed by non-Indians within the Pueblo of Santo Domingo's lands was extinguished in their favour. The Act of May 31, 1933 names the Pueblo of Santo Domingo among the pueblos from which lands and water rights were divested under the 1924 Act.",
+      "whoFoundIt": "Act of June 7, 1924, 43 Stat. 636; Act of May 31, 1933, ch. 45, sec. 1-2, 48 Stat. 108",
+      "source": {
+        "title": "Act of May 31, 1933, ch. 45, 48 Stat. 108",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg108.pdf",
+        "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
+      },
+      "quote": "for the purchase of lands and water rights to replace those which have been divested from said pueblo under the Act of June 7, 1924"
+    },
+    {
+      "kind": "government-admission",
+      "date": "1933-05-31",
+      "what": "Congress authorized $4,256.56 for the Pueblo of Santo Domingo 'in addition to the awards made by the Pueblo Lands Board', in payment of the liability of the United States to the Pueblo declared by the 1924 Act. The Indian Claims Commission later described these 1933 sums as Congress finding the Board's awards unfair.",
+      "whoFoundIt": "Act of May 31, 1933, ch. 45, sec. 2, 48 Stat. 108",
+      "source": {
+        "title": "Act of May 31, 1933, ch. 45, 48 Stat. 108",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg108.pdf",
+        "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
+      },
+      "quote": "In addition to the awards made by the Pueblo Lands Board"
+    }
+  ],
+  "compensation": "The Pueblo Lands Board made an award under Section 6 of the 1924 Act (amount not read in this pass). The Act of May 31, 1933 authorized a further $4,256.56 for the Pueblo of Santo Domingo, to be spent by the Secretary of the Interior with the Pueblo's approval on replacement lands, water rights or permanent improvements, in three annual instalments from fiscal year 1937. Section 6 of that Act let a pueblo accept the sums in full discharge of its claims under the 1924 Act. The Indian Claims Commission wrote in 1977 that in most cases the Board awarded only a fraction of fair market value and that Congress, finding the Board unfair, paid the difference except in a few instances.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule for 1886, block 'Act of Congress, Stat. L. XI, 374', pp. 920-921",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Act of December 22, 1858, ch. 5, 11 Stat. 374, An Act to confirm the Land Claim of certain Pueblos and Towns in the Territory of New Mexico",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-11/pdf/STATUTE-11-Pg374.pdf",
+      "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
+    },
+    {
+      "title": "Act of June 7, 1924, ch. 331, 43 Stat. 636 (Pueblo Lands Act)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg636.pdf",
+      "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
+    },
+    {
+      "title": "Act of May 31, 1933, ch. 45, 48 Stat. 108",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg108.pdf",
+      "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
+    },
+    {
+      "title": "Pueblo of Santa Clara v. United States, Docket 356, Opinion on Motion for Summary Judgment: Townsite of Espanola, 41 Ind. Cl. Comm. 29 (October 5, 1977)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1348",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Pueblo of Santo Domingo v. United States, Docket 355, Opinion on Motion for Summary Judgment, 39 Ind. Cl. Comm. 241 (December 22, 1976)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2706",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Pueblo of Santo Domingo v. United States, 16 Cl. Ct. 139 (1988)",
+      "url": "https://static.case.law/cl-ct/16/cases/0139-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    }
+  ],
+  "openQuestions": [
+    "The date 1886-10-01 in treaties.json is not an event date for this land. Royce prints the Pueblo grants under a block headed 'Oct. 1, Act of Congress, Stat. L. XI, 374'; 11 Stat. 374 is the Act of December 22, 1858, which confirmed the grant. This is land the Pueblo kept, not land it ceded. Not edited.",
+    "The 1933 Act gives one sum for the Pueblo of Santo Domingo and does not split it by tract. Section 6 of the 1924 Act covers only land inside the exterior boundaries of land granted or confirmed to a pueblo, so the sum relates to confirmed grant land, but this pass did not read the Pueblo Lands Board's own report on this Pueblo to confirm the acreage lost inside this grant (Royce's area) as against any other confirmed or purchased tract.",
+    "Whether the Pueblo of Santo Domingo elected under Section 6 of the 1933 Act to accept the sum in full discharge, and when it was actually appropriated and paid, was not researched.",
+    "Kewa Pueblo's own account was not located (kewa-nsn.us returned 403).",
+    "The statute link in treaties.json (ops.libs.uga.edu) was not used; the Act was read on govinfo.",
+    "How the 1927 Board finding on the 17,655-acre overlap with La Majada and Mesita de Juana Lopez was finally resolved after the 1976 denial of summary judgment (Docket 355, later in the Court of Claims) is a lead for a deeper pass; it would be a grant-specific finding."
+  ],
+  "today": "The grant remains the Pueblo's land base. Land and water inside it that passed to non-Indians under the 1924 Act was compensated, not returned; the 1933 Act directed the money to replacement land, water and improvements. The Pueblo also argued before the Indian Claims Commission that 17,655 acres added to the grant by a 1907 resurvey, where it overlaps the La Majada and Mesita de Juana Lopez grants, were taken when the Pueblo Lands Board found on December 27, 1927 that the Indians were not entitled to the conflict areas. On December 22, 1976 the Commission refused summary judgment, finding a factual question; the final outcome was not researched. A separate 1969 stipulation of liability for 77,273.24 acres of aboriginal land outside the grant was upheld against later attempts to change it (227 Ct. Cl. 265, 1981; 16 Cl. Ct. 139, 1988).",
+  "plain": {
+    "promised": "In 1858 Congress confirmed the Pueblo of Santo Domingo's land grant and later issued a patent, giving up only the United States' own claim to it.",
+    "happened": "Under the Pueblo Lands Act of 1924, land held by non-Indians inside the Pueblo's lands was confirmed to them. In 1933 Congress named the Pueblo and authorized $4,256.56 more than the Pueblo Lands Board had awarded.",
+    "today": "The land that passed to non-Indians was not returned; the 1933 money was for replacement land, water and improvements."
+  },
+  "id": "cession-1886-10-01-santo-domingo-pueblo",
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -68,7 +68,8 @@
     "Duplicate: this is one of four queue entries for one cession (cession-1872-09-26-sioux-wahpeton, cession-1872-09-26-shoshoni, cession-1874-06-22-sioux-wahpeton, this record). All rest on the same Docket 63 finding; the map should not count them as four broken treaties. Jordan may want them merged.",
     "The Shoshone asked the Commission to value the land as of December 15, 1874; the Commission held the choice immaterial because the parties agreed values did not change between September 1872 and December 1874.",
     "The final judgment in Docket 63 was not re-read for this file.",
-    "2026-11-08: counted once with cession-1872-09-26-sioux-wahpeton (the Act ratifying the Eastern Shoshone Brunot cession; one cession). The map still shows this row."
+    "2026-11-08: counted once with cession-1872-09-26-sioux-wahpeton (the Act ratifying the Eastern Shoshone Brunot cession; one cession). The map still shows this row.",
+    "Audit 2026-11-08 (round 13): confirmed. Royce p. 878 page scan gives Stat. L. XVIII, 291, Shoshoni. Docket 63 figures and the quote re-checked against ICC ids 22 and 434. The treaties.json tribe error noted above has since been corrected in treaties.json."
   ],
   "plain": {
     "promised": "Congress ratified an 1872 agreement in which the Shoshone gave up the southern 700,642 acres of their 1868 reservation for $5,000 a year for five years and a salary for Chief Washakie.",

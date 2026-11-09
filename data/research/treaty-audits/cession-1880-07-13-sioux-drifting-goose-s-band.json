@@ -1,0 +1,17 @@
+{
+  "id": "cession-1880-07-13-sioux-drifting-goose-s-band",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive text) p. 902: \"President restores to public domain reserve established by Executive order of June 27, 1879\"; p. 903 \"See 613\".",
+    "South Dakota State Archives guide and ICC Docket 332-C order (OSU 1307) reread; ICC full-text searches return no finding about this land."
+  ],
+  "changes": [
+    "landTaken wording aligned with the archives (\"describes it as a 65,000-acre reservation\").",
+    "Audit line added."
+  ],
+  "unverifiable": [
+    "Whether the band left under pressure or by consent is not settled in the sources opened."
+  ],
+  "treatiesJsonErrors": []
+}

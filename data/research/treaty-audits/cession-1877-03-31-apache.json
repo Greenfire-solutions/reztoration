@@ -1,0 +1,22 @@
+{
+  "id": "cession-1877-03-31-apache",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive text) pp. 890-891: order restores the strip from the mouth of the San Pedro up the south bank of the Gila 10 miles, south to the southern boundary, back along the western boundary (602); \"Remainder being the White Mountain reserve as it now exists\" (603).",
+    "ICC Docket 22-D interlocutory order (OSU 932, 21 Ind. Cl. Comm. 189): conclusion 5 names March 31, 1877; quote exact; tracts to be valued as of each order's date.",
+    "ICC Docket 22-D opinion (OSU 1611): \"wrongfully took ... additional aboriginal title lands ... as of the dates of the Orders\", March 31, 1877 named.",
+    "ICC Docket 22-D final award (OSU 1055, 28 Ind. Cl. Comm. 399): stipulated $4,900,000, Sept. 12, 1972, recorded as litigation.",
+    "Distinctness checked against cession-1871-11-09-apache (areas 541, 573, 582, 603) and cession-1886-10-01-apache-western-bands (area 689, May 1, 1873): area 602 is a separate tract with its own date of taking, so no sameEventAs."
+  ],
+  "changes": [
+    "Audit line added recording the distinctness check."
+  ],
+  "unverifiable": [
+    "Acreage of area 602 not found in a source opened (the claim settled before valuation).",
+    "The interlocutory order scan gives its date as \"2 3 -day of June, 1969\"; the OSU record and the opinion give June 27, 1969, which is kept."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes is empty for this id; the Docket 22-D plaintiffs (San Carlos Apache Tribe, White Mountain Apache Tribe) are the successors."
+  ]
+}

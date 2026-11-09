@@ -1,0 +1,13 @@
+{
+  "id": "cession-1873-09-06-niskwali",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive OCR text of annualreportofbu218smit) pp. 864-865: President enlarges Puyallup reserve of Jan. 20, 1857; only fractional sec. 34, T. 21 N., R. 3 E.; present Puyallup reserve. Matches."
+  ],
+  "changes": [
+    "Removed stale openQuestion about treaties.json naming the Nisqually (it now names the Puyallup Tribe); audit line added."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": []
+}

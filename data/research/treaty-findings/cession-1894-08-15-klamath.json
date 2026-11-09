@@ -1,0 +1,81 @@
+{
+  "id": "cession-1894-08-15-klamath",
+  "sameEventAs": "kappler-706",
+  "name": "Agreement with the Yakima, January 8, 1894, ceding the Wenatshapam Fishery, ratified August 15, 1894",
+  "aka": [
+    "Wenatshapam Fishery cession"
+  ],
+  "signed": "1894-01-08",
+  "ratified": "1894-08-15",
+  "citation": "Act of August 15, 1894, ch. 290, 28 Stat. 286, 320-321",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-28/pdf/STATUTE-28-Pg286-2.pdf",
+  "nations": [
+    "Confederated Tribes and Bands of the Yakama Nation"
+  ],
+  "promises": [
+    "Article 10 of the Treaty with the Yakamas of June 9, 1855 reserved a tract of not more than one township six miles square at the forks of the Pisquouse or Wenatshapam River, known as the Wenatshapam Fishery, to be surveyed when the President directed (ICC Docket 162, findings).",
+    "By the 1894 agreement the Yakama ceded the fishery tract for $20,000 and the Wenatshapam Indians on the Wenatchee River were to receive allotments where they lived (28 Stat. 320-321)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1956-06-05",
+      "what": "The Indian Claims Commission found the United States failed until 1893 to locate and survey the fishery reserved by the 1855 treaty, then bought the 23,000 acres in 1894 for $20,000. It held the land worth at least $3.00 an acre, $69,000, and the price unconscionable.",
+      "whoFoundIt": "Indian Claims Commission, Docket 162, 4 Ind. Cl. Comm. 269 and 294 (1956)",
+      "source": {
+        "title": "Yakima Tribe v. United States, Docket 162, Opinion of the Commission (4 Ind. Cl. Comm. 294, June 5, 1956)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/157",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    }
+  ],
+  "landTaken": "23,000 acres, as agreed by the parties (ICC Docket 162, finding 6).",
+  "compensation": "$20,000 under the agreement. Final award in Docket 162 of $49,000, entered August 31, 1965 on the parties' agreement, with offsets for 1894 to 1905 reserved to other Yakima cases.",
+  "today": "Not researched past the 1965 award.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 948-949",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/948/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Act of August 15, 1894, ch. 290, 28 Stat. 286 (Indian appropriations, fiscal 1895, with ratified agreements)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-28/pdf/STATUTE-28-Pg286-2.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Yakima Tribe v. United States, Docket 162, Findings of Fact (4 Ind. Cl. Comm. 269, June 5, 1956)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/370",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Yakima Tribe v. United States, Docket 162, Opinion of the Commission (4 Ind. Cl. Comm. 294, June 5, 1956)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/157",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Yakima Tribe v. United States, Docket 162, Opinion of the Commission (15 Ind. Cl. Comm. 617, August 31, 1965)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/695",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Yakima Tribe v. United States, Docket 162, Final Award (August 31, 1965)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/699",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json calls this row Klamath (Royce area 400, California) with the Klamath Tribes of Oregon. The page image of Royce p. 948-949 shows the first August 15, 1894 entry is the Yakima agreement of January 8, 1894 (28 Stat. 320) on the Article 10 fishery, with the map column printed \"See 400, California 2\", apparently a Royce error that the USFS layer carried into a Klamath row. There was no Klamath cession on that date (Royce's tribal index lists none). The present-day nation is the Yakama Nation. Not edited.",
+    "This cession is already the 1956 Docket 162 breach on kappler-706 (Treaty with the Yakima, 1855), so sameEventAs points there and the taking is counted once.",
+    "Royce prints a second August 15, 1894 Yakima entry (28 Stat. 320) describing the same tract by reference to the Act of November 28, 1892; it appears to be the same cession."
+  ],
+  "plain": {
+    "promised": "The 1855 Yakama treaty reserved the Wenatshapam Fishery, up to a township at the forks of the Wenatchee River, to be surveyed for the tribe.",
+    "happened": "The United States did not survey it until 1893, then bought the 23,000 acres in 1894 for $20,000. The Indian Claims Commission found the land worth $69,000 and the price unconscionable.",
+    "today": "The Commission entered a final award of $49,000 in 1965."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

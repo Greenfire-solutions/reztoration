@@ -19,7 +19,7 @@
   "breaches": [],
   "landTaken": "Royce area 606: the 90,710.89-acre reserve in the Indian Territory. Royce records that the band, determining to return to Idaho, deeded its claim to it to the United States on May 22, 1885.",
   "compensation": "None found for the 1885 deed of the Indian Territory reserve.",
-  "today": "In Docket 179 the Colville Tribes, for Joseph's band, claimed the band's share of Nez Perce trust funds and allotments it never received; the claim was settled by compromise for $1,119,071.78 in 1970, with no finding of liability. The Colville Tribes record that Chief Moses invited Joseph's band to the Colville Reservation in 1885 and that the government moved members of the band there in 1885 and later years.",
+  "today": "In Docket 179 the Colville Tribes, for Joseph's band, claimed the band's share of Nez Perce trust funds and allotments it never received; the Nez Perce Tribe of Idaho joined as intervenor, and the general accounting claim to June 30, 1951 was settled by compromise for a net judgment of $1,119,071.78 in favor of both in 1970, with no finding of liability. The Colville Tribes record that Chief Moses invited Joseph's band to the Colville Reservation in 1885 and that the government moved members of the band there in 1885 and later years.",
   "nationVoice": [
     {
       "nation": "Confederated Tribes of the Colville Reservation",
@@ -56,10 +56,11 @@
   ],
   "openQuestions": [
     "treaties.json gives Oklahoma and only the Nez Perce Tribe of Idaho; most of Joseph's own band went to the Colville Reservation in 1885, so the Colville Tribes are added here. treaties.json was not edited.",
-    "Royce also says the band was moved to land west of the Kaws and that the reserve deed from the Cherokee is dated June 14, 1883; the reserve was paid for under the Act of March 3, 1881. Those later acts were not opened.",
+    "Royce's remark (p. 893) says a reserve was bought for the band from the Cherokee out of the land west of 96 degrees and that the Cherokee deed is dated June 14, 1883. Removal 'west of the Kaws' and payment under the Act of March 3, 1881 belong to the Ponca entry printed beside it on the same page, not to this Act (audit 2026-11-08).",
     "Whether anything was paid for the 90,710.89 acres the band deeded back on May 22, 1885, and what became of that land, was not traced.",
     "No court or Commission finding about this Act or the Indian Territory reserve was located. The broken promise most often told, that the band would be returned to Idaho after its surrender in 1877, belongs to the 1877 surrender and was not researched here.",
-    "The Nez Perce Tribe's own account of the years in the Indian Territory was not located in this pass."
+    "The Nez Perce Tribe's own account of the years in the Indian Territory was not located in this pass.",
+    "Audit 2026-11-08: 20 Stat. 74 (govinfo) and Royce pp. 892-893 reopened: the $20,000 item and the 90,710.89 acres confirmed. An earlier open question mixed in the Ponca remark from the same page (west of the Kaws, Act of March 3, 1881); corrected. Docket 179 settlement findings (OSU 2651) reread: the judgment ran to the Colville Tribes for Joseph's band and to the Nez Perce Tribe of Idaho as intervenor; today corrected."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

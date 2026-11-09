@@ -1,0 +1,20 @@
+{
+  "id": "cession-1875-12-21-southern-apache",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce page scans (archive.org leaves) p. 882 (new Hot Springs bounds) and p. 884 (rest restored to market), p. 885 (588; see orders of 1877, 1880)",
+    "ICC id 2269 (19 Ind. Cl. Comm. 212): 6(h), 14(a) taking September 4, 1886, 14(b) Ojo Caliente reservation abolished August 25, 1877",
+    "Court of Claims case names, us-ct-cl vols 1-231 (static.case.law CasesMetadata), scanned for the nation: Fort Sill Apache cases (201 Ct. Cl. 630 and later) concern other claims"
+  ],
+  "changes": [
+    "\"about 20 miles wide and 35 miles long\" (derived) replaced by Royce's courses",
+    "note that treaties.json now lists the Fort Sill Apache Tribe"
+  ],
+  "unverifiable": [
+    "Fort Sill Apache history page not re-read"
+  ],
+  "treatiesJsonErrors": [
+    "Stale: presentDayTribes already corrected in treaties.json"
+  ]
+}

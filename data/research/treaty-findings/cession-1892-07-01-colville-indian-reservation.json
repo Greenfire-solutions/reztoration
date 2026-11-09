@@ -1,0 +1,65 @@
+{
+  "id": "cession-1892-07-01-colville-indian-reservation",
+  "sameEventAs": "cession-1872-07-02-methow-okanagan",
+  "name": "Act of July 1, 1892 restoring the north half of the Colville Reservation to the public domain",
+  "aka": [
+    "Colville north half opening"
+  ],
+  "signed": "1892-07-01",
+  "citation": "Act of July 1, 1892, ch. 140, 27 Stat. 62",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg62.pdf",
+  "nations": [
+    "Confederated Tribes of the Colville Reservation"
+  ],
+  "promises": [
+    "Not a treaty. Under the May 9, 1891 agreement the tribes were to cede the north half of the reservation in return for $1,500,000 in five instalments and the promise in Article 6 that their right to hunt and fish on unallotted ceded land would not be taken away; the agreement was to take effect only on congressional approval (Antoine v. Washington)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1892-07-01",
+      "what": "Congress declared the north half vacated and restored to the public domain and opened it to settlement, without providing the $1,500,000 the 1891 agreement promised. Congress carried the agreement into effect and authorized the payment fourteen years later, in 1906.",
+      "whoFoundIt": "Act of July 1, 1892, ch. 140, 27 Stat. 62; Act of June 21, 1906, 34 Stat. 325, as described in Antoine v. Washington, 420 U.S. 194 (1975)",
+      "source": {
+        "title": "Antoine v. Washington, 420 U.S. 194 (1975)",
+        "url": "https://static.case.law/us/420/cases/0194-01.json",
+        "publisher": "Caselaw Access Project, Harvard Law School Library"
+      }
+    }
+  ],
+  "landTaken": "The north half of the reservation, Royce area 717; the Act described it as about 1,500,000 acres (see cession-1872-07-02-methow-okanagan).",
+  "compensation": "The Act of June 21, 1906 authorized $1,500,000, paid in five appropriations of $300,000 from 1907 to 1911 (Antoine v. Washington). Reservation claims, including the north half, were settled in Indian Claims Commission Dockets 181-A and 181-B for $3,500,000 in 1967 (see the primary record).",
+  "today": "In Antoine v. Washington (1975) the Supreme Court held that Congress, by ratifying the 1891 agreement, preserved the tribes' Article 6 hunting and fishing rights on the ceded north half against state regulation.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 944-945",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/944/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Act of July 1, 1892, ch. 140, 27 Stat. 62 (opening of part of the Colville Reservation)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg62.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Antoine v. Washington, 420 U.S. 194 (1975)",
+      "url": "https://static.case.law/us/420/cases/0194-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library"
+    }
+  ],
+  "openQuestions": [
+    "Same land and same taking as the 1892 Act breach on cession-1872-07-02-methow-okanagan, so sameEventAs points there and the taking is counted once.",
+    "treaties.json lists no present-day tribe for this row; the Confederated Tribes of the Colville Reservation are the successors. Royce lists two areas: 717 (the ceded north half) and 718 (the diminished reservation). Not edited.",
+    "Antoine v. Washington (1975) counts the 1892 Act as the first of the statutes by which Congress approved the 1891 agreement; the primary record relies on the Indian Claims Commission's summary of the petitioners' claim that it was not ratified. The breach stands on the opening without the promised payment.",
+    "The Colville Tribes' own account of the north half was not located."
+  ],
+  "plain": {
+    "promised": "Not a treaty. In 1891 the Colville tribes agreed to give up the north half of their reservation for $1,500,000, keeping hunting and fishing rights there.",
+    "happened": "In 1892 Congress opened the north half to settlers without providing the promised payment. Congress authorized the money only in 1906, fourteen years later.",
+    "today": "The $1,500,000 was paid from 1907 to 1911. In 1975 the Supreme Court upheld the tribes' hunting and fishing rights on the north half."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

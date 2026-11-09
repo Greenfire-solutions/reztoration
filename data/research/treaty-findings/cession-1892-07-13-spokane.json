@@ -1,0 +1,86 @@
+{
+  "id": "cession-1892-07-13-spokane",
+  "name": "Agreement with the Upper and Middle Bands of Spokane, March 18, 1887, ratified July 13, 1892",
+  "aka": [
+    "Spokane agreement of 1887"
+  ],
+  "signed": "1887-03-18",
+  "ratified": "1892-07-13",
+  "citation": "Act of July 13, 1892, ch. 164, 27 Stat. 120, 139",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg120-3.pdf",
+  "nations": [
+    "Spokane Tribe of Indians"
+  ],
+  "promises": [
+    "By the 1887 agreement the Upper and Middle Spokane gave up all claim to lands outside the Indian reservations in Washington and Idaho and agreed to move to the Coeur d'Alene Reservation (Royce, p. 944).",
+    "The United States was to pay $95,000; the 1892 Act ratified the agreement and appropriated $30,000 as the first instalment, to be spent for those moving to the Coeur d'Alene Reservation on houses, breaking land, cattle, seed, tools, mills, clothing and food (27 Stat. 139)."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "litigation",
+      "date": "1961-04-17",
+      "what": "The Indian Claims Commission found the Spokane held aboriginal title to a tract in northeastern Washington and that, the 1887 agreement taking effect only on ratification, July 13, 1892 was the date the United States took the land outside the reservation. It sent the case on to trial on the price paid and whether it was unconscionable; no ruling on the price was made.",
+      "whoFoundIt": "Indian Claims Commission, Docket 331, 9 Ind. Cl. Comm. 236 (1961)",
+      "source": {
+        "title": "Spokane Tribe v. United States, Docket 331, Opinion of the Commission (9 Ind. Cl. Comm. 236, April 17, 1961)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/144",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    },
+    {
+      "kind": "litigation",
+      "date": "1967-02-21",
+      "what": "The claim for additional compensation for this cession and the tribe's accounting claim were settled together by a compromise judgment of $6,700,000.",
+      "whoFoundIt": "Indian Claims Commission, Dockets 331 and 331-A, compromise settlement",
+      "source": {
+        "title": "Spokane Tribe v. United States, Dockets 331 and 331-A, Findings of Fact on Compromise Settlement (17 Ind. Cl. Comm. 584, February 21, 1967)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2327",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    }
+  ],
+  "compensation": "The agreement promised $95,000 (27 Stat. 139). The 1967 compromise of $6,700,000 covered this cession claim and the accounting claim together.",
+  "today": "Not researched past the 1967 settlement.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 944-945",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/944/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Act of July 13, 1892, ch. 164, 27 Stat. 120 (Indian appropriations, fiscal 1893)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg120-3.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Spokane Tribe v. United States, Docket 331, Opinion of the Commission (9 Ind. Cl. Comm. 236, April 17, 1961)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/144",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Spokane Tribe v. United States, Docket 331, Findings of Fact (April 17, 1961)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/509",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Spokane Tribe v. United States, Dockets 331 and 331-A, Findings of Fact on Compromise Settlement (17 Ind. Cl. Comm. 584, February 21, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2327",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "The agreement was signed in 1887 and ratified five years later; whether the delay or the removal terms were themselves found wrongful was not established.",
+    "The Commission never ruled on whether $95,000 was unconscionable; the claim was compromised, so the status is contested, not broken.",
+    "A 1963 Court of Claims remand enlarged the aboriginal area; its citation is unclear in the 1967 scan and it was not opened.",
+    "The Spokane Tribe's own account of the 1887 agreement was not located."
+  ],
+  "plain": {
+    "promised": "In 1887 the Upper and Middle Spokane gave up their lands outside the reservations and agreed to move to the Coeur d'Alene Reservation, for $95,000 in help to settle there. Congress ratified it in 1892.",
+    "happened": "The Indian Claims Commission dated the taking of Spokane land to the 1892 ratification but never ruled on whether the price was fair. The claim was settled.",
+    "today": "This claim and an accounting claim were settled together for $6,700,000 in 1967."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

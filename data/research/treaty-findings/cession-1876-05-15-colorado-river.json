@@ -8,8 +8,8 @@
     "Colorado River Indian Tribes (Mohave, Chemehuevi, Hopi and Navajo)"
   ],
   "promises": [
-    "An enlargement, not a cession: the President, referring to previous errors, defined the boundaries of the reservation established by the Act of March 3, 1865 and enlarged in 1873 and 1874, from La Paz arroyo to Black Mountain, across the river to Monument Peak and Riverside Mountain in California, and back along the west bank (Royce pp. 886-887).",
-    "Royce records that the order of November 16, 1874 had defective boundaries and was superseded by this one (Royce p. 877)."
+    "Not a cession: the President, alluding to previous errors, correctly defined the boundaries of the Colorado River reservation, from La Paz arroyo to Black Mountain, across the river to Monument Peak and Riverside Mountain in California, and back along the west bank (Royce p. 886). Royce refers to the Act of March 3, 1865 and the Executive orders of November 22, 1873 and November 16, 1874 (Royce p. 887).",
+    "Royce records that the boundaries of the November 16, 1874 order were found defective and incomplete, so that order was superseded by this one, \"wherein the enlarged boundaries were correctly defined\" (Royce p. 877)."
   ],
   "status": "no-breach-found",
   "breaches": [],
@@ -46,7 +46,8 @@
   ],
   "openQuestions": [
     "The dispute over the reservation's western (California) boundary under this order, litigated in Arizona v. California, was not researched; whether any ruling treats land inside these boundaries as taken was not checked.",
-    "The Mohave decision (id 283) was relied on as cited in cession-1874-11-16-colorado-river and was not re-read in full for this file."
+    "The Mohave decision (id 283) was re-read in the round 13 audit: it concludes the Mohave were deprived of their lands in Arizona and Nevada on March 3, 1865 without compensation.",
+    "Audit 2026-11-08 (round 13): first promise said the reservation was \"enlarged in 1873 and 1874\"; Royce p. 887 only cross-references the 1873 and 1874 orders, and p. 877 says this order correctly defined the enlarged boundaries. Reworded to Royce. Royce pp. 877, 886 and 887 checked on the page scans."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

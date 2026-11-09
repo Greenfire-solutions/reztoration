@@ -89,7 +89,8 @@
     "treaties.json errors: presentDayTribes is empty (the Burns Paiute Tribe should be listed); scheduleTribes reads \"Paiute; Shoshone; Snake\" while the Commission names Snake or Piute bands; a statute file (638c.pdf) is linked for what Royce lists as executive orders. Not edited.",
     "The Burns Paiute page dates the reservation to 1869; Royce and the Commission give September 12, 1872 for the first order. Recorded as the Tribe's account.",
     "The final judgment in Docket 17 and whether the judgment was distributed were not traced.",
-    "2026-11-08: counted once with cession-1872-09-12-paiute-shoshone-snake (an order on the Malheur reservation; the January 1879 taking of the reservation is counted once). The map still shows this row."
+    "2026-11-08: counted once with cession-1872-09-12-paiute-shoshone-snake (an order on the Malheur reservation; the January 1879 taking of the reservation is counted once). The map still shows this row.",
+    "Audit 2026-11-08 (round 13): confirmed. ICC id 358 findings 37, 40 and 41 and the quote re-checked (exact); $579,722.00 re-checked in ICC id 32; the Interior press release of August 6, 1963 re-read ($567,000; quote exact). Royce pp. 884-885 re-checked on the page scans. The treaties.json errors listed above (empty presentDayTribes, statute file) have since been corrected in treaties.json; the scheduleTribes wording remains."
   ],
   "plain": {
     "promised": "Not a treaty. A presidential order fixed the Malheur Reservation's boundaries for the Paiute bands, land the Indian Claims Commission later found they had always used and never gave up.",

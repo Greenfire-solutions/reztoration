@@ -18,7 +18,7 @@
   "breaches": [],
   "landTaken": "None by this order: it set land apart for the Zuni. Royce maps the reservation as area 645.",
   "compensation": "None stated in the order.",
-  "today": "In Zuni Tribe v. United States (Claims Court No. 161-79L, May 27, 1987) the court held the Zuni had aboriginal title to the large claim area in Arizona and New Mexico, which the tribe said the United States took between 1846 and 1939 without adequate compensation; the opinion does not mention the 1877 order. A separate suit, Docket 327-81L, sought compensation for Zuni trust lands. The Zuni Land Conservation Act of 1990 (Public Law 101-486) authorized $25,000,000 for a Zuni Indian Resource Development Trust Fund and paid the tribe's costs in Dockets 327-81L and 224-84L, without findings of fault. The University of Utah archive of the Zuni claims records that 327-81L never went to trial and was settled by act of Congress, and that judgment of $25,000,000 was entered in 161-79L on January 22, 1991.",
+  "today": "In Zuni Tribe v. United States (Claims Court No. 161-79L, May 27, 1987) the court held the Zuni had aboriginal title to a large claim area in Arizona and New Mexico, which the tribe said the United States took between 1846 and 1939 without adequate compensation. The tribe excluded the present Zuni Indian Reservation from that claim (Finding 4), and the opinion does not mention the 1877 order. Jurisdiction came from the Act of May 15, 1978 (92 Stat. 244). The Act of August 28, 1984 (Public Law 98-408) added lands in Arizona to the Zuni Reservation for religious purposes and makes no finding about this reservation. A separate suit, Docket 327-81L, sought compensation for Zuni trust lands. The Zuni Land Conservation Act of 1990 (Public Law 101-486) authorized $25,000,000 for a Zuni Indian Resource Development Trust Fund, part of which could pay the tribe's costs in Dockets 327-81L and 224-84L, without findings of fault. The University of Utah archive of the Zuni claims records that 327-81L never went to trial and was settled by act of Congress, and that judgment of $25,000,000 was entered in 161-79L on January 22, 1991.",
   "nationVoice": [],
   "sources": [
     {
@@ -45,6 +45,11 @@
       "title": "Zuni land claims cases records, 1941-1991",
       "url": "https://archiveswest.orbiscascade.org/ark:80444/xv28125",
       "publisher": "Archives West (University of Utah, J. Willard Marriott Library)"
+    },
+    {
+      "title": "Act of August 28, 1984, Public Law 98-408, 98 Stat. 1533 (lands conveyed to the Zuni Indian Tribe for religious purposes)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-98/pdf/STATUTE-98-Pg1533.pdf",
+      "publisher": "US Government Publishing Office, govinfo"
     }
   ],
   "openQuestions": [
@@ -52,7 +57,8 @@
     "Docket 327-81L concerned Zuni trust lands, which include this reservation; its pleadings and any findings on damage to reservation land were not read.",
     "Whether the 1987 claim area overlaps land left outside the 1877 or 1883 boundaries, and how the 1991 judgment in 161-79L was reached, were not researched.",
     "treaties.json names the tribe from Royce's spelling \"Zuñi\" (id slug \"zu-i\"); the Pueblo of Zuni's own account of the 1877 reservation was not located in this pass.",
-    "The order was read only in Royce's summary, not in Kappler vol. 1."
+    "The order was read only in Royce's summary, not in Kappler vol. 1.",
+    "Audit 2026-11-08: 12 Cl. Ct. 607 reopened: Finding 4 says the tribe excluded the present Zuni Indian Reservation from the claim area, so the 1987 aboriginal-title holding is not about this reservation. Public Law 98-408 (1984) read in full: it adds Arizona lands (sections in T. 14-15 N., R. 26 E.) to the reservation and bars offsets in Dockets 161-79L and 327-81L; no finding about the 1877 reservation. Public Law 101-486 reread: it authorizes the trust fund to pay the docket costs rather than paying them directly; wording corrected. Status stays no-breach-found."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

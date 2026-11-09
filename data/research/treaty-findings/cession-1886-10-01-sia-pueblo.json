@@ -1,0 +1,128 @@
+{
+  "id": "cession-1886-10-01-sia-pueblo",
+  "name": "Pueblo of Zia: the confirmed Spanish grant (Royce 675) and the taking of Zia aboriginal land outside it (ICC Docket 137)",
+  "aka": [
+    "Zia Pueblo grant",
+    "Pueblo de Zia v. United States, ICC Docket 137"
+  ],
+  "citation": "Act of Congress confirming the Pueblo grants, 11 Stat. 374 (confirmed December 22, 1858; patented 1864), as listed by Royce; not a treaty",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up",
+  "nations": [
+    "Pueblo of Zia",
+    "Pueblo of Jemez",
+    "Pueblo of Santa Ana"
+  ],
+  "promises": [
+    "Not a treaty. Royce lists the Sia (Zia) Pueblo grant as a Spanish grant of 1689, confirmed by the United States on December 22, 1858 (11 Stat. 374) and patented in 1864, of 17,514.63 acres. This was land the Pueblo kept.",
+    "The date 1886-10-01 is the heading under which Royce printed the Pueblo grants, not the date of any act concerning Zia.",
+    "Outside the grant, the Court of Claims held in 1964 that Zia, Jemez and Santa Ana together held Indian title in 1848 to 298,634 acres of the tract they claimed."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1964-04-17",
+      "what": "The Court of Claims reversed the Commission's 1962 dismissal and held that Zia, Jemez and Santa Ana had established aboriginal title to the 298,634 acres, remanding the case to fix the date of taking and the value.",
+      "whoFoundIt": "Court of Claims, Pueblo de Zia v. United States, 165 Ct. Cl. 501 (1964), Appeal No. 9-62",
+      "source": {
+        "title": "Pueblo de Zia v. United States, 165 Ct. Cl. 501 (1964)",
+        "url": "https://static.case.law/us-ct-cl/165/cases/0501-01.json",
+        "publisher": "Caselaw Access Project, Harvard Law School"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1968-03-07",
+      "what": "The Commission held that 36,172.62 acres of the three Pueblos' Indian title lands were taken on October 12, 1905, when they were placed inside the Jemez Forest Reserve; that lands entered by settlers from the late 1800s through the 1920s were taken on their entry dates; and that the rest were taken on April 4, 1936, when Grazing District No. 2 took effect. Tracts later set apart as reservations for Jemez and Zia were held not taken.",
+      "whoFoundIt": "Indian Claims Commission, Docket 137, Interlocutory Order of March 7, 1968 (19 Ind. Cl. Comm. 56, 94)",
+      "source": {
+        "title": "Pueblo de Zia et al. v. United States, Docket 137, Interlocutory Order (March 7, 1968)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1729",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1970-12-17",
+      "what": "The Commission found that the United States took 282,415.73 acres of the Pueblos' aboriginal land, worth $938,000 on the dates of taking, without paying compensation.",
+      "whoFoundIt": "Indian Claims Commission, Docket 137, Interlocutory Order of December 17, 1970 (24 Ind. Cl. Comm. 270)",
+      "source": {
+        "title": "Pueblo de Zia et al. v. United States, Docket 137, Interlocutory Order (December 17, 1970), 24 Ind. Cl. Comm. 270",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2120",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      },
+      "quote": "Since the said lands were acquired by defendant without payment of compensation"
+    },
+    {
+      "kind": "litigation",
+      "date": "1974-01-10",
+      "what": "After the Court of Claims reviewed the offsets (United States v. Pueblo de Zia, 200 Ct. Cl. 601 (1973)), the Commission vacated its 1971 award of $766,936.08 and entered a final judgment of $749,083.75 for the three Pueblos jointly on a stipulation of settlement. A settlement is not a further finding.",
+      "whoFoundIt": "Indian Claims Commission, Docket 137, Amended Final Award of January 10, 1974",
+      "source": {
+        "title": "Pueblo de Zia et al. v. United States, Docket 137, Order Amending Opinion and Finding of Fact, and Amended Final Award (January 10, 1974)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1199",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "282,415.73 acres of aboriginal land held jointly by Zia, Jemez and Santa Ana, taken on dates from the late 1800s to April 4, 1936 (Docket 137, December 17, 1970). The Royce 675 grant itself, 17,514.63 acres, was confirmed to Zia.",
+  "compensation": "The Commission valued the land at $938,000 and in 1971 allowed offsets of $171,063.92, awarding $766,936.08. That award was vacated, and on January 10, 1974 the three Pueblos jointly received a final judgment of $749,083.75 by settlement.",
+  "today": "The 1974 judgment closed Docket 137 for Zia, Jemez and Santa Ana together. The Commission first dismissed the claim in 1962; the Court of Claims reversed in 1964.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report, Bureau of American Ethnology, 1899), schedule p. 922, Sia Pueblo entry",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Pueblo de Zia et al. v. United States, Docket 137, Final Order (September 11, 1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/831",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pueblo de Zia v. United States, 165 Ct. Cl. 501 (1964)",
+      "url": "https://static.case.law/us-ct-cl/165/cases/0501-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Pueblo de Zia, Pueblo de Jemez and Pueblo de Santa Ana v. United States, Docket 137, Opinion of the Commission (March 7, 1968), 19 Ind. Cl. Comm. 56",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1042",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pueblo de Zia et al. v. United States, Docket 137, Interlocutory Order (March 7, 1968)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1729",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pueblo de Zia et al. v. United States, Docket 137, Interlocutory Order (December 17, 1970), 24 Ind. Cl. Comm. 270",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2120",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pueblo de Zia et al. v. United States, Docket 137, Final Award (September 15, 1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2241",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Pueblo de Zia et al. v. United States, Docket 137, Order Amending Opinion and Finding of Fact, and Amended Final Award (January 10, 1974)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1199",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "The Royce row is the confirmed grant, land Zia kept. The breach recorded is the taking of the shared aboriginal land outside it found in Docket 137, which also covers Jemez (cession-1886-10-01-jemez-pueblo, marked sameEventAs this record) and Santa Ana.",
+    "The Pueblo of Zia's own account was not found: its website did not load and no tribal history page came up in searches.",
+    "Pueblo Lands Board findings on non-Indian claims inside the Zia grant were not searched in this pass.",
+    "How the 1974 judgment was divided among the three Pueblos was not traced.",
+    "treaties.json date 1886-10-01 is Royce's column heading, not an event date for Zia (noted, not edited)."
+  ],
+  "plain": {
+    "promised": "Not a treaty. The United States confirmed Zia's Spanish grant of 17,514.63 acres in 1858. Outside it, Zia, Jemez and Santa Ana together held Indian title to 298,634 acres, the Court of Claims held in 1964.",
+    "happened": "The Indian Claims Commission found the United States took 282,415.73 acres of that shared land without payment, through a 1905 forest reserve, settlers' entries and a 1936 grazing district.",
+    "today": "The land was valued at $938,000. The claim was settled in 1974 for $749,083.75, paid to the three Pueblos jointly."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

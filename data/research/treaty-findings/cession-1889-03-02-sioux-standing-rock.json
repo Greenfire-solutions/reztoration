@@ -1,0 +1,82 @@
+{
+  "id": "cession-1889-03-02-sioux-standing-rock",
+  "name": "Act of March 2, 1889: the Standing Rock reservation (Royce 702)",
+  "aka": [
+    "Sioux Act of 1889 (Great Sioux Agreement)"
+  ],
+  "signed": "1889-03-02",
+  "citation": "Act of March 2, 1889, ch. 405, 25 Stat. 888 (in force by proclamation of February 10, 1890)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/932/mode/2up",
+  "nations": [
+    "Standing Rock Sioux Tribe (Hunkpapa and Sihasapa Lakota, Yanktonai Dakota)"
+  ],
+  "promises": [
+    "The Act set apart for the Indians receiving rations at the Standing Rock agency the lands between the Cannon Ball River, the Missouri, a line ten miles north of the Moreau, and the 102nd meridian (Royce).",
+    "The Act of March 2, 1889 divided the Great Sioux Reservation into separate reservations; section 21 opened the rest to sale for the benefit of the Sioux, and section 19 kept in force all provisions of the 1868 treaty and the 1877 agreement not in conflict with it (Court of Claims, 105 Ct. Cl. 725)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1946-02-04",
+      "what": "The Court of Claims held that the United States illegally charged the cost of food rations it owed the Sioux under the 1877 agreement against trust funds of the Standing Rock Indians made from the sale of their reservation lands, and allowed recovery (case C-531 (24)); it then set off the whole sum against gratuities spent under the 1889 Act, so no judgment was entered.",
+      "whoFoundIt": "Court of Claims, Sioux Tribe of Indians v. United States, 105 Ct. Cl. 725 (1946), case C-531 (24)",
+      "source": {
+        "title": "Sioux Tribe of Indians v. United States, 105 Ct. Cl. 725 (1946), Nos. C-531 (18) to (24)",
+        "url": "https://static.case.law/us-ct-cl/105/cases/0725-01.json",
+        "publisher": "Caselaw Access Project, Harvard Law School"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1889-03-02",
+      "what": "The Standing Rock Sioux Tribe says Congress reduced the Great Sioux Reservation by the 1889 Act and opened it to non-Indian settlement, leaving Standing Rock checkerboarded, and holds its 1851 and 1868 treaty rights fully in force.",
+      "whoFoundIt": "Standing Rock Sioux Tribe, History page (Wayback Machine copy of June 15, 2021)",
+      "source": {
+        "title": "History (Wayback Machine copy, June 15, 2021)",
+        "url": "http://web.archive.org/web/20210615102625/https://www.standingrock.org/History/",
+        "publisher": "Standing Rock Sioux Tribe"
+      }
+    }
+  ],
+  "compensation": "The 1946 recovery for Standing Rock ($762,430.25 with interest in case 24) was wholly offset (105 Ct. Cl. 725).",
+  "today": "Nothing was paid on the 1946 ruling.",
+  "nationVoice": [
+    {
+      "nation": "Standing Rock Sioux Tribe",
+      "summary": "The Tribe says the 1889 Act divided the Great Sioux Reservation and opened its land to non-Indian settlement, leaving Standing Rock checkerboarded, and that its 1851 and 1868 treaty rights remain binding.",
+      "url": "http://web.archive.org/web/20210615102625/https://www.standingrock.org/History/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report, Bureau of American Ethnology, 1899), schedule p. 932, Standing Rock Sioux entry",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/932/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Sioux Tribe of Indians v. United States, 105 Ct. Cl. 725 (1946), Nos. C-531 (18) to (24)",
+      "url": "https://static.case.law/us-ct-cl/105/cases/0725-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "History (Wayback Machine copy, June 15, 2021)",
+      "url": "http://web.archive.org/web/20210615102625/https://www.standingrock.org/History/",
+      "publisher": "Standing Rock Sioux Tribe"
+    }
+  ],
+  "openQuestions": [
+    "The 1889 Act itself and the land ceded under it are recorded under cession-1889-03-02-sioux (Royce 631 and 699). This Royce row is the reservation kept. It is not marked sameEventAs that record because the breach found here concerns this reservation's own funds, not the cession.",
+    "The ration charges ruled illegal in 105 Ct. Cl. 725 were made from trust funds arising under later sale acts (1895 to 1910). The opinion ties the subsistence duty to the 1877 agreement, which section 19 of the 1889 Act continued; the breach is recorded against this record on that basis.",
+    "Later reductions of this reservation by Acts of Congress after 1889 are not in Royce's schedule and are not researched here.",
+    "The ICC accounting dockets for each reservation (114 to 119) were seen in the index but not read for this record.",
+    "The Standing Rock history page was read through the archived copy cited by cession-1889-03-02-sioux, not reloaded in this pass."
+  ],
+  "plain": {
+    "promised": "The 1889 Act gave the Standing Rock people their own reservation and kept in force the 1877 promise that the United States would feed the Sioux until they could support themselves.",
+    "happened": "The Court of Claims held in 1946 that the United States illegally paid for those rations out of Standing Rock trust funds from land sales. The Tribe says the Act broke up its land.",
+    "today": "The court allowed recovery of $762,430.25 but set it off against other spending, so nothing was paid."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

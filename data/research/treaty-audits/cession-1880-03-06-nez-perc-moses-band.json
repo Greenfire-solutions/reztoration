@@ -1,0 +1,17 @@
+{
+  "id": "cession-1880-03-06-nez-perc-moses-band",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive text) p. 898: addition from the south line of the 1879 Columbia reservation down the Okanogan and Columbia to the Lake Chelan outlet, along the lake to Shehekin Creek, up the creek to its source, W to 44 degrees W of Washington; area 618.",
+    "ICC Dockets 177, 181-A, 181-B findings on compromise settlement (OSU 2196, 18 Ind. Cl. Comm. 531): EO Apr. 19, 1879 amended Mar. 6, 1880 and Feb. 23, 1883; July 7, 1883 agreement, 23 Stat. 76, 79-80; restored May 1, 1886 except allotments; net judgment $3,500,000.00."
+  ],
+  "changes": [
+    "promise 2 reworded: \"permanent use and occupancy\" is the Commission's recital of the petitioners' claim in Docket 181-A, not a finding of its own.",
+    "Audit line added."
+  ],
+  "unverifiable": [
+    "No finding about the loss of the Columbia Reservation itself was located."
+  ],
+  "treatiesJsonErrors": []
+}

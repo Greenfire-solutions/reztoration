@@ -15,9 +15,22 @@
     "The land south of that line, about 12,000 acres of the valley's agricultural land according to the Ninth Circuit, was restored to the public domain to be sold, and about 89,000 acres of mostly mountain land were added on the north.",
     "Non-Indians living inside the new boundaries were to leave once paid for their improvements out of the proceeds of selling the former reservation land."
   ],
-  "status": "no-breach-found",
-  "breaches": [],
-  "today": "In Russ v. Wilkins, 624 F.2d 914 (9th Cir. 1980), the court recorded that the removal of non-Indians promised by the 1873 Act was never carried out because land sales did not raise enough money and Congress did not appropriate enough, and held that the Act of 1890 reduced the 1873 reservation. That ruling went against the Covelo Indian Community. The court also recorded a Secretary of the Interior restoration order of February 11, 1947 returning vacant land in the relinquished parts to tribal ownership.",
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "government-admission",
+      "date": "1885-02-27",
+      "what": "The Senate Committee on Indian Affairs, reporting by Senator Dawes, found that nine white occupants held about 97,500 of the reservation's 103,000 acres as fixed by the Act of March 3, 1873, without right or payment, leaving the Indians about 3,000 acres of valley land and 1,000 or 2,000 acres of upland, and that efforts to recover the land had been feeble.",
+      "whoFoundIt": "Senate Report No. 1522, 48th Congress, 2d Session (1885), pp. 1-4",
+      "source": {
+        "title": "Condition of Certain Indians in California (Investigation of management of Round Valley Indian Reservation), Senate Report No. 1522, 48th Congress, 2d Session, February 27, 1885",
+        "url": "https://shareok.org/items/ebd3a0c8-69dd-4264-925c-fb11e38f5188",
+        "publisher": "US Senate Committee on Indian Affairs, via University of Oklahoma Libraries (SHAREOK)"
+      },
+      "quote": "The committee are unable to find any excuse for this condition of things."
+    }
+  ],
+  "today": "In Russ v. Wilkins, 624 F.2d 914 (9th Cir. 1980), the court recorded that the removal of non-Indians promised by the 1873 Act was never carried out because land sales did not raise enough money and Congress did not appropriate enough, and held that the Act of 1890 reduced the 1873 reservation. That ruling went against the Covelo Indian Community. The court also recorded a Secretary of the Interior restoration order of February 11, 1947 returning approximately 7,531 acres of vacant land in the relinquished parts to tribal ownership.",
   "nationVoice": [],
   "sources": [
     {
@@ -29,14 +42,24 @@
       "title": "Russ v. Wilkins, 624 F.2d 914 (9th Cir. 1980)",
       "url": "https://static.case.law/f2d/624/cases/0914-01.json",
       "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Condition of Certain Indians in California (Investigation of management of Round Valley Indian Reservation), Senate Report No. 1522, 48th Congress, 2d Session, February 27, 1885",
+      "url": "https://shareok.org/items/ebd3a0c8-69dd-4264-925c-fb11e38f5188",
+      "publisher": "US Senate Committee on Indian Affairs, via University of Oklahoma Libraries (SHAREOK)"
     }
   ],
   "openQuestions": [
-    "The Ninth Circuit quotes the 1885 Senate (Dawes) committee report calling the reservation's administration a \"folly\" and finding efforts to expel settlers feeble. That report was not opened; read at first hand it may be a government admission that the 1873 Act's promise was not kept, which would support \"broken\".",
     "No Indian Claims Commission or Court of Claims decision about the 1873 restoration was located; the Round Valley peoples were within the Indians of California claims (settled), which were not read for this tract.",
-    "treaties.json lists no statute and no present-day tribe for this record; Royce gives 17 Stat. 633 and areas 544 and \"See 583\". Not edited.",
-    "The Round Valley Indian Tribes site (rvit.org) has a history page that returned only navigation text on 2026-11-08."
+    "The Round Valley Indian Tribes site (rvit.org) has a history page that returned only navigation text on 2026-11-08.",
+    "Audit 2026-11-08: opened Senate Report No. 1522 (48th Cong., 2d Sess., February 27, 1885) in the SHAREOK text of the Serial Set scan. Mr. Dawes reported for the Committee on Indian Affairs; the committee found 97,500 acres of the 1873 reservation held exclusively by white occupants without compensation, the Indians confined to a few thousand acres, and no excuse for it. Added as a government-admission breach; status raised from no-breach-found to broken. The report's 97,500 acres is its own table total of witnesses' estimates.",
+    "Audit 2026-11-08: removed a stale line saying treaties.json lists no statute or present-day tribe; it now links 17 Stat. 633 and names the Round Valley Indian Tribes."
   ],
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "plain": {
+    "promised": "Congress in 1873 cut the valley part of the Round Valley reservation for sale, added mountain land, and said settlers inside the new lines would be paid for improvements and made to leave.",
+    "happened": "The settlers never left. A Senate committee reported in 1885 that white occupants held about 97,500 of the 103,000 acres without right or payment, and found no excuse for it.",
+    "today": "Congress cut the reservation again in 1890. In 1947 about 7,531 acres of vacant land were returned to tribal ownership, and a 1980 court ruling held the 1890 Act had reduced the reservation."
+  }
 }

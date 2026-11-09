@@ -16,8 +16,32 @@
     "The United States was to appropriate $10,000 a year for five years, then $3,000 a year for ten years for education (Article 3).",
     "The agreement was expressly subject to ratification or rejection by Congress."
   ],
-  "status": "no-breach-found",
-  "breaches": [],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "never-ratified",
+      "date": "1966-11-09",
+      "what": "The Indian Claims Commission found that the December 10, 1873 agreement, under which the Jicarilla were to give up all other lands for a reserve near the Navajo reservation, was not ratified, and that the Jicarilla were not moved to that reserve.",
+      "whoFoundIt": "Indian Claims Commission, Jicarilla Apache Tribe v. United States, Docket 22-A, Additional Findings of Fact, finding 125 (1966)",
+      "source": {
+        "title": "Jicarilla Apache Tribe v. United States, Docket 22-A, Additional Findings of Fact, Part 2 (November 9, 1966), 17 Ind. Cl. Comm. 338, finding 125",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1416",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      },
+      "quote": "The treaty was not ratified."
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1963-08-26",
+      "what": "The Commission found that the Jicarilla held original Indian title to an area largely in northeast New Mexico, and that settlers, the military and other government agents gradually deprived them of it while the United States, without paying compensation, treated their lands as public lands. These are the lands outside the reserve that the unratified agreement would have had them give up.",
+      "whoFoundIt": "Indian Claims Commission, Jicarilla Apache Tribe v. United States, Docket 22-A, Findings of Fact (August 26, 1963), 12 Ind. Cl. Comm. 439",
+      "source": {
+        "title": "Jicarilla Apache Tribe v. United States, Docket 22-A, Findings of Fact (1963), 12 Ind. Cl. Comm. 439",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/746",
+        "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+      }
+    }
+  ],
   "today": "The President set the tract apart on March 25, 1874 \"subject to action of Congress\" and cancelled that order on July 18, 1876. The Indian Claims Commission found in Docket 22-A (1963) that the Jicarilla were deprived of their aboriginal title gradually, with no single date of taking, and without payment; the land claim was settled for $9,150,000 in 1971.",
   "nationVoice": [],
   "sources": [
@@ -45,13 +69,23 @@
       "title": "Jicarilla Apache Tribe v. United States, Docket 22-A, Final Award (1971), 25 Ind. Cl. Comm. 227",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2037",
       "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Jicarilla Apache Tribe v. United States, Docket 22-A, Additional Findings of Fact, Part 2 (November 9, 1966), 17 Ind. Cl. Comm. 338, finding 125",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1416",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
     }
   ],
   "openQuestions": [
-    "No source opened states in so many words that Congress never ratified this agreement; Royce and the March 25, 1874 order call it subject to Congress, and the reserve was cancelled in 1876. If a source confirms non-ratification, the status should be \"unratified\".",
-    "The Docket 22-A finding of a gradual taking of Jicarilla aboriginal land (1963) is not tied to this agreement; which Jicarilla record should carry it (for example the 1887 reservation order) is unsettled. It is not counted here.",
-    "The Jicarilla Apache Nation's own account was not searched in this pass."
+    "The Jicarilla Apache Nation's own account was not searched in this pass.",
+    "Audit 2026-11-08: Docket 22-A Additional Findings of Fact, finding 125 (17 Ind. Cl. Comm. 338, Nov. 9, 1966) states the 1873 agreement was not ratified and the Jicarilla were not moved to the reserve; never-ratified breach added. Under Jordan's 2026-11-08 rule for unratified treaties, the 1963 Commission finding that the United States took the Jicarilla aboriginal lands without compensation documents the taking of the lands this agreement would have ceded, so the status is broken (never ratified). That taking is carried in full by cession-1886-10-01-apache-eastern-bands (Royce 688), so sameEventAs points there and it is counted once. The 1971 $9,150,000 final award was a settlement (litigation)."
   ],
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "sameEventAs": "cession-1886-10-01-apache-eastern-bands",
+  "plain": {
+    "promised": "The Jicarilla Apache were to get a reserve on the San Juan River and yearly payments, and in return give up their claims to other lands, once Congress ratified the agreement.",
+    "happened": "The agreement was never ratified and the Jicarilla were not moved there. The Indian Claims Commission found the United States gradually took their homeland without paying for it.",
+    "today": "The land claim was settled for $9,150,000 in 1971. The same taking is recorded on the Jicarilla and Mescalero homeland record."
+  }
 }

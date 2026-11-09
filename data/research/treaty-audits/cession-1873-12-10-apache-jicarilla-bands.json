@@ -1,0 +1,21 @@
+{
+  "id": "cession-1873-12-10-apache-jicarilla-bands",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive OCR text of annualreportofbu218smit) p. 868-869: agreement concluded subject to approval of Congress; See EO of Mar. 25, 1874; See 563.",
+    "OSU Tribal Treaties Database text: Articles 1-4 match the promises; subject to ratification or rejection by Congress; no ratification tag.",
+    "ICC Docket 22-A Additional Findings Part 2 (OSU id 1416, 17 Ind. Cl. Comm. 338, Nov. 9, 1966), finding 125: 'The treaty was not ratified.' and the Jicarilla were not moved.",
+    "ICC Docket 22-A Findings (OSU id 746, Aug. 26, 1963): gradual taking of Jicarilla original title, without compensation, lands treated as public lands.",
+    "cession-1886-10-01-apache-eastern-bands already carries the 22-A finding as claims-commission (primary record, no sameEventAs of its own)."
+  ],
+  "changes": [
+    "Added never-ratified breach (finding 125) and claims-commission breach (1963 taking) per Jordan's unratified rule; status raised from no-breach-found to broken (never ratified).",
+    "Added sameEventAs cession-1886-10-01-apache-eastern-bands so the taking is counted once.",
+    "Removed two openQuestions now answered; added plain and audit line."
+  ],
+  "unverifiable": [
+    "Jicarilla Apache Nation's own account not searched."
+  ],
+  "treatiesJsonErrors": []
+}

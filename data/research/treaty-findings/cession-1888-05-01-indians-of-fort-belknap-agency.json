@@ -1,0 +1,77 @@
+{
+  "id": "cession-1888-05-01-indians-of-fort-belknap-agency",
+  "name": "Agreement with the Indians of the Fort Belknap Agency, 1887 (ratified by the Act of May 1, 1888): the Fort Belknap reservation (Royce 694)",
+  "aka": [
+    "Fort Belknap Reservation boundary clause, Act of May 1, 1888"
+  ],
+  "sameEventAs": "cession-1888-05-01-gros-ventre-piegan",
+  "ratified": "1888-05-01",
+  "citation": "25 Stat. 113",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg113.pdf",
+  "nations": [
+    "A'aninin (Gros Ventre)",
+    "Nakoda (Assiniboine) of Fort Belknap"
+  ],
+  "promises": [
+    "The Indians of the Fort Belknap agency kept a reservation running from the Milk River south to the crest of the Little Rocky Mountains, between Snake Creek and Peoples Creek (Royce).",
+    "They gave up their rights in the rest of the great joint reservation of the Gros Ventre, Piegan, Blood, Blackfeet and River Crow (Royce entry 692)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1967-03-31",
+      "what": "The Commission found the 14,969,156 acres ceded under the 1886-87 agreements ratified on May 1, 1888 were worth $11,975,324.80 and that the agreed consideration of $4,300,000 was unconscionable on its face.",
+      "whoFoundIt": "Indian Claims Commission, Blackfeet and Gros Ventre Tribes v. United States, Docket 279-A, 18 Ind. Cl. Comm. 241 (1967)",
+      "source": {
+        "title": "Blackfeet and Gros Ventre Tribes v. United States, Docket 279-A, Opinion of the Commission (1967), 18 Ind. Cl. Comm. 241",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2749",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "Royce 694 is the reservation kept. The ceded joint reservation was 14,969,156 acres (Docket 279-A, 1967).",
+  "compensation": "Counted under cession-1888-05-01-gros-ventre-piegan: the Gros Ventre shared in the 1968 Blackfeet and Gros Ventre final judgment and the Fort Belknap Assiniboine in the Assiniboine award (Docket 279-A).",
+  "today": "The Fort Belknap Reservation remains the home of the Gros Ventre and Assiniboine. Its Little Rocky Mountains part was later ceded; that cession is not recorded here.",
+  "nationVoice": [
+    {
+      "nation": "Fort Belknap Indian Community (A'aninin and Nakoda)",
+      "summary": "Describes the 1888 reservation as the remnant of the territory the 1851 and 1855 treaties recognised, and the later loss of the Little Rockies as forced by mining pressure.",
+      "url": "https://ftbelknap.org/history"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report, Bureau of American Ethnology, 1899), schedule p. 926, Indians of Fort Belknap agency, May 1, 1888",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/926/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Act of May 1, 1888, ch. 213, 25 Stat. 113",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg113.pdf",
+      "publisher": "U.S. Government Publishing Office, govinfo"
+    },
+    {
+      "title": "Blackfeet and Gros Ventre Tribes v. United States, Docket 279-A, Opinion of the Commission (1967), 18 Ind. Cl. Comm. 241",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2749",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History",
+      "url": "https://ftbelknap.org/history",
+      "publisher": "Fort Belknap Indian Community"
+    }
+  ],
+  "openQuestions": [
+    "Royce 694 is the Fort Belknap reservation the Indians kept under the same Act; the taking is the joint cession recorded as cession-1888-05-01-gros-ventre-piegan, so this file is marked sameEventAs that record. The Fort Peck (693) and Blackfeet (695) agency rows are not so marked; whether they should be is for the auditor.",
+    "The Fort Belknap Indian Community's Docket 250 decisions (1962) were seen in the ICC index but not read for this record.",
+    "The govinfo statute page and the 279-A figures were taken over from the primary record and spot-checked in the 1967 opinion (the 14,969,156-acre stipulation); the Commission's full findings were not re-read."
+  ],
+  "plain": {
+    "promised": "The Gros Ventre and Assiniboine at Fort Belknap kept a reservation from the Milk River to the Little Rocky Mountains, in return for giving up the rest of the great joint reservation in northern Montana.",
+    "happened": "The Indian Claims Commission found in 1967 that the 14,969,156 acres given up were worth $11,975,324.80 and that the $4,300,000 promised was unconscionable on its face.",
+    "today": "Awards were made in 1968 to the Blackfeet and Gros Ventre and to the Assiniboine. The taking is counted once, under the joint cession record."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

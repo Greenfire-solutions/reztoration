@@ -1,0 +1,17 @@
+{
+  "id": "cession-1881-12-20-chippewa-bois-forte-band",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive text) pp. 904-905: Vermilion Lake reserve in T. 62 N., R. 16 W.: part of SE quarter of sec. 23 E of Sucker Bay, the SW quarter, lot (blank) \"being the most southerly lot in the SE. quarter of sec. 24\", fractional secs. 25, 26, part of sec. 35 N of the lake; area 629.",
+    "ICC Docket 18-D (OSU 1278, 1190, 1705, 2087): all concern Royce area 482 and the 1866 treaty; 1977 opinion disallows Article 3(2d) buildings put up several miles east of the reservation's eastern boundary."
+  ],
+  "changes": [
+    "promise corrected: the lot is the most southerly lot in the SE quarter of section 24, not the southernmost lot of the section.",
+    "Audit line added."
+  ],
+  "unverifiable": [
+    "What became of the Vermilion reserve under the Nelson Act is left to cession-1889-11-12-chippewa-bois-forte-band."
+  ],
+  "treatiesJsonErrors": []
+}

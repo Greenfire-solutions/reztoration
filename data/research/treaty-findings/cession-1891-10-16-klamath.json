@@ -1,0 +1,79 @@
+{
+  "id": "cession-1891-10-16-klamath",
+  "sameEventAs": "cession-1855-11-16-klamath",
+  "name": "Executive order of October 16, 1891 extending the Hoopa Valley Reservation over the Klamath River strip",
+  "aka": [
+    "Hoopa Valley Reservation extension",
+    "Klamath River addition (now the Yurok Reservation)"
+  ],
+  "signed": "1891-10-16",
+  "citation": "Executive Order of October 16, 1891 (President Benjamin Harrison)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/942/mode/2up",
+  "nations": [
+    "Yurok Tribe"
+  ],
+  "promises": [
+    "Not a treaty. Royce records that the President extended the Hoopa Valley Reservation to take in a tract one mile wide on each side of the Klamath River, from the old reservation limits to the Pacific Ocean (Royce, p. 942).",
+    "Royce notes the extension took in the Klamath River Reservation set apart by executive order of November 16, 1855 (Royce, p. 943). The Supreme Court in Mattz v. Arnett treats the reservation as existing under this 1891 order."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1892-06-17",
+      "what": "Eight months later Congress declared the lands of the 1855 Klamath River Reservation open to homestead settlement, entry and purchase, with allotments for Indians living there. Royce says the Act was passed without reference to the 1891 order. The Supreme Court held in 1973 that the Act did not end the reservation.",
+      "whoFoundIt": "Act of June 17, 1892, ch. 120, 27 Stat. 52, as read in Mattz v. Arnett, 412 U.S. 481 (1973)",
+      "source": {
+        "title": "Mattz v. Arnett, 412 U.S. 481 (1973)",
+        "url": "https://static.case.law/us/412/cases/0481-01.json",
+        "publisher": "Caselaw Access Project, Harvard Law School Library"
+      },
+      "quote": "subject to settlement, entry, and purchase under the laws of the United States granting homestead rights"
+    }
+  ],
+  "landTaken": "The 1892 Act opened the lands of the 1855 reservation other than allotments and reserved village sites; no acreage taken was found in this pass.",
+  "compensation": "Under the 1892 Act sale proceeds were to fund the maintenance and education of the Indians then on the lands (Mattz, 1973). No other compensation for this land was found.",
+  "today": "Mattz v. Arnett (1973) held the Klamath River Reservation was not terminated by the 1892 Act and its land is still Indian country. It is now the Yurok Reservation.",
+  "nationVoice": [
+    {
+      "nation": "Yurok Tribe",
+      "summary": "The Tribe describes the 1855 reservation as much smaller than Yurok ancestral territory and recounts later relocations and squatters on the reservation.",
+      "url": "https://www.yuroktribe.org/formation-of-reservations"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 942-943",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/942/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Mattz v. Arnett, 412 U.S. 481 (1973)",
+      "url": "https://static.case.law/us/412/cases/0481-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library"
+    },
+    {
+      "title": "Act of June 17, 1892, ch. 120, 27 Stat. 52 (Klamath River Reservation)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg52.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Formation of Reservations",
+      "url": "https://www.yuroktribe.org/formation-of-reservations",
+      "publisher": "Yurok Tribe"
+    }
+  ],
+  "openQuestions": [
+    "Same land and the same taking as cession-1855-11-16-klamath (the 1892 Act), so sameEventAs points there and the taking is counted once.",
+    "treaties.json notes this order is also recorded as cession-1891-10-16-hupa-s-fork-redwood-and-grouse-creek-ban; that row has no findings file yet and should point here or at the 1855 record when it is done.",
+    "The 1891 extension also took in the strip between the old Hoopa square and the 1855 reserve; the 1892 Act reached only the 1855 reserve. Whether anything was taken from the connecting strip was not researched.",
+    "Short v. United States (Court of Claims, 1973) on Hoopa Valley timber revenue and the Yurok was not read in this pass."
+  ],
+  "plain": {
+    "promised": "Not a treaty. An 1891 presidential order added a strip one mile each side of the Klamath River, down to the ocean, to the Hoopa Valley Reservation, taking in the 1855 Klamath River Reservation.",
+    "happened": "In 1892 Congress opened the 1855 reservation lands to homesteaders without regard to the 1891 order. The Supreme Court held in 1973 that the reservation was not ended.",
+    "today": "No compensation beyond the 1892 sale proceeds was found. The land is the Yurok Reservation."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

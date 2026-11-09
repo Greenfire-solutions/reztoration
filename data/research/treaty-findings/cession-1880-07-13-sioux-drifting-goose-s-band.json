@@ -16,7 +16,7 @@
   ],
   "status": "no-breach-found",
   "breaches": [],
-  "landTaken": "Royce area 613, the James River reserve, restored to the public domain. The South Dakota State Archives gives it as a 65,000-acre reservation.",
+  "landTaken": "Royce area 613, the James River reserve, restored to the public domain. The South Dakota State Archives describes it as a 65,000-acre reservation.",
   "compensation": "None found.",
   "today": "The South Dakota State Archives records that Drifting Goose, leader of the Hunkpati band of Yanktonai, refused to sign the 1859 treaty, and that in 1880 he and his people gave up the reservation and settled at Crow Creek Agency. No court, Commission or government finding about this revocation was located.",
   "nationVoice": [],
@@ -41,7 +41,8 @@
     "Rule for executive-order land (Jordan, 2026-11-08): an order revoking an executive-order reservation is not by itself a breach. No finding about this land was found: the Yankton title in Docket 332-C stops at Snake Creek, and the Yanktonai intervention there was dismissed. A Yanktonai or Crow Creek claim reaching the James River townships, if any, is the lead.",
     "Whether the band consented to leaving the reserve, as the archives' wording suggests, or was pressed by settlement, is not settled in the sources opened.",
     "Royce's scan reads the revocation date as \"July ]S, 1880\" in the 1879 remark and July 13, 1880 in the 1880 entry; July 13 is used.",
-    "The Crow Creek Sioux Tribe's own account was not located."
+    "The Crow Creek Sioux Tribe's own account was not located.",
+    "Audit 2026-11-08: Royce p. 902 (restores the reserve of June 27, 1879) and p. 903 (\"See 613\") reopened; the archives guide and Docket 332-C order (OSU 1307) reread. No finding about this land found in ICC full-text searches. Status stays no-breach-found under the executive-order rule."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

@@ -1,0 +1,140 @@
+{
+  "name": "Pueblo de Taos grant, confirmed by Congress December 22, 1858 (Royce Area 670)",
+  "aka": [
+    "Royce 670, Taos Pueblo",
+    "Act of December 22, 1858 (11 Stat. 374)"
+  ],
+  "signed": "1858-12-22",
+  "citation": "Act of December 22, 1858, ch. 5, 11 Stat. 374 (confirmation); patent November 1, 1864; Act of June 7, 1924, 43 Stat. 636",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-11/pdf/STATUTE-11-Pg374.pdf",
+  "nations": [
+    "Taos Pueblo"
+  ],
+  "promises": [
+    "Congress confirmed the Pueblo of Taos's land claim, as reported favorably by the Surveyor General of New Mexico, and ordered it surveyed and patented (Act of December 22, 1858, 11 Stat. 374).",
+    "The Act says the confirmation is only a relinquishment of the United States' own title and claim, and does not affect any adverse valid rights.",
+    "Royce records the grant as about 17,360 acres, confirmed in 1858 and patented on November 1, 1864, including the 926 acres later occupied by the town of Taos (Indian Claims Commission).",
+    "The Pueblo Lands Act of 1924 made the United States liable, and directed the Pueblo Lands Board to award compensation, for Pueblo land and water lost through the United States' failure to seasonably prosecute the Pueblo's rights (Section 6).",
+    "Under the Treaty of Guadalupe Hidalgo (1848) the Pueblo Indians were to be protected in the free enjoyment of their liberty and property, as the Indian Claims Commission records."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1974-02-04",
+      "what": "The Indian Claims Commission held that the Pueblo Lands Board's determination of March 17, 1927, which left the 926 acres of the town of Taos inside the Pueblo's confirmed grant to non-Indians with no award, was a Fifth Amendment taking. It awarded $297,684.67 plus 5 percent simple interest from March 17, 1927.",
+      "whoFoundIt": "Pueblo of Taos v. United States, Docket 357-A, 33 Ind. Cl. Comm. 82 (1974)",
+      "source": {
+        "title": "Pueblo of Taos v. United States, Docket 357, Interlocutory Order of February 4, 1974, 33 Ind. Cl. Comm. 127",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1733",
+        "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+      }
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1975-05-14",
+      "what": "The Court of Claims affirmed the Commission. The United States conceded on appeal that it owed Taos $297,684.67 for extinguishing the Pueblo's title to the 926 acres of the town of Taos, and disputed only the interest.",
+      "whoFoundIt": "United States v. Pueblo of Taos, 207 Ct. Cl. 53, 515 F.2d 1404 (1975)",
+      "source": {
+        "title": "United States v. Pueblo of Taos, 207 Ct. Cl. 53 (1975)",
+        "url": "https://static.case.law/us-ct-cl/207/cases/0053-01.json",
+        "publisher": "Caselaw Access Project, Harvard Law School"
+      }
+    },
+    {
+      "kind": "government-admission",
+      "date": "1933-05-31",
+      "what": "Congress authorized $84,707.09 for the Pueblo of Taos 'in addition to the awards made by the Pueblo Lands Board', in payment of the United States' liability under the 1924 Act for land and water divested from the Pueblo.",
+      "whoFoundIt": "Act of May 31, 1933, ch. 45, sec. 2, 48 Stat. 108",
+      "source": {
+        "title": "Act of May 31, 1933, ch. 45, 48 Stat. 108",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg108.pdf",
+        "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
+      },
+      "quote": "In addition to the awards made by the Pueblo Lands Board"
+    }
+  ],
+  "landTaken": "926 acres of the 1689 grant occupied by the town of Taos (Indian Claims Commission, 1974), plus other grant land outside the town that the Pueblo Lands Board confirmed to non-Indians (acreage not read).",
+  "compensation": "For land outside the town, the Board first awarded $48,497.00 and in 1930 a further $27,631.85, and Congress added $84,707.09 in 1933; the Commission refused interest on those sums. For the town of Taos, the Final Award of March 17, 1976 gave $297,684.67 plus 5 percent simple interest from March 17, 1927 until paid, with offsets reserved to Docket 357.",
+  "today": "Separately, the Blue Lake area in the mountains above the grant was taken into a national forest in 1906. Public Law 91-550, signed on December 15, 1970, returned it; President Nixon called the 1906 taking of 48,000 acres an injustice. That land lies outside this grant and is not counted as a breach here. Whether the 1976 award was paid was not researched.",
+  "nationVoice": [
+    {
+      "nation": "Taos Pueblo",
+      "summary": "The Pueblo says its people have lived in and cared for the Taos valley for millennia, that its land base is 99,000 acres, that Blue Lake was taken in 1906 and returned in 1970, and that the return capped a long history of struggle.",
+      "url": "https://taospueblo.com/about/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule for 1886, block 'Act of Congress, Stat. L. XI, 374', pp. 920-921",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Act of December 22, 1858, ch. 5, 11 Stat. 374, An Act to confirm the Land Claim of certain Pueblos and Towns in the Territory of New Mexico",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-11/pdf/STATUTE-11-Pg374.pdf",
+      "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
+    },
+    {
+      "title": "Act of June 7, 1924, ch. 331, 43 Stat. 636 (Pueblo Lands Act)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg636.pdf",
+      "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
+    },
+    {
+      "title": "Act of May 31, 1933, ch. 45, 48 Stat. 108",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg108.pdf",
+      "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
+    },
+    {
+      "title": "Pueblo of Santa Clara v. United States, Docket 356, Opinion on Motion for Summary Judgment: Townsite of Espanola, 41 Ind. Cl. Comm. 29 (October 5, 1977)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1348",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Pueblo of Taos v. United States, Docket 357-A, Findings of Fact, 33 Ind. Cl. Comm. 119 (February 4, 1974)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1465",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Pueblo of Taos v. United States, Docket 357, Order to Show Cause, 24 Ind. Cl. Comm. 414 (February 10, 1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1914",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Pueblo of Taos v. United States, Docket 357-A, Final Award, 37 Ind. Cl. Comm. 520 (March 17, 1976)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1763",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Pueblo of Taos v. United States, Docket 357, Opinion of the Commission, 15 Ind. Cl. Comm. 688 (September 8, 1965)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/620",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Righting a Wrong: The Return of Blue Lake to the Taos Pueblo",
+      "url": "https://text-message.blogs.archives.gov/2020/11/10/righting-a-wrong-the-return-of-blue-lake-to-the-taos-pueblo/",
+      "publisher": "US National Archives, The Text Message blog"
+    },
+    {
+      "title": "About Taos Pueblo",
+      "url": "https://taospueblo.com/about/",
+      "publisher": "Taos Pueblo"
+    }
+  ],
+  "openQuestions": [
+    "The date 1886-10-01 in treaties.json is not an event date for this land. Royce prints the Pueblo grants under a block headed 'Oct. 1, Act of Congress, Stat. L. XI, 374'; 11 Stat. 374 is the Act of December 22, 1858, which confirmed the grant. This is land the Pueblo kept, not land it ceded. Not edited.",
+    "Royce's acreage for Taos reads '17,360.r.5' in the scan; the Commission gives 'approximately 17,360 acres', which is used.",
+    "The Board's appraisal of all Taos grant land lost reads $458,520.61 or $458,523.61 in different places of the scanned 1971 order; not used.",
+    "Whether the 1976 award with interest was paid, and how the reserved offsets in Docket 357 were applied, was not traced.",
+    "Public Law 91-550 itself was not opened; the 1970 return is cited from the National Archives account.",
+    "The statute link in treaties.json (ops.libs.uga.edu) was not used; the Act was read on govinfo."
+  ],
+  "plain": {
+    "promised": "In 1858 Congress confirmed Taos Pueblo's grant, and an 1864 patent covered about 17,360 acres, including the 926 acres where the town of Taos stands.",
+    "happened": "In 1927 the Pueblo Lands Board left the town's 926 acres to non-Indians with no payment. The Indian Claims Commission called it a Fifth Amendment taking in 1974; the Court of Claims affirmed, and the government conceded it owed $297,684.67.",
+    "today": "The Commission awarded $297,684.67 plus interest from 1927 in 1976; whether it was paid is not recorded here. Blue Lake, outside the grant, was returned in 1970."
+  },
+  "id": "cession-1886-10-01-taos-pueblo",
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cession-1875-03-25-crow",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce page scans (archive.org leaves) p. 880: Mar. 25, 1875, revokes order of Jan. 31, 1874 (Judith Basin)",
+    "Royce p. 864: Aug. 16, 1873 Crow agreement",
+    "Royce p. 870 (OCR and index): Jan. 31, 1874 order bounds, country drained by the Judith, Arrow and Dog rivers",
+    "Royce p. 865: Crow refused to remove; Congress failed to ratify; See 557",
+    "ICC full text \"Crow Judith Basin\": only Blackfeet/Gros Ventre id 1941",
+    "Court of Claims case names, us-ct-cl vols 1-231 (static.case.law CasesMetadata), scanned for the nation: Crow Nation 81 Ct. Cl. 238 (1935) concerns 1851/1868 treaties and River Crow interests north of the Missouri"
+  ],
+  "changes": [
+    "the January 31, 1874 order description re-cited from Royce p. 864 to p. 870; Royce pp. 870-871 added to sources"
+  ],
+  "unverifiable": [
+    "Crow Tribe's own account not found"
+  ]
+}

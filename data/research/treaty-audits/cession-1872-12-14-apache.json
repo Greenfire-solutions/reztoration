@@ -1,0 +1,16 @@
+{
+  "id": "cession-1872-12-14-apache",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive OCR text of annualreportofbu218smit) pp. 860-861: three Dec. 14, 1872 orders (Chiricahua reserve; Camp Grant restored; San Carlos addition); area 600 'See' and revoked Oct. 30, 1876.",
+    "ICC Docket 22-D findings (OSU id 2005) findings 10-12: White Mountain reserve enlarged Dec. 14, 1872; taking outside the reserve May 1, 1873; later reductions dated. Opinion (OSU id 1611): plaintiffs suggested Dec. 14, 1872. Matches today and openQuestions."
+  ],
+  "changes": [
+    "Removed the false openQuestion that treaties.json lists no present-day tribes; kept the Royce 'See 600' note; audit line added."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "presentDayTribes omits the White Mountain Apache Tribe, though the San Carlos addition was made to the White Mountain reservation."
+  ]
+}

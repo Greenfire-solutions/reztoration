@@ -12,7 +12,7 @@
   ],
   "promises": [
     "This was an executive order, not a treaty. The President added to the Columbia Reservation of April 19, 1879 the country from its southern line down the Okanogan to the Columbia, down the Columbia to the outlet of Lake Chelan, along the south shore of the lake to Shehekin Creek, and west to 44 degrees west of Washington.",
-    "The Commission describes the reservation, as amended in 1880 and 1883, as set apart for the permanent use and occupancy of Chief Moses and his people."
+    "The Commission's 1967 settlement findings, reciting the Colville Tribes' claim in Docket 181-A, describe the reservation, as amended by the orders of March 6, 1880 and February 23, 1883, as set apart for the permanent use and occupancy of Chief Moses and his people."
   ],
   "status": "no-breach-found",
   "breaches": [],
@@ -46,7 +46,8 @@
   "openQuestions": [
     "Royce files Moses' people as \"Nez Perce (Moses' band)\"; treaties.json already carries a correction to the Colville Tribes for this id.",
     "No court or Commission finding about the loss of the Columbia Reservation itself was located; the 1967 settlement made no finding. See also cession-1879-04-19-nez-perc-moses-band and cession-1886-05-01-nez-perc-moses-band.",
-    "The order was read only in Royce's summary."
+    "The order was read only in Royce's summary.",
+    "Audit 2026-11-08: Royce p. 898 and the Docket 177/181-A/181-B settlement findings (OSU 2196) reopened. The \"permanent use and occupancy\" wording is the Commission's recital of the petitioners' claim, not its own finding; promise reworded. 23 Stat. 76, 79-80, the May 1, 1886 restoration and the $3,500,000.00 net judgment confirmed."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

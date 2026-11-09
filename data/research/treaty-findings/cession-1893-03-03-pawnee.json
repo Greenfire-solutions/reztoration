@@ -1,0 +1,76 @@
+{
+  "id": "cession-1893-03-03-pawnee",
+  "name": "Agreement with the Pawnee, November 23, 1892, ratified March 3, 1893",
+  "aka": [
+    "Pawnee allotment and cession agreement of 1892"
+  ],
+  "signed": "1892-11-23",
+  "ratified": "1893-03-03",
+  "citation": "Act of March 3, 1893, ch. 209, sec. 12, 27 Stat. 612, 644",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg612.pdf",
+  "nations": [
+    "Pawnee Nation of Oklahoma"
+  ],
+  "promises": [
+    "The Pawnee ceded their reservation between the Cimarron and Arkansas rivers subject to allotments in severalty to tribal members (27 Stat. 644; ICC Docket 10).",
+    "The United States agreed to pay $1.25 an acre for all surplus land after allotment: $80,000 per capita on ratification and the rest credited to the tribe in the Treasury at 5 percent interest (27 Stat. 644; ICC Docket 10, finding 160)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1950-07-14",
+      "what": "The Indian Claims Commission held that surplus land ceded under the 1892 agreement had to be paid for under its terms. For 88.43 acres patented to the town of Pawnee in 1907, the $110.55 was credited only around March 17, 1921 and the agreed 5 percent interest from 1893 was never paid; for 25.54 acres patented to the Southern Baptist Home Mission Board in 1920 the tribe received no payment. It awarded $155.00 and $31.90 with interest (Claims VI and VII).",
+      "whoFoundIt": "Indian Claims Commission, Docket 10, 1 Ind. Cl. Comm. 245 (1950); findings 160 to 162, 8 Ind. Cl. Comm. 648 (1960)",
+      "source": {
+        "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Opinion (1 Ind. Cl. Comm. 245, July 14, 1950)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/91",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    }
+  ],
+  "landTaken": "The Court of Claims, as summarized by the Commission, found 171,088.37 acres of surplus land after allotment, of which 755 acres were reserved for school and agency use (ICC Docket 10, finding 160).",
+  "compensation": "Under the agreement $1.25 an acre was due on the surplus; the Commission records that the Court of Claims (54 Ct. Cl. 1) found a just claim for 170,333.37 acres at that rate with 5 percent interest from March 3, 1893. The Docket 10 final award of July 6, 1962 included $155.00 for Claim VI and $31.90 with interest for Claim VII.",
+  "today": "Not researched past the 1962 final award.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 946-947",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/946/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Act of March 3, 1893, ch. 209, 27 Stat. 612 (Indian appropriations, fiscal 1894)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg612.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Opinion (1 Ind. Cl. Comm. 245, July 14, 1950)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/91",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Additional Findings of Fact (8 Ind. Cl. Comm. 648, June 14, 1960)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/404",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Pawnee Indian Tribe of Oklahoma v. United States, Docket 10, Amended Conclusions of Law and Final Award (July 6, 1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/293",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "The breaches the Commission found are small: unpaid interest and an unpaid 25.54 acres. No ruling on whether $1.25 an acre was itself unconscionable was found for this cession.",
+    "Claim V in Docket 10 concerns a 4,800-acre strip of the Nebraska reservation paid for in 1875; it belongs to the earlier Nebraska cessions, not this record.",
+    "The Court of Claims report, Pawnee Tribe v. United States, 54 Ct. Cl. 1, was not found on the Caselaw Access Project and was not opened.",
+    "The Pawnee Nation website returned 403 to an automated request; its account was not read."
+  ],
+  "plain": {
+    "promised": "In 1892 the Pawnee gave up their Oklahoma reservation except for individual allotments. The United States promised $1.25 an acre for the rest, with interest on what it held.",
+    "happened": "The Indian Claims Commission found the United States paid for 88.43 acres only in 1921, without the promised interest, and never paid for 25.54 acres it patented to a mission board.",
+    "today": "The Commission awarded $155.00 and $31.90 with interest, part of a larger 1962 award."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cession-1874-12-15-sioux-wahpeton",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce page scans (archive.org leaves) p. 878: Dec. 15, 1874, Stat. L. XVIII, 291, Shoshoni",
+    "ICC Docket 63 findings and opinion (ids 22, 434): figures and quote exact",
+    "sameEventAs cession-1872-09-26-sioux-wahpeton kept"
+  ],
+  "changes": [
+    "audit line added to openQuestions"
+  ],
+  "unverifiable": [
+    "Final judgment in Docket 63 not re-read"
+  ],
+  "treatiesJsonErrors": [
+    "Stale: naming error already corrected in treaties.json"
+  ]
+}

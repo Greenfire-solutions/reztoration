@@ -11,7 +11,7 @@
     "Apsáalooke (Crow Tribe of Montana)"
   ],
   "promises": [
-    "Not a treaty: a presidential order. The order of January 31, 1874 had set apart the Judith Basin country, the land drained by the Judith, Arrow and Dog rivers, as a reserve for the Crow under an agreement of August 16, 1873, subject to the approval of Congress (Royce p. 864).",
+    "Not a treaty: a presidential order. The order of January 31, 1874 had set apart, subject to the approval of Congress, a reserve for the Crow under the agreement of August 16, 1873, bounded to include all the country drained by the Judith, Arrow and Dog rivers (Royce p. 870; the agreement is at Royce p. 864).",
     "This order revoked the January 31, 1874 order (Royce p. 880). Royce gives the reason: the Crow refused to remove, and Congress did not ratify the agreement (Royce p. 865).",
     "The Crow reservation under the treaty of May 7, 1868 was not reduced by this order."
   ],
@@ -39,12 +39,18 @@
       "title": "Crow Tribe of Indians v. United States, Docket 54, Additional Findings of Fact (February 12, 1958)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/407",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 870-871",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/870/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
     }
   ],
   "openQuestions": [
     "An executive order taking back executive-order land is not a breach by itself (Jordan, 2026-11-08), and no court, claims-commission, Act-of-Congress or government finding about the Judith Basin reserve was found.",
     "The unratified Crow agreement of August 16, 1873 is not in the queue; it may deserve an extra- entry.",
-    "The Crow Tribe's own account of the Judith Basin removal plan was not found."
+    "The Crow Tribe's own account of the Judith Basin removal plan was not found.",
+    "Audit 2026-11-08 (round 13): the description of the January 31, 1874 order was cited to Royce p. 864, which carries only the August 16, 1873 agreement; the order and its Judith, Arrow and Dog rivers bounds are on Royce p. 870. Citation corrected and source added. Royce p. 880 (revocation) and p. 865 (Crow refused to remove, Congress failed to ratify) re-checked on the page scans. ICC full-text search \"Crow Judith Basin\" returns only a Blackfeet and Gros Ventre decision (id 1941); Crow Nation v. United States, 81 Ct. Cl. 238 (1935), concerns the 1851 and 1868 treaties and the 1873-1875 Blackfeet orders, not this reserve."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

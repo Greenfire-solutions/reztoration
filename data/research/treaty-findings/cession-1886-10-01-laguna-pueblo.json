@@ -1,0 +1,74 @@
+{
+  "id": "cession-1886-10-01-laguna-pueblo",
+  "name": "Pueblo of Laguna grant (Spanish grant of 1689), listed by Royce among the New Mexico Pueblo grants",
+  "aka": [
+    "Laguna Pueblo Grant",
+    "Cruzate grant to Laguna"
+  ],
+  "citation": "Royce schedule p. 922 (Royce area 679)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up",
+  "nations": [
+    "Pueblo of Laguna"
+  ],
+  "promises": [
+    "This was not a cession. Royce lists the Pueblo of Laguna's land as a Spanish grant of 1689 of 125,225 acres, among the Pueblo grants recognized by the United States.",
+    "In the Pueblo Lands Act of 1924 the United States, acting as guardian of the Pueblo Indians, undertook to quiet title to lands within Pueblo grants and to pay for lands it could have recovered for the Pueblos but did not."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "None found within the grant. The Pueblo Lands Board's Laguna report recommended compensation to non-Indian claimants (the Cebolleta Grant, and Cruz Baca and his wife) for lands they lost through compromises with Laguna.",
+  "compensation": "The Act of May 31, 1933 paid $30,668.87 to non-Indian claimants within the Pueblo of Laguna whose claims the Board had not sustained. Laguna is not among the pueblos to which that Act paid compensation for divested land.",
+  "today": "Separately, in Docket 227 the Indian Claims Commission concluded on February 28, 1967 that Laguna had proved Indian title to a larger aboriginal area, less any valid Spanish or Mexican grants within it, and that the United States deprived Laguna of those lands without compensation. That claim was compromised for a net final judgment of $900,000.00 on December 11, 1970. That finding concerns Laguna's aboriginal land outside its grant, not the grant this record maps, so it is not counted here.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 922, Laguna Pueblo, Spanish grant 1689",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Act of June 7, 1924, ch. 331, 43 Stat. 636 (Pueblo Lands Act)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg636.pdf",
+      "publisher": "US Government Publishing Office, govinfo"
+    },
+    {
+      "title": "Act of May 31, 1933, ch. 45, 48 Stat. 108 (payments to Indian pueblos under the Pueblo Lands Act)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg108.pdf",
+      "publisher": "US Government Publishing Office, govinfo"
+    },
+    {
+      "title": "United States Pueblo Lands Board Report Regarding Pueblo of Laguna (MSS 81 SC, December 5, 1931)",
+      "url": "https://nmarchives.unm.edu/repositories/22/resources/1364",
+      "publisher": "UNM Center for Southwest Research, New Mexico Archives Online"
+    },
+    {
+      "title": "Pueblo of Laguna v. United States, Dockets 227, 266, 229, Interlocutory Order, 17 Ind. Cl. Comm. 700 (February 28, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2130",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Pueblo of Laguna v. United States, Docket 227, Findings of Fact on Compromise Settlement, 24 Ind. Cl. Comm. 197 (December 11, 1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2159",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Pueblo of Laguna v. United States, Docket 227, Final Award (December 11, 1970)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/984",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Act of December 22, 1858, ch. 5, 11 Stat. 374 (confirming the land claims of certain pueblos and towns in New Mexico)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-11/pdf/STATUTE-11-Pg374.pdf",
+      "publisher": "US Government Publishing Office, govinfo"
+    }
+  ],
+  "openQuestions": [
+    "The date 1886-10-01 is the heading of Royce's schedule section, not an event; this record is Laguna's grant, land kept rather than ceded. treaties.json names it a \"cession\" and links a statute PDF (679r.pdf, not opened).",
+    "Laguna is not named in the Act of December 22, 1858 (11 Stat. 374), under whose heading Royce prints it, and Royce gives Laguna no confirmation or patent date. How and when the United States recognized the 1689 grant was not settled: a search summary of J. J. Bowden's articles says the Surveyor General questioned the 1689 grant papers and Congress never acted on that claim, but newmexicohistory.org would not load to confirm.",
+    "If Royce area 679 overlaps the aboriginal area in the Commission's Finding 37 (Docket 227) outside any valid grant, the 1967 finding would apply to this record and it would be broken; the map was not compared.",
+    "The Pueblo Lands Board report on Laguna was read only in its archive description.",
+    "The Pueblo of Laguna's own account of its land was not found on lagunapueblo-nsn.gov."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

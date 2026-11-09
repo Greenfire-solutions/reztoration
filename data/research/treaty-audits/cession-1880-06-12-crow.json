@@ -1,0 +1,21 @@
+{
+  "id": "cession-1880-06-12-crow",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "22 Stat. 42-43 (govinfo): majority of adult males per Article 11 of the 1868 treaty; boundaries; first to fourth considerations; $15,000 survey; first of 25 $30,000 installments; Approved Apr. 11, 1882.",
+    "Royce 1899 schedule (Internet Archive text) pp. 898-900: May 14, 1880 agreement not ratified by the Crow, replaced by June 12, 1880; area 619, Montana 1.",
+    "81 Ct. Cl. 238 (static.case.law): \"approximately 1,559,000 acres\" for $30,000 a year for 25 years; \"There has been no taking of any lands from the Crow Indians\"; petition dismissed.",
+    "ICC: all Crow decisions are Docket 54 (1851-1868 lands); full-text searches on this cession found nothing."
+  ],
+  "changes": [
+    "Third-consideration promise corrected: the cattle charge applied only if the tribe consented to crossing or grazing.",
+    "Audit line added."
+  ],
+  "unverifiable": [
+    "Whether all 25 annual payments were appropriated was not traced."
+  ],
+  "treatiesJsonErrors": [
+    "statute is empty for this id; the ratifying Act is 22 Stat. 42."
+  ]
+}

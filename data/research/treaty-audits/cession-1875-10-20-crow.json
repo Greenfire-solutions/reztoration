@@ -1,0 +1,17 @@
+{
+  "id": "cession-1875-10-20-crow",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce page scans (archive.org leaves) p. 882: Oct. 20, 1875 addition, Yellowstone at 107 W. to Big Timber creek, 20-mile line",
+    "Royce p. 884: Mar. 8, 1876 revocation; p. 885 See 585",
+    "ICC full text \"Crow Yellowstone 1875\": nothing on this addition",
+    "Court of Claims case names, us-ct-cl vols 1-231 (static.case.law CasesMetadata), scanned for the nation: Crow cases 81 Ct. Cl. 238 and 151 Ct. Cl. 281 (1868 cession) not about it"
+  ],
+  "changes": [
+    "audit line added"
+  ],
+  "unverifiable": [
+    "Why the addition was made and revoked not researched"
+  ]
+}

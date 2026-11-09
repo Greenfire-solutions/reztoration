@@ -1,0 +1,15 @@
+{
+  "id": "cession-1874-06-22-omaha",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive OCR text of annualreportofbu218smit) pp. 876-877 (Act of June 22, 1874, 18 Stat. 170; deed July 31, 1874; 12,347.55 acres) as recorded; treaties.json statute link points to the same Act.",
+    "Omaha Tribe v. United States, 53 Ct. Cl. 549 (1918), opened on static.case.law: claims under the 1854 and 1865 treaties; nothing on the 1874 sale.",
+    "ICC full text 'Omaha Winnebago 1874': 0 hits."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "Price paid for the twenty sections not found (already in openQuestions)."
+  ],
+  "treatiesJsonErrors": []
+}

@@ -1,0 +1,96 @@
+{
+  "id": "cession-1891-02-13-sauk-and-fox-of-the-mississippi",
+  "name": "Agreement with the Sac and Fox of June 12, 1890, ratified by the Act of February 13, 1891 (Royce 495)",
+  "aka": [
+    "Jerome Commission agreement with the Sac and Fox",
+    "Sac and Fox surplus lands cession"
+  ],
+  "signed": "1890-06-12",
+  "ratified": "1891-02-13",
+  "citation": "26 Stat. 749",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/940/mode/2up",
+  "nations": [
+    "Sac and Fox Nation (Thakiwaki), Oklahoma"
+  ],
+  "promises": [
+    "Each member of the tribe would receive a 160-acre allotment, selected anywhere on the 1867 reservation (Court of Claims; Commission 1962).",
+    "For the remaining surplus land the United States would pay $485,000, about $1.23 an acre (Commission 1962).",
+    "The quarter section holding the Sac and Fox agency would not pass to the United States (Royce)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1964-10-16",
+      "what": "The Court of Claims reversed the Commission's 1962 holding that the price was fair, finding the surplus land worth at least $3.00 an acre in 1891 and the sale negotiated under Government coercion amounting to duress, so that the $1.23 an acre paid was unconscionable.",
+      "whoFoundIt": "Court of Claims, Sac & Fox Tribe of Indians of Oklahoma v. United States, 167 Ct. Cl. 710 (1964), Appeal No. 3-63",
+      "source": {
+        "title": "Sac & Fox Tribe of Indians of Oklahoma v. United States, 167 Ct. Cl. 710 (1964)",
+        "url": "https://static.case.law/us-ct-cl/167/cases/0710-01.json",
+        "publisher": "Caselaw Access Project, Harvard Law School"
+      },
+      "quote": "this sale was negotiated by Government coercion and compulsion exerted upon appellants to such a degree as to constitute duress"
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1967-02-14",
+      "what": "On remand the Commission revalued the 391,188.05 surplus acres at $3.00 an acre, held the $1.23 an acre paid unconscionable, and found the United States liable to the Oklahoma Sac and Fox for the difference.",
+      "whoFoundIt": "Indian Claims Commission, Docket 220, Opinion of February 14, 1967 (17 Ind. Cl. Comm. 544)",
+      "source": {
+        "title": "Sac and Fox Tribe of Oklahoma et al. v. United States, Docket 220, Opinion Accompanying Order Amending Findings and for Entry of Final Judgment (February 14, 1967), 17 Ind. Cl. Comm. 544",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1668",
+        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+      }
+    }
+  ],
+  "landTaken": "391,188.05 acres of surplus reservation land after 548 allotments of 160 acres (Court of Claims, 1964).",
+  "compensation": "Paid in 1891: about $1.23 an acre. Found due in 1967: the difference between $3.00 and $1.23 an acre; the final judgment figure was not read.",
+  "today": "The Commission in 1962 found the Iowa Sac and Fox (Sac and Fox Tribe of the Mississippi in Iowa) had no interest in these lands and dismissed its petition. The Oklahoma Sac and Fox recovered after the 1964 reversal.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report, Bureau of American Ethnology, 1899), schedule p. 938, Sauk and Fox, Feb. 13, 1891",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/938/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report, Bureau of American Ethnology, 1899), schedule p. 940, continuation",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/940/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Sac and Fox Tribe of Oklahoma et al. v. United States, Docket 220, Opinion of the Commission (November 28, 1962), 11 Ind. Cl. Comm. 608",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/815",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sac and Fox Tribe of Oklahoma et al. v. United States, Docket 220, Final Order (November 28, 1962)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/762",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Sac & Fox Tribe of Indians of Oklahoma v. United States, 167 Ct. Cl. 710 (1964)",
+      "url": "https://static.case.law/us-ct-cl/167/cases/0710-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Sac and Fox Tribe of Oklahoma et al. v. United States, Docket 220, Opinion Accompanying Order Amending Findings and for Entry of Final Judgment (February 14, 1967), 17 Ind. Cl. Comm. 544",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1668",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json names the present-day tribe as the Sac & Fox Tribe of the Mississippi in Iowa. These were the Oklahoma Sac and Fox reservation lands; the Commission dismissed the Iowa tribe's petition for want of any interest in them (Docket 220 final order, 1962). The present-day tribe should be the Sac and Fox Nation, Oklahoma. Noted, not edited.",
+    "Ratification date: the Commission says February 12, 1891; the Court of Claims and Royce say February 13, 1891. February 13 is used.",
+    "The final judgment amount entered after the 1967 opinion was not found in the OCR text.",
+    "Commissioner Watkins dissented in 1967; one Court of Claims judge would not have found duress but agreed the price was unconscionable.",
+    "No Sac and Fox Nation account was found online in this pass."
+  ],
+  "plain": {
+    "promised": "Each Sac and Fox citizen would get 160 acres, and the United States would buy the rest of the reservation for $485,000, about $1.23 an acre.",
+    "happened": "The Court of Claims held in 1964 that the sale was forced under duress and the price unconscionable; the Indian Claims Commission then valued the land at $3.00 an acre.",
+    "today": "The Commission found the United States owed the difference in 1967. The amount of the final judgment was not traced."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

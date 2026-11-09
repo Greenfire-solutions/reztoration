@@ -1,0 +1,58 @@
+{
+  "id": "cession-1883-02-23-nez-perc-moses-band",
+  "name": "Executive order of February 23, 1883 restoring the northern strip of the Columbia (Moses) Reservation to the public domain",
+  "aka": [
+    "Fifteen-mile strip order"
+  ],
+  "signed": "1883-02-23",
+  "citation": "Executive order of February 23, 1883 (Royce area 642)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/910/mode/2up",
+  "nations": [
+    "Confederated Tribes of the Colville Reservation (Chief Moses' people: Columbia (Sinkiuse), Chelan, Entiat and Wenatchi)"
+  ],
+  "promises": [
+    "This was an executive order, not a treaty. Royce records that the President restored to the public domain part of the land withdrawn by the order of April 19, 1879 for the Columbia Reservation: a strip from 44 degrees west of Washington, running 15 miles south of the British Columbia line and east to the Okanogan River.",
+    "The Indian Claims Commission describes the Columbia Reservation, as amended by the orders of 1880 and February 23, 1883, as set apart for the permanent use and occupancy of Chief Moses and his people."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce area 642, the northern strip of the Columbia Reservation.",
+  "compensation": "None stated in the order. The agreement of July 7, 1883 let Sar-sarp-kin's people stay on land they cultivated within the fifteen-mile strip and select allotments there.",
+  "today": "The rest of the Columbia Reservation was given up under the agreement of July 7, 1883, ratified July 4, 1884 (see kappler-1081). The Colville Tribes' Docket 181-A claim about moving Moses' groups onto the Colville Reservation was settled by compromise with Docket 181-B for a net judgment of $3,500,000.00 in 1967, with no finding of liability.",
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of the Colville Reservation",
+      "summary": "The Colville Tribes' history records the Columbia Reservation as set apart in 1879 and amended in 1880 and February 23, 1883 for the permanent use of Chief Moses and his people, and dates the return of the Moses reserve to the public domain to 1883.",
+      "url": "https://cctfnw.squarespace.com/ct-fish-history"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 910, executive order of February 23, 1883",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/910/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Confederated Tribes of the Colville Reservation v. United States, Dockets 177, 181-A, 181-B, Findings of Fact on Compromise Settlement, 18 Ind. Cl. Comm. 531 (September 7, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2196",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "History of the Confederated Tribes of the Colville Reservation",
+      "url": "https://cctfnw.squarespace.com/ct-fish-history",
+      "publisher": "Colville Tribes Fish & Wildlife"
+    },
+    {
+      "title": "Agreement with the Columbia and Colville, 1883 (Kappler, vol. 1, p. 224; ratified July 4, 1884, 23 Stat. 79)",
+      "url": "https://treaties.okstate.edu/treaties/agreement-with-the-columbia-and-colville-1883-1073",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    }
+  ],
+  "openQuestions": [
+    "This order reduced an executive-order reservation. Under the 2026-11-08 rule that is not by itself a breach, and no court, Commission or government finding about the fifteen-mile strip was located.",
+    "Royce files Moses' people as \"Nez Perce (Moses' band)\"; treaties.json already carries a correction to the Colville Tribes.",
+    "The order was read only in Royce's summary."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

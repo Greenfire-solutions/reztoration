@@ -8,7 +8,8 @@
   "citation": "Unratified agreement of October 19, 1872 (Royce area 540A)",
   "textUrl": "https://treaties.okstate.edu/treaties/agreement-with-the-wichita-and-affiliated-tribes-1872-22669",
   "nations": [
-    "Wichita and Affiliated Tribes (Wichita, Keechi, Waco and Tawakonie)"
+    "Wichita and Affiliated Tribes (Wichita, Keechi, Waco and Tawakonie)",
+    "Caddo Nation of Oklahoma (Caddo chiefs also signed)"
   ],
   "promises": [
     "The United States granted the Wichita and affiliated bands, as a home, a tract in Indian Territory between the Washita and main Canadian rivers, from the ninety-eighth meridian west to 98 degrees 40 minutes west longitude.",
@@ -30,7 +31,7 @@
   ],
   "landTaken": "None by this agreement, which was never ratified. Royce notes the lands it purported to cede were covered by the claims and earlier cessions of other tribes.",
   "compensation": "None located for this agreement.",
-  "today": "In Wichita Indian Tribe v. United States, 696 F.2d 1378 (Fed. Cir. January 10, 1983), the court reversed the dismissal of the Wichita claims for aboriginal title lands in Texas and Oklahoma and sent them back to the Claims Court to fix the extent of title and any liability. The outcome after remand was not traced.",
+  "today": "The reserve the Wichita occupied was ceded under the agreement of June 4, 1891, ratified by Congress on March 2, 1895 (28 Stat. 876, 897); after the Leased District litigation the Court of Claims entered judgment for the Wichita and affiliated bands of $675,371.91, which was paid. In 1939 the Court of Claims dismissed the Wichita and Caddo claim for aboriginal lands in Oklahoma and Texas (89 Ct. Cl. 378). In Wichita Indian Tribe v. United States, 696 F.2d 1378 (Fed. Cir. January 10, 1983), the court reversed a later dismissal of the Wichita claims (ICC Docket 371, transferred in 1978) and sent them back to the Claims Court to fix the extent of aboriginal title and any liability, expressly taking no view on the nature or date of any taking. The outcome after remand was not traced.",
   "nationVoice": [],
   "sources": [
     {
@@ -47,18 +48,25 @@
       "title": "Wichita Indian Tribe v. United States, 696 F.2d 1378 (Fed. Cir. 1983)",
       "url": "https://static.case.law/f2d/696/cases/1378-01.json",
       "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Wichita and Affiliated Bands of Indians v. United States; Caddo Band of Indians v. United States, 89 Ct. Cl. 378 (November 6, 1939)",
+      "url": "https://static.case.law/us-ct-cl/89/cases/0378-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
     }
   ],
   "openQuestions": [
     "The Wichita reservation was later allotted and its surplus opened under the 1891 agreement ratified in 1895; that taking belongs to a later record and was not researched here.",
     "The result of the remanded Wichita aboriginal title case (Claims Court, after 1983) was not found; it may hold a finding about the lands this agreement purported to cede.",
     "The Wichita and Affiliated Tribes history pages (wichitatribe.com) did not load for a robot on 2026-11-08, so the nation's own account is missing.",
-    "Royce: the reserve overlapped territory assigned to the Cheyenne and Arapaho by the executive order of August 10, 1869."
+    "Royce: the reserve overlapped territory assigned to the Cheyenne and Arapaho by the executive order of August 10, 1869.",
+    "Audit 2026-11-08: Jordan's rule for unratified treaties checked. No finding was located that the United States took the land of this agreement anyway: the reserve passed under the ratified 1891 agreement (Act of March 2, 1895) with a Court of Claims judgment of $675,371.91 paid (as recited in 89 Ct. Cl. 378), and the courts in 1899 and 1939 held the Wichita had no title to the lands this agreement purported to cede. The 1983 Federal Circuit opinion remands without finding a taking. Status stays unratified. Added the 1939 opinion, the Caddo signatories (OSU text lists Caddo chiefs George Washington, War-Loo-Pee and Antelope) and rewrote today.",
+    "Audit 2026-11-08: ICC Docket 257 (Kiowa, Comanche and Apache, with the Wichita as intervenors, 1971) concerns Royce areas 510 and 511 under the 1865 and 1867 treaties, not this agreement; not counted."
   ],
   "plain": {
     "promised": "The Wichita and allied bands were to get a home between the Washita and Canadian rivers in Indian Territory, and in return give up all claims to land in Texas, Louisiana and elsewhere.",
     "happened": "The agreement was never ratified. Royce recorded in 1899 that the Wichita had nonetheless lived on the reserve for several years.",
-    "today": "A federal appeals court in 1983 revived the Wichita claims for lost aboriginal lands and sent them back for trial. How that case ended has not been traced."
+    "today": "The reserve was later given up under a ratified 1891 agreement and the Wichita were paid a court judgment for it. A 1983 appeals ruling revived their claim for older lands; how it ended has not been traced."
   },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

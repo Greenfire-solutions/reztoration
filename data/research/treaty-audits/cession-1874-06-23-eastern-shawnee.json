@@ -1,0 +1,19 @@
+{
+  "id": "cession-1874-06-23-eastern-shawnee",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce page scans (archive.org leaves) p. 876 (agreement, NE corner, Modocs) and p. 877 (\"See act of Mar. 3, 1875, ratifying this agreement\", 571)",
+    "Royce p. 878: Stat. L. XVIII, 447, Modok",
+    "ICC full text: Eastern Shawnee Modoc; Shawnee Modocs 1874; Modoc Quapaw agency: nothing on this sale",
+    "ICC Docket 64 compromise findings (id 2329): other cessions",
+    "Court of Claims case names, us-ct-cl vols 1-231 (static.case.law CasesMetadata), scanned for the nation: nothing on this sale",
+    "no-breach-found stands"
+  ],
+  "changes": [
+    "removed \"taking land by force\" from the first promise (no source)"
+  ],
+  "unverifiable": [
+    "Eastern Shawnee Tribe pages blocked; price not in a primary source"
+  ]
+}

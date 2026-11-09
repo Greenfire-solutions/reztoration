@@ -1,0 +1,17 @@
+{
+  "id": "cession-1874-06-22-sioux-sisseton",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive OCR text of annualreportofbu218smit) p. 874-875: Act of June 22, 1874, Stat. L. XVIII, 167, ratifies agreement of Sept. 20, 1872.",
+    "ICC full text 'Sisseton 1872 1874' (5 hits), Docket 363 opinions of 1969, 1971 and 1975 (OSU ids 2118, 2662, 2039, 1469, 2336): Act cited as c. 389, 18 Stat. 146, 167; 1975 opinion upholds Sisseton-Wahpeton title to the 1872 cession and orders a valuation trial on an unconscionable-consideration claim."
+  ],
+  "changes": [
+    "Citation widened to 'Act of June 22, 1874, c. 389, 18 Stat. 146, 167'.",
+    "Added the Docket 363 unconscionable-consideration claim to today, sources and openQuestions as a lead for kappler-1065; not counted here."
+  ],
+  "unverifiable": [
+    "Outcome of the Docket 363 1872-agreement valuation (after 1975, likely transferred to the Court of Claims in 1978) not found; Court of Claims Lower Sioux entries for 1980-82 opened concern the 1837 and 1851 treaties."
+  ],
+  "treatiesJsonErrors": []
+}

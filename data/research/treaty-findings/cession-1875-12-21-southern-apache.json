@@ -12,7 +12,7 @@
     "Chiricahua and Warm Springs (Chihene) Apache, today the Fort Sill Apache Tribe and Chiricahua descendants at Mescalero"
   ],
   "promises": [
-    "Not a treaty: a presidential order. It fixed new boundaries for the Hot Springs reservation in place of those of April 9, 1874: a tract about 20 miles wide and 35 miles long near Cañada Alamosa, New Mexico (Royce p. 882, area 587).",
+    "Not a treaty: a presidential order. It fixed new boundaries for the Hot Springs reservation in place of those of April 9, 1874: from a point near Cañada Alamosa, New Mexico, 20 miles north, 20 west, 35 south and 20 east (Royce p. 882, area 587).",
     "The same order restored to market the part of the April 9, 1874 reserve not included in the new boundaries (Royce p. 884, area 588).",
     "Royce notes the reserve was canceled and restored to the public domain by executive order of August 25, 1877."
   ],
@@ -55,8 +55,9 @@
   ],
   "openQuestions": [
     "An executive order taking back executive-order land is not a breach by itself (Jordan, 2026-11-08). The Commission's Chiricahua findings mention the 1877 abolition but date the taking of aboriginal title to September 4, 1886; they are not a finding that this order was broken. This follows the audit of cession-1874-11-24-apache-southern.",
-    "treaties.json lists no presentDayTribes for this record; the Fort Sill Apache Tribe is the Commission's plaintiff for the Warm Springs Apache. Not edited.",
-    "The 1877 cancellation and the removal to San Carlos may deserve their own record if a finding about the Ojo Caliente land itself is found."
+    "treaties.json lists no presentDayTribes for this record; the Fort Sill Apache Tribe is the Commission's plaintiff for the Warm Springs Apache. Not edited. Audit 2026-11-08 (round 13): treaties.json has since been corrected and now lists the Fort Sill Apache Tribe.",
+    "The 1877 cancellation and the removal to San Carlos may deserve their own record if a finding about the Ojo Caliente land itself is found.",
+    "Audit 2026-11-08 (round 13): \"about 20 miles wide and 35 miles long\" replaced with Royce's own courses (the dimensions were derived). Royce pp. 882, 884 and 885 re-checked on the page scans. ICC id 2269 (19 Ind. Cl. Comm. 212) re-read: finding 14(b) says the Hot Springs (Ojo Caliente) reservation was abolished August 25, 1877; finding 14(a) dates the taking to September 4, 1886. Its finding 6(h) puts the 1871-1875 reservations within the claimed area, so the 1886 finding covers this land as aboriginal title; it is still not a finding about this order, and the file keeps no-breach-found, consistent with cession-1874-11-24-apache-southern. Jordan may want to rule on whether an aboriginal-title taking that covers an executive-order reserve counts for the order's row."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

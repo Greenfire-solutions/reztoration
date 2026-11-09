@@ -1,0 +1,42 @@
+{
+  "id": "cession-1883-07-13-chippewa-of-minnesota",
+  "name": "Executive order of July 13, 1883 revoking the 1879 addition to the White Earth Reservation",
+  "aka": [
+    "White Earth addition revocation"
+  ],
+  "signed": "1883-07-13",
+  "citation": "Executive order of July 13, 1883 (Royce area 610)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/912/mode/2up",
+  "nations": [
+    "White Earth Nation (Minnesota Chippewa Tribe)"
+  ],
+  "promises": [
+    "This was an executive order, not a treaty. Royce records that the President revoked the executive order of March 18, 1879, which had set apart an addition to the White Earth Reservation (Royce area 610)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce area 610, the 1879 addition north of the White Earth Reservation.",
+  "compensation": "None stated.",
+  "today": "No court, Commission or congressional finding about this revocation was located. The White Earth Reservation itself was later dealt with under the Nelson Act of 1889 (see cession-1889-07-08-chippewa-of-minnesota).",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 912, executive order of July 13, 1883, Chippewa of the Mississippi",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/912/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 894, executive order of March 18, 1879",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/894/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    }
+  ],
+  "openQuestions": [
+    "This revoked an executive-order addition. Under the 2026-11-08 rule that is not by itself a breach, and no finding about this land was found.",
+    "Royce's tribe column on p. 912 reads \"Chippewa of the Mississippi\"; treaties.json has \"Chippewa of Minnesota\".",
+    "The White Earth Nation's own account of the 1879 addition and its revocation was not located.",
+    "The order was read only in Royce's summary."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

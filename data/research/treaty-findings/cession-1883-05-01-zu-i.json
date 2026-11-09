@@ -1,0 +1,47 @@
+{
+  "id": "cession-1883-05-01-zu-i",
+  "name": "Executive order of May 1, 1883 amending the boundaries of the Zuni Reservation",
+  "aka": [
+    "Zuni reservation boundary order of 1883"
+  ],
+  "signed": "1883-05-01",
+  "citation": "Executive order of May 1, 1883 (Royce area 645)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/910/mode/2up",
+  "nations": [
+    "A:shiwi (Pueblo of Zuni)"
+  ],
+  "promises": [
+    "This was an executive order, not a treaty. Royce records that the President amended the boundaries of the Zuni Reservation of March 16, 1877, running from the 136th milepost on the New Mexico line to the 148th, with a line drawn so as to include the Zuni settlements around Nutria springs and Pescado springs."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "None stated: Royce describes it as an amendment of boundaries that brought in the Nutria and Pescado settlements. Royce maps the reservation as area 645.",
+  "compensation": "None stated.",
+  "today": "Royce records that an executive order of March 3, 1885 amended this order, defining and extending the boundaries so as to except lands already settled and occupied in good faith by white settlers. In Zuni Tribe v. United States, 12 Cl. Ct. 607 (May 27, 1987), the Claims Court held that the Zuni held aboriginal title to their claim area in Arizona and New Mexico; that opinion decided only the extent of the land and left the alleged taking for a separate opinion. The Zuni Land Conservation Act of 1990 (104 Stat. 1174) later settled Zuni claims without findings of fault (see cession-1877-03-16-zu-i).",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 910, executive order of May 1, 1883, Zuni",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/910/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 918, executive order of March 3, 1885, Zuni",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/918/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Zuni Tribe v. United States, 12 Cl. Ct. 607 (May 27, 1987)",
+      "url": "https://static.case.law/cl-ct/12/cases/0607-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    }
+  ],
+  "openQuestions": [
+    "Whether the 1883 boundary left out Zuni land that the 1877 order had included was not settled; Royce's wording suggests it added the Nutria and Pescado settlements.",
+    "The 1987 Claims Court opinion does not mention the 1883 order; the separate opinion on the taking was not located. No court, Commission or government finding about this order was found.",
+    "The Pueblo of Zuni's own account of the 1883 boundary was not located.",
+    "The order was read only in Royce's summary."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cession-1872-10-19-wichita",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive OCR text of annualreportofbu218smit) pp. 860-861: Oct. 19, 1872 agreement, Wichita and affiliated bands, cession of claims in Texas, Louisiana and Indian Territory, reserve between Washita and Canadian, 98 to 98 deg 40 min; remark quoted in the breach is exact.",
+    "OSU Tribal Treaties Database page: dated Washington, Oct. 19, 1872, tagged not ratified, signed by Wichita, Caddo, Towoccaro, Waco and Keechi leaders.",
+    "Court of Claims, 89 Ct. Cl. 378 (Nov. 6, 1939), opened on static.case.law: Wichita and Caddo aboriginal claims dismissed; recites 1891 agreement ratified Mar. 2, 1895 (28 Stat. 876, 897) and the Leased District judgment of $675,371.91, paid.",
+    "Wichita Indian Tribe v. United States, 696 F.2d 1378 (Fed. Cir. Jan. 10, 1983) opened: reverses and remands for extent of aboriginal title and liability, no view on taking.",
+    "ICC title search (19 decisions) and full-text 'wichita 1872' (8): Docket 257 (KCA, Royce 510/511) and Docket 226 (Caddo) are other lands; Docket 371 transferred to the Court of Claims June 8, 1978.",
+    "us-ct-cl case-name scan of all 231 volumes: only 89 Ct. Cl. 378 (filed under the Caddo caption) and two 1981 orders in the transferred case."
+  ],
+  "changes": [
+    "Added the Caddo Nation to nations (Caddo chiefs signed).",
+    "Rewrote today with the 1895 cession, the paid Court of Claims judgment, the 1939 dismissal and the 1983 remand; added the 1939 opinion as a source; plain.today rewritten.",
+    "openQuestions: Jordan's unratified rule checked, no finding of a taking of this agreement's land, status stays unratified; Docket 257 noted as not this agreement."
+  ],
+  "unverifiable": [
+    "Outcome of the remanded Docket 371 claims after 1983 not found (no later Claims Court opinion on static.case.law; web search found none).",
+    "wichitatribe.com history not reloaded."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes lists only the Wichita and Affiliated Tribes; the agreement was also signed by Caddo chiefs, so the Caddo Nation of Oklahoma may belong there."
+  ]
+}

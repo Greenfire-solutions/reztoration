@@ -34,7 +34,8 @@
   "openQuestions": [
     "Whether any of this addition was among the New Mexico townships relinquished in 1884, and whether any finding covers that, was not researched here.",
     "treaties.json gives New Mexico only; Royce maps area 615 on the Arizona and New Mexico maps. Not edited.",
-    "The order was read only in Royce's summary."
+    "The order was read only in Royce's summary.",
+    "Audit 2026-11-08: Royce pp. 898-899 reopened: boundaries and area 615 (Arizona 2, New Mexico 2) confirmed; treaties.json states lists NM only."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

@@ -1,0 +1,47 @@
+{
+  "id": "cession-1894-08-15-coeur-d-al-ne",
+  "name": "Agreement with the Coeur d'Alene, February 7, 1894 (Harrison townsite), ratified August 15, 1894",
+  "aka": [
+    "Harrison cession"
+  ],
+  "signed": "1894-02-07",
+  "ratified": "1894-08-15",
+  "citation": "Act of August 15, 1894, ch. 290, 28 Stat. 286, 322",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-28/pdf/STATUTE-28-Pg286-2.pdf",
+  "nations": [
+    "Coeur d'Alene Tribe (Schitsu'umsh)"
+  ],
+  "promises": [
+    "The tribe ceded a strip one mile wide along the north line of the reservation, from the east bank of the mouth of the Coeur d'Alene River to the east boundary, where the town of Harrison and settlers were located (28 Stat. 322).",
+    "The United States agreed to pay the tribe $15,000, per capita, on completion of the agreement (28 Stat. 322)."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "compensation": "$15,000 under the agreement. The Supreme Court records the cession was compensated to the tribe and no one else (Idaho v. United States, 2001).",
+  "today": "Idaho v. United States (2001) cites this cession, which took in part of the lake, as evidence that Congress treated the submerged lands within the reservation as tribal; the Court held the United States holds the submerged lands in trust for the tribe.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 948-949",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/948/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Act of August 15, 1894, ch. 290, 28 Stat. 286 (Indian appropriations, fiscal 1895, with ratified agreements)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-28/pdf/STATUTE-28-Pg286-2.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Idaho v. United States, 533 U.S. 262 (2001)",
+      "url": "https://static.case.law/us/533/cases/0262-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library"
+    }
+  ],
+  "openQuestions": [
+    "Whether the $15,000 was paid was not checked.",
+    "No Indian Claims Commission or Court of Claims decision on this strip was found; Docket 81 concerns the tribe's aboriginal lands.",
+    "The Coeur d'Alene Tribe's own account was not located."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

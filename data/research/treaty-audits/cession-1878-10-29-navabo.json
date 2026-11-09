@@ -1,0 +1,18 @@
+{
+  "id": "cession-1878-10-29-navabo",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive text) pp. 892-893: addition from the NW corner of the 1868 reservation on the Arizona-Utah line west to 110 degrees, south to 36 degrees N, east to the reservation; area 608, Arizona 2; \"Enlarged by Executive order of Jan. 6, 1880\"."
+  ],
+  "changes": [
+    "openQuestion corrected: the Royce scan text reads \"Navaho\" for this entry, so \"Navabo\" is not shown to be Royce's misprint; it looks like the Forest Service transcription.",
+    "Audit line added."
+  ],
+  "unverifiable": [
+    "The printed page image was not viewed; the reading rests on the Internet Archive OCR text."
+  ],
+  "treatiesJsonErrors": [
+    "scheduleTribes and name spell the nation \"Navabo\"; the Royce text reads \"Navaho\"."
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "cession-1882-07-10-crow",
+  "name": "Act of July 10, 1882 ratifying the Crow agreement of August 22, 1881 (Northern Pacific Railroad lands)",
+  "aka": [
+    "Crow agreement of 1881",
+    "Northern Pacific right of way through the Crow Reservation"
+  ],
+  "signed": "1881-08-22",
+  "ratified": "1882-07-10",
+  "citation": "Act of July 10, 1882, ch. 284, 22 Stat. 157",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-22/pdf/STATUTE-22-Pg157.pdf",
+  "nations": [
+    "Apsáalooke (Crow Tribe)"
+  ],
+  "promises": [
+    "The Crow gave up a strip up to 400 feet wide along the Northern Pacific Railroad's located line through the reservation, plus eleven parcels for stations, in all about 5,650 acres (agreement of August 22, 1881).",
+    "In return the United States was to deposit $25,000 in the Treasury to the Crow's credit, to be spent for their benefit, on top of all money due under the treaty of May 7, 1868.",
+    "The United States was not to let the railroad company or its employees trespass on the rest of the reservation or cut timber, wood or hay there.",
+    "All provisions of existing Crow treaties not affected by the agreement were to remain in force; section 3 of the Act made the company liable for damages to the Crow, including from fires."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce area 635 (the agreement gives the total as five thousand six hundred and fifty acres, more or less).",
+  "compensation": "$25,000, appropriated by section 2 of the Act; section 3 required the Northern Pacific to repay that sum to the Treasury within sixty days.",
+  "today": "The preamble of the Act records that the agreement was executed by a majority of adult Crow men as Article 11 of the 1868 treaty required. In 1935 the Court of Claims listed this cession of 5,650 acres for $25,000 among Crow cessions made for a consideration, said there had been no taking of Crow lands, and dismissed the Crow petition (81 Ct. Cl. 238). That was a ruling against the nation.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Act of July 10, 1882, ch. 284, 22 Stat. 157",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-22/pdf/STATUTE-22-Pg157.pdf",
+      "publisher": "US Government Publishing Office, govinfo"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 908, Act of July 10, 1882, Crow",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/908/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Crow Nation or Tribe of Indians of Montana v. United States, 81 Ct. Cl. 238 (March 4, 1935)",
+      "url": "https://static.case.law/us-ct-cl/81/cases/0238-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    }
+  ],
+  "openQuestions": [
+    "treaties.json links this record to Royce p. 786; the entry is on p. 908 (page scan checked).",
+    "Whether the trespass and timber clauses were kept was not researched; no court or Commission finding on them was found. The ICC full-text search for Crow and the Northern Pacific right of way returned no Crow decision.",
+    "The Crow Tribe's own account of the 1881 agreement was not located."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

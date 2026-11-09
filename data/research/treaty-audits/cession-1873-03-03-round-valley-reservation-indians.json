@@ -1,0 +1,21 @@
+{
+  "id": "cession-1873-03-03-round-valley-reservation-indians",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive OCR text of annualreportofbu218smit) p. 862-863: Act of Mar. 3, 1873, 17 Stat. 633, areas 544 and See 583.",
+    "Russ v. Wilkins, 624 F.2d 914 (9th Cir. Aug. 1, 1980) opened: ~12,000 acres restored, 89,000 added, settler removal never effected, Dawes report Feb. 27, 1885, 1890 Act diminished the reservation, 1947 restoration of ~7,531 acres.",
+    "Senate Report No. 1522, 48th Cong., 2d Sess. (Feb. 27, 1885), full OCR text from SHAREOK opened: Mr. Dawes for the Committee on Indian Affairs; 97,500 of 103,000 acres held by nine white occupants without compensation; Indians confined to about 3,000 acres valley and 1,000-2,000 upland; 'folly'; feeble attempts at recovery; quote copied exactly (p. 3).",
+    "ICC full text 'Round Valley 1873' (16 hits): none is a finding on this Act."
+  ],
+  "changes": [
+    "Added a government-admission breach (Senate Report 1522, 1885) with source and quote; status raised from no-breach-found to broken.",
+    "today now gives the 7,531 acres from Russ v. Wilkins; plain added.",
+    "Removed the openQuestion asking for the Dawes report and the stale treaties.json line; audit lines added."
+  ],
+  "unverifiable": [
+    "Indians of California claims (ICC Dockets 31/37) not read for this tract.",
+    "rvit.org history not reloaded."
+  ],
+  "treatiesJsonErrors": []
+}

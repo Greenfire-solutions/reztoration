@@ -1,0 +1,21 @@
+{
+  "id": "cession-1881-01-18-spokane",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive text) pp. 902-903: reserve bounded by Chemakane Creek, the Spokane River, the Columbia River and the 48th parallel; land once part of the first Colville reservation; area 625.",
+    "Public Law 116-100 sec. 2 (govinfo HTML): finding 7 (1940 Act grant of tribal and allotted land within the Spokane and Colville Reservations), 8 ($4,700 to the Spokane), 13 (1967 settlement left no claim to amend), 14 (quote exact), 15 (39 percent); sec. 5 payments 25 percent 2022-2029, 32 percent from 2030.",
+    "16 U.S.C. 835d and 835e (Cornell): grant of tribal and allotted land \"within the Spokane and Colville Reservations\" as designated by the Secretary; Secretary fixes \"just and equitable compensation\"; no consent requirement; June 29, 1940, ch. 460, 54 Stat. 703.",
+    "The land is this reservation: the 1940 Act and the 2019 findings concern land within the Spokane Reservation, which is the 1881 executive-order reservation (area 625).",
+    "ICC Docket 331 order (OSU 578): Indian title 1855 to July 13, 1892; final judgment Dockets 331/331-A (OSU 1207): $6,700,000.00 on compromise, Feb. 21, 1967."
+  ],
+  "changes": [
+    "openQuestion on the 1940 Act updated: section 835e read (compensation fixed by the Secretary, no consent term).",
+    "Audit line added. Status broken confirmed."
+  ],
+  "unverifiable": [
+    "No Spokane acreage figure for the Grand Coulee taking found in a source opened.",
+    "Whether the 2019 Act payments have been made was not checked."
+  ],
+  "treatiesJsonErrors": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cession-1876-08-15-missouri-oto",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "19 Stat. 208 (govinfo PDF): sections 1-4 match the promises (consent in open council, one appraiser named by the tribes, 120,000 acres from the western side, actual settlers, 160 acres, not below appraisal or $2.50, 5 percent interest).",
+    "131 Ct. Cl. 593 (static.case.law): appraised $3.56, sold $3.85 an acre; Commission found no duress, consideration not unconscionable, consent in open council; affirmed as supported by substantial evidence.",
+    "Royce 1899 schedule (Internet Archive text) p. 894-895: Act of Mar. 3, 1879 amends the 1876 Act (method of sale of the 120,000 acres).",
+    "ICC full-text search \"Otoe 1876\": no further finding on this sale."
+  ],
+  "changes": [
+    "Added to landTaken the 119,846.17 acres the Court of Claims gives for the land sold.",
+    "Audit line added."
+  ],
+  "unverifiable": [
+    "The Commission's Docket 11 findings (2 Ind. Cl. Comm. 335) were not reopened; outcome taken from the Court of Claims affirmance."
+  ],
+  "treatiesJsonErrors": []
+}

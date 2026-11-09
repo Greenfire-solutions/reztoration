@@ -1,0 +1,92 @@
+{
+  "id": "cession-1894-08-15-nez-perc",
+  "sameEventAs": "kappler-851",
+  "name": "Agreement with the Nez Perce, May 1, 1893, ratified August 15, 1894",
+  "aka": [
+    "Nez Perce cession of unallotted lands"
+  ],
+  "signed": "1893-05-01",
+  "ratified": "1894-08-15",
+  "citation": "Act of August 15, 1894, ch. 290, sec. 16, 28 Stat. 286, 326-332",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-28/pdf/STATUTE-28-Pg286-2.pdf",
+  "nations": [
+    "Nimiipuu (Nez Perce Tribe)"
+  ],
+  "promises": [
+    "Of the reservation of about 762,000 acres kept by the 1863 treaty, the tribe ceded the 549,559 acres left after allotments and tribal trust lands, for $1,626,222 at $3 an acre as negotiated; the parties later agreed the consideration paid was $1,634,664, about $2.97 an acre (ICC Docket 175-B; 176 Ct. Cl. 815)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "claims-commission",
+      "date": "1972-11-01",
+      "what": "After the Court of Claims twice reversed and remanded, the Indian Claims Commission found the ceded land worth $3,022,575 on August 15, 1894, about $5.50 an acre, held the $1,634,664 paid so grossly inadequate as to be unconscionable, and entered a final award of $1,387,911. The Commission had first ruled in 1964 that the price was not unconscionable.",
+      "whoFoundIt": "Indian Claims Commission, Docket 175-B, 29 Ind. Cl. Comm. 127 (1972), on remand from 176 Ct. Cl. 815 (1966) and 194 Ct. Cl. 490 (1971)",
+      "source": {
+        "title": "Nez Perce Tribe v. United States, Docket 175-B, Order Amending Findings of Fact and Conclusions of Law (November 1, 1972)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1016",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      },
+      "quote": "was so grossly inadequate as to make the consideration unconscionable"
+    }
+  ],
+  "landTaken": "549,559 acres (Docket 175-B; 176 Ct. Cl. 815).",
+  "compensation": "$1,634,664 under the agreement. The Commission's final award of November 1, 1972 was $1,387,911, without interest after the Court of Claims reversed the interest award in 1971.",
+  "today": "Not researched past the 1972 award.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 948-949",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/948/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Act of August 15, 1894, ch. 290, 28 Stat. 286 (Indian appropriations, fiscal 1895, with ratified agreements)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-28/pdf/STATUTE-28-Pg286-2.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Nez Perce Tribe v. United States, Docket 175-B, Opinion of the Commission (13 Ind. Cl. Comm. 238, April 7, 1964)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/707",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Nez Perce Tribe of Indians v. United States, 176 Ct. Cl. 815 (1966)",
+      "url": "https://static.case.law/us-ct-cl/176/cases/0815-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library"
+    },
+    {
+      "title": "United States v. Nez Perce Tribe of Indians, 194 Ct. Cl. 490 (1971)",
+      "url": "https://static.case.law/us-ct-cl/194/cases/0490-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library"
+    },
+    {
+      "title": "Nez Perce Tribe v. United States, Docket 175-B, Opinion of the Commission on remand (29 Ind. Cl. Comm. 127, November 1, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2078",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Nez Perce Tribe v. United States, Docket 175-B, Order Amending Findings of Fact and Conclusions of Law (November 1, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1016",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Nez Perce Tribe v. United States, Docket 175-B, Final Award (November 1, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1735",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "This cession is already a breach on kappler-851 (the 1863 Nez Perce treaty), so sameEventAs points there and the taking is counted once.",
+    "kappler-851 describes the 1969 award of $6,609,926.14 plus interest; the Court of Claims reversed the interest award in 1971 (194 Ct. Cl. 490) and the final award of November 1, 1972 was $1,387,911 (OSU id 1735). kappler-851 may need that update. Not edited.",
+    "A 1973 attorneys' fee finding (OSU id 1188) calls the 1972 award a compromise settlement; the 1972 opinion, conclusions and final award read as an adjudicated award. Recorded as a Commission finding.",
+    "The Nez Perce Tribe's account (nezperce.org history, cited on kappler-851) was not reopened in this pass, so no nation voice is recorded here."
+  ],
+  "plain": {
+    "promised": "In 1893 the Nez Perce sold the 549,559 acres of their 1863 reservation left after allotment, for about $2.97 an acre.",
+    "happened": "After two appeals, the Indian Claims Commission found in 1972 that the land was worth about $5.50 an acre and that the price paid was unconscionable.",
+    "today": "The Commission awarded $1,387,911 in 1972, without interest."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

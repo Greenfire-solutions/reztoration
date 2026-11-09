@@ -1,0 +1,13 @@
+{
+  "id": "cession-1876-03-08-crow",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce page scans (archive.org leaves) p. 884: Mar. 8, 1876, revokes order of Oct. 20, 1875",
+    "sameEventAs cession-1875-10-20-crow kept"
+  ],
+  "changes": [
+    "audit line added"
+  ],
+  "unverifiable": []
+}

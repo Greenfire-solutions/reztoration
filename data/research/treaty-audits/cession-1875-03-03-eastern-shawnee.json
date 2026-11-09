@@ -1,0 +1,16 @@
+{
+  "id": "cession-1875-03-03-eastern-shawnee",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce page scans (archive.org leaves) p. 878: Mar. 3, 1875, Stat. L. XVIII, 447, Modok, confirming the June 23, 1874 sale",
+    "Same searches as cession-1874-06-23-eastern-shawnee",
+    "sameEventAs cession-1874-06-23-eastern-shawnee kept (same land, same sale)"
+  ],
+  "changes": [
+    "removed \"taking land by force\" from the first promise (no source)"
+  ],
+  "unverifiable": [
+    "Statute text not opened"
+  ]
+}

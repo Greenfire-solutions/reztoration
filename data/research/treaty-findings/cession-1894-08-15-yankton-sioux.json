@@ -1,0 +1,81 @@
+{
+  "id": "cession-1894-08-15-yankton-sioux",
+  "name": "Agreement with the Yankton Sioux, December 31, 1892, ratified August 15, 1894",
+  "aka": [
+    "Yankton cession of unallotted lands"
+  ],
+  "signed": "1892-12-31",
+  "ratified": "1894-08-15",
+  "citation": "Act of August 15, 1894, ch. 290, sec. 12, 28 Stat. 286, 314",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-28/pdf/STATUTE-28-Pg286-2.pdf",
+  "nations": [
+    "Ihanktonwan Nakota Oyate (Yankton Sioux Tribe)"
+  ],
+  "promises": [
+    "The Yankton ceded all the unallotted lands of the reservation set apart by Article 1 of the Treaty of April 19, 1858 for $600,000, of which $500,000 was to be held in the Treasury at 5 percent and $100,000 paid per capita (224 Ct. Cl. 62).",
+    "Article XVIII provided that nothing in the agreement would abrogate the 1858 treaty, whose provisions would remain in full force as though the agreement had not been made (28 Stat. 286 ff.)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1980-05-14",
+      "what": "On the Yankton claim transferred from the Indian Claims Commission, the Court of Claims found the 201,110 acres ceded were worth $1,337,381.50 on December 31, 1892 and held the $600,000 paid grossly inadequate and unconscionably low. It also found improper management of the tribe's funds and entered a final award of $720,615.89.",
+      "whoFoundIt": "Yankton Sioux Tribe v. United States, Docket 332-D, 224 Ct. Cl. 62 (1980), adopting the trial judge's decision",
+      "source": {
+        "title": "Yankton Sioux Tribe v. United States, 224 Ct. Cl. 62, 623 F.2d 159 (1980)",
+        "url": "https://static.case.law/us-ct-cl/224/cases/0062-01.json",
+        "publisher": "Caselaw Access Project, Harvard Law School Library"
+      },
+      "quote": "which consideration is grossly inadequate and is unconscionably low"
+    }
+  ],
+  "landTaken": "The Court of Claims found 201,110 acres ceded (224 Ct. Cl. 62); the Supreme Court gave the surplus as approximately 168,000 acres of unallotted land (522 U.S. 329).",
+  "compensation": "$600,000 under the agreement. The Court of Claims awarded a further $717,614.14 for the land, after offsetting $19,767.36 from Docket 332-C, and $3,001.75 for fund mismanagement, $720,615.89 in all (1980).",
+  "today": "In South Dakota v. Yankton Sioux Tribe (1998) the Supreme Court held that the 1894 Act diminished the reservation, so the ceded lands are no longer Indian country. That ruling went against the tribe.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 946-947",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/946/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Act of August 15, 1894, ch. 290, 28 Stat. 286 (Indian appropriations, fiscal 1895, with ratified agreements)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-28/pdf/STATUTE-28-Pg286-2.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Yankton Sioux Tribe v. United States, Docket 332-B, Findings of Fact on Compromise Settlement (28 Ind. Cl. Comm. 367, September 8, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1820",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Yankton Sioux Tribe v. United States, Docket 332-D, Opinion of the Commission (37 Ind. Cl. Comm. 64, November 20, 1975)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1538",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Yankton Sioux Tribe v. United States, 224 Ct. Cl. 62, 623 F.2d 159 (1980)",
+      "url": "https://static.case.law/us-ct-cl/224/cases/0062-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library"
+    },
+    {
+      "title": "South Dakota v. Yankton Sioux Tribe, 522 U.S. 329 (1998)",
+      "url": "https://static.case.law/us/522/cases/0329-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library"
+    }
+  ],
+  "openQuestions": [
+    "The two figures for the ceded area (201,110 acres in the 1980 judgment, about 168,000 acres of surplus in the 1998 opinion) were not reconciled.",
+    "A June 27, 1980 entry at 224 Ct. Cl. 778 records a final judgment for $2,269,088.50 in another Yankton case; it was not matched to a docket.",
+    "The Yankton Sioux Tribe's website (yanktonsiouxtribe.net) was reached but its history page gave no text on the 1892 agreement; the nation voice is missing."
+  ],
+  "plain": {
+    "promised": "In 1892 the Yankton sold the unallotted land of their 1858 treaty reservation for $600,000, and the agreement said the 1858 treaty stayed in force.",
+    "happened": "In 1980 the Court of Claims found the land was worth $1,337,381.50 and held the $600,000 unconscionably low. In 1998 the Supreme Court held the 1894 Act shrank the reservation.",
+    "today": "The court awarded $720,615.89 in 1980. The ceded land is no longer treated as reservation land."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

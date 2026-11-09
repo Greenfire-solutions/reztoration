@@ -1,0 +1,22 @@
+{
+  "id": "cession-1878-05-27-nez-perc-joseph-s-band",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "20 Stat. 63, 74 (govinfo): Nez Perces of Joseph's band item, $20,000, removal from Fort Leavenworth to the Indian Territory, settlement, clothing, subsistence, skilled labor; Approved May 27, 1878.",
+    "Royce 1899 schedule (Internet Archive text) pp. 892-893: Ts. 25 and 26 N., Rs. 1 and 2 W., 90,710.89 acres, Cherokee deed in trust, deeded back May 22, 1885; remark: reserve bought out of land W. of 96 degrees, Cherokee deed June 14, 1883.",
+    "ICC Docket 179 findings on compromise (OSU 2651): $1,119,071.78 net judgment for the Colville Tribes (Joseph Band) and the Nez Perce Tribe of Idaho (intervenor), general accounting to June 30, 1951, no liability finding.",
+    "ICC full-text search \"Joseph Leavenworth\": no finding on this Act or the Indian Territory reserve."
+  ],
+  "changes": [
+    "openQuestion corrected: \"west of the Kaws\" and payment under the Act of March 3, 1881 belong to the Ponca entry on the same Royce page, not to Joseph's band.",
+    "today corrected: the 1970 compromise ran to both the Colville Tribes and the Nez Perce Tribe of Idaho as intervenor, on a general accounting claim.",
+    "Audit line added."
+  ],
+  "unverifiable": [
+    "Whether anything was paid for the 90,710.89 acres deeded back in 1885 is still untraced."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes lists only the Nez Perce Tribe of Idaho; most of Joseph's band went to the Colville Reservation in 1885 (Confederated Tribes of the Colville Reservation)."
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "cession-1874-06-22-sioux-wahpeton",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce page scans (archive.org leaves) p. 874: June 22, 1874, Act of Congress, Stat. L. XVIII, 166, Shoshoni, ratifies agreement of Sept. 26, 1872",
+    "Royce p. 879 remark: ratified in general terms by act approved June 22, 1874; See 539, Wyoming 2",
+    "ICC Docket 63 findings (id 22): 700,642 acres; $5,000 a year for five years; $500 a year to Washakie; $25,000 and $2,500 paid; eighty cents an acre, $560,513.60",
+    "ICC Docket 63 opinion (id 434), August 20, 1954: unconscionable; quote exact",
+    "sameEventAs cession-1872-09-26-sioux-wahpeton kept"
+  ],
+  "changes": [
+    "citation set to 18 Stat. 166 (Royce p. 874); textUrl moved to p. 874; Royce pp. 874-875 added to sources; open question on the unconfirmed statute page rewritten"
+  ],
+  "unverifiable": [
+    "Statute text (18 Stat. 166) not opened",
+    "Final judgment in Docket 63 not re-read"
+  ],
+  "treatiesJsonErrors": [
+    "Stale: the Sioux/Wahpeton naming error this file reports for area 539 is already corrected in treaties.json"
+  ]
+}

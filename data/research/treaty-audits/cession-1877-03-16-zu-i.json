@@ -1,0 +1,21 @@
+{
+  "id": "cession-1877-03-16-zu-i",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive text) pp. 890-891, 910-911: 1877 boundaries (136th to 148th milestone, Nutria Springs, Ojo Pescado); \"These boundaries were amended by Executive order of May 1, 1883\"; See 645.",
+    "12 Cl. Ct. 607 (static.case.law/cl-ct/12): Finding 4 excludes \"(A) The present Zuni Indian Reservation\" from the claim; jurisdiction from Act of May 15, 1978 (92 Stat. 244); 1846-1939 taking period; no mention of the 1877 order.",
+    "Public Law 98-408 (Aug. 28, 1984, 98 Stat. 1533) read in full: adds Arizona lands in T. 14-15 N., R. 26 E. to the Zuni Reservation for religious purposes; sec. 6 bars offsets in Dockets 161-79L and 327-81L. No finding about the 1877 reservation.",
+    "Public Law 101-486 (104 Stat. 1174) read in full: $25,000,000 trust fund; corpus may pay costs in 327-81L and 224-84L; offsets against those dockets.",
+    "Archives West finding aid: 327-81L never went to trial, settled by act of Congress; $25,000,000 judgment in 161-79L on Jan. 22, 1991."
+  ],
+  "changes": [
+    "today rewritten: states the 1987 claim excluded the present reservation (Finding 4), names the 1978 jurisdictional act, adds what Public Law 98-408 (1984) does, and says the 1990 Act authorized the fund to pay docket costs rather than paying them.",
+    "Public Law 98-408 added to sources; audit line added. Status unchanged (no-breach-found)."
+  ],
+  "unverifiable": [
+    "The pleadings in Docket 327-81L (damage to trust lands) were not available; any damage they allege is unadjudicated.",
+    "Pueblo of Zuni's own account of the 1877 reservation not located."
+  ],
+  "treatiesJsonErrors": []
+}

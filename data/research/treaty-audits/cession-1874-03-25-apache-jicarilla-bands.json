@@ -1,0 +1,14 @@
+{
+  "id": "cession-1874-03-25-apache-jicarilla-bands",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive OCR text of annualreportofbu218smit) p. 872-873: President sets apart, subject to action of Congress, tract described in agreement of Dec. 10, 1873.",
+    "ICC Docket 22-A findings (OSU id 746) finding 54: 1874 reserve 'in Colorado', Jicarilla refused to go, abolished July 18, 1876. Matches today and the openQuestion; cancellation correctly not counted under the executive-order rule."
+  ],
+  "changes": [],
+  "unverifiable": [
+    "American Presidency Project pages not reloaded."
+  ],
+  "treatiesJsonErrors": []
+}

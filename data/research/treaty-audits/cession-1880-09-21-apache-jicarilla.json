@@ -1,0 +1,18 @@
+{
+  "id": "cession-1880-09-21-apache-jicarilla",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive text) pp. 902-903, 925: reserve from the SW corner of the Tierra Amarilla grant N to the Colorado line, W 16 miles, S, E; area 624; revoked May 15, 1884; re-established 1887.",
+    "ICC Docket 22-A Findings 55-56 (OSU 746): 480 square miles; restored August 1883; 1887 order dated Feb. 1, 1887.",
+    "ICC Docket 22-A opinion and order of Nov. 9, 1966 (OSU 1536, 2436): taking Aug. 20, 1883; 1887 reservation \"virtually the same\" as the 1880 one.",
+    "ICC Docket 22-A final award (OSU 2037): $9,150,000 on stipulation, Apr. 21, 1971."
+  ],
+  "changes": [
+    "Audit line added."
+  ],
+  "unverifiable": [
+    "The 1887 order date differs across sources (Feb. 1, Feb. 11, Royce scan Feb. 14); not used."
+  ],
+  "treatiesJsonErrors": []
+}

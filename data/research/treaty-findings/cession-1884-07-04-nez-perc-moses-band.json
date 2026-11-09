@@ -1,0 +1,58 @@
+{
+  "id": "cession-1884-07-04-nez-perc-moses-band",
+  "sameEventAs": "kappler-1081",
+  "name": "Act of July 4, 1884 ratifying the Chief Moses agreement of July 7, 1883",
+  "aka": [
+    "Moses Agreement ratification"
+  ],
+  "signed": "1883-07-07",
+  "ratified": "1884-07-04",
+  "citation": "Act of July 4, 1884, 23 Stat. 76, 79-80",
+  "textUrl": "https://treaties.okstate.edu/treaties/agreement-with-the-columbia-and-colville-1883-1073",
+  "nations": [
+    "Confederated Tribes of the Colville Reservation (Chief Moses' Columbia or Sinkiuse people, with Chelan, Entiat and Wenatchi)"
+  ],
+  "promises": [
+    "Royce records that this Act ratified the agreement of July 7, 1883 for relinquishment of the remainder of the Columbia reserve, with certain exceptions. The agreement's promises are recorded under kappler-1081."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce area 618, the remainder of the Columbia Reservation, except the allotted tracts.",
+  "compensation": "As in the 1883 agreement (kappler-1081).",
+  "today": "Same land and event as kappler-1081, and counted once there. The 1967 Colville settlement of Dockets 181-A and 181-B ($3,500,000.00 net) made no finding of liability.",
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of the Colville Reservation",
+      "summary": "The Colville Tribes' history records that the 1883 agreement was ratified by Congress on July 4, 1884, and that Chief Moses' people moved to the Colville Reservation from about 1886.",
+      "url": "https://cctfnw.squarespace.com/ct-fish-history"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 916, Act of July 4, 1884, Nez Perce (Moses' band)",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/916/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Agreement with the Columbia and Colville, 1883 (Kappler, vol. 1, p. 224; ratified July 4, 1884, 23 Stat. 79)",
+      "url": "https://treaties.okstate.edu/treaties/agreement-with-the-columbia-and-colville-1883-1073",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Confederated Tribes of the Colville Reservation v. United States, Dockets 177, 181-A, 181-B, Findings of Fact on Compromise Settlement, 18 Ind. Cl. Comm. 531 (September 7, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2196",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "History of the Confederated Tribes of the Colville Reservation",
+      "url": "https://cctfnw.squarespace.com/ct-fish-history",
+      "publisher": "Colville Tribes Fish & Wildlife"
+    }
+  ],
+  "openQuestions": [
+    "Same land and event as kappler-1081 (the agreement this Act ratified); researched briefly.",
+    "The Act's own page in the Statutes at Large was not opened; the citation is the Commission's and the Colville Tribes'."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

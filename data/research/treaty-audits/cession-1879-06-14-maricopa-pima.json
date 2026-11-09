@@ -1,0 +1,19 @@
+{
+  "id": "cession-1879-06-14-maricopa-pima",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive text) pp. 894-896: revokes the order of Jan. 10, 1879; Salt River tract to Camp McDowell; tract between the old Gila reservation and the Salt-Gila junction; temporary withdrawal in Ts. 1 and 2 N., Rs. 5 and 6 E.; areas 611, 612.",
+    "ICC Docket 228 opinion of Jan. 20, 1972 (OSU 1900, 27 Ind. Cl. Comm. 11): \"The Salt River Reservation was established in 1879 for Pimas who had moved there\"; date of taking Nov. 15, 1883.",
+    "ICC Docket 236-C opinion of Nov. 17, 1972 (OSU 2565): Gila River water claim; no mention of 1879 or Salt River tract."
+  ],
+  "changes": [
+    "Audit line added."
+  ],
+  "unverifiable": [
+    "Final outcomes of the 236 water dockets were not traced."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes is empty; the Gila River Indian Community and the Salt River Pima-Maricopa Indian Community are the successors."
+  ]
+}

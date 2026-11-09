@@ -1,0 +1,84 @@
+{
+  "id": "cession-1894-08-15-yuma",
+  "name": "Agreement with the Yuma (Quechan), December 4, 1893, ratified August 15, 1894",
+  "aka": [
+    "1893 Agreement",
+    "Fort Yuma Reservation cession"
+  ],
+  "signed": "1893-12-04",
+  "ratified": "1894-08-15",
+  "citation": "Act of August 15, 1894, ch. 290, 28 Stat. 286, 332",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-28/pdf/STATUTE-28-Pg286-2.pdf",
+  "nations": [
+    "Quechan (Kwatsáan) Tribe of the Fort Yuma Indian Reservation"
+  ],
+  "promises": [
+    "Upon the conditions expressed, the Yuma Indians relinquished their reservation established by executive order of January 9, 1884 (28 Stat. 332-333).",
+    "The Supreme Court describes the agreement as one that could be read to condition the cession of a 25,000-acre tract of boundary lands on the United States building an irrigation canal within three years, allotting irrigated land to individual Indians, selling certain lands to pay for the canal, and opening certain lands (Arizona v. California, 2000)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "government-admission",
+      "date": "1978-12-20",
+      "what": "Interior Solicitor Krulitz concluded that the 1893 Agreement made a conditional cession of the disputed lands, that the United States had not met the conditions, and that title is held by the United States in trust for the Quechan; the Secretary of the Interior adopted that opinion by Secretarial Order, reversing the 1936 Margold opinion.",
+      "whoFoundIt": "Secretarial Order of December 20, 1978; Opinion of the Solicitor M-36908 (January 2, 1979), 86 I.D. 3, as set out in Arizona v. California, 530 U.S. 392 (2000)",
+      "source": {
+        "title": "Arizona v. California, 530 U.S. 392 (2000)",
+        "url": "https://static.case.law/us/530/cases/0392-01.json",
+        "publisher": "Caselaw Access Project, Harvard Law School Library"
+      },
+      "quote": "title to the subject property is held by the United States in trust for the Quechan Tribe"
+    },
+    {
+      "kind": "litigation",
+      "date": "1983-08-11",
+      "what": "The Quechan claim in Docket 320, which had alleged the agreement was obtained by fraud and coercion and that the United States failed to perform it, was settled by a consent judgment of $15 million, stated not to be an admission by either party.",
+      "whoFoundIt": "Quechan Tribe v. United States, Docket 320, final judgment of August 11, 1983, as set out in Arizona v. California, 530 U.S. 392 (2000)",
+      "source": {
+        "title": "Arizona v. California, 530 U.S. 392 (2000)",
+        "url": "https://static.case.law/us/530/cases/0392-01.json",
+        "publisher": "Caselaw Access Project, Harvard Law School Library"
+      }
+    }
+  ],
+  "landTaken": "The Supreme Court describes a 25,000-acre tract of boundary lands as the disputed part of the cession (530 U.S. 392).",
+  "compensation": "The 1983 settlement of Docket 320 paid the tribe $15 million for the claims in that docket (530 U.S. 392).",
+  "today": "In Arizona v. California (2000) the Supreme Court held that neither its 1963 decision nor the 1983 consent judgment barred the Quechan and the United States from claiming water rights for the disputed boundary lands, and recorded that both continue to recognize the tribe's entitlement to those lands.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 948-949",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/948/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Act of August 15, 1894, ch. 290, 28 Stat. 286 (Indian appropriations, fiscal 1895, with ratified agreements)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-28/pdf/STATUTE-28-Pg286-2.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Quechan Tribe of the Fort Yuma Reservation v. United States, Docket 320, Opinion on Motion to Reopen the Record (26 Ind. Cl. Comm. 15, July 21, 1971)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2525",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Arizona v. California, 530 U.S. 392 (2000)",
+      "url": "https://static.case.law/us/530/cases/0392-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library"
+    }
+  ],
+  "openQuestions": [
+    "The Krulitz opinion and the 1978 Secretarial Order were not opened directly; they are cited as the Supreme Court sets them out.",
+    "The 1978 order excepted lands the United States had acquired by Act of Congress or conveyed to third parties; how much of the 25,000 acres it returned in fact was not found.",
+    "The Quechan Tribe's website (quechantribe.com/about-us) gives no account of the 1893 agreement; the nation voice is missing. Press accounts (Yuma Sun) describe the signing as fraudulent; not cited here.",
+    "Docket 319 (aboriginal lands) is a separate claim, recorded on cession-1884-01-09-yuma."
+  ],
+  "plain": {
+    "promised": "In 1893 the Quechan gave up their 1884 reservation in return for irrigated allotments, a canal within three years and other conditions.",
+    "happened": "In 1978 the Interior Department concluded the conditions were never met and that about 25,000 acres of boundary land still belong in trust to the Quechan. The tribe's claim was settled in 1983.",
+    "today": "The tribe received $15 million in 1983. In 2000 the Supreme Court let it seek water rights for the boundary lands."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

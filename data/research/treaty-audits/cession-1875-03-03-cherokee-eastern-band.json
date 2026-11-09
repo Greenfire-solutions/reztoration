@@ -1,0 +1,17 @@
+{
+  "id": "cession-1875-03-03-cherokee-eastern-band",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce page scans (archive.org leaves) p. 878: Mar. 3, 1875, Stat. L. XVIII, 447, Eastern band of Cherokee, funds of act July 29, 1848 to perfect title in North Carolina",
+    "Royce p. 879 remark: act of Aug. 14, 1876; Qualla boundary; small detached tracts; 580",
+    "ICC full text \"Qualla\": no decisions",
+    "Court of Claims case names, us-ct-cl vols 1-231 (static.case.law CasesMetadata), scanned for the nation: Eastern Band cases 19 Ct. Cl. 35 (1883) and 21 Ct. Cl. 501 (1886) are about funds"
+  ],
+  "changes": [
+    "citation corrected from \"18 Stat. 445 to 447, page not confirmed\" to 18 Stat. 447"
+  ],
+  "unverifiable": [
+    "Statute text not opened; ebci.com not loaded; NCpedia not re-read"
+  ]
+}

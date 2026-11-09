@@ -1,0 +1,17 @@
+{
+  "id": "cession-1873-03-03-miami",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive OCR text of annualreportofbu218smit) p. 862: Act of Mar. 3, 1873, 17 Stat. 631, Miami Kansas remnant to be sold, merger with Kaskaskia; See 330.",
+    "ICC Docket 251-A Findings on Compromise (OSU id 1405, Jan. 9, 1969): slightly more than 10,000 acres, about $80,000, sold at appraised value, $10,000 settlement. Matches.",
+    "ICC full text 'Miami March 3, 1873' (6 hits): Docket 251 (OSU 515) does not deal with this Act's sale; us-ct-cl Miami cases are 1959-1981 ICC appeals on other cessions."
+  ],
+  "changes": [
+    "Removed stale openQuestion that treaties.json lists no statute (it now links 17 Stat. 631); audit line added."
+  ],
+  "unverifiable": [
+    "Miami Tribe of Oklahoma's own account not searched."
+  ],
+  "treatiesJsonErrors": []
+}

@@ -1,0 +1,120 @@
+{
+  "id": "cession-1894-06-06-confederated-tribes-of-middle-oregon",
+  "name": "Act of June 6, 1894 fixing the northern boundary of the Warm Springs Reservation (the McQuinn Strip)",
+  "aka": [
+    "McQuinn Strip",
+    "Handley line"
+  ],
+  "signed": "1894-06-06",
+  "citation": "Act of June 6, 1894, ch. 93, 28 Stat. 86",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-28/pdf/STATUTE-28-Pg86.pdf",
+  "nations": [
+    "Confederated Tribes of the Warm Springs Reservation of Oregon"
+  ],
+  "promises": [
+    "The reservation was set apart by the Treaty with the Tribes of Middle Oregon of June 25, 1855 (kappler-722), its northeast corner fixed by reference to the Mutton Mountains (Warm Springs Tribes; 95 Ct. Cl. 23).",
+    "The 1894 Act declared the true north boundary to be T. B. Handley's 1871 survey line up to its twenty-sixth mile, then due west to the Cascade summit, as found by the Fullerton commission (28 Stat. 86; 95 Ct. Cl. 23)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1941-11-03",
+      "what": "The Court of Claims fixed the true treaty boundaries along John McQuinn's 1887 survey and held that the United States had appropriated to its own use all the land between those boundaries and the Handley and Campbell lines on the north and west, entitling the tribes to recover its value.",
+      "whoFoundIt": "Warm Springs Tribe of Indians v. United States, 95 Ct. Cl. 23 (1941)",
+      "source": {
+        "title": "Warm Springs Tribe of Indians v. United States, 95 Ct. Cl. 23 (1941)",
+        "url": "https://static.case.law/us-ct-cl/95/cases/0023-01.json",
+        "publisher": "Caselaw Access Project, Harvard Law School Library"
+      },
+      "quote": "the defendant has appropriated to its own use all of the lands to the north of the Handley-Campbell line"
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1945-05-07",
+      "what": "The court found 64,086 acres taken on the north, appropriated in 1894, and 14,525 acres on the west, valued them at $80,925.50, and with interest put the tribes' recovery at $241,084.56. It then offset an equal sum the government had spent on care of Indian timber lands and dismissed the petition, so nothing was paid.",
+      "whoFoundIt": "Warm Springs Tribe of Indians v. United States, 103 Ct. Cl. 741 (1945)",
+      "source": {
+        "title": "Warm Springs Tribe of Indians v. United States, 103 Ct. Cl. 741 (1945)",
+        "url": "https://static.case.law/us-ct-cl/103/cases/0741-01.json",
+        "publisher": "Caselaw Access Project, Harvard Law School Library"
+      }
+    },
+    {
+      "kind": "act-of-congress",
+      "date": "1972-09-21",
+      "what": "Congress declared the McQuinn Strip, about 61,360 acres of federal land bounded by the Handley line of 1871, the McQuinn survey of 1887 and the 1894 boundary, to be held in trust for the Confederated Tribes and part of the Warm Springs Reservation, removing it from the Mount Hood and Willamette National Forests.",
+      "whoFoundIt": "Public Law 92-427, 86 Stat. 719 (1972)",
+      "source": {
+        "title": "Public Law 92-427, 86 Stat. 719 (September 21, 1972), McQuinn Strip",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg719.pdf",
+        "publisher": "U.S. Government Publishing Office"
+      }
+    },
+    {
+      "kind": "nation-statement",
+      "date": "1871",
+      "what": "The Confederated Tribes say Handley's 1871 survey put the northern boundary well south of the agreed line, that McQuinn's 1887 resurvey found it where the Indians claimed, and that Congress adopted the Handley line in 1894 anyway.",
+      "whoFoundIt": "Confederated Tribes of the Warm Springs Reservation of Oregon",
+      "source": {
+        "title": "The McQuinn Strip Boundary Dispute",
+        "url": "https://warmsprings-nsn.gov/treaty-documents/the-mcquinn-strip-boundary-dispute/",
+        "publisher": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+      }
+    }
+  ],
+  "landTaken": "The Court of Claims found 64,086 acres taken on the north and 14,525 acres on the west (103 Ct. Cl. 741).",
+  "compensation": "The Court of Claims valued the land at $80,925.50, or $241,084.56 with interest, but offset the whole sum against government spending and paid nothing (1945). The tribes say Congress gave them the revenues from the strip from 1948.",
+  "today": "Public Law 92-427 (September 21, 1972) restored about 61,360 acres of the McQuinn Strip to the reservation in trust.",
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of the Warm Springs Reservation of Oregon",
+      "summary": "The Tribes describe the Handley survey as cutting off land the treaty reserved, record the court's offset of the value, and describe the 1972 law as settling the boundaries virtually on the Indians' terms.",
+      "url": "https://warmsprings-nsn.gov/treaty-documents/the-mcquinn-strip-boundary-dispute/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 946-947",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/946/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Act of June 6, 1894, ch. 93, 28 Stat. 86 (northern boundary of the Warm Springs Reservation)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-28/pdf/STATUTE-28-Pg86.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "Warm Springs Tribe of Indians v. United States, 95 Ct. Cl. 23 (1941)",
+      "url": "https://static.case.law/us-ct-cl/95/cases/0023-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library"
+    },
+    {
+      "title": "Warm Springs Tribe of Indians v. United States, 103 Ct. Cl. 741 (1945)",
+      "url": "https://static.case.law/us-ct-cl/103/cases/0741-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library"
+    },
+    {
+      "title": "Public Law 92-427, 86 Stat. 719 (September 21, 1972), McQuinn Strip",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg719.pdf",
+      "publisher": "U.S. Government Publishing Office"
+    },
+    {
+      "title": "The McQuinn Strip Boundary Dispute",
+      "url": "https://warmsprings-nsn.gov/treaty-documents/the-mcquinn-strip-boundary-dispute/",
+      "publisher": "Confederated Tribes of the Warm Springs Reservation of Oregon"
+    }
+  ],
+  "openQuestions": [
+    "Royce cites the 1894 Act as 28 Stat. 88; the Act begins on page 86, as the Court of Claims and Public Law 92-427 cite it.",
+    "The tribes' figure of revenues paid from 1948 and the 1948 Act itself were not checked against a statute.",
+    "Public Law 92-427 excludes lands inside the Mount Jefferson Wilderness, and the tribes say 17,251 acres of private land were also put inside the reservation; the second figure was not checked against the statute pages read."
+  ],
+  "plain": {
+    "promised": "The 1855 treaty reserved the Warm Springs Reservation, its north line tied to the Mutton Mountains. An 1894 Act fixed that line along an 1871 survey the tribes disputed.",
+    "happened": "The Court of Claims held in 1941 that the United States took the land between the true treaty line and the 1871 line. In 1945 it valued the land but offset the value against government spending, paying nothing.",
+    "today": "In 1972 Congress returned about 61,360 acres of the McQuinn Strip to the reservation in trust."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

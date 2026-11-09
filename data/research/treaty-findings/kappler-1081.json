@@ -1,0 +1,75 @@
+{
+  "id": "kappler-1081",
+  "name": "Agreement with the Columbia and Colville, 1883 (Chief Moses agreement), ratified by the Act of July 4, 1884",
+  "aka": [
+    "Moses Agreement of 1883",
+    "Agreement with Chief Moses"
+  ],
+  "signed": "1883-07-07",
+  "ratified": "1884-07-04",
+  "citation": "23 Stat. 79 (Act of July 4, 1884, 23 Stat. 76, 79-80); Kappler vol. 2, p. 1073",
+  "textUrl": "https://treaties.okstate.edu/treaties/agreement-with-the-columbia-and-colville-1883-1073",
+  "nations": [
+    "Confederated Tribes of the Colville Reservation (Chief Moses' Columbia or Sinkiuse people, with Chelan, Entiat and Wenatchi; Tonasket's and Lot's people on the Colville Reservation)"
+  ],
+  "promises": [
+    "If Chief Moses removed to the Colville Reservation and gave up claims to land elsewhere, the Secretary agreed to ask Congress for two cows for each member of his band, $1,000 for a house for Moses, a saw mill and grist mill, and farm tools for each head of family.",
+    "Moses was to be paid $1,000 a year in cash for life, on condition that he and his people kept the agreement faithfully.",
+    "The Government was to secure to Moses and his people, and other Indians going onto the Colville Reservation to farm, equal rights and protection with all other Indians already there.",
+    "Sar-sarp-kin's people could stay on the Columbia Reservation land they cultivated and select allotments (one square mile per head of family or adult man), or move to Colville and receive one hundred cows and farm tools.",
+    "Tonasket asked for a saw and grist mill, a boarding school for 100 pupils at Bonaparte Creek, a physician and $100 a year, which the Secretary agreed to ask Congress to fund.",
+    "Moses and his people were not to be required to move until Congress made the appropriation."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce records that by its terms all the remaining lands of the Columbia Reservation set apart by the orders of April 19, 1879 and March 6, 1880 were restored to the public domain (Royce area 618), except the tracts allotted to Sar-sarp-kin and his band.",
+  "compensation": "The goods, mills, school and payments listed in the agreement, subject to appropriation by Congress. Whether they were all delivered was not traced.",
+  "today": "Members of Chief Moses' groups were moved to the Colville Reservation starting in or about 1886. The Colville Tribes' Docket 181-A claim, that this move took an interest in Colville lands without compensation, was settled by compromise together with Docket 181-B for a net judgment of $3,500,000.00 in 1967, with no finding of liability. In Docket 181-C (1975) the Commission held that the Colville Tribes' title to the North Half of the Colville Reservation was extinguished by the Act of 1892 (27 Stat. 62), which bears on the promise of equal rights on the Colville Reservation but was not decided as a breach of this agreement.",
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of the Colville Reservation",
+      "summary": "The Colville Tribes' history records that under the July 7, 1883 agreement the United States promised Chief Moses and his people equal rights and protection on the Colville Reservation, and that his people moved there from about 1886.",
+      "url": "https://cctfnw.squarespace.com/ct-fish-history"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Agreement with the Columbia and Colville, 1883 (Kappler, vol. 1, p. 224; ratified July 4, 1884, 23 Stat. 79)",
+      "url": "https://treaties.okstate.edu/treaties/agreement-with-the-columbia-and-colville-1883-1073",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 912, agreement of July 7, 1883",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/912/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 916, Act of July 4, 1884",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/916/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Confederated Tribes of the Colville Reservation v. United States, Dockets 177, 181-A, 181-B, Findings of Fact on Compromise Settlement, 18 Ind. Cl. Comm. 531 (September 7, 1967)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2196",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Confederated Tribes of the Colville Reservation v. United States, Docket 181-C, Order Granting Partial Summary Judgment and Conclusions of Law, 36 Ind. Cl. Comm. 183 (June 13, 1975)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2665",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "History of the Confederated Tribes of the Colville Reservation",
+      "url": "https://cctfnw.squarespace.com/ct-fish-history",
+      "publisher": "Colville Tribes Fish & Wildlife"
+    }
+  ],
+  "openQuestions": [
+    "No court or Commission finding that the 1883 agreement's own promises (cows, mills, the school, Moses' $1,000 a year, equal rights) were broken was located. The ICC full-text search for Chief Moses returned only the Yakima and Colville aboriginal-title and settlement dockets.",
+    "The Colville North Half finding (Docket 181-C, 1975) could be argued as a failure of the equal-rights promise; it was not framed that way by the Commission, so it is not recorded as a breach here.",
+    "Whether Congress appropriated and the Indian Office delivered the promised goods and payments was not traced in the Statutes or the Commissioner's reports.",
+    "treaties.json files this agreement under \"Nez Perce (Moses' band)\" from Royce; it already carries a correction to the Colville Tribes. The Act of July 4, 1884 (cession-1884-07-04-nez-perc-moses-band) is the ratification of this same agreement."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

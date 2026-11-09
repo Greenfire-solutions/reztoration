@@ -1,0 +1,19 @@
+{
+  "id": "cession-1879-06-27-sioux-drifting-goose-s-band",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive text) pp. 896-897: Ts. 119, 120 and 121 N., R. 63 W., Dakota; \"Revoked by Executive order of July ]S, 1880\" (scan); area 613, Dakota 2.",
+    "South Dakota State Archives, Crow Creek guide (PDF): Drifting Goose, Hunkpati band of Yanktonai, refused the 1859 treaty; \"a 65,000-acre reservation along the James River\"; in 1880 settled at Crow Creek Agency.",
+    "ICC Docket 332-C interlocutory order (OSU 1307): Yankton line down South Fork Snake Creek and Snake Creek to the James River; Yanktonai intervention dismissed.",
+    "ICC full-text searches \"Drifting Goose\", \"Hunkpati\": nothing on this reserve."
+  ],
+  "changes": [
+    "today: \"about 65,000 acres\" changed to the archives' \"a 65,000-acre reservation\".",
+    "Audit line added."
+  ],
+  "unverifiable": [
+    "Whether Ts. 119-121 N., R. 63 W. lie in any adjudicated Yanktonai or Sisseton-Wahpeton claim area was not plotted."
+  ],
+  "treatiesJsonErrors": []
+}

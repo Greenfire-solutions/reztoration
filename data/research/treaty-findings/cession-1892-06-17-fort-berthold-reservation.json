@@ -1,0 +1,80 @@
+{
+  "id": "cession-1892-06-17-fort-berthold-reservation",
+  "name": "Executive order of June 17, 1892 adding land to the Fort Berthold Reservation",
+  "aka": [
+    "Royce Area 716"
+  ],
+  "signed": "1892-06-17",
+  "citation": "Executive Order of June 17, 1892 (1 Kappler 883)",
+  "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/944/mode/2up",
+  "nations": [
+    "Mandan, Hidatsa and Arikara Nation (Three Affiliated Tribes of the Fort Berthold Reservation)"
+  ],
+  "promises": [
+    "Not a treaty and not a cession. The President set apart as an addition to the Fort Berthold Reservation the part of T. 147 N., R. 87 W. lying north of the Missouri River and outside the Fort Stevenson military reservation (Royce, p. 944)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1968-02-16",
+      "what": "The Court of Claims held that the land of this 1892 addition (Royce Area 716) was among the reservation lands the United States sold and patented to homesteaders under the Act of June 1, 1910, and, reversing the Commission, that executive order title is compensable under the Indian Claims Commission Act. The tribes could recover if the sale price was so far below value as to be gross negligence or fraud.",
+      "whoFoundIt": "Three Affiliated Tribes of the Fort Berthold Reservation v. United States, 182 Ct. Cl. 543 (1968)",
+      "source": {
+        "title": "Three Affiliated Tribes of the Fort Berthold Reservation v. United States, 182 Ct. Cl. 543 (1968)",
+        "url": "https://static.case.law/us-ct-cl/182/cases/0543-01.json",
+        "publisher": "Caselaw Access Project, Harvard Law School Library"
+      }
+    },
+    {
+      "kind": "claims-commission",
+      "date": "1972-08-02",
+      "what": "On remand the Indian Claims Commission found that the United States sold the homestead lands opened by the 1910 Act for less than half their fair market value, held this gross negligence amounting to a breach of its fiduciary obligations, and awarded the difference, a net principal of $2,765,067.",
+      "whoFoundIt": "Indian Claims Commission, Docket 350-F, 28 Ind. Cl. Comm. 264 (1972)",
+      "source": {
+        "title": "Three Affiliated Tribes of the Fort Berthold Reservation v. United States, Docket 350-F, Opinion of the Commission (28 Ind. Cl. Comm. 264, August 2, 1972)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1193",
+        "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+      }
+    }
+  ],
+  "landTaken": "Not stated for Royce Area 716 alone in the sources read; the Commission valued the 1910 Act homestead lands as a whole.",
+  "compensation": "The final award in Docket 350-F (August 23, 1972) was $8,809,057 plus interest, covering the homestead lands and the other 1910 Act claims; the homestead part was a net principal of $2,765,067.",
+  "today": "Not researched past the 1972 award.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 944-945",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/944/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Three Affiliated Tribes of the Fort Berthold Reservation v. United States, 182 Ct. Cl. 543 (1968)",
+      "url": "https://static.case.law/us-ct-cl/182/cases/0543-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library"
+    },
+    {
+      "title": "Three Affiliated Tribes of the Fort Berthold Reservation v. United States, Docket 350-F, Opinion of the Commission (28 Ind. Cl. Comm. 264, August 2, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1193",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Three Affiliated Tribes of the Fort Berthold Reservation v. United States, Docket 350-F, Final Award (August 23, 1972)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/925",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "Royce records this order as an addition to the reservation, not a cession. The breach recorded here is the later sale of its land under the 1910 Act, as found for the homestead lands as a whole; how much of Area 716 was sold, and its share of the award, were not found.",
+    "The Act of June 1, 1910 (36 Stat. 455) was not opened; it is cited as the Court of Claims gives it.",
+    "Whether any of this tract was later flooded by Garrison Dam was not researched.",
+    "The MHA Nation account of this addition was not located."
+  ],
+  "plain": {
+    "promised": "Not a treaty. An 1892 presidential order added a small tract north of the Missouri River to the Fort Berthold Reservation.",
+    "happened": "Under a 1910 Act the United States sold reservation land, including this tract, to homesteaders. The Court of Claims held such land compensable, and the Indian Claims Commission found the sales grossly negligent, at under half the land's value.",
+    "today": "The Commission awarded $8,809,057 plus interest in 1972 for the 1910 Act claims, $2,765,067 of it for the homestead lands."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

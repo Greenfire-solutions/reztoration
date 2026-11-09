@@ -1,0 +1,15 @@
+{
+  "id": "cession-1873-11-22-dwamish",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive OCR text of annualreportofbu218smit) p. 868: President enlarges Lummi River treaty reserve, to low-water mark on the Gulf of Georgia and around Point Francis. Matches."
+  ],
+  "changes": [
+    "Removed stale openQuestion about treaties.json naming the Duwamish (it now names the Lummi Tribe); audit line added."
+  ],
+  "unverifiable": [
+    "Lummi Docket 110 and tideland litigation not read."
+  ],
+  "treatiesJsonErrors": []
+}

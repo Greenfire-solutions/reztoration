@@ -1,0 +1,20 @@
+{
+  "id": "cession-1876-05-15-colorado-river",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce page scans (archive.org leaves) p. 886: May 15, 1876, correctly defines boundaries",
+    "Royce p. 887: see act Mar. 3, 1865, orders Nov. 22, 1873 and Nov. 16, 1874; 593",
+    "Royce p. 877: Nov. 16, 1874 bounds defective, superseded, \"enlarged boundaries were correctly defined\"",
+    "ICC id 283 (Mohave, March 19, 1959): deprived March 3, 1865, no compensation"
+  ],
+  "changes": [
+    "first promise reworded: \"enlarged in 1873 and 1874\" was not Royce's wording",
+    "second promise quotes Royce p. 877",
+    "open question on id 283 updated: now re-read"
+  ],
+  "unverifiable": [
+    "Arizona v. California western boundary not researched",
+    "CRIT page not re-read"
+  ]
+}

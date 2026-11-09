@@ -1,0 +1,26 @@
+{
+  "id": "cession-1875-03-03-indians-on-the-oregon-coast",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Alcea Band of Tillamooks v. United States, 103 Ct. Cl. 494 (April 2, 1945), opened on static.case.law: the 1875 Act (cited 18 Stat. 420) ratified and confirmed the 1855 and 1865 orders and the original taking as of November 9, 1855 (quote exact); the court also held the 1865 and 1875 reductions were not a compensable taking because Congress did not recognize the reservation before 1894",
+    "United States v. Alcea Band of Tillamooks, 329 U.S. 40 (1946), Cornell LII: quote exact; affirmed",
+    "Royce page scans (archive.org leaves) p. 878: Mar. 3, 1875, Stat. L. XVIII, 446, restores portion of Alsea and Siletz reservation, retains tract S. of Siletz agency to Salmon river",
+    "Royce p. 879: 578 and 579, \"This relinquishment comprises two separate tracts\"",
+    "ICC Docket 239 findings (id 466): 1875 Act reservation includes the 1894 area",
+    "CTSI page: about 700,000 acres, Simpson's false report of consent, the proviso, the rider"
+  ],
+  "changes": [
+    "breach 1 \"what\" reworded to the court's actual holding: the Act confirmed the 1855 taking of four tribes' original title, and the 1865 and 1875 reductions were held not themselves compensable",
+    "plain.happened reworded to match",
+    "promise 2 and today no longer call area 579 the kept tract; Royce numbers 578 and 579 as the two tracts relinquished in 1875",
+    "removed the open question \"Area 579 is the tract kept as a permanent reservation\""
+  ],
+  "unverifiable": [
+    "18 Stat. 446 text not opened (govinfo error noted by researcher)",
+    "Royce map not checked for where 578 and 579 lie relative to the 1894 cession"
+  ],
+  "treatiesJsonErrors": [
+    "cession-1855-11-09-indians-on-the-oregon-coast still carries this Act's Royce areas 578 and 579 alongside the 1855 order (noted in treaties.json note already)"
+  ]
+}

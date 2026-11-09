@@ -1,0 +1,114 @@
+{
+  "name": "Pueblo of Pecos grant, confirmed by Congress December 22, 1858 (Royce Area 667)",
+  "aka": [
+    "Royce 667, Pecos Pueblo",
+    "Pecos Pueblo Grant",
+    "Act of December 22, 1858 (11 Stat. 374)"
+  ],
+  "signed": "1858-12-22",
+  "citation": "Act of December 22, 1858, ch. 5, 11 Stat. 374 (confirmation); patent November 1, 1864; Act of June 7, 1924, 43 Stat. 636",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-11/pdf/STATUTE-11-Pg374.pdf",
+  "nations": [
+    "Pueblo of Jemez (successor to the Pueblo of Pecos)"
+  ],
+  "promises": [
+    "Congress confirmed the Pueblo of Pecos's land claim, as reported favorably by the Surveyor General of New Mexico, and ordered it surveyed and patented (Act of December 22, 1858, 11 Stat. 374).",
+    "The Act says the confirmation is only a relinquishment of the United States' own title and claim, and does not affect any adverse valid rights.",
+    "Royce records the grant as 18,763.33 acres, a Spanish grant of 1689 patented to the Pueblo of Pecos on November 1, 1864.",
+    "The Pueblo Lands Act of 1924 made the United States liable, and directed the Pueblo Lands Board to award compensation, for Pueblo land and water lost through the United States' failure to seasonably prosecute the Pueblo's rights (Section 6)."
+  ],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "act-of-congress",
+      "date": "1930",
+      "what": "Acting under the Pueblo Lands Act, the Pueblo Lands Board determined that title to all of the lands within the exterior boundaries of the Pecos grant was extinguished, in favour of 339 non-Indian claims covering the whole grant.",
+      "whoFoundIt": "Pueblo Lands Board, Reports No. 1 and No. 2 on Pecos (1930), set out in Indian Claims Commission Findings 6 and 7, Docket 174",
+      "source": {
+        "title": "Pueblo de Pecos, Pueblo de Jemez, and Pueblo de Jemez acting for Pueblo de Pecos v. United States, Docket 174, Findings of Fact, 8 Ind. Cl. Comm. 195 (December 11, 1959)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/463",
+        "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+      }
+    },
+    {
+      "kind": "government-admission",
+      "date": "1930",
+      "what": "The Board found, under Section 6 of the 1924 Act, a loss to the Pecos through the United States' failure seasonably to prosecute their rights, and set the award at $1.50 an acre. It also noted that the government had taken no action for some ten years after the Pecos asked for help recovering their land, and that the Pecos had not received an adequate sum.",
+      "whoFoundIt": "Pueblo Lands Board, Report No. 2 on Pecos (1930), set out in Indian Claims Commission Finding 7, Docket 174",
+      "source": {
+        "title": "Pueblo de Pecos, Pueblo de Jemez, and Pueblo de Jemez acting for Pueblo de Pecos v. United States, Docket 174, Findings of Fact, 8 Ind. Cl. Comm. 195 (December 11, 1959)",
+        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/463",
+        "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+      }
+    }
+  ],
+  "landTaken": "The whole Pecos grant: the Board extinguished title to all lands within its exterior boundaries (Indian Claims Commission Findings 6 and 7).",
+  "compensation": "$1.50 an acre, which the Indian Claims Commission gives as $28,145 for the 18,763.33-acre grant, paid in 1931. The Commission records that Congress gave additional compensation to certain pueblos after investigating the Board's awards but did not increase the Pecos award; Pecos is not named in the Act of May 31, 1933.",
+  "today": "The Pecos people resettled at Jemez in 1838, and an Act of 1936 (49 Stat. 1528) merged the Pueblos of Jemez and Pecos. Their claim for the difference between the Board's award and fair value was rejected by the Indian Claims Commission on December 11, 1959 as res judicata, because no appeal was taken from the Board's award; the Court of Claims affirmed on March 10, 1961 (152 Ct. Cl. 865) and the Supreme Court denied review. No land was returned.",
+  "nationVoice": [
+    {
+      "nation": "Pueblo of Jemez",
+      "summary": "Jemez says 21 Pecos people arrived on August 2, 1838 to ask to be accepted among their kin, and that Jemez's Second Lieutenant Governor also serves as the Pecos Pueblo Governor, a role created when Pecos and Jemez merged.",
+      "url": "https://www.jemezpueblo.org/places/pecos/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule for 1886, block 'Act of Congress, Stat. L. XI, 374', pp. 920-921",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/920/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Act of December 22, 1858, ch. 5, 11 Stat. 374, An Act to confirm the Land Claim of certain Pueblos and Towns in the Territory of New Mexico",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-11/pdf/STATUTE-11-Pg374.pdf",
+      "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
+    },
+    {
+      "title": "Act of June 7, 1924, ch. 331, 43 Stat. 636 (Pueblo Lands Act)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg636.pdf",
+      "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
+    },
+    {
+      "title": "Act of May 31, 1933, ch. 45, 48 Stat. 108",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg108.pdf",
+      "publisher": "US Government Publishing Office (govinfo), Statutes at Large"
+    },
+    {
+      "title": "Pueblo de Pecos, Pueblo de Jemez, and Pueblo de Jemez acting for Pueblo de Pecos v. United States, Docket 174, Findings of Fact, 8 Ind. Cl. Comm. 195 (December 11, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/463",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Pueblo de Pecos v. United States, Docket 174, Opinion of the Commission, 8 Ind. Cl. Comm. 205 (December 11, 1959)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/595",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Pueblo de Pecos, 152 Ct. Cl. 865 (1961)",
+      "url": "https://static.case.law/us-ct-cl/152/cases/0865-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Pecos",
+      "url": "https://www.jemezpueblo.org/places/pecos/",
+      "publisher": "Pueblo of Jemez"
+    }
+  ],
+  "openQuestions": [
+    "The date 1886-10-01 in treaties.json is not an event date for this land. Royce prints the Pueblo grants under a block headed 'Oct. 1, Act of Congress, Stat. L. XI, 374'; 11 Stat. 374 is the Act of December 22, 1858, which confirmed the grant. This is land the Pueblo kept, not land it ceded. Not edited.",
+    "The scanned ICC text gives the Board reports' date as 'August ?, 1930'; the day is unreadable, so only the year is used.",
+    "The award figure appears in the scans as '$28,1L5.C3', '$23,145.00' and '$28,lt5.M'; $28,145 matches $1.50 times 18,763.33 acres and is used. The Board's acreage of adverse claims (18,8xx acres) is unreadable in the scan.",
+    "The Court of Claims summary gives the certiorari citation as '868 U.S. 821', an evident scan error (likely 368 U.S. 821); not used.",
+    "The ICC opinion gives the 1936 merger Act's day as 'June 16' in a damaged scan; only the year and 49 Stat. 1528 are used.",
+    "This Pecos grant record is separate land from the Jemez grant (cession-1886-10-01-jemez-pueblo); not marked sameEventAs.",
+    "The statute link in treaties.json (ops.libs.uga.edu) was not used; the Act was read on govinfo."
+  ],
+  "plain": {
+    "promised": "In 1858 Congress confirmed the Pecos people's grant, and an 1864 patent covered 18,763.33 acres, giving up only the United States' own claim.",
+    "happened": "In 1930 the Pueblo Lands Board ended Pecos title to the whole grant, finding the loss came from the United States' failure to act, and awarded $1.50 an acre.",
+    "today": "Congress did not raise the Pecos award. The Claims Commission refused more in 1959 and the Court of Claims agreed. The Pecos people live at Jemez since 1838."
+  },
+  "id": "cession-1886-10-01-pecos-pueblo",
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "cession-1882-04-11-crow",
+  "sameEventAs": "cession-1880-06-12-crow",
+  "name": "Act of April 11, 1882 ratifying the Crow agreement of June 12, 1880 (cession of the western part of the Crow Reservation)",
+  "aka": [
+    "Crow cession of 1882"
+  ],
+  "signed": "1880-06-12",
+  "ratified": "1882-04-11",
+  "citation": "Act of April 11, 1882, ch. 74, 22 Stat. 42",
+  "textUrl": "https://www.govinfo.gov/content/pkg/STATUTE-22/pdf/STATUTE-22-Pg42.pdf",
+  "nations": [
+    "Apsáalooke (Crow Tribe)"
+  ],
+  "promises": [
+    "Royce records that this Act confirmed the Crow agreement of June 12, 1880 for the cession of a portion of their reserve (Royce area 619). The promises of that agreement are recorded under cession-1880-06-12-crow."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce area 619. The Court of Claims (1935) describes the 1882 cession as approximately 1,559,000 acres.",
+  "compensation": "The Court of Claims (1935) records the consideration as an annual appropriation of $30,000 for 25 years for the benefit of the Crow (22 Stat. 42).",
+  "today": "This is the ratification of the same agreement and the same land as cession-1880-06-12-crow, and is counted once there. In 1935 the Court of Claims said there had been no taking of Crow lands, that every cession was made for a consideration, and dismissed the Crow petition (Crow Nation v. United States, 81 Ct. Cl. 238). That was a ruling against the nation.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 906, Act of April 11, 1882, Crow",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/906/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Act of April 11, 1882, ch. 74, 22 Stat. 42",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-22/pdf/STATUTE-22-Pg42.pdf",
+      "publisher": "US Government Publishing Office, govinfo"
+    },
+    {
+      "title": "Crow Nation or Tribe of Indians of Montana v. United States, 81 Ct. Cl. 238 (March 4, 1935)",
+      "url": "https://static.case.law/us-ct-cl/81/cases/0238-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    }
+  ],
+  "openQuestions": [
+    "Same land and event as cession-1880-06-12-crow (Royce area 619): the 1880 agreement and its 1882 ratification. Researched briefly; see that record for the promises.",
+    "The Crow Tribe's own account of the 1880-82 cession was not located."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "cession-1891-03-03-sioux-wahpeton-and-sisseton-bands",
+  "name": "Agreement with the Sisseton and Wahpeton of 1889, ratified by the Act of March 3, 1891 (Lake Traverse surplus lands, Royce 496)",
+  "aka": [
+    "Sisseton-Wahpeton Agreement of 1889"
+  ],
+  "ratified": "1891-03-03",
+  "citation": "Act of March 3, 1891, ch. 543, 26 Stat. 1035",
+  "textUrl": "https://static.case.law/us/420/cases/0425-01.json",
+  "nations": [
+    "Sisseton-Wahpeton Oyate"
+  ],
+  "promises": [
+    "Article 1: the bands ceded all unallotted land of the Lake Traverse Reservation left after allotments (DeCoteau, quoting the agreement).",
+    "Article 2: the United States would pay $2.50 an acre for the ceded land.",
+    "Article 3: back annuities would be paid and the annuities of $18,400 continued to July 1, 1901.",
+    "Article 4: allotments would be equalised so that each person, married women included, had 160 acres."
+  ],
+  "status": "contested",
+  "breaches": [
+    {
+      "kind": "nation-statement",
+      "date": "2018-06-05",
+      "what": "Sisseton-Wahpeton Oyate Chairman Dave Flute writes that Congress let the 1867 treaty be renegotiated by ratifying an agreement opening the reservation to homesteaders, which cost the tribe 678,778 acres, and that the tribe rejects treaty renegotiation.",
+      "whoFoundIt": "Dave Flute, Chairman of the Sisseton-Wahpeton Oyate, in Indianz.com, June 5, 2018",
+      "source": {
+        "title": "'We have always been a very proud people': Dave Flute on tribes and treaties (June 5, 2018)",
+        "url": "https://indianz.com/News/2018/06/05/we-have-always-been-a-very-proud-people.asp",
+        "publisher": "Indianz.com"
+      }
+    }
+  ],
+  "landTaken": "The Senate report quoted in DeCoteau estimated the surplus at 678,778 acres; the Court of Claims gives the final surplus as 608,865.56 acres.",
+  "compensation": "$2.50 an acre. Congress appropriated $2,203,000 for the land and the loyal scout claim (DeCoteau). After allotments the surplus proved smaller than estimated, and $236,048.83 was deducted (58 Ct. Cl. 302).",
+  "today": "In 1923 the Court of Claims dismissed the bands' claims, including one for the $236,048.83 deduction, for lack of proof (58 Ct. Cl. 302). In DeCoteau v. District County Court (1975) the Supreme Court held that the 1891 Act terminated the Lake Traverse Reservation, a ruling against the tribe.",
+  "nationVoice": [
+    {
+      "nation": "Sisseton-Wahpeton Oyate",
+      "summary": "Its chairman wrote in 2018 that Congress allowed the 1867 treaty to be renegotiated when it opened the reservation to homesteaders, costing 678,778 acres, and that the Oyate rejects treaty renegotiation.",
+      "url": "https://indianz.com/News/2018/06/05/we-have-always-been-a-very-proud-people.asp"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Royce, Indian Land Cessions in the United States (18th Annual Report, Bureau of American Ethnology, 1899), schedule p. 942, Sisseton and Wahpeton Sioux, Mar. 3, 1891",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/942/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Sisseton & Wahpeton Bands v. United States, 58 Ct. Cl. 302 (1923)",
+      "url": "https://static.case.law/us-ct-cl/58/cases/0302-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "DeCoteau v. District County Court for the Tenth Judicial District, 420 U.S. 425 (1975)",
+      "url": "https://static.case.law/us/420/cases/0425-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "'We have always been a very proud people': Dave Flute on tribes and treaties (June 5, 2018)",
+      "url": "https://indianz.com/News/2018/06/05/we-have-always-been-a-very-proud-people.asp",
+      "publisher": "Indianz.com"
+    }
+  ],
+  "openQuestions": [
+    "No Indian Claims Commission finding on the price of the 1891 cession was found. The Commission's Sisseton and Wahpeton dockets (142, 359 to 363) were settled in 1967; whether they included this cession was not traced.",
+    "Royce's link in treaties.json points to p. 842 (the 1867 treaty); the 1891 entry is on p. 942.",
+    "The Oyate's own website (swo-nsn.gov) had no history page on the 1891 Act that loaded; the chairman's 2018 article is used instead."
+  ],
+  "plain": {
+    "promised": "The bands sold the unallotted land of the Lake Traverse Reservation for $2.50 an acre, with 160-acre allotments for every member and back annuities paid.",
+    "happened": "No court or claims commission found the deal broken: a 1923 claim was dismissed. The Oyate says the Act let the 1867 treaty be renegotiated and cost 678,778 acres.",
+    "today": "In 1975 the Supreme Court held the 1891 Act ended the reservation, a ruling against the tribe. The Oyate supports the 1867 boundaries."
+  },
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

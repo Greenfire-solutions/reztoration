@@ -1,0 +1,47 @@
+{
+  "id": "cession-1885-02-09-santee-sioux",
+  "name": "Executive order of February 9, 1885 restoring unallotted Santee (Niobrara) reservation lands to the public domain",
+  "aka": [
+    "Santee reservation opening of 1885"
+  ],
+  "signed": "1885-02-09",
+  "citation": "Executive order of February 9, 1885 (Royce area 556; Kappler vol. 1, p. 864)",
+  "textUrl": "https://presidency.ucsb.edu/node/371408",
+  "nations": [
+    "Santee Sioux Nation (Isanyathi Dakota)"
+  ],
+  "promises": [
+    "This was an executive order, not a treaty. It restored to the public domain all lands in the Niobrara or Santee Sioux reservation in Nebraska not allotted to or selected by the Indians under the act of March 3, 1863 and the Sioux treaty of April 29, 1868 by April 15, 1885, except lands used for agency, school and missionary purposes, open to settlement from May 15, 1885."
+  ],
+  "status": "no-breach-found",
+  "breaches": [],
+  "landTaken": "Royce area 556, the unallotted lands of the Santee reservation.",
+  "compensation": "None stated in the order.",
+  "today": "No court, Indian Claims Commission or congressional finding about this restoration was located. The Commission's Santee-related dockets found (Lower Sioux Indian Community, Docket 363, 1975) concern accounting for Minnesota treaty funds, not this land.",
+  "nationVoice": [],
+  "sources": [
+    {
+      "title": "Chester A. Arthur, Executive Order Returning Niobrara and Santee Sioux Land To Public Domain (February 9, 1885)",
+      "url": "https://presidency.ucsb.edu/node/371408",
+      "publisher": "The American Presidency Project, UC Santa Barbara"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 918, executive order of February 9, 1885, Santee Sioux",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/918/mode/2up",
+      "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Lower Sioux Indian Community in Minnesota v. United States, Docket 363, Opinion of the Commission, Part 2 (August 22, 1975)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2039",
+      "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    }
+  ],
+  "openQuestions": [
+    "The Santee reservation was set apart by executive order, so under the 2026-11-08 rule this restoration is not by itself a breach. The order cites the 1868 Sioux treaty, under which Santee could select land; whether opening the unselected land broke any 1868 promise to the Santee was not found decided anywhere.",
+    "ICC full-text searches for Santee with 1885 and Niobrara returned nothing on this order. The Court of Claims volumes were not searched by name for a Santee suit about it.",
+    "A search summary attributed a 42,160.56-acre figure to a Commissioner's report; the page was not read, so the figure is left out.",
+    "The Santee Sioux Nation's own account of the 1885 opening was not found online."
+  ],
+  "researchedAt": "2026-11-08",
+  "researcher": "treaty-researcher"
+}

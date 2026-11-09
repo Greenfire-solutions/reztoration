@@ -1,0 +1,21 @@
+{
+  "id": "cession-1876-01-28-paiute-shoshone-snake",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "ICC id 358 (Docket 17 amended findings, Dec. 28, 1956): findings 37, 40, 41; quote exact",
+    "ICC id 32 (April 15, 1959): $579,722.00",
+    "Interior press release, Aug. 6, 1963 (bia.gov pdf): $567,000; quote exact",
+    "Royce page scans (archive.org leaves) pp. 884-885: Jan. 28, 1876 order; See 638, 646",
+    "sameEventAs cession-1872-09-12-paiute-shoshone-snake kept"
+  ],
+  "changes": [
+    "audit line added"
+  ],
+  "unverifiable": [
+    "Burns Paiute page not re-read"
+  ],
+  "treatiesJsonErrors": [
+    "Stale: presentDayTribes and statute already corrected in treaties.json; scheduleTribes \"Paiute; Shoshone; Snake\" vs Royce \"Paiute and Shoshoni\" remains"
+  ]
+}

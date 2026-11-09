@@ -1,0 +1,17 @@
+{
+  "id": "cession-1880-01-06-navaho",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce 1899 schedule (Internet Archive text) pp. 898-899: addition from the San Juan 15 miles E of the reservation line, south past the SE corner, 6 miles further S, W to 110 degrees, N to the reservation; area 615, Arizona 2 and New Mexico 2."
+  ],
+  "changes": [
+    "Audit line added."
+  ],
+  "unverifiable": [
+    "Whether any of area 615 was among the townships relinquished in 1884 was not researched."
+  ],
+  "treatiesJsonErrors": [
+    "states lists NM only; Royce maps area 615 on both the Arizona 2 and New Mexico 2 maps."
+  ]
+}

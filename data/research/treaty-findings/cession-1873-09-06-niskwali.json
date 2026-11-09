@@ -23,8 +23,8 @@
     }
   ],
   "openQuestions": [
-    "treaties.json names the tribe \"Niskwali\" and the present-day tribe as the Nisqually Indian Tribe; Royce lists \"Niskwali and others\", but the order enlarges the Puyallup reservation, so the Puyallup Tribe is the nation concerned. Not edited.",
-    "The Nisqually claim (ICC Docket 197) concerns the Medicine Creek treaty cession, not this order."
+    "The Nisqually claim (ICC Docket 197) concerns the Medicine Creek treaty cession, not this order.",
+    "Audit 2026-11-08: removed a stale line about treaties.json naming the Nisqually as the present-day tribe; it now names the Puyallup Tribe with a note. Royce p. 864-865 re-read: matches."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"
