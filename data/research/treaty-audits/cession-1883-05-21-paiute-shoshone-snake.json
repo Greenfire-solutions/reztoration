@@ -1,0 +1,18 @@
+{
+  "id": "cession-1883-05-21-paiute-shoshone-snake",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce p. 910 (May 21, 1883: restores to market all except 320 acres of Camp Harney) and p. 913 note (solid brown) match; area 646.",
+    "Docket 17 findings 3, 37, 41, quote, $579,722.00 and the 1963 release re-read and match.",
+    "sameEventAs cession-1872-09-12-paiute-shoshone-snake kept: area 646 is inside finding 3 (Royce 638 and 646)."
+  ],
+  "changes": [
+    "Source title: the Malheur note is on Royce p. 911, not p. 910.",
+    "openQuestions: audit line and the Camp Harney decision added."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "cession-1883-05-21-paiute-shoshone-snake: presentDayTribes is empty; the Burns Paiute Tribe should be listed."
+  ]
+}

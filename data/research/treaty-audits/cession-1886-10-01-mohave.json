@@ -1,0 +1,23 @@
+{
+  "id": "cession-1886-10-01-mohave",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "ICC id 283, Interlocutory Order March 19, 1959, 7 Ind. Cl. Comm. 219: exclusive use and occupancy from time immemorial; deprived of California lands March 3, 1853 and Arizona and Nevada lands March 3, 1865; no compensation; entitled to value.",
+    "ICC id 2618, Final Award December 29, 1971 (26 Ind. Cl. Comm. 563): offsets $171,641.93 allowed, judgment $428,358.07.",
+    "ICC id 2245, Final Award September 26, 1973: stipulated settlement, $468,358.07; correctly kind litigation.",
+    "Royce p. 922-923 (archive.org djvu text): the row sits under the 1886 'Oct. 1, Act of Congress, Stat. L. XI, 374' heading carried down from the Pueblo rows; remark text read and matches the file. Mohave remark: no treaty of purchase; most concentrated on Colorado River reservation.",
+    "sameEventAs cession-1865-03-03-colorado-river exists and is a primary (no sameEventAs of its own); kept."
+  ],
+  "changes": [
+    "compensation: dropped 'as recorded in the primary file' now that the award pages were read; added the offset figure.",
+    "1971 award source title given its docket pair and volume citation.",
+    "openQuestions: removed two stale notes (unread award pages; empty presentDayTribes), added the audit line."
+  ],
+  "unverifiable": [
+    "The 1971 award's citation page: the collection identifier reads p582 while the scan header reads 26 Ind. Cl. Comm. 563 (start of the case); 563 kept."
+  ],
+  "treatiesJsonErrors": [
+    "date 1886-10-01 is Royce's carried-down column heading, not a date of this taking (already in correction note)."
+  ]
+}

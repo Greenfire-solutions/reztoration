@@ -41,7 +41,8 @@
     "Not re-counted: the Commission (Docket 22-D, finding 12) chose May 1, 1873, not December 14, 1872, as the date the Western Apache lost title outside the reservation, and said the plaintiffs had proposed December 14, 1872. That taking is already carried by cession-1871-11-09-apache.",
     "Not re-counted: the Chiricahua reservation set up by one of these orders was revoked on October 30, 1876; the Commission finding on it (Dockets 30-A and 48-A) is carried by cession-1876-10-30-apache.",
     "Royce marks area 600 as \"See 600\", so the polygon is the 1876 revocation, not a separate 1872 cession.",
-    "Audit 2026-11-08: removed a stale line saying treaties.json lists no present-day tribes; it lists the Fort Sill Apache Tribe and the San Carlos Apache Tribe. It does not list the White Mountain Apache Tribe, though one order enlarged the White Mountain reservation. Docket 22-D findings 10-12 and opinion re-read: the Commission says the plaintiffs suggested December 14, 1872 and chose May 1, 1873 as the taking date outside the enlarged reservation. Matches."
+    "Audit 2026-11-08: removed a stale line saying treaties.json lists no present-day tribes; it lists the Fort Sill Apache Tribe and the San Carlos Apache Tribe. It does not list the White Mountain Apache Tribe, though one order enlarged the White Mountain reservation. Docket 22-D findings 10-12 and opinion re-read: the Commission says the plaintiffs suggested December 14, 1872 and chose May 1, 1873 as the taking date outside the enlarged reservation. Matches.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for: Court of Claims names \"apache\" (San Carlos and Fort Sill appeals; none about the December 14, 1872 orders as such); ICC full text \"Camp Grant\". Nothing new."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

@@ -23,7 +23,7 @@
   "breaches": [],
   "landTaken": "Two cessions in Georgia, Tennessee and Alabama: the land north and east of a line from the high shoals of the Appalachee to the Chattahoochee (Article 1) and the land north and west of a line along Walden's ridge and the Little Sequatchie (Article 2), with the reserves made to Doublehead and others in 1806 (Article 10). treaties.json gives Royce areas 83, 84, 85 and 86; areas 85 and 86 also appear under the 1806 convention, consistent with Article 10 ceding the 1806 reserves.",
   "compensation": "Land on the Arkansas for land in the east (Article 5), goods and boats for emigrants (Article 6), and payment for improvements (Articles 6 and 7). No Indian Claims Commission award for this treaty was found.",
-  "today": "Article 13 of the 1835 Treaty of New Echota (7 Stat. 478) settled, as a group, the claims of Cherokee reservees under all former treaties: reservations the United States had since sold, and reservations reservees were obliged by state laws to abandon or buy back, were to be paid for 'as it is only a just fulfillment of former treaty stipulations'. It confirmed 1817 reservations that the 1819 treaty had put back in Cherokee land, but it names no 1817 reservation as sold or lost. The Cherokee Nation, for the Western (Old Settler) Cherokee, brought Indian Claims Commission claims that turned on this treaty: Docket 2, for an 'outlet' to the west said to have been promised in 1817 and left out of the text, and Docket 24, on the Western Cherokee's rights in the Arkansas lands. The Commission dismissed both in 1952, holding in Docket 2 that the later fee title to land in Indian Territory more than met any such promise. Those rulings went for the United States and are not counted as breaches. The Eastern Band's claims for its share of the treaties of 1785 to 1835 ended in a 1972 compromise of $1,855,254.50 that does not separate the treaties.",
+  "today": "Article 13 of the 1835 Treaty of New Echota (7 Stat. 478) settled, as a group, the claims of Cherokee reservees under all former treaties: reservations the United States had since sold, and reservations reservees were obliged by state laws to abandon or buy back, were to be paid for 'as it is only a just fulfillment of former treaty stipulations'. It confirmed 1817 reservations that the 1819 treaty had put back in Cherokee land, but it names no 1817 reservation as sold or lost. The Cherokee Nation, for the Western (Old Settler) Cherokee, brought Indian Claims Commission claims that turned on this treaty: Docket 2, for an 'outlet' to the west said to have been promised in 1817 and left out of the text, and Docket 24, on the Western Cherokee's rights in the Arkansas lands. The Commission dismissed both in 1952, holding in Docket 2 that the later fee title to land in Indian Territory more than met any such promise. Those rulings went for the United States and are not counted as breaches. The Eastern Band's claims for its share of the treaties of 1785 to 1835 ended in a 1972 compromise of $1,855,254.50 that does not separate the treaties. The Court of Claims affirmed both dismissals in 1953, holding in the Docket 2 appeal that whatever obligation could be drawn from the 1817 assurances was fulfilled fairly and in good faith (124 Ct. Cl. 127; Docket 24: 124 Ct. Cl. 315).",
   "nationVoice": [
     {
       "nation": "Cherokee Nation",
@@ -61,6 +61,16 @@
       "title": "History",
       "url": "https://www.cherokee.gov/about-the-nation/history/",
       "publisher": "Cherokee Nation"
+    },
+    {
+      "title": "Cherokee Nation ex rel. Western (Old Settler) Cherokee Indians v. United States, 124 Ct. Cl. 127 (1953)",
+      "url": "https://static.case.law/us-ct-cl/124/cases/0127-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School Library)"
+    },
+    {
+      "title": "Cherokee Nation ex rel. Western (Old Settler) Cherokee Indians v. United States, 124 Ct. Cl. 315 (1953)",
+      "url": "https://static.case.law/us-ct-cl/124/cases/0315-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School Library)"
     }
   ],
   "openQuestions": [
@@ -68,7 +78,8 @@
     "The 1835 treaty's own validity is disputed by the Cherokee Nation; its Article 13 is cited here only as the United States' acknowledgment.",
     "Whether the Article 5 Arkansas line was run and intruders removed, and whether the 1828 treaty that moved the Western Cherokee out of Arkansas records why, was not researched. The Commission's Docket 2 opinion quotes Cherokee complaints that settlers were filling up Lovely's Purchase.",
     "Whether reservees under Article 8 were paid under the 1835 Article 13 commission, and how much, was not traced.",
-    "Which of Royce areas 83 to 86 is which tract was not checked against the Royce maps."
+    "Which of Royce areas 83 to 86 is which tract was not checked against the Royce maps.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for Cherokee (Court of Claims index; pre-1946 cases and the Old Settler appeals grepped for 1817) and 'Cherokee July 8 1817' (ICC). Added to today the Court of Claims affirmances of the Docket 2 and Docket 24 dismissals (124 Ct. Cl. 127 and 124 Ct. Cl. 315, 1953). Also checked: Western Cherokee Indians v. United States, 27 Ct. Cl. 1 (1891), concerns the Old Settlers' share under the 1835 and 1846 treaties, and Western or Old Settler Cherokees v. United States, 82 Ct. Cl. 566 (1936), was dismissed for want of jurisdiction; neither finds this treaty broken."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

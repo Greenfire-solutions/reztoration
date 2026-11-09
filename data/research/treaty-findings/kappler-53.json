@@ -25,7 +25,7 @@
     {
       "kind": "court-ruling",
       "date": "2022-03-14",
-      "what": "The federal court held that the 1796 treaty's proviso conferred recognized title on the St. Regis Indians, that New York's purchases of reservation land in 1824 and 1825 were never ratified by the United States, and that the Saint Regis Mohawk Tribe and the United States had each made out a prima facie case under the Nonintercourse Act. It dismissed New York's claims that the reservation was disestablished or diminished and struck its abandonment, release and ratification defenses.",
+      "what": "The federal court held that the 1796 treaty's proviso gave the St. Regis Indians recognized title, that the United States never consented to New York's purchases of reservation land in 1824 and 1825, and that the Saint Regis Mohawk Tribe and the United States had each made out a prima facie case under the Nonintercourse Act. It dismissed New York's counterclaims that the reservation was disestablished or diminished and struck its abandonment and release defenses (and, against the United States, its ratification defense).",
       "whoFoundIt": "Canadian St. Regis Band of Mohawk Indians v. New York, 2022 WL 768669 (N.D.N.Y. March 14, 2022) (Kahn, J.)",
       "source": {
         "title": "Canadian St. Regis Band of Mohawk Indians v. State of New York, Nos. 5:82-CV-0783, 5:82-CV-1114, 5:89-CV-0829 (N.D.N.Y. March 14, 2022), 2022 WL 768669",
@@ -75,11 +75,12 @@
   "openQuestions": [
     "treaties.json lists no present-day tribes for this entry; the Saint Regis Mohawk Tribe and the other Akwesasne parties are named here. Not edited.",
     "The 1796 treaty is a cession to New York State made with a US commissioner present; Royce area 28 draws the Seven Nations' release of New York lands, while the breach recorded concerns the reserved St. Regis tract inside it.",
-    "The ruling was read in the National Indian Law Library copy; the Westlaw citation is from that copy. Whether later rulings addressed New York's laches defense was not traced.",
     "Whether New York paid the perpetual yearly sum was not researched.",
     "The Mohawk Council of Akwesasne's and the Mohawk Nation Council's own accounts were not opened.",
     "The settlement parties are named here only as far as the bill text shows (the three consolidated cases 82-CV-783, 82-CV-1114 and 89-CV-829); the agreement itself was not opened.",
-    "The court's quoted sentence was read in the National Indian Law Library copy through a summarising fetch; it should be checked against the full slip opinion."
+    "Whether later rulings addressed New York's remaining defenses, including the laches (Sherrill) defense partly upheld in 2013, was not traced.",
+    "The 2022 ruling is a partial summary judgment, not a final judgment: the tribal status of the Mohawk Council of Akwesasne and the Longhouse was referred for an evidentiary hearing.",
+    "Audit 2026-11-08: the full slip opinion (NILL copy, 2022 WL 768669, filed 03/14/2022, Kahn, J.) was read, not a summary. The quote is exact and is the court's statement of undisputed fact (St. Regis SMF para. 44). The holdings on recognized title, lack of federal consent, prima facie NIA cases for the Tribe and the United States, dismissal of the disestablishment, diminishment and Quiet Title Act counterclaims, and the struck defenses are in the opinion and its Conclusion; 'what' now says the ratification defense was struck only against the United States' complaint. The opinion records Senate ratification on January 16, 1797, now in 'ratified'. Treaty text (OSU) re-read; promises match. The settlement bill's enactment is still unconfirmed on 2026-11-08 (trackers show Senate action pending)."
   ],
   "plain": {
     "promised": "In 1796 the Seven Nations of Canada gave up claims in New York, but a six-mile-square tract at St. Regis, plus mills and meadows, stayed reserved for the St. Regis Mohawks.",
@@ -87,5 +88,6 @@
     "today": "A settlement with New York passed the House in December 2025 but was not confirmed enacted. No payment beyond the 1820s prices was found."
   },
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "ratified": "1797-01-16"
 }

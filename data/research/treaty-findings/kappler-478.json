@@ -1,6 +1,6 @@
 {
   "id": "kappler-478",
-  "name": "Treaty with the Potawatomi, September 20, 1836 (bands of To-i-sa's brother Me-mat-way and Che-quaw-ka-ko)",
+  "name": "Treaty with the Potawatomi, September 20, 1836 (bands of To-i-sa's brother, Me-mat-way and Che-quaw-ka-ko)",
   "signed": "1836-09-20",
   "proclaimed": "1837-02-18",
   "citation": "7 Stat. 513",
@@ -17,7 +17,7 @@
   "status": "no-breach-found",
   "breaches": [],
   "compensation": "$8,000 under Article 2, less debts paid under Article 4. Whether it was paid was not traced.",
-  "today": "A 1972 dissent in the Potawatomi land claims (Dockets 29-D and 29-E) lists this treaty among thirteen made between December 1834 and February 1837 with Wabash Potawatomi village bands for village areas reserved to them in 1832, and says the reserves ceded under them were not tribal lands. No Commission award for these reserves was found.",
+  "today": "A 1972 dissent by Chairman Kuykendall in the Potawatomi land claims (Dockets 29-D and 29-E) lists this treaty among thirteen made between December 1834 and February 1837 with Wabash Potawatomi village bands for village areas reserved to them in 1832, and says the reserves ceded under them were never tribal lands; it notes the majority also said they were not tribal lands after cession. No Commission award for these reserves was found.",
   "nationVoice": [
     {
       "nation": "Citizen Potawatomi Nation",
@@ -37,7 +37,7 @@
       "publisher": "Smithsonian Institution, via Internet Archive"
     },
     {
-      "title": "Hannahville Indian Community et al. v. United States, Dockets 29-D and 29-E, Order Denying Defendant's Motion to Dismiss, Part 1 (March 28, 1972), 27 Ind. Cl. Comm. 325, dissent",
+      "title": "Hannahville Indian Community et al. v. United States, Dockets 29-D and 29-E, Order Denying Defendant's Motion to Dismiss, Part 1 (March 28, 1972), 27 Ind. Cl. Comm. 187, dissent of Chairman Kuykendall, note 2 at p. 330",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1335",
       "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
     },
@@ -48,9 +48,10 @@
     }
   ],
   "openQuestions": [
-    "treaties.json names this entry for \"Potawatomi, Masac's band\" with Royce area 221. Kappler p. 470 (seq 478) and Royce p. 762 both show the September 20, 1836 treaty (7 Stat. 513) was with the bands of To-i-sa's brother Me-mat-way and Che-quaw-ka-ko; Masac (Mo-sack) is the September 22 treaty (7 Stat. 514, kappler-479). Royce p. 763 marks this cession \"See 221\": it is drawn inside the area of the Masac cession. Name not edited.",
+    "treaties.json names this entry for \"Potawatomi, Masac's band\" with Royce area 221. Kappler p. 470 (seq 478) and Royce p. 762 both show the September 20, 1836 treaty (7 Stat. 513) was with the bands of To-i-sa's brother, Me-mat-way and Che-quaw-ka-ko; Masac (Mo-sack) is the September 22 treaty (7 Stat. 514, kappler-479). Royce p. 763 marks this cession \"See 221\": it is drawn inside the area of the Masac cession. Name not edited.",
     "Royce lists the ten sections in the 1832 treaty as reserved for To-i-sa's brother's band to include their village.",
-    "The dissent in Dockets 29-D and 29-E was read; the majority opinion was not."
+    "The dissent in Dockets 29-D and 29-E was read; the majority opinion was not.",
+    "Audit 2026-11-08: treaty text (OSU) re-read: 7 Stat. 513, proclaimed February 18, 1837, Articles 1-4 match. The signatures list 'We-we-sah, or To-i sa's brother' and 'Me-mot-way' separately, so the name now carries a comma: two chiefs, not one. The dissent citation corrected from 27 Ind. Cl. Comm. 325 (the collection's page id) to 27 Ind. Cl. Comm. 187, note 2 at p. 330. ICC full text for 'potawatomi september 20 1836' and '7 stat 513 potawatomi' and the Potawatomi Court of Claims list (ctcl-index) show no award on this treaty. No-breach-found confirmed."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

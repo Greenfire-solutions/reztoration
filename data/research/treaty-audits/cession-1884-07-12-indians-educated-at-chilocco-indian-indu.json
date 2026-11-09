@@ -1,0 +1,20 @@
+{
+  "id": "cession-1884-07-12-indians-educated-at-chilocco-indian-indu",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce p. 916 (secs. 13-16, 21-28 and E. halves of 17, 20, 29, T. 29 N., R. 2 E.) and p. 917 (area 657; the next small school reserve \"Too small to show on the map. Contained 69.79 acres\").",
+    "Cherokee Phoenix article loads: 1893 purchase, 2,667 acres at $3.75 about 75 years later, and 1,333.99 acres placed in trust on April 21, 2016; the purchase and buy-back statements are quotes of BIA Regional Director Eddie Streater.",
+    "Court of Claims index \"Chilocco\": no case. ICC full text checked by the researcher (one unrelated Kiowa hit)."
+  ],
+  "changes": [
+    "compensation and nationVoice: attributed the 1893 and buy-back statements to the BIA regional director quoted by the Phoenix.",
+    "openQuestions: the unmatched small school reserve now records Royce p. 917 (too small to map, 69.79 acres)."
+  ],
+  "unverifiable": [
+    "657r.pdf executive-order link not opened. Whether the reserve lay inside the acreage valued in Docket 173 not checked (as the file says)."
+  ],
+  "treatiesJsonErrors": [
+    "cession-1884-07-12-indians-educated-at-chilocco-indian-indu: presentDayTribes is empty; the Cherokee Nation should be listed."
+  ]
+}

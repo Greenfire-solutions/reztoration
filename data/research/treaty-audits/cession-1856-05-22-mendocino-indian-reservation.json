@@ -1,0 +1,23 @@
+{
+  "id": "cession-1856-05-22-mendocino-indian-reservation",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce pp. 816-817 and 851: Henley recommendation Nov. 17, 1855; order May 22, 1856; abandonment Mar. 31, 1866",
+    "Act of July 27, 1868, ch. 248, sec. 6 read on govinfo (p. 223): sale at $1.25, improvers 640 acres, no provision for Indians",
+    "Indians of California, 81 Ct. Cl. 979, 98 Ct. Cl. 583, 99 Ct. Cl. 817: no Mendocino mention",
+    "ICC 13 Ind. Cl. Comm. 369: offset acreage given only in total",
+    "Senate Report No. 1522 (1885): Mendocino reservation named only as the reserve Nome Cult was auxiliary to"
+  ],
+  "changes": [
+    "today and source title: 15 Stat. 221, 223 corrected to 15 Stat. 198, 223 (chapter 248 begins p. 198)",
+    "openQuestions: audit lines on the 1944 judgment and the Dawes report"
+  ],
+  "unverifiable": [
+    "The 1944 Indians of California offset judgment (102 Ct. Cl. 837, December 4, 1944) is not in the Caselaw Access Project (vol. 102 has no case at p. 837) and no free copy was found; which reservations made up the 611,226 offset acres could not be checked."
+  ],
+  "treatiesJsonErrors": [
+    "treaties.json: presentDayTribes is empty for this record.",
+    "statute link (522c.pdf) is filed under FedStat though this entry is the 1856 executive order"
+  ]
+}

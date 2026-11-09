@@ -1,6 +1,6 @@
 {
   "id": "cession-1875-05-15-paiute-shoshone-snake",
-  "name": "Executive order of May 15, 1875 adding to the Malheur reservation (the reservation itself, Royce areas 638 and 646)",
+  "name": "Executive order of May 15, 1875 adding to the Malheur reservation (the reservation itself, Royce area 646)",
   "aka": [
     "Malheur Reservation addition, 1875"
   ],
@@ -64,7 +64,8 @@
   "openQuestions": [
     "Royce prints one order of May 15, 1875; treaties.json has two rows for it: this one (areas 638 and 646) and cession-1875-05-15-paiute-shoshoni (area 589). Both point at cession-1872-09-12-paiute-shoshone-snake, where the January 1879 taking is counted once.",
     "The Docket 17 order (OSU 32: $579,722.00, January 1879) and the Burns Paiute page were reopened on 2026-11-08; both were first audited for cession-1875-05-15-paiute-shoshoni and cession-1872-09-12-paiute-shoshone-snake.",
-    "treaties.json lists no presentDayTribes for this record. Not edited."
+    "treaties.json lists no presentDayTribes for this record. Not edited.",
+    "Audit 2026-11-08: name corrected from \"Royce areas 638 and 646\" to \"Royce area 646\": treaties.json maps only area 646 to this row (638 and 646 are on cession-1872-09-12-paiute-shoshone-snake). Reopened OSU 32: deprived in January 1879 without compensation, $579,722.00 less offsets, dated April 15, 1959; matches. Royce p. 880 text (range line 39-40 E., Strawberry butte, Castle rock) matches. sameEventAs kept."
   ],
   "plain": {
     "promised": "Not a treaty: a presidential order. It added a tract to the Malheur reservation in southeastern Oregon.",

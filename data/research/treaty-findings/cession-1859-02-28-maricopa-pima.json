@@ -5,7 +5,7 @@
     "Gila River Indian Reservation, 1859"
   ],
   "signed": "1859-02-28",
-  "citation": "Act of February 28, 1859 (cited as 11 Stat. 388 by the Court of Claims)",
+  "citation": "Act of February 28, 1859, ch. 66, secs. 3-5, 11 Stat. 388, 401",
   "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/820/mode/2up",
   "nations": [
     "Gila River Indian Community (Akimel O'odham and Pee-Posh)",
@@ -60,13 +60,19 @@
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 820-821",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/820/mode/2up",
       "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Act of February 28, 1859, ch. 66, secs. 3-5, 11 Stat. 388, 401",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-11/pdf/STATUTE-11-Pg388-2.pdf",
+      "publisher": "US Government Publishing Office, govinfo"
     }
   ],
   "openQuestions": [
     "treaties.json lists no present-day tribes for this entry; the Gila River Indian Community and the Salt River Pima-Maricopa Indian Community are named here. Not edited.",
-    "The Court of Claims cites the Act as 11 Stat. 388; Royce's reference column for the row appears to read Stat. L. XI, 401 in the scan, but the alignment is unclear. The Statutes at Large page was not opened.",
     "What damages were finally paid in Docket 236-C, and how the 2004 Arizona Water Settlements Act treated those claims, were not traced; the 2004 Act was not opened.",
-    "The 1982 ruling held no liability for years after 1905 and rejected the Community's claim to water for all practicably irrigable acres."
+    "The 1982 ruling held no liability for years after 1905 and rejected the Community's claim to water for all practicably irrigable acres.",
+    "Audit 2026-11-08: citation settled: the Indian appropriation act of February 28, 1859 (ch. 66) begins at 11 Stat. 388, and the Pima-Maricopa sections 3 to 5 (survey, reservation of not more than 100 square miles, $10,000 for presents) are on p. 401, which is the page Royce gives. Statute read on govinfo.",
+    "Audit 2026-11-08: 231 Ct. Cl. 193 (June 30, 1982, Docket 236-C, per curiam) re-read in full: it concerns this reservation (it names the 1859 Act and the reservation as established that year), holds the United States liable to the Gila River Pima-Maricopa Indian Community under the fair and honorable dealings clause for the period ending in 1905, rejects liability after 1905 and the claim to all practicably irrigable acres, and remands damages. Quote checked exact. Breach confirmed."
   ],
   "plain": {
     "promised": "In 1859 Congress set apart land around the Pima and Maricopa villages on the Gila River, keeping them secure in the farms they had long watered.",

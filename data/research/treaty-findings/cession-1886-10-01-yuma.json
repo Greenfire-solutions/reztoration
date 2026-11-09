@@ -71,9 +71,9 @@
   ],
   "openQuestions": [
     "Same event as cession-1884-01-09-yuma: the Commission dated the Arizona taking to that executive order. The 1886-10-01 date in treaties.json is a Royce heading, not a date of this taking. Not edited.",
-    "The settlement findings give the Arizona acreage as 881,644 acres in one place; the primary file notes the scan also reads 381,644, so no acreage is recorded here.",
     "Royce shows the Yuma country only on his Arizona map; the California land taken March 3, 1853 (also in Docket 319) is not part of this polygon.",
-    "treaties.json lists no present-day tribes; the Quechan Tribe should be listed. Not edited. The Quechan Tribe's own account was not located."
+    "The Quechan Tribe's own account was not located.",
+    "Audit 2026-11-08: the Arizona acreage is printed plainly as 881,644 in Finding 28 (the stipulation copy on the same pages reads '881,b44'), so it is now recorded in landTaken; the earlier note about a 381,644 reading was removed. treaties.json now lists the Quechan Tribe. Orders and the $520,000.00 net judgment re-read and match."
   ],
   "plain": {
     "promised": "Nothing. No treaty of purchase was made. The United States assumed title to the Quechan country and concentrated most of them on the Colorado River and Yuma reservations.",
@@ -81,5 +81,6 @@
     "today": "The claim was settled in 1965 for $520,000.00, of which $353,000 was for the Arizona land."
   },
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "landTaken": "881,644 acres in Arizona (with 667,544 acres in California), net of the 1884 reservation and the bed of the Colorado River, as measured by the Bureau of Land Management (Docket 319, 1965 Additional Findings, Finding 28). The 48,356-acre 1884 reservation was not part of Docket 319."
 }

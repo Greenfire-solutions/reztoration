@@ -1,0 +1,19 @@
+{
+  "id": "cession-1886-10-01-cocopa",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce pp. 922-923 area 686: \"No treaty of purchase was ever made with this tribe. The U. S. assumed title to their country\"; most concentrated on the Colorado River reservation.",
+    "ICC full text \"Cocopah\" and \"Cocopa\": only Mohave findings (186) and Quechan findings (323); title search \"Cocopah\": none.",
+    "Court of Claims index \"Cocopa\" and \"Cocopah\": no case. No-breach-found stands."
+  ],
+  "changes": [
+    "openQuestions: stale presentDayTribes note replaced (treaty-corrections.json lists the Cocopah Tribe of Arizona)."
+  ],
+  "unverifiable": [
+    "ICC 1978 Final Report docket list and the 1970 accretion suit not opened (as the file says); Cocopah history page 404."
+  ],
+  "treatiesJsonErrors": [
+    "cession-1886-10-01-cocopa: date 1886-10-01 is a Royce heading carried down from the Pueblo rows (Act of Congress, Stat. L. XI, 374); Royce 686 has no date of its own."
+  ]
+}

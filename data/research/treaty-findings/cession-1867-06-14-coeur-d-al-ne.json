@@ -39,7 +39,8 @@
     "Not a treaty: an executive order reserve, enlarged in 1873. No court, Commission or Act finding about the 1867 reserve itself was found; the Docket 81 findings speak of the 1873 agreement and reservation, not this order.",
     "treaties.json maps this record to Royce area 552. Royce (pp. 866-867, entry of November 8, 1873) gives 552 as the reserve of November 8, 1873 ('the present reserve'), with the 1867 boundaries drawn inside it by a dotted line; the Coeur d'Alene country outside that reserve, ceded by the agreement of March 26, 1887 ratified March 3, 1891, is area 553 (cession-1891-03-03-coeur-d-al-ne). The Indian Claims Commission's Docket 81 findings on those outside lands belong to the 1891 record, not to this order.",
     "The order text was read through Royce only; the University of Georgia copy (552r.pdf) did not load.",
-    "Audit 2026-11-08 (round 12): an earlier line described area 552 as the country outside the 1873 reservation; Royce's map column puts 552 on the 1873 reserve itself and the Docket 81 findings (4 Ind. Cl. Comm. 1) concern the lands ceded by the 1887 agreement outside it. Line corrected; status unchanged."
+    "Audit 2026-11-08 (round 12): an earlier line described area 552 as the country outside the 1873 reservation; Royce's map column puts 552 on the 1873 reserve itself and the Docket 81 findings (4 Ind. Cl. Comm. 1) concern the lands ceded by the 1887 agreement outside it. Line corrected; status unchanged.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for: Court of Claims names \"coeur\" (0); ICC full text \"Coeur d'Alene 1867\", \"Coeur d'Alene reservation 1867\" (Docket 81 decisions already considered). Nothing new."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

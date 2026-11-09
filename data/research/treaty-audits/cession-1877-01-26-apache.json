@@ -1,0 +1,22 @@
+{
+  "id": "cession-1877-01-26-apache",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Docket 22-D interlocutory order (OSU 932) conclusion 5 names January 26, 1877; quote exact apart from the scan's line-break hyphen",
+    "Opinion (OSU 1611) and final award (OSU 1055, $4,900,000, 28 Ind. Cl. Comm. 399) match",
+    "Royce p. 888 text (360 by 240 chains, Lieutenant E. D. Thomas, flagstaff of Camp Apache) matches area 601",
+    "Double count: area 601 is on no other record; distinct from 1871-11-09, 1877-03-31 and the 1886 western-bands row"
+  ],
+  "changes": [
+    "Compensation now states the $4,900,000 award (opened in OSU 1055) instead of pointing to another file",
+    "Added 'Royce area 601' to aka"
+  ],
+  "unverifiable": [
+    "Whether all of area 601 lay inside the Finding 11 title area was not plotted",
+    "treaties.json error: presentDayTribes is empty for this record (not edited)."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes is empty for this record"
+  ]
+}

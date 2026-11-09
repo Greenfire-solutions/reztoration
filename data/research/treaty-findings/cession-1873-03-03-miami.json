@@ -36,7 +36,8 @@
     "The Docket 251-A compromise does not name the 1873 Act; it is reported here as the closest claim located, not as a finding about this sale. A settlement would count only as litigation in any case.",
     "Docket 251 (1958) concerns the 1854 cession in Kansas, not this remnant.",
     "The Miami Tribe of Oklahoma's own account of the Kansas reserve sale was not searched in this pass.",
-    "Audit 2026-11-08: removed a stale line saying treaties.json lists no statute; it now links 17 Stat. 631. Docket 251-A findings re-read (slightly more than 10,000 acres, about $80,000, sold at appraised value, $10,000 settlement, January 9, 1969): match. No Court of Claims or ICC full-text hit ties a finding to this Act."
+    "Audit 2026-11-08: removed a stale line saying treaties.json lists no statute; it now links 17 Stat. 631. Docket 251-A findings re-read (slightly more than 10,000 acres, about $80,000, sold at appraised value, $10,000 settlement, January 9, 1969): match. No Court of Claims or ICC full-text hit ties a finding to this Act.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for: Court of Claims names \"miami\" (12 cases; 150 Ct. Cl. 725 (1960) mentions 1873 only in valuing an 1854 annuity); ICC full text \"Miami\" decisions on Docket 251-A already considered. Nothing new."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

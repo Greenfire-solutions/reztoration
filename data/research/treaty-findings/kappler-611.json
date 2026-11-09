@@ -18,11 +18,35 @@
     "Article 3: $60,000, of which $15,000 was kept back for settlers' losses, $5,000 spent on tools, blankets and goods by September 1, 1854, and $40,000 paid in sixteen yearly instalments.",
     "Article 4: houses for the three principal chiefs, equal improvements on any new reserve, and a further $15,000 in five instalments on removal."
   ],
-  "status": "no-breach-found",
-  "breaches": [],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1946-02-04",
+      "what": "The Court of Claims held that the Act of March 3, 1875, which made able-bodied men work for annuities and supplies already owed, was a plain violation of the treaties, and allowed the Rogue River Tribe $569.07 for the part of its obligations under this treaty paid out under that work order.",
+      "whoFoundIt": "Court of Claims, Rogue River Tribe of Indians et al. v. United States, No. 45231, 105 Ct. Cl. 495 (1946)",
+      "source": {
+        "title": "Rogue River Tribe of Indians et al. v. United States, No. 45231, 105 Ct. Cl. 495, 64 F. Supp. 339 (Court of Claims, February 4, 1946)",
+        "url": "https://static.case.law/us-ct-cl/105/cases/0495-01.json",
+        "publisher": "Caselaw Access Project (Harvard Law School)"
+      },
+      "quote": "We regard this as a plain violation of the terms of the treaty"
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1946-02-04",
+      "what": "The same opinion found that funds appropriated to meet this treaty were not spent for the tribe as the treaty provided, and held the Rogue River Tribe entitled to recover $3,849.16 plus $165.07 of administrative expense wrongly charged to it, $4,014.23 in all.",
+      "whoFoundIt": "Court of Claims, Rogue River Tribe of Indians et al. v. United States, No. 45231, 105 Ct. Cl. 495 (1946)",
+      "source": {
+        "title": "Rogue River Tribe of Indians et al. v. United States, No. 45231, 105 Ct. Cl. 495, 64 F. Supp. 339 (Court of Claims, February 4, 1946)",
+        "url": "https://static.case.law/us-ct-cl/105/cases/0495-01.json",
+        "publisher": "Caselaw Access Project (Harvard Law School)"
+      }
+    }
+  ],
   "landTaken": "Royce Area 312 in south-western Oregon and northern California; the acreage was not found in a source opened.",
-  "compensation": "$60,000 under the treaty, $15,000 of it held back for settlers' claims. The outcome of the Court of Claims suit by the Rogue River tribe (No. 45231, 1946 and 1950) was not found.",
-  "today": "The Western Oregon Indian Termination Act of August 13, 1954 (68 Stat. 724) listed the Rogue River, Takelma and Shasta peoples among the tribes whose federal supervision and services were to end; it does not mention this treaty, and the Table Rock reserve this treaty set apart had been abandoned after the Rogue River War of 1855-56. Congress restored the Confederated Tribes of Siletz Indians in 1977 and the Confederated Tribes of the Grand Ronde Community in 1983 (Public Law 98-165).",
+  "compensation": "$60,000 under the treaty, $15,000 of it held back for settlers' claims. The Court of Claims allowed the Rogue River Tribe $569.07 (work order) and $4,014.23 (unspent treaty funds and administrative expense) in 1946, but in 1950 found that gratuities the government had spent for the tribe up to July 1, 1943 equalled those awards, so nothing was paid and the tribe's petition was dismissed (116 Ct. Cl. 454).",
+  "today": "In 1950 the Court of Claims set off gratuities against the 1946 awards and dismissed the Rogue River Tribe's petition with no balance due. The same court held in 1946 that the Table Rock reserve was temporary and that the treaty gave the tribe no right to a specific permanent reservation, a ruling against the tribe on its land claim. The Western Oregon Indian Termination Act of August 13, 1954 (68 Stat. 724) listed the Rogue River, Takelma and Shasta peoples among the tribes whose federal services were to end; it does not mention this treaty. Congress restored the Confederated Tribes of Siletz Indians in 1977 and the Confederated Tribes of the Grand Ronde Community in 1983 (Public Law 98-165).",
   "nationVoice": [
     {
       "nation": "Confederated Tribes of Grand Ronde",
@@ -50,14 +74,30 @@
       "title": "Treaties",
       "url": "https://www.grandronde.org/history-culture/history/treaties/",
       "publisher": "Confederated Tribes of Grand Ronde"
+    },
+    {
+      "title": "Rogue River Tribe of Indians et al. v. United States, No. 45231, 105 Ct. Cl. 495, 64 F. Supp. 339 (Court of Claims, February 4, 1946)",
+      "url": "https://static.case.law/us-ct-cl/105/cases/0495-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School)"
+    },
+    {
+      "title": "Rogue River Tribe of Indians et al. v. United States, No. 45231, 116 Ct. Cl. 454, 89 F. Supp. 798 (Court of Claims, April 3, 1950)",
+      "url": "https://static.case.law/us-ct-cl/116/cases/0454-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School)"
     }
   ],
   "openQuestions": [
     "The Table Rock reservation was abandoned after the Rogue River War of 1855-56 and its people moved north to the Grand Ronde and Siletz reservations; no finding on whether that removal kept Articles 2 and 4 was found.",
-    "Rogue River Tribe of Indians v. United States, 89 F. Supp. 798 (Ct. Cl. 1950), and the 1946 decision in the same case are the obvious next sources; the full text was behind a paywall.",
+    "Resolved 2026-11-08: both Court of Claims opinions were read in full at the Caselaw Access Project (105 Ct. Cl. 495; 116 Ct. Cl. 454).",
     "The Confederated Tribes of Grand Ronde history page loaded with little text on 2026-11-07; no nation account of this treaty was opened.",
-    "Audit 2026-11-08: removed the 1954 Termination Act as a breach and changed the status from broken to no breach found yet. Rule 9 needs an Act that took or overrode what this treaty secured; the Act does not name the treaty, the temporary Table Rock reserve and the annuities it secured were gone long before 1954, and the 1983 Grand Ronde Act restores treaty rights only in general words. The Court of Claims decisions in Rogue River Tribe v. United States (64 F. Supp. 339, 1946, and 89 F. Supp. 798, 1950), which concern the Table Rock reservation, are the likely finding; both were behind paywalls (Leagle, Midpage) on 2026-11-08."
+    "Audit 2026-11-08: removed the 1954 Termination Act as a breach and changed the status from broken to no breach found yet. Rule 9 needs an Act that took or overrode what this treaty secured; the Act does not name the treaty, the temporary Table Rock reserve and the annuities it secured were gone long before 1954, and the 1983 Grand Ronde Act restores treaty rights only in general words. The Court of Claims decisions in Rogue River Tribe v. United States (64 F. Supp. 339, 1946, and 89 F. Supp. 798, 1950), which concern the Table Rock reservation, are the likely finding; both were behind paywalls (Leagle, Midpage) on 2026-11-08.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for rogue river, table rock and 10 Stat. 1018; found Rogue River Tribe v. United States (Ct. Cl. 1946, 1950): treaty-fund and 1875 work-order violations under this treaty, net award nil after offsets. Status changed to broken."
   ],
   "researchedAt": "2026-11-07",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "plain": {
+    "promised": "A temporary reserve at Table Rock until the President chose a permanent home, $60,000 in goods and yearly payments, houses for three chiefs, and $15,000 more on removal.",
+    "happened": "In 1946 the Court of Claims found the United States broke the treaty: an 1875 law made the people work for payments already owed, and money set aside for them was not spent for them.",
+    "today": "The court allowed $569.07 and $4,014.23, but in 1950 offset other government spending against them, so nothing was paid. The tribes were terminated in 1954; Siletz was restored in 1977 and Grand Ronde in 1983."
+  }
 }

@@ -40,7 +40,7 @@
       }
     }
   ],
-  "compensation": "As recorded in the primary file: a final award of $428,358.07 after offsets (December 29, 1971), then $468,358.07 on the parties' stipulation (September 26, 1973).",
+  "compensation": "A final award of $428,358.07 after $171,641.93 in offsets (December 29, 1971), then $468,358.07 on the parties' stipulation (September 26, 1973).",
   "today": "This record maps the Mohave country in Arizona (Royce 684). The Commission dated the taking of the Arizona and Nevada land to the Act of March 3, 1865, already carried by cession-1865-03-03-colorado-river, so it is marked as the same event.",
   "nationVoice": [],
   "sources": [
@@ -55,7 +55,7 @@
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
     },
     {
-      "title": "Mohave Tribe v. United States, Docket 283, Final Award (December 29, 1971)",
+      "title": "Mohave Tribe v. United States, Dockets 283 and 295, Final Award (December 29, 1971), 26 Ind. Cl. Comm. 563",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2618",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
     },
@@ -67,8 +67,8 @@
   ],
   "openQuestions": [
     "Same event as cession-1865-03-03-colorado-river. The 1886-10-01 date in treaties.json is a Royce heading, not a date of this taking. Not edited.",
-    "The award figures are taken from the primary file; the 1971 and 1973 award pages were not re-read in this pass.",
-    "treaties.json lists no present-day tribes; the Fort Mojave Indian Tribe and the Colorado River Indian Tribes should be listed. Not edited. No nation account was looked up."
+    "No nation account was looked up.",
+    "Audit 2026-11-08: the 1959 interlocutory order (7 Ind. Cl. Comm. 219), the 1971 final award ($428,358.07 after $171,641.93 offsets) and the 1973 compromise award ($468,358.07) were re-read and match. treaties.json now lists the Fort Mojave and Colorado River tribes (correction applied), so the note saying it lists none was removed."
   ],
   "plain": {
     "promised": "Nothing. No treaty of purchase was made. The United States assumed title to the Mohave country and concentrated most of them on the Colorado River reservation.",

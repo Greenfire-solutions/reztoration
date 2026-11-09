@@ -1,19 +1,19 @@
 {
   "id": "cession-1868-07-27-smith-river-reservation",
-  "name": "Act of July 27, 1868 discontinuing the Smith River reservation, California (15 Stat. 221)",
+  "name": "Act of July 27, 1868 discontinuing the Smith River reservation, California (15 Stat. 198, 221)",
   "aka": [
     "Smith River Indian Reservation, 1862-1868",
     "Royce area 521"
   ],
   "signed": "1868-07-27",
-  "citation": "15 Stat. 221",
+  "citation": "Act of July 27, 1868, ch. 248, 15 Stat. 198, 221",
   "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/850/mode/2up",
   "nations": [
     "Tolowa Dee-ni' Nation",
     "other Indians removed to Smith River from the Klamath River reserve and the Humboldt Bay region"
   ],
   "promises": [
-    "Not a treaty: an Act of Congress. Royce records that Congress discontinued the Smith River reservation in California and provided for removal of its Indians to the Hoopa Valley and Round Valley reservations.",
+    "Not a treaty: an Act of Congress. The Indian appropriation act of July 27, 1868 appropriated $3,500 for removing the Indians from Smith River reservation to the Hoopa Valley and Round Valley reservations and declared the Smith River reservation discontinued (15 Stat. 221).",
     "Royce's note: after the Klamath River reserve was destroyed by a freshet, the agent moved the Indians to the Smith River valley; on May 6, 1862 the Secretary of the Interior temporarily set apart Townships 17, 18 and 19 North, Range 1 West, Humboldt meridian, subject to approval and appropriation by Congress.",
     "Royce's note: Congress failed to make the appropriation, rent was paid to settlers for some years, and in 1869 the reserve was abandoned and the Indians were removed to Hoopa Valley."
   ],
@@ -43,14 +43,20 @@
       "title": "Reservation Ranch - Selling Stolen Land",
       "url": "https://www.tolowa.gov/reservationranch",
       "publisher": "Tolowa Dee-ni' Nation, Tribal Heritage Preservation Office"
+    },
+    {
+      "title": "Act of July 27, 1868, ch. 248, 15 Stat. 198, 221 (Smith River reservation discontinued)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-15/pdf/STATUTE-15-Pg198-2.pdf",
+      "publisher": "US Government Publishing Office, govinfo"
     }
   ],
   "openQuestions": [
     "The reservation was set apart by the Secretary of the Interior subject to Congress, which never funded it; the 1868 Act ended it. Under the 2026-11-08 rule this is not itself a breach, and no court, Claims Commission or government admission about this land was found.",
     "The 1964 Indians of California findings say reservation lands paid for as offsets in the 1944 Court of Claims judgment (102 Ct. Cl. 837) were excluded from the award area; whether the Smith River tract was among them was not checked. The 1942 Court of Claims opinion (98 Ct. Cl. 583) does not mention it.",
     "The Tolowa Dee-ni' page opened describes the Smith River valley generally, not the 1862-1868 reservation; its continuation is an ArcGIS story map that was not read.",
-    "The Act's text (15 Stat. 221) was read only in Royce's summary.",
-    "treaties.json lists no presentDayTribes for this record (the Tolowa Dee-ni' Nation is the evident successor). Not edited."
+    "treaties.json lists no presentDayTribes for this record (the Tolowa Dee-ni' Nation is the evident successor). Not edited.",
+    "Audit 2026-11-08: the Act's text was read on govinfo (ch. 248, p. 221): $3,500 for removal to Hoopa Valley and Round Valley, \"and the Smith River reservation is hereby discontinued\". Citation made exact (chapter 248 begins at p. 198) and the first promise reworded from the statute.",
+    "Audit 2026-11-08: searched for findings as asked: the 1944 Court of Claims offset judgment (102 Ct. Cl. 837) is not in the Caselaw Access Project and no free copy was found, so the offset question above stays open; Senate Report No. 1522 (1885, Dawes) mentions Smith River only in a letter on the Mission Indians recommending a law to break up and abandon the reservation; no finding. Royce p. 851 (freshet, May 6, 1862 order, Ts. 17-19 N., R. 1 W.) confirmed. No change to status."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

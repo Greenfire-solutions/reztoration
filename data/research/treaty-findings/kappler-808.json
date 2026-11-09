@@ -20,7 +20,7 @@
   ],
   "status": "no-breach-found",
   "breaches": [],
-  "today": "Royce records that the retained reserve and the trust lands were sold under this treaty and Acts of Congress of May 8, 1872, June 23, 1874, July 5, 1876 and March 16, 1880, and that the tribe moved to a new reserve in Indian Territory. In the Kaw accounting claim (Docket 33) the Indian Claims Commission read this treaty in 1952 as the tribe taking on the cost of the farming aid it describes. The Commission's findings that the 1846 cessions were unconscionable belong to the 1846 treaty (kappler-560).",
+  "today": "Royce records that the retained reserve and the trust lands were sold under this treaty and Acts of Congress of May 8, 1872, June 23, 1874, July 5, 1876 and March 16, 1880, and that the tribe moved to a new reserve in Indian Territory. In the Kaw accounting claim (Docket 33) the Indian Claims Commission read this treaty in 1952 as the tribe taking on the cost of the farming aid it describes. The Commission's findings that the 1846 cessions were unconscionable belong to the 1846 treaty (kappler-560). In 1934 the Court of Claims rejected the Kaw claims arising under this treaty (claim 8): it held that the Acts of 1872 and 1876, to which the tribe assented, amended and superseded the treaty's sale terms, that the lands were sold in conformity with the treaty or the statutes in force, and that the tribe's release on accepting the Kaw commission award barred the scrip claims (80 Ct. Cl. 264). That ruling went against the tribe.",
   "nationVoice": [
     {
       "nation": "Kaw Nation",
@@ -48,12 +48,18 @@
       "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule pp. 822-823",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/822/mode/2up",
       "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Kansas or Kaw Tribe of Indians v. United States, No. F-64, 80 Ct. Cl. 264 (Court of Claims, December 3, 1934)",
+      "url": "https://static.case.law/us-ct-cl/80/cases/0264-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School)"
     }
   ],
   "openQuestions": [
     "treaties.json error: scheduleTribes includes 'Western Shoshoni', presentDayTribes the Te-Moak Tribe of Western Shoshone, the states include Nevada, and the Royce areas include 422. On Royce p. 822 the Western Shoshoni row is a separate, undated entry under the same date (a 6-mile-square reserve selected by agent Jarvis at Ruby Valley, Nevada, area 422). It has nothing to do with this Kansa treaty and should be its own entry; treaties.json was not edited.",
     "Article 4 required sale of the surplus to the highest bidder for cash on sealed proposals. Whether the later Acts (1872 to 1880), which Royce says governed the sales, overrode that term without Kaw consent is the main lead for a deeper pass; the statutes were not opened.",
-    "Audit 2026-11-08 (round 8): Ruby Valley areas checked on Royce pp. 822-823: area 420 is the Kansa retained reserve (sold under the Acts of 1872 to 1880 after removal), 421 the Kansa trust lands sold under this treaty and those Acts, and 422 the Western Shoshoni reserve 6 miles square selected by agent Jarvis at Ruby Valley, Nevada, later abandoned and used as an Overland Stage station. Area 422 and the Nevada, Western Shoshoni and Te-Moak entries in treaties.json do not belong to this treaty, as the file says."
+    "Audit 2026-11-08 (round 8): Ruby Valley areas checked on Royce pp. 822-823: area 420 is the Kansa retained reserve (sold under the Acts of 1872 to 1880 after removal), 421 the Kansa trust lands sold under this treaty and those Acts, and 422 the Western Shoshoni reserve 6 miles square selected by agent Jarvis at Ruby Valley, Nevada, later abandoned and used as an Overland Stage station. Area 422 and the Nevada, Western Shoshoni and Te-Moak entries in treaties.json do not belong to this treaty, as the file says.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for kansa, kaw, October 5 1859 and 12 Stat. 1111; found Kansas or Kaw Tribe v. United States, 80 Ct. Cl. 264 (1934), which answers the lead on the 1872-1880 Acts against the tribe; added to today. Status unchanged."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

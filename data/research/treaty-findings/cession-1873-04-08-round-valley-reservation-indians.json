@@ -45,7 +45,8 @@
   "openQuestions": [
     "Same land and event as cession-1873-03-03-round-valley-reservation-indians (Royce area 583): this order only withdrew the 1873 Act tract from sale while the boundary commission worked. The breach is the same 1885 Senate admission and should not be counted twice.",
     "The order itself was read only in Royce's summary and in the 1885 report, which says it was issued on April 8, 1873 at the Indian Office's request of March 29, 1873 and sent on by Department letter of April 10, 1873.",
-    "The Round Valley Indian Tribes' own account of the 1873 boundaries was not found."
+    "The Round Valley Indian Tribes' own account of the 1873 boundaries was not found.",
+    "Audit 2026-11-08: Senate Report No. 1522 (1885) re-read from the SHAREOK text: the April 8, 1873 order (Executive Mansion, U. S. Grant), the 97,500 acres held without compensation since the 1873 Act, the $34,125 a year estimate, and the quote (printed hyphenated \"ex- cuse\") all confirmed. sameEventAs kept. No change."
   ],
   "plain": {
     "promised": "In 1873 Congress set new Round Valley reservation lines, and this order held the land back from sale while the boundary was fixed. Settlers inside were to be paid for improvements and leave.",

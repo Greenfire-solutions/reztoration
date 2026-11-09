@@ -1,0 +1,21 @@
+{
+  "id": "cession-1876-04-27-apache",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Docket 22-D interlocutory order (OSU 932) conclusion 5 names April 27, 1876; quote exact",
+    "Opinion (OSU 1611) and final award (OSU 1055, $4,900,000) match",
+    "Royce p. 884 text (Sombrero or Plumoso butte, Chromo peak, mouth of the San Pedro) matches area 592",
+    "Double count: area 592 is on no other record; not in 1871-11-09 (541, 573, 582, 603), 1877-03-31 (602, 603) or 1886 western bands (689, land outside the reservation taken May 1, 1873, conclusion 4). Conclusion 5 orders a separate acreage and value per tract and date, so it is a distinct taking"
+  ],
+  "changes": [
+    "Audit line added to openQuestions"
+  ],
+  "unverifiable": [
+    "Whether all of area 592 lay inside the Finding 11 title area was not plotted",
+    "treaties.json error: presentDayTribes is empty for this record (not edited)."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes is empty for this record"
+  ]
+}

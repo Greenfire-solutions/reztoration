@@ -19,7 +19,7 @@
     {
       "kind": "government-admission",
       "date": "2011-10-04",
-      "what": "Interior testified that the Bureau of Indian Affairs and the Army Corps of Engineers assured the Nation that the Painted Rock Dam, completed in 1960, would not impair farming on the reservation, but that the dam flooded nearly 9,880 acres of it, making them unusable, and destroyed a 750-acre tribal farm.",
+      "what": "Interior testified that the Bureau of Indian Affairs and the Army Corps of Engineers assured the Nation that the Painted Rock Dam, completed in 1960, would not impair farming on the San Lucy District, which the 1882 order created, but that the dam continuously flooded nearly 9,880 acres of it, rendering them unusable for economic development, and destroyed a 750-acre farm that had provided tribal revenues.",
       "whoFoundIt": "US Department of the Interior, testimony of Paula L. Hart on H.R. 2938 (October 4, 2011)",
       "source": {
         "title": "Testimony of Paula L. Hart, Director, Office of Indian Gaming, US Department of the Interior, on H.R. 2938, House Subcommittee on Indian and Alaska Native Affairs (October 4, 2011)",
@@ -29,9 +29,9 @@
       "quote": "Both the Bureau of Indian Affairs (BIA) and the Corps assured the Nation that flooding would not impair agricultural use"
     }
   ],
-  "landTaken": "Nearly 9,880 acres of the San Lucy District (Gila Bend Reservation) flooded by the Painted Rock Dam (Interior testimony, 2011). The reservation was also reduced by an executive order of June 17, 1909 (Docket 345 finding); that reduction is not a breach by itself.",
+  "landTaken": "Nearly 9,880 acres of the San Lucy District (Gila Bend Reservation) flooded by the Painted Rock Dam (Interior testimony, 2011). The reservation was also reduced by an executive order of June 17, 1909 (Docket 345, finding 4); that reduction is not a breach by itself.",
   "compensation": "Under the Gila Bend Indian Reservation Lands Replacement Act of October 20, 1986, the United States would pay the Tohono O'odham Nation $30,000,000 if it assigned its interest in 9,880 acres of the reservation and waived all claims of injury to the reservation's land and water; the Nation may buy replacement land to be held in trust (Public Law 99-503, sections 4, 6 and 9).",
-  "today": "Interior described the 1986 Act as intended to remedy the flooding damage and as terms both the United States and the Nation agreed to (testimony, 2011). In the Papago land claim (Docket 345) the Indian Claims Commission excluded the Gila Bend Reservation from the claim and found no exclusive Papago aboriginal use of the Gila Bend river area (1968).",
+  "today": "Interior described the 1986 Act as intended to remedy the flooding damage and as terms both the United States and the Nation agreed to (testimony, 2011). In the Papago land claim (Docket 345) the Papago Tribe excluded the Gila Bend Reservation, as reduced by the order of June 17, 1909, from its surface claim (finding 4), and the Indian Claims Commission found no evidence of exclusive Papago aboriginal use of the river area at Gila Bend (opinion, 1968).",
   "nationVoice": [],
   "sources": [
     {
@@ -74,7 +74,9 @@
     "The breach rests on a government admission about federal flooding of this reservation land, not on a court or Commission finding; the 1986 Act itself does not mention flooding. Jordan may want to rule on whether damage by a federal dam counts as a breach of an executive-order reservation.",
     "The June 17, 1909 order that reduced the reservation was not opened; the acreage it removed is uncertain.",
     "The Tohono O'odham Nation's own account of San Lucy and the flooding was not found on its website.",
-    "treaties.json error: presentDayTribes is empty for this record; the Tohono O'odham Nation of Arizona should be listed. Not edited."
+    "treaties.json error: presentDayTribes is empty for this record; the Tohono O'odham Nation of Arizona should be listed. Not edited.",
+    "Audit 2026-11-08: what the testimony literally says, for Jordan's open decision. It is about THIS reservation: \"The San Lucy District ... was created by Executive Order in 1882 and originally encompassed 22,400 acres\" (T. 5 S., R. 5 W. less section 18). It says BIA and the Corps \"assured the Nation that flooding would not impair agricultural use\"; \"Nevertheless, construction of the dam resulted in continuous flooding of nearly 9,880 acres ... rendering them unusable for economic development purposes\"; Congress enacted the 1986 Act \"to redress the flooding of the Nation's lands\"; the Act \"was intended to remedy damage to the Nation's lands caused by flooding from the construction of the Painted Rock Dam\". It states federal assurances, federal causation and a remedy; it does not use the words wrong, unlawful, breach or taking, and it does not say the 1882 order was violated. The status is left as filed pending Jordan's ruling.",
+    "Audit 2026-11-08: breach wording tightened to the testimony (\"unusable for economic development purposes\", \"continuous flooding\"); today corrected: it was the Papago Tribe, not the Commission, that excluded the Gila Bend Reservation from the Docket 345 surface claim (finding 4). Kappler p. 804 text and Public Law 99-503 sections 4, 6 and 9 re-read and match; the Act has no flooding finding, as filed."
   ],
   "plain": {
     "promised": "Not a treaty. An 1882 presidential order set apart a township near Gila Bend, Arizona, for the Papago (Tohono O'odham) and other Indians living there.",

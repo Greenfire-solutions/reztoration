@@ -21,7 +21,7 @@
   ],
   "status": "no-breach-found",
   "breaches": [],
-  "today": "The Delaware gave up their Missouri lands (Royce Areas 125, shared with the Shawnee, and 150a) and moved to the Kansas reserve, which the Indian Claims Commission found contained 1,884,160 acres: 924,160 acres of residence land and 960,000 acres of outlet. The Delaware ceded the outlet and most of the reserve by the treaty of May 6, 1854; the Commission's dockets 27-A and 337 dealt with that cession and with the 1818 treaty, using this treaty's grant as part of the 1818 consideration. Royce records that in 1843 the Delaware sold 39 sections of the Kansas reserve to the Wyandot.",
+  "today": "The Delaware gave up their Missouri lands (Royce Areas 125, shared with the Shawnee, and 150a) and moved to the Kansas reserve, which the Indian Claims Commission found contained 1,884,160 acres: 924,160 acres of residence land and 960,000 acres of outlet. The Delaware ceded the outlet and most of the reserve by the treaty of May 6, 1854; the Commission's dockets 27-A and 337 dealt with that cession and with the 1818 treaty, using this treaty's grant as part of the 1818 consideration. Royce records that in 1843 the Delaware sold 39 sections of the Kansas reserve to the Wyandot. The Court of Claims twice ruled against the Delaware on this treaty: in 1931 it held that the survey fixing the reserve's northern line at Camp Leavenworth was authorised and that the treaty as ratified was observed in every particular (72 Ct. Cl. 525), and in 1932 it denied a claim that the school fund from the 36 sections was paid out in depreciated currency (74 Ct. Cl. 368).",
   "nationVoice": [
     {
       "nation": "Delaware Tribe of Indians (Lenape)",
@@ -54,13 +54,24 @@
       "title": "About Us",
       "url": "https://delawaretribe.org/about-us/",
       "publisher": "Delaware Tribe of Indians"
+    },
+    {
+      "title": "Delaware Tribe of Indians v. United States, 72 Ct. Cl. 525 (1931)",
+      "url": "https://static.case.law/us-ct-cl/72/cases/0525-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School Library)"
+    },
+    {
+      "title": "Delaware Tribe of Indians v. United States, 74 Ct. Cl. 368 (1932)",
+      "url": "https://static.case.law/us-ct-cl/74/cases/0368-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School Library)"
     }
   ],
   "openQuestions": [
     "treaties.json error: scheduleTribes lists 'Shawnee nation residing in Missouri' as a party. Only the Delaware signed this treaty; the Shawnee appear because Royce Area 125 (the Cape Girardeau grant) was held jointly with them. presentDayTribes lists the Absentee-Shawnee Tribe and the Shawnee Tribe for the same reason, and leaves out the Delaware Tribe of Indians.",
     "The Indian Claims Commission gives the Senate ratification as April 29, 1830 in one finding and as a resolution of May 29, 1830 in another; neither date is recorded above.",
     "Whether the horses, wagons, provisions and mill were provided, whether the 36 school sections were sold for the fund, and whether the guarantee of quiet possession was kept against intruders before 1854 were not researched.",
-    "No account by the Delaware Tribe of Indians or the Delaware Nation about this treaty was found in this pass."
+    "No account by the Delaware Tribe of Indians or the Delaware Nation about this treaty was found in this pass.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for Delaware (Court of Claims index) and 'Delaware 1829 Kansas' (ICC). Added to today two Court of Claims rulings against the Delaware on this treaty (72 Ct. Cl. 525, 1931; 74 Ct. Cl. 368, 1932)."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

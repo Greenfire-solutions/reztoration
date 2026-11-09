@@ -1,0 +1,23 @@
+{
+  "id": "cession-1868-07-27-smith-river-reservation",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Act of July 27, 1868, ch. 248, p. 221 read on govinfo: $3,500 for removal, reservation discontinued",
+    "Royce p. 851: freshet, May 6, 1862 order, Ts. 17-19 N., R. 1 W., Humboldt meridian",
+    "Tolowa Dee-ni' page",
+    "Senate Report No. 1522 (1885): Smith River named only in a recommendation to abandon it"
+  ],
+  "changes": [
+    "citation and name: 15 Stat. 221 made exact as ch. 248, 15 Stat. 198, 221",
+    "promises[0] reworded from the statute text",
+    "sources: statute added",
+    "openQuestions: \"read only in Royce\" removed; audit lines added"
+  ],
+  "unverifiable": [
+    "The 1944 Indians of California offset judgment (102 Ct. Cl. 837, December 4, 1944) is not in the Caselaw Access Project (vol. 102 has no case at p. 837) and no free copy was found; which reservations made up the 611,226 offset acres could not be checked."
+  ],
+  "treatiesJsonErrors": [
+    "treaties.json: presentDayTribes is empty for this record."
+  ]
+}

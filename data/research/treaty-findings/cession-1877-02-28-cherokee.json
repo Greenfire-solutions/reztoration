@@ -36,7 +36,8 @@
   "openQuestions": [
     "This is not the Act taking the Black Hills. Royce lists two Acts of February 28, 1877: this one (19 Stat. 265, Cherokee, area 491) and the Sioux Act ratifying the agreement of September 26, 1876 (19 Stat. 254). treaties.json has no separate 1877-02-28 Sioux record; the Black Hills taking sits with cession-1876-09-26-arapaho-northern-cheyenne-sioux.",
     "Whether and when the Cherokee legislature accepted the Act, and what the sales brought, was not traced.",
-    "The Cherokee Strip in Kansas came from Article 17 of the treaty of July 19, 1866 (kappler-950); any claim about how the strip was sold as a whole belongs there."
+    "The Cherokee Strip in Kansas came from Article 17 of the treaty of July 19, 1866 (kappler-950); any claim about how the strip was sold as a whole belongs there.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for Court of Claims \"Cherokee\" (opened 40 Ct. Cl. 252 and 41 Ct. Cl. 507; neither mentions this Act) and ICC full text \"Cherokee strip Kansas 1877\", \"Cherokee neutral lands strip Kansas 1866 article 17\" (opened OSU 2022, 741, 60); nothing about the sale of the Kansas strip."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

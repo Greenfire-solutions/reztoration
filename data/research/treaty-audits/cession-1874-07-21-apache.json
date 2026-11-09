@@ -1,0 +1,21 @@
+{
+  "id": "cession-1874-07-21-apache",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Docket 22-D interlocutory order (OSU 932) conclusion 5 names July 21, 1874; quote exact",
+    "Opinion (OSU 1611) holding matches the second breach",
+    "Final award (OSU 1055) $4,900,000 on stipulation, recorded as litigation",
+    "Area 573 is also on cession-1871-11-09-apache whose breach names this order; sameEventAs kept so the tract is counted once"
+  ],
+  "changes": [
+    "Audit line added to openQuestions"
+  ],
+  "unverifiable": [
+    "Order text read only in Royce's summary",
+    "treaties.json error: presentDayTribes is empty for this record (not edited)."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes is empty for this record"
+  ]
+}

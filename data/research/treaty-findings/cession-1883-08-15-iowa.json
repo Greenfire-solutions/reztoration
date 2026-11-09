@@ -36,7 +36,8 @@
   "openQuestions": [
     "This order created a reservation and took no land; no finding about it was located.",
     "treaties.json also lists the Iowa Tribe of Kansas and Nebraska; the 1883 reserve was for the Iowa in Indian Territory, today the Iowa Tribe of Oklahoma.",
-    "The Commission's Iowa dockets were not searched for findings on the 1890 agreement that later reduced this reservation; that belongs to its own record."
+    "The Commission's Iowa dockets were not searched for findings on the 1890 agreement that later reduced this reservation; that belongs to its own record.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for Iowa, Iowa August 15 1883. Found Iowa Tribe of Indians v. United States, 68 Ct. Cl. 585 (December 2, 1929), https://static.case.law/us-ct-cl/68/cases/0585-01.json: it recites this order as the source of the reservation, then holds that the 1890 Jerome Commission agreement ceding its surplus land (about 38 cents an acre) left out an oral promise of the price paid to neighbouring tribes, and awards $254,632.59. That is a finding about the 1890 cession of this reservation, a later event, so it is not counted on this record; the queue has no separate Iowa 1890 or 1891 record, which needs a decision."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

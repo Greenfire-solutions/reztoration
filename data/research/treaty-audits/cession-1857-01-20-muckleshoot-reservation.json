@@ -1,0 +1,21 @@
+{
+  "id": "cession-1857-01-20-muckleshoot-reservation",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "ICC Docket 98 finding 8 (id 25): Fox Island meeting with the Nisqually, approval Jan. 20, 1857, Apr. 9, 1874 order, 3,532.72 acres",
+    "Docket 98 final judgment (id 673), same-day findings (853) and opinion (867), fee findings (1528): $86,377 value, $6,000 offsets, $80,377 judgment",
+    "Muckleshoot Tribe history page: quote exact, 1904 allotment, nearly 4,000 acres by 2020",
+    "Royce p. 818/873 entries"
+  ],
+  "changes": [
+    "promises[0]: removed \"for Indians under the Medicine Creek treaty\"; finding 8 says the reservation was not established under the Point Elliott or Medicine Creek treaty",
+    "plain.promised: same correction",
+    "compensation: judgment figure $80,377.00 (after $6,000 compromised offsets on $86,377.00) added; \"unclear in the scan\" line removed",
+    "sources: added Docket 98 opinion of Oct. 18, 1963 (id 867)"
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "treaties.json: presentDayTribes is empty for this record."
+  ]
+}

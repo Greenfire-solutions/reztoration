@@ -1,0 +1,26 @@
+{
+  "id": "cession-1886-10-01-maricopa-papago-pima",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce pp. 922-923 area 687: no treaty of purchase; the U.S. \"took possession of their country\"; Papago, Gila River, Gila Bend and Salt River reserves.",
+    "Docket 345 additional findings 26-27 (1679, Oct. 1, 1969): exclusions (San Xavier, Sells, five confirmed grants), general taking date January 14, 1916, Baca Float and mineral tract dates. Amended Interlocutory Order (2527), Interlocutory Order (2206, Finding 25).",
+    "Final Award (1390) and compromise findings (1112), July 21, 1976: $26,000,000 on stipulation, Dockets 102 and 345. Correctly kind litigation.",
+    "Docket 228 orders (1520, 2648, 1468, 1900) re-read: the Pima-Maricopa taking is the same Docket 228 taking that cession-1883-11-15-maricopa-pima carries as its primary breach.",
+    "No other file carries the Papago Docket 345 taking as a breach (cession-1874-07-01-papago no-breach-found; cession-1882-12-12-papago-and-others rests on the dam testimony).",
+    "Tohono O'odham Nation history page loads; summary (Gadsden Purchase divided O'odham land almost in half) matches."
+  ],
+  "changes": [
+    "Removed the Docket 228 claims-commission breach (it counted the November 15, 1883 Pima-Maricopa taking a second time); its content moved to today with a pointer to cession-1883-11-15-maricopa-pima. This row stays primary for the Papago Docket 345 taking; no sameEventAs.",
+    "landTaken and plain.happened updated to say the Pima-Maricopa taking is shown on the 1883 Gila River entry.",
+    "openQuestions: stale presentDayTribes note replaced; audit line added."
+  ],
+  "unverifiable": [
+    "Docket 228 final outcome (not found).",
+    "Gila River and Salt River communities' own accounts not looked up (as the file says)."
+  ],
+  "treatiesJsonErrors": [
+    "cession-1886-10-01-maricopa-papago-pima: statute link \"687c,pdf\" is malformed (comma for dot).",
+    "cession-1886-10-01-maricopa-papago-pima: date 1886-10-01 is a Royce heading carried down from the Pueblo rows; Royce 687 has no date of its own."
+  ]
+}

@@ -1,12 +1,16 @@
 {
   "id": "kappler-360",
   "name": "Treaty with the Appalachicola Band, 1832 (Blunt and Davy)",
-  "aka": ["Agreement of Tallahassee, October 11, 1832, with John Blunt and O Saa Hajo (Davy)"],
+  "aka": [
+    "Agreement of Tallahassee, October 11, 1832, with John Blunt and O Saa Hajo (Davy)"
+  ],
   "signed": "1832-10-11",
   "proclaimed": "1833-02-13",
   "citation": "7 Stat. 377",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-appalachicola-band-1832-0352",
-  "nations": ["Apalachicola towns of John Blunt and Davy (Tuski Hajo's town), Florida"],
+  "nations": [
+    "Apalachicola towns of John Blunt and Davy (Tuski Hajo's town), Florida"
+  ],
   "promises": [
     "Article 1: the chiefs gave up the four-mile reserve on the Apalachicola made for them by the additional article of the Treaty of Camp Moultrie (1823) and agreed to remove their 256 people west of the Mississippi.",
     "Article 2: $13,000 for the surrender and to cover exploring, emigration and subsistence: $3,000 in cash at signing and $10,000 when the whole party began to remove.",
@@ -18,14 +22,27 @@
   "today": "No court, Indian Claims Commission or government finding about this agreement was found. The Seminole land claim before the Indian Claims Commission (Docket 73) concerned the Seminole cessions in Florida; the parts of it opened did not deal with this band's reserve or payments.",
   "nationVoice": [],
   "sources": [
-    { "title": "Treaty with the Appalachicola Band, 1832 (Kappler, vol. 2, p. 352)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-appalachicola-band-1832-0352", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
-    { "title": "Seminole Indians of the State of Florida et al. v. United States, Docket 73, Opinion of the Commission (June 28, 1968), 19 Ind. Cl. Comm. 187", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2285", "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions" },
-    { "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 736", "url": "https://archive.org/stream/annualreportofbu218smit#page/736/mode/2up", "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive" }
+    {
+      "title": "Treaty with the Appalachicola Band, 1832 (Kappler, vol. 2, p. 352)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-appalachicola-band-1832-0352",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "Seminole Indians of the State of Florida et al. v. United States, Docket 73, Opinion of the Commission (June 28, 1968), 19 Ind. Cl. Comm. 187",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2285",
+      "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 736",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/736/mode/2up",
+      "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    }
   ],
   "openQuestions": [
     "Whether the $10,000 under Article 2 and the advanced annuity under Article 4 were paid when the band removed was not traced; Indian Office removal accounts would settle it.",
     "Secondary sources say Blunt's band went to Texas rather than to the Creek country; this was not confirmed from a primary record and is left out.",
-    "treaties.json names the Muscogee (Creek) Nation as the present-day nation; no nation account of this agreement was found, and which nations descend from Blunt's band was not settled."
+    "treaties.json names the Muscogee (Creek) Nation as the present-day nation; no nation account of this agreement was found, and which nations descend from Blunt's band was not settled.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for Seminole (Court of Claims index, pre-1946 cases grepped for Apalachicola, Blunt and 1832; Apalachicola returns no case) and 'Apalachicola 1832', 'Blunt Davy' (ICC); only the Creek Docket 21 findings, which mention the Apalachicola River, not this agreement."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

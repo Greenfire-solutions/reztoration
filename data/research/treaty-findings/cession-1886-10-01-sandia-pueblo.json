@@ -73,13 +73,15 @@
     }
   ],
   "openQuestions": [
-    "Coordinator ruling 2026-11-08: the Act of May 31, 1933 is not a finding or an admission and is recorded only under compensation. The Commission held in 1971 and 1976 that the Pueblo Lands Act losses were not a taking because Congress paid full market value. The broken status rests only on the Solicitor's 2001 opinion, which the Secretary concurred in; a reviewer who does not accept a Solicitor opinion as a government admission should downgrade this file to contested (the 1994 suit and the 2003 settlement are litigation).",
+    "Coordinator ruling 2026-11-08: the Act of May 31, 1933 is not a finding or an admission and is recorded only under compensation. The Commission held in 1971 and 1976 that the Pueblo Lands Act losses were not a taking because Congress paid full market value. The broken status rests only on the Solicitor's 2001 opinion, which the Secretary concurred in; the 1994 suit and the 2003 settlement are litigation.",
     "The 2003 Act's findings (16 U.S.C. 539m(a)) only recite that the Pueblo asserted the surveys erroneously excluded land; they make no finding of their own.",
     "The land in the 2001 opinion lies inside the grant as the Pueblo and the Solicitor read the 1748 grant, but outside the 1864 patent; Royce's 24,187.29 acres is the patented area.",
-    "The date 1886-10-01 in treaties.json is Royce's column heading for the Pueblo rows, not an event of this grant; the record is a confirmed grant, not a cession. Not edited.",
     "The Pueblo Lands Board's own Sandia report and award were not opened.",
     "The Pueblo of Sandia's own account was not found: its site's history page returned 404 on 2026-11-08.",
-    "The 1998 district court opinion itself was not opened; it is described from the Senate report and the Solicitor's opinion."
+    "The 1998 district court opinion itself was not opened; it is described from the Senate report and the Solicitor's opinion.",
+    "The date 1886-10-01 in treaties.json is Royce's column heading for the Pueblo rows, not an event of this grant; the record is a confirmed grant, not a cession. Not edited.",
+    "Audit 2026-11-08: M-37002 opened and read in full (31 pages). Decision: it is a government admission. The Department, with the Secretary's signed concurrence, concluded that the government's own 1859 survey, adopted in the 1864 patent, was erroneous and left out land that Congress confirmed to the Pueblo in 1858 (p. 27: about 80 percent of the 1978 wilderness 'overlaps ... the acreage which I have concluded is part of the Sandia Pueblo grant'), and that the 1906 forest reserve could not lawfully have included it if the crest is the boundary. The quote is exact (p. 30). Limits, stated plainly: the opinion was not implemented (p. 31: no resurvey pending a settlement), and it held the 1978 wilderness designation was not a taking (p. 28). The Interior M-opinion index (May 2026) still lists M-37002 with no withdrawal note; the index dates it January 18, 2001, while the opinion and the Secretary's concurrence are stamped January 19, 2001, which is kept.",
+    "Audit 2026-11-08: the 1933 Act sums ($12,980.62 under section 2 for the Pueblo of Sandia; $5,354.46 under section 3 for non-Indian claimants within it) checked on 48 Stat. 108-109. Senate Report 107-321 checked for 9,980 acres (S. 2018) and 9,890 acres, and for Civ. No. 94-2624, July 18, 1998. July 18, 1998 was a Saturday; both the Solicitor and the Senate report give that date, so it is kept."
   ],
   "plain": {
     "promised": "Spain granted Sandia Pueblo its land in 1748, and Congress confirmed the grant in 1858. The government's 1859 survey drew its eastern line.",

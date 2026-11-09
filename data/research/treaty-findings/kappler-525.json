@@ -19,7 +19,7 @@
   ],
   "status": "no-breach-found",
   "breaches": [],
-  "compensation": "No Indian Claims Commission award was found for this treaty. In Docket 159 the Commission dismissed the Oneida Tribe of Wisconsin's claim that the United States failed to protect reservation timber (12 Ind. Cl. Comm. 1, December 6, 1962).",
+  "compensation": "No Indian Claims Commission award was found for this treaty. In Docket 159 the Commission dismissed the Oneida Tribe of Wisconsin's claim that the United States failed to protect reservation timber (12 Ind. Cl. Comm. 1, December 6, 1962). The Court of Claims affirmed on April 17, 1964, holding that the tribe had an interest in the timber on the 1838 reservation but that the United States had not done less than it was required to do to stop the cutting (165 Ct. Cl. 487); certiorari was denied (379 U.S. 946). That ruling went against the nation.",
   "today": "On July 30, 2020 the Seventh Circuit held that Congress never diminished or disestablished the reservation created by this treaty, so the entire 1838 reservation remains Indian country, even though allotment beginning under the Dawes Act let much of the land pass out of Indian hands (Oneida Nation v. Village of Hobart, No. 19-1981).",
   "nationVoice": [
     {
@@ -48,6 +48,11 @@
       "title": "180 Year Anniversary of the 1838 Treaty with the Oneida (Pressroom Blog, February 2, 2018)",
       "url": "https://oneida-nsn.gov/?p=24985",
       "publisher": "Oneida Nation"
+    },
+    {
+      "title": "Oneida Tribe of Indians of Wisconsin v. United States, Appeal No. 1-63, 165 Ct. Cl. 487 (Court of Claims, April 17, 1964)",
+      "url": "https://static.case.law/us-ct-cl/165/cases/0487-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School)"
     }
   ],
   "openQuestions": [
@@ -55,7 +60,8 @@
     "The Seventh Circuit noted expert reports by Frederick Hoxie and R. David Edmunds on the reservation's history (ECF 92-2 and 92-5); they were not opened.",
     "The Oneida Nation's own account of the 1838 treaty (oneida-nsn.gov) was not found in this pass.",
     "Royce's states field for this queue entry (WI) is right, but treaties.json lists New York nations as present-day tribes for it; only the Oneida Nation of Wisconsin was party.",
-    "Audit 2026-11-08: everything checked held. The earlier note that the Nation's own account was not found is out of date: nationVoice now links its 2018 anniversary page. The ratified date 1838-05-12 is not in the Kappler text or the 2020 opinion and was not verified."
+    "Audit 2026-11-08: everything checked held. The earlier note that the Nation's own account was not found is out of date: nationVoice now links its 2018 anniversary page. The ratified date 1838-05-12 is not in the Kappler text or the 2020 opinion and was not verified.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for oneida, 1838, Duck Creek and 7 Stat. 566; found only the 1964 affirmance of Docket 159 (165 Ct. Cl. 487), a ruling against the nation added to compensation. Status unchanged."
   ],
   "researchedAt": "2026-11-07",
   "researcher": "treaty-researcher"

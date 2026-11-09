@@ -1,0 +1,20 @@
+{
+  "id": "cession-1883-07-06-yuma",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce p. 912 order text (Colorado channel opposite the Gila, ranges 19/20 W., first standard parallel S.) and p. 913 (area 648; restored by the order of Jan. 9, 1884) match.",
+    "Docket 319 findings 24 and 26 (OSU ICC collection 323) and opinion (552): the Jan. 9, 1884 order \"cancelled ... [the] order of the preceding year\"; quote \"on January 9, 1884, the United States had extinguished Indian occupancy in Arizona\" exact.",
+    "sameEventAs cession-1884-01-09-yuma kept (same Docket 319 taking).",
+    "Court of Claims: 156 Ct. Cl. 714 (1962) is the withdrawn Docket 319 appeal; 169 Ct. Cl. 1027 is v. Thompson."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [
+    "Quechan Tribe's own account not located (as the file says)."
+  ],
+  "treatiesJsonErrors": [
+    "cession-1883-07-06-yuma: presentDayTribes is empty; the Quechan Tribe of the Fort Yuma Indian Reservation should be listed."
+  ]
+}

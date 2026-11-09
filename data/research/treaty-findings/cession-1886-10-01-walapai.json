@@ -30,7 +30,7 @@
     {
       "kind": "claims-commission",
       "date": "1966-12-21",
-      "what": "The Commission found the Hualapai aboriginal land comprised 4,459,500 acres worth $2,800,000.00 on January 4, 1883, acquired without payment, and held the tribe entitled to that sum less allowable offsets.",
+      "what": "The Commission found the Hualapai aboriginal land outside the reservation comprised 4,459,500 acres worth $2,800,000.00 on January 4, 1883, acquired without payment, and held the tribe entitled to that sum less allowable offsets.",
       "whoFoundIt": "Indian Claims Commission, Docket 90, Second Interlocutory Order, 17 Ind. Cl. Comm. 456 (1966)",
       "source": {
         "title": "Hualapai Tribe v. United States, Docket 90, Second Interlocutory Order (December 21, 1966), 17 Ind. Cl. Comm. 456",
@@ -50,7 +50,7 @@
       }
     }
   ],
-  "landTaken": "4,459,500 acres of Hualapai aboriginal land, valued at $2,800,000.00 as of January 4, 1883 (Second Interlocutory Order, 1966).",
+  "landTaken": "4,459,500 acres of Hualapai aboriginal land outside the reservation (finding 20), valued at $2,800,000.00 as of January 4, 1883 (Second Interlocutory Order, 1966).",
   "compensation": "$2,950,000 by compromise final judgment of June 18, 1968, settling all claims in Dockets 90 and 122.",
   "today": "The 1968 judgment settled all claims in both dockets. Whether and how it was distributed was not traced.",
   "nationVoice": [],
@@ -88,10 +88,9 @@
   ],
   "openQuestions": [
     "The date 1886-10-01 in treaties.json is not a date of this taking. Royce 683 is undated and printed under 'Cessions of 1886' after the Pueblo grants headed 'Oct. 1, Act of Congress'. The Commission dated the taking January 4, 1883. Not edited.",
-    "cession-1883-01-04-walapai (Royce 641, the 1883 reservation order) has no findings file yet; this file carries the January 4, 1883 taking of the land outside the reservation, and that record should point here with sameEventAs if it is researched on the same finding.",
-    "treaties.json lists no present-day tribes; the Hualapai Tribe should be listed. Not edited.",
     "What Docket 122 claimed was not read. The Hualapai Tribe's own history page (hualapai-nsn.gov) returned 404; the nation voice is missing.",
-    "2026-11-08: counted once with cession-1883-01-04-walapai (the Hualapai taking (Docket 90) is dated by the Jan 4, 1883 order). The map still shows this row."
+    "2026-11-08: counted once with cession-1883-01-04-walapai (the Hualapai taking (Docket 90) is dated by the Jan 4, 1883 order). The map still shows this row.",
+    "Audit 2026-11-08: Docket 90 orders of 1962 and 1966 and the 1968 final judgment re-read; findings, acreage 4,459,500, value $2,800,000.00 and the $2,950,000 compromise match, and the quote is exact. Removed stale notes: treaties.json now lists the Hualapai, and cession-1883-01-04-walapai has a findings file (this file points to it)."
   ],
   "plain": {
     "promised": "Nothing. No treaty of purchase was made. The United States assumed title to the Hualapai country and set apart a reservation in 1883.",

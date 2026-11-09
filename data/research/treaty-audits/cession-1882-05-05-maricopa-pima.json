@@ -1,0 +1,21 @@
+{
+  "id": "cession-1882-05-05-maricopa-pima",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce p. 906 (May 5, 1882 order, addition to the Aug. 31, 1876 reserve, Ts. 2-3 S., Rs. 2-3 E.) and p. 907 (area 634; \"See also Executive orders of Jan. 10, 1879, and June 14, 1879\") match.",
+    "Docket 228 additional findings 26-28 (OSU ICC collection 1832) and opinion (1900, 27 Ind. Cl. Comm. 11): additions 1859-1883 not consistent with intent to extinguish; taking date November 15, 1883. Matches today.",
+    "Public Law 108-22 section 201 (Docket 228 plan) loads and matches.",
+    "Gila River Indian Community history page loads; summary (1859 first reservation; upstream diversions and dams in 1870s-1880s; famine) matches.",
+    "Court of Claims index \"Gila River\": nine entries, all water, irrigation or accounting dockets; none about this addition."
+  ],
+  "changes": [
+    "None."
+  ],
+  "unverifiable": [
+    "The order itself was read only in Royce's summary (Kappler vol. 1 not opened), as the file says."
+  ],
+  "treatiesJsonErrors": [
+    "cession-1882-05-05-maricopa-pima: presentDayTribes is empty; the Gila River Indian Community should be listed."
+  ]
+}

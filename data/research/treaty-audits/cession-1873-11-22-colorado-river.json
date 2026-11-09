@@ -1,0 +1,21 @@
+{
+  "id": "cession-1873-11-22-colorado-river",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce p. 868 text of the November 22, 1873 addition (bottom land to within 6 miles of Ehrenberg) and area 554 match the file",
+    "Status no-breach-found: an addition to a reservation, no taking by this order",
+    "Docket 283/295 Mohave finding correctly placed on the 1865 Act record",
+    "ctcl-index for Colorado River and Mohave: only ICC appeals and a 1979 stipulated $850,000 judgment on claims from 1942/1945 use of the reservation, not about this order"
+  ],
+  "changes": [
+    "Added an openQuestions line recording the 1979 CRIT Court of Claims settlement as a lead only"
+  ],
+  "unverifiable": [
+    "The order's own text in Kappler vol. 1 was not opened; Royce's summary was used",
+    "treaties.json error: presentDayTribes is empty for this record (not edited)."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes is empty for this record"
+  ]
+}

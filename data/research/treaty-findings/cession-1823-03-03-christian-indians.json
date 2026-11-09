@@ -41,7 +41,8 @@
     "This record duplicates the Royce areas (4, 5, 6) of cession-1788-09-03-christian-indians; the map may be showing the same tracts twice.",
     "The Act says the tracts were 'four hundred acres each'; Royce says 4,000 acres each. Not resolved.",
     "Whether the Indians freely consented, and whether they received any of the money, was not traced. presentDayTribes is empty in treaties.json.",
-    "Royce's statute link in treaties.json (loc.gov c17.pdf) is the whole session's statutes; the govinfo page copy was used."
+    "Royce's statute link in treaties.json (loc.gov c17.pdf) is the whole session's statutes; the govinfo page copy was used.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for: Court of Claims names \"moravian\" and \"christian indians\" (0 cases); ICC full text \"Moravian\", \"Moravian Muskingum\", \"Gnadenhutten\", \"Schoenbrunn\", \"United Brethren\", \"Christian Indians\"; no decision concerns the Muskingum tracts or the 1823 purchase. Nothing new."
   ],
   "plain": {
     "promised": "Congress set aside $1,000 to buy the Christian (Moravian) Indians' interest in three Ohio tracts held in trust for them, with the trustee society's consent.",

@@ -2,7 +2,8 @@
   "id": "cession-1877-01-26-apache",
   "name": "Executive order of January 26, 1877 restoring part of the White Mountain reservation to the public domain",
   "aka": [
-    "Camp Apache tract order of 1877"
+    "Camp Apache tract order of 1877",
+    "Royce area 601"
   ],
   "signed": "1877-01-26",
   "citation": "Executive order of January 26, 1877 (Royce area 601)",
@@ -54,7 +55,7 @@
     }
   ],
   "landTaken": "The tract described by the order (360 by 240 chains). No acreage figure was found in a source opened.",
-  "compensation": "The Docket 22-D claim was compromised; the final award of September 12, 1972 covers the Western Apache land claim as a whole (amount recorded in cession-1877-03-31-apache).",
+  "compensation": "None at the time. The Docket 22-D claim was compromised; the final award of September 12, 1972 (28 Ind. Cl. Comm. 399) awarded $4,900,000 for the Western Apache land claim as a whole, not per tract.",
   "today": "The Fort Apache (White Mountain) and San Carlos reservations remain. Whether and how the 1972 award was distributed was not traced.",
   "nationVoice": [],
   "sources": [
@@ -87,8 +88,8 @@
   "openQuestions": [
     "treaties.json error: presentDayTribes is empty for this record; the White Mountain Apache Tribe should be listed. Not edited.",
     "Whether the whole of area 601 lay inside the Western Apache title area of Finding 11 was not plotted; the Commission names this order expressly, so the finding is treated as about this land.",
-    "The amount of the 1972 award was not re-read for this file; it is recorded and sourced in cession-1877-03-31-apache.",
-    "The White Mountain Apache Tribe's own account of this order was not located."
+    "The White Mountain Apache Tribe's own account of this order was not located.",
+    "Audit 2026-11-08: reopened Docket 22-D interlocutory order (OSU 932, conclusion 5 names January 26, 1877; quote exact apart from the scan's line-break hyphen in com-pensation), opinion (OSU 1611) and final award (OSU 1055: $4,900,000, 28 Ind. Cl. Comm. 399); award amount added to compensation. Royce p. 888 text (360 by 240 chains, Lieutenant E. D. Thomas, Camp Apache flagstaff) matches. Double-count check: area 601 is mapped only here (cession-1871-11-09-apache maps 541, 573, 582, 603; cession-1877-03-31-apache maps 602, 603; cession-1886-10-01-apache-western-bands maps 689, the land outside the reservation taken May 1, 1873 under conclusion 4). Conclusion 5 orders a separate acreage and value for each excluded tract as of each order's date, so this is a distinct taking; no sameEventAs."
   ],
   "plain": {
     "promised": "Not a treaty. A presidential order in 1877 took a surveyed tract near Camp Apache out of the White Mountain reservation and returned it to the public domain.",

@@ -72,11 +72,11 @@
   ],
   "openQuestions": [
     "The date 1886-10-01 in treaties.json is not a date of this taking. Royce 682 is undated ('country claimed by them at beginning of their relations with the U.S.') and is printed under 'Cessions of 1886' after the Pueblo grants headed 'Oct. 1, Act of Congress'. The Commission dated the takings December 16, 1882 and June 2, 1937. Not edited.",
-    "treaties.json lists no present-day tribes for this record; the Hopi Tribe should be listed. The statute link (ops.libs.uga.edu, 682c.pdf) was not opened. Not edited.",
-    "cession-1882-12-16-moki-and-others (Royce 640, the 1882 reservation) has no findings file yet; the 1937 part of this finding concerns land inside that reservation and could be carried there instead.",
     "Whether the Commission's Finding 20 tract matches Royce's area 682 boundary was not checked on a map.",
     "The Hopi Tribe's own account of the 1882 order and the loss of its land was not found on hopi-nsn.gov in this pass; the nation voice is missing.",
-    "2026-11-08: counted once with cession-1882-12-16-moki-and-others (the Hopi taking (Docket 196) is dated by the Dec 16, 1882 order). The map still shows this row."
+    "2026-11-08: counted once with cession-1882-12-16-moki-and-others (the Hopi taking (Docket 196) is dated by the Dec 16, 1882 order). The map still shows this row.",
+    "The statute link (ops.libs.uga.edu, 682c.pdf) was not opened.",
+    "Audit 2026-11-08: Docket 196 interlocutory order (23 Ind. Cl. Comm. 277, order at p. 312-313) and the 1976 final award ($5,000,000.00) re-read and match; the quote is exact. Removed stale notes: treaties.json now lists the Hopi Tribe, and cession-1882-12-16-moki-and-others now has a findings file (this file points to it)."
   ],
   "plain": {
     "promised": "Nothing. No treaty of purchase was ever made with the Hopi. In 1882 the President set apart a reservation for them.",

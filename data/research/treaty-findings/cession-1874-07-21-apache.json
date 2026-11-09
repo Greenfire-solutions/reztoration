@@ -81,7 +81,8 @@
   "openQuestions": [
     "Area 573 is also mapped on cession-1871-11-09-apache, whose breaches already name the July 21, 1874 order; it is counted once there, so sameEventAs points at that record.",
     "The order's own text was read only in Royce's summary.",
-    "treaties.json lists no presentDayTribes for this record. Not edited."
+    "treaties.json lists no presentDayTribes for this record. Not edited.",
+    "Audit 2026-11-08: reopened OSU 932 (conclusion 5 names July 21, 1874; quote exact), OSU 1611 and OSU 1055 ($4,900,000). Area 573 is also in cession-1871-11-09-apache's cessions, whose first breach names this order, so sameEventAs to that record is kept and the tract is not counted twice."
   ],
   "plain": {
     "promised": "Not a treaty: a presidential order. It cut the land east of 109° 30' west longitude out of the White Mountain reservation and opened it to market.",

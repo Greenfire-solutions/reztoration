@@ -50,7 +50,8 @@
   "openQuestions": [
     "treaties.json names this entry as a cession by the Chippewa, Delaware, Ottawa, Potawatomi, Seneca, Shawnee and Wyandot; the Act concerns only the Delaware sections. The tribe list seems to be carried over from the 1817 treaty schedule. Needs checking.",
     "Which Royce polygon the map draws for this entry (90 and 91 are also listed under kappler-153) should be checked so the same area is not shown twice.",
-    "Audit 2026-11-08: removed from 'today' the statement that the Indian Claims Commission entered interlocutory awards on the 1817 treaty in 1978; no source for it was cited in this file. See kappler-153 for the Commission's 1978 findings."
+    "Audit 2026-11-08: removed from 'today' the statement that the Indian Claims Commission entered interlocutory awards on the 1817 treaty in 1978; no source for it was cited in this file. See kappler-153 for the Commission's 1978 findings.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for: Court of Claims names \"delaware\" (Delaware Tribe cases 1912-1955 opened; none mentions the 1807 sections); ICC full text \"thirteen sections\", \"Delaware sections 1807\", \"Shawnee Delaware 1807\"; hits concern Cape Girardeau and other areas. Nothing new."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

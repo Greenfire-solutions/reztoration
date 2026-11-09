@@ -47,7 +47,8 @@
     "The 1788 resolution of the Continental Congress and the Act of 1796 granting the tracts to the Society of United Brethren were not opened; they are described from Royce and the 1823 Act.",
     "Whether the purchase was made, from whom, and whether the Indians consented was not traced.",
     "presentDayTribes is empty in treaties.json. The Christian Indians' descendants may include the Delaware Nation at Moraviantown in Ontario, which is outside the United States; not confirmed from a source.",
-    "The statute link in treaties.json (loc.gov, 17th Congress c17.pdf) returned a web page rather than the statute; the govinfo copy was used."
+    "The statute link in treaties.json (loc.gov, 17th Congress c17.pdf) returned a web page rather than the statute; the govinfo copy was used.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for: Court of Claims names \"moravian\" and \"christian indians\" (0 cases); ICC full text \"Moravian\", \"Moravian Muskingum\", \"Gnadenhutten\", \"Schoenbrunn\", \"United Brethren\", \"Christian Indians\"; the only Moravian hits are aboriginal-occupancy findings for Royce areas 11 and 53 (Dockets 13-E and 13-G, 1973), none about the Muskingum tracts. Nothing new."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

@@ -19,7 +19,7 @@
   ],
   "status": "no-breach-found",
   "breaches": [],
-  "today": "In Docket 275 the Indian Claims Commission (1970) held that the Article 5 guarantee was an undertaking to protect the Creeks' aboriginal occupancy against Georgia and white settlers, not a grant of recognized title. No court or Commission finding that a promise of this treaty was broken was located.",
+  "today": "In Docket 275 the Indian Claims Commission (1970) held that the Article 5 guarantee was an undertaking to protect the Creeks' aboriginal occupancy against Georgia and white settlers, not a grant of recognized title. No court or Commission finding that a promise of this treaty was broken was located. In 1927 the Court of Claims sustained the government's demurrer and dismissed a Creek Nation petition that claimed, under this treaty, the land taken by the 1814 treaty, holding it could not set aside the 1814 treaty (63 Ct. Cl. 270). That ruling went against the Nation.",
   "sources": [
     {
       "title": "Treaty with the Creeks, 1790",
@@ -40,12 +40,18 @@
       "title": "Creek Indian Land Cessions",
       "url": "https://www.nps.gov/ocmu/learn/historyculture/upload/Accessible-Creek-Land-Cessions.pdf",
       "publisher": "National Park Service, Ocmulgee Mounds National Historical Park"
+    },
+    {
+      "title": "Creek Nation v. United States, 63 Ct. Cl. 270 (1927)",
+      "url": "https://static.case.law/us-ct-cl/63/cases/0270-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School Library)"
     }
   ],
   "openQuestions": [
     "The Article 5 guarantee covered Creek land later taken by the Treaty of Fort Jackson (1814), which was the subject of the Commission's Docket 21; that docket concerns the 1814 treaty, not this one, and was not read for this record.",
     "The Muscogee (Creek) Nation's own account of the 1790 treaty was not located.",
-    "The secret articles of the treaty were not reviewed."
+    "The secret articles of the treaty were not reviewed.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for Creek (Court of Claims index) and 'Creek New York 1790' (ICC). Added to today the Court of Claims ruling against the Creek Nation on a claim brought under this treaty (63 Ct. Cl. 270, 1927)."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

@@ -1,0 +1,20 @@
+{
+  "id": "cession-1873-02-19-the-several-tribes-of-new-york-indians",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "17 Stat. 466 (ch. 167): quote, 32 allotments, $3.75, trust for five years",
+    "New York Indians v. United States, 170 U.S. 1 (Apr. 11, 1898): Kansas lands surveyed, made public domain, sold, consideration received; 10,240 acres; judgment for net amount received",
+    "sameEventAs kappler-510: kappler-510 includes Royce area 249 and has a findings file"
+  ],
+  "changes": [
+    "openQuestions: audit line"
+  ],
+  "unverifiable": [
+    "17 Stat. 467 (end of the five-year clause) not read"
+  ],
+  "treatiesJsonErrors": [
+    "treaties.json: presentDayTribes is empty for this record.",
+    "statute is empty; Royce gives 17 Stat. 466"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cession-1876-08-31-maricopa-pima",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Docket 228 additional finding 26 (OSU 1832) names this order as reserving aboriginal land to protect farms",
+    "Opinion (OSU 1900) fixes the taking at November 15, 1883",
+    "ctcl-index Pima and Maricopa: only ICC appeals from 1956 on"
+  ],
+  "changes": [
+    "Audit line added to openQuestions"
+  ],
+  "unverifiable": [
+    "Public Law 108-22 and the nation pages were not reopened",
+    "treaties.json error: presentDayTribes is empty for this record (not edited)."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes is empty for this record"
+  ]
+}

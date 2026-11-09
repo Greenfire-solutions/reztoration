@@ -52,7 +52,8 @@
     "Same land (area 588) as cession-1875-12-21-southern-apache, which carries the restoration and was researched and audited; this record follows it and points there with sameEventAs.",
     "The ICC findings (OSU 2269) and the Fort Sill Apache history page were reopened on 2026-11-08 to confirm the abolition of the Hot Springs reservation on August 25, 1877, the September 4, 1886 taking date and the Tribe's account.",
     "Jordan may want to rule on whether an aboriginal-title taking (Docket 30-A, 1886) that covers an executive-order reserve counts for the order's row; until then this stays no-breach-found, as the 1875 record does.",
-    "treaties.json lists no presentDayTribes for this record. Not edited."
+    "treaties.json lists no presentDayTribes for this record. Not edited.",
+    "Audit 2026-11-08: Royce p. 874 text (Canada Alamosa, 10, 25, 30, 25, 20 miles) matches; OSU 2269 findings 14 reopened (Ojo Caliente abolished August 25, 1877; taking September 4, 1886). Under Jordan's 2026-11-08 rule on executive-order reserves this stays no-breach-found. sameEventAs to cession-1875-12-21-southern-apache kept (same area 588)."
   ],
   "sameEventAs": "cession-1875-12-21-southern-apache",
   "researchedAt": "2026-11-08",

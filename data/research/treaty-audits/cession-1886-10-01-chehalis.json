@@ -1,0 +1,21 @@
+{
+  "id": "cession-1886-10-01-chehalis",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce p. 920 order (in lieu of the July 8, 1864 reserve, plus S. half sec. 3 and NW. quarter sec. 10, T. 15 N., R. 4 W.) and p. 921 area 661.",
+    "Docket 237 amended finding 11 (403): Oct. 1, 1886 (1 Kapp. 903), 3,753.63 acres restored for Indian homestead entry, 471 for school, thirty-six selections.",
+    "Docket 237 opinion (260, Mar. 14, 1960): dismissal of the 3,753.63-acre claim, final; date given there as October 11, 1886 (noted in openQuestions already).",
+    "79 Ct. Cl. 530 (static.case.law): 4,224.63 acres; 3,753.63 restored; 471 school; thirty-six homestead selections. Matches.",
+    "Court of Claims index \"Chehalis\": only 140 Ct. Cl. 192 (1957), the Docket 237 appeal."
+  ],
+  "changes": [
+    "openQuestions: stale \"treaties.json lists no present-day tribes\" replaced; treaty-corrections.json now supplies the Confederated Tribes of the Chehalis Reservation. No substantive change."
+  ],
+  "unverifiable": [
+    "Kappler text of the order not opened (as the file says). Later loss of the homesteads not researched."
+  ],
+  "treatiesJsonErrors": [
+    "cession-1886-10-01-chehalis: raw presentDayTribes was empty; now supplied by treaty-corrections.json. No further error."
+  ]
+}

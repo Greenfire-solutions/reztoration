@@ -16,12 +16,12 @@
   ],
   "status": "no-breach-found",
   "breaches": [],
-  "compensation": "None found for this order. The Cherokee Phoenix reports that the United States bought the property from the Cherokee Nation in 1893, and that about 75 years later the Nation bought back 2,667 acres found surplus to the school at $3.75 an acre.",
+  "compensation": "None found for this order. The Cherokee Phoenix quotes BIA Eastern Oklahoma Regional Director Eddie Streater that the United States bought the property from the Cherokee Nation in 1893, and that about 75 years later the Nation was allowed to buy back 2,667 acres found surplus to the school at $3.75 an acre.",
   "today": "This order set apart land for a school, it did not take land from the school's beneficiaries, and no court, claims-commission, Act of Congress or government finding about it was found. The land lay in the Cherokee Outlet; the Indian Claims Commission's finding that the 1893 Outlet price was unconscionable is carried by cession-1893-03-03-cherokee. In 2016 the Bureau of Indian Affairs placed 1,333.99 acres of the Cherokee Nation's Chilocco land in trust (Cherokee Phoenix).",
   "nationVoice": [
     {
       "nation": "Cherokee Nation (Cherokee Phoenix)",
-      "summary": "The Nation's newspaper reports that the government developed the Chilocco school after buying the property from the Cherokee Nation in 1893, that the Nation later bought back 2,667 surplus acres, and that 1,333.99 acres were placed in trust in 2016.",
+      "summary": "The Nation's newspaper reports, quoting the BIA regional director, that the government developed the Chilocco school after buying the property from the Cherokee Nation in 1893 and that the Nation later bought back 2,667 surplus acres; it reports that 1,333.99 acres were placed in trust in 2016.",
       "url": "https://www.cherokeephoenix.org/news/bia-places-tribes-chilocco-property-in-trust/article_904d49ac-903a-5014-909f-ebc11a44a909.html"
     }
   ],
@@ -39,9 +39,10 @@
   ],
   "openQuestions": [
     "The order predates the 1891 Outlet agreement. Whether the Chilocco reserve was inside the 6,022,754.17 acres the Indian Claims Commission valued in Docket 173 (cession-1893-03-03-cherokee) was not checked; a full-text search of the Commission decisions for 'Chilocco' found only an unrelated Kiowa offsets opinion.",
-    "Royce also lists a small school reserve described by metes and bounds right after this entry; it was not matched to an area number. The executive order link in treaties.json (ops.libs.uga.edu, 657r.pdf) was not opened.",
+    "Royce also lists a small school reserve described by metes and bounds right after this entry; Royce p. 917 says it was too small to show on the map and contained 69.79 acres. The executive order link in treaties.json (ops.libs.uga.edu, 657r.pdf) was not opened.",
     "treaties.json lists no present-day tribes; the Cherokee Nation is the nation whose land this was. Not edited.",
-    "The year of the buy-back is not given in the Cherokee Phoenix article and is not recorded."
+    "The year of the buy-back is not given in the Cherokee Phoenix article and is not recorded.",
+    "Audit 2026-11-08: the 1893 purchase and the $3.75 buy-back statements are the BIA regional director's words quoted by the Cherokee Phoenix, not the Nation's; compensation and nationVoice reworded. Royce p. 916 text and secs. re-read and match. No Chilocco case in the Court of Claims index."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

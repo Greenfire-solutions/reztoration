@@ -1,0 +1,19 @@
+{
+  "id": "cession-1887-09-01-uintah-uta",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce p. 924 (djvu text): order of Sept 1, 1887 sets apart the Uintah military reservation by metes from the Fort Du Chesne flagstaff.",
+    "ICC id 86 (Docket 45 opinion, 1957) statement on compensation for reservation land; ICC id 428 and 710 mention Fort Duchesne only as meeting place and agency site.",
+    "ctcl-index find uintah / ute indians: 14 cases opened and searched; none concerns the military reserve. No-breach-found supported."
+  ],
+  "changes": [
+    "openQuestions: audit line added."
+  ],
+  "unverifiable": [
+    "The executive order link (431r.pdf) was not opened; Royce's text used instead."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes empty; should name the Ute Indian Tribe of the Uintah and Ouray Reservation."
+  ]
+}

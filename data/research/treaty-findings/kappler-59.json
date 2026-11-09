@@ -23,7 +23,7 @@
   "status": "no-breach-found",
   "breaches": [],
   "compensation": "The treaty itself paid $5,000 in goods and $1,000 a year in goods (Article 6). No later payment specific to this cession was traced. The Eastern Band of Cherokee Indians settled its one-fifteenth interest in the areas ceded under the Cherokee treaties of 1785 to 1835 for $1,855,254.50 in 1972 (ICC Dockets 282-A to 282-L); whether this 1798 cession was among those twelve dockets was not confirmed.",
-  "today": "The treaty's preamble records that settlers who had moved onto Cherokee land beyond the boundary were removed by United States authority once the line was marked in 1797. Later Cherokee treaties, including those made at Tellico in 1804 and 1805 (listed in Worcester v. Georgia), and the removal era belong to their own entries.",
+  "today": "The treaty's preamble records that settlers who had moved onto Cherokee land beyond the boundary were removed by United States authority once the line was marked in 1797. Later Cherokee treaties, including those made at Tellico in 1804 and 1805 (listed in Worcester v. Georgia), and the removal era belong to their own entries. The Cherokee Nation sued in the Court of Claims for goods it said were never delivered under the $5,000 annuity of 1794 and the added $1,000 annuity of 1798; the court held on January 8, 1945 that the $20,000 paid under Article 8 of the 1846 treaty in lieu of all national claims before 1835 settled any shortfall, and denied recovery (102 Ct. Cl. 720). That ruling went against the nation.",
   "nationVoice": [
     {
       "nation": "Cherokee Nation",
@@ -61,13 +61,19 @@
       "title": "History",
       "url": "https://www.cherokee.gov/about-the-nation/history/",
       "publisher": "Cherokee Nation"
+    },
+    {
+      "title": "Cherokee Nation v. United States, Nos. L-46 and L-268, 102 Ct. Cl. 720 (Court of Claims, January 8, 1945)",
+      "url": "https://static.case.law/us-ct-cl/102/cases/0720-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School)"
     }
   ],
   "openQuestions": [
     "The Article 6 guarantee of the remaining Cherokee country forever was later overridden by Georgia's laws of 1829 onward and by removal. In Worcester v. Georgia (1832) the treaty of October 2, 1798 is listed in Worcester's plea among the treaties Georgia's prosecution violated, and the Court held Georgia's acts repugnant to the treaties; the Court's reasoning rests mainly on the Hopewell and Holston treaties, so it is not recorded here as a finding on this treaty. Decision for Jordan whether Worcester should count for the 1798 guarantee.",
     "Which of the Eastern Band's twelve ICC dockets (282-A to 282-L) covered this cession, and whether the Cherokee Nation itself brought a claim for it, was not established; the Commission's 1959 severance opinion (7 Ind. Cl. Comm. 140) did not load as text.",
     "Ratification (April 30, 1802) and proclamation (May 4, 1802) dates come from the Oklahoma State University treaty database and the TNGenWeb page header, not from the Statutes at Large page.",
-    "No Cherokee Nation, Eastern Band or United Keetoowah Band account of this treaty was found."
+    "No Cherokee Nation, Eastern Band or United Keetoowah Band account of this treaty was found.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for cherokee, Tellico, 1798 and 7 Stat. 62; found Cherokee Nation v. United States, 102 Ct. Cl. 720 (1945), denying the 1798 annuity claim, a ruling against the nation added to today. No ICC decision names this treaty. Status unchanged."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

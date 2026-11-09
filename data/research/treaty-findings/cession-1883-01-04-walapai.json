@@ -31,8 +31,8 @@
     {
       "kind": "claims-commission",
       "date": "1966-12-21",
-      "what": "The Commission found the Hualapai aboriginal land comprised 4,459,500 acres worth $2,800,000 on January 4, 1883, acquired by the United States without payment, and awarded that sum less offsets.",
-      "whoFoundIt": "Indian Claims Commission, Docket 90, Second Interlocutory Order (17 Ind. Cl. Comm. 536)",
+      "what": "The Commission found the Hualapai aboriginal land outside the reservation comprised 4,459,500 acres (finding 20), worth $2,800,000 on January 4, 1883, acquired by the United States without payment, and awarded that sum less offsets.",
+      "whoFoundIt": "Indian Claims Commission, Docket 90, Findings of Fact 20 and Second Interlocutory Order (17 Ind. Cl. Comm. 456, 536)",
       "source": {
         "title": "Hualapai Tribe v. United States, Docket 90, Second Interlocutory Order (December 21, 1966)",
         "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1550",
@@ -51,7 +51,7 @@
       }
     }
   ],
-  "landTaken": "The Hualapai aboriginal land outside the reservation; the Commission found the aboriginal holding comprised 4,459,500 acres (Second Interlocutory Order, 1966).",
+  "landTaken": "The Hualapai aboriginal land outside the reservation: \"Excluding petitioner's reservation\", 4,459,500 acres (finding 20, December 21, 1966).",
   "compensation": "$2,950,000 by stipulated final judgment of June 18, 1968 (Dockets 90 and 122), a compromise. The Commission had valued the land at $2,800,000 as of January 4, 1883.",
   "today": "In United States v. Santa Fe Pacific Railroad Co. (December 8, 1941) the Supreme Court held that the creation of this reservation at the Walapai's request and their acceptance of it amounted to a relinquishment of their claims to land outside it, while rejecting the railroad's argument that earlier events had extinguished their title. That ruling went against the tribe on the outside lands and is not counted as a breach; the Commission later held the United States liable for their value.",
   "nationVoice": [],
@@ -82,6 +82,11 @@
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
     },
     {
+      "title": "Hualapai Tribe v. United States, Docket 90, Findings of Fact 20 to 62 (December 21, 1966), 17 Ind. Cl. Comm. 456",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1466",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
       "title": "Hualapai Tribe v. United States, Dockets 90 and 122, Final Judgment (June 18, 1968)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1217",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
@@ -96,11 +101,12 @@
     "The land found taken lies outside this order's reservation (Royce area 641, which was kept). The order is the act the Commission dated the taking by, as with cession-1884-01-09-yuma and cession-1883-11-15-maricopa-pima.",
     "The Hualapai Tribe's own history (including the 1874 removal to La Paz) was not found on its website in a form that loads; nationVoice is empty.",
     "Docket 122 (the second Hualapai claim settled in 1968) was not researched.",
-    "treaties.json error: presentDayTribes is empty for this record; the Hualapai Indian Tribe of the Hualapai Indian Reservation should be listed. Not edited."
+    "treaties.json error: presentDayTribes is empty for this record; the Hualapai Indian Tribe of the Hualapai Indian Reservation should be listed. Not edited.",
+    "Audit 2026-11-08: the 4,459,500 acres were described as the whole Hualapai aboriginal holding (and plain said the order took \"the rest\" of a 4,459,500-acre homeland). Finding 20 (17 Ind. Cl. Comm. 456) says \"Excluding petitioner's reservation, the tract ... consists of 4,459,500 acres\": the figure is the land taken, outside the reservation. Corrected in the breach, landTaken and plain; finding 20 added as a source. The same wording is in cession-1886-10-01-walapai (not in this audit sample)."
   ],
   "plain": {
     "promised": "Not a treaty. An 1883 presidential order set apart a reservation along the Colorado River for the Hualapai, at the tribe's request.",
-    "happened": "The Indian Claims Commission found that with this order the United States took the rest of the Hualapai's 4,459,500-acre homeland without paying for it.",
+    "happened": "The Indian Claims Commission found that with this order the United States took 4,459,500 acres of Hualapai homeland outside the reservation without paying for it.",
     "today": "The Commission valued the land at $2,800,000; the claims were settled for $2,950,000 in 1968."
   },
   "researchedAt": "2026-11-08",

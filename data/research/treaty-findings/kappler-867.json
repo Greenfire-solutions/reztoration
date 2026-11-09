@@ -19,14 +19,14 @@
     "The bands agreed that routes of travel, military posts, station houses, telegraph and stage lines could run through their country (Articles 2 and 3).",
     "The bands agreed their country could be explored and mined, and that mining and farming settlements, mills and ranches could be made in it (Article 4).",
     "The boundaries of the country the Goship claimed and occupied were described (Article 5); the President could later settle them on reservations (Article 6).",
-    "The United States would pay $1,000 a year for twenty years for the loss of game and the inconvenience caused by settlement (Article 7, as summarised by the Indian Claims Commission)."
+    "The United States would pay $1,000 a year for twenty years for the loss of game and the inconvenience caused by settlement (Article 7)."
   ],
   "status": "broken",
   "breaches": [
     {
       "kind": "claims-commission",
       "date": "1973-08-09",
-      "what": "The Indian Claims Commission found that the 1863 treaty was one of peace and friendship, not a cession, and that the Goshute aboriginal title to their land (except two small areas at Deep Creek and Skull Valley) was extinguished as of January 1, 1875 by white settlement, without payment. It valued the land at $5,980,122.00 and the lost profits from ores mined before that date at $1,273,000.00.",
+      "what": "The Indian Claims Commission found that the 1863 treaty was one of peace and friendship, not a cession, and that the Goshute aboriginal title to their land (except two small areas at Deep Creek and Skull Valley) was extinguished as of January 1, 1875 by white encroachment. It held the tribe entitled to recover the land's value, $5,980,122.00, under clause 4 of the Indian Claims Commission Act, and $1,273,000.00 for profits lost from ores mined before that date.",
       "whoFoundIt": "Indian Claims Commission, Goshute Tribe v. United States, Docket 326-J, Findings of Fact 27-28 and Interlocutory Order of August 9, 1973 (31 Ind. Cl. Comm. 225)",
       "source": {
         "title": "Goshute Tribe v. United States, Docket 326-J, Interlocutory Order, August 9, 1973, 31 Ind. Cl. Comm. 225",
@@ -88,11 +88,11 @@
     "Whether all twenty $1,000 annuities under Article 7 were paid was not traced; the Commission's findings mention that the 1873 Powell-Ingalls commission proposed no further annuities unless the Goshute accepted removal.",
     "treaties.json lists no presentDayTribes for this record; the Oklahoma State University database names the Confederated Tribes of the Goshute Reservation and the Skull Valley Band of Goshute Indians as successors. Not edited.",
     "No Goshute nation history page was opened in this pass; a nationVoice entry is still owed.",
-    "Royce p. 830 was fetched but the area 447 row was not read on the page scan in this pass; the Commission quotes Royce as saying the Goshute tract was taken possession of without formal purchase."
+    "Audit 2026-11-08: Royce p. 831 remark read (djvu): the Goshute boundaries 'were also taken possession of by the U. S. without formal purchase'. Treaty text (OSU) re-read: 13 Stat. 681, ratified March 7, 1864, proclaimed January 17, 1865; Article 7 text read, so the promise no longer relies on the Commission's summary. Docket 326-J order and Findings 27-28 re-read: the findings do not themselves say 'without payment', so 'what' and plain.happened now state the clause 4 entitlement the order gives. Figures (5,952,000; 128,196.35; 5,823,803.65 acres; $5,980,122.00; $1,273,000.00; $7,300,000) match; quote exact."
   ],
   "plain": {
     "promised": "A peace treaty: the Goshute let roads, telegraph, mines and settlements into their country, and the United States promised $1,000 a year for twenty years for the lost game.",
-    "happened": "The Indian Claims Commission found in 1973 that the Goshute lost nearly all their land by January 1, 1875 to white settlement, without payment, and that profits from ores mined before then were also lost.",
+    "happened": "The Indian Claims Commission found in 1973 that the Goshute lost nearly all their land to white settlement by January 1, 1875, and held them entitled to its value and to profits from ores mined before then.",
     "today": "The claims were settled for $7,300,000 in 1975. The Goshute kept only the Deep Creek and Skull Valley areas, set apart as reservations in 1914-1918."
   },
   "researchedAt": "2026-11-08",

@@ -12,7 +12,7 @@
   ],
   "promises": [
     "Not a treaty: an Act of Congress. It restored to the public domain the part of the Uintah Valley Reservation lying within boundaries running from mile-post 19 of Du Bois' survey to the east boundary of the reservation.",
-    "The land was to be sold for cash, non-mineral land for not less than $1.25 an acre and mineral entries at $20 an acre, and all money from the sales was to belong to the Indians.",
+    "The land was to be sold for cash, non-mineral land for not less than $1.25 an acre, in lots of at most a quarter section; mineral entries already made could be completed only on payment of $20 an acre; and all money from the sales was to belong to the Indians.",
     "The Court of Claims records that the Act took effect only if three-fourths of the adult male Indians on the reservation consented."
   ],
   "status": "no-breach-found",
@@ -52,7 +52,8 @@
     "treaties.json gives Royce area 431 and the Royce page 924 for this record; Royce prints this Act on p. 926 with 'See 431' in the number column, so it has no polygon of its own. Not edited.",
     "The consent proviso is on 25 Stat. 158, which was not opened; it is taken from the Court of Claims findings.",
     "Whether $1.25 and $20 an acre, or $22,417.93 plus $10,000, was a fair price for the strip (later known for gilsonite) was not examined by any decision found.",
-    "treaties.json lists no present-day tribes; the Ute Indian Tribe of the Uintah and Ouray Reservation should be listed. Not edited. The Ute Indian Tribe's own account was not opened."
+    "treaties.json lists no present-day tribes; the Ute Indian Tribe of the Uintah and Ouray Reservation should be listed. Not edited. The Ute Indian Tribe's own account was not opened.",
+    "Audit 2026-11-08: 25 Stat. 157 opened: boundary, $1.25 minimum and the money-to-the-Indians proviso match; the $20 rate applies to mineral entries made before the Act, so the promise was reworded. 139 Ct. Cl. 1 (static.case.law) re-read: three-fourths consent proviso, consent obtained, $22,417.93 credited, $10,000 under the 1902 Act. ICC full text 'gilsonite' returns nothing; 'uintah 1888' finds only Docket 45 and settlement records. No-breach-found confirmed."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

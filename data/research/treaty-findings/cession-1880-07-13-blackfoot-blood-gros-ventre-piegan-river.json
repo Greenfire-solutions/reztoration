@@ -16,9 +16,22 @@
   "promises": [
     "No promise was made: this was an executive order, without an agreement. It returned to the public domain the part of the 1875 addition bounded by the Fort Buford military reservation, the Missouri River, the Musselshell River, the 47th parallel and the Yellowstone River, leaving the rest in the reserve (Royce)."
   ],
-  "status": "no-breach-found",
-  "breaches": [],
-  "today": "Royce records that the remainder of the 1875 addition was still part of the Gros Ventre, Blackfoot and River Crow reserve when he wrote in 1899.",
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1933-04-10",
+      "what": "The Court of Claims found that this order returned to the public domain part of the 1875 addition, land lying inside the Assiniboine's lands under the 1851 Treaty of Fort Laramie, and counted it among the steps by which the United States took over all of that treaty land. It valued the land at no more than $3,238,970 and dismissed the claim only because the government's set-offs were larger.",
+      "whoFoundIt": "Court of Claims, Assiniboine Indian Tribe v. United States, 77 Ct. Cl. 347 (decided April 10, 1933)",
+      "source": {
+        "title": "Assiniboine Indian Tribe v. United States, 77 Ct. Cl. 347 (1933)",
+        "url": "https://static.case.law/us-ct-cl/77/cases/0347-01.json",
+        "publisher": "Caselaw Access Project (Harvard Law School Library)"
+      },
+      "quote": "There is no question but what the lands granted the plaintiff tribe by the Treaty of Fort Laramie were taken over by the Government"
+    }
+  ],
+  "today": "The same 1933 ruling rejected a separate Assiniboine claim that this order let in settlers who destroyed the buffalo, causing deaths by starvation. A second claim for the land was dismissed by the Indian Claims Commission on December 12, 1952 as already decided, which the Court of Claims affirmed in 1954 (128 Ct. Cl. 617). Royce records that the remainder of the 1875 addition was still part of the Gros Ventre, Blackfoot and River Crow reserve when he wrote in 1899.",
   "nationVoice": [
     {
       "nation": "Blackfeet Nation (Amskapi Piikani)",
@@ -41,14 +54,43 @@
       "title": "Blackfeet Nation, Our History (Wayback capture of March 8, 2010)",
       "url": "http://web.archive.org/web/20100308002858/http://www.blackfeetnation.com/about-the-blackfeet/our-history.html?showall=1",
       "publisher": "Blackfeet Nation"
+    },
+    {
+      "title": "Assiniboine Indian Tribe v. United States, 77 Ct. Cl. 347 (1933)",
+      "url": "https://static.case.law/us-ct-cl/77/cases/0347-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School Library)"
+    },
+    {
+      "title": "Assiniboine Indian Tribe v. United States, 128 Ct. Cl. 617 (1954)",
+      "url": "https://static.case.law/us-ct-cl/128/cases/0617-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School Library)"
+    },
+    {
+      "title": "United States v. Assiniboine Tribes of Indians, 192 Ct. Cl. 679 (1970)",
+      "url": "https://static.case.law/us-ct-cl/192/cases/0679-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School Library)"
+    },
+    {
+      "title": "Assiniboine Indian Tribe v. United States, Opinion of the Commission (December 12, 1952)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/521",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
     }
   ],
   "openQuestions": [
     "Decided by Jordan 2026-11-08: an executive order taking back executive-order land is not a breach by itself; it needs a finding. this order took reservation land back without the tribes' consent or payment, but the land had itself been added by an executive order (1875), not secured by a treaty. No court or Claims Commission finding on the 1880 restoration was located, so it is recorded as no breach found yet rather than broken.",
     "Leads: the Indian Claims Commission's Fort Belknap and Fort Peck dockets (for example 279-C and 279-D accounting cases) and any Assiniboine claim might address this tract; they were not read for this file.",
     "treaties.json gives this entry the same Royce areas (622, 623) as cession-1875-04-13; only the part restored in 1880 belongs here.",
-    "The order was read only in Royce's summary, not in Kappler vol. 1."
+    "The order was read only in Royce's summary, not in Kappler vol. 1.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for \"Blackfeet\", \"Gros Ventre\", \"Assiniboine\", \"Piegan\" (opened 77 Ct. Cl. 347, 128 Ct. Cl. 617, 162 Ct. Cl. 136, 192 Ct. Cl. 679, 81 Ct. Cl. 101) and ICC \"Sioux 1875 executive order addition\" (opened OSU 521, 894, 1941, 2749). Found: Assiniboine Indian Tribe v. United States, 77 Ct. Cl. 347 (1933), naming this order among the steps that took the Assiniboine's Fort Laramie treaty land; status raised from no-breach-found to broken, sameEventAs the 1875 record. The claim was dismissed for offsets; Jordan may wish to confirm that a taking found but offset to nothing counts as a breach.",
+    "The Commission in 1952 described the Assiniboine lands as appropriated by executive or administrative action without Congressional authority (OSU 521). Taking from the Gros Ventre and Blackfeet of the part restored here (Royce 622) was not found in any decision."
   ],
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "sameEventAs": "cession-1875-04-13-blackfoot-blood-gros-ventre-piegan-river",
+  "compensation": "None. The Court of Claims set off against the land's value (no more than $3,238,970) larger sums the government had spent for the Assiniboine and dismissed the claim (77 Ct. Cl. 347); in 1970 it said the tribe received no compensation for the taking because of the offsets (192 Ct. Cl. 679).",
+  "plain": {
+    "promised": "No promise was made. This order returned to the public domain part of the 1875 addition, land the 1851 Treaty of Fort Laramie had set out for the Assiniboine.",
+    "happened": "In 1933 the Court of Claims found the United States took the Assiniboine's treaty land through the 1875 order, this 1880 order and later surveys. The same taking is counted on the 1875 record.",
+    "today": "The court valued the land at no more than $3,238,970 but dismissed the claim because the government's spending for the tribe was larger. Nothing was paid."
+  }
 }

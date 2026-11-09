@@ -1,0 +1,19 @@
+{
+  "id": "cession-1875-04-23-apache",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Docket 22-J opinion (OSU 1516) holding on restoring Camp Verde to the public domain; quote exact",
+    "Royce p. 880 text matches; area 582 on cession-1871-11-09-apache, sameEventAs kept"
+  ],
+  "changes": [
+    "Audit line added to openQuestions"
+  ],
+  "unverifiable": [
+    "$685,800 settlement not reopened in this pass (audited on cession-1871-11-09-apache)",
+    "treaties.json error: presentDayTribes is empty for this record (not edited)."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes is empty for this record"
+  ]
+}

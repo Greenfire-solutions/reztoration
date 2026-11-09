@@ -45,7 +45,8 @@
   "openQuestions": [
     "This follows cession-1874-11-16-colorado-river, an enlargement with the same no-breach result. The CRIT page and the Docket 283/295 interlocutory order (Mohave title taken as of March 3, 1865 without compensation) were reopened on 2026-11-08.",
     "The dispute over the reservation's western boundary under the 1876 order (Arizona v. California) was not researched; it concerns the 1876 order.",
-    "treaties.json lists no presentDayTribes for this record. Not edited."
+    "treaties.json lists no presentDayTribes for this record. Not edited.",
+    "Audit 2026-11-08: Royce p. 868 text (bottom land to within 6 miles of Ehrenberg, mountains and mesas) matches. Court of Claims index for Colorado River and Mohave lists only ICC appeals; Colorado River Indian Tribes v. United States, 221 Ct. Cl. 989 (1979) is an $850,000 judgment on a stipulation for claims that from 1942 and 1945 the United States settled others on reservation land (156 Ct. Cl. 712, 1962). It is a settlement about later use of the reservation, not a finding about this order; lead only, not added."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

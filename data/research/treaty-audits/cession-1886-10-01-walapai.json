@@ -1,0 +1,19 @@
+{
+  "id": "cession-1886-10-01-walapai",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "ICC id 851, Interlocutory Order Nov 19, 1962: Indian title to Finding 17 land; extinguished without payment outside the reservation on Jan 4, 1883. Quote exact.",
+    "ICC id 1550, Second Interlocutory Order Dec 21, 1966: 4,459,500 acres; $2,800,000.00 on Jan 4, 1883; acquired without payment; recover less offsets.",
+    "ICC id 1217, Final Judgment June 18, 1968: dockets 90 and 122 consolidated; compromise of all Hualapai claims; $2,950,000. Kind litigation right.",
+    "Royce p. 922-923 (archive.org djvu text): the row sits under the 1886 'Oct. 1, Act of Congress, Stat. L. XI, 374' heading carried down from the Pueblo rows; remark text read and matches the file. Walapai remark: no treaty of purchase; U.S. assumed title; EO reserve Jan 4, 1883.",
+    "sameEventAs cession-1883-01-04-walapai exists and is a primary; kept."
+  ],
+  "changes": [
+    "openQuestions: removed two stale notes; added the audit line."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "date 1886-10-01 is Royce's carried-down heading."
+  ]
+}

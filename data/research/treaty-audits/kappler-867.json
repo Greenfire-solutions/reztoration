@@ -1,0 +1,22 @@
+{
+  "id": "kappler-867",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "ICC id 2208, Interlocutory Order Aug 9, 1973 (31 Ind. Cl. Comm. 225): title extinguished January 1, 1875; value $5,980,122.00 under clause 4; lost ore profits $1,273,000.00 under clause 5. Quote exact.",
+    "ICC id 2201, Findings 27-28: peace-and-friendship treaty, ratified March 7, 1864; gradual white encroachment; EOs of March 23, 1914, Sept 7, 1917, Feb 15, 1918; 5,952,000 acres less 128,196.35 = 5,823,803.65.",
+    "ICC id 2267, Final Award Nov 5, 1975 (37 Ind. Cl. Comm. 41): $7,300,000 on stipulation for Dockets 326-B and 326-J; kind litigation right.",
+    "Treaty text, treaties.okstate.edu, Articles 1-7; Royce p. 831 remark."
+  ],
+  "changes": [
+    "breach 'what' and plain.happened: 'without payment' replaced by the clause 4 entitlement the order states (Finding 27 says encroachment, not non-payment, in so many words).",
+    "Article 7 promise now cited to the treaty text.",
+    "openQuestions: Royce note replaced with the audit line."
+  ],
+  "unverifiable": [
+    "Whether the twenty annuities were paid (already in openQuestions)."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes empty; should name the Confederated Tribes of the Goshute Reservation and the Skull Valley Band of Goshute Indians."
+  ]
+}

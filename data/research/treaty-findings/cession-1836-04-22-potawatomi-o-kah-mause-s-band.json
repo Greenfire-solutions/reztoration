@@ -17,7 +17,7 @@
   "status": "no-breach-found",
   "breaches": [],
   "compensation": "$6,400 under Article 2. Whether it was paid was not traced.",
-  "today": "A 1972 dissent in the Potawatomi land claims (Dockets 29-D and 29-E) lists this treaty among thirteen made between December 1834 and February 1837 with Wabash Potawatomi village bands for village areas reserved to them in 1832, and says the reserves ceded under them were not tribal lands. No Commission award for these reserves was found.",
+  "today": "A 1972 dissent in the Potawatomi land claims (Dockets 29-D and 29-E) lists this treaty among thirteen made between December 1834 and February 1837 with Wabash Potawatomi village bands for village areas reserved to them in 1832, and says the reserves ceded under them were not tribal lands. No Commission award for these reserves was found. The majority opinion (27 Ind. Cl. Comm. 187, at 234-235) says it considered but excluded these treaties as not germane, because the lands were then held not under tribal title but in trust for named chiefs and their followers.",
   "nationVoice": [
     {
       "nation": "Citizen Potawatomi Nation",
@@ -45,13 +45,18 @@
       "title": "Citizen Potawatomi Nation, The United States' handling of the 'Indian problem' (September 7, 2018)",
       "url": "https://www.potawatomi.org/blog/2018/09/07/the-united-states-handling-of-the-indian-problem/",
       "publisher": "Citizen Potawatomi Nation Cultural Heritage Center"
+    },
+    {
+      "title": "Citizen Band of Potawatomi Indians et al. v. United States, Docket 71 et al., Opinion of the Commission, Part 2 (March 28, 1972), 27 Ind. Cl. Comm. 187",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2494",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
     }
   ],
   "openQuestions": [
     "Royce gives this cession no map area (boundaries not ascertained), so nothing is drawn.",
     "The Citizen Potawatomi Nation's account concerns the 1834 to 1837 village treaties as a group and does not name this one; it is recorded as the nation's voice, not as a breach.",
-    "The dissent was read; the majority opinion in Dockets 29-D and 29-E was not.",
-    "Which present-day nations descend from these four bands was not settled; both nations named are successors to the Potawatomi who removed west."
+    "Which present-day nations descend from these four bands was not settled; both nations named are successors to the Potawatomi who removed west.",
+    "Audit 2026-11-08: the majority opinion was read (ICC id 2494): it excluded the 1834 to 1837 village treaties as individual trust lands, not tribal lands, so no Commission finding exists for this cession; added to today. The dissent is part of the same decision, 27 Ind. Cl. Comm. 187 (the part printed from p. 325). Treaty text, dates and 7 Stat. 500 checked against Kappler (OSU). Court of Claims names (Potawatomi, Pottawatomie, Pottawatomi) checked: all post-1946 ICC appeals."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

@@ -20,7 +20,7 @@
   ],
   "status": "no-breach-found",
   "breaches": [],
-  "today": "In Docket 292 the Creek Nation claimed that the United States had disbursed only $169,452.25 of the $206,000 owed under Article 3 of this treaty. The Indian Claims Commission dismissed the claim in 1959, holding that the burden of proving the failure lay on the nation. This was a ruling against the nation. The Inter-Tribal Council of the Five Civilized Tribes (Resolution 2002-18) says the treaty excluded the Ocmulgee Old Fields reserve tract from the cession and that Muscogee people were later forced to cede all their Georgia lands through subsequent treaties.",
+  "today": "In Docket 292 the Creek Nation claimed that the United States had disbursed only $169,452.25 of the $206,000 owed under Article 3 of this treaty. The Indian Claims Commission dismissed the claim in 1959, holding that the burden of proving the failure lay on the nation. This was a ruling against the nation. The Inter-Tribal Council of the Five Civilized Tribes (Resolution 2002-18) says the treaty excluded the Ocmulgee Old Fields reserve tract from the cession and that Muscogee people were later forced to cede all their Georgia lands through subsequent treaties. The Court of Claims affirmed the Docket 292 dismissal per curiam on March 1, 1961 (152 Ct. Cl. 747), over a dissent that would have put the burden of accounting on the United States, and the Supreme Court affirmed by an equally divided Court (370 U.S. 157), as the Court of Claims report records.",
   "nationVoice": [
     {
       "nation": "Inter-Tribal Council of the Five Civilized Tribes (of which the Muscogee (Creek) Nation is a member)",
@@ -53,13 +53,19 @@
       "title": "Creek Nation v. United States, Docket 292, Opinion of the Commission (7 Ind. Cl. Comm. 117, February 18, 1959)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/113",
       "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Creek Nation v. United States, Appeal No. 3-59, 152 Ct. Cl. 747 (Court of Claims, March 1, 1961), affirming Docket 292",
+      "url": "https://static.case.law/us-ct-cl/152/cases/0747-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School)"
     }
   ],
   "openQuestions": [
     "Whether all eighteen annual payments under Article 3 were made is unresolved: the Commission found disbursements definitely allocated to this treaty of $169,452.25 against an admitted obligation of $206,000, but dismissed the claim for want of proof (Docket 292, 1959). No Commission claim for additional payment for the land itself was found.",
     "The Ocmulgee reserve tract kept by Article 1 passed out of Creek hands under a later treaty; that loss belongs to the later treaty's record.",
     "The Muscogee (Creek) Nation's own published account of this treaty was not found in this pass; the Inter-Tribal Council resolution is the closest.",
-    "Audit 2026-11-08: the researcher wrote that Docket 292 does not cover this treaty. Its findings of fact quote Article 3 of this treaty and its opinion addresses the claim; today and openQuestions corrected and the two Docket 292 documents added to sources. Status unchanged: the dismissal is a ruling against the nation, not a breach."
+    "Audit 2026-11-08: the researcher wrote that Docket 292 does not cover this treaty. Its findings of fact quote Article 3 of this treaty and its opinion addresses the claim; today and openQuestions corrected and the two Docket 292 documents added to sources. Status unchanged: the dismissal is a ruling against the nation, not a breach.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for creek, 1805 and 7 Stat. 96; found only the appeal of Docket 292 (152 Ct. Cl. 747, 1961), which affirmed the dismissal, a ruling against the nation added to today. Status unchanged."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

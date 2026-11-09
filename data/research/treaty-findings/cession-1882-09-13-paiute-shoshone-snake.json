@@ -58,8 +58,8 @@
       "publisher": "Smithsonian Institution, via Internet Archive"
     },
     {
-      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 910, note on the Malheur reserve",
-      "url": "https://archive.org/stream/annualreportofbu218smit#page/910/mode/2up",
+      "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 911, note on the Malheur reserve",
+      "url": "https://archive.org/stream/annualreportofbu218smit#page/911/mode/2up",
       "publisher": "Smithsonian Institution, via Internet Archive"
     },
     {
@@ -91,7 +91,9 @@
   "openQuestions": [
     "Same land and event as cession-1872-09-12-paiute-shoshone-snake (the January 1879 taking of the Malheur Reservation, Docket 17); counted once. Royce area 638 is also mapped by that record and by cession-1876-01-28-paiute-shoshone-snake.",
     "treaties.json error: presentDayTribes is empty for this record; the Burns Paiute Tribe should be listed. It also links a statute file (638c.pdf) for what Royce lists as an executive order. Not edited.",
-    "The Burns Paiute page dates the reservation to 1869; Royce and the Commission give September 12, 1872 for the first order."
+    "The Burns Paiute page dates the reservation to 1869; Royce and the Commission give September 12, 1872 for the first order.",
+    "Audit 2026-11-08: the Royce source for the Malheur note was cited as p. 910; the note is on p. 911 (p. 910 has the May 21, 1883 order). Corrected. Docket 17 findings 36, 37 and 41, the quote, the $579,722.00 value and the 1963 Interior release were re-read and match.",
+    "Camp Harney decision (audit 2026-11-08): Docket 17 covers the 320 acres. Finding 3 defines the land as the January 28, 1876 reservation by metes and bounds, with no exception for Camp Harney; Royce p. 903 says the 640-acre Camp Harney reserve \"was already within the general outboundaries of the Malheur reservation\"; finding 40 holds aboriginal title to all land within those boundaries and finding 41 that it was taken in January 1879; finding 37 names the March 2, 1889 restoration of the 320 acres and says the bands were never compensated for any reservation land. So the 1889 loss of the 320 acres is part of the same Docket 17 taking. Left uncertain: whether the 640 acres were counted in the stipulated 1,449,305.77 net acres valued (the stipulation lists no military-reserve deduction, Opinion of April 15, 1959). cession-1889-03-02-malheur-indian-reservation-shoshone-snak should be broken with sameEventAs cession-1872-09-12-paiute-shoshone-snake."
   ],
   "plain": {
     "promised": "Not a treaty. Presidential orders from 1872 set apart the Malheur Reservation in Oregon for the Paiute bands; this 1882 order returned most of it to the public domain.",

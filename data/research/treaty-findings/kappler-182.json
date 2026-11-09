@@ -18,13 +18,25 @@
     "Article 4: a reserve four miles square around a salt lick on or near the Sandy River, to be leased by Levi Colbert and James Brown as trustees for the nation in return for salt.",
     "Article 6: the south boundary of Tennessee to be marked with two Chickasaw attending, and fair and reasonable compensation paid for improvements made by individual Chickasaw on the ceded lands."
   ],
-  "status": "no-breach-found",
-  "breaches": [],
-  "today": "No court, Indian Claims Commission or government finding of a breach was found. The Chickasaw Nation's Commission dockets (267 to 270) concern later matters. The Chickasaw ceded their remaining homeland in Mississippi and Alabama by the 1832 Treaty of Pontotoc Creek (kappler-364).",
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1945-01-08",
+      "what": "In a suit under the jurisdictional act of June 7, 1924, the Court of Claims found that $1,000 Congress had appropriated for a treaty obligation of October 19, 1818 was left unexpended, and held the Chickasaw Nation entitled to recover it. It then set the Nation's whole recovery of $22,858.78 off against gratuities and dismissed the petition, so nothing was paid.",
+      "whoFoundIt": "Chickasaw Nation of Indians v. United States, 103 Ct. Cl. 1 (1945); result restated by order of January 7, 1946, 105 Ct. Cl. 225",
+      "source": {
+        "title": "Chickasaw Nation of Indians v. United States, 103 Ct. Cl. 1 (1945)",
+        "url": "https://static.case.law/us-ct-cl/103/cases/0001-01.json",
+        "publisher": "Caselaw Access Project (Harvard Law School Library)"
+      }
+    }
+  ],
+  "today": "The Court of Claims found money due under this treaty left unexpended but offset it, with the rest of the Nation's recovery, against gratuities (103 Ct. Cl. 1, 1945; 105 Ct. Cl. 225, 1946). The Chickasaw Nation's Commission dockets (267 to 270) concern later matters. The Chickasaw ceded their remaining homeland in Mississippi and Alabama by the 1832 Treaty of Pontotoc Creek (kappler-364).",
   "plain": {
     "promised": "The Chickasaw gave up western Tennessee and Kentucky for $20,000 a year for fifteen years, a salt lick reserve leased for the nation, and pay for improvements on the ceded land.",
-    "happened": "No court or claims finding that these promises were broken has been located. The Chickasaw Nation says Jackson told them the land would be taken if they refused.",
-    "today": "No claim or finding about this treaty has been located. The Chickasaw Nation says the United States kept demanding more land for the next decade."
+    "happened": "The Court of Claims found in 1945 that $1,000 Congress set aside for a treaty obligation of this date was left unexpended, and held the Chickasaw Nation entitled to it. The Nation also says Jackson threatened to take the land.",
+    "today": "Nothing was paid: the court set the Nation's whole award against gratuities the government had spent for it. The Nation says the United States kept demanding more land."
   },
   "nationVoice": [
     {
@@ -53,13 +65,25 @@
       "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), areas 100 and 81",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/694/mode/2up",
       "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Chickasaw Nation of Indians v. United States, 103 Ct. Cl. 1 (1945)",
+      "url": "https://static.case.law/us-ct-cl/103/cases/0001-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School Library)"
+    },
+    {
+      "title": "Chickasaw Nation of Indians v. United States, 105 Ct. Cl. 225 (order of January 7, 1946)",
+      "url": "https://static.case.law/us-ct-cl/105/cases/0225-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School Library)"
     }
   ],
   "openQuestions": [
     "The Chickasaw Nation's account of Jackson's threat is the Nation's statement of how the treaty was obtained, not a statement that a promise in the treaty was broken, so it is recorded in nationVoice rather than as a breach.",
     "Whether the Article 4 salt lick reserve was leased as promised, and whether the Article 6 improvement payments were made, was not researched.",
-    "treaties.json lists Royce area 81 for both this treaty and the 1816 treaty (kappler-143). Not edited."
+    "treaties.json lists Royce area 81 for both this treaty and the 1816 treaty (kappler-143). Not edited.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for Chickasaw (Court of Claims index, every case 1884 to 1946 grepped for 1818, Old Town and Jackson Purchase) and 'Chickasaw September 20, 1816' (ICC). Found the Court of Claims ruling of January 8, 1945 (103 Ct. Cl. 1, No. K-544) on an unexpended $1,000 under this treaty, now recorded as a breach. The opinion does not say which article the $1,000 came from; its special findings (Finding No. 6) are not printed on case.law. The same opinion allows $4,446.05 of unexpended goods annuities for 1812 to 1852 and mentions that this treaty had those annuities paid in cash; that item arises under the 1794 agreement and is not counted here."
   ],
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "compensation": "Nothing was paid. The Court of Claims held, in 1945 and again in its order of January 7, 1946 after the Supreme Court sent the case back on which gratuities were used, that the Chickasaw Nation was entitled to recover $22,858.78 on its claims, including $1,000 under this treaty, and that the United States could set off a like sum of gratuities spent for the Nation, so the petition was dismissed."
 }

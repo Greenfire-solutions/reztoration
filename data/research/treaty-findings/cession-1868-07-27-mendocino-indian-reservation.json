@@ -6,7 +6,7 @@
     "Royce area 522"
   ],
   "signed": "1868-07-27",
-  "citation": "15 Stat. 223",
+  "citation": "Act of July 27, 1868, ch. 248, sec. 6, 15 Stat. 198, 223",
   "textUrl": "https://archive.org/stream/annualreportofbu218smit#page/850/mode/2up",
   "nations": [
     "Pomo peoples of the Mendocino coast (Northern Pomo and others), many of them moved to Round Valley"
@@ -30,15 +30,21 @@
       "title": "Thompson et al. (Indians of California) v. United States, Dockets 31 and 37 et al., Findings of Fact on compromise settlement, July 20, 1964, 13 Ind. Cl. Comm. 369",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/914",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Act of July 27, 1868, ch. 248, sec. 6, 15 Stat. 198, 223",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-15/pdf/STATUTE-15-Pg223.pdf",
+      "publisher": "US Government Publishing Office, govinfo"
     }
   ],
   "openQuestions": [
     "The reservation was an executive-order reserve; under the 2026-11-08 rule its restoration is not itself a breach, and no court, Claims Commission or government admission about this land was found in this pass.",
     "Royce's description of the Mendocino reserve (p. 850) opens with land on both sides of the Klamath river from its mouth 20 miles up, which is the Klamath River reserve, before giving the Noyo river and Hale creek bounds; the Klamath words look like a conflation in Royce. Only the Noyo-Hale creek description is used here.",
     "Secondary sources found in a search (PBS SoCal, Kelley House Museum, the Fort Bragg city history) give 1865 or 1866 for the closing, describe forced marches to Round Valley and sale of the land at $1.25 an acre in 1869; none was opened and cited, and none is a finding.",
-    "The Senate's 1885 Round Valley report (Senate Report No. 1522, 48th Cong., 2d Sess.), cited on cession-1873-03-03-round-valley-reservation-indians, may discuss the Mendocino removals; not read for this tract.",
+    "The Senate's 1885 Round Valley report (Senate Report No. 1522, 48th Cong., 2d Sess.), cited on cession-1873-03-03-round-valley-reservation-indians, was searched in the audit; see below.",
     "No Pomo nation account of the Mendocino reservation was located. treaties.json lists no presentDayTribes for this record. Not edited.",
-    "treaties.json also has cession-1856-05-22-mendocino-indian-reservation for the 1856 order (same area 522), which has no findings file yet."
+    "Audit 2026-11-08: the Act's text (sec. 6, p. 223) was read: it restores the reservation to the public lands, orders survey and sale at not less than $1.25 an acre, and protects prior improvers, with no provision for the Indians. Citation made exact (chapter 248 begins at p. 198). The stale line that cession-1856-05-22 had no findings file was removed; it now has one.",
+    "Audit 2026-11-08: searched for findings as asked: Senate Report No. 1522 (1885, Dawes) names Mendocino reservation only once, as the reserve to which Nome Cult was auxiliary in 1856; no finding. The 1944 Court of Claims offset judgment (102 Ct. Cl. 837) is not in the Caselaw Access Project and no free copy was found; the 1964 ICC compromise findings give the 611,226 acres of offset reservation land only in total. The 1935, 1942 and 1943 Court of Claims Indians of California opinions do not mention Mendocino. No change to status."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

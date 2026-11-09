@@ -95,7 +95,8 @@
     "The lead given for this round (Emigrant New York Indians, ICC Docket 75, 177 Ct. Cl. 263) concerns the Green Bay, Wisconsin lands bought from the Menominee in 1822 and lost under the 1831-32 treaties, not the Kansas lands. The 1966 Court of Claims opinion was opened and mentions Kansas only as the 1838 exchange.",
     "Whether the 1898 judgment's net amount included money from the 1873 sales of allotted land was not settled; the opinion speaks of the Kansas lands as a whole.",
     "The rest of the Act (17 Stat. 467) was not read; the five-year clause is read from page 466 only, where the sentence continues onto the next page.",
-    "treaties.json lists no presentDayTribes and no statute link for this record; 17 Stat. 466 is the citation Royce gives. Not edited."
+    "treaties.json lists no presentDayTribes and no statute link for this record; 17 Stat. 466 is the citation Royce gives. Not edited.",
+    "Audit 2026-11-08: 17 Stat. 466 read on govinfo (quote exact, line-broken as \"per-mitted\"). New York Indians v. United States, 170 U.S. 1 (April 11, 1898) re-read: it states the Kansas lands were surveyed, made part of the public domain and sold, the United States receiving the consideration, records 32 allotments of 320 acres (10,240 acres), and remands for judgment for the net amount received for the Kansas lands. sameEventAs kappler-510 kept: kappler-510 carries Royce area 249 and has a findings file. No change."
   ],
   "plain": {
     "promised": "The 1838 Buffalo Creek treaty promised the New York Indians a permanent home in Kansas; thirty-two of them received 320-acre allotments there in 1860.",

@@ -41,7 +41,8 @@
     "treaties.json lists the Leech Lake, Mille Lacs and White Earth bands as present-day tribes; the additions were to the Leech Lake and Winnibigoshish reserves, now part of the Leech Lake Band of Ojibwe. Mille Lacs and White Earth appear to be listed for the 1867 cession as a whole. Not edited.",
     "The order was read only in Royce's summary, not in Kappler vol. 1.",
     "See cession-1874-05-26-chippewa-of-the-mississippi for the second additions; Royce records that the Pillager and Winnibigoshish bands ceded their reservations under the Nelson Act agreement signed August 21, 1889.",
-    "Audit 2026-11-08: corrected the treaties.json note, which said the Leech Lake Band was not listed; treaties.json does list it, alongside Mille Lacs and White Earth."
+    "Audit 2026-11-08: corrected the treaties.json note, which said the Leech Lake Band was not listed; treaties.json does list it, alongside Mille Lacs and White Earth.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for: Court of Claims names \"leech lake\" (0), \"pillager\" (192 Ct. Cl. 698 (1970) concerns Royce 269), \"chippewa\"; ICC full text \"Winnibigoshish\" (Docket 18-B decisions concern the Nelson Act lands, which have their own records). Nothing new for this order."
   ],
   "plain": {
     "promised": "An addition, not a cession. The President added land to the Lake Winnibigoshish reservation, land the Chippewa had ceded in 1867.",

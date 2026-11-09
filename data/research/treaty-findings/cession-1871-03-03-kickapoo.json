@@ -60,7 +60,8 @@
     "treaties.json: this entry and cession-1870-07-15-kickapoo are two appropriation acts, not cessions, and both point to Royce 650, the reservation later set apart for the Mexican Kickapoo and ceded in 1891.",
     "The settlement is counted as litigation only. Whether the 1891 agreement was obtained improperly, which the 1908 appropriation may reflect, was not found in a government or court source opened.",
     "No Kickapoo Tribe of Oklahoma or Kickapoo Traditional Tribe of Texas account was opened.",
-    "Audit 2026-11-08: downgraded contested -> no-breach-found. This appropriation act took no land and made no promise to the Kickapoo that was later broken; the Docket 318 compromise concerns the 1891 cession, which has its own file (cession-1893-03-03-kickapoo). The litigation breach was removed here and pointed to in today, matching the treatment of the 1872 Ute negotiation act. Also corrected the promise: 16 Stat. 569 says reservations \"within the Territories of the United States\", not the Indian Territory."
+    "Audit 2026-11-08: downgraded contested -> no-breach-found. This appropriation act took no land and made no promise to the Kickapoo that was later broken; the Docket 318 compromise concerns the 1891 cession, which has its own file (cession-1893-03-03-kickapoo). The litigation breach was removed here and pointed to in today, matching the treatment of the 1872 Ute negotiation act. Also corrected the promise: 16 Stat. 569 says reservations \"within the Territories of the United States\", not the Indian Territory.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for: Court of Claims names \"kickapoo\" (Kickapoo Tribe of Kansas cases only); ICC full text \"Kickapoo Mexico\". Nothing new."
   ],
   "plain": {
     "promised": "No treaty. In 1871 Congress paid to move Kickapoo and others living on the Mexico and Texas borders to reservations in the territories of the United States and support them there.",

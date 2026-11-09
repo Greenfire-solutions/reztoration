@@ -1,0 +1,22 @@
+{
+  "id": "cession-1859-02-28-maricopa-pima",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "231 Ct. Cl. 193, 684 F.2d 852 (June 30, 1982, No. 236-C) read in full: about this reservation; liability through 1905, none after, remand for damages; quote exact",
+    "Act of Feb. 28, 1859, ch. 66, secs. 3-5 read on govinfo: survey, not over 100 square miles, $10,000 presents, p. 401",
+    "204 Ct. Cl. 137 (1974): aboriginal title date of taking",
+    "Gov. Lewis 2016 remarks: upstream diversion and 2004 settlement"
+  ],
+  "changes": [
+    "citation: now Act of February 28, 1859, ch. 66, secs. 3-5, 11 Stat. 388, 401 (Royce's p. 401 is the page of the sections)",
+    "sources: statute added",
+    "openQuestions: citation question resolved; audit line confirming the ruling concerns this reservation"
+  ],
+  "unverifiable": [
+    "Damages paid on remand in Docket 236-C not traced"
+  ],
+  "treatiesJsonErrors": [
+    "treaties.json: presentDayTribes is empty for this record."
+  ]
+}

@@ -20,15 +20,39 @@
     "A physician, school teacher, blacksmith and farming superintendent for five years after removal (Article 3).",
     "Lots on the permanent reserve could be assigned to families, with patents barring sale or long leases, restrictions no state legislature could remove without the consent of Congress (Article 4)."
   ],
-  "status": "no-breach-found",
-  "breaches": [],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1946-02-04",
+      "what": "The Court of Claims held that the Act of March 3, 1875, which made able-bodied men work for annuities and supplies already owed, was a plain violation of the treaties, and allowed the Confederated Bands residing in the Willamette Valley $1,839.22 for obligations under this treaty paid out under that work order.",
+      "whoFoundIt": "Court of Claims, Rogue River Tribe of Indians et al. v. United States, No. 45231, 105 Ct. Cl. 495 (1946)",
+      "source": {
+        "title": "Rogue River Tribe of Indians et al. v. United States, No. 45231, 105 Ct. Cl. 495, 64 F. Supp. 339 (Court of Claims, February 4, 1946)",
+        "url": "https://static.case.law/us-ct-cl/105/cases/0495-01.json",
+        "publisher": "Caselaw Access Project (Harvard Law School)"
+      },
+      "quote": "We regard this as a plain violation of the terms of the treaty"
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1946-02-04",
+      "what": "The same opinion found funds appropriated for this treaty were not spent for the bands as provided, and held the Willamette Valley bands entitled to $554.52 plus $817.78 of administrative expense wrongly charged to them, $1,372.30 in all.",
+      "whoFoundIt": "Court of Claims, Rogue River Tribe of Indians et al. v. United States, No. 45231, 105 Ct. Cl. 495 (1946)",
+      "source": {
+        "title": "Rogue River Tribe of Indians et al. v. United States, No. 45231, 105 Ct. Cl. 495, 64 F. Supp. 339 (Court of Claims, February 4, 1946)",
+        "url": "https://static.case.law/us-ct-cl/105/cases/0495-01.json",
+        "publisher": "Caselaw Access Project (Harvard Law School)"
+      }
+    }
+  ],
   "landTaken": "Royce area 352, the Willamette Valley from the Columbia River south to the Calapooia Mountains between the Coast Range and the Cascades, as bounded in Article 1. No acreage was found in a source opened. The Grand Ronde Reservation that became the bands' home was set up by executive order of June 30, 1857 with about 61,000 acres, and the Tribe says 25,791 acres of it were declared surplus and sold in 1901 (Grand Ronde, Treaties page).",
-  "compensation": "The treaty annuities and the $50,000 in Article 2. No Indian Claims Commission or Court of Claims award on this treaty was found in the sources searched.",
-  "today": "The Western Oregon termination act of August 13, 1954 (68 Stat. 724) ended federal supervision over the trust property of the Grand Ronde and Siletz confederated tribes and the bands of this treaty; it does not mention the treaty, and the Grand Ronde Reservation that became the bands' home was set up by executive order in 1857, not by this treaty. Congress restored federal recognition to the Confederated Tribes of the Grand Ronde Community on November 22, 1983 (Public Law 98-165, 97 Stat. 1064). That Act restored treaty rights that 'may have been diminished or lost' under the 1954 Act, but expressly restored no hunting, fishing or trapping rights.",
+  "compensation": "The treaty annuities and the $50,000 in Article 2. The Court of Claims allowed the Willamette Valley bands $1,839.22 (work order) and $1,372.30 (unspent treaty funds and administrative expense) in 1946, but in 1950 found that gratuities spent for them up to July 1, 1943 equalled those awards, so nothing was paid and their petition was dismissed (116 Ct. Cl. 454).",
+  "today": "The Court of Claims held in 1946 that this treaty gave the bands no right to any specific area of land, a ruling against them on their land claim, and in 1950 set off gratuities against their money awards and dismissed their petition with no balance due. The Western Oregon termination act of August 13, 1954 (68 Stat. 724) ended federal supervision over the trust property of the Grand Ronde and Siletz confederated tribes and the bands of this treaty; it does not mention the treaty, and the Grand Ronde Reservation that became the bands' home was set up by executive order in 1857, not by this treaty. Congress restored federal recognition to the Confederated Tribes of the Grand Ronde Community on November 22, 1983 (Public Law 98-165, 97 Stat. 1064). That Act restored treaty rights that 'may have been diminished or lost' under the 1954 Act, but expressly restored no hunting, fishing or trapping rights.",
   "plain": {
     "promised": "Protection, a permanent home to be chosen later, yearly payments in four five-year steps, $50,000 for goods, removal and buildings, five years of a doctor, teacher, blacksmith and farm superintendent, and family lots protected from sale.",
-    "happened": "No breach of this treaty's own terms has been documented yet. Congress ended federal trust status for the Grand Ronde and Siletz tribes in 1954, but the Grand Ronde Reservation was set up by executive order in 1857, not by this treaty.",
-    "today": "No claims award on this treaty was found. Congress restored federal recognition to the Grand Ronde Community on November 22, 1983, but restored no hunting, fishing or trapping rights."
+    "happened": "In 1946 the Court of Claims found the United States broke the treaty: an 1875 law made the people work for payments already owed, and money set aside for them was not spent for them.",
+    "today": "The court allowed $1,839.22 and $1,372.30, but in 1950 offset other government spending, so nothing was paid. Congress ended trust status in 1954 and restored the Grand Ronde Community in 1983, without hunting, fishing or trapping rights."
   },
   "nationVoice": [
     {
@@ -62,15 +86,26 @@
       "title": "Royce, Indian Land Cessions in the United States (1899), schedule p. 800, area 352",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/800/mode/2up",
       "publisher": "Smithsonian Institution, via Internet Archive"
+    },
+    {
+      "title": "Rogue River Tribe of Indians et al. v. United States, No. 45231, 105 Ct. Cl. 495, 64 F. Supp. 339 (Court of Claims, February 4, 1946)",
+      "url": "https://static.case.law/us-ct-cl/105/cases/0495-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School)"
+    },
+    {
+      "title": "Rogue River Tribe of Indians et al. v. United States, No. 45231, 116 Ct. Cl. 454, 89 F. Supp. 798 (Court of Claims, April 3, 1950)",
+      "url": "https://static.case.law/us-ct-cl/116/cases/0454-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School)"
     }
   ],
   "openQuestions": [
     "treaties.json merges a second cession into this entry: Royce area 404 and the scheduleTribes 'Creek; Seminole' belong to the Creek and Seminole treaty of August 7, 1856 (the Seminole tract later ceded in 1866), not to this Oregon treaty. The Seminole Nation of Oklahoma, the Seminole Tribe of Florida and the state OK should not be on this entry. Treaties.json was not edited.",
     "The 1954 Act is counted because it removed the restrictions and federal trust status that Article 4 and the treaty reservation rested on; the Act does not mention the treaty and the record opened does not show whether the tribes consented. An auditor may prefer to treat termination separately from the treaty.",
-    "No Indian Claims Commission decision on the Willamette Valley cession was found under the words willamette, calapooya, kalapuya or molalla in the OSU collection; whether these bands recovered through another docket or the Court of Claims was not settled.",
+    "No Indian Claims Commission decision on the Willamette Valley cession was found under the words willamette, calapooya, kalapuya or molalla in the OSU collection; whether these bands recovered through another docket or the Court of Claims was not settled. (2026-11-08 sweep: the bands did sue in the Court of Claims; see Rogue River Tribe v. United States, 1946 and 1950.)",
     "Whether the annuities and Article 3 services were paid in full was not researched.",
     "The 1901 surplus sale of Grand Ronde land is from the Tribe's page; the ratifying statute was not opened.",
-    "Audit 2026-11-08: removed the 1954 termination act as a breach and the status fell from broken to no-breach-found. Article 1 and Article 4 only promise a tract 'that may hereafter be set apart'; the treaty created no reservation, and the Grand Ronde Reservation came from the executive order of June 30, 1857, so under the termination rule the Act is not a breach of this treaty. The Act is kept in 'today'. A breach of the annuity or Article 3 promises, or an ICC or Court of Claims finding, would restore a breach."
+    "Audit 2026-11-08: removed the 1954 termination act as a breach and the status fell from broken to no-breach-found. Article 1 and Article 4 only promise a tract 'that may hereafter be set apart'; the treaty created no reservation, and the Grand Ronde Reservation came from the executive order of June 30, 1857, so under the termination rule the Act is not a breach of this treaty. The Act is kept in 'today'. A breach of the annuity or Article 3 promises, or an ICC or Court of Claims finding, would restore a breach.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for willamette, calapooia, kalapuya and 10 Stat. 1143; found Rogue River Tribe v. United States (Ct. Cl. 1946, 1950), in which the Confederated Bands residing in the Willamette Valley were plaintiffs: treaty-fund and 1875 work-order violations under this treaty, net award nil after offsets. Status changed to broken."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

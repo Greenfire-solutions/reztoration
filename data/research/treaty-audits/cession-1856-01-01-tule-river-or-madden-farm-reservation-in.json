@@ -1,0 +1,22 @@
+{
+  "id": "cession-1856-01-01-tule-river-or-madden-farm-reservation-in",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce p. 814 note (informal 1856 reserve, Madden title 1857-58, 1,280 acres, 160 acres, removal 1876)",
+    "NARF/Tribe 2013 presentation: quote exact, 2,240 acres, 1858 fraud statement, 1876 removal",
+    "231 Ct. Cl. 1031 (1982) concerns 1,440 acres of the later reservation",
+    "ICC full text Tule River and Madden: nothing on this tract",
+    "Senate Report No. 1522 (1885): no Madden mention"
+  ],
+  "changes": [
+    "openQuestions: audit line"
+  ],
+  "unverifiable": [
+    "The 1944 Indians of California offset judgment (102 Ct. Cl. 837, December 4, 1944) is not in the Caselaw Access Project (vol. 102 has no case at p. 837) and no free copy was found; which reservations made up the 611,226 offset acres could not be checked.",
+    "The 1858 federal investigation the Tribe cites was not found"
+  ],
+  "treatiesJsonErrors": [
+    "treaties.json: presentDayTribes is empty for this record."
+  ]
+}

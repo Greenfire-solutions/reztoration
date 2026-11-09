@@ -108,11 +108,12 @@
     "Healing v. Jones, 210 F. Supp. 125 (D. Ariz. 1962), aff'd 373 U.S. 758 (1963), and the Navajo-Hopi Land Settlement Act (Public Law 93-531) were not opened; they appear here only through the Hopi Tribe's timeline and the Commission's citation.",
     "The Commission withheld action on Hopi counts 5 to 8 (rental value for Navajo use before the taking) in 1973; how they ended beyond the 1976 settlement was not traced.",
     "Navajo Nation claims to the same area (Docket 229) were not researched for this file.",
-    "treaties.json error: presentDayTribes is empty for this record; the Hopi Tribe of Arizona should be listed. Not edited."
+    "treaties.json error: presentDayTribes is empty for this record; the Hopi Tribe of Arizona should be listed. Not edited.",
+    "Audit 2026-11-08: plain line corrected: conclusion 3 says the 1882 taking was without payment, but conclusion 4 (the 1937 taking of 1,868,364 acres) does not say so; \"without payment\" now attaches only to 1882. Interlocutory order conclusions 3 and 4, the quote, the 1973 opinion on motion, the $5,000,000 final award and the Hopi Tutuveni timeline (911,041 acres; ten executive orders and four Acts, 1878-1934) were re-read and match. Court of Claims entries 205 Ct. Cl. 828 (1974) and 207 Ct. Cl. 968 (1975) are procedural orders on the Hopi appeal and change nothing here."
   ],
   "plain": {
     "promised": "Not a treaty. An 1882 presidential order set apart a reservation for the Hopi, which the Government expected to protect them from Navajo and settler encroachment.",
-    "happened": "The Indian Claims Commission found the United States took Hopi land outside it in 1882, and 1,868,364 acres inside it in 1937, without payment. The claim was settled for $5,000,000 in 1976.",
+    "happened": "The Indian Claims Commission found the United States took Hopi land outside it in 1882 without payment, and 1,868,364 acres inside it in 1937. The claim was settled for $5,000,000 in 1976.",
     "today": "The Hopi Tribe says a 1962 ruling made most of the 1882 reservation a joint use area with the Navajo, later partitioned, leaving each tribe 911,041 acres of it."
   },
   "researchedAt": "2026-11-08",

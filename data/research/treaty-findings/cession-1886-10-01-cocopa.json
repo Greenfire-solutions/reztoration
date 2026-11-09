@@ -38,8 +38,9 @@
   "openQuestions": [
     "Whether the Cocopah filed a claim with the Indian Claims Commission was not settled; none appears in the Oklahoma State University collection. The Commission's 1978 Final Report docket list was not checked. A web search pointed only to a 1970 district court suit by the Native American Rights Fund over accretion land at the reservation, which was not opened.",
     "The 1886-10-01 date in treaties.json is a Royce heading, not a date of any taking; Royce 686 is undated. Not edited.",
-    "treaties.json lists no present-day tribes; the Cocopah Indian Tribe should be listed. Not edited.",
-    "The Cocopah Indian Tribe's history page (cocopah.com/history) returned 404; the nation voice is missing."
+    "treaties.json presentDayTribes was empty; treaty-corrections.json now lists the Cocopah Tribe of Arizona.",
+    "The Cocopah Indian Tribe's history page (cocopah.com/history) returned 404; the nation voice is missing.",
+    "Audit 2026-11-08: Royce pp. 922-923 re-read (area 686: \"No treaty of purchase was ever made with this tribe. The U. S. assumed title to their country\"). ICC full text \"Cocopah\" and \"Cocopa\" returns only the Mohave (186) and Quechan (323) findings; the Court of Claims index has no Cocopa or Cocopah case. No-breach-found stands."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

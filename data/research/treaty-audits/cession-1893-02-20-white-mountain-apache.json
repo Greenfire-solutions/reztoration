@@ -1,0 +1,20 @@
+{
+  "id": "cession-1893-02-20-white-mountain-apache",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Act of February 20, 1893, ch. 147, 27 Stat. 469-470 (govinfo): boundary from Chromo Butte; homestead entries at not less than $1.25; net receipts in trust for the tribes on the reservation; section 5 disclaims Indian title.",
+    "ICC id 932, Docket 22-D Interlocutory Order June 27, 1969: list of takings inside the enlarged reservation omits the 1893 Act.",
+    "ICC full text searches and ctcl-index 'apache' run; no finding on this Act. Under Jordan's executive-order-reservation rule and with the proceeds held in trust, no-breach-found is supported."
+  ],
+  "changes": [
+    "today: 'Congress took this tract without asking the Apache' replaced by 'The Act made no provision for the Apache's consent', which is what the text shows."
+  ],
+  "unverifiable": [
+    "Whether the tract lies within the Finding 11 boundary was not checked on a map (already in openQuestions).",
+    "The 1972 Docket 22-D settlement findings were not re-read."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes empty; should name the White Mountain Apache Tribe and the San Carlos Apache Tribe."
+  ]
+}

@@ -50,7 +50,8 @@
   "openQuestions": [
     "An executive order taking back executive-order land is not a breach by itself (Jordan, 2026-11-08). The Commission names this abolition in finding 14(b) but dates the taking to September 4, 1886, so the file keeps no-breach-found, consistent with cession-1875-12-21-southern-apache and cession-1874-11-24-apache-southern. Jordan may want to rule on whether a finding that names the abolition counts for its row.",
     "This record maps the same polygon (area 587) as cession-1875-12-21-southern-apache, which made the reservation; this one ended it. Different events, so no sameEventAs.",
-    "treaties.json error: presentDayTribes is empty for this record; the Fort Sill Apache Tribe should be listed. Not edited."
+    "treaties.json error: presentDayTribes is empty for this record; the Fort Sill Apache Tribe should be listed. Not edited.",
+    "Audit 2026-11-08: OSU 2269 reopened: findings 14(a) and 14(b) say the Ojo Caliente reservation was abolished on August 25, 1877 and the taking was September 4, 1886, as recorded. Court of Claims index for Apache lists only ICC appeals (Fort Sill Apache 1973). no-breach-found confirmed under Jordan's rule; not the same event as cession-1874-04-09-southern-apache (area 588 vs 587), so no sameEventAs."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

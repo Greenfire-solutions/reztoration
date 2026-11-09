@@ -49,22 +49,11 @@
         "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1209",
         "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
       }
-    },
-    {
-      "kind": "act-of-congress",
-      "date": "1975-01-03",
-      "what": "Congress declared about 185,000 acres held by the United States in trust for the Havasupai Tribe as an addition to the reservation, and in the same section declared extinguished all Havasupai right, title and interest in lands not otherwise held in trust or covered by the Act.",
-      "whoFoundIt": "Grand Canyon National Park Enlargement Act, Public Law 93-620, section 10(a) and (f), 88 Stat. 2089",
-      "source": {
-        "title": "Grand Canyon National Park Enlargement Act, Public Law 93-620 (January 3, 1975), 88 Stat. 2089, section 10",
-        "url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg2089.pdf",
-        "publisher": "US Government Publishing Office"
-      }
     }
   ],
   "landTaken": "The Commission found the 1882 order took the 1880 reservation of about 38,400 acres except 518.6 acres (finding 12). For the whole claim the parties determined 2,257,728 acres were appropriated without payment (additional findings, 1969).",
   "compensation": "$1,240,000 by stipulated final judgment of August 6, 1969 (Docket 91), a compromise.",
-  "today": "The Grand Canyon National Park Enlargement Act of January 3, 1975 put about 185,000 acres into trust for the Havasupai as part of the reservation and gave the tribe use of about 95,300 acres of park land for grazing and traditional purposes (section 10). Interior said that since 1882 the tribe had been confined to 519 acres at the bottom of the canyon (press release, January 17, 1975).",
+  "today": "The Grand Canyon National Park Enlargement Act of January 3, 1975 (Public Law 93-620, 88 Stat. 2089, section 10) did two things at once: it declared about 185,000 acres held in trust for the Havasupai Tribe as part of the reservation and gave the tribe use of about 95,300 acres of park land for grazing and traditional purposes, and in section 10(f) it declared extinguished all right, title and interest in any lands not otherwise held in trust for the tribe or covered by the Act. Interior said that since 1882 the tribe had been confined to 519 acres at the bottom of the canyon (press release, January 17, 1975).",
   "nationVoice": [
     {
       "nation": "Havasupai Tribe",
@@ -131,14 +120,15 @@
   ],
   "openQuestions": [
     "Date: the Commission's findings, opinion and order all print the order as March 3, 1882, while Royce and the order itself (Kappler p. 809, via the American Presidency Project) date it March 31, 1882. Both cite 1 Kappler 809 and the same 518.6-acre reserve, so they are the same order; the Commission's date looks like a dropped digit. The interlocutory order also values the land as of \"March 3, 1883\".",
-    "The 1975 Act section 10(f) is recorded as an act-of-congress breach because it extinguished remaining Havasupai title by statute; it also returned land. Jordan may prefer it under today only.",
     "treaties.json error: presentDayTribes is empty for this record; the Havasupai Tribe of the Havasupai Reservation should be listed. Not edited.",
-    "The Navajo Tribe's overlapping claim (Docket 229) trimmed the eastern part of the Havasupai area; not researched here."
+    "The Navajo Tribe's overlapping claim (Docket 229) trimmed the eastern part of the Havasupai area; not researched here.",
+    "Audit 2026-11-08: the act-of-congress breach for the 1975 Act was removed and the Act moved to today. Section 10(f) (88 Stat. 2093, read on the govinfo scan) extinguishes title to lands outside the trust and Act lands; it did not take or override the 518.6 acres this order secured, and it followed the 1969 compromise that paid the whole claim, so it is not a finding about this order. The same section 10 returned about 185,000 acres; both halves are now stated in today and plain. Status stays broken on the Docket 91 finding alone: Finding 12 (OSU 2162, quote exact) and Interlocutory Order conclusion 3 (OSU 1554) hold that the 1882 order took the 1880 reserve except 518.6 acres without compensation.",
+    "Audit 2026-11-08: reopened OSU 2162, 1554, 1209 ($1,240,000.00, stipulated), 1327 (2,257,728 acres; compromise), the American Presidency Project text of the order (revokes the order of November 23, 1880) and the BIA press release of January 17, 1975 (519 acres since 1882); all match the file."
   ],
   "plain": {
     "promised": "Not a treaty. In 1880 a presidential order set apart about 38,400 acres in Cataract Canyon for the Havasupai; this 1882 order replaced it with about 518 acres of canyon floor.",
     "happened": "The Indian Claims Commission found this order took the rest of the 1880 reservation without paying the Havasupai. Their whole claim was settled for $1,240,000 in 1969.",
-    "today": "In 1975 Congress put about 185,000 acres into trust for the tribe and allowed use of about 95,300 more acres of park land."
+    "today": "In 1975 Congress put about 185,000 acres into trust for the tribe and allowed use of about 95,300 more acres of park land. The same Act declared any other land title extinguished, so it both returned land and closed remaining claims."
   },
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

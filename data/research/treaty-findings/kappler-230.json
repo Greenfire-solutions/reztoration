@@ -1,12 +1,16 @@
 {
   "id": "kappler-230",
   "name": "Treaty with the Kansa, 1825",
-  "aka": ["Treaty of St. Louis with the Kanzas Nation, June 3, 1825"],
+  "aka": [
+    "Treaty of St. Louis with the Kanzas Nation, June 3, 1825"
+  ],
   "signed": "1825-06-03",
   "proclaimed": "1825-12-30",
   "citation": "7 Stat. 244",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-kansa-1825-0222",
-  "nations": ["Kaw Nation (Kanza)"],
+  "nations": [
+    "Kaw Nation (Kanza)"
+  ],
   "promises": [
     "Article 2: a reservation thirty miles wide along the Kansas River, including the nation's village, kept for the Kanza.",
     "Article 3: $3,500 a year for twenty years.",
@@ -14,25 +18,80 @@
     "Article 5: thirty-six sections on the Big Blue River to be sold to fund schools for Kanza children.",
     "Article 6: one-mile-square reservations for named Kanza children of mixed descent."
   ],
-  "status": "no-breach-found",
-  "breaches": [],
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1934-12-03",
+      "what": "In a suit under the jurisdictional act of March 3, 1925, the Court of Claims held that the United States failed to furnish the blacksmith due under Article 4 from September 30, 1844 to February 15, 1846, and allowed $1,000 for it.",
+      "whoFoundIt": "Kansas or Kaw Tribe of Indians v. United States, 80 Ct. Cl. 264 (1934)",
+      "source": {
+        "title": "Kansas or Kaw Tribe of Indians v. United States, 80 Ct. Cl. 264 (1934)",
+        "url": "https://static.case.law/us-ct-cl/80/cases/0264-01.json",
+        "publisher": "Caselaw Access Project (Harvard Law School Library)"
+      }
+    },
+    {
+      "kind": "court-ruling",
+      "date": "1934-12-03",
+      "what": "The same court held that the United States failed to dispose of and account to the Kaw for 7,916.75 acres of the Article 5 school lands on the Big Blue River, and allowed their value; with the blacksmith item it found $102,524.65 due. It then set off $462,045.65 in gratuities and dismissed the petition.",
+      "whoFoundIt": "Kansas or Kaw Tribe of Indians v. United States, 80 Ct. Cl. 264 (1934)",
+      "source": {
+        "title": "Kansas or Kaw Tribe of Indians v. United States, 80 Ct. Cl. 264 (1934)",
+        "url": "https://static.case.law/us-ct-cl/80/cases/0264-01.json",
+        "publisher": "Caselaw Access Project (Harvard Law School Library)"
+      },
+      "quote": "because of the failure of the Government to dispose of and account to the plaintiff for the value of 7,916.75 acres of land"
+    }
+  ],
   "landTaken": "The Kaw claimed before the Indian Claims Commission that the cession outside the reservation was 18,314,240 acres; the Commission did not accept that the Kaw held title to it (Docket 34, 1951).",
-  "compensation": "No additional award for this cession. The Indian Claims Commission dismissed the Kaw claim for more compensation (Docket 34) in 1951, holding that the Kaw had proved neither recognised title nor aboriginal ownership of the land ceded in 1825. The Commission did make awards for the later cessions of the 1825 reservation under the 1846 treaty (Dockets 33 and 35).",
-  "today": "The Kaw Nation is headquartered in Kaw City, Oklahoma. The reservation this treaty set apart was itself ceded under the 1846 treaty (kappler-560).",
+  "compensation": "Nothing was paid for the breaches. The Court of Claims in 1934 found $102,524.65 due under Articles 4 and 5 but set off $462,045.65 in gratuities, so the tribe recovered nothing. The Indian Claims Commission dismissed the Kaw claim for more compensation for the cession (Docket 34) in 1951, holding that the Kaw had proved neither recognised title nor aboriginal ownership of the land ceded in 1825. The Commission did make awards for the later cessions of the 1825 reservation under the 1846 treaty (Dockets 33 and 35).",
+  "today": "The Kaw Nation is headquartered in Kaw City, Oklahoma. The reservation this treaty set apart was itself ceded under the 1846 treaty (kappler-560). In the same 1934 case the Court of Claims refused to look at the adequacy of the price for the 1825 cession, holding that it could not alter the treaty as written; that part went against the tribe.",
   "nationVoice": [
-    { "nation": "Kaw Nation", "summary": "Says the United States kept renegotiating treaties and avoiding commitments, shrinking a homeland of about 20 million acres until the nation was forced out of Kansas to about 100,000 acres in Indian Territory.", "url": "https://kawnation.gov/history/" }
+    {
+      "nation": "Kaw Nation",
+      "summary": "Says the United States kept renegotiating treaties and avoiding commitments, shrinking a homeland of about 20 million acres until the nation was forced out of Kansas to about 100,000 acres in Indian Territory.",
+      "url": "https://kawnation.gov/history/"
+    }
   ],
   "sources": [
-    { "title": "Treaty with the Kansa, 1825 (Kappler, vol. 2, p. 222)", "url": "https://treaties.okstate.edu/treaties/treaty-with-the-kansa-1825-0222", "publisher": "Oklahoma State University Libraries, Tribal Treaties Database" },
-    { "title": "McCauley ex rel. Kaw Tribe v. United States, Dockets 33, 34 and 35, Opinion (1951), 1 Ind. Cl. Comm. 617", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/486", "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions" },
-    { "title": "McCauley ex rel. Kaw Tribe v. United States, Opinion of the Commission on offsets (1952), 2 Ind. Cl. Comm. 144", "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/309", "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions" },
-    { "title": "History", "url": "https://kawnation.gov/history/", "publisher": "Kaw Nation" }
+    {
+      "title": "Treaty with the Kansa, 1825 (Kappler, vol. 2, p. 222)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-kansa-1825-0222",
+      "publisher": "Oklahoma State University Libraries, Tribal Treaties Database"
+    },
+    {
+      "title": "McCauley ex rel. Kaw Tribe v. United States, Dockets 33, 34 and 35, Opinion (1951), 1 Ind. Cl. Comm. 617",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/486",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "McCauley ex rel. Kaw Tribe v. United States, Opinion of the Commission on offsets (1952), 2 Ind. Cl. Comm. 144",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/309",
+      "publisher": "Oklahoma State University Libraries, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History",
+      "url": "https://kawnation.gov/history/",
+      "publisher": "Kaw Nation"
+    },
+    {
+      "title": "Kansas or Kaw Tribe of Indians v. United States, 80 Ct. Cl. 264 (1934)",
+      "url": "https://static.case.law/us-ct-cl/80/cases/0264-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School Library)"
+    }
   ],
   "openQuestions": [
     "The ICC dismissal turned on proof of title, not on whether the 1825 promises were kept. No record was found on whether the Article 3 annuities, the Article 4 livestock and the Article 5 school lands were delivered.",
     "Whether the Article 6 reservations for Kanza children of mixed descent were later lost to sale or fraud was not researched; it is a lead.",
-    "The Kaw Nation's history page is general and does not name this treaty, so it is shown as the nation's voice, not as a breach."
+    "The Kaw Nation's history page is general and does not name this treaty, so it is shown as the nation's voice, not as a breach.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for Kansas, Kaw and Kanza (Court of Claims index) and 'Kansa 1825' (ICC). Found Kansas or Kaw Tribe of Indians v. United States, 80 Ct. Cl. 264 (1934), now recorded as two breaches. The opinion prints $101,751.31 for the school-land item and $1,000 for the blacksmith but gives the total as $102,524.65; the scan or the opinion has an arithmetic slip, so only the total and the $1,000 are used in this record."
   ],
   "researchedAt": "2026-11-07",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "plain": {
+    "promised": "The Kaw kept a reservation on the Kansas River and were promised $3,500 a year for twenty years, livestock and farm help, and school land on the Big Blue River to be sold for their children.",
+    "happened": "The Court of Claims found in 1934 that the government left the Kaw without the promised blacksmith from 1844 to 1846 and did not dispose of or account for 7,916.75 acres of the school land.",
+    "today": "Nothing was paid. The court found $102,524.65 due but set it against larger gratuities and dismissed the case; the Claims Commission later dismissed the Kaw claim for more pay for the 1825 cession."
+  }
 }

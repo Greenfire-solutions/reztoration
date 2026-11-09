@@ -17,7 +17,7 @@
   ],
   "status": "no-breach-found",
   "breaches": [],
-  "today": "The Hoopa-Yurok Settlement Act of 1988 made the square the Hoopa Valley Reservation of the Hoopa Valley Tribe and the 1891 addition the Yurok Reservation. In Karuk Tribe v. Ammon (2000) the Federal Circuit held, for the United States and the Hoopa Valley Tribe, that the 1864 Act and the executive orders created no vested property rights for the plaintiffs, so no taking claim lay.",
+  "today": "The Hoopa-Yurok Settlement Act of 1988 made the square the Hoopa Valley Reservation of the Hoopa Valley Tribe and the 1891 addition the Yurok Reservation. In Karuk Tribe v. Ammon (2000) the Federal Circuit held, for the United States and the Hoopa Valley Tribe, that the 1864 Act and the executive orders created no vested property rights for the plaintiffs, so no taking claim lay. In Hoopa Valley Tribe v. United States (1979) the Court of Claims dismissed the Tribe's suit to be paid all the timber revenue of the square, which the court in Short v. United States (1973) had held must be shared with the other Indians of the reservation, and rejected its breach-of-trust claim; this went against the Tribe.",
   "nationVoice": [],
   "sources": [
     {
@@ -34,13 +34,19 @@
       "title": "Karuk Tribe of California v. Ammon, Nos. 99-5002, 99-5003, 99-5006 (Fed. Cir. April 18, 2000)",
       "url": "https://caselaw.findlaw.com/us-federal-circuit/1082285.html",
       "publisher": "FindLaw"
+    },
+    {
+      "title": "Hoopa Valley Tribe v. United States, 219 Ct. Cl. 492, 596 F.2d 435 (1979)",
+      "url": "https://static.case.law/us-ct-cl/219/cases/0492-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
     }
   ],
   "openQuestions": [
     "Karuk v. Ammon notes a related treaty of August 12, 1864 with the Hupa that was never presented to Congress for ratification; it is not in the queue and may deserve an extra- entry.",
     "The Hoopa Valley Tribe's own account of 1864 was not located in this pass (its website did not appear in searches).",
     "California Indian claims in Indian Claims Commission dockets 31 and 37 were compromised; their bearing on Hupa lands was not traced.",
-    "The text of the Act of April 8, 1864 was downloaded from govinfo but its Hoopa wording was taken from Royce and Karuk v. Ammon."
+    "The text of the Act of April 8, 1864 was downloaded from govinfo but its Hoopa wording was taken from Royce and Karuk v. Ammon.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for: Court of Claims names \"hoopa\", \"hupa\"; ICC full text \"Hoopa Valley\", \"Hupa\". Found Hoopa Valley Tribe v. United States, 219 Ct. Cl. 492 (1979), a ruling against the Tribe on the timber of the 1864 square; added to today. No breach finding."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

@@ -12,7 +12,7 @@
   ],
   "promises": [
     "Not a treaty: a presidential order. It set apart a large addition to the Pima and Maricopa reserve, running from the Salt River at the corner of the June 14, 1879 addition east and south to the reserve of August 31, 1876, then west to the Gila and Salt River meridian (Royce p. 914, area 651).",
-    "The Indian Claims Commission found this was the greatest single addition, enlarging the reservation to almost its present 372,000 acres (Docket 228, additional finding 26)."
+    "The Indian Claims Commission found this was the greatest single addition, enlarging the reservation to almost its present size (Docket 228, additional finding 26); its opinion puts that size at 372,000 acres."
   ],
   "status": "broken",
   "breaches": [
@@ -94,9 +94,10 @@
   ],
   "openQuestions": [
     "The land the Commission found taken lies OUTSIDE this order's addition (Royce area 651, which the order reserved). The order is the act the Commission dated the taking by, so the finding is about this order, but the map polygon shows the land kept, not the land lost. This is the same pattern as the Hualapai (1883) and Hopi (1882) orders.",
-    "This is the only queue record that carries the Docket 228 taking; cession-1879-06-14-maricopa-pima mentions it only under today.",
+    "This is the primary record for the Docket 228 taking. cession-1879-06-14-maricopa-pima mentions it only under today; cession-1886-10-01-maricopa-papago-pima (Royce 687) carried it as a second breach until the audit of 2026-11-08 moved it to today there, so it is counted once, here.",
     "The final judgment amount in Docket 228 (the case moved to the Court of Claims in 1978) was not found in a source opened. The 1972 order denying rehearing (OSU id 1143) is listed but was not read in full.",
-    "treaties.json error: presentDayTribes is empty for this record; the Gila River Indian Community and the Salt River Pima-Maricopa Indian Community should be listed. Not edited."
+    "treaties.json error: presentDayTribes is empty for this record; the Gila River Indian Community and the Salt River Pima-Maricopa Indian Community should be listed. Not edited.",
+    "Audit 2026-11-08: the 372,000-acre figure was attributed to additional finding 26, which says only \"almost its present size\"; the figure is in the opinion (27 Ind. Cl. Comm. 11). Corrected. Interlocutory order of January 20, 1972, its quote, findings 26 to 28 and the opinion were re-read and match. The final Docket 228 amount was not found: the Court of Claims entries for the Community (135 to 231 Ct. Cl.) are water and irrigation dockets (236 series), not Docket 228."
   ],
   "plain": {
     "promised": "Not a treaty. A presidential order in 1883 enlarged the Gila River Reservation for the Pima and Maricopa to almost its present 372,000 acres.",

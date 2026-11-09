@@ -1,0 +1,21 @@
+{
+  "id": "cession-1882-12-16-moki-and-others",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce p. 908 order (110-111 W., 35 30-36 30 N.) and p. 909 area 640 match.",
+    "Docket 196 Interlocutory Order (2498, June 29, 1970): conclusions 3 and 4 match; quote exact.",
+    "Opinion on Motion (1361, July 9, 1973): June 2, 1937 grazing regulations and district 6; Government expected the order to protect the Hopi and be a permanent home. Final Award (2778): $5,000,000; compromise findings (2688).",
+    "Hopi Tutuveni Feb. 3, 2015 timeline read: 1878-1934 ten executive orders and four Acts; 1962 JUA, Hopi lost 911,041 acres; 1974 PL 93-531; 1979 partition line, 911,041 acres each. Matches.",
+    "Court of Claims: 205 Ct. Cl. 828 (1974) and 207 Ct. Cl. 968 (1975) are procedural orders on the Hopi appeal of Docket 196; no reversal."
+  ],
+  "changes": [
+    "plain.happened: \"without payment\" now attaches only to the 1882 taking; conclusion 4 (1937, 1,868,364 acres) does not say without payment."
+  ],
+  "unverifiable": [
+    "Healing v. Jones and Public Law 93-531 (not opened; reported through the Hopi timeline, as the file says)."
+  ],
+  "treatiesJsonErrors": [
+    "cession-1882-12-16-moki-and-others: presentDayTribes is empty; the Hopi Tribe of Arizona should be listed."
+  ]
+}

@@ -23,8 +23,8 @@
   "status": "no-breach-found",
   "breaches": [],
   "landTaken": "Royce areas 453 to 457: the Gull Lake, Mille Lac, Sandy Lake, Rabbit Lake, Pokagomin Lake and Rice Lake reservations of 1855, less small grants to named persons. The Mille Lac tract was a little more than 61,000 acres of four fractional townships and three islands (229 U.S. 498, 499).",
-  "compensation": "The treaty paid by extended annuities and the services listed. The Court of Claims had given the Mille Lac claimants a judgment of $827,580.72, which the Supreme Court reversed in 1913 and remanded for reassessment; the final amount was not found in a source opened.",
-  "today": "In United States v. Mille Lac Band of Chippewa Indians, 229 U.S. 498 (June 9, 1913), the Supreme Court held that Mille Lac lands not covered by settler entries made before the Act of January 14, 1889 were disposed of 'not for the benefit of the Indians, but in disregard of their rights', in violation of the trust that 1889 Act created, and remanded for damages to be reassessed. The Court treated the Article 12 dispute as settled by that Act, and said it was not questioned that this treaty's annuities were paid and Articles IV and VI complied with. The Mille Lacs Band reports that on March 4, 2022 a federal district judge held its 1855 reservation boundaries had never been diminished or disestablished, and that on February 12, 2025 the Eighth Circuit dismissed the county's appeal as moot and directed that the ruling be vacated, leaving the boundary question open for a future case.",
+  "compensation": "The treaty paid by extended annuities and the services listed. The Court of Claims had given the Mille Lac claimants a judgment of $827,580.72, which the Supreme Court reversed in 1913 and remanded for reassessment; the final amount was not found in a source opened. The Commission recorded in 1964 that recovery on remand was had for 31,692.64 acres; the remaining 29,335.50 acres had been validly entered before the 1889 Act (Docket 18-N opinion).",
+  "today": "In United States v. Mille Lac Band of Chippewa Indians, 229 U.S. 498 (June 9, 1913), the Supreme Court held that Mille Lac lands not covered by settler entries made before the Act of January 14, 1889 were disposed of 'not for the benefit of the Indians, but in disregard of their rights', in violation of the trust that 1889 Act created, and remanded for damages to be reassessed. The Court treated the Article 12 dispute as settled by that Act, and said it was not questioned that this treaty's annuities were paid and Articles IV and VI complied with. The Mille Lacs Band reports that on March 4, 2022 a federal district judge held its 1855 reservation boundaries had never been diminished or disestablished, and that on February 12, 2025 the Eighth Circuit dismissed the county's appeal as moot and directed that the ruling be vacated, leaving the boundary question open for a future case. Before the Indian Claims Commission the Minnesota Chippewa Tribe brought a claim under this treaty (Docket 18-N, Cause I); on November 20, 1964 the Commission held the Mississippi Bands had received a reservation over six times the size of the four reserves ceded plus other consideration, and found they had failed to establish any right to recover. That ruling went against the bands. The same opinion records that on the 1913 remand the Mille Lac Band recovered for 31,692.64 of the 61,028.14 acres at issue.",
   "plain": {
     "promised": "A new home around Leech Lake for their 1855 reservations, ten more years of annuities, cleared land, houses, tools and workers, and the Mille Lac Band's right to stay so long as they did not molest whites.",
     "happened": "No breach of this treaty itself has been documented yet. In 1913 the Supreme Court found Mille Lac lands were disposed of in disregard of the Indians' rights, but it held that broke the trust of an 1889 Act, not this treaty.",
@@ -62,6 +62,11 @@
       "title": "US District Court ruling: lawsuit spanning 8 years comes to a draw (March 2025)",
       "url": "https://www.inaajimowin.com/news-blog/us-district-court-ruling-lawsuit-spanning-8-years-comes-to-a-draw",
       "publisher": "Inaajimowin, Mille Lacs Band of Ojibwe"
+    },
+    {
+      "title": "Minnesota Chippewa Tribe et al. v. United States, Dockets 18-B and 18-N, Opinion of the Commission (November 20, 1964), 14 Ind. Cl. Comm. 294",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/728",
+      "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
     }
   ],
   "openQuestions": [
@@ -69,7 +74,8 @@
     "The 2022 district court opinion and the 2025 Eighth Circuit opinion were not opened; 'today' is attributed to the Band's newspaper.",
     "The amount finally recovered after the 1913 remand was not found.",
     "Whether the Indian Claims Commission or Court of Claims ruled on Articles 4 to 6 (clearing, houses, tools, staff) was not checked; the Supreme Court said in 1913 that it was not questioned that the annuities were paid and Articles 4 and 6 complied with.",
-    "presentDayTribes in treaties.json lists Mille Lacs, Leech Lake and White Earth bands; the Pillager and Lake Winnibigoshish bands were parties only to the general provisions, and the Article 2 reservation was largely replaced by the White Earth Reservation under the treaty of March 19, 1867."
+    "presentDayTribes in treaties.json lists Mille Lacs, Leech Lake and White Earth bands; the Pillager and Lake Winnibigoshish bands were parties only to the general provisions, and the Article 2 reservation was largely replaced by the White Earth Reservation under the treaty of March 19, 1867.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for chippewa, Mille Lac, May 7 1864 and 13 Stat. 693; found Docket 18-N (1964), which disallowed the claim under this treaty, a ruling against the bands added to today. Mille Lac Band v. United States, 46 Ct. Cl. 424 and 47 Ct. Cl. 415, are the opinions the Supreme Court reversed in 1913. Status unchanged."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

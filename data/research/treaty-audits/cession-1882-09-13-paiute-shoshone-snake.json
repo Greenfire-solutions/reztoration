@@ -1,0 +1,24 @@
+{
+  "id": "cession-1882-09-13-paiute-shoshone-snake",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce p. 908 order text (south of fourth standard parallel except 320 acres of Camp Harney; north of it and west of the range 33/34 E. line) and p. 909 remark (\"included the S. half of Camp Harney military reservation\"; area 638) match.",
+    "Docket 17 amended findings (OSU ICC collection 358, Dec. 28, 1956): findings 36, 37, 41 re-read; quote exact.",
+    "Second Interlocutory Order (32, Apr. 15, 1959): $579,722.00 less offsets. Opinion (387): net 1,449,305.77 acres after stipulated deductions.",
+    "BIA press release Aug. 6, 1963 (bia.gov/node/49766 PDF): $567,000 judgment; $468,395.50; $519,827.49 by June 5, 1963; quote exact.",
+    "Burns Paiute \"About BPT\" page loads; summary matches (refused to cede, 1.8 million acres, 300 miles in snow to Fort Simcoe and Fort Vancouver).",
+    "sameEventAs cession-1872-09-12-paiute-shoshone-snake kept: Royce area 638 is inside Docket 17 finding 3 (Royce 638 and 646).",
+    "Camp Harney question decided: Royce p. 903 says the 640-acre reserve was \"already within the general outboundaries of the Malheur reservation\"; finding 3 (1876 bounds) has no Camp Harney exception; finding 37 names the 1889 restoration of the 320 acres and the absence of compensation. Docket 17 covers it."
+  ],
+  "changes": [
+    "Royce source for the Malheur note moved from p. 910 to p. 911 (the note is on p. 911).",
+    "openQuestions: audit line and the Camp Harney decision added."
+  ],
+  "unverifiable": [
+    "Whether the 640 Camp Harney acres were inside the stipulated 1,449,305.77 net acres valued: the stipulation lists no military-reserve deduction but does not say."
+  ],
+  "treatiesJsonErrors": [
+    "cession-1882-09-13-paiute-shoshone-snake: presentDayTribes is empty; the Burns Paiute Tribe should be listed. It also links a statute file (638c.pdf) for what Royce lists as an executive order."
+  ]
+}

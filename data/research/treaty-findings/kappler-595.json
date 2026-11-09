@@ -36,7 +36,8 @@
   "openQuestions": [
     "This treaty took no land: it paid for land promised in 1842 and never assigned. treaties.json maps it to Royce area 263, the Delaware land the Wyandot bought, which the United States did not take here.",
     "The 1850 admission belongs on the findings file for the Wyandot treaty of March 17, 1842.",
-    "Whether the $100,000 investment and its interest were kept as promised was not traced; the 1855 Wyandot treaty would be the place to look. The Wyandotte Nation's own history page did not load (HTTP 406)."
+    "Whether the $100,000 investment and its interest were kept as promised was not traced; the 1855 Wyandot treaty would be the place to look. The Wyandotte Nation's own history page did not load (HTTP 406).",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for wyandot, April 1 1850 and 9 Stat. 987; no ICC decision or Court of Claims case concerns this treaty (the Wyandot Court of Claims entries concern Dockets 120, 139 and 141). Nothing new."
   ],
   "plain": {
     "promised": "The United States would pay the Wyandot $185,000 for the 148,000 acres it had promised them in 1842 and never given, $100,000 of it invested for them at five percent.",

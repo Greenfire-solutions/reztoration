@@ -1,0 +1,20 @@
+{
+  "id": "cession-1874-04-09-muckleshoot-reservation",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce p. 873 sections and remark that this constitutes the present Muckleshoot reservation match",
+    "ICC Docket 98 findings (OSU 444) opened: mention the order only as the date the reservation was set apart",
+    "ctcl-index Muckleshoot: two 1966 ICC appeals only; icc.mjs full 'Muckleshoot 1874' shows no finding about this order"
+  ],
+  "changes": [
+    "Updated the Docket 98 openQuestion to say OSU 444 was opened"
+  ],
+  "unverifiable": [
+    "No Muckleshoot account located",
+    "treaties.json error: presentDayTribes is empty for this record (not edited)."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes is empty for this record"
+  ]
+}

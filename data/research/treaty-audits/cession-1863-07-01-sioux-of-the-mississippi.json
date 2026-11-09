@@ -1,0 +1,19 @@
+{
+  "id": "cession-1863-07-01-sioux-of-the-mississippi",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "57 Ct. Cl. 357 (June 5, 1922): finding XIII, Crow Creek arrival May 1863, July 1, 1863 order, Niobrara removal 1866, $386,597.89",
+    "Royce p. 828: order of July 1, 1863, later inside the 1868 Great Sioux reserve",
+    "ICC full text Crow Creek: Docket 363 is an accounting claim, no Crow Creek finding"
+  ],
+  "changes": [
+    "openQuestions: audit line"
+  ],
+  "unverifiable": [
+    "Crow Creek death figures not taken from any finding"
+  ],
+  "treatiesJsonErrors": [
+    "treaties.json: presentDayTribes is empty for this record."
+  ]
+}

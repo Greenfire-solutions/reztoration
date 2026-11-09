@@ -20,7 +20,7 @@
   "breaches": [],
   "landTaken": "The tract within the boundaries in section 1 of the Act; Royce shows it in yellow surrounded by scarlet lines. No acreage was found in the sources read.",
   "compensation": "The Act directed that sale receipts, less survey costs, be held in trust for the tribes on the reservation. What was actually received and spent was not traced.",
-  "today": "Congress took this tract without asking the Apache, and its section 5 denied their title. Later, in Docket 22-D, the Indian Claims Commission held that the Western Apache held aboriginal title to their country, including the lands inside the reservation, and named the specific executive orders of 1873 to 1902 by which reservation land was taken without compensation; this 1893 Act is not among them, and no finding about it was located. The Docket 22-D claim was settled in 1972 (see cession-1886-10-01-apache-western-bands).",
+  "today": "The Act made no provision for the Apache's consent, and its section 5 denied their title. Later, in Docket 22-D, the Indian Claims Commission held that the Western Apache held aboriginal title to their country, including the lands inside the reservation, and named the specific executive orders of 1873 to 1902 by which reservation land was taken without compensation; this 1893 Act is not among them, and no finding about it was located. The Docket 22-D claim was settled in 1972 (see cession-1886-10-01-apache-western-bands).",
   "nationVoice": [],
   "sources": [
     {
@@ -53,7 +53,8 @@
     "Lead for a deeper pass: why the Commission's list of takings inside the reservation (August 5, 1873 to December 22, 1902) omits this 1893 Act. Possibly the trust proceeds were treated as payment, or the tract fell outside the claim; the Docket 22-H accounting decisions and the 1972 settlement findings (OSU id 1616) did not mention it in a search for '1893'. If a finding is found that this was a taking without adequate payment, the record becomes broken.",
     "Whether the tract lies inside the Commission's Finding 11 boundary was not checked on a map.",
     "treaties.json lists no present-day tribes; the White Mountain Apache Tribe and the San Carlos Apache Tribe should be listed. Not edited. Which division of the reservation the tract was in (Fort Apache or San Carlos) was not settled.",
-    "No White Mountain Apache Tribe or San Carlos Apache Tribe account of this Act was found in this pass."
+    "No White Mountain Apache Tribe or San Carlos Apache Tribe account of this Act was found in this pass.",
+    "Audit 2026-11-08: 27 Stat. 469-470 opened: boundary, $1.25 minimum, section 4 trust of net receipts, section 5 title disclaimer all match. The Act names an executive order of November 9, 1871; the Commission's order says November 7, 1871. The Docket 22-D interlocutory order (OSU id 932, 21 Ind. Cl. Comm. 189, order at p. 221-222) lists May 1, 1873 and the orders of August 5, 1873, July 21, 1874, April 27, 1876, January 26, 1877, March 31, 1877 and December 22, 1902, and not this Act. ICC full text for 'chromo butte', 'mcmillen apache', '27 stat 469' finds nothing on it; the San Carlos Apache Court of Claims entries (226 Ct. Cl. 725, 228 Ct. Cl. 925) are a $10,000,000 judgment and a fee order without mention of 1893. No-breach-found confirmed. 'today' reworded: the Act's text shows no consent clause, not that the Apache were never asked."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

@@ -16,7 +16,7 @@
   ],
   "status": "no-breach-found",
   "breaches": [],
-  "today": "The 1868 reservation to which this tract was added was itself ceded under the agreement of March 6, 1880, ratified by the Act of June 15, 1880 (see cession-1880-03-06-uta and kappler-998). No court, Indian Claims Commission or congressional finding about the 1875 addition or its 1882 restoration was found; an executive order withdrawing an executive-order addition is recorded here without being counted as a breach.",
+  "today": "The 1868 reservation to which this tract was added was itself ceded under the agreement of March 6, 1880, ratified by the Act of June 15, 1880 (see cession-1880-03-06-uta and kappler-998). The Utes sued for the value of this strip, about three miles wide and 108 miles long. On March 4, 1946 the Court of Claims dismissed the petition, holding that the 1875 order gave the Utes no title and that the 1880 Act did not bind the United States to sell these lands for their account; it noted the August 4, 1882 restoring order (106 Ct. Cl. 33). The Supreme Court affirmed on February 17, 1947, holding that the 1875 order made the Utes no more than tenants at will on the land outside the true 1868 boundary (330 U.S. 169). Both rulings went against the nation; no court, Indian Claims Commission or congressional finding against the United States about this strip was found.",
   "nationVoice": [],
   "sources": [
     {
@@ -28,18 +28,29 @@
       "title": "Confederated Bands of Ute Indians v. United States, Docket 327, Findings of Fact, Part 1 (September 14, 1962)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/841",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Confederated Bands of Ute Indians v. United States, 106 Ct. Cl. 33 (March 4, 1946)",
+      "url": "https://static.case.law/us-ct-cl/106/cases/0033-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Confederated Bands of Ute Indians v. United States, 330 U.S. 169 (February 17, 1947)",
+      "url": "https://static.case.law/us/330/cases/0169-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
     }
   ],
   "openQuestions": [
     "The executive orders of November 22, 1875 and August 4, 1882 were not opened in their own text (Kappler vol. 1); their content is taken from Royce. The executive-order link in treaties.json (ops.libs.uga.edu, 586r.pdf) did not load.",
     "Searches of the Confederated Ute (Docket 327) and Southern Ute (Docket 328) Commission decisions found no discussion of the 1875 addition or its 1882 restoration.",
-    "Which Ute bands used this strip north of the White River country in 1875 to 1882 was not researched. No Ute tribal account specific to the addition was found."
+    "Which Ute bands used this strip north of the White River country in 1875 to 1882 was not researched. No Ute tribal account specific to the addition was found.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for Ute, Confederated Bands of Ute, Ute November 22 1875, Ute August 4 1882. Found the case on this strip: the Court of Claims dismissed the Utes' claim to the 1875 addition (106 Ct. Cl. 33, March 4, 1946) and the Supreme Court affirmed (330 U.S. 169, February 17, 1947). It is a ruling against the nation, added to today, not a breach."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher",
   "plain": {
     "promised": "Nothing by treaty. An 1875 executive order added a strip north of the 1868 Ute Reservation, between 107° west and the Utah line.",
-    "happened": "An executive order of August 4, 1882 returned the strip to the public domain. No court or claims finding about it has been located, and an executive order alone is not counted as a breach.",
-    "today": "Nothing was found to have been paid or returned for this strip."
+    "happened": "An executive order of August 4, 1882 returned the strip to the public domain. The Court of Claims (1946) and the Supreme Court (1947) ruled the Utes held no compensable interest in it. No finding against the United States has been located.",
+    "today": "The Utes sued for the strip and lost in 1946 and 1947. Nothing was found to have been paid or returned."
   }
 }

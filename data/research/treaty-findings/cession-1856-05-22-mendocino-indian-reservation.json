@@ -15,7 +15,7 @@
   "status": "no-breach-found",
   "breaches": [],
   "compensation": "None to the Indians was found. The 1868 Act directed that the land be surveyed and sold at not less than $1.25 an acre, that buyers pay for United States improvements, and that persons who had made improvements on the reservation keep them with first right to buy 640 acres.",
-  "today": "Royce gives the reserve's actual abandonment for Indian purposes as March 31, 1866. Congress restored the reservation to the public lands by section 6 of the Act of July 27, 1868 (15 Stat. 223), with no provision for the Indians who had lived on it. That Act is the separate entry cession-1868-07-27-mendocino-indian-reservation.",
+  "today": "Royce gives the reserve's actual abandonment for Indian purposes as March 31, 1866. Congress restored the reservation to the public lands by section 6 of the Act of July 27, 1868 (ch. 248, sec. 6, 15 Stat. 198, 223), with no provision for the Indians who had lived on it. That Act is the separate entry cession-1868-07-27-mendocino-indian-reservation.",
   "nationVoice": [],
   "sources": [
     {
@@ -24,17 +24,19 @@
       "publisher": "Smithsonian Institution, via Internet Archive"
     },
     {
-      "title": "Act of July 27, 1868, ch. 248, sec. 6, 15 Stat. 221, 223 (Mendocino Indian reservation restored to the public lands)",
+      "title": "Act of July 27, 1868, ch. 248, sec. 6, 15 Stat. 198, 223 (Mendocino Indian reservation restored to the public lands)",
       "url": "https://www.govinfo.gov/content/pkg/STATUTE-15/pdf/STATUTE-15-Pg223.pdf",
       "publisher": "US Government Publishing Office, govinfo"
     }
   ],
   "openQuestions": [
     "This record is the reserve's establishment; the 1868 restoration is a separate queue entry (cession-1868-07-27-mendocino-indian-reservation, same Royce area 522). Under Jordan's rule the end of a reservation set apart by executive order is not by itself a breach, and the 1868 Act is treated the same way here, as for the Round Valley Act of 1873, until a court, claims-commission or government finding about it is found.",
-    "Searched for findings: ICC full text for Mendocino with 1856 and Noyo (no hits), the 1885 Dawes report on California reservations (mentions Mendocino County only), and the Court of Claims Indians of California opinion of 1942 (98 Ct. Cl. 583, no mention). The Court of Claims offset decision of 1944 and the ICC California dockets 31 and 37 were not read for this tract.",
+    "Searched for findings: ICC full text for Mendocino with 1856 and Noyo (no hits), the 1885 Dawes report on California reservations (mentions Mendocino County only), and the Court of Claims Indians of California opinion of 1942 (98 Ct. Cl. 583, no mention). See the audit line below on the 1944 offset judgment.",
     "Royce's note gives the Commissioner's recommendation as August 16, 1856 and the order as May 22, 1856; one of the two dates is likely misprinted in the scan.",
     "No Pomo tribal account of the Mendocino reservation was found; secondary accounts of removals to Round Valley turned up in search but were not opened.",
-    "treaties.json lists no present-day tribes; which Pomo nations descend from the reservation's people (Sherwood Valley, Coyote Valley, Pinoleville and others, and Round Valley) was not settled."
+    "treaties.json lists no present-day tribes; which Pomo nations descend from the reservation's people (Sherwood Valley, Coyote Valley, Pinoleville and others, and Round Valley) was not settled.",
+    "Audit 2026-11-08: citation corrected from 15 Stat. 221, 223 to 15 Stat. 198, 223: chapter 248 (the Indian appropriation act of July 27, 1868) begins at p. 198 (govinfo); sec. 6 at p. 223 was read and matches the compensation line.",
+    "Audit 2026-11-08: the 1944 Court of Claims offset judgment (Indians of California, 102 Ct. Cl. 837, December 4, 1944) is not in the Caselaw Access Project and no free copy was found, so whether Mendocino land was among the 611,226 acres of reservation land charged as an offset could not be checked. The 1964 ICC compromise findings (13 Ind. Cl. Comm. 369) mention the offset only in total; the 1935, 1942 and 1943 Court of Claims opinions do not mention Mendocino. Senate Report No. 1522 (1885, Dawes) was searched: it names the Mendocino reservation only as the reserve to which Nome Cult was auxiliary in 1856, with no finding about its end. Royce p. 851 checked: Henley recommendation of Nov. 17, 1855 and order of May 22, 1856 confirmed. No change to status."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

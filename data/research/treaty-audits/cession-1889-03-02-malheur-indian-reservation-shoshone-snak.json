@@ -1,0 +1,22 @@
+{
+  "id": "cession-1889-03-02-malheur-indian-reservation-shoshone-snak",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "ICC id 358, Docket 17 Amended Findings of Fact, Dec 28, 1956 (4 Ind. Cl. Comm. 571): Finding 37 says the 1883 order restored the rest except a 320-acre tract and the EO of March 2, 1889 restored that tract; none of the Malheur lands sold for the Indians; never compensated. Findings 40-41 date the taking of the Finding 3 tract to January 1879.",
+    "Royce p. 930 (djvu): March 2, 1889 restores fractional secs. 7, 8, 17, 18, 19, T. 22 S., R. 32 1/2 E., 317.65 acres, N. half of old Camp Harney; Royce note p. 911: Camp Harney excepted 1872, added July 23, 1880; the 1883 order excepts 'a tract of 320 acres, being the N. half of the late military post reserve of Camp Harney'.",
+    "cession-1872-09-12-paiute-shoshone-snake exists, is broken on Docket 17, and has no sameEventAs of its own."
+  ],
+  "changes": [
+    "status no-breach-found -> broken on a claims-commission breach (Finding 37), per the coordinator's instruction and the finding's text.",
+    "sameEventAs set to cession-1872-09-12-paiute-shoshone-snake.",
+    "Docket 17 amended findings added to sources; landTaken records both 317.65 (Royce) and 320 acres (Finding 37); today rewritten; plain added (PROTOCOLS 15).",
+    "openQuestions: removed the sameEventAs suggestion now acted on; added the valuation-coverage question and the audit line."
+  ],
+  "unverifiable": [
+    "Whether the 1959 Docket 17 valuation included the Camp Harney tract (claim area bounded as of 1876) was not settled."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes empty; should name the Burns Paiute Tribe."
+  ]
+}

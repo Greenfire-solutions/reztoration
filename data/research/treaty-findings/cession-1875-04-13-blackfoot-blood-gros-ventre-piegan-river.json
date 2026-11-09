@@ -17,9 +17,22 @@
     "This was an addition, not a cession: the President added to the reservation of the Gros Ventre, Piegan, Blood, Blackfoot and River Crow a tract south of the Missouri River. Royce records that the country had belonged partly to the Crow, who ceded their rights on May 7, 1868, and partly to the Assiniboine.",
     "Royce records that the Assiniboine had ceded their claim by an 1866 treaty that was never ratified, and that the government admitted its effect so far as the land was concerned by assigning them a future home on the Blackfoot reservation."
   ],
-  "status": "no-breach-found",
-  "breaches": [],
-  "today": "Royce records that a portion of the addition was given back to the public domain by Executive Order of July 13, 1880 (see cession-1880-07-13-blackfoot-blood-gros-ventre-piegan-river) and that the remainder was still part of the reserve when he wrote.",
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1933-04-10",
+      "what": "The Court of Claims found that about 5,865,990 acres of the land in this order lay inside the Assiniboine's lands under the 1851 Treaty of Fort Laramie, which the order set apart for other tribes, and that through this order, the Fort Buford military reservation, the 1880 restoring order and later surveys the United States took over all of the Assiniboine's Fort Laramie treaty land. It valued that land at no more than $3,238,970 and dismissed the claim only because the government's set-offs were larger.",
+      "whoFoundIt": "Court of Claims, Assiniboine Indian Tribe v. United States, 77 Ct. Cl. 347 (decided April 10, 1933)",
+      "source": {
+        "title": "Assiniboine Indian Tribe v. United States, 77 Ct. Cl. 347 (1933)",
+        "url": "https://static.case.law/us-ct-cl/77/cases/0347-01.json",
+        "publisher": "Caselaw Access Project (Harvard Law School Library)"
+      },
+      "quote": "There is no question but what the lands granted the plaintiff tribe by the Treaty of Fort Laramie were taken over by the Government"
+    }
+  ],
+  "today": "The Assiniboine claim for the Fort Laramie treaty land was dismissed in 1933 because of the offsets. A second claim before the Indian Claims Commission was dismissed on December 12, 1952 as already decided, and the Court of Claims affirmed in 1954 (128 Ct. Cl. 617) while restating that the treaty right was invaded when the United States took the land. In 1935 the Court of Claims also ruled against the River Crow, holding that naming them in the 1873 to 1875 reservations carried no title beyond a right to reside, which ended when they left (81 Ct. Cl. 238). Royce records that a portion of the addition was given back to the public domain by Executive Order of July 13, 1880 (see cession-1880-07-13-blackfoot-blood-gros-ventre-piegan-river) and that the remainder was still part of the reserve when he wrote.",
   "nationVoice": [
     {
       "nation": "Blackfeet Nation (Amskapi Piikani)",
@@ -37,6 +50,31 @@
       "title": "Blackfeet Nation, Our History (Wayback capture of March 8, 2010)",
       "url": "http://web.archive.org/web/20100308002858/http://www.blackfeetnation.com/about-the-blackfeet/our-history.html?showall=1",
       "publisher": "Blackfeet Nation"
+    },
+    {
+      "title": "Assiniboine Indian Tribe v. United States, 77 Ct. Cl. 347 (1933)",
+      "url": "https://static.case.law/us-ct-cl/77/cases/0347-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School Library)"
+    },
+    {
+      "title": "Assiniboine Indian Tribe v. United States, 128 Ct. Cl. 617 (1954)",
+      "url": "https://static.case.law/us-ct-cl/128/cases/0617-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School Library)"
+    },
+    {
+      "title": "United States v. Assiniboine Tribes of Indians, 192 Ct. Cl. 679 (1970)",
+      "url": "https://static.case.law/us-ct-cl/192/cases/0679-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School Library)"
+    },
+    {
+      "title": "Assiniboine Indian Tribe v. United States, Opinion of the Commission (December 12, 1952)",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/521",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Crow Nation v. United States, 81 Ct. Cl. 238 (1935)",
+      "url": "https://static.case.law/us-ct-cl/81/cases/0238-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School Library)"
     }
   ],
   "openQuestions": [
@@ -44,8 +82,17 @@
     "The Court of Claims in 1935 credited against the tribes' 1874 loss 'certain other lands' it found had been added to their reservation (as recounted by the ICC in 1952). Whether those were this 1875 addition was not confirmed, because the 1935 opinion (81 Ct. Cl. 101) was not opened.",
     "Royce notes that '42nd degree' in the order's description should read '47th'. The order itself was read only in Royce's summary.",
     "treaties.json gives this entry and cession-1880-07-13-blackfoot-blood-gros-ventre-piegan-river the same Royce areas (622, 623). Royce's remarks suggest one area is the part restored in 1880 and the other the part kept; the split was not confirmed.",
-    "No Fort Belknap (Aaniiih and Nakoda) or Fort Peck Assiniboine account of this addition was found."
+    "No Fort Belknap (Aaniiih and Nakoda) or Fort Peck Assiniboine account of this addition was found.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for \"Blackfeet\", \"Gros Ventre\", \"Assiniboine\", \"Piegan\", \"Crow\" (opened 77 Ct. Cl. 347, 128 Ct. Cl. 617, 162 Ct. Cl. 136, 192 Ct. Cl. 679, 81 Ct. Cl. 101, 81 Ct. Cl. 238) and ICC \"Sioux 1875 executive order addition\" (opened OSU 521, 894, 1941, 2749). Found: Assiniboine Indian Tribe v. United States, 77 Ct. Cl. 347 (1933), which holds the Assiniboine's 1851 Fort Laramie treaty land was taken, chiefly by this order; status raised from no-breach-found to broken. The claim was dismissed for offsets, so the ruling is recorded with that outcome in today and compensation; Jordan may wish to confirm that a taking found but offset to nothing counts as a breach.",
+    "The taking is a breach of the 1851 Treaty of Fort Laramie (kappler-602), whose file counts the Fort Berthold taking but not the Assiniboine one; it is counted here as the primary record because the court names this order as the main instrument. Royce says the Assiniboine ceded their claim by an unratified 1866 treaty; the Court of Claims nonetheless treated the land as theirs and taken.",
+    "The court gives 5,865,990 acres of this order inside the Assiniboine lands; the ICC (1967) gives the whole addition as approximately 5,865,900 acres. The court's figure is quoted as printed."
   ],
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "compensation": "None. The Court of Claims found the Assiniboine's Fort Laramie treaty land was worth no more than $3,238,970 when taken and set off against it larger sums the government had spent for the tribe, so the claim was dismissed (77 Ct. Cl. 347). In 1970 the Court of Claims said the Assiniboine received no compensation for the taking because of the offsets (192 Ct. Cl. 679).",
+  "plain": {
+    "promised": "This order added land south of the Missouri River to the reservation of the Gros Ventre, Blackfeet and River Crow. Much of that land had been set out for the Assiniboine by the 1851 Treaty of Fort Laramie.",
+    "happened": "In 1933 the Court of Claims found the United States took the Assiniboine's treaty land through this order, a military reservation, an 1880 order and later surveys.",
+    "today": "The court valued the land at no more than $3,238,970 but dismissed the claim because the government's spending for the tribe was larger. A second claim was dismissed in 1952 and 1954. Nothing was paid."
+  }
 }

@@ -1,0 +1,24 @@
+{
+  "id": "cession-1882-12-12-papago-and-others",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Executive order text (American Presidency Project, citing Kappler p. 804): T. 5 S., R. 5 W., except sec. 18; matches. Royce p. 908/909 area 639 matches.",
+    "Hart testimony Oct. 4, 2011 (naturalresources.house.gov PDF) re-read in full: it is about THIS reservation (\"The San Lucy District ... was created by Executive Order in 1882 and originally encompassed 22,400 acres\"); quote exact (18 words).",
+    "Is it an admission of a wrong? Literally: BIA and the Corps assured the Nation flooding would not impair agriculture; \"Nevertheless\" the dam continuously flooded nearly 9,880 acres, \"rendering them unusable for economic development purposes\", including a 750-acre farm; the 1986 Act was enacted \"to redress the flooding\" and \"intended to remedy damage ... caused by flooding from the construction of the Painted Rock Dam\". It admits federal assurances, federal causation and a remedy; it never says wrong, unlawful, breach or taking, or that the 1882 order was violated. Status left as filed for Jordan's open decision.",
+    "Public Law 99-503 (100 Stat. 1798) read: sections 4, 6 and 9 match compensation; the Act's findings do not mention flooding, as the file says.",
+    "Docket 345 findings (2539) and opinion (2544), Sept. 10, 1968: finding 4 and the opinion's Gila Bend sentence checked."
+  ],
+  "changes": [
+    "Breach \"what\" tightened to the testimony's words (continuous flooding; unusable for economic development purposes; farm that provided tribal revenues).",
+    "today: it was the Papago Tribe (finding 4), not the Commission, that excluded the Gila Bend Reservation (as reduced in 1909) from its Docket 345 surface claim; the Commission's finding was no evidence of exclusive Papago use of the river area at Gila Bend.",
+    "landTaken: Docket 345 citation made specific (finding 4).",
+    "openQuestions: literal wording of the testimony recorded for Jordan."
+  ],
+  "unverifiable": [
+    "The June 17, 1909 order and the acreage it removed (not opened, as the file says). The Tohono O'odham Nation history page has no Gila Bend or San Lucy account."
+  ],
+  "treatiesJsonErrors": [
+    "cession-1882-12-12-papago-and-others: presentDayTribes is empty; the Tohono O'odham Nation of Arizona should be listed."
+  ]
+}

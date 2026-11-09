@@ -21,7 +21,7 @@
   "breaches": [],
   "landTaken": "The Indian Claims Commission records the plaintiffs' claim that an executive order of October 1886 took 3,753.63 acres of the reservation and opened it to the public domain (Docket 237, 1956 opinion).",
   "compensation": "None. In 1956 the Indian Claims Commission held that no recovery could be had on the claim for the 3,753.63 acres, because the agent had reported the reservation lands allotted to the Indians living on them and, by 1889, patented to them.",
-  "today": "The Confederated Tribes of the Chehalis Reservation live on the reservation near Oakville set apart in 1864. Their separate claim for the taking of their aboriginal lands without a treaty is recorded under Royce cession 458 (cession-1864-07-08-chehalis-chinook-klatsop-klikitat).",
+  "today": "The Confederated Tribes of the Chehalis Reservation live on the reservation near Oakville set apart in 1864. Their separate claim for the taking of their aboriginal lands without a treaty is recorded under Royce cession 458 (cession-1864-07-08-chehalis-chinook-klatsop-klikitat). The Commission dismissed the claim for the 3,753.63 acres opened by the 1886 order; its 1960 opinion in Docket 237 records that the Court of Claims, in reversing the dismissal of the aboriginal title claim, made no mention of the reservation claim, so that dismissal is final. This went against the Tribe.",
   "nationVoice": [
     {
       "nation": "Confederated Tribes of the Chehalis Reservation",
@@ -44,13 +44,24 @@
       "title": "People of the Sands",
       "url": "https://www.chehalistribe.org/our-story/people-of-the-sands/",
       "publisher": "Confederated Tribes of the Chehalis Reservation"
+    },
+    {
+      "title": "Upper Chehalis Tribe, et al. v. United States, Docket 237, Opinion of the Commission, March 14, 1960",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/260",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Upper Chehalis Tribe v. United States, 140 Ct. Cl. 192 (1957)",
+      "url": "https://static.case.law/us-ct-cl/140/cases/0192-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School"
     }
   ],
   "openQuestions": [
     "treaties.json: this entry is the Chehalis Reservation itself (Royce 459), not a cession agreement; the taking of the surrounding territory is Royce 458, which has its own file.",
     "The date of the 1886 order differs: Royce reads October 1, 1886; the 1956 Commission opinion reads October 11, 1886. The order itself was not opened.",
-    "The Royce 458 file records that the 1956 dismissal of Docket 237 was later reversed on the aboriginal title claim; whether any later ruling reached the 1886 claim was not confirmed in a source opened here.",
-    "treaties.json lists Chinook and Klatsop and the Quinault and Shoalwater Bay tribes for this entry; the 1864 reserve was for the Chehalis. No Chinook, Quinault or Shoalwater Bay account was opened."
+    "The Royce 458 file records that the 1956 dismissal of Docket 237 was later reversed on the aboriginal title claim; whether any later ruling reached the 1886 claim was not confirmed in a source opened here. Settled in the 2026-11-08 sweep: see today.",
+    "treaties.json lists Chinook and Klatsop and the Quinault and Shoalwater Bay tribes for this entry; the 1864 reserve was for the Chehalis. No Chinook, Quinault or Shoalwater Bay account was opened.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for: Court of Claims names \"chehalis\" (Upper Chehalis Tribe v. United States, 140 Ct. Cl. 192 (1957), which addresses only the aboriginal title claim); ICC full text \"Chehalis 1886\". Resolved: the Commission's 1960 opinion in Docket 237 states that the Court of Claims did not mention the 1886 claim, so the dismissal of that claim is final. today updated. No breach finding."
   ],
   "plain": {
     "promised": "No treaty. In 1864 the Secretary of the Interior set aside 4,224.63 acres near Oakville as a reservation for the Chehalis.",

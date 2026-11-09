@@ -51,7 +51,8 @@
   ],
   "openQuestions": [
     "treaties.json links Royce Area 260 to this entry; it was granted by this treaty but ceded by the 1842 treaty. The statute link in treaties.json points to the 10th Congress, which matches the 1809 Act the treaty cites rather than the treaty itself. Not edited.",
-    "No Wyandotte Nation account of this treaty was found in this pass."
+    "No Wyandotte Nation account of this treaty was found in this pass.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for Wyandot (Court of Claims index; the 1979 Zane orders concern Dockets 139, 141 and 120) and 'Wyandot 1818 Brownstown Maguagua' (ICC); nothing new beyond Dockets 212 and 213, already recorded."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

@@ -1,0 +1,22 @@
+{
+  "id": "cession-1883-11-15-maricopa-pima",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce p. 914 (Nov. 15, 1883 addition) and p. 915 area 651.",
+    "Docket 228 Interlocutory Order (1468, Jan. 20, 1972): conclusions 1 and 2; quote exact. Additional findings 26-28 (1832). Opinion (1900). Order denying rehearing (1143) exists, June 7, 1972.",
+    "Public Law 108-22 section 201 and findings re-read.",
+    "Court of Claims index \"Gila River\" (nine entries) and \"Pima\": all 236-series water and irrigation dockets; no Docket 228 judgment.",
+    "Primary for the Docket 228 taking confirmed; the duplicate breach on cession-1886-10-01-maricopa-papago-pima removed there."
+  ],
+  "changes": [
+    "promises[1]: the 372,000-acre figure is in the opinion, not additional finding 26 (which says \"almost its present size\").",
+    "openQuestions: the \"only queue record\" line rewritten to name this as the primary and record the removal from the Royce 687 file."
+  ],
+  "unverifiable": [
+    "Final Docket 228 amount (case went to the Court of Claims in 1978; not found)."
+  ],
+  "treatiesJsonErrors": [
+    "cession-1883-11-15-maricopa-pima: presentDayTribes is empty; the Gila River Indian Community and the Salt River Pima-Maricopa Indian Community should be listed."
+  ]
+}

@@ -32,7 +32,7 @@
       }
     }
   ],
-  "compensation": "The consideration in Article 3. No Indian Claims Commission award for this cession was found: the Minnesota Chippewa Tribe dockets opened (18-C, 18-S, 18-T, 18-U and 144) concern the treaties of 1837, 1842, 1847 and 1854; Docket 18-T refers to Article 5 of this treaty only as it changed an annuity under the 1847 treaty.",
+  "compensation": "The consideration in Article 3. No Indian Claims Commission award for this cession was found: the Minnesota Chippewa Tribe dockets opened (18-C, 18-S, 18-T, 18-U and 144) concern the treaties of 1837, 1842, 1847 and 1854; Docket 18-T refers to Article 5 of this treaty only as it changed an annuity under the 1847 treaty. In Docket 18-N, Cause II, the Indian Claims Commission found on November 20, 1964 that the Mississippi Bands received consideration of $1,083,387.86 for land (Royce area 507) with a fair market value of $1,297,340.00, about 83 percent, held that this was not a very gross disparity, and denied recovery. That ruling went against the bands.",
   "today": "Congress settled outstanding allotment title claims on the White Earth Reservation by the White Earth Reservation Land Settlement Act (Public Law 99-264, March 24, 1986, 100 Stat. 61), finding that 'past United States laws and policies have contributed to the uncertainty surrounding the claims'. The Act defines the allotments it covers as those granted under the Act of January 14, 1889 (25 Stat. 642) and the Act of February 8, 1887, and in section 5(d) ratifies and confirms the reallotment under the 1889 Act of any allotment first made under this treaty. The finding is not recorded as a breach of this treaty.",
   "nationVoice": [
     {
@@ -61,6 +61,11 @@
       "title": "A Brief History of the White Earth Nation (Andréa Szabo, June 30, 2026)",
       "url": "https://www.whiteearth.com/media/pages/divisions/natural-resources/lccmr-pineland-sands-study/4d0f586097-1783712421/report-a-white-earth-nation-history.pdf",
       "publisher": "White Earth Nation"
+    },
+    {
+      "title": "Minnesota Chippewa Tribe et al. v. United States, Dockets 18-B and 18-N, Opinion of the Commission (November 20, 1964), 14 Ind. Cl. Comm. 294",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/728",
+      "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
     }
   ],
   "openQuestions": [
@@ -68,7 +73,8 @@
     "Whether the Article 3 schools, mills, physician and agricultural aid were provided for the ten years promised was not checked.",
     "White Earth Nation, Leech Lake and Mille Lacs accounts of the 1867 treaty were not located; the Minnesota Indian Affairs Council page found is a state agency page, not the nation's own.",
     "Royce cessions 507, 508 and 509 were taken from treaties.json and not checked against the schedule.",
-    "Audit 2026-11-08: 'today' corrected. It said the White Earth allotments were made under the 1889 Act, not this treaty; section 5(d) of the 1986 Act (100 Stat. 61) in fact ratifies the reallotment under the 1889 Act of allotments first made under the Treaty of March 19, 1867. Decision for Jordan: whether that ratification, or the reallotment it confirms, overrode Article 7 rights of the original treaty allottees. No source opened says so, so no breach is recorded and the status stays no-breach-found."
+    "Audit 2026-11-08: 'today' corrected. It said the White Earth allotments were made under the 1889 Act, not this treaty; section 5(d) of the 1986 Act (100 Stat. 61) in fact ratifies the reallotment under the 1889 Act of allotments first made under the Treaty of March 19, 1867. Decision for Jordan: whether that ratification, or the reallotment it confirms, overrode Article 7 rights of the original treaty allottees. No source opened says so, so no breach is recorded and the status stays no-breach-found.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for chippewa, March 19 1867 and 16 Stat. 719; found Docket 18-N, Cause II (1964), which held the consideration for this cession was not unconscionable, a ruling against the bands added to compensation. Docket 188 (1974) on swamp lands inside the 1863, 1864 and 1867 reservations was a pleading order only. Status unchanged."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

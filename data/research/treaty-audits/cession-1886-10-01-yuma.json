@@ -1,0 +1,20 @@
+{
+  "id": "cession-1886-10-01-yuma",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "ICC id 363, Interlocutory Order Sept 30, 1959: title to Finding 21 land; California title extinguished March 3, 1853; Arizona January 9, 1884; proceed to value and payments.",
+    "ICC id 701, Final Judgment Aug 5, 1965 (15 Ind. Cl. Comm. 489): $520,000.00 on stipulation, offsets reserved to Docket 320; kind litigation right.",
+    "ICC id 763, Additional Findings: stipulation $167,000 for 667,544 acres in California and $353,000 for 881,644 acres in Arizona; Finding 28 net areas; 1884 reservation 48,356 acres not in Docket 319.",
+    "Royce p. 922-923 (archive.org djvu text): the row sits under the 1886 'Oct. 1, Act of Congress, Stat. L. XI, 374' heading carried down from the Pueblo rows; remark text read and matches the file. Yuma remark: concentrated on Colorado River and Yuma reservations.",
+    "sameEventAs cession-1884-01-09-yuma exists; kept."
+  ],
+  "changes": [
+    "landTaken added: 881,644 acres in Arizona per Finding 28, which the researcher had withheld over a suspected misread; the finding prints it clearly.",
+    "openQuestions: replaced the acreage doubt and the stale presentDayTribes note with the audit line."
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "date 1886-10-01 is Royce's carried-down heading."
+  ]
+}

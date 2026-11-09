@@ -1,0 +1,20 @@
+{
+  "id": "cession-1888-05-24-uintah-uta",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Act of May 24, 1888, ch. 310, 25 Stat. 157 (govinfo, p. 157): boundary from mile-post 19 of Du Bois' survey; sale for cash, quarter-section limit, $1.25 minimum for non-mineral land; prior mineral entries completed at $20 an acre; proceeds to the Indians.",
+    "Uintah & White River Bands v. United States, 139 Ct. Cl. 1 (1957): consent required and obtained; receipts $22,417.93; further $10,000 under Act of May 27, 1902.",
+    "ICC id 86 (Docket 45 opinion): 1888 Act needed the Indians' ratification; compensation paid in every instance.",
+    "Court of Claims Ute and Uintah cases (ctcl-index) and ICC full text searched; no finding against this Act."
+  ],
+  "changes": [
+    "promises: the $20 an acre rate now correctly limited to mineral entries made before the Act (it read as if all mineral land sold at $20)."
+  ],
+  "unverifiable": [
+    "25 Stat. 158 (rest of section 2 onward) not opened; consent proviso taken from the Court of Claims findings, as the file says."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes empty; Royce page for this entry is p. 926, not 924 (already noted in file)."
+  ]
+}

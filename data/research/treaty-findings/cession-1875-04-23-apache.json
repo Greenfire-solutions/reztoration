@@ -61,7 +61,8 @@
   "openQuestions": [
     "Area 582 is also mapped on cession-1871-11-09-apache, whose breaches already carry the Docket 22-J finding about the April 23, 1875 restoration; it is counted once there, so sameEventAs points at that record.",
     "The $685,800 settlement figure was taken from cession-1871-11-09-apache, where it was opened and audited; it was not reopened in this pass. The ICT Exodus Day article was reopened on 2026-11-08.",
-    "treaties.json lists no presentDayTribes for this record. Not edited."
+    "treaties.json lists no presentDayTribes for this record. Not edited.",
+    "Audit 2026-11-08: reopened Docket 22-J opinion (OSU 1516): the holding on restoring Camp Verde to the public domain and the quote are exact. Royce p. 880 text matches. Area 582 is in cession-1871-11-09-apache's cessions, so sameEventAs is kept."
   ],
   "plain": {
     "promised": "Not a treaty: a presidential order. It cancelled the Camp Verde reserve and returned it to the public domain.",

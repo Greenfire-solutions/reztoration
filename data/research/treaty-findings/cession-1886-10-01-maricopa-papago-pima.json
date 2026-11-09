@@ -29,17 +29,6 @@
       }
     },
     {
-      "kind": "claims-commission",
-      "date": "1972-01-20",
-      "what": "The Commission held that the Pima and Maricopa, a single land-using entity, exclusively used and occupied the tract in its Finding 23, and later fixed November 15, 1883, the date of the executive order enlarging the Gila River Reservation, as the date of taking for land not entered by settlers before then, and each settler's entry date for land entered earlier.",
-      "whoFoundIt": "Indian Claims Commission, Gila River Pima-Maricopa Indian Community v. United States, Docket 228, Interlocutory Orders of December 17, 1970 (24 Ind. Cl. Comm. 301) and January 20, 1972 (27 Ind. Cl. Comm. 11)",
-      "source": {
-        "title": "Gila River Pima-Maricopa Indian Community v. United States, Docket 228, Interlocutory Order on date of taking (January 20, 1972), 27 Ind. Cl. Comm. 11",
-        "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1468",
-        "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
-      }
-    },
-    {
       "kind": "litigation",
       "date": "1976-07-21",
       "what": "The Papago land claim (Docket 345) and accounting claim (Docket 102) were consolidated and ended in a final award of $26,000,000 on a stipulation for final judgment. A settlement is not a further finding.",
@@ -51,9 +40,9 @@
       }
     }
   ],
-  "landTaken": "Papago: the land in the Commission's Finding 25, less the San Xavier and Sells reservations and five confirmed Spanish and Mexican grants, taken as of January 14, 1916 for valuation. Pima and Maricopa: the tract in Finding 23 of Docket 228, taken November 15, 1883 or at earlier settler entry.",
+  "landTaken": "Papago: the land in the Commission's Finding 25, less the San Xavier and Sells reservations and five confirmed Spanish and Mexican grants, taken as of January 14, 1916 for valuation. Pima and Maricopa: the tract in Finding 23 of Docket 228, taken November 15, 1883 or at earlier settler entry; that taking is recorded under cession-1883-11-15-maricopa-pima.",
   "compensation": "Papago: $26,000,000 for Dockets 102 and 345 together, by final award on a stipulation, July 21, 1976. Pima-Maricopa (Docket 228): no award was found in the Commission decisions searched.",
-  "today": "The Papago award was a compromise covering both the land and an accounting claim. The final outcome of the Pima-Maricopa land claim in Docket 228 was not traced; the Commission's last decision found is an order of June 7, 1972 denying rehearing on the date of taking.",
+  "today": "The Papago award was a compromise covering both the land and an accounting claim. The Pima and Maricopa part of this Royce area is the Docket 228 taking: the Commission held the Pima and Maricopa exclusively used the Finding 23 tract (December 17, 1970, 24 Ind. Cl. Comm. 301) and fixed November 15, 1883 as the date of taking for land not entered by settlers before then (January 20, 1972, 27 Ind. Cl. Comm. 11). That taking is counted once, on cession-1883-11-15-maricopa-pima. Its final outcome was not traced; the last Commission decision found is an order of June 7, 1972 denying rehearing on the date of taking.",
   "nationVoice": [
     {
       "nation": "Tohono O'odham Nation",
@@ -120,14 +109,15 @@
   ],
   "openQuestions": [
     "The date 1886-10-01 in treaties.json is not a date of these takings. Royce 687 is undated and is printed under 'Cessions of 1886' after the Pueblo grants headed 'Oct. 1, Act of Congress'. Not edited.",
-    "treaties.json lists no present-day tribes; the Tohono O'odham Nation, the Gila River Indian Community and the Salt River Pima-Maricopa Indian Community should be listed. The statute link (687c,pdf, with a comma) is malformed and was not opened. Not edited.",
+    "treaties.json presentDayTribes was empty; treaty-corrections.json now lists the Tohono O'odham Nation, the Gila River Indian Community and the Salt River Pima-Maricopa Indian Community. The statute link (687c,pdf, with a comma) is malformed and was not opened. Not edited.",
     "Docket 228's later history (valuation, settlement, or transfer to the Court of Claims in 1978) was not found in the Commission collection; no amount is recorded for it.",
     "Related records cession-1874-07-01-papago, cession-1882-12-12-papago-and-others and cession-1879-06-14-maricopa-pima concern reservations; the 1879 file records the Docket 228 date of taking as context only.",
-    "The Gila River Indian Community's and Salt River Pima-Maricopa Indian Community's own accounts were not looked up in this pass."
+    "The Gila River Indian Community's and Salt River Pima-Maricopa Indian Community's own accounts were not looked up in this pass.",
+    "Audit 2026-11-08: the Docket 228 breach (Pima-Maricopa taking of November 15, 1883) was removed from breaches and moved to today: it is already the primary breach of cession-1883-11-15-maricopa-pima, and counting it here too counted one taking twice. This record stays the primary for the Papago Docket 345 taking, which no other file carries as a breach (cession-1874-07-01-papago is no-breach-found), so it takes no sameEventAs. Docket 345 additional findings 26 and 27 (January 14, 1916; Spanish and Mexican grants; mineral tracts), the $26,000,000 final award on stipulation and Royce pp. 922-923 re-read and match."
   ],
   "plain": {
     "promised": "Nothing. No treaty of purchase was made. The United States took possession of their country and moved them onto the Papago, Gila River, Gila Bend and Salt River reservations.",
-    "happened": "The Indian Claims Commission found Papago land taken as of January 14, 1916, and Pima and Maricopa land taken on November 15, 1883 or when settlers entered it earlier.",
+    "happened": "The Indian Claims Commission found Papago land taken as of January 14, 1916. The Pima and Maricopa land, taken on November 15, 1883 or when settlers entered it, is shown on the 1883 Gila River entry.",
     "today": "The Papago claims were settled in 1976 for $26,000,000. The outcome of the Pima and Maricopa claim was not traced."
   },
   "researchedAt": "2026-11-08",

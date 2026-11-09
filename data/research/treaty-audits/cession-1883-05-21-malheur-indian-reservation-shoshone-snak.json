@@ -1,0 +1,22 @@
+{
+  "id": "cession-1883-05-21-malheur-indian-reservation-shoshone-snak",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce p. 912 (President retains the N. half of Camp Harney, 320 acres; area 647), p. 913 note (S. half went in 1882; 320 acres left), p. 911 note (Camp Harney excepted in 1872, added July 23, 1880) and p. 903 (640 acres, \"already within the general outboundaries of the Malheur reservation\").",
+    "Docket 17 finding 37: \"by Executive Order of March 2, 1889 the 320 acre tract was also restored to the public domain\"; none of the reservation lands sold for the bands; never compensated. Findings 3, 40, 41 re-read.",
+    "Camp Harney decided: Docket 17 covers the 320 acres (inside the finding 3 bounds; finding 37 names them). sameEventAs cession-1872-09-12-paiute-shoshone-snake kept.",
+    "1963 Interior release re-read: it names the 1882 and 1883 orders, not 1889."
+  ],
+  "changes": [
+    "promises[1] page references corrected (pp. 903, 909, 911 and 913, not 910 and 913); Royce p. 903 source added; the p. 910 source re-pointed to p. 911 where the note is.",
+    "Old open question on whether Camp Harney lay inside the 1876 boundaries replaced by the decision.",
+    "openQuestions notes the Interior release does not name the 1889 order."
+  ],
+  "unverifiable": [
+    "Whether the 640 acres were counted in the stipulated 1,449,305.77 net acres valued."
+  ],
+  "treatiesJsonErrors": [
+    "cession-1883-05-21-malheur-indian-reservation-shoshone-snak: presentDayTribes is empty; the Burns Paiute Tribe should be listed."
+  ]
+}

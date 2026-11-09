@@ -1,13 +1,18 @@
 {
   "id": "kappler-98",
   "name": "Convention with the Cherokee, 1806 (Treaty of Washington)",
-  "aka": ["Cherokee convention of January 7, 1806", "Elucidation of September 11, 1807 (7 Stat. 103)"],
+  "aka": [
+    "Cherokee convention of January 7, 1806",
+    "Elucidation of September 11, 1807 (7 Stat. 103)"
+  ],
   "signed": "1806-01-07",
   "ratified": "1807-05-22",
   "proclaimed": "1807-05-23",
   "citation": "7 Stat. 101",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1806-0090",
-  "nations": ["Cherokee Nation"],
+  "nations": [
+    "Cherokee Nation"
+  ],
   "promises": [
     "Article 1: two tracts north of the Tennessee kept out of the cession, one at the Muscle Shoals between Cypress creek and Elk river as the common property of the Cherokee living there, the other at Spring creek for Moses Melton and Charles Hicks.",
     "Article 2: $2,000 on ratification and $2,000 in each of the next four years ($10,000 in all), a grist mill within one year, a machine for cleaning cotton, and $100 a year for life to the chief Black Fox.",
@@ -59,7 +64,8 @@
     "Whether the United States settled the Chickasaw claims to the reserved tracts (Article 4) before the Cherokee ceded them in 1817 was not researched.",
     "Which of the Eastern Band's Dockets 282-A to 282-L covered this convention was not established.",
     "treaties.json lists the Eastern Band of Cherokee Indians twice under slightly different names for this entry (also on kappler-148).",
-    "Historians describe private grants to the chiefs Doublehead and Tahlonteeskee connected with this convention; no formal finding on them was opened."
+    "Historians describe private grants to the chiefs Doublehead and Tahlonteeskee connected with this convention; no formal finding on them was opened.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for cherokee, January 7 1806, Chickasaw Old Fields and 7 Stat. 101; no ICC decision names it, and the Cherokee Court of Claims opinions opened do not concern it. Nothing new."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

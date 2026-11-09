@@ -27,10 +27,11 @@
     }
   ],
   "openQuestions": [
-    "The Muckleshoot claim before the Indian Claims Commission (Docket 98, decisions of 1953 and 1955) concerns aboriginal land ceded under the 1855 Point Elliott treaty, not this order; it was listed but not read.",
+    "The Muckleshoot claim before the Indian Claims Commission (Docket 98, decisions of 1953 and 1955) concerns aboriginal land ceded under the 1855 Point Elliott treaty, not this order. Audit 2026-11-08: the 1953 findings (OSU 444) were opened; they mention this order only in a quoted exhibit saying the reservation was set apart January 20, 1857 and April 9, 1874.",
     "Allotment and later loss of land inside the reservation were not researched.",
     "No Muckleshoot account of this order was looked up in this pass.",
-    "treaties.json also has cession-1857-01-20-muckleshoot-reservation for the 1857 order (same area 564), which has no findings file yet. treaties.json lists no presentDayTribes for this record. Not edited."
+    "treaties.json also has cession-1857-01-20-muckleshoot-reservation for the 1857 order (same area 564), which has no findings file yet. treaties.json lists no presentDayTribes for this record. Not edited.",
+    "Audit 2026-11-08: Royce p. 873 text (sections 2 and 12 of T. 20 N., R. 5 E. and 20, 28, 34 of T. 21 N., R. 5 E.) matches. Court of Claims index for Muckleshoot lists only two 1966 ICC appeals; ICC full text for Muckleshoot 1874 shows no finding about this order. no-breach-found confirmed."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

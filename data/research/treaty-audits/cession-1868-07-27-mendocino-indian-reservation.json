@@ -1,0 +1,23 @@
+{
+  "id": "cession-1868-07-27-mendocino-indian-reservation",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Act text, ch. 248, sec. 6, p. 223 (govinfo)",
+    "Royce p. 850-851 entry and note (Klamath words conflated, as the file says)",
+    "Senate Report No. 1522 (1885) searched for Mendocino",
+    "Indians of California Court of Claims opinions 1935, 1942, 1943 searched",
+    "ICC 13 Ind. Cl. Comm. 369: 1964 compromise $29,100,000, offset reservation land 611,226 acres in total"
+  ],
+  "changes": [
+    "citation made exact: ch. 248, sec. 6, 15 Stat. 198, 223",
+    "sources: statute added",
+    "openQuestions: removed stale line saying the 1856 record had no findings file; audit lines added"
+  ],
+  "unverifiable": [
+    "The 1944 Indians of California offset judgment (102 Ct. Cl. 837, December 4, 1944) is not in the Caselaw Access Project (vol. 102 has no case at p. 837) and no free copy was found; which reservations made up the 611,226 offset acres could not be checked."
+  ],
+  "treatiesJsonErrors": [
+    "treaties.json: presentDayTribes is empty for this record."
+  ]
+}

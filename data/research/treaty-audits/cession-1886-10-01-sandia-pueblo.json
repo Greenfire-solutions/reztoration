@@ -1,0 +1,23 @@
+{
+  "id": "cession-1886-10-01-sandia-pueblo",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "M-37002 (doi.gov PDF, 31 pp., read as page images): signed by Solicitor John D. Leshy, concurred by the Secretary of the Interior, both January 19, 2001; p. 3 Clements 1859 survey ran along a foothill ridge, 1864 patent adopted it, about 10,000 acres in Cibola National Forest; p. 30 conclusion, quote exact.",
+    "Decision on the flagged question: M-37002 counts as a government admission under PROTOCOLS 9 (see openQuestions for reasons and limits). Status broken kept.",
+    "Interior M-opinion index 1993 to May 2026 (doi.gov): M-37002 listed, no withdrawal or suspension noted.",
+    "Act of May 31, 1933, 48 Stat. 108-111 (govinfo): Sandia figures $12,980.62 and $5,354.46 match; recorded only as compensation, per the Pueblo 1933-Act rule.",
+    "Senate Report 107-321 (govinfo): 1998 district court vacated the Tarr opinion as arbitrary and capricious; settlement area figures 9,980 and 9,890 acres.",
+    "Royce p. 922 row (area 676): Spanish grant 1748; confirmed Dec 22, 1858; patented 1864; 24,187.29 acres; Stat. L. XI, 374."
+  ],
+  "changes": [
+    "openQuestions: coordinator note no longer invites a downgrade; the audit decision with its reasons and limits added; date note re-worded; figure checks recorded."
+  ],
+  "unverifiable": [
+    "The 1998 district court opinion itself (not online free) was not opened; it is described from the Solicitor and the Senate report.",
+    "16 U.S.C. 539m text on law.cornell.edu not re-opened in this pass."
+  ],
+  "treatiesJsonErrors": [
+    "date 1886-10-01 is Royce's column heading, not an event of this grant."
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "cession-1860-05-14-gila-apache",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce p. 822: Commissioner approved agent \"Steele\"'s selection, 15 miles square from Santa Lucia spring",
+    "Docket 30-A/48-A findings (id 2269): 6(f) Steck recommendation (1858) approved but not carried out; 11 taking without consent or compensation; 13 taking Sept. 4, 1886"
+  ],
+  "changes": [
+    "openQuestions: audit line"
+  ],
+  "unverifiable": [],
+  "treatiesJsonErrors": [
+    "treaties.json: presentDayTribes is empty for this record.",
+    "executiveOrder link 424r is given, but Royce records a Commissioner's approval, not an executive order"
+  ]
+}

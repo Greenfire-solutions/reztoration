@@ -1,0 +1,23 @@
+{
+  "id": "cession-1883-01-04-walapai",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Royce p. 910 order (Tinnakah spring, Music mountains, Peach and Pine springs) and p. 911 remark (Willcox order July 8, 1881; Commissioner recommendation Sept. 5, 1882) match.",
+    "Docket 90 finding 18 (909, Nov. 19, 1962): extinguished January 4, 1883 when the tribe accepted the reservation, without payment; quote exact.",
+    "Second Interlocutory Order (1550, Dec. 21, 1966): 4,459,500 acres; $2,800,000.00; acquired without payment.",
+    "Findings of Fact (1466, 17 Ind. Cl. Comm. 456), finding 20: \"Excluding petitioner's reservation, the tract ... consists of 4,459,500 acres.\"",
+    "Final Judgment (1217, June 18, 1968): compromise of all claims in Dockets 90 and 122, $2,950,000. Correctly kind litigation.",
+    "United States v. Santa Fe Pacific R. Co., 314 U.S. 339 (1941): kept in today, not as a breach."
+  ],
+  "changes": [
+    "Breach 2, landTaken and plain: 4,459,500 acres is the land outside the reservation (finding 20), not the whole aboriginal holding; plain no longer says \"the rest of the 4,459,500-acre homeland\".",
+    "Finding 20 (OSU 1466) added as a source."
+  ],
+  "unverifiable": [
+    "Docket 122 not researched (as the file says). Hualapai nation account not located."
+  ],
+  "treatiesJsonErrors": [
+    "cession-1883-01-04-walapai: presentDayTribes is empty; the Hualapai Indian Tribe of the Hualapai Indian Reservation should be listed."
+  ]
+}

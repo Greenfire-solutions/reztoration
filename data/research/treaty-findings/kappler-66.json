@@ -18,7 +18,7 @@
   ],
   "status": "no-breach-found",
   "breaches": [],
-  "today": "In Docket 292 the Creek Nation claimed $87,309.75 that the United States had allegedly not disbursed under Article 2. The Indian Claims Commission dismissed the claim in 1959, holding that the burden of proving the failure lay on the nation. This was a ruling against the nation.",
+  "today": "In Docket 292 the Creek Nation claimed $87,309.75 that the United States had allegedly not disbursed under Article 2. The Indian Claims Commission dismissed the claim in 1959, holding that the burden of proving the failure lay on the nation. This was a ruling against the nation. The Court of Claims affirmed the Docket 292 dismissal per curiam on March 1, 1961 (152 Ct. Cl. 747), over a dissent that would have put the burden of accounting on the United States, and the Supreme Court affirmed by an equally divided Court (370 U.S. 157), as the Court of Claims report records.",
   "sources": [
     {
       "title": "Treaty with the Creeks, 1802",
@@ -39,11 +39,17 @@
       "title": "Creek Indian Land Cessions",
       "url": "https://www.nps.gov/ocmu/learn/historyculture/upload/Accessible-Creek-Land-Cessions.pdf",
       "publisher": "National Park Service, Ocmulgee Mounds National Historical Park"
+    },
+    {
+      "title": "Creek Nation v. United States, Appeal No. 3-59, 152 Ct. Cl. 747 (Court of Claims, March 1, 1961), affirming Docket 292",
+      "url": "https://static.case.law/us-ct-cl/152/cases/0747-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School)"
     }
   ],
   "openQuestions": [
     "No Commission claim for additional payment for the land ceded in 1802 (Royce area 44) was found.",
-    "The Muscogee (Creek) Nation's own account of the 1802 treaty was not located."
+    "The Muscogee (Creek) Nation's own account of the 1802 treaty was not located.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for creek, 1802, Fort Wilkinson and 7 Stat. 68; found only the appeal of Docket 292 (152 Ct. Cl. 747, 1961), which affirmed the dismissal, a ruling against the nation added to today. Status unchanged."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

@@ -1,0 +1,20 @@
+{
+  "id": "cession-1874-04-09-southern-apache",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Royce p. 874 boundary text of the Hot Springs reserve matches",
+    "ICC Dockets 30-A/48-A findings (OSU 2269) reopened: Ojo Caliente abolished August 25, 1877, taking dated September 4, 1886",
+    "no-breach-found is correct under Jordan's 2026-11-08 executive-order rule",
+    "sameEventAs cession-1875-12-21-southern-apache kept: same area 588"
+  ],
+  "changes": [
+    "Audit line added to openQuestions"
+  ],
+  "unverifiable": [
+    "treaties.json error: presentDayTribes is empty for this record (not edited)."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes is empty for this record"
+  ]
+}

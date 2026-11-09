@@ -1,0 +1,25 @@
+{
+  "id": "cession-1882-03-31-havasupai",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Docket 91 Finding 12 (OSU 2162): the 1882 order took the 38,400 acres except 518.6; quote exact",
+    "Interlocutory order (OSU 1554) conclusion 3",
+    "Final judgment (OSU 1209) $1,240,000.00 on stipulation; additional findings (OSU 1327) 2,257,728 acres and compromise",
+    "Order text on the American Presidency Project (Kappler p. 809) revokes the November 23, 1880 order",
+    "Public Law 93-620 section 10(a), (e), (f) read on the govinfo scan (88 Stat. 2091-2093)",
+    "BIA press release of January 17, 1975: 519 acres since 1882",
+    "Docket 91 finding alone supports broken"
+  ],
+  "changes": [
+    "Removed the act-of-congress breach for the 1975 Act: section 10(f) extinguished title to lands outside the trust and Act lands after the 1969 compromise; it did not take what this order secured, so it is not a finding about this order",
+    "today and plain.today now state the Act's double nature: about 185,000 acres returned in trust plus 95,300 acres of use, and remaining title declared extinguished"
+  ],
+  "unverifiable": [
+    "The Commission dates the order March 3, 1882 against Royce and Kappler's March 31; left as an open question",
+    "treaties.json error: presentDayTribes is empty for this record (not edited)."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes is empty for this record"
+  ]
+}

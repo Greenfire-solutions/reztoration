@@ -301,7 +301,9 @@
   "cessions": [
    "28"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Saint Regis Mohawk Tribe, New York"
+  ],
   "scheduleTribes": [
    "Seven Nations of Canada"
   ],
@@ -310,6 +312,13 @@
   "states": [
    "NY"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 656 (page scan checked): 1796 May 31, New York City, Stat. L. VII, 55, 'Seven Nations of Canada': 'The Seven Nations relinquish to the state of New York all claim to lands within that state, with certain reservations: A tract 6 miles square ... for the use of the St Regis Indians, is confirmed as a reservation for them. One square mile is also reserved at each of the St Regis mills and meadows on Grass river for said Indians.' The St. Regis Indians in the United States are the Saint Regis Mohawk Tribe (findings openQuestions name it). presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/656/mode/2up"
+  },
   "name": "Treaty or agreement with the Seven Nations of Canada, 1796-05-31"
  },
  {
@@ -3076,7 +3085,9 @@
   "cessions": [
    "141"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Muscogee (Creek) Nation, Oklahoma"
+  ],
   "scheduleTribes": [
    "Creek"
   ],
@@ -3096,7 +3107,7 @@
     "states",
     "note"
    ],
-   "why": "Royce: Creek agency, Nov. 15, 1827 (Stat. L. VII, 307). The Creek nation cede all remaining land within the chartered limits of Georgia, area 141.",
+   "why": "Royce: Creek agency, Nov. 15, 1827 (Stat. L. VII, 307). The Creek nation cede all remaining land within the chartered limits of Georgia, area 141. Round 15: presentDayTribes was empty. Royce p. 720 (page scan checked): '1827 Nov. 15, Creek agency, Stat. L. VII, 307, Creek': 'the Creek nation now therefore cedes to the U. S. all the remaining land owned or claimed by the Creek nation ... within the chartered limits of Georgia'. The Creek nation is the Muscogee (Creek) Nation; whether the Poarch Band of Creeks also belongs here is left to Jordan.",
    "source": "https://archive.org/stream/annualreportofbu218smit#page/720/mode/2up",
    "splitFrom": "kappler-291"
   },
@@ -4947,14 +4958,22 @@
   ],
   "presentDayTribes": [],
   "scheduleTribes": [
-   "Potawatomi, Masac's band"
+   "Potawatomi, bands of To-i-sa's brother Me-mat-way and Che-quaw-ka-ko"
   ],
   "statute": [],
   "executiveOrder": [],
   "states": [
    "IN"
   ],
-  "name": "Treaty or agreement with the Potawatomi, Masac's band, 1836-09-20"
+  "name": "Treaty or agreement with the Potawatomi, bands of To-i-sa's brother Me-mat-way and Che-quaw-ka-ko, 1836-09-20",
+  "correction": {
+   "fields": [
+    "name",
+    "scheduleTribes"
+   ],
+   "why": "Royce p. 762 (page scan checked): '1836 Sept. 20, Chippewanaung, Indiana, Stat. L. VII, 513, Potawatomi, bands of To-i-sa's brother Me-mat-way and Che-quaw-ka-ko': they cede the 10 sections reserved by article 2 of the treaty of Oct. 27, 1832. Masac's band ('Potawatomi Ma-sac's band') is the next row, Sept. 22, Stat. L. VII, 514, which is kappler-479. The USFS layer gave this Sept. 20 record Masac's name; Kappler p. 470 (seq 478, the record's own link) prints the Sept. 20 treaty with Me-mat-way and Che-quaw-ka-ko (findings openQuestions). Name and scheduleTribes corrected; presentDayTribes left empty for Jordan, as for the other Indiana Potawatomi band treaties.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/762/mode/2up"
+  }
  },
  {
   "id": "kappler-479",
@@ -7797,7 +7816,9 @@
   "cessions": [
    "402"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Tule River Indian Tribe of the Tule River Reservation, California"
+  ],
   "scheduleTribes": [
    "Tule River or Madden Farm reservation Indians"
   ],
@@ -7806,6 +7827,13 @@
   "states": [
    "CA"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 814 (page scan checked): 1856, 'Tule River or Madden Farm reservation Indians', 'See historical column'. p. 815, area 402, California 2: 'This tract was informally established in 1856 as an Indian reservation ... known as the Madden farm ... until it was abandoned in 1876, and the Indians removed to the new Tule River reservation, established by Executive orders of Jan. 9 and Oct. 3, 1873.' Those Indians are the Tule River Indian Tribe. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/814/mode/2up"
+  },
   "name": "Cession of land of the Tule River or Madden Farm reservation Indians, 1856-01-01"
  },
  {
@@ -7964,7 +7992,9 @@
   "cessions": [
    "564"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Muckleshoot Indian Tribe"
+  ],
   "scheduleTribes": [
    "Muckleshoot Reservation"
   ],
@@ -7975,6 +8005,13 @@
   "states": [
    "WA"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 818 (page scan checked): 1857 Jan. 20, Executive order, 'Niskwali and others, parties to treaty of Dec. 26, 1854': '... Establishes a new reserve at Muckleshoot prairie'. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/818/mode/2up"
+  },
   "name": "Cession of land of the Muckleshoot Reservation, 1857-01-20"
  },
  {
@@ -8235,7 +8272,10 @@
   "cessions": [
    "415"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Gila River Indian Community of the Gila River Indian Reservation, Arizona",
+   "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+  ],
   "scheduleTribes": [
    "Maricopa; Pima"
   ],
@@ -8246,6 +8286,15 @@
   "states": [
    "AZ"
   ],
+  "note": "Statute: the Royce scan (p. 820) plainly reads 'Stat. L., XI, 401'; the Court of Claims cites the Act as 11 Stat. 388. Both are likely right: the Act of Feb. 28, 1859 (ch. 66) begins on p. 388 and its Gila River section falls on p. 401. Not opened; the statute link is left as the USFS gave it.",
+  "correction": {
+   "fields": [
+    "presentDayTribes",
+    "note"
+   ],
+   "why": "Royce p. 820 (page scan checked): 1859 Feb. 28, Act of Congress, Stat. L. XI, 401, 'Pima and Maricopa': 'U. S. sets apart tract on Gila river occupied by them as a reservation for their use'. The Gila River reservation's Pima and Maricopa are today the Gila River Indian Community and the Salt River Pima-Maricopa Indian Community, the same pair carried on cession-1879-06-14-maricopa-pima. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/820/mode/2up"
+  },
   "name": "Cession of land of the Maricopa, Pima, 1859-02-28"
  },
  {
@@ -8493,7 +8542,9 @@
   "cessions": [
    "424"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Fort Sill Apache Tribe of Oklahoma"
+  ],
   "scheduleTribes": [
    "Gila Apache"
   ],
@@ -8504,6 +8555,15 @@
   "states": [
    "NM"
   ],
+  "note": "The agent's name: the Royce page scan (p. 822) reads 'agent Steck's selection'; the archive.org OCR text misreads it as 'Steele'. The Commission also names Steck (Michael Steck). The Mescalero Apache Tribe is not added; findings leave it unsettled.",
+  "correction": {
+   "fields": [
+    "presentDayTribes",
+    "note"
+   ],
+   "why": "Royce p. 822 (page scan checked): 1860 May 14, 'Gila Apache': 'Commissioner of Indian Affairs approved agent Steck's selection of Gila Apache reservation', 15 miles square from Santa Lucia spring; p. 823, area 424, New Mexico 2: abandoned in 1861. The Fort Sill Apache Tribe is the Commission's successor to the Chiricahua and Warm Springs bands it calls Gila Apache (findings openQuestions), and is the tribe carried on the other Southern Apache records. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/822/mode/2up"
+  },
   "name": "Cession of land of the Gila Apache, 1860-05-14"
  },
  {
@@ -8953,7 +9013,10 @@
   "cessions": [
    "447"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Confederated Tribes of the Goshute Reservation",
+   "Skull Valley Band of Goshute Indians of Utah"
+  ],
   "scheduleTribes": [
    "Shoshone-Goship"
   ],
@@ -8963,6 +9026,13 @@
    "NV",
    "UT"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 830 (page scan checked): 1863 Oct. 12, Tuilla valley, Utah territory, Stat. L. XIII, 681, 'Shoshoni-Goship': 'Define their boundaries as follows: On the N. by the middle of the Great Desert; on the W. by Steptoe valley; on the S. by Tooedoe or Green mountains; on the E. by Great Salt lake, Tuilla and Rush valleys.' The Goship (Goshute) are today the Confederated Tribes of the Goshute Reservation and the Skull Valley Band of Goshute Indians, the successors the Oklahoma State University Kappler database names (findings openQuestions). presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/830/mode/2up"
+  },
   "name": "Treaty or agreement with the Shoshone-Goship, 1863-10-12"
  },
  {
@@ -11429,11 +11499,20 @@
   "scheduleTribes": [
    "The several tribes of New York Indians"
   ],
-  "statute": [],
+  "statute": [
+   "https://www.govinfo.gov/content/pkg/STATUTE-17/pdf/STATUTE-17-Pg466.pdf"
+  ],
   "executiveOrder": [],
   "states": [
    "KS"
   ],
+  "correction": {
+   "fields": [
+    "statute"
+   ],
+   "why": "Royce p. 862 (page scan checked): 1873 Feb. 19, Act of Congress, Stat. L. XVII, 466, 'New York Indians': 'Provides for sale of lands allotted to New York Indians in Kansas.' 17 Stat. 466 (govinfo scan checked): ch. 167, 'An Act to provide for the Sale of certain New York Indian Lands in Kansas', approved Feb. 19, 1873. statute was empty. presentDayTribes stays empty: which nations today descend from the 32 allottees was not settled.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/862/mode/2up"
+  },
   "name": "Cession of land of the The several tribes of New York Indians, 1873-02-19"
  },
  {
@@ -11799,7 +11878,10 @@
   "cessions": [
    "546"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona",
+   "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+  ],
   "scheduleTribes": [
    "Apache"
   ],
@@ -11810,6 +11892,13 @@
   "states": [
    "AZ"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 864 (page scan checked): 1873 Aug. 5, Executive order, 'Apache': 'President restores to public domain a portion of the San Carlos division of White Mountains reservation, as established by Executive order of Dec. 14, 1872', the part E. of and above old Camp Goodwin. The White Mountain reservation of these orders is today divided between the White Mountain Apache Tribe and the San Carlos Apache Tribe, the pair carried on cession-1877-03-31-apache. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/864/mode/2up"
+  },
   "name": "Cession of land of the Apache, 1873-08-05"
  },
  {
@@ -12210,7 +12299,9 @@
   "cessions": [
    "554"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Colorado River Indian Tribes of the Colorado River Indian Reservation, Arizona and California"
+  ],
   "scheduleTribes": [
    "Colorado River"
   ],
@@ -12221,6 +12312,13 @@
   "states": [
    "AZ"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 868 (page scan checked): 1873 Nov. 22, Executive order: 'President sets apart an addition to Colorado River reservation, established by act of Congress Mar. 3, 1865 ... See No. 466.' The same tribe the 1865 Act and the 1874 enlargement (cession-1874-11-16-colorado-river) carry. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/868/mode/2up"
+  },
   "name": "Cession of land of the Colorado River, 1873-11-22"
  },
  {
@@ -12602,7 +12700,9 @@
   "cessions": [
    "564"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Muckleshoot Indian Tribe"
+  ],
   "scheduleTribes": [
    "Muckleshoot Reservation"
   ],
@@ -12613,6 +12713,13 @@
   "states": [
    "WA"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 872 (page scan checked): 1874 Apr. 9, Executive order: 'President sets apart certain lands for reservation. Supplemental to Executive order of Jan. 20, 1857' (the Muckleshoot prairie order). p. 873 remark (OCR read): 'This constitutes the present Muckleshoot reservation'. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/872/mode/2up"
+  },
   "name": "Cession of land of the Muckleshoot Reservation, 1874-04-09"
  },
  {
@@ -12625,7 +12732,9 @@
   "cessions": [
    "588"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Fort Sill Apache Tribe of Oklahoma"
+  ],
   "scheduleTribes": [
    "Southern Apache"
   ],
@@ -12636,6 +12745,13 @@
   "states": [
    "NM"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 874 (page scan checked): 1874 Apr. 9, Executive order, 'Apache': 'President sets apart a reserve, known as Hot Springs reservation', in the valley of the Cañada Alamosa. p. 884: Dec. 21, 1875, 'Southern Apache', restores the part of this reserve not included in the order of Dec. 21, 1875. The Fort Sill Apache Tribe is the tribe already carried on that Hot Springs record (cession-1875-12-21-southern-apache); whether the Mescalero Apache Tribe belongs on the Hot Springs records is left to Jordan. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/874/mode/2up"
+  },
   "name": "Cession of land of the Southern Apache, 1874-04-09"
  },
  {
@@ -12903,7 +13019,9 @@
   "cessions": [
    "572"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Tohono O'odham Nation of Arizona"
+  ],
   "scheduleTribes": [
    "Papago"
   ],
@@ -12914,6 +13032,13 @@
   "states": [
    "AZ"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 876 (page scan checked): 1874 July 1, Executive order, 'Papago': 'President sets apart reservation around San Xavier del Bac'. The Papago and the San Xavier reservation are the Tohono O'odham Nation's. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/876/mode/2up"
+  },
   "name": "Cession of land of the Papago, 1874-07-01"
  },
  {
@@ -12926,7 +13051,10 @@
   "cessions": [
    "573"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona",
+   "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+  ],
   "scheduleTribes": [
    "Apache"
   ],
@@ -12937,6 +13065,13 @@
   "states": [
    "AZ"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 876 (page scan checked): 1874 July 21, Executive order, 'Apache': 'President restores to market that portion of White Mountain reservation lying E. of 109° 30' W. longitude. (For description see No. 541.)' Same pair as cession-1877-03-31-apache and cession-1871-11-09-apache (which also maps area 573). presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/876/mode/2up"
+  },
   "name": "Cession of land of the Apache, 1874-07-21"
  },
  {
@@ -13403,7 +13538,10 @@
   "cessions": [
    "582"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Yavapai-Apache Nation of the Camp Verde Indian Reservation, Arizona",
+   "Tonto Apache Tribe of Arizona"
+  ],
   "scheduleTribes": [
    "Apache"
   ],
@@ -13414,6 +13552,13 @@
   "states": [
    "AZ"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 880 (page scan checked): 1875 Apr. 23, Executive order, 'Apache': 'President revokes all orders setting apart Camp Verde reserve and restores the same to the public domain.' The Camp Verde people removed in 1875 are today the Yavapai-Apache Nation (Camp Verde reservation) and the Tonto Apache Tribe, the Docket 22-J parties named in the findings. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/880/mode/2up"
+  },
   "name": "Cession of land of the Apache, 1875-04-23"
  },
  {
@@ -13479,7 +13624,9 @@
   "cessions": [
    "646"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Burns Paiute Tribe"
+  ],
   "scheduleTribes": [
    "Paiute; Shoshone; Snake"
   ],
@@ -13490,6 +13637,15 @@
   "states": [
    "OR"
   ],
+  "note": "Royce prints one Executive order of May 15, 1875 (the addition to the Malheur reserve); treaties.json carries it as two rows, this one (area 646) and cession-1875-05-15-paiute-shoshoni (area 589). They are one order and should not be counted twice.",
+  "correction": {
+   "fields": [
+    "presentDayTribes",
+    "note"
+   ],
+   "why": "Royce p. 880 (page scan checked): 1875 May 15, Executive order, 'Paiute and Shoshoni': 'President sets apart an addition to reserve established by Executive order Sept. 12, 1872', on the Malheur river. The Malheur reserve's people are the Burns Paiute Tribe, carried on the 1872 and 1876 Malheur records. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/880/mode/2up"
+  },
   "name": "Cession of land of the Paiute, Shoshone, Snake, 1875-05-15"
  },
  {
@@ -13955,7 +14111,10 @@
   "cessions": [
    "592"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona",
+   "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+  ],
   "scheduleTribes": [
    "Apache"
   ],
@@ -13966,6 +14125,13 @@
   "states": [
    "AZ"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 884 (page scan checked): 1876 Apr. 27, Executive order, 'Apache': 'President restores a portion of White Mountain reservation to public domain', the part W. of a line from the NW. corner through Sombrero butte and Chromo peak to the mouth of the San Pedro. Same pair as cession-1877-03-31-apache. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/884/mode/2up"
+  },
   "name": "Cession of land of the Apache, 1876-04-27"
  },
  {
@@ -14172,7 +14338,10 @@
   "cessions": [
    "596"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Gila River Indian Community of the Gila River Indian Reservation, Arizona",
+   "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+  ],
   "scheduleTribes": [
    "Maricopa; Pima"
   ],
@@ -14183,6 +14352,13 @@
   "states": [
    "AZ"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 888 (page scan checked): 1876 Aug. 31, Executive order, 'Pima and Maricopa': 'President sets apart a tract as an addition to Gila River reservation, established by act of Congress Feb. 28, 1859'. Same pair as cession-1879-06-14-maricopa-pima. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/888/mode/2up"
+  },
   "name": "Cession of land of the Maricopa, Pima, 1876-08-31"
  },
  {
@@ -14320,7 +14496,9 @@
   "cessions": [
    "601"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona"
+  ],
   "scheduleTribes": [
    "Apache"
   ],
@@ -14331,6 +14509,13 @@
   "states": [
    "AZ"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 888 (page scan checked): 1877 Jan. 26, Executive order, 'Apache': 'President restores portion of White Mountain reservation to public domain', a tract surveyed by Lieutenant E. D. Thomas NE. of the flagstaff of Camp Apache. The tract lay at Camp (Fort) Apache, the White Mountain Apache Tribe's reservation (findings openQuestions name it). presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/888/mode/2up"
+  },
   "name": "Cession of land of the Apache, 1877-01-26"
  },
  {
@@ -14508,7 +14693,9 @@
   "cessions": [
    "587"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Fort Sill Apache Tribe of Oklahoma"
+  ],
   "scheduleTribes": [
    "Southern Apache"
   ],
@@ -14519,6 +14706,13 @@
   "states": [
    "NM"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 890 (page scan checked): 1877 Aug. 25, Executive order, 'Apache (southern)': 'President restores to public domain Hot Springs reservation as established by Executive order of Dec. 21, 1875.' The Fort Sill Apache Tribe is the tribe carried on the Dec. 21, 1875 record; whether the Mescalero Apache Tribe belongs on the Hot Springs records is left to Jordan. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/890/mode/2up"
+  },
   "name": "Cession of land of the Southern Apache, 1877-08-25"
  },
  {
@@ -15079,11 +15273,20 @@
   "scheduleTribes": [
    "Crow"
   ],
-  "statute": [],
+  "statute": [
+   "https://www.govinfo.gov/content/pkg/STATUTE-22/pdf/STATUTE-22-Pg42.pdf"
+  ],
   "executiveOrder": [],
   "states": [
    "MT"
   ],
+  "correction": {
+   "fields": [
+    "statute"
+   ],
+   "why": "Royce p. 900 (page scan checked): 1880 June 12, Agreement, 'Crow': 'By this agreement, which was confirmed by act of Congress Apr. 11, 1882, the Crow Indians of Montana ceded to the U. S. that part of their reservation' between the Yellowstone and Boulder creek. Royce p. 906 gives that Act as Stat. L. XXII, 42, the same link already corrected onto cession-1882-04-11-crow. statute was empty (audit treatiesJsonErrors).",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/900/mode/2up"
+  },
   "name": "Cession of land of the Crow, 1880-06-12"
  },
  {
@@ -15436,7 +15639,9 @@
   "cessions": [
    "633"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Havasupai Tribe of the Havasupai Reservation, Arizona"
+  ],
   "scheduleTribes": [
    "Havasupai"
   ],
@@ -15447,6 +15652,15 @@
   "states": [
    "AZ"
   ],
+  "note": "Date checked: the Royce page scan (p. 906) reads '1882 Mar. 31', the date treaties.json carries. The Indian Claims Commission prints 'March 3, 1882' for the same order (1 Kappler 809, the same 518.6-acre reserve), which looks like a dropped digit. Date not changed.",
+  "correction": {
+   "fields": [
+    "presentDayTribes",
+    "note"
+   ],
+   "why": "Royce p. 906 (page scan checked): 1882 Mar. 31, Executive order, 'Havasupai': 'President revokes Executive order of Nov. 23, 1880, and sets apart a reserve in lieu of that therein established', the bottom land of the cañon of Cataract creek about 2 miles above 'the village of the Yavai Suppai Indians'. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/906/mode/2up"
+  },
   "name": "Cession of land of the Havasupai, 1882-03-31"
  },
  {
@@ -15491,7 +15705,10 @@
   "cessions": [
    "634"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Gila River Indian Community of the Gila River Indian Reservation, Arizona",
+   "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+  ],
   "scheduleTribes": [
    "Maricopa; Pima"
   ],
@@ -15502,6 +15719,13 @@
   "states": [
    "AZ"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 906 (page scan checked): 1882 May 5, Executive order, 'Pima and Maricopa': 'President sets apart tract as addition to reserve established by Executive order Aug. 31, 1876', on the Gila river. Same pair as cession-1879-06-14-maricopa-pima. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/906/mode/2up"
+  },
   "name": "Cession of land of the Maricopa, Pima, 1882-05-05"
  },
  {
@@ -15511,9 +15735,7 @@
   "royce": [
    "https://archive.org/stream/annualreportofbu218smit#page/908/mode/2up"
   ],
-  "cessions": [
-   "635"
-  ],
+  "cessions": [],
   "presentDayTribes": [
    "Crow Tribe of Montana"
   ],
@@ -15529,9 +15751,10 @@
   ],
   "correction": {
    "fields": [
-    "royce"
+    "royce",
+    "cessions"
    ],
-   "why": "Royce p. 908 (page scan checked): '1882 July 10, Act of Congress, Crow: Ratifies agreement of Aug. 22, 1881, for cession of a portion of their reservation', the Northern Pacific right of way; p. 909: 'This cession consisted of a right of way 400 feet in width for Northern Pacific railroad, and is neither colored nor numbered on the map.' The USFS link pointed at p. 786 (the 1851 Fort Laramie entry).",
+   "why": "Royce p. 908 (page scan checked): '1882 July 10, Act of Congress, Crow: Ratifies agreement of Aug. 22, 1881, for cession of a portion of their reservation', the Northern Pacific right of way; p. 909: 'This cession consisted of a right of way 400 feet in width for Northern Pacific railroad, and is neither colored nor numbered on the map.' The USFS link pointed at p. 786 (the 1851 Fort Laramie entry). Round 15: cessions ['635'] removed. Royce p. 909 sets 635 (Montana 1) against the row 'The remnant of the Crow reservation, by treaty of May 7, 1868, is still occupied by them': 635 is the land the Crow kept, not land ceded by this Act, and the right of way this Act ratified 'is neither colored nor numbered on the map' (page scan checked). The map no longer draws the kept reservation as ceded by this record.",
    "source": "https://archive.org/stream/annualreportofbu218smit#page/908/mode/2up"
   },
   "name": "Cession of land of the Crow, 1882-07-10"
@@ -15631,17 +15854,25 @@
   "cessions": [
    "638"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Burns Paiute Tribe"
+  ],
   "scheduleTribes": [
    "Paiute; Shoshone; Snake"
   ],
-  "statute": [
-   "http://ops.libs.uga.edu/ehistory/InvasionOfAmerica/FedStatIndianLand/638c.pdf"
-  ],
+  "statute": [],
   "executiveOrder": [],
   "states": [
    "OR"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes",
+    "statute"
+   ],
+   "why": "Royce p. 908 (page scan checked): 1882 Sept. 13, Executive order (no Stat. L. reference): 'President restores to public domain a portion of the Malheur reserve', except 320 acres of the late Camp Harney post; p. 909, area 638, Oregon 2. The statute field carried a FedStatIndianLand file (638c.pdf) for what Royce lists as an Executive order, so it is removed. The Malheur reserve's people are the Burns Paiute Tribe. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/908/mode/2up"
+  },
   "name": "Cession of land of the Paiute, Shoshone, Snake, 1882-09-13"
  },
  {
@@ -15654,7 +15885,9 @@
   "cessions": [
    "639"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Tohono O'odham Nation of Arizona"
+  ],
   "scheduleTribes": [
    "Papago and others"
   ],
@@ -15665,6 +15898,13 @@
   "states": [
    "AZ"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 908 (page scan checked): 1882 Dec. 12, Executive order, 'Papago and others': 'President sets apart tract to be known as Gila Bend reserve', T. 5 S., R. 5 W.; p. 909, area 639. The Gila Bend (San Lucy) reserve is the Tohono O'odham Nation's. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/908/mode/2up"
+  },
   "name": "Cession of land of the Papago and others, 1882-12-12"
  },
  {
@@ -15677,7 +15917,9 @@
   "cessions": [
    "640"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Hopi Tribe of Arizona"
+  ],
   "scheduleTribes": [
    "Moki and others"
   ],
@@ -15688,6 +15930,13 @@
   "states": [
    "AZ"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 908 (page scan checked): 1882 Dec. 16, Executive order, 'Moki and others': 'President sets apart reserve for Moqui and other Indians', between 110° and 111° W. and 35° 30' and 36° 30' N.; p. 909, area 640. The Moqui are the Hopi Tribe, as on cession-1886-10-01-moki. The 'other Indians' are not named by Royce, so no other nation is added. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/908/mode/2up"
+  },
   "name": "Cession of land of the Moki and others, 1882-12-16"
  },
  {
@@ -15735,7 +15984,9 @@
   "cessions": [
    "641"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Hualapai Indian Tribe of the Hualapai Indian Reservation, Arizona"
+  ],
   "scheduleTribes": [
    "Walapai"
   ],
@@ -15746,6 +15997,13 @@
   "states": [
    "AZ"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 910 (page scan checked): 1883 Jan. 4, Executive order, 'Walapai': 'President sets apart for the Hualpi Indians a reserve' from the Colorado river past Peach spring and Pine spring. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/910/mode/2up"
+  },
   "name": "Cession of land of the Walapai, 1883-01-04"
  },
  {
@@ -15843,7 +16101,9 @@
   "cessions": [
    "646"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Burns Paiute Tribe"
+  ],
   "scheduleTribes": [
    "Paiute; Shoshone; Snake"
   ],
@@ -15854,6 +16114,13 @@
   "states": [
    "OR"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 910 (page scan checked): 1883 May 21, Executive order: 'President restores to market all the Malheur Indian reservation in Oregon, except a tract of 320 acres ... the N. half of the late military post reserve of Camp Harney.' The Malheur reserve's people are the Burns Paiute Tribe. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/910/mode/2up"
+  },
   "name": "Cession of land of the Paiute, Shoshone, Snake, 1883-05-21"
  },
  {
@@ -15866,7 +16133,9 @@
   "cessions": [
    "647"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Burns Paiute Tribe"
+  ],
   "scheduleTribes": [
    "Malheur Indian Reservation; Shoshone; Snake"
   ],
@@ -15877,6 +16146,13 @@
   "states": [
    "OR"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 912 (page scan checked): 1883 May 21, Executive order: 'President retains for future reserve the N. half of Camp Harney military reservation, being 320 acres' (the Malheur remnant). The Malheur reserve's people are the Burns Paiute Tribe. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/912/mode/2up"
+  },
   "name": "Cession of land of the Malheur Indian Reservation, Shoshone, Snake, 1883-05-21"
  },
  {
@@ -15912,7 +16188,9 @@
   "cessions": [
    "648"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Quechan Tribe of the Fort Yuma Indian Reservation, California & Arizona"
+  ],
   "scheduleTribes": [
    "Yuma"
   ],
@@ -15923,6 +16201,13 @@
   "states": [
    "AZ"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 912 (page scan checked): 1883 July 6, Executive order, 'Yuma': 'President sets apart reserve for Yuma Indians' from the Colorado opposite the mouth of the Gila. p. 914: restored Jan. 9, 1884 and a new reserve made on the California side. The Yuma are the Quechan, as on cession-1884-01-09-yuma. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/912/mode/2up"
+  },
   "name": "Cession of land of the Yuma, 1883-07-06"
  },
  {
@@ -16065,7 +16350,10 @@
   "cessions": [
    "651"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Gila River Indian Community of the Gila River Indian Reservation, Arizona",
+   "Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona"
+  ],
   "scheduleTribes": [
    "Maricopa; Pima"
   ],
@@ -16076,6 +16364,13 @@
   "states": [
    "AZ"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 914 (page scan checked): 1883 Nov. 15, Executive order, 'Pima and Maricopa': 'President sets apart an addition to Pima and Maricopa reserve', beginning in the middle of Salt river 4 miles E. of its junction with the Gila and ending up the middle of Salt river; the addition takes in Salt River land, so both Pima-Maricopa communities are listed, as on cession-1879-06-14-maricopa-pima. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/914/mode/2up"
+  },
   "name": "Cession of land of the Maricopa, Pima, 1883-11-15"
  },
  {
@@ -16304,6 +16599,14 @@
   "states": [
    "OK"
   ],
+  "note": "Royce p. 916 names no tribe: the order sets apart the Chilocco reserve 'for Indians educated at Chilocco Indian Industrial School'. The land was in the Cherokee Outlet (findings name the Cherokee Nation as the nation whose land it was), but Royce does not, so presentDayTribes is left empty on purpose.",
+  "correction": {
+   "fields": [
+    "note"
+   ],
+   "why": "Note only, no data field changed. Royce p. 916 (page scan checked; the Tribe column is blank): 1884 July 12, Executive order: 'President sets apart Chilocco reserve in Indian Territory for Indians educated at Chilocco Indian Industrial School, as follows: Secs. 13, 14, 15, 16 ... in T. 29 N., R. 2 E., of the Indian meridian.'",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/916/mode/2up"
+  },
   "name": "Cession of land of the Indians educated at Chilocco Indian Industrial School, 1884-07-12"
  },
  {
@@ -16496,7 +16799,7 @@
    "Maricopa; Papago; Pima"
   ],
   "statute": [
-   "http://ops.libs.uga.edu/ehistory/InvasionOfAmerica/FedStatIndianLand/687c,pdf"
+   "http://ops.libs.uga.edu/ehistory/InvasionOfAmerica/FedStatIndianLand/687c.pdf"
   ],
   "executiveOrder": [],
   "states": [
@@ -16504,9 +16807,10 @@
   ],
   "correction": {
    "fields": [
-    "presentDayTribes"
+    "presentDayTribes",
+    "statute"
    ],
-   "why": "Royce p. 922 (page scan checked) prints this row under the heading '1886 Oct. 1, Act of Congress, Stat. L. XI, 374' carried down from the Pueblo rows, but the row has no date of its own: it is the tribe's original country, 'Country claimed by them at beginning of their relations with the U. S.', shown on Arizona map 1. 'Papago, Pima, and Maricopa', area 687. p. 923: 'No treaty of purchase was ever made with these tribes ... Reservations were, however, assigned them, upon which they were concentrated, known as the Papago, Gila River, Gila Bend, and Salt River reserves'. The Papago and Gila Bend reserves are the Tohono O'odham Nation's; Gila River and Salt River are the two Pima-Maricopa communities. presentDayTribes was empty.",
+   "why": "Royce p. 922 (page scan checked) prints this row under the heading '1886 Oct. 1, Act of Congress, Stat. L. XI, 374' carried down from the Pueblo rows, but the row has no date of its own: it is the tribe's original country, 'Country claimed by them at beginning of their relations with the U. S.', shown on Arizona map 1. 'Papago, Pima, and Maricopa', area 687. p. 923: 'No treaty of purchase was ever made with these tribes ... Reservations were, however, assigned them, upon which they were concentrated, known as the Papago, Gila River, Gila Bend, and Salt River reserves'. The Papago and Gila Bend reserves are the Tohono O'odham Nation's; Gila River and Salt River are the two Pima-Maricopa communities. presentDayTribes was empty. Round 15: the statute link read '687c,pdf' (a comma for the dot), so it could not resolve; corrected to '687c.pdf' to match the sibling files (682c.pdf, 683c.pdf). The ops.libs.uga.edu host did not answer when checked, as for the other links on that host.",
    "source": "https://archive.org/stream/annualreportofbu218smit#page/922/mode/2up"
   },
   "name": "Cession of land of the Maricopa, Papago, Pima, 1886-10-01"
@@ -17524,7 +17828,9 @@
   "cessions": [
    "431"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Ute Indian Tribe of the Uintah & Ouray Reservation, Utah"
+  ],
   "scheduleTribes": [
    "Uintah Uta"
   ],
@@ -17535,6 +17841,13 @@
   "states": [
    "UT"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 924 (page scan checked): 1887 Sept. 1, Executive order, 'Uintah Uta': 'The President sets apart as the Uintah military reservation' a tract 2 by 3 miles at Fort Du Chesne, Utah territory. The Uintah Ute are the Ute Indian Tribe of the Uintah and Ouray Reservation, as on cession-1861-10-03-uintah-uta. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/924/mode/2up"
+  },
   "name": "Cession of land of the Uintah Uta, 1887-09-01"
  },
  {
@@ -17643,12 +17956,14 @@
   "date": "1888-05-24",
   "kappler": null,
   "royce": [
-   "https://archive.org/stream/annualreportofbu218smit#page/924/mode/2up"
+   "https://archive.org/stream/annualreportofbu218smit#page/926/mode/2up"
   ],
   "cessions": [
    "431"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Ute Indian Tribe of the Uintah & Ouray Reservation, Utah"
+  ],
   "scheduleTribes": [
    "Uintah Uta"
   ],
@@ -17659,6 +17974,14 @@
   "states": [
    "UT"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes",
+    "royce"
+   ],
+   "why": "Royce p. 926 (page scan checked): 1888 May 24, Act of Congress, Stat. L. XXV, 157, 'Uintah Uta': 'Congress restores part of the Uintah valley reservation to the public domain'. The USFS link pointed at p. 924, which ends with the Act of May 1, 1888; the May 24 row is on p. 926. Area 431 is kept (Royce's 'See 431'). The Uintah Ute are the Ute Indian Tribe of the Uintah and Ouray Reservation. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/926/mode/2up"
+  },
   "name": "Cession of land of the Uintah Uta, 1888-05-24"
  },
  {
@@ -17918,7 +18241,9 @@
   "cessions": [
    "647"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "Burns Paiute Tribe"
+  ],
   "scheduleTribes": [
    "Malheur Indian Reservation; Shoshone; Snake"
   ],
@@ -17929,6 +18254,13 @@
   "states": [
    "OR"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 930 (page scan checked): 1889 Mar. 2, Executive order, 'Malheur Reservation Indians': 'The President restores to the public domain the remainder of their reservation', 317.65 acres, the N. half of the old Camp Harney military reservation. The Malheur reserve's people are the Burns Paiute Tribe. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/930/mode/2up"
+  },
   "name": "Cession of land of the Malheur Indian Reservation, Shoshone, Snake, 1889-03-02"
  },
  {
@@ -18898,7 +19230,10 @@
   "cessions": [
    "720"
   ],
-  "presentDayTribes": [],
+  "presentDayTribes": [
+   "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona",
+   "San Carlos Apache Tribe of the San Carlos Reservation, Arizona"
+  ],
   "scheduleTribes": [
    "White Mountain Apache"
   ],
@@ -18909,6 +19244,13 @@
   "states": [
    "AZ"
   ],
+  "correction": {
+   "fields": [
+    "presentDayTribes"
+   ],
+   "why": "Royce p. 944 (page scan checked): 1893 Feb. 20, Act of Congress, Stat. L. XXVII, 469, 'White Mountain Apache': 'Restores to the public domain that portion of the reservation bounded as follows: Beginning at the summit of Chromo Butte ... about 3½ miles SW. of the town of McMillen ... to the middle of Salt river ... with the present western boundary line of said reservation'. The tract is on the reservation's western edge (the San Carlos end, near Globe); the findings name both nations, the same pair as cession-1877-03-31-apache. presentDayTribes was empty.",
+   "source": "https://archive.org/stream/annualreportofbu218smit#page/944/mode/2up"
+  },
   "name": "Cession of land of the White Mountain Apache, 1893-02-20"
  },
  {

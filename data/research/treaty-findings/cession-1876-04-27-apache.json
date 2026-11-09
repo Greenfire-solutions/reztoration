@@ -83,7 +83,8 @@
     "Whether all of area 592 lay inside the Western Apache title area of Finding 11 was not plotted; the per-tract acreage and value were never found because the claim was settled.",
     "The order's own text was read only in Royce's summary.",
     "treaties.json lists no presentDayTribes for this record. Not edited.",
-    "No White Mountain or San Carlos Apache account of this order was found."
+    "No White Mountain or San Carlos Apache account of this order was found.",
+    "Audit 2026-11-08: reopened OSU 932 (conclusion 5 names April 27, 1876; quote exact), OSU 1611 and OSU 1055 ($4,900,000). Royce p. 884 text (Sombrero or Plumoso butte, Chromo peak, mouth of the San Pedro) matches. Double-count check: area 592 is mapped only here, not on cession-1871-11-09-apache (541, 573, 582, 603), cession-1877-03-31-apache (602, 603) or cession-1886-10-01-apache-western-bands (689, land outside the reservation, conclusion 4). Conclusion 5 and the order that follows it call for a separate acreage and value per excluded tract and date, so this is a distinct taking; no sameEventAs."
   ],
   "plain": {
     "promised": "Not a treaty: a presidential order. It cut the western part of the White Mountain reservation, west of a line through Chromo peak to the mouth of the San Pedro, out of the reservation.",

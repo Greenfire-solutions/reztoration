@@ -62,7 +62,8 @@
     "The Commission's 1960 opinion gives the order's date once as October 11, 1886; its amended findings, the Court of Claims and Royce give October 1, 1886.",
     "Royce describes the order as establishing a reservation on the 1864 boundaries; the homestead opening is from the Court of Claims and Commission findings. Kappler's text of the order (1 Kappler 903) was not opened.",
     "Whether the thirty-six homesteads were later lost by Chehalis families (sale, tax or fee patent) was not researched.",
-    "treaties.json lists no present-day tribes; the Confederated Tribes of the Chehalis Reservation should be listed. Not edited."
+    "treaties.json presentDayTribes was empty; treaty-corrections.json now lists the Confederated Tribes of the Chehalis Reservation.",
+    "Audit 2026-11-08: Royce p. 920, Docket 237 amended finding 11 (8 Ind. Cl. Comm. 436), the 1960 opinion (dismissal of the 3,753.63-acre claim, made final) and 79 Ct. Cl. 530 (4,224.63 acres; 3,753.63 restored for Indian homestead entry; 471 for a school; thirty-six homestead selections) re-read and match. The only other Chehalis Court of Claims entry is 140 Ct. Cl. 192 (1957), the Docket 237 appeal. No change of status."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

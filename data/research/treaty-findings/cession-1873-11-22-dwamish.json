@@ -23,7 +23,8 @@
   ],
   "openQuestions": [
     "The order fixes a low-water mark boundary; later litigation over Lummi tidelands was not researched here.",
-    "Audit 2026-11-08: removed a stale line about treaties.json naming the Duwamish as the present-day tribe; it now names the Lummi Tribe with a note. Royce p. 868 re-read: matches."
+    "Audit 2026-11-08: removed a stale line about treaties.json naming the Duwamish as the present-day tribe; it now names the Lummi Tribe with a note. Royce p. 868 re-read: matches.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for: Court of Claims names \"lummi\" (181 Ct. Cl. 753 (1967) and 197 Ct. Cl. 780 (1972), no mention of the 1873 order); ICC full text \"Lummi 1873\" (0 decisions). Nothing new."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

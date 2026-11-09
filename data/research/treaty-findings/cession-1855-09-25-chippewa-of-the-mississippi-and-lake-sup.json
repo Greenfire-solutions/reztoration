@@ -57,6 +57,11 @@
       "title": "Constitution and By-Laws of the Keweenaw Bay Indian Community of Michigan",
       "url": "https://www.kbic-nsn.gov/tribal-governance/constitution/",
       "publisher": "Keweenaw Bay Indian Community"
+    },
+    {
+      "title": "Minnesota Chippewa Tribe, et al. v. United States, Docket 18-U, Opinion of the Commission, March 30, 1978, 41 Ind. Cl. Comm. 249",
+      "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2460",
+      "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
     }
   ],
   "openQuestions": [
@@ -65,7 +70,8 @@
     "Royce's schedule cites 'the sixth clause of article 1' of the 1854 treaty; the clause is in Article 2.",
     "Whether lands inside the described sections had already been sold or granted before the order, and what became of the reserve since, was not researched.",
     "The text of the executive order itself (Kappler vol. 1, executive order reservations, Michigan) was not opened; the description is Royce's.",
-    "Audit 2026-11-08: 'today' reworded. The area number '(area 341 or 342)' for the 1856 addition was a guess and is removed; the inference 'so the reserve was still recognized then' is replaced by what the Commission's findings actually record."
+    "Audit 2026-11-08: 'today' reworded. The area number '(area 341 or 342)' for the 1856 addition was a guess and is removed; the inference 'so the reserve was still recognized then' is replaced by what the Commission's findings actually record.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for: Court of Claims names \"ontonagon\", \"lake superior\" (only railroad cases), \"chippewa\"; ICC full text \"Ontonagon\" (Docket 18-U). The 1978 Docket 18-U opinion and findings (41 Ind. Cl. Comm. 249, https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2460) count the Ontonagon reservation (Royce area 340) as part of the consideration the United States gave for the 1854 cession, valued from the defendant's appraisal; they make no finding that this reserve was taken. Nothing new."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

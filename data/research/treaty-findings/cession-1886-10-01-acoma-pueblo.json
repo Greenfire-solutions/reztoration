@@ -55,7 +55,8 @@
     "The Pueblo of Acoma's own account of its grant was not located (acomaskycity.org returned 403; puebloofacoma.org has no land history).",
     "The $6,107,157 judgment was entered on a stipulation and is a settlement, so it is not recorded as a breach finding even for the aboriginal land.",
     "The statute link in treaties.json (ops.libs.uga.edu) was not used; the Act was read on govinfo.",
-    "Audit 2026-11-08: the 1967 holding was reworded to the opinion's own terms (Acoma held Indian title; the United States is liable for the loss through failure to protect Acoma's rights) and the opinion (OSU id 2571) added as a source. Acoma is confirmed absent from both lists in the Act of May 31, 1933."
+    "Audit 2026-11-08: the 1967 holding was reworded to the opinion's own terms (Acoma held Indian title; the United States is liable for the loss through failure to protect Acoma's rights) and the opinion (OSU id 2571) added as a source. Acoma is confirmed absent from both lists in the Act of May 31, 1933.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for Pueblo, Acoma, Acoma grant; the ICC aboriginal-title decisions found expressly exclude the confirmed grants (e.g. 30 Ind. Cl. Comm. 234, 1973), so nothing new inside this grant."
   ],
   "id": "cession-1886-10-01-acoma-pueblo",
   "researchedAt": "2026-11-08",

@@ -44,7 +44,8 @@
     "The date 1886-10-01 in treaties.json is not an event date for this land. Royce prints the Pueblo grants under a block headed 'Oct. 1, Act of Congress, Stat. L. XI, 374'; 11 Stat. 374 is the Act of December 22, 1858, which confirmed other pueblos' grants. This is land the Pueblo kept, not land it ceded. Not edited. Zuni is not one of the claims in 11 Stat. 374, so treaties.json's statute link for this row does not fit it.",
     "This record is the same pueblo area as part of the 1877 reservation (cession-1877-03-16-zu-i) but a different event (Royce's grant listing); not marked sameEventAs. The $25,000,000 judgment of January 22, 1991 is taken from that file, not reread here.",
     "The Pueblo of Zuni's own account was not located: ashiwi.org loaded with no land history.",
-    "Royce's 'Zuni (original grant)' row gives no confirming act; how the 17,581.25 acres were measured was not found."
+    "Royce's 'Zuni (original grant)' row gives no confirming act; how the 17,581.25 acres were measured was not found.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for Pueblo, Zuni, Zuni grant; the Zuni Court of Claims entries (1981) are procedural orders in the aboriginal-title and trust suits; the ICC aboriginal-title decisions found expressly exclude the confirmed grants (e.g. 30 Ind. Cl. Comm. 234, 1973), so nothing new inside this grant."
   ],
   "id": "cession-1886-10-01-zu-i",
   "researchedAt": "2026-11-08",

@@ -24,7 +24,8 @@
   ],
   "openQuestions": [
     "The Nisqually claim (ICC Docket 197) concerns the Medicine Creek treaty cession, not this order.",
-    "Audit 2026-11-08: removed a stale line about treaties.json naming the Nisqually as the present-day tribe; it now names the Puyallup Tribe with a note. Royce p. 864-865 re-read: matches."
+    "Audit 2026-11-08: removed a stale line about treaties.json naming the Nisqually as the present-day tribe; it now names the Puyallup Tribe with a note. Royce p. 864-865 re-read: matches.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for: Court of Claims names \"puyallup\" (220 Ct. Cl. 654 (1979), no mention of the 1873 order); ICC full text \"Puyallup 1873\", \"Puyallup reservation\" (Docket 203 decisions of 1966 contain no reference to the enlargement). Nothing new."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

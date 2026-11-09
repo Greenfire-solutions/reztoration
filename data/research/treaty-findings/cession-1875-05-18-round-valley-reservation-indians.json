@@ -50,7 +50,8 @@
   "openQuestions": [
     "Same land and event as cession-1873-03-03-round-valley-reservation-indians (Royce area 583): this order proclaimed the boundaries that Act called for. The breach is the same 1885 Senate admission and should not be counted twice.",
     "The order was read in Royce's summary and in the 1885 report, not in Kappler vol. 1.",
-    "The Round Valley Indian Tribes' own account was not found."
+    "The Round Valley Indian Tribes' own account was not found.",
+    "Audit 2026-11-08: reopened Senate Report No. 1522 (SHAREOK text): 97,500 acres held without compensation, the order of May 18, 1875 proclaiming the boundaries, and the quote \"The committee are unable to find any excuse for this condition of things.\" all match. Royce p. 880 text matches. sameEventAs kept."
   ],
   "plain": {
     "promised": "This 1875 order fixed the Round Valley reservation lines set by Congress in 1873, with settlers inside to be paid for improvements and leave.",

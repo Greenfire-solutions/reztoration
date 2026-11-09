@@ -29,7 +29,8 @@
   "openQuestions": [
     "treaties.json gives the Duwamish Tribe [Unrecognized] as present-day tribe. Port Madison is the Suquamish Tribe's reservation; Royce's tribe column reads 'Dwamish et al.'. Not edited.",
     "Loss of Port Madison land through allotment and sale is reported in secondary sources; no finding about it was located.",
-    "The Suquamish Tribe's own account of the reservation was not opened in this pass."
+    "The Suquamish Tribe's own account of the reservation was not opened in this pass.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for: Court of Claims names \"suquamish\" (197 Ct. Cl. 775 (1972), no mention of the 1864 enlargement), \"port madison\" (0); ICC full text \"Port Madison\" (Suquamish Docket 132 and Point Elliott dockets on the 1855 cession). Nothing new."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"

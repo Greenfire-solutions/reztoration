@@ -1,0 +1,20 @@
+{
+  "id": "cession-1886-10-01-moki",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "ICC id 2498, Interlocutory Order June 29, 1970: Hopi title to Finding 20 tract as of Dec 16, 1882; extinguished without compensation outside the 1882 EO reservation on Dec 16, 1882; some 1,868,364 acres inside it outside district 6 extinguished June 2, 1937; no title to the balance. Quote exact.",
+    "ICC id 2778, Final Award December 2, 1976, 39 Ind. Cl. Comm. 204: $5,000,000.00 on stipulation after November 11, 1976 hearing; kind litigation right.",
+    "Royce p. 922-923 (archive.org djvu text): the row sits under the 1886 'Oct. 1, Act of Congress, Stat. L. XI, 374' heading carried down from the Pueblo rows; remark text read and matches the file. Moki remark: no treaty of purchase; EO of Dec 16, 1882 reserve.",
+    "sameEventAs cession-1882-12-16-moki-and-others exists and is a primary; kept."
+  ],
+  "changes": [
+    "openQuestions: removed two stale notes (empty presentDayTribes, missing 1882 findings file); added the audit line."
+  ],
+  "unverifiable": [
+    "Whether the Finding 20 tract matches Royce area 682 on a map (already in openQuestions)."
+  ],
+  "treatiesJsonErrors": [
+    "date 1886-10-01 is Royce's carried-down heading, not a date of this taking."
+  ]
+}

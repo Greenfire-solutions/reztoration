@@ -48,7 +48,8 @@
     "The Pueblo Lands Board's report on Tesuque was not read; it could show grant land confirmed to non-Indians with no award. Lead for a deeper pass.",
     "The Pueblo of Tesuque's own account was not located: pueblooftesuque.org loaded with no history text.",
     "The statute link in treaties.json (ops.libs.uga.edu) was not used; the Act was read on govinfo.",
-    "Audit 2026-11-08 (round 14): no-breach-found confirmed. The Act of May 31, 1933 (read on govinfo) is not counted as a breach for any Pueblo grant: it states no findings and names pueblos, not grants, and the Indian Claims Commission held in 1976 that Congress paid full market value for land lost under the 1924 Act (39 Ind. Cl. Comm. 34)."
+    "Audit 2026-11-08 (round 14): no-breach-found confirmed. The Act of May 31, 1933 (read on govinfo) is not counted as a breach for any Pueblo grant: it states no findings and names pueblos, not grants, and the Indian Claims Commission held in 1976 that Congress paid full market value for land lost under the 1924 Act (39 Ind. Cl. Comm. 34).",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for Pueblo, Tesuque, Tesuque grant; no Tesuque Court of Claims case; the one ICC hit is Nambe Docket 358; the ICC aboriginal-title decisions found expressly exclude the confirmed grants (e.g. 30 Ind. Cl. Comm. 234, 1973), so nothing new inside this grant."
   ],
   "id": "cession-1886-10-01-tesuque-pueblo",
   "researchedAt": "2026-11-08",

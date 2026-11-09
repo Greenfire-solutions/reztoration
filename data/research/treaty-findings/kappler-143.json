@@ -18,13 +18,26 @@
     "Article 5: the line south of the Tennessee to be marked by commissioners attended by two Chickasaw, with due notice to the Nation.",
     "Article 7: at the Chickasaw request, no more licences for pedlars in the nation, and goods brought in contrary to it forfeited."
   ],
-  "status": "no-breach-found",
-  "breaches": [],
-  "today": "No court, Indian Claims Commission or government finding of a breach was found. The Chickasaw Nation's Commission dockets (267 to 270) concern later matters such as the Leased District, Choctaw freedmen allotments and Civil War annuities. The 1818 treaty paid Appassan Tubby $500 for his Article 4 reserve and confirmed the Colbert and McCleish reserves to the individuals in fee (kappler-182).",
+  "status": "broken",
+  "breaches": [
+    {
+      "kind": "court-ruling",
+      "date": "1945-01-08",
+      "what": "In a suit under the jurisdictional act of June 7, 1924, the Court of Claims found that $2,000 Congress had appropriated for a treaty obligation of September 20, 1816 was left unexpended, and held the Chickasaw Nation entitled to recover it. It then set the Nation's whole recovery of $22,858.78 off against gratuities and dismissed the petition, so nothing was paid.",
+      "whoFoundIt": "Chickasaw Nation of Indians v. United States, 103 Ct. Cl. 1 (1945); result restated by order of January 7, 1946, 105 Ct. Cl. 225",
+      "source": {
+        "title": "Chickasaw Nation of Indians v. United States, 103 Ct. Cl. 1 (1945)",
+        "url": "https://static.case.law/us-ct-cl/103/cases/0001-01.json",
+        "publisher": "Caselaw Access Project (Harvard Law School Library)"
+      },
+      "quote": "The second claim is for an unexpended balance of $2,000 under a treaty obligation of September 20, 1816"
+    }
+  ],
+  "today": "The Court of Claims found money due under this treaty left unexpended but offset it, with the rest of the Nation's recovery, against gratuities (103 Ct. Cl. 1, 1945; 105 Ct. Cl. 225, 1946). The Chickasaw Nation's Commission dockets (267 to 270) concern later matters such as the Leased District, Choctaw freedmen allotments and Civil War annuities. The 1818 treaty paid Appassan Tubby $500 for his Article 4 reserve and confirmed the Colbert and McCleish reserves to the individuals in fee (kappler-182).",
   "plain": {
     "promised": "The Chickasaw gave up land north of the Tennessee River for $12,000 a year for ten years and $4,500 for improvements, kept four small reserves, and won a ban on licensed pedlars.",
-    "happened": "No court or claims finding that these promises were broken has been located. The Chickasaw Nation says Jackson pressed the cession of close to six million acres.",
-    "today": "No claim or finding about this treaty has been located. The Chickasaw Nation tells this history on its own site."
+    "happened": "The Court of Claims found in 1945 that $2,000 Congress set aside for a treaty obligation of this date was left unexpended, and held the Chickasaw Nation entitled to it. The Nation also says Jackson pressed the cession.",
+    "today": "Nothing was paid: the court set the Nation's whole award against gratuities the government had spent for it. The Chickasaw Nation tells this history on its own site."
   },
   "nationVoice": [
     {
@@ -53,13 +66,25 @@
       "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), areas 80 and 81",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/682/mode/2up",
       "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Chickasaw Nation of Indians v. United States, 103 Ct. Cl. 1 (1945)",
+      "url": "https://static.case.law/us-ct-cl/103/cases/0001-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School Library)"
+    },
+    {
+      "title": "Chickasaw Nation of Indians v. United States, 105 Ct. Cl. 225 (order of January 7, 1946)",
+      "url": "https://static.case.law/us-ct-cl/105/cases/0225-01.json",
+      "publisher": "Caselaw Access Project (Harvard Law School Library)"
     }
   ],
   "openQuestions": [
     "Whether the Article 3 annuities and the Article 7 pedlar ban were carried out was not researched in agency records.",
     "treaties.json lists Royce area 81 for both this treaty and the 1818 treaty (kappler-182); which treaty ceded which part was not checked against Royce. Not edited.",
-    "The Chickasaw Nation's acreage (close to six million acres) is its own figure and was not checked against Royce."
+    "The Chickasaw Nation's acreage (close to six million acres) is its own figure and was not checked against Royce.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for Chickasaw (Court of Claims index, every case 1884 to 1946 grepped for 1816 and 1818) and 'Chickasaw Council House', 'Chickasaw September 20, 1816' (ICC). Found the Court of Claims ruling of January 8, 1945 (103 Ct. Cl. 1, No. K-544) on an unexpended $2,000 under this treaty, now recorded as a breach. The 1945 opinion does not say which article the $2,000 came from, and case.law does not print the special findings (Finding No. 5) that would say; this treaty's Article 3 sums are $12,000 a year and $4,500. The Supreme Court decision of November 5, 1945 that sent the case back on which gratuities were used was not opened; it is described here only from the Court of Claims order of January 7, 1946."
   ],
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "compensation": "Nothing was paid. The Court of Claims held, in 1945 and again in its order of January 7, 1946 after the Supreme Court sent the case back on which gratuities were used, that the Chickasaw Nation was entitled to recover $22,858.78 on its claims, including $2,000 under this treaty, and that the United States could set off a like sum of gratuities spent for the Nation, so the petition was dismissed."
 }

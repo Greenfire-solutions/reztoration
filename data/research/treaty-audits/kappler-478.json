@@ -1,0 +1,24 @@
+{
+  "id": "kappler-478",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Treaty text, treaties.okstate.edu: Sept 20, 1836, 7 Stat. 513, proclaimed Feb 18, 1837; Arts. 1-4 match promises.",
+    "Royce schedule (djvu): Stat. L. VII, 513, 'Potawatomi, bands of To-i-sa's brother Me-mat-way and Che-quaw-ka-ko', 10 sections from the Oct 27, 1832 treaty; Masac's band is VII, 514.",
+    "ICC id 1335, 27 Ind. Cl. Comm. 187: dissent note 2 lists the thirteen village treaties including Sept 20, 22 and 23, 1836 (7 Stat. 513-515).",
+    "ICC full text and ctcl-index potawatomi: no award on this cession."
+  ],
+  "changes": [
+    "name: comma added between To-i-sa's brother and Me-mat-way (separate signatories).",
+    "today: dissent attributed to Chairman Kuykendall; majority's position stated as the dissent describes it.",
+    "dissent source citation corrected to 27 Ind. Cl. Comm. 187, note 2 at p. 330."
+  ],
+  "unverifiable": [
+    "The 1972 majority opinion (pp. 233, 247-248) was not read; its position is taken from the dissent.",
+    "Whether the $8,000 was paid was not traced."
+  ],
+  "treatiesJsonErrors": [
+    "name says \"Potawatomi, Masac's band\"; this is the Sept 20, 1836 treaty with the bands of To-i-sa's brother, Me-mat-way and Che-quaw-ka-ko (Masac is kappler-479, 7 Stat. 514).",
+    "presentDayTribes empty."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cession-1827-11-15-creek",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Treaty text, $27,491 and $15,000, Nov. 15, 1827, 7 Stat. 307, proclamation Mar. 4, 1828 against Kappler (OSU)",
+    "Royce p. 720 entry (area 141) matches the treaty",
+    "ICC full text: Creek Royce 141, Creek 7 Stat 307, Creek Little Prince, Creek November 15 1827: no decision on this cession",
+    "Full text of all 38 Court of Claims Creek cases searched for 1827, chartered limits, McKenney, Little Prince, $27,491: none concerns this cession"
+  ],
+  "changes": [
+    "openQuestions: audit line on the Court of Claims full-text search; stale \"not each read\" wording replaced"
+  ],
+  "unverifiable": [
+    "Whether the $27,491 and $15,000 were paid was not traced"
+  ],
+  "treatiesJsonErrors": [
+    "kappler is null though the treaty is Kappler p. 284 (OSU treaty-with-the-creeks-1827-0284)",
+    "treaties.json: presentDayTribes is empty for this record."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cession-1875-05-15-paiute-shoshone-snake",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Docket 17 second interlocutory order (OSU 32): January 1879 deprivation without compensation, $579,722.00 less offsets, April 15, 1959",
+    "Royce p. 880 boundary text of the addition matches",
+    "sameEventAs cession-1872-09-12-paiute-shoshone-snake kept"
+  ],
+  "changes": [
+    "Name corrected from 'Royce areas 638 and 646' to 'Royce area 646' to match treaties.json's mapping for this row (638 belongs to the 1872 record)"
+  ],
+  "unverifiable": [
+    "Finding 3's boundary (January 28, 1876 reservation) not reread in this pass",
+    "treaties.json error: presentDayTribes is empty for this record (not edited)."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes is empty for this record"
+  ]
+}

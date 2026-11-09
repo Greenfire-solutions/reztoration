@@ -1,0 +1,23 @@
+{
+  "id": "kappler-53",
+  "auditedAt": "2026-11-08",
+  "verdict": "corrected",
+  "checked": [
+    "Canadian St. Regis Band v. New York, 2022 WL 768669 (N.D.N.Y. filed March 14, 2022), full text on nill.narf.org: 1796 Treaty gives recognized title; land transactions of June 12, 1824 (1,000 acres), Dec 14, 1824 and Sept 23, 1825 not ratified; St. Regis Mohawks and United States established prima facie NIA cases; Akwesasne and Longhouse established elements 2 and 3 only; counterclaims dismissed and defenses struck as listed in the Conclusion. Quote exact.",
+    "Court records Senate ratification January 16, 1797.",
+    "Treaty text, treaties.okstate.edu: May 31, 1796, 7 Stat. 55, proclaimed Jan 31, 1797; six-mile-square St. Regis reserve proviso; mills and meadows; Chazy River payments.",
+    "H.R. 2916 status: passed House Dec 9, 2025; enactment not confirmed by search on 2026-11-08."
+  ],
+  "changes": [
+    "ratified 1797-01-16 added from the court's recital.",
+    "breach 'what': ratification defense struck only against the United States' complaint; 'never ratified' restated as 'the United States never consented', as the court held.",
+    "openQuestions: removed the 'read through a summary' and Westlaw-copy notes; added partial-summary-judgment and laches notes and the audit line."
+  ],
+  "unverifiable": [
+    "The settlement agreement and any post-2022 rulings were not opened.",
+    "Westlaw itself not opened (paywall); the NILL copy reproduces the slip opinion."
+  ],
+  "treatiesJsonErrors": [
+    "presentDayTribes empty; should name the Saint Regis Mohawk Tribe."
+  ]
+}

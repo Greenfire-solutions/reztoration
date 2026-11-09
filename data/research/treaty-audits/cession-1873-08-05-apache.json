@@ -1,0 +1,20 @@
+{
+  "id": "cession-1873-08-05-apache",
+  "auditedAt": "2026-11-08",
+  "verdict": "confirmed",
+  "checked": [
+    "Docket 22-D interlocutory order (id 932) conclusion 5 names the Aug. 5, 1873 order; quote exact",
+    "Opinion (id 1611): wrongful taking by successive diminishing orders",
+    "Final award (id 1055): $4,900,000, Sept. 12, 1972, on stipulation (kind litigation correct)",
+    "Royce p. 864: east of and above old Camp Goodwin, area 546"
+  ],
+  "changes": [
+    "openQuestions: audit line"
+  ],
+  "unverifiable": [
+    "Acreage of area 546 never determined by the Commission"
+  ],
+  "treatiesJsonErrors": [
+    "treaties.json: presentDayTribes is empty for this record."
+  ]
+}

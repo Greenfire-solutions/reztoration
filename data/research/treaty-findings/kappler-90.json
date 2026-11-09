@@ -1,12 +1,16 @@
 {
   "id": "kappler-90",
   "name": "Treaty with the Cherokee, 1805 (Treaty of Tellico, October 25)",
-  "aka": ["Third Treaty of Tellico"],
+  "aka": [
+    "Third Treaty of Tellico"
+  ],
   "signed": "1805-10-25",
   "proclaimed": "1806-04-24",
   "citation": "7 Stat. 93",
   "textUrl": "https://treaties.okstate.edu/treaties/treaty-with-the-cherokee-1805-0082",
-  "nations": ["Cherokee Nation"],
+  "nations": [
+    "Cherokee Nation"
+  ],
   "promises": [
     "Article 1: all former treaties for keeping the peace and preventing crimes recognized and continued in force.",
     "Article 2: a small tract at and below the mouth of Clinch river, the ferry landing on the Clinch, a square mile at the foot of Cumberland mountain and a square mile where Talootiske lived kept for the Cherokee, and the islands in the Tennessee left to them.",
@@ -52,7 +56,8 @@
     "A separate Cherokee treaty was made at Tellico two days later, on October 27, 1805 (Royce cites Stat. L. VII, 95); it is not this entry and was not researched here.",
     "Which of the Eastern Band's Dockets 282-A to 282-L covered this treaty, and whether the Cherokee Nation (Oklahoma) brought its own claim on it, was not established. The Cherokee Nation's Dockets 271 and 297 were dismissed at its own request in 1969; their subject was not identified.",
     "Whether the annuity and the $11,000 were paid was not researched; the 1895 Interior accounting of money due the Cherokee Nation (House Ex. Doc. 182, 53rd Cong., 3rd sess.) is a lead.",
-    "Historians describe private payments to chiefs alongside the Tellico treaties of 1805; no formal finding on them was opened."
+    "Historians describe private payments to chiefs alongside the Tellico treaties of 1805; no formal finding on them was opened.",
+    "2026-11-08 sweep: Court of Claims and ICC full text searched for cherokee, Tellico, October 25 1805 and 7 Stat. 93; no ICC decision names it, and the Cherokee Court of Claims opinions opened (including 102 Ct. Cl. 720, 1945, on the 1794 and 1798 annuities) do not concern it. Nothing new."
   ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher"
