@@ -33,7 +33,13 @@
   "landTaken": "549,559 acres (Docket 175-B; 176 Ct. Cl. 815).",
   "compensation": "$1,634,664 under the agreement. The Commission's final award of November 1, 1972 was $1,387,911, without interest after the Court of Claims reversed the interest award in 1971.",
   "today": "Not researched past the 1972 award.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Nez Perce Tribe",
+      "summary": "The Tribe says that after the government forced a second treaty in 1863 that cut the reservation to about 750,000 acres, it imposed allotment, which the 1893 Agreement reflected, opening the remaining reservation land to non-Indian settlement and leaving a checkerboard of Indian allotments and non-Indian parcels.",
+      "url": "https://nezperce.org/about/history/"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 948-949",
@@ -74,6 +80,11 @@
       "title": "Nez Perce Tribe v. United States, Docket 175-B, Final Award (November 1, 1972)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1735",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "History",
+      "url": "https://nezperce.org/about/history/",
+      "publisher": "Nez Perce Tribe"
     }
   ],
   "openQuestions": [

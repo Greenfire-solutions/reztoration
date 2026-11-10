@@ -33,7 +33,13 @@
   "landTaken": "The Court of Claims found 201,110 acres ceded (224 Ct. Cl. 62); the Supreme Court gave the surplus as approximately 168,000 acres of unallotted land (522 U.S. 329).",
   "compensation": "$600,000 under the agreement. The Court of Claims awarded a further $717,614.14 for the land, after offsetting $19,767.36 from Docket 332-C, and $3,001.75 for fund mismanagement, $720,615.89 in all (1980).",
   "today": "In South Dakota v. Yankton Sioux Tribe (1998) the Supreme Court held that the 1894 Act diminished the reservation, so the ceded lands are no longer Indian country. That ruling went against the tribe.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Ihanktonwan Dakota Oyate (Yankton Sioux Tribe)",
+      "summary": "In its 2011 conditional cross-petition to the Supreme Court, the Tribe says that after the United States allotted over three-fifths of its 430,405-acre 1858 reservation it agreed in 1894 to sell the roughly 168,000 unallotted acres for $600,000, that the negotiators asked only for the surplus lands and told the Yanktons to keep their homes forever, and that Congress therefore did not diminish the reservation beyond the land ceded.",
+      "url": "https://turtletalk.blog/wp-content/uploads/2011/03/yankton-cross-petition.pdf"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 946-947",
@@ -64,6 +70,11 @@
       "title": "South Dakota v. Yankton Sioux Tribe, 522 U.S. 329 (1998)",
       "url": "https://static.case.law/us/522/cases/0329-01.json",
       "publisher": "Caselaw Access Project, Harvard Law School Library"
+    },
+    {
+      "title": "Yankton Sioux Tribe v. Daugaard, No. 10-1058, Conditional Cross-Petition for a Writ of Certiorari (February 22, 2011)",
+      "url": "https://turtletalk.blog/wp-content/uploads/2011/03/yankton-cross-petition.pdf",
+      "publisher": "Yankton Sioux Tribe (filed with the Supreme Court of the United States)"
     }
   ],
   "openQuestions": [

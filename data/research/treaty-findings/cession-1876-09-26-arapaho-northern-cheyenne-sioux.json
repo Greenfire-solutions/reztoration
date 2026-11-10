@@ -65,6 +65,11 @@
       "nation": "Oglala Sioux Tribe",
       "summary": "Its president said in 2023 that the Black Hills are not for sale.",
       "url": "https://www.csmonitor.com/USA/Society/2023/0628/When-1-billion-isn-t-enough.-Why-the-Sioux-won-t-put-a-price-on-land"
+    },
+    {
+      "nation": "Standing Rock Sioux Tribe",
+      "summary": "The Tribe says the 1868 Fort Laramie Treaty made all of present-day South Dakota west of the Missouri River the Great Sioux Reservation and required the approval of three-fourths of adult males for any cession, and that Congress unilaterally passed the Act of February 28, 1877, removing the Black Hills from the reservation.",
+      "url": "https://www.standingrock.org/about/"
     }
   ],
   "sources": [
@@ -82,6 +87,11 @@
       "title": "When $1 billion isn't enough. Why the Sioux won't put a price on land.",
       "url": "https://www.csmonitor.com/USA/Society/2023/0628/When-1-billion-isn-t-enough.-Why-the-Sioux-won-t-put-a-price-on-land",
       "publisher": "Christian Science Monitor"
+    },
+    {
+      "title": "About",
+      "url": "https://www.standingrock.org/about/",
+      "publisher": "Standing Rock Sioux Tribe"
     }
   ],
   "openQuestions": [

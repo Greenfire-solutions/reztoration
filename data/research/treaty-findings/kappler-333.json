@@ -35,7 +35,13 @@
     }
   ],
   "today": "By the treaty of December 29, 1832 (7 Stat. 411) the united Senecas and Shawnees gave up the land granted to them west of the Neosho (Grand) river and received a tract east of it. The Commission's 1975 final award in Dockets 341-A and 341-B closed the claims under this treaty; Dockets 341-A to D were transferred to the Court of Claims on September 29, 1978 with only an attorney's expense application pending.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Seneca-Cayuga Nation",
+      "summary": "The history the Nation publishes says the Seneca of Sandusky gave up their Ohio lands, 40,000 acres in present Sandusky and Seneca counties, by the 1831 treaty for 67,000 acres in Indian Territory, and that the removal, slowed by late government supplies, took about eight months of long delays and great suffering before they reached the Cowskin River on July 4, 1832.",
+      "url": "https://sctribe.com/node/150"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Seneca, 1831 (Kappler, vol. 2, p. 325)",
@@ -81,6 +87,11 @@
       "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 686",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/686/mode/2up",
       "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Seneca-Cayuga history",
+      "url": "https://sctribe.com/node/150",
+      "publisher": "Seneca-Cayuga Nation"
     }
   ],
   "openQuestions": [

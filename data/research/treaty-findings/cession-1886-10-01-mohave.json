@@ -42,7 +42,18 @@
   ],
   "compensation": "A final award of $428,358.07 after $171,641.93 in offsets (December 29, 1971), then $468,358.07 on the parties' stipulation (September 26, 1973).",
   "today": "This record maps the Mohave country in Arizona (Royce 684). The Commission dated the taking of the Arizona and Nevada land to the Act of March 3, 1865, already carried by cession-1865-03-03-colorado-river, so it is marked as the same event.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Colorado River Indian Tribes",
+      "summary": "The Tribes say the federal government created the CRIT Reservation in 1865 for the Indians of the Colorado River and its tributaries, originally for the Mohave and Chemehuevi who had lived in the area for centuries, and that Hopi and Navajo people were relocated there in later years.",
+      "url": "https://crit-nsn.gov/crit_contents/about/"
+    },
+    {
+      "nation": "Fort Mojave Indian Tribe (Pipa Aha Macav)",
+      "summary": "The Tribe says that as more and more non-Indian people came into the region the Pipa Aha Macav traditionally occupied, the United States set up a military outpost on the Colorado River in 1859, later Fort Mojave, whose ruins remain a reminder of a once-troubled relationship, and that its reservation today covers nearly 42,000 acres in Arizona, California and Nevada.",
+      "url": "https://www.fortmojaveindiantribe.com/about-us/"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 922-923, area 684",
@@ -63,6 +74,16 @@
       "title": "Mohave Tribe v. United States, Docket 283, Final Award on compromise settlement (September 26, 1973), 31 Ind. Cl. Comm. 425",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2245",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "About the Mohave, Chemehuevi, Hopi and Navajo Tribes",
+      "url": "https://crit-nsn.gov/crit_contents/about/",
+      "publisher": "Colorado River Indian Tribes"
+    },
+    {
+      "title": "About Us: The People by the River",
+      "url": "https://www.fortmojaveindiantribe.com/about-us/",
+      "publisher": "Fort Mojave Indian Tribe"
     }
   ],
   "openQuestions": [

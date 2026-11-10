@@ -45,7 +45,13 @@
   "landTaken": "The Supreme Court describes a 25,000-acre tract of boundary lands as the disputed part of the cession (530 U.S. 392).",
   "compensation": "The 1983 settlement of Docket 320 paid the tribe $15 million for the claims in that docket (530 U.S. 392).",
   "today": "In Arizona v. California (2000) the Supreme Court held that neither its 1963 decision nor the 1983 consent judgment barred the Quechan and the United States from claiming water rights for the disputed boundary lands, and recorded that both continue to recognize the tribe's entitlement to those lands.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Quechan Indian Tribe",
+      "summary": "In its 1999 filing to the Supreme Court the Tribe says the 1893 Agreement ceded about 25,000 acres only on conditions, including a canal, allotments, land sales and free water, that were never performed, so its relinquishment of the non-irrigated lands never took effect, as the Interior Solicitor concluded in 1978.",
+      "url": "https://www.supremecourt.gov/pdfs/recordsandbriefs/1000173769/1000173769_004.pdf"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 948-949",
@@ -66,6 +72,11 @@
       "title": "Arizona v. California, 530 U.S. 392 (2000)",
       "url": "https://static.case.law/us/530/cases/0392-01.json",
       "publisher": "Caselaw Access Project, Harvard Law School Library"
+    },
+    {
+      "title": "Exception of the Quechan Indian Tribe to the Report and Recommendation of the Special Master and Supporting Memorandum, Arizona v. California, No. 8, Original (December 20, 1999)",
+      "url": "https://www.supremecourt.gov/pdfs/recordsandbriefs/1000173769/1000173769_004.pdf",
+      "publisher": "Supreme Court of the United States (filed by the Quechan Indian Tribe)"
     }
   ],
   "openQuestions": [

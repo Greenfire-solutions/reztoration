@@ -53,7 +53,13 @@
   "landTaken": "The 1892 Act took the north half of the reservation, stated in the Act as about 1,500,000 acres. The petitioners' Docket 181-B claim, as summarized by the Commission in 1967, states the reservation as established in July 1872 comprised about 2,900,000 acres.",
   "compensation": "For the aboriginal lands outside the reservation the Commission set liability in 1959 at $111,000 for the Colville, $436,000 for the Sanpoil-Nespelem, $237,000 for the Okanogan and $152,000 for the Methow, with a further sum for the Lake; the final judgment of March 1, 1960 totalled $1,000,000 after offsets. For the north half, the Act of June 21, 1906 set aside $1,500,000, appropriated in five instalments of $300,000. The reservation claims were settled for $3,500,000 in 1967.",
   "today": "Not researched past the 1967 settlement.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of the Colville Reservation",
+      "summary": "The Tribes' 2023 history records the order of July 2, 1872 as reducing the size of the reservation set up that April for the tribes and bands who were not parties to any treaty.",
+      "url": "https://static1.squarespace.com/static/56a2a6f01c1210a5d5988772/t/652db04c1740c55f15f176b0/1697493089077/ColvilleTribalHistoryWeb2023.pdf"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 858",
@@ -99,6 +105,11 @@
       "title": "Confederated Tribes of the Colville Reservation et al. v. United States, Final Judgment in Dockets 181-A and 181-B (September 7, 1967)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2050",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Through History: The Confederated Tribes of the Colville Reservation (2023)",
+      "url": "https://static1.squarespace.com/static/56a2a6f01c1210a5d5988772/t/652db04c1740c55f15f176b0/1697493089077/ColvilleTribalHistoryWeb2023.pdf",
+      "publisher": "Confederated Tribes of the Colville Reservation, Employment and Education Division, Youth Development Program"
     }
   ],
   "openQuestions": [

@@ -42,7 +42,13 @@
   ],
   "compensation": "The agreement promised $95,000 (27 Stat. 139). The 1967 compromise of $6,700,000 covered this cession claim and the accounting claim together.",
   "today": "Not researched past the 1967 settlement.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Spokane Tribe of Indians",
+      "summary": "The Tribe's Preservation Program says President Hayes created the reservation by executive order in 1881 at 157,376 acres, a fraction of the roughly 3 million acres its ancestors occupied, and that the Spokane people have persevered through loss of land, forced relocation and the loss of the salmon to dams on the Spokane and Columbia rivers.",
+      "url": "https://spokanetribe.com/resources/preservation/history/"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 944-945",
@@ -68,6 +74,11 @@
       "title": "Spokane Tribe v. United States, Dockets 331 and 331-A, Findings of Fact on Compromise Settlement (17 Ind. Cl. Comm. 584, February 21, 1967)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2327",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "History, Spokane Tribe of Indians Preservation Program",
+      "url": "https://spokanetribe.com/resources/preservation/history/",
+      "publisher": "Spokane Tribe of Indians, Department of Natural Resources"
     }
   ],
   "openQuestions": [

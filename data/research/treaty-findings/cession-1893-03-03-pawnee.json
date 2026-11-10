@@ -44,7 +44,13 @@
   "landTaken": "The Court of Claims, as summarized by the Commission, found 171,088.37 acres of surplus land after allotment, of which 755 acres were reserved for school and agency use (ICC Docket 10, finding 160).",
   "compensation": "Under the agreement $1.25 an acre was due on the surplus. In 1920 the Court of Claims (56 Ct. Cl. 1) found the $132,916.71 balance for 170,333.37 acres, and the 5 percent interest from March 3, 1893, still unpaid. The Docket 10 final award of July 6, 1962 included $155.00 for Claim VI and $31.90 with interest for Claim VII.",
   "today": "Not researched past the 1962 final award.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Pawnee Nation of Oklahoma",
+      "summary": "The Nation says the lands it bought in what is now Oklahoma were later taken through coercion and allotted to tribal citizens, with the unallotted lands given away to non-Indian settlers in 1893.",
+      "url": "https://pawneenation.org/pawnee-history/"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 946-947",
@@ -75,6 +81,11 @@
       "title": "Pawnee Tribe of Indians v. United States, 56 Ct. Cl. 1 (December 6, 1920)",
       "url": "https://static.case.law/us-ct-cl/56/cases/0001-01.json",
       "publisher": "Caselaw Access Project, Harvard Law School Library"
+    },
+    {
+      "title": "Culture: Pawnee History",
+      "url": "https://pawneenation.org/pawnee-history/",
+      "publisher": "Pawnee Nation of Oklahoma"
     }
   ],
   "openQuestions": [

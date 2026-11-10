@@ -31,7 +31,18 @@
   "landTaken": "The north half of the reservation, Royce area 717; the Act described it as about 1,500,000 acres (see cession-1872-07-02-methow-okanagan).",
   "compensation": "The Act of June 21, 1906 authorized $1,500,000, paid in five appropriations of $300,000 from 1907 to 1911 (Antoine v. Washington). Reservation claims, including the north half, were settled in Indian Claims Commission Dockets 181-A and 181-B for $3,500,000 in 1967 (see the primary record).",
   "today": "In Antoine v. Washington (1975) the Supreme Court held that Congress, by ratifying the 1891 agreement, preserved the tribes' Article 6 hunting and fishing rights on the ceded north half against state regulation.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of the Colville Reservation",
+      "summary": "The Tribes' 2023 history records that in 1892 the north half of the reservation was put into the public domain after individual Indians were allotted land, sold to the United States for $1.5 million with hunting and fishing rights retained.",
+      "url": "https://static1.squarespace.com/static/56a2a6f01c1210a5d5988772/t/652db04c1740c55f15f176b0/1697493089077/ColvilleTribalHistoryWeb2023.pdf"
+    },
+    {
+      "nation": "Confederated Tribes of the Colville Reservation",
+      "summary": "The Tribes' Fish and Wildlife Department says the Act of July 1, 1892 restored the North Half of the reservation, about 1,500,000 acres, to the public domain.",
+      "url": "https://cctfnw.squarespace.com/ct-fish-history"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 944-945",
@@ -52,6 +63,16 @@
       "title": "Confederated Tribes of the Colville Reservation v. United States, Docket 181-C, Order Granting Partial Summary Judgment and Conclusions of Law (36 Ind. Cl. Comm. 183, June 13, 1975)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2665",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Through History: The Confederated Tribes of the Colville Reservation (2023)",
+      "url": "https://static1.squarespace.com/static/56a2a6f01c1210a5d5988772/t/652db04c1740c55f15f176b0/1697493089077/ColvilleTribalHistoryWeb2023.pdf",
+      "publisher": "Confederated Tribes of the Colville Reservation, Employment and Education Division, Youth Development Program"
+    },
+    {
+      "title": "History of the Confederated Tribes of the Colville Reservation",
+      "url": "https://cctfnw.squarespace.com/ct-fish-history",
+      "publisher": "Confederated Tribes of the Colville Reservation, Fish and Wildlife Department"
     }
   ],
   "openQuestions": [

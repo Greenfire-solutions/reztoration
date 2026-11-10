@@ -32,7 +32,13 @@
   "landTaken": "Nearly 9,880 acres of the San Lucy District (Gila Bend Reservation) flooded by the Painted Rock Dam (Interior testimony, 2011). The reservation was also reduced by an executive order of June 17, 1909 (Docket 345, finding 4); that reduction is not a breach by itself.",
   "compensation": "Under the Gila Bend Indian Reservation Lands Replacement Act of October 20, 1986, the United States would pay the Tohono O'odham Nation $30,000,000 if it assigned its interest in 9,880 acres of the reservation and waived all claims of injury to the reservation's land and water; the Nation may buy replacement land to be held in trust (Public Law 99-503, sections 4, 6 and 9).",
   "today": "Interior described the 1986 Act as intended to remedy the flooding damage and as terms both the United States and the Nation agreed to (testimony, 2011). In the Papago land claim (Docket 345) the Papago Tribe excluded the Gila Bend Reservation, as reduced by the order of June 17, 1909, from its surface claim (finding 4), and the Indian Claims Commission found no evidence of exclusive Papago aboriginal use of the river area at Gila Bend (opinion, 1968).",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Tohono O'odham Nation",
+      "summary": "In Resolution 22-038 the Nation's Legislative Council says the Gila Bend Indian Reservation in its San Lucy District once held 10,297 acres, that in 1964 the United States took a court-ordered flowage easement to flood 7,723.82 acres of it for the Painted Rock Dam and San Lucy people were moved to the 40-acre San Lucy Village, and that flooding in the late 1970s and early 1980s destroyed a 750-acre farm built at tribal expense.",
+      "url": "https://tolc-nsn.org/docs/Actions22/22038.pdf"
+    }
+  ],
   "sources": [
     {
       "title": "Chester A. Arthur, Executive Order: Establishment of Gila Bend Reserve, December 12, 1882 (from Kappler, Indian Affairs: Laws and Treaties, vol. 1, p. 804)",
@@ -68,6 +74,11 @@
       "title": "Papago Tribe of Arizona v. United States, Docket 345, Opinion of the Commission (September 10, 1968), 19 Ind. Cl. Comm. 394",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2544",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Resolution No. 22-038 of the Tohono O'odham Legislative Council (Requesting the Secretary of the Interior take into Trust Approximately 3,761.41 Acres of Land)",
+      "url": "https://tolc-nsn.org/docs/Actions22/22038.pdf",
+      "publisher": "Tohono O'odham Legislative Council"
     }
   ],
   "openQuestions": [

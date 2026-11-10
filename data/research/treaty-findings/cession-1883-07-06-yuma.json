@@ -32,7 +32,13 @@
   "landTaken": "Not stated for this reserve. The Commission's Finding 21 describes the Quechan aboriginal tract on both sides of the Colorado.",
   "compensation": "See cession-1884-01-09-yuma: the Docket 319 claim was compromised on value, not tried.",
   "today": "This is the same taking (January 9, 1884) recorded under cession-1884-01-09-yuma, which also maps this reserve (area 648); it is counted once.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Quechan Indian Tribe",
+      "summary": "In its 1999 filing to the Supreme Court the Tribe says its people refused to move to the Colorado River Reservation of 1865 because it was remote from their aboriginal lands, and that as settlement grew the United States finally set up the Fort Yuma Reservation for the Quechan at its present site on January 9, 1884.",
+      "url": "https://www.supremecourt.gov/pdfs/recordsandbriefs/1000173769/1000173769_004.pdf"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 912, executive order of July 6, 1883",
@@ -58,6 +64,11 @@
       "title": "Quechan Tribe of the Fort Yuma Reservation v. United States, Docket 319, Opinion of the Commission (September 30, 1959)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/552",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Exception of the Quechan Indian Tribe to the Report and Recommendation of the Special Master and Supporting Memorandum, Arizona v. California, No. 8, Original (December 20, 1999)",
+      "url": "https://www.supremecourt.gov/pdfs/recordsandbriefs/1000173769/1000173769_004.pdf",
+      "publisher": "Supreme Court of the United States (filed by the Quechan Indian Tribe)"
     }
   ],
   "openQuestions": [

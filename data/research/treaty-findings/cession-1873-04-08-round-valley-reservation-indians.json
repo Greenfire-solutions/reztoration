@@ -29,7 +29,13 @@
   ],
   "compensation": "No payment to the Round Valley peoples for the occupied land was found. The 1885 report gives a witness estimate of the value of the white occupancy at $34,125 a year; that is an estimate in testimony, not an award.",
   "today": "This order is a step in carrying out the Act of March 3, 1873; the boundaries were proclaimed on May 18, 1875. The full record of that reservation, including the Ninth Circuit ruling in Russ v. Wilkins (1980) and the 1947 restoration of about 7,531 acres, is on the findings for the Act of March 3, 1873.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Round Valley Indian Tribes",
+      "summary": "The Tribes say the Round Valley reservation began in 1856 as the Nome Cult Farm, that the Yuki had to share a small reserved part of their homeland with other peoples, and that the Wailacki, Concow, Little Lake Pomo, Nomlacki and Pit River people were brought there by force in drives in which the elderly and sick often did not survive.",
+      "url": "https://www.rvit.org/about/about-us"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 862-863",
@@ -40,6 +46,11 @@
       "title": "Senate Report No. 1522, 48th Congress, 2d Session, Condition of Certain Indians in California (Mr. Dawes, Committee on Indian Affairs, February 27, 1885)",
       "url": "https://shareok.org/items/ebd3a0c8-69dd-4264-925c-fb11e38f5188",
       "publisher": "University of Oklahoma Libraries, SHAREOK (American Indian and Alaska Native Documents in the Congressional Serial Set)"
+    },
+    {
+      "title": "About Us: History of the Round Valley Indian Tribes",
+      "url": "https://www.rvit.org/about/about-us",
+      "publisher": "Round Valley Indian Tribes"
     }
   ],
   "openQuestions": [

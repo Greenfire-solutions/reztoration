@@ -30,7 +30,13 @@
   "landTaken": "Royce shows as this area (532) the former country of these tribes not within the reservations of April 9 and July 2, 1872. The Commission found the petitioner tribes' non-reservation lands taken as of July 2, 1872.",
   "compensation": "Of the Docket 181 tracts, the Sanpoil-Nespelem tract (south of the Columbia), the Okanogan tract and the Methow tract (west of the Okanogan River) lie in this area; the Colville and Lakes tracts lie east of the Columbia, inside the April 9, 1872 tract (Royce area 533). The Commission's second interlocutory order of March 5, 1959 awarded the Sanpoil-Nespelem Tribe $436,000.00, the Okanogan Tribe $237,000.00 and the Methow Tribe $152,000.00, less offsets. The final judgment of March 1, 1960 allowed $61,000.00 in offsets across all five awards (the Methow offset was $6,700.00) and states a total net recovery of $1,000,000.00.",
   "today": "The Commission's award covers the six Colville tribes only; Royce's area also names the Kootenay, Pend d'Oreille and North Spokane, whose claims were not traced here.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of the Colville Reservation",
+      "summary": "The Tribes' 2023 history for educators records that a Presidential Executive Order of April 1872 set up the Colville Reservation for the tribes and bands who were not parties to any treaty, and that an order of July 2, 1872 reduced the reservation's size.",
+      "url": "https://static1.squarespace.com/static/56a2a6f01c1210a5d5988772/t/652db04c1740c55f15f176b0/1697493089077/ColvilleTribalHistoryWeb2023.pdf"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 856",
@@ -66,6 +72,11 @@
       "title": "Confederated Tribes of the Colville Reservation et al. v. United States, Docket 181, Final Judgment (March 1, 1960)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/568",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Through History: The Confederated Tribes of the Colville Reservation (2023)",
+      "url": "https://static1.squarespace.com/static/56a2a6f01c1210a5d5988772/t/652db04c1740c55f15f176b0/1697493089077/ColvilleTribalHistoryWeb2023.pdf",
+      "publisher": "Confederated Tribes of the Colville Reservation, Employment and Education Division, Youth Development Program"
     }
   ],
   "openQuestions": [

@@ -44,7 +44,13 @@
   "landTaken": "About 10,000 acres on the west side of Sandia Mountain, between the foothill line of the 1859 survey and the crest, by the Solicitor's 2001 account; Senate Report 107-321 gives the settlement area as about 9,980 acres in S. 2018 and 9,890 acres in the CBO estimate.",
   "compensation": "The Act of May 31, 1933 (48 Stat. 108) authorized $12,980.62 for the Pueblo of Sandia, in addition to the Pueblo Lands Board's awards, for land and water rights divested inside the grant under the Pueblo Lands Act of 1924, and $5,354.46 for non-Indian claimants within the pueblo. These are payments, not findings of a breach. For the mountain land, nothing was paid: the 2003 Act gave the Pueblo rights in the T'uf Shur Bien Preservation Trust Area in place of title.",
   "today": "Congress settled the mountain claim in the T'uf Shur Bien Preservation Trust Area Act (Pub. L. 108-7, February 20, 2003; 16 U.S.C. 539m and following). It created a trust area of about 9,890 acres that stays national forest and wilderness, gave the Pueblo rights including access for traditional uses and consent over new uses, and extinguished the Pueblo's claims to the land. The Act says it does not modify the existing boundary of the Pueblo grant.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Pueblo of Sandia",
+      "summary": "In 2014 House testimony, Governor Stuart Paisano said the 2003 Settlement Act was passed to resolve the Pueblo's longstanding claim to ownership of the west face of Sandia Mountain, a claim backed by a favorable federal district court decision and an Interior Solicitor's opinion, that the settlement involved significant concessions by the Pueblo, and that the land exchange it promised was still not done almost eleven years later.",
+      "url": "https://naturalresources.house.gov/UploadedFiles/PasianoTestimony2-5-14.pdf"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 922-923",
@@ -70,6 +76,11 @@
       "title": "Act of May 31, 1933, ch. 45, 48 Stat. 108 (payments to Indian pueblos under the Pueblo Lands Act)",
       "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg108.pdf",
       "publisher": "US Government Publishing Office, govinfo"
+    },
+    {
+      "title": "Statement of Pueblo of Sandia Governor Stuart Paisano on H.R. 3605, Sandia Pueblo Settlement Technical Amendment Act (February 5, 2014)",
+      "url": "https://naturalresources.house.gov/UploadedFiles/PasianoTestimony2-5-14.pdf",
+      "publisher": "House Committee on Natural Resources"
     }
   ],
   "openQuestions": [

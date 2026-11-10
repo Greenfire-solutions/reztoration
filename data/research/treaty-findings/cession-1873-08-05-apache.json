@@ -56,7 +56,13 @@
   "landTaken": "Royce area 546: the part of the San Carlos division east of and above the site of old Camp Goodwin. The Commission did not reach the acreage because the claim was settled.",
   "compensation": "None at the time. The Western Apache claim (Docket 22-D) was compromised for $4,900,000 in 1972, for all the Western Apache lands taken.",
   "today": "The Fort Apache (White Mountain) and San Carlos reservations remain.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "White Mountain Apache Tribe",
+      "summary": "In 2009 House testimony, Tribal Chairman Ronnie Lupe said the Fort Apache Reservation was established on November 9, 1871 on 1.66 million acres of aboriginal lands the Tribe has occupied since time immemorial, and that the Tribe has kept exclusive use of its aboriginal lands within the boundaries set by the Executive Orders of November 9, 1871 and December 14, 1872.",
+      "url": "https://webharvest.gov/congress111th/20101210174627/http:/resourcescommittee.house.gov/images/Documents/20090721/testimony_lupe.pdf"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 864-865, executive order of August 5, 1873, area 546",
@@ -77,6 +83,11 @@
       "title": "San Carlos Apache Tribe et al. (Western Apache) v. United States, Docket 22-D, Final Award, September 12, 1972",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1055",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Testimony of Ronnie Lupe, Tribal Chairman, White Mountain Apache Tribe, House Natural Resources Committee hearing (July 21, 2009)",
+      "url": "https://webharvest.gov/congress111th/20101210174627/http:/resourcescommittee.house.gov/images/Documents/20090721/testimony_lupe.pdf",
+      "publisher": "House Committee on Natural Resources (archived by webharvest.gov)"
     }
   ],
   "openQuestions": [

@@ -42,7 +42,13 @@
   "landTaken": "The Commission found the Mohave held aboriginal title to 1,006,300 acres in Arizona, California and Nevada, taken in 1853 and 1865 (Docket 283, opinion of December 29, 1971).",
   "compensation": "Lands valued at $600,000 (1970); final award of $428,358.07 after $171,641.93 in offsets (December 29, 1971); final award of $468,358.07 on the parties' stipulation (September 26, 1973).",
   "today": "Not researched past the 1973 award.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Colorado River Indian Tribes",
+      "summary": "The Tribes say the federal government created the CRIT Reservation in 1865 for the Indians of the Colorado River and its tributaries, originally for the Mohave and Chemehuevi who had lived in the area for centuries, and that Hopi and Navajo people were relocated there in later years.",
+      "url": "https://crit-nsn.gov/crit_contents/about/"
+    }
+  ],
   "sources": [
     {
       "title": "Act of March 3, 1865, ch. 127, 13 Stat. 541 (Indian appropriation act; Colorado River reservation at p. 559)",
@@ -78,6 +84,11 @@
       "title": "Mohave Indians et al. v. United States, Dockets 283 and 295, Final Award on joint motion (31 Ind. Cl. Comm. 425, September 26, 1973)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2245",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "About the Mohave, Chemehuevi, Hopi and Navajo Tribes",
+      "url": "https://crit-nsn.gov/crit_contents/about/",
+      "publisher": "Colorado River Indian Tribes"
     }
   ],
   "openQuestions": [

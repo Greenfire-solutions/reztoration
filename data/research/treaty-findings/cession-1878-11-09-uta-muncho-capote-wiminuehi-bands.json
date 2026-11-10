@@ -31,7 +31,13 @@
     }
   ],
   "today": "The reservation promised was set apart by executive order of February 7, 1879 and restored to the public domain by executive order of August 4, 1882 (Royce).",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Southern Ute Indian Tribe",
+      "summary": "The Tribe's chronology records that in 1878 the Caputa and Weeminuche ceded rights to the 1868 reservation while Fort Lewis was set up at Pagosa Springs to protect and control the Southern Utes, that after the 1879 Meeker incident there were cries for the removal of all Utes from Colorado, and that the Ute Agreement signed in 1880 brought the loss of more Ute land.",
+      "url": "https://www.southernute-nsn.gov/history/chronology/"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 892",
@@ -52,6 +58,11 @@
       "title": "Agreement with the Capote, Muache, and Weeminuche bands of Ute, 1878 (catalog record)",
       "url": "https://oms.library.okstate.edu/s/oklahoma-built/item/22296",
       "publisher": "Oklahoma State University Library"
+    },
+    {
+      "title": "Chronology",
+      "url": "https://www.southernute-nsn.gov/history/chronology/",
+      "publisher": "Southern Ute Indian Tribe"
     }
   ],
   "openQuestions": [

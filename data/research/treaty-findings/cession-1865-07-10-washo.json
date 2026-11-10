@@ -53,7 +53,13 @@
   ],
   "compensation": "Net award of $4,959,350 (Docket 288, 1970), after deducting $94,000 spent on land for the tribe under the Indian Reorganization Act.",
   "today": "No reserve was set apart under the 1865 order (Royce). Washoe lands today are later allotments, colonies and purchases; not traced here.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Washoe Tribe of Nevada and California (Wá·šiw)",
+      "summary": "The Tribe's history page says that in the California gold rush and the Nevada silver rush that followed, thousands of miners and immigrants flooded Washoe lands within a few years and stayed, depleting the resources the people lived on: logging stripped the forests and the Pine Nut Mountains, Lake Tahoe's native cutthroat trout fishery was reduced to nothing, and livestock replaced native game.",
+      "url": "https://washoetribe.us/aboutpage/4-Page-washoe-history"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 836-837",
@@ -79,6 +85,11 @@
       "title": "Washoe Tribe v. United States, Docket 288, Opinion of the Commission (October 31, 1969), 21 Ind. Cl. Comm. 447",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2531",
       "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "Washoe History: A Brief Summary",
+      "url": "https://washoetribe.us/aboutpage/4-Page-washoe-history",
+      "publisher": "Washoe Tribe of Nevada and California (Tribal Historic Preservation Office)"
     }
   ],
   "openQuestions": [

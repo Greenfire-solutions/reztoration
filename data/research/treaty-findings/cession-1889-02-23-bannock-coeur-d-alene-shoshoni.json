@@ -52,6 +52,11 @@
       "title": "Shoshone-Bannock Tribes et al. v. United States, Dockets 326-D to 326-H, 366, 367, Findings of Fact on Settlement, 19 Ind. Cl. Comm. 3 (February 13, 1968)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2557",
       "publisher": "Indian Claims Commission, via Oklahoma State University Library"
+    },
+    {
+      "title": "About the Shoshone-Bannock Tribes",
+      "url": "https://www.sbtribes.com/about/",
+      "publisher": "Shoshone-Bannock Tribes"
     }
   ],
   "openQuestions": [
@@ -70,5 +75,12 @@
     "promised": "In 1889 Congress ratified an 1880 agreement: Fort Hall's Shoshone and Bannock would cede part of their reservation for the Lemhi people and receive six thousand dollars a year for twenty years.",
     "happened": "The tribes later told the Indian Claims Commission the $120,000.00 paid for about 297,000 acres was unconscionable. The Commission never ruled; the claim was settled in 1968. Royce says the act never took effect.",
     "today": "The 1968 settlement paid $15,700,000.00 for seven claims together, with no separate figure for this cession. Whether this cession took effect is still unclear in the record."
-  }
+  },
+  "nationVoice": [
+    {
+      "nation": "Shoshone-Bannock Tribes",
+      "summary": "The Tribes say the Fort Hall Reservation, set aside under the Fort Bridger Treaty of 1868, first held 1.8 million acres, was cut to 1.2 million by a survey error, and was further reduced to its present size through later legislation and the allotment process.",
+      "url": "https://www.sbtribes.com/about/"
+    }
+  ]
 }

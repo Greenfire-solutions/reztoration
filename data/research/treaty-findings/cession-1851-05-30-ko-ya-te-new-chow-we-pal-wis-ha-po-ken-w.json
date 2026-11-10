@@ -55,7 +55,13 @@
     "happened": "The Senate refused to ratify the treaty on July 8, 1852, and kept it secret until 1905. The tribes' lands were taken without the reserved tract or compensation.",
     "today": "The treaty remains unratified. A 1928 Act let California Indians sue for the promised lands and compensation; the amount finally paid has not been traced."
   },
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Tule River Indian Tribe",
+      "summary": "In 2024 House testimony, Vice Chairman Lester Shine Nieto said the United States negotiated 18 treaties with California's native peoples to obtain their lands, that under pressure from statehood and the gold rush Congress rejected all 18 in 1852 and kept them under secrecy for over 50 years, and that the Tribe's Yokuts ancestors were never told the treaties they negotiated were not ratified.",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg56360/html/CHRG-118hhrg56360.htm"
+    }
+  ],
   "sources": [
     {
       "title": "Robert F. Heizer, The Eighteen Unratified Treaties of 1851-1852 between the California Indians and the United States Government (1972)",
@@ -76,6 +82,11 @@
       "title": "Kappler, Indian Affairs: Laws and Treaties, vol. 4 (1929), treaty B as excerpted",
       "url": "https://oms.library.okstate.edu/s/oklahoma-built/item/21827",
       "publisher": "Oklahoma State University Libraries"
+    },
+    {
+      "title": "Legislative hearing on H.R. 8685, H.R. 8920, H.R. 8949 and other water settlement bills, House Subcommittee on Water, Wildlife and Fisheries (July 23, 2024), Serial No. 118-138",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg56360/html/CHRG-118hhrg56360.htm",
+      "publisher": "U.S. Government Publishing Office (govinfo)"
     }
   ],
   "openQuestions": [

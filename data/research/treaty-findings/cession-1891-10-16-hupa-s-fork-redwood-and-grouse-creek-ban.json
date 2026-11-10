@@ -32,7 +32,13 @@
     }
   ],
   "today": "Congress ordered the original Klamath River Reservation sold by the Act of June 17, 1892, but the Supreme Court held in Mattz v. Arnett (1973) that the Act did not end the reservation. The Hoopa-Yurok Settlement Act of 1988 made the 1891 Addition the Yurok Reservation and the 1876 square the Hoopa Valley Reservation; the Federal Circuit held in Karuk Tribe v. Ammon (2000) that the executive orders gave no compensable property rights.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Hoopa Valley Tribe (Natinixwe)",
+      "summary": "In the Tribe's 2002 Senate testimony, presented with Chairman Clifford Lyle Marshall by its counsel, the Tribe says the 1891 order appended the old Klamath River Reservation and the Connecting Strip to the Hoopa Valley Reservation only as an aid to administration, that it could not affect property rights that had attached in 1864 for the Hoopa Square and in 1855 for the Klamath River Reservation, and that the Court of Claims wrongly read it otherwise in the Short case.",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-107shrg81636/html/CHRG-107shrg81636.htm"
+    }
+  ],
   "sources": [
     {
       "title": "Royce, Indian Land Cessions in the United States (18th Annual Report, Bureau of American Ethnology, 1899), schedule p. 942, Hupa et al., Oct. 16, 1891",
@@ -53,6 +59,11 @@
       "title": "Short v. United States, 202 Ct. Cl. 870 (1973)",
       "url": "https://static.case.law/us-ct-cl/202/cases/0870-01.json",
       "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Hoopa-Yurok Settlement Act, oversight hearing, Senate Committee on Indian Affairs (August 1, 2002), S. Hrg. 107-648, statements of the Hoopa Valley Tribe",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-107shrg81636/html/CHRG-107shrg81636.htm",
+      "publisher": "U.S. Government Printing Office (govinfo)"
     }
   ],
   "openQuestions": [

@@ -41,6 +41,11 @@
       "title": "Cheyenne-Arapaho Tribes of Indians of Oklahoma v. United States, Dockets 329-A and 329-B, Opinion of the Commission (October 18, 1965)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2123",
       "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Cheyenne and Arapaho Tribes of Oklahoma, formal request and documents for the return of the Fort Reno lands, submitted by Governor Janice Prairie Chief-Boswell to the Secretarial Commission on Indian Trust Administration and Reform (June 2012)",
+      "url": "https://www.doi.gov/sites/default/files/migrated/cobell/commission/upload/1-Cheyenne-Arapaho-Tribes-of-OK_Return-of-Ft-Reno-Lands.pdf",
+      "publisher": "Cheyenne and Arapaho Tribes of Oklahoma (submission), hosted by the US Department of the Interior"
     }
   ],
   "openQuestions": [
@@ -55,5 +60,12 @@
     "today": "A single $15,000,000 settlement in 1965 covered this claim and the tribes' Fort Laramie claim. No finding that the price was unfair was made."
   },
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "nationVoice": [
+    {
+      "nation": "Cheyenne and Arapaho Tribes",
+      "summary": "In the papers Governor Janice Prairie Chief-Boswell submitted to the federal trust commission in 2012, the Tribes say that in 1890 they ceded their interest in the 1869 reservation subject to allotments and conditions, that in 1965 they settled a $15 million claim for the lands unconscionably ceded, and that Fort Reno was not part of that cession or settlement and is still claimed by them.",
+      "url": "https://www.doi.gov/sites/default/files/migrated/cobell/commission/upload/1-Cheyenne-Arapaho-Tribes-of-OK_Return-of-Ft-Reno-Lands.pdf"
+    }
+  ]
 }

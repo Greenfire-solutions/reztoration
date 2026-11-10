@@ -42,7 +42,13 @@
   "landTaken": "The Commission found Hopi title to the tract in its Finding 20 taken outside the 1882 reservation on December 16, 1882, and 1,868,364 acres inside that reservation taken on June 2, 1937. It held the evidence did not support Hopi title to the rest of the land claimed.",
   "compensation": "$5,000,000.00 by final award on a stipulation for final judgment, December 2, 1976 (Docket 196).",
   "today": "The Commission's award was a compromise. Whether and how it was distributed was not traced. The Navajo-Hopi dispute over the 1882 reservation is a separate matter not researched here.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "The Hopi Tribe",
+      "summary": "The Tribe's land base timeline in its newspaper Hopi Tutuveni says President Arthur's order of December 16, 1882 set up a Hopi reservation of about 2.4 million acres, that ten executive orders and four Acts of Congress between 1878 and 1934 removed lands from the Hopi and added them to the Navajo Reservation until it surrounded the Hopi, and that the 1962 ruling cost the Hopi 911,041 acres of the 1882 reservation.",
+      "url": "https://www.hopi-nsn.gov/wp-content/uploads/2015/02/2-3-2015-Vol.23-No.3.pdf"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 922-923, area 682",
@@ -68,6 +74,11 @@
       "title": "Hopi Tribe v. United States, Docket 196, Findings of Fact and Conclusions of Law on Compromise Settlement (December 2, 1976)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2688",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Hopi Tutuveni, vol. 23 no. 3 (February 3, 2015), timeline of the Hopi land base presented by the Hopi Department of Natural Resources",
+      "url": "https://www.hopi-nsn.gov/wp-content/uploads/2015/02/2-3-2015-Vol.23-No.3.pdf",
+      "publisher": "The Hopi Tribe"
     }
   ],
   "openQuestions": [

@@ -42,7 +42,13 @@
   ],
   "compensation": "A compromise final judgment of $725,000 in 1974 for the Confederated Tribes of the Colville Reservation on behalf of the Joseph Band (Docket 186).",
   "today": "In 1941 the Court of Claims (Joseph's Band v. United States, 95 Ct. Cl. 11) rejected the band's claim to aboriginal title to the whole Wallowa-Imnaha area; the Commission held in 1971 that this did not bar the executive order claim. The Commission also found that white settlers on the reservation were not removed while the order stood.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of the Colville Reservation (successor to the Joseph Band of Nez Perce)",
+      "summary": "In 2025 testimony to the Oregon House Committee on Rules, Colville Chairman Jarred-Michael Erickson said the Colville Tribes are the successor government of the Joseph Band, that the band has hunted, fished and gathered in the Wallowa Mountains and valley since time immemorial, and that even after removal its more than 560 descendants on the Colville Reservation still travel to Wallowa County to exercise their treaty rights.",
+      "url": "https://apps.oregonlegislature.gov/liz/2025R1/Downloads/PublicTestimonyDocument/131037"
+    }
+  ],
   "sources": [
     {
       "title": "1873 Executive Order creating Wallowa Valley Reserve (from Executive Orders relating to Indian Reservations, 1855-1878)",
@@ -83,6 +89,11 @@
       "title": "Confederated Tribes of the Colville Reservation, as representative of the Joseph Band of the Nez Perce Tribe, et al. v. United States, Docket 186, Interlocutory Order (25 Ind. Cl. Comm. 99, March 26, 1971)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1452",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Prepared Statement of the Confederated Tribes of the Colville Reservation, Oregon House Committee on Rules, HB 2069 (February 19, 2025)",
+      "url": "https://apps.oregonlegislature.gov/liz/2025R1/Downloads/PublicTestimonyDocument/131037",
+      "publisher": "Confederated Tribes of the Colville Reservation (filed with the Oregon Legislature)"
     }
   ],
   "openQuestions": [

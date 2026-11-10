@@ -54,7 +54,13 @@
   ],
   "compensation": "Dockets 44 and 45 were settled by a compromise final judgment of $7,700,000 for the Uintah Ute Indians of Utah (1960).",
   "today": "In Hagen v. Utah (1994) the Supreme Court held that Congress had diminished the Uintah Indian Reservation, so the town of Myton is not Indian country.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Ute Indian Tribe of the Uintah and Ouray Reservation",
+      "summary": "In a 2022 news release the Tribe says President Lincoln formally set apart and reserved the Uintah Valley Reservation in 1861, that the Uintah, White River and Uncompahgre bands were removed onto lands the United States reserved, and that after the Allotment Act lands set aside for the Tribe were allotted and opened for homesteading, leaving checkerboard ownership and jurisdiction.",
+      "url": "https://ictnews.org/the-press-pool/ute-indian-tribe-successfully-restores-19-acres-of-land-to-trust-status/"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 824",
@@ -80,6 +86,11 @@
       "title": "Uintah Ute Indians of Utah v. United States, Dockets 44 and 45, Final Judgment (June 1960)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/450",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Ute Indian Tribe successfully restores 19 acres of land to trust status (news release)",
+      "url": "https://ictnews.org/the-press-pool/ute-indian-tribe-successfully-restores-19-acres-of-land-to-trust-status/",
+      "publisher": "Ute Indian Tribe of the Uintah and Ouray Reservation, via ICT Press Pool"
     }
   ],
   "openQuestions": [

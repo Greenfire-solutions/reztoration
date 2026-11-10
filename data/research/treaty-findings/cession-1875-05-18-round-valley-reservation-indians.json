@@ -29,7 +29,13 @@
   ],
   "compensation": "No payment to the Round Valley peoples for the occupied land was found.",
   "today": "Royce (1899) says these remained the reservation's boundaries except for the Camp Wright mile square added on July 26, 1876. The full record of the 1873 reservation, including Russ v. Wilkins (9th Cir. 1980), is on the findings for the Act of March 3, 1873.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Round Valley Indian Tribes",
+      "summary": "The Tribes say the Round Valley reservation began in 1856 as the Nome Cult Farm, that the Yuki had to share a small reserved part of their homeland with other peoples, and that the Wailacki, Concow, Little Lake Pomo, Nomlacki and Pit River people were brought there by force in drives in which the elderly and sick often did not survive.",
+      "url": "https://www.rvit.org/about/about-us"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 880-881",
@@ -45,6 +51,11 @@
       "title": "Senate Report No. 1522, 48th Congress, 2d Session, Condition of Certain Indians in California (Mr. Dawes, Committee on Indian Affairs, February 27, 1885)",
       "url": "https://shareok.org/items/ebd3a0c8-69dd-4264-925c-fb11e38f5188",
       "publisher": "University of Oklahoma Libraries, SHAREOK (American Indian and Alaska Native Documents in the Congressional Serial Set)"
+    },
+    {
+      "title": "About Us: History of the Round Valley Indian Tribes",
+      "url": "https://www.rvit.org/about/about-us",
+      "publisher": "Round Valley Indian Tribes"
     }
   ],
   "openQuestions": [

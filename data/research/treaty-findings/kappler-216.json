@@ -51,6 +51,11 @@
       "title": "Iowa Tribe v. United States, Docket 135, Order on Remand (December 10, 1969)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1404",
       "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "About Us",
+      "url": "https://iowanation.org/about-us/",
+      "publisher": "Iowa Tribe of Oklahoma"
     }
   ],
   "openQuestions": [
@@ -63,5 +68,12 @@
     "today": "The Commission awarded the Iowa tribes $633,193.77 in 1965, after offsets."
   },
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "nationVoice": [
+    {
+      "nation": "Iowa Tribe of Oklahoma",
+      "summary": "The Tribe says that with the encroachment of white settlers the Iowa ceded their lands in 1824 and were given two years to leave, that further cessions in 1836 and 1838 removed them to the Kansas-Nebraska border, and that a nation whose lands once spanned the Missouri and Mississippi valleys was left with a strip ten miles wide and twenty long.",
+      "url": "https://iowanation.org/about-us/"
+    }
+  ]
 }

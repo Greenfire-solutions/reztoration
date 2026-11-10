@@ -29,7 +29,18 @@
   ],
   "landTaken": "The executive order of July 2, 1872 revoked this order and restored the tract to the public domain (Royce schedule; Docket 181 findings). Royce notes a portion was set apart again for the Spokane by executive order of January 18, 1881.",
   "compensation": "The Commission's Colville tract (130,590 acres, east of the Columbia from just below Kettle Falls to near Hunters) and Lakes tract (east of the Columbia up to the Canadian boundary) lie in this area. Its second interlocutory order of March 5, 1959 awarded the Colville Tribe $111,000.00 and the Lake Tribe $125,000.00, less offsets; the final judgment of March 1, 1960 left the Colville Tribe a net $104,600.00 after offsets. The Lake figure is damaged in both scans; $125,000.00 is the only reading under which the five awards ($1,061,000.00) less the $61,000.00 offsets equal the $1,000,000.00 total net recovery the 1960 judgment states.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes of the Colville Reservation",
+      "summary": "The Tribes' 2023 history records that the April 1872 Presidential Executive Order established the Colville Indian Reservation for the tribes and bands who were not parties to any treaty, and that on July 2, 1872 the reservation was reduced in size.",
+      "url": "https://static1.squarespace.com/static/56a2a6f01c1210a5d5988772/t/652db04c1740c55f15f176b0/1697493089077/ColvilleTribalHistoryWeb2023.pdf"
+    },
+    {
+      "nation": "Confederated Tribes of the Colville Reservation",
+      "summary": "The Tribes' Fish and Wildlife Department says the original Colville Reservation, set up by executive order of April 9, 1872 on the Spokane side of the Columbia, was in existence for less than three months before it was exchanged for the present reservation under the order of July 2, 1872.",
+      "url": "https://cctfnw.squarespace.com/ct-fish-history"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 856",
@@ -70,6 +81,16 @@
       "title": "Confederated Tribes of the Colville Reservation et al. v. United States, Docket 181, Final Judgment (March 1, 1960)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/568",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Through History: The Confederated Tribes of the Colville Reservation (2023)",
+      "url": "https://static1.squarespace.com/static/56a2a6f01c1210a5d5988772/t/652db04c1740c55f15f176b0/1697493089077/ColvilleTribalHistoryWeb2023.pdf",
+      "publisher": "Confederated Tribes of the Colville Reservation, Employment and Education Division, Youth Development Program"
+    },
+    {
+      "title": "History of the Confederated Tribes of the Colville Reservation",
+      "url": "https://cctfnw.squarespace.com/ct-fish-history",
+      "publisher": "Confederated Tribes of the Colville Reservation, Fish and Wildlife Department"
     }
   ],
   "openQuestions": [

@@ -91,6 +91,11 @@
       "nation": "Standing Rock Sioux Tribe and Oglala Sioux Tribe",
       "summary": "Their leaders said the signers never intended a massive land cession and that the relinquishment wording in Article 2 was added after signing.",
       "url": "https://www.grandforksherald.com/news/north-dakota/sioux-tribes-call-for-nation-to-nation-talks-with-white-house-over-1868-treaty-land-issues"
+    },
+    {
+      "nation": "Standing Rock Sioux Tribe",
+      "summary": "The Tribe says the 1868 Fort Laramie Treaty set aside all of present-day South Dakota west of the Missouri River as the Great Sioux Reservation, kept off-reservation hunting rights over a larger area, and made any cession invalid without the approval of three-fourths of adult males, yet Congress unilaterally took the Black Hills in 1877 and further reduced the reservation in 1889.",
+      "url": "https://www.standingrock.org/about/"
     }
   ],
   "sources": [
@@ -118,6 +123,11 @@
       "title": "Sioux tribes call for nation-to-nation talks with White House over 1868 treaty land issues",
       "url": "https://www.grandforksherald.com/news/north-dakota/sioux-tribes-call-for-nation-to-nation-talks-with-white-house-over-1868-treaty-land-issues",
       "publisher": "Grand Forks Herald"
+    },
+    {
+      "title": "About",
+      "url": "https://www.standingrock.org/about/",
+      "publisher": "Standing Rock Sioux Tribe"
     }
   ],
   "openQuestions": [

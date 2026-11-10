@@ -46,7 +46,13 @@
   ],
   "compensation": "The treaty price was $50,000 (Article 2) plus $7,000 in damages (Article 3). The Court of Claims allowed $1,666.50 for the dead cattle and $3,127.08 for the infirmary as part of a 1918 judgment of $122,295.31 on several Omaha treaty claims; the Supreme Court in 1920 upheld those two items and struck $4,560 for horses. The Docket 225-B claim for the land was later settled, not decided.",
   "today": "The Docket 225-B claim for fair payment for the ceded land was settled, not decided, as part of the 1960 Docket 225 Consolidated compromise.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Omaha Tribe of Nebraska",
+      "summary": "In its 2015 Supreme Court brief in Nebraska v. Parker, the Omaha Tribal Council says that in 1865 the Omaha agreed to cede, sell and convey another 98,000 acres in the north of their reservation so the federal government could make a reservation for the displaced Winnebago, receiving a fixed $50,000 and other federal promises in exchange.",
+      "url": "https://sct.narf.org/documents/nebraska_v_parker/brief_respondents_omaha.pdf"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Omaha, 1865 (Kappler vol. 2, p. 872)",
@@ -77,6 +83,11 @@
       "title": "Omaha Tribe of Indians v. United States, No. 31002, 53 Ct. Cl. 549 (June 10, 1918)",
       "url": "https://static.case.law/us-ct-cl/53/cases/0549-01.json",
       "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Brief for Respondents Omaha Tribal Council et al., Nebraska v. Parker, No. 14-1406 (U.S. Supreme Court, December 2015)",
+      "url": "https://sct.narf.org/documents/nebraska_v_parker/brief_respondents_omaha.pdf",
+      "publisher": "Omaha Tribe of Nebraska (filed brief), hosted by the Native American Rights Fund Tribal Supreme Court Project"
     }
   ],
   "openQuestions": [

@@ -33,7 +33,13 @@
   "landTaken": "23,000 acres, as agreed by the parties (ICC Docket 162, finding 6).",
   "compensation": "$20,000 under the agreement. Final award in Docket 162 of $49,000, entered August 31, 1965 on the parties' agreement, with offsets for 1894 to 1905 reserved to other Yakima cases.",
   "today": "Not researched past the 1965 award.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Confederated Tribes and Bands of the Yakama Nation",
+      "summary": "The Nation says its leaders reserved in the 1855 treaty the right to fish, hunt and gather their traditional foods on the reservation and within the ceded territories, and that Governor Stevens soon declared all ceded lands open for white settlement; the page does not discuss the Wenatshapam fishery itself.",
+      "url": "https://www.yakama.com/about/"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 948-949",
@@ -64,6 +70,11 @@
       "title": "Yakima Tribe v. United States, Docket 162, Final Award (August 31, 1965)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/699",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "About the Yakama Nation",
+      "url": "https://www.yakama.com/about/",
+      "publisher": "Confederated Tribes and Bands of the Yakama Nation"
     }
   ],
   "openQuestions": [

@@ -32,7 +32,18 @@
   "landTaken": "None by this agreement, which was never ratified. Royce notes the lands it purported to cede were covered by the claims and earlier cessions of other tribes.",
   "compensation": "None located for this agreement.",
   "today": "The reserve the Wichita occupied was ceded under the agreement of June 4, 1891, ratified by Congress on March 2, 1895 (28 Stat. 876, 897); after the Leased District litigation the Court of Claims entered judgment for the Wichita and affiliated bands of $675,371.91, which was paid. In 1939 the Court of Claims dismissed the Wichita and Caddo claim for aboriginal lands in Oklahoma and Texas (89 Ct. Cl. 378). In Wichita Indian Tribe v. United States, 696 F.2d 1378 (Fed. Cir. January 10, 1983), the court reversed a later dismissal of the Wichita claims (ICC Docket 371, transferred in 1978) and sent them back to the Claims Court to fix the extent of aboriginal title and any liability, expressly taking no view on the nature or date of any taking. The outcome after remand was not traced.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Wichita and Affiliated Tribes",
+      "summary": "The Tribes' history says that even the reservation established in 1872 between the Washita and Canadian rivers did not remain theirs: led by Tawakoni Jim the Wichita resisted the breaking up of their lands, but in 1900 it was divided into 160-acre allotments with the remainder declared surplus and opened to settlement, which brought the final destruction of the grass house villages and their communal way of life.",
+      "url": "https://wichitatribe.com/culture/history/days-of-darkness-1820-1934/"
+    },
+    {
+      "nation": "Wichita and Affiliated Tribes",
+      "summary": "The Tribes publish the boundary of the Wichita Reservation, established 1872, between the Washita and main Canadian rivers from the 98th meridian to 98 degrees 40 minutes west, and say it lies today in northern Caddo County and parts of Grady, Canadian, Blaine, Custer and Washita counties.",
+      "url": "https://wichitatribe.com/culture/history/wichita-indian-reservation/"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 860-861",
@@ -53,6 +64,16 @@
       "title": "Wichita and Affiliated Bands of Indians v. United States; Caddo Band of Indians v. United States, 89 Ct. Cl. 378 (November 6, 1939)",
       "url": "https://static.case.law/us-ct-cl/89/cases/0378-01.json",
       "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Days of Darkness, 1820-1934",
+      "url": "https://wichitatribe.com/culture/history/days-of-darkness-1820-1934/",
+      "publisher": "Wichita and Affiliated Tribes"
+    },
+    {
+      "title": "Wichita Indian Reservation",
+      "url": "https://wichitatribe.com/culture/history/wichita-indian-reservation/",
+      "publisher": "Wichita and Affiliated Tribes"
     }
   ],
   "openQuestions": [

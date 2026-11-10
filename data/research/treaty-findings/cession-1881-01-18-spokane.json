@@ -43,7 +43,13 @@
   "landTaken": "Spokane reservation land designated for the Grand Coulee Dam and its reservoir under the 1940 Act. Congress found the Spokane acreage taken equalled approximately 39 percent of the Colville tribal acreage taken; no Spokane acreage figure was found in a source opened.",
   "compensation": "$4,700 paid under the 1940 Act. The 2019 Act provides annual payments from the Bonneville Power Administration from March 1, 2022: 25 percent of the Colville settlement's computed annual payment through 2029 and 32 percent from 2030.",
   "today": "Congress found that the Spokane Tribe had settled its Indian Claims Commission land claims in 1967 and so, unlike the Colville Tribes, had no claim to amend for Grand Coulee. That 1967 compromise (Dockets 331 and 331-A, $6,700,000) concerned Spokane aboriginal title, which the Commission found the tribe held until July 13, 1892; it is not a finding about the reservation. Whether the 2019 payments have been made was not checked.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Spokane Tribe of Indians",
+      "summary": "The Tribe's Preservation Program says President Hayes created the reservation by executive order in 1881 at 157,376 acres, a fraction of the roughly 3 million acres its ancestors occupied, and that the Spokane people have persevered through loss of land, forced relocation and the loss of the salmon to dams on the Spokane and Columbia rivers.",
+      "url": "https://spokanetribe.com/resources/preservation/history/"
+    }
+  ],
   "plain": {
     "promised": "Not a treaty: a presidential order setting apart the Spokane Reservation between Chamokane Creek, the Spokane and Columbia rivers and the 48th parallel for the Spokane people to live on.",
     "happened": "A 1940 Act of Congress took Spokane reservation land for the Grand Coulee Dam and paid $4,700. In 2019 Congress found Spokane land was taken for the dam and the tribe suffered significant harm.",
@@ -79,6 +85,11 @@
       "title": "Spokane Tribe of Indians v. United States, Dockets 331 and 331-A, Final Judgment (February 21, 1967)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1207",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "History, Spokane Tribe of Indians Preservation Program",
+      "url": "https://spokanetribe.com/resources/preservation/history/",
+      "publisher": "Spokane Tribe of Indians, Department of Natural Resources"
     }
   ],
   "openQuestions": [

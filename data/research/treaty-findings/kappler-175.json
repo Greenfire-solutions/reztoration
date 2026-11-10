@@ -51,6 +51,11 @@
       "title": "Osage Nation v. United States, Dockets 105 to 108, Findings of Fact on Compromise Settlement (September 3, 1970)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1352",
       "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Osage Ceded Lands fact sheet (Osage Nation Lessons)",
+      "url": "https://osagenation.s3.amazonaws.com/B/B.2.b.CededLandsFactSheet.pdf",
+      "publisher": "Osage Nation"
     }
   ],
   "openQuestions": [
@@ -62,5 +67,12 @@
     "today": "A single $13,250,000 settlement in 1970 covered this and three other Osage claims."
   },
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "nationVoice": [
+    {
+      "nation": "Osage Nation",
+      "summary": "The Osage Nation's ceded lands lesson says that between 1808 and 1872, under population decline, the influx of settlers, broken promises of protection and military threats, the Osage had little choice but to cede all their lands in present Missouri, Arkansas and Kansas and most of their Oklahoma land, in treaties marked by very small payments and by false claims, miscommunication, bribery and coercion.",
+      "url": "https://osagenation.s3.amazonaws.com/B/B.2.b.CededLandsFactSheet.pdf"
+    }
+  ]
 }

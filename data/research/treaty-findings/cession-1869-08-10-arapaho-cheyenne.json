@@ -30,7 +30,13 @@
   ],
   "compensation": "A compromise final judgment of $15,000,000 in 1965 settled Dockets 329-A and 329-B together; no amount was assigned to the 1891 cession alone.",
   "today": "Not researched past the 1965 settlement.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Cheyenne and Arapaho Tribes",
+      "summary": "In the papers Governor Janice Prairie Chief-Boswell submitted to the federal trust commission in 2012, the Tribes say they arrived in 1869 on a 5.4 million acre reservation in western Oklahoma after treaties involving 100 million acres of aboriginal land, that in 1883 the United States carved 9,600 acres out of it for Fort Reno for military purposes only, on the understanding it would come back to them, and that it never has.",
+      "url": "https://www.doi.gov/sites/default/files/migrated/cobell/commission/upload/1-Cheyenne-Arapaho-Tribes-of-OK_Return-of-Ft-Reno-Lands.pdf"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 852",
@@ -51,6 +57,11 @@
       "title": "Cheyenne-Arapaho Tribes of Indians of Oklahoma v. United States, Dockets 329-A and 329-B, Final Judgment (16 Ind. Cl. Comm. 190, October 18, 1965)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2414",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Cheyenne and Arapaho Tribes of Oklahoma, formal request and documents for the return of the Fort Reno lands, submitted by Governor Janice Prairie Chief-Boswell to the Secretarial Commission on Indian Trust Administration and Reform (June 2012)",
+      "url": "https://www.doi.gov/sites/default/files/migrated/cobell/commission/upload/1-Cheyenne-Arapaho-Tribes-of-OK_Return-of-Ft-Reno-Lands.pdf",
+      "publisher": "Cheyenne and Arapaho Tribes of Oklahoma (submission), hosted by the US Department of the Interior"
     }
   ],
   "openQuestions": [

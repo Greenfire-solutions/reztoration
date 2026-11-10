@@ -44,7 +44,13 @@
   "landTaken": "1,198.99 acres of Creek land beyond the 175,000 acres ceded (Docket 167).",
   "compensation": "$175,000 was paid for the 175,000 acres under the 1881 agreement; a final award of $50,000 on stipulation in 1971 settled the claim for the 1,198.99 acres.",
   "today": "The Commission noted that the Court of Claims had earlier denied the same claim under the Creek jurisdictional act of May 24, 1924, and that the Court of Claims in 1964 sent it back to the Commission to be heard on its merits.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Seminole Nation of Oklahoma, in the history published by the Inter-Tribal Council of the Five Civilized Tribes",
+      "summary": "The Seminole history says the Seminoles were required to sign a new treaty in 1866 and that the Second Seminole Nation, which existed from 1866 to 1907, was present-day Seminole County with the addition of 175,000 acres the Seminoles later bought from the Muscogee Creeks.",
+      "url": "https://fivecivilizedtribes.org/Seminole.html"
+    }
+  ],
   "sources": [
     {
       "title": "Creek Nation v. United States, Docket 167, Findings of Fact (18 Ind. Cl. Comm. 434, July 6, 1967)",
@@ -70,6 +76,11 @@
       "title": "Creek Nation v. United States, Docket 167, Final Award (25 Ind. Cl. Comm. 351, May 1971)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1168",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Seminole history",
+      "url": "https://fivecivilizedtribes.org/Seminole.html",
+      "publisher": "Inter-Tribal Council of the Five Civilized Tribes"
     }
   ],
   "openQuestions": [

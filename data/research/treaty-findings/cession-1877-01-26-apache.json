@@ -57,7 +57,13 @@
   "landTaken": "The tract described by the order (360 by 240 chains). No acreage figure was found in a source opened.",
   "compensation": "None at the time. The Docket 22-D claim was compromised; the final award of September 12, 1972 (28 Ind. Cl. Comm. 399) awarded $4,900,000 for the Western Apache land claim as a whole, not per tract.",
   "today": "The Fort Apache (White Mountain) and San Carlos reservations remain. Whether and how the 1972 award was distributed was not traced.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "White Mountain Apache Tribe",
+      "summary": "In 2009 House testimony, Tribal Chairman Ronnie Lupe said the Fort Apache Reservation was established on November 9, 1871 on 1.66 million acres of aboriginal lands the Tribe has occupied since time immemorial, and that the Tribe has kept exclusive use of its aboriginal lands within the boundaries set by the Executive Orders of November 9, 1871 and December 14, 1872.",
+      "url": "https://webharvest.gov/congress111th/20101210174627/http:/resourcescommittee.house.gov/images/Documents/20090721/testimony_lupe.pdf"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 888, executive order of January 26, 1877",
@@ -83,6 +89,11 @@
       "title": "San Carlos Apache Tribe et al. v. United States, Docket 22-D, Final Award (September 12, 1972)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1055",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "Testimony of Ronnie Lupe, Tribal Chairman, White Mountain Apache Tribe, House Natural Resources Committee hearing (July 21, 2009)",
+      "url": "https://webharvest.gov/congress111th/20101210174627/http:/resourcescommittee.house.gov/images/Documents/20090721/testimony_lupe.pdf",
+      "publisher": "House Committee on Natural Resources (archived by webharvest.gov)"
     }
   ],
   "openQuestions": [

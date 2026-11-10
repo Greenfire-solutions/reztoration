@@ -37,7 +37,13 @@
   "landTaken": "The Supreme Court gives 136,204 acres (the fraction is unreadable in the scan) of Indian lands taken by the mistaken line.",
   "compensation": "The Supreme Court included $68,102 for this land in the Choctaw Nation's judgment. The Encyclopedia of Arkansas says a surveyor appointed in 1877 found the Choctaws were owed $175,049.57 at $1.25 an acre, and that in 1888 they were paid $68,102.00, or $0.50 an acre.",
   "today": "The Encyclopedia of Arkansas says the Choctaw line was at last settled at the erroneous 1825 Conway survey. No Indian Claims Commission ruling on the 1825 cession itself was found.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Choctaw Nation of Oklahoma",
+      "summary": "The Nation's historical documents page lists the 1825 Treaty of Washington City as an agreement in which the Choctaw Nation ceded land to the United States in return for annual payments, and publishes the treaty text.",
+      "url": "https://www.choctawnation.com/about/history/historical-documents/"
+    }
+  ],
   "sources": [
     {
       "title": "Treaty with the Choctaw, 1825 (Kappler, vol. 2, p. 211)",
@@ -63,6 +69,11 @@
       "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule p. 708",
       "url": "https://archive.org/stream/annualreportofbu218smit#page/708/mode/2up",
       "publisher": "Smithsonian Institution, Bureau of American Ethnology, via Internet Archive"
+    },
+    {
+      "title": "Historical Documents",
+      "url": "https://www.choctawnation.com/about/history/historical-documents/",
+      "publisher": "Choctaw Nation of Oklahoma"
     }
   ],
   "openQuestions": [

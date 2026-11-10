@@ -31,7 +31,13 @@
     }
   ],
   "today": "In Russ v. Wilkins, 624 F.2d 914 (9th Cir. 1980), the court recorded that the removal of non-Indians promised by the 1873 Act was never carried out because land sales did not raise enough money and Congress did not appropriate enough, and held that the Act of 1890 reduced the 1873 reservation. That ruling went against the Covelo Indian Community. The court also recorded a Secretary of the Interior restoration order of February 11, 1947 returning approximately 7,531 acres of vacant land in the relinquished parts to tribal ownership.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Round Valley Indian Tribes",
+      "summary": "The Tribes say the Round Valley reservation began in 1856 as the Nome Cult Farm, that the Yuki had to share a small reserved part of their homeland with other peoples, and that the Wailacki, Concow, Little Lake Pomo, Nomlacki and Pit River people were brought there by force in drives in which the elderly and sick often did not survive.",
+      "url": "https://www.rvit.org/about/about-us"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 862-863",
@@ -47,6 +53,11 @@
       "title": "Condition of Certain Indians in California (Investigation of management of Round Valley Indian Reservation), Senate Report No. 1522, 48th Congress, 2d Session, February 27, 1885",
       "url": "https://shareok.org/items/ebd3a0c8-69dd-4264-925c-fb11e38f5188",
       "publisher": "US Senate Committee on Indian Affairs, via University of Oklahoma Libraries (SHAREOK)"
+    },
+    {
+      "title": "About Us: History of the Round Valley Indian Tribes",
+      "url": "https://www.rvit.org/about/about-us",
+      "publisher": "Round Valley Indian Tribes"
     }
   ],
   "openQuestions": [

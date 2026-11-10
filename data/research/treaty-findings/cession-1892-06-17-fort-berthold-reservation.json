@@ -41,7 +41,13 @@
   "landTaken": "Not stated for Royce Area 716 alone in the sources read; the Commission valued the 1910 Act homestead lands as a whole.",
   "compensation": "The final award in Docket 350-F (August 23, 1972) was $8,809,057, which already includes interest to June 30, 1972, plus further interest from that date; it covers the homestead lands and the other 1910 Act claims. The homestead lands' share was a principal of $2,765,067, or $7,605,086 with interest to June 30, 1972 (28 Ind. Cl. Comm. 264).",
   "today": "Not researched past the 1972 award.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "MHA Nation (Three Affiliated Tribes)",
+      "summary": "The Nation says the 1851 Fort Laramie Treaty recognized over 12 million acres as its land and that later policies and laws reduced this to less than 3 million acres.",
+      "url": "https://www.mhanation.com/history"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 944-945",
@@ -62,6 +68,11 @@
       "title": "Three Affiliated Tribes of the Fort Berthold Reservation v. United States, Docket 350-F, Final Award (August 23, 1972)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/925",
       "publisher": "Indian Claims Commission Decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "History",
+      "url": "https://www.mhanation.com/history",
+      "publisher": "MHA Nation (Three Affiliated Tribes)"
     }
   ],
   "openQuestions": [

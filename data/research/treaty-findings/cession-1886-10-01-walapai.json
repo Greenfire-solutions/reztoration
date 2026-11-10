@@ -53,7 +53,13 @@
   "landTaken": "4,459,500 acres of Hualapai aboriginal land outside the reservation (finding 20), valued at $2,800,000.00 as of January 4, 1883 (Second Interlocutory Order, 1966).",
   "compensation": "$2,950,000 by compromise final judgment of June 18, 1968, settling all claims in Dockets 90 and 122.",
   "today": "The 1968 judgment settled all claims in both dockets. Whether and how it was distributed was not traced.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Hualapai Tribe",
+      "summary": "The Tribe says an executive order established the Hualapai reservation in 1883, and that the reservation covers about one million acres along 108 miles of the Grand Canyon and the Colorado River.",
+      "url": "https://hualapai-nsn.gov/community/about_the_hualapai_tribe/index.php"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 922-923, area 683",
@@ -84,6 +90,11 @@
       "title": "Hualapai Tribe v. United States, Dockets 90 and 122, Additional Findings of Fact on Compromise Settlement (June 18, 1968)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/930",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "About the Hualapai Tribe",
+      "url": "https://hualapai-nsn.gov/community/about_the_hualapai_tribe/index.php",
+      "publisher": "Hualapai Tribe"
     }
   ],
   "openQuestions": [

@@ -57,7 +57,13 @@
     "happened": "The Indian Claims Commission found the United States took Western Apache land without payment on May 1, 1873, and land inside the White Mountain reservation by later executive orders. It found Northern Tonto land taken without payment in 1873 and 1875.",
     "today": "Both claims were settled in 1972: $4,900,000 for the Western Apache and $685,800 for the Northern Tonto. Whether the money was distributed was not traced."
   },
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "White Mountain Apache Tribe",
+      "summary": "In 2009 House testimony, Tribal Chairman Ronnie Lupe said the Fort Apache Reservation was established on November 9, 1871 on 1.66 million acres of aboriginal lands the Tribe has occupied since time immemorial, and that the Tribe has kept exclusive use of its aboriginal lands within the boundaries set by the Executive Orders of November 9, 1871 and December 14, 1872.",
+      "url": "https://webharvest.gov/congress111th/20101210174627/http:/resourcescommittee.house.gov/images/Documents/20090721/testimony_lupe.pdf"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule for 1886, pp. 922-923, area 689",
@@ -88,6 +94,11 @@
       "title": "Dockets 22-D and 22-J, Findings of Fact on Compromise Settlements (September 12, 1972)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1616",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Testimony of Ronnie Lupe, Tribal Chairman, White Mountain Apache Tribe, House Natural Resources Committee hearing (July 21, 2009)",
+      "url": "https://webharvest.gov/congress111th/20101210174627/http:/resourcescommittee.house.gov/images/Documents/20090721/testimony_lupe.pdf",
+      "publisher": "House Committee on Natural Resources (archived by webharvest.gov)"
     }
   ],
   "openQuestions": [

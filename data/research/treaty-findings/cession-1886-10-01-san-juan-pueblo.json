@@ -42,7 +42,13 @@
     }
   ],
   "compensation": "The Board awarded $29,090.53 for the 1,020.63 acres it found the United States could have recovered, and nothing for the other 2,479.09 acres of the 3,499.72 (a difference computed here from the court's figures). The Court of Appeals affirmed the award on February 18, 1931, rejecting the Pueblo's appeal for more. Section 2 of the Act of May 31, 1933 then authorized $153,863.04 \"in addition to the awards made by the Pueblo Lands Board\", for replacement land and water or improvements, in three instalments from fiscal year 1937; the Act does not say how the sum was reached.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Ohkay Owingeh",
+      "summary": "In 2024 House testimony, Governor Larry Phillips Jr. said the United States took the Pueblo's bosque through two actions, the channelizing of the Rio Grande through its homeland from 1955 and the dam built on the Rio Chama, describing the water settlement as the first to settle a tribe's claim that the United States confiscated tribal lands and waters in a river channelization project.",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg56360/html/CHRG-118hhrg56360.htm"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (1899), schedule for 1886, block 'Act of Congress, Stat. L. XI, 374', pp. 920-921",
@@ -73,6 +79,11 @@
       "title": "Pueblo de San Juan v. United States, 47 F.2d 446 (10th Cir. 1931)",
       "url": "https://static.case.law/f2d/47/cases/0446-01.json",
       "publisher": "Caselaw Access Project, Harvard Law School"
+    },
+    {
+      "title": "Legislative hearing on H.R. 8685, H.R. 8920, H.R. 8949 and other water settlement bills, House Subcommittee on Water, Wildlife and Fisheries (July 23, 2024), Serial No. 118-138",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg56360/html/CHRG-118hhrg56360.htm",
+      "publisher": "U.S. Government Publishing Office (govinfo)"
     }
   ],
   "openQuestions": [

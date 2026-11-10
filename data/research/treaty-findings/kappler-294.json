@@ -51,6 +51,11 @@
       "title": "Miami Tribe of Oklahoma et al. v. United States, Dockets 255 and 124-C, Opinion of the Commission (December 3, 1968)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1825",
       "publisher": "Indian Claims Commission decisions, Oklahoma State University Library"
+    },
+    {
+      "title": "1828 Treaty at Wyandot Village (Aacimwahkionkonci land records)",
+      "url": "https://mc.miamioh.edu/aacimwahkionkonci/event/64",
+      "publisher": "Myaamia Center, Miami University, for the Miami Tribe of Oklahoma"
     }
   ],
   "openQuestions": [
@@ -64,5 +69,12 @@
     "today": "The Commission approved a $66,966 settlement in 1968."
   },
   "researchedAt": "2026-11-08",
-  "researcher": "treaty-researcher"
+  "researcher": "treaty-researcher",
+  "nationVoice": [
+    {
+      "nation": "Miami Tribe of Oklahoma (Myaamia Center land records)",
+      "summary": "The Myaamia Center's land record for this treaty, published under the Miami Tribe of Oklahoma's copyright, says the Eel River or Thorntown party gave up its reservation of about ten miles square at its village on Sugartree Creek and agreed to move to the five-mile reservation on Eel River, recording the Thorntown Reserve as land the Miami Nation relinquished.",
+      "url": "https://mc.miamioh.edu/aacimwahkionkonci/event/64"
+    }
+  ]
 }

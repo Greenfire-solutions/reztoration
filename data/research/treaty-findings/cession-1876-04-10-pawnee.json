@@ -29,7 +29,13 @@
     }
   ],
   "today": "In 1920 the Court of Claims found that a later Act of Congress took 160 acres of the reservation out of the sale without the Pawnee's consent; Congress later paid the appraised value of $960. The Indian Claims Commission's Pawnee case (Docket 10) describes the 1876 appraisal and the sales, which began July 15, 1878, but no finding that this sale broke a promise was found. The Commission did find the 1875 payment for a separate 4,800 acre strip (its Claim V) unconscionable; that is a different event. The Indian Territory reservation was ceded under the agreement of November 23, 1892.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Pawnee Nation of Oklahoma",
+      "summary": "The Nation says that after years of trespass, theft, rape and murder by white settlers it sold its Nebraska reservation to the United States in 1874 and bought new lands from the Cherokee and Muscogee nations in what is now Oklahoma.",
+      "url": "https://pawneenation.org/pawnee-history/"
+    }
+  ],
   "sources": [
     {
       "title": "Act of April 10, 1876, ch. 51, 19 Stat. 28 (An act to authorize the sale of the Pawnee Reservation)",
@@ -55,6 +61,11 @@
       "title": "Pawnee Tribe of Indians v. United States, 56 Ct. Cl. 1 (1920), Finding VI",
       "url": "https://static.case.law/us-ct-cl/56/cases/0001-01.json",
       "publisher": "Caselaw Access Project (Harvard Law School Library)"
+    },
+    {
+      "title": "Culture: Pawnee History",
+      "url": "https://pawneenation.org/pawnee-history/",
+      "publisher": "Pawnee Nation of Oklahoma"
     }
   ],
   "openQuestions": [

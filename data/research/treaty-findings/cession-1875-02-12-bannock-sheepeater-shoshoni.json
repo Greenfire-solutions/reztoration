@@ -67,6 +67,11 @@
       "title": "Royce, Indian Land Cessions in the United States (1899), schedule text",
       "url": "https://archive.org/stream/annualreportofbu218smit/annualreportofbu218smit_djvu.txt",
       "publisher": "Internet Archive"
+    },
+    {
+      "title": "Tribal members learn about unratified Virginia City Treaty (Sho-Ban News)",
+      "url": "http://shobannews.com/local_sb0722a01wd.html",
+      "publisher": "Sho-Ban News, newspaper of the Shoshone-Bannock Tribes"
     }
   ],
   "openQuestions": [
@@ -75,7 +80,13 @@
     "Audit 2026-11-08: the settlement figure was added: the findings on the compromise (ICC pointer 1514) print \"$4,500,000.00\" cleanly in the tribal resolution and the Interior Department letter; only the final award's scan of the figure is damaged.",
     "Audit 2026-11-08: Royce dates the unratified treaty this reserve replaced to September 24, 1868 (Royce schedule, remark opposite the order of February 12, 1875)."
   ],
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Shoshone-Bannock Tribes (Agai Deka, Lemhi Shoshone)",
+      "summary": "At the Tribes' 2021 Virginia City Treaty Day gathering, reported by the Sho-Ban News, tribal attorney Jeanette Wolfley said the 1875 executive order establishing the Lemhi Reservation did not end Agai Deka use of their southwest Montana lands, that some Agai Deka were forcibly removed to Fort Hall in 1905 while Chief Tendoy refused to relocate, and that the Tribes hold their aboriginal title there was never given up; Chairman Devon Boyer said the government took what it wanted no matter what the people said.",
+      "url": "http://shobannews.com/local_sb0722a01wd.html"
+    }
+  ],
   "researchedAt": "2026-11-08",
   "researcher": "treaty-researcher",
   "plain": {

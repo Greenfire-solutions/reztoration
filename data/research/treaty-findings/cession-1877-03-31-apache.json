@@ -57,7 +57,13 @@
   "landTaken": "Royce area 602, the strip south of the Gila from the mouth of the San Pedro upstream ten miles, restored to the public domain. No acreage was found in a source opened.",
   "compensation": "None at the time. The Western Apache land claim in Docket 22-D, which covers this tract and the other reductions, was settled for $4,900,000 by final award on September 12, 1972.",
   "today": "The Fort Apache (White Mountain) and San Carlos reservations remain. Whether and how the 1972 award was distributed was not traced.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "White Mountain Apache Tribe",
+      "summary": "In 2009 House testimony, Tribal Chairman Ronnie Lupe said the Fort Apache Reservation was established on November 9, 1871 on 1.66 million acres of aboriginal lands the Tribe has occupied since time immemorial, and that the Tribe has kept exclusive use of its aboriginal lands within the boundaries set by the Executive Orders of November 9, 1871 and December 14, 1872.",
+      "url": "https://webharvest.gov/congress111th/20101210174627/http:/resourcescommittee.house.gov/images/Documents/20090721/testimony_lupe.pdf"
+    }
+  ],
   "plain": {
     "promised": "Not a treaty: a presidential order that cut a strip along the Gila River below the San Pedro out of the White Mountain reservation in Arizona and returned it to the public domain, with no payment stated.",
     "happened": "In 1969 the Indian Claims Commission held that this order and others like it took Western Apache land inside the reservation without paying for it.",
@@ -83,6 +89,11 @@
       "title": "San Carlos Apache Tribe et al. v. United States, Docket 22-D, Final Award (September 12, 1972)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/1055",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Testimony of Ronnie Lupe, Tribal Chairman, White Mountain Apache Tribe, House Natural Resources Committee hearing (July 21, 2009)",
+      "url": "https://webharvest.gov/congress111th/20101210174627/http:/resourcescommittee.house.gov/images/Documents/20090721/testimony_lupe.pdf",
+      "publisher": "House Committee on Natural Resources (archived by webharvest.gov)"
     }
   ],
   "openQuestions": [

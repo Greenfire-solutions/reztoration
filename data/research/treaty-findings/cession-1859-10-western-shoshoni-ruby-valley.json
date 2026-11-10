@@ -32,7 +32,13 @@
   "landTaken": "Royce gives the reserve as six miles square. The Commission valued the whole Western Shoshone tract, 22,211,753 acres in Nevada, excluding 23,597 acres then in Indian reservations; the 1859 reserve, which Royce records as abandoned, is not identified among them. A footnote to its 1972 opinion mentions the 1859 Ruby Valley reservation, citing Royce, but the Commission made no separate finding about it.",
   "compensation": "The Docket 326-K award ($26 million, as the Supreme Court gives it) was deposited in a Treasury account; the Supreme Court held in United States v. Dann (1985) that this deposit was payment under the Indian Claims Commission Act.",
   "today": "United States v. Dann (1985) went against the Dann sisters, who argued Western Shoshone title survived; the Court held the award deposit barred that defence. Many Western Shoshone reject the award (see kappler-859, Treaty of Ruby Valley, 1863).",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Te-Moak Tribe of Western Shoshone",
+      "summary": "The Tribe says overland emigrants settled throughout the Newe region claiming the most fertile lands, that the Treaty of Ruby Valley of 1863 granted it ownership of much of eastern Nevada, and that when the government later agreed to pay $26 million in compensation the tribe rejected the offer and insisted on a return of the land.",
+      "url": "https://www.temoaktribe.com/history.shtml"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule pp. 822-823",
@@ -53,6 +59,11 @@
       "title": "United States v. Dann, 470 U.S. 39 (1985)",
       "url": "https://www.law.cornell.edu/supremecourt/text/470/39",
       "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "History",
+      "url": "https://www.temoaktribe.com/history.shtml",
+      "publisher": "Te-Moak Tribe of Western Shoshone"
     }
   ],
   "openQuestions": [

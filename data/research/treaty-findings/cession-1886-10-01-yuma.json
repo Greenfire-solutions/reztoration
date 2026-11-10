@@ -41,7 +41,13 @@
   ],
   "compensation": "$520,000.00 net by compromise final judgment, August 5, 1965. The Commission's findings on the settlement attribute $353,000 of it to the Arizona land.",
   "today": "This record maps the Quechan country in Arizona (Royce 685), which is the land of the Docket 319 Arizona finding already carried by cession-1884-01-09-yuma. It is marked as the same event so the taking is not counted twice.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Quechan Indian Tribe",
+      "summary": "In its 1999 filing to the Supreme Court the Tribe says its people refused to move to the Colorado River Reservation of 1865 because it was remote from their aboriginal lands, and that as settlement grew the United States finally set up the Fort Yuma Reservation for the Quechan at its present site on January 9, 1884.",
+      "url": "https://www.supremecourt.gov/pdfs/recordsandbriefs/1000173769/1000173769_004.pdf"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 922-923, area 685",
@@ -67,6 +73,11 @@
       "title": "Quechan Tribe v. United States, Docket 319, Final Judgment (August 5, 1965)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/701",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Exception of the Quechan Indian Tribe to the Report and Recommendation of the Special Master and Supporting Memorandum, Arizona v. California, No. 8, Original (December 20, 1999)",
+      "url": "https://www.supremecourt.gov/pdfs/recordsandbriefs/1000173769/1000173769_004.pdf",
+      "publisher": "Supreme Court of the United States (filed by the Quechan Indian Tribe)"
     }
   ],
   "openQuestions": [

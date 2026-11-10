@@ -54,7 +54,13 @@
   "landTaken": "The Hualapai aboriginal land outside the reservation: \"Excluding petitioner's reservation\", 4,459,500 acres (finding 20, December 21, 1966).",
   "compensation": "$2,950,000 by stipulated final judgment of June 18, 1968 (Dockets 90 and 122), a compromise. The Commission had valued the land at $2,800,000 as of January 4, 1883.",
   "today": "In United States v. Santa Fe Pacific Railroad Co. (December 8, 1941) the Supreme Court held that the creation of this reservation at the Walapai's request and their acceptance of it amounted to a relinquishment of their claims to land outside it, while rejecting the railroad's argument that earlier events had extinguished their title. That ruling went against the tribe on the outside lands and is not counted as a breach; the Commission later held the United States liable for their value.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Hualapai Tribe",
+      "summary": "The Tribe says an executive order established the Hualapai reservation in 1883, and that the reservation covers about one million acres along 108 miles of the Grand Canyon and the Colorado River.",
+      "url": "https://hualapai-nsn.gov/community/about_the_hualapai_tribe/index.php"
+    }
+  ],
   "sources": [
     {
       "title": "Charles C. Royce, Indian Land Cessions in the United States (18th Annual Report of the Bureau of American Ethnology, 1899), schedule p. 910, executive order of January 4, 1883",
@@ -95,6 +101,11 @@
       "title": "United States v. Santa Fe Pacific Railroad Co., 314 U.S. 339 (1941)",
       "url": "https://www.law.cornell.edu/supremecourt/text/314/339",
       "publisher": "Legal Information Institute, Cornell Law School"
+    },
+    {
+      "title": "About the Hualapai Tribe",
+      "url": "https://hualapai-nsn.gov/community/about_the_hualapai_tribe/index.php",
+      "publisher": "Hualapai Tribe"
     }
   ],
   "openQuestions": [

@@ -54,7 +54,13 @@
   "landTaken": "The Royce 691 area is the reservation the Jicarilla kept. The taking found by the Commission is of the aboriginal land around it: 9,218,532.77 acres valued (Docket 22-A, 1966).",
   "compensation": "$9,150,000 by stipulated final award, April 21, 1971 (Docket 22-A).",
   "today": "The Jicarilla Apache Nation still lives on this reservation. The Docket 22-A taking is counted once, under cession-1886-10-01-apache-eastern-bands.",
-  "nationVoice": [],
+  "nationVoice": [
+    {
+      "nation": "Jicarilla Apache Nation",
+      "summary": "The Nation says President Cleveland's Executive Order established its reservation on February 11, 1887, that before then the Jicarilla Apache people were treated as squatters on their own lands and denied the right to own land, and that their people once ranged across northeastern New Mexico, southern Colorado and the Oklahoma and Texas panhandles.",
+      "url": "https://web.archive.org/web/20060529074844/http://www.jicarillaonline.com/History/Jicarilla%20Apache%20Land.html"
+    }
+  ],
   "sources": [
     {
       "title": "Royce, Indian Land Cessions in the United States (18th Annual Report, Bureau of American Ethnology, 1899), schedule p. 924, Jicarilla Apache entry of Feb. 11, 1887",
@@ -80,6 +86,11 @@
       "title": "Jicarilla Apache Tribe v. United States, Docket 22-A, Final Award (April 21, 1971)",
       "url": "https://cdm17279.contentdm.oclc.org/digital/collection/p17279coll10/id/2037",
       "publisher": "Oklahoma State University Library, Indian Claims Commission Decisions"
+    },
+    {
+      "title": "Historic Jicarilla Apache Land (archived 2006 copy of the Nation's website)",
+      "url": "https://web.archive.org/web/20060529074844/http://www.jicarillaonline.com/History/Jicarilla%20Apache%20Land.html",
+      "publisher": "Jicarilla Apache Nation (via Internet Archive)"
     }
   ],
   "openQuestions": [
