@@ -9,7 +9,7 @@ import { fileURLToPath } from 'node:url';
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const PORT = Number(process.env.TEST_PORT || 8602);
 const BASE = `http://127.0.0.1:${PORT}`;
-const HOMELANDS = fs.existsSync(path.join(root, 'public/data/territories.json'));
+const HOMELANDS = fs.existsSync(path.join(root, 'public/data/territories.json')) && !process.env.REZ_NO_HOMELANDS;
 const SHOTS = process.env.SHOTS || '';
 const nations = JSON.parse(fs.readFileSync(path.join(root, 'data/research/nations.json'), 'utf8'));
 const navajoNation = nations.find((n) => n.name === 'Navajo Nation').id;
@@ -35,7 +35,7 @@ const pages = [
   ['library plants', '#library/plants', ['--expect', '.libbody details.plant=10']],
   ['phone: welcome', '', [...PHONE, '--expect', '.doors a=3']],
   ['phone: broken', '#broken/OK', [...PHONE, '--expect', '.bt-card=5']],
-  ['phone: map key', '#treaties', [...PHONE, '--click', '#key-btn', '--expect', 'body.key-open=1']],
+  ['phone: map key', '#treaties', [...PHONE, '--ready', 'html[data-ready]', '--click', '#key-btn', '--expect', 'body.key-open=1']],
 ];
 if (HOMELANDS) pages.push(
   ['a homeland', '#territory/navajo', ['--expect', '.tabs.main button=4', '--expect', '.nname a=1', '--expect', '.summary .linkish=2']],
@@ -72,23 +72,58 @@ pages.push(
   ['toggles say whether they are on', '#broken/MN', ['--expect', '.mode button[aria-pressed="true"]=1']],
 );
 
-async function main() {
-  try { const r = await fetch(`${BASE}/api/whoami`); if (r.ok) { console.error(`Port ${PORT} is taken. Set TEST_PORT.`); process.exit(2); } } catch {}
-  const srv = spawn(process.execPath, ['server.mjs'], { cwd: root, env: { ...process.env, PORT: String(PORT) }, stdio: 'ignore' });
+// The public copy never has Native Land's outlines (their terms forbid shipping them), so
+// these run against a second server started with REZ_NO_HOMELANDS=1. The map must still open.
+const publicPages = [
+  ['public copy: the map opens', '', ['--expect', '#welcome:not([hidden])=1', '--expect', '#l-territories-row[hidden]=1', '--expect', '#stats:not(:empty)=1']],
+  ['public copy: where am I, a town', '#where/Gallup', ['--expect', '.whereout .trow=1', '--expect', '.whereout .empty=1']],
+  ['public copy: a nation', `#nation/${navajoNation}`, ['--expect', '#panel h2=1']],
+  ['public copy: a treaty', '#treaty/cession-1891-02-13-iowa', ['--expect', '#panel h2=1']],
+  ['public copy: broken treaties', '#broken/MN', ['--expect', '.bt-card=3']],
+  ['public copy: search', '#broken', ['--run', type('Hopi'), '--expect', 'body[data-hash^="#nation/hopi"]=1']],
+];
+
+// A click or a script can land before the app has wired its controls (several buttons are in the
+// HTML from the start). Every screen waits for the mark the app sets once it is wired.
+function waitForApp(args) {
+  const a = [...args];
+  const i = a.indexOf('--ready');
+  if (i >= 0) a[i + 1] = `html[data-ready] ${a[i + 1]}`.replace('html[data-ready] html[data-ready]', 'html[data-ready]');
+  else a.unshift('--ready', 'html[data-ready]');
+  return a;
+}
+
+async function startServer(port, env = {}) {
+  const base = `http://127.0.0.1:${port}`;
+  try { const r = await fetch(`${base}/api/whoami`); if (r.ok) { console.error(`Port ${port} is taken. Set TEST_PORT.`); process.exit(2); } } catch {}
+  const srv = spawn(process.execPath, ['server.mjs'], { cwd: root, env: { ...process.env, ...env, PORT: String(port) }, stdio: 'ignore' });
   let up = false;
-  for (let i = 0; i < 80 && !up; i++) { await new Promise((r) => setTimeout(r, 250)); try { up = (await (await fetch(`${BASE}/api/whoami`)).json()).pid === srv.pid; } catch {} }
+  for (let i = 0; i < 80 && !up; i++) { await new Promise((r) => setTimeout(r, 250)); try { up = (await (await fetch(`${base}/api/whoami`)).json()).pid === srv.pid; } catch {} }
   if (!up) { srv.kill(); console.error('server did not start'); process.exit(1); }
-  if (SHOTS) fs.mkdirSync(SHOTS, { recursive: true });
-  const failed = [];
-  for (const [name, hash, args] of pages) {
+  return { srv, base };
+}
+
+function runPages(base, list, failed) {
+  for (const [name, hash, args] of list) {
     const extra = SHOTS ? ['--shot', path.join(SHOTS, `${name.replace(/[^a-z0-9]+/gi, '-')}.png`)] : [];
-    const r = spawnSync(process.execPath, [path.join(root, 'tests/prove-page.mjs'), `${BASE}/${hash}`, '--gpu', '--timeout', '30000', ...args, ...extra], { encoding: 'utf8', timeout: 120000 });
+    const r = spawnSync(process.execPath, [path.join(root, 'tests/prove-page.mjs'), `${base}/${hash}`, '--gpu', '--timeout', '30000', ...waitForApp(args), ...extra], { encoding: 'utf8', timeout: 120000 });
     const ok = r.status === 0;
     console.log(`${ok ? 'ok  ' : 'FAIL'} ${name}`);
-    if (!ok) { failed.push(name); console.log((r.stdout + r.stderr).split('\n').filter((l) => /FAIL|Error|exception/i.test(l)).map((l) => `     ${l.trim()}`).join('\n')); }
+    if (!ok) { failed.push(name); console.log((r.stdout + r.stderr).split('\n').filter((l) => /FAIL|Error|exception|AT FAILURE/i.test(l)).map((l) => `     ${l.trim()}`).join('\n')); }
   }
-  srv.kill();
-  console.log(`\n${pages.length - failed.length} of ${pages.length} pages render.${HOMELANDS ? '' : ' (Homeland pages skipped: no Native Land outlines in this copy.)'}`);
+}
+
+async function main() {
+  if (SHOTS) fs.mkdirSync(SHOTS, { recursive: true });
+  const failed = [];
+  const full = await startServer(PORT);
+  runPages(full.base, pages, failed);
+  full.srv.kill();
+  const pub = await startServer(PORT + 1, { REZ_NO_HOMELANDS: '1' });
+  runPages(pub.base, publicPages, failed);
+  pub.srv.kill();
+  const total = pages.length + publicPages.length;
+  console.log(`\n${total - failed.length} of ${total} pages render.${HOMELANDS ? '' : ' (Homeland pages skipped: no Native Land outlines in this copy.)'}`);
   process.exit(failed.length ? 1 : 0);
 }
 main();

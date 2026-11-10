@@ -41,7 +41,7 @@
 <section id="welcome" hidden role="dialog" aria-modal="true" aria-labelledby="welcome-title">
   <button class="x" aria-label="Close">×</button>
   <h2 id="welcome-title">The land, by the nations who belong to it</h2>
-  <p>Every coloured shape is a homeland. Gold shapes are tribal lands held today. Click anything on the map, or start with one of these.</p>
+  <p id="welcome-lede">Every coloured shape is a homeland. Gold shapes are tribal lands held today. Click anything on the map, or start with one of these.</p>
   <div class="doors">
     <button data-door="find"><b>Find a nation</b><span>By the name you use: Diné, Lakota, Ojibwe, Haudenosaunee</span></button>
     <a href="#where"><b>What land am I on?</b><span>A town, a zip code, or your location</span></a>
@@ -60,7 +60,7 @@
 <footer class="bottom" id="bottom">
   <button id="key-btn" aria-expanded="false" aria-controls="layers">Map key</button>
   <div class="layers" id="layers">
-    <label class="then-only"><input type="checkbox" id="l-territories" checked> Traditional territories</label>
+    <label class="then-only" id="l-territories-row"><input type="checkbox" id="l-territories" checked> Traditional territories</label>
     <label class="then-only"><input type="checkbox" id="l-treaties"> Treaties</label>
     <label class="then-only"><input type="checkbox" id="l-lands" checked> Tribal lands today</label>
     <label><input type="checkbox" id="l-states"> State lines</label>

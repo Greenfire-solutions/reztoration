@@ -86,7 +86,11 @@ Object.values(groups).forEach((g) => scene.add(g));
 
 async function load() {
   const [states, territories, lands] = await Promise.all([
-    getJSON('/data/states.json'), getJSON('/data/territories.json'), getJSON('/data/reservations.json'),
+    getJSON('/data/states.json'),
+    // The homeland outlines are Native Land's and are never shipped without their written
+    // permission, so a public copy has none: the map still opens with everything else.
+    getJSON('/data/territories.json').catch(() => []),
+    getJSON('/data/reservations.json'),
   ]);
 
   // Land base: the continent as a dark slab.
@@ -147,6 +151,11 @@ async function load() {
   state.landMesh = landMesh;
 
   state.territories = territories;
+  if (!territories.length) {
+    // No homeland outlines in this copy: say what the map does show, and drop the switch for a layer that is not there.
+    $('#l-territories-row').hidden = true;
+    $('#welcome-lede').textContent = 'Gold shapes are tribal lands held today. Click anything on the map, or start with one of these.';
+  }
   state.lands = lands;
   makeLabels(territories);
   getJSON('/api/stats').then(showStats).catch(() => {});
@@ -156,10 +165,12 @@ async function load() {
   loadTreaties().catch(() => {});
   routeFromHash();
   maybeWelcome();
+  // Every control is wired by now; tests (and anything else) can wait for this.
+  document.documentElement.dataset.ready = '1';
 }
 
 function showStats(s) {
-  const parts = [`${s.territories} territories`, `${s.lands} tribal lands`];
+  const parts = [...(s.territories ? [`${s.territories} territories`] : []), `${s.lands} tribal lands`];
   if (s.nations) parts.push(`${s.nations} nations`);
   if (s.items) parts.push(`${s.items.toLocaleString()} stories, photos and recordings`);
   if (s.plantUses) parts.push(`${s.plantUses.toLocaleString()} plant uses`);
@@ -1329,7 +1340,9 @@ async function openWhere(arg) {
   if (others.length) h += `<p class="note">Not this one? ${others.map((o) => `<a href="#where/${encodeURIComponent(`${o.name}, ${o.state}`)}">${esc(o.name)}, ${esc(o.state)}</a>`).join(' · ')}</p>`;
   h += d.homelands.length ? `<p>This is the homeland of</p><div class="links big">${d.homelands.map((t) => `<a href="#territory/${encodeURIComponent(t.id)}"><span class="swatch" style="background:${cssColor(t.color)}"></span>${esc(t.name)}</a>`).join('')}</div>
       <p class="note">Homelands overlap: borders were shared, seasonal and negotiated. Outlines from Native Land Digital are approximate, a place to start a conversation, not settle one.</p>`
-    : '<p class="empty">No homeland outline on this map covers this exact spot. That does not mean no one belonged here.</p>';
+    : state.territories.length
+      ? '<p class="empty">No homeland outline on this map covers this exact spot. That does not mean no one belonged here.</p>'
+      : '<p class="empty">This copy of the map does not show homeland outlines. Every place here belonged to someone; the nations nearby today and the treaties for this land are below.</p>';
   if (d.onLand.length) h += `<h3>You are on tribal land today</h3>${d.onLand.map((l) => `<a class="trow" href="#land/${encodeURIComponent(l.id)}"><span>${esc(l.name)}</span><small>${esc(l.kind)}</small></a>`).join('')}`;
   if (d.treaties.length) h += `<h3>How this land was taken</h3>${d.treaties.map(treatyRow).join('')}`;
   else h += '<h3>How this land was taken</h3><p class="empty">No land cession in Royce\'s survey covers this spot. Some land was taken with no treaty at all.</p>';

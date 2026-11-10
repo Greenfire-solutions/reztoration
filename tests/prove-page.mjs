@@ -224,7 +224,7 @@ try {
     try { state = await evaluate(sessionId, probe) } catch { continue }
     // With --click, wait only for the thing to click; the expectations are about what follows it.
     const enough = typeof flag('click') === 'string'
-      ? await evaluate(sessionId, `!!document.querySelector(${JSON.stringify(flag('click'))})`).catch(() => false)
+      ? await evaluate(sessionId, `!!document.querySelector(${JSON.stringify(flag('click'))}) && !!document.querySelector(${JSON.stringify(flag('ready') || 'body')})`).catch(() => false)
       : typeof flag('run') === 'string'
       ? await evaluate(sessionId, `!!document.querySelector(${JSON.stringify(flag('ready') || 'body')})`).catch(() => false)
       : state.nodes >= MIN_NODES && EXPECT.every((e) => (state.counts[e.sel] ?? 0) >= e.min)
@@ -290,6 +290,11 @@ try {
   }
 
   t('no uncaught exception', exceptions.length === 0, exceptions.slice(0, 3).join(' | '))
+  // When something failed, say where the page was and what it showed, so a flaky failure explains itself.
+  if (failed) {
+    const at = await evaluate(sessionId, `(() => { const p = document.querySelector('[role=dialog]:not([hidden]), #panel:not([hidden]), main'); return location.hash + ' | ' + (p ? p.innerText.replace(/\\s+/g, ' ').slice(0, 200) : document.body.innerText.replace(/\\s+/g, ' ').slice(0, 200)); })()`).catch((e) => String(e.message))
+    console.log('  AT FAILURE  ' + at)
+  }
   if (!flag('allow-console')) {
     t('no console errors', consoleErrors.length === 0, consoleErrors.slice(0, 3).join(' | '))
   } else if (consoleErrors.length) {

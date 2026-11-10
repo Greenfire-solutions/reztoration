@@ -36,6 +36,8 @@ function serveStatic(req, res, pathname) {
   for (const [prefix, dir] of STATIC) {
     if (!pathname.startsWith(prefix)) continue;
     let rel = dec(pathname.slice(prefix.length)) || 'index.html';
+    // No outlines in this copy (they are never shipped without Native Land's permission): an empty map layer, not a 404.
+    if (rel === 'data/territories.json' && (process.env.REZ_NO_HOMELANDS || !fs.existsSync(path.join(dir, rel)))) return send(res, 200, []);
     const file = path.normalize(path.join(dir, rel));
     if (!file.startsWith(dir)) return send(res, 403, { error: 'forbidden' });
     if (fs.existsSync(file) && fs.statSync(file).isFile()) {

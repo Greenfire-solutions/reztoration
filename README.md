@@ -39,3 +39,5 @@ Matching is strict on purpose: a hit counts only when the people's name sits bes
 ## Native Land data is not in this repository
 
 The territory outlines come from Native Land Digital (https://native-land.ca/). Their Data Sovereignty Treaty does not allow the data to be stored or redistributed without their written permission, so `data/raw/nativeland-territories.json` and the built `public/data/territories.json` are left out of git until they say yes. To run the map yourself, get the territories from the Native Land API under their terms, save them as `data/raw/nativeland-territories.json`, and run `npm run build`. See `data/research/nativeland-terms.md`.
+
+Without the outlines the map still opens: tribal lands today, treaties, nations, businesses, "What land am I on?" and the Library all work, and the homeland layer and its pages are simply absent. `REZ_NO_HOMELANDS=1 npm start` runs a copy that has the outlines as if it did not, and the page suite checks that mode on its own server every run.
