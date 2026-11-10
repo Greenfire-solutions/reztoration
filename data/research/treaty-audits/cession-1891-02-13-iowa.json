@@ -1,0 +1,31 @@
+{
+  "id": "cession-1891-02-13-iowa",
+  "auditedAt": "2026-11-10",
+  "verdict": "corrected",
+  "checked": [
+    "68 Ct. Cl. 585 opened as JSON at static.case.law/us-ct-cl/68/cases/0585-01.json: Iowa Tribe of Indians v. United States, No. 34677, decided May 6, 1929, new judgment December 2, 1929, Booth C.J., under the special jurisdictional act 41 Stat. 585 (fees capped at 10 per cent).",
+    "The court finds the evidence 'clearly establishes the existence of an agreement, the terms of which are not expressed in the written contract' that the Iowa would get more if adjoining reservations got higher prices; quote exact, 18 words.",
+    "The court says the Sac and Fox and Kickapoo, whose reservations adjoined, were paid $1.25 an acre, that the Iowa cession averaged 38 cents, that 219,803 acres of surplus were obtained at that price, and that a later survey added 50,818 acres the Government sold to settlers at $1.25. Judgment $254,632.59. All match the file.",
+    "Breach kind court-ruling is right: a judgment on the merits for the tribe, not a settlement or compromise. It is about this 1890 agreement, not the 1883 order or the Sac and Fox agreement.",
+    "Act of February 13, 1891, ch. 165, 26 Stat. 749 (govinfo PDF, text extracted): ratifies the Sac and Fox agreement of June 12, 1890 and the Iowa agreement of May 20, 1890, Iowa text on pp. 753-758. Articles I (cession by the Deep Fork, Sac and Fox west line, Cimarron, Indian Meridian boundary of the 1883 order), II (80 acres each), IV (25-year trust, conveyances void, no tax or seizure), VI ($24,000 for houses, breeding animals, implements, seeds), VII ($3,600 a year falling by five-year steps to $1,200) and VIII (other claims unaffected) all match the promises.",
+    "Royce schedule (Internet Archive OCR of annualreportofbu218smit): the only Feb. 13, 1891 row under Stat. L. XXVI, 749 is the Sauk and Fox; there is no Iowa row, as the file says.",
+    "ICC Docket 79, Opinion of May 27, 1952 (icc.mjs text 296): the Iowa Tribe of the Iowa Reservation in Oklahoma seeks an accounting arising from the Jerome Agreement of May 20, 1890; the Commission does not consider it further on that motion. Matches the today field.",
+    "Court of Claims index (ctcl-index find iowa, 11 cases) and ICC full text (iowa jerome, 9 decisions): no other finding on the 1890 agreement. 195 Ct. Cl. 365 (1971) is ICC Docket 135 and the 1973 order (id 2182) is Docket 153; neither concerns this agreement.",
+    "iowanation.org/about-us: the original Oklahoma reservation was established by executive order of August 15, 1883, and the treaty documents list the President's message transmitting the Cherokee Commission agreement with the Iowa. Nation voice summary is accurate and attributed to the Tribe.",
+    "Double count: cession-1883-08-15-iowa is the creation of the reservation, status no-breach-found, and states it does not count this finding. This record is the later cession, a different event, so no sameEventAs. The Sauk and Fox 1891 record does not cite 68 Ct. Cl. 585.",
+    "No em dashes in the file. Plain lines checked against the audited fields; word counts 25, 39 and 15 after correction."
+  ],
+  "changes": [
+    "plain.promised: 'gave up their Oklahoma reservation' changed to 'gave up the surplus land of their Oklahoma reservation', matching the breach and the court; each member kept an allotment.",
+    "plain.happened: said the commissioners 'paid them an average of 38 cents an acre'; the commissioners did not pay. Reworded to say the neighbours got $1.25 an acre and the Iowa averaged 38 cents, as the breach states.",
+    "openQuestions: audit line added, including that the court's two stated figures ($193,253.00 and $63,597.00) sum to $256,850.00, not the $254,632.59 awarded; the opinion does not show the arithmetic, so only the award is recorded."
+  ],
+  "unverifiable": [
+    "House Report No. 581, 66th Congress, 2d session was not opened; the court quotes it, so it stays out of the breaches, as the file already says.",
+    "Whether the $254,632.59 was paid, and the attorneys' fee, were not traced.",
+    "The Findings of Fact (Finding XII and others) are referred to in the opinion but are not in the Caselaw Access Project text; only the opinion was read."
+  ],
+  "treatiesJsonErrors": [
+    "treaties.json (the Forest Service list) has no record for the 1890 Iowa agreement; this record exists only through the treaty-corrections.json split from cession-1883-08-15-iowa."
+  ]
+}
