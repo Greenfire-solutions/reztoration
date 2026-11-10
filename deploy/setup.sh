@@ -6,7 +6,9 @@
 #   bash setup.sh                      # address becomes <public-ip>.sslip.io, with free HTTPS
 #   bash setup.sh map.example.org      # or your own domain, once its DNS points at this machine
 #
-# Safe to run again: every step checks before it changes anything.
+# Safe to run again: every step checks before it changes anything. Safe on a server that already
+# hosts other sites: it keeps the installed Node.js if it is new enough, adds its own Caddy site
+# file instead of rewriting the Caddyfile, and validates Caddy before reloading it.
 set -euo pipefail
 
 REPO=https://github.com/Greenfire-solutions/reztoration.git
@@ -32,8 +34,10 @@ say "System packages"
 sudo apt-get update -qq
 sudo DEBIAN_FRONTEND=noninteractive apt-get install -y -qq git curl ca-certificates debian-keyring debian-archive-keyring apt-transport-https gnupg iptables-persistent >/dev/null
 
-# ---- Node.js, from nodejs.org, verified
-if ! node -v 2>/dev/null | grep -q "^v${NODE_VERSION}$"; then
+# ---- Node.js: keep an installed one if it is 20 or newer (other apps may depend on it);
+# otherwise install from nodejs.org, verified against the published checksum.
+NODE_MAJOR=$(node -v 2>/dev/null | sed -E 's/^v([0-9]+).*/\1/' || true)
+if [[ -z "$NODE_MAJOR" || "$NODE_MAJOR" -lt 20 ]]; then
   say "Node.js $NODE_VERSION"
   case "$(uname -m)" in aarch64) ARCH=arm64 ;; x86_64) ARCH=x64 ;; *) echo "Unsupported CPU $(uname -m)"; exit 1 ;; esac
   TARBALL="node-v${NODE_VERSION}-linux-${ARCH}.tar.xz"
@@ -44,7 +48,8 @@ if ! node -v 2>/dev/null | grep -q "^v${NODE_VERSION}$"; then
   sudo tar -xJf "$TMP/$TARBALL" -C /usr/local --strip-components=1
   rm -rf "$TMP"
 fi
-node -v
+NODE_BIN=$(command -v node)
+echo "Using $NODE_BIN $(node -v)"
 
 # ---- Caddy (web server with automatic free HTTPS), from Caddy's official package repository
 if ! command -v caddy >/dev/null; then
@@ -82,7 +87,7 @@ After=network.target
 [Service]
 User=rez
 WorkingDirectory=$APP_DIR
-ExecStart=/usr/local/bin/node server.mjs
+ExecStart=$NODE_BIN server.mjs
 Environment=PORT=$PORT
 Environment=NODE_ENV=production
 Environment=REZ_NO_HOMELANDS=1
@@ -104,9 +109,11 @@ sudo systemctl daemon-reload
 sudo systemctl enable --now reztoration >/dev/null
 sudo systemctl restart reztoration
 
-# ---- Caddy in front: HTTPS, compression, and the app stays on 127.0.0.1
+# ---- Caddy in front: HTTPS, compression, and the app stays on 127.0.0.1.
+# Its own site file, imported by the main Caddyfile; nothing else in Caddy is touched.
 say "HTTPS for $DOMAIN"
-sudo tee /etc/caddy/Caddyfile >/dev/null <<CADDY
+SITE=/etc/caddy/reztoration.caddy
+sudo tee "$SITE" >/dev/null <<CADDY
 $DOMAIN {
 	encode zstd gzip
 	reverse_proxy 127.0.0.1:$PORT
@@ -119,13 +126,21 @@ $DOMAIN {
 	}
 }
 CADDY
-sudo systemctl reload caddy || sudo systemctl restart caddy
+# A brand-new Caddy ships a placeholder site on :80; replace only that placeholder.
+if grep -q "/usr/share/caddy" /etc/caddy/Caddyfile 2>/dev/null; then echo "import $SITE" | sudo tee /etc/caddy/Caddyfile >/dev/null
+elif ! grep -qF "import $SITE" /etc/caddy/Caddyfile; then sudo cp /etc/caddy/Caddyfile "/etc/caddy/Caddyfile.bak-$(date +%Y%m%d%H%M%S)"; printf '\nimport %s\n' "$SITE" | sudo tee -a /etc/caddy/Caddyfile >/dev/null; fi
+if ! sudo caddy validate --config /etc/caddy/Caddyfile --adapter caddyfile >/dev/null 2>&1; then
+  sudo caddy validate --config /etc/caddy/Caddyfile --adapter caddyfile || true
+  echo "Caddy rejected the new config. Removing the Reztoration site so the other sites keep working."
+  sudo rm -f "$SITE"; sudo sed -i "\\|^import $SITE\$|d" /etc/caddy/Caddyfile; exit 1
+fi
+sudo systemctl reload caddy
 
 # ---- Oracle's Ubuntu images block everything but SSH in iptables. Open 80 and 443 here.
 # (The cloud network's security list must ALSO allow them: see deploy/README.md, step 3.)
 say "Firewall"
 for p in 80 443; do
-  sudo iptables -C INPUT -p tcp --dport $p -m state --state NEW -j ACCEPT 2>/dev/null && continue
+  sudo iptables -S INPUT | grep -q -- "--dport $p " && continue   # already open
   # Insert above Oracle's catch-all REJECT rule, wherever it sits; append if there is none.
   n=$(sudo iptables -L INPUT --line-numbers -n | awk '/REJECT/ {print $1; exit}')
   if [[ -n "$n" ]]; then sudo iptables -I INPUT "$n" -p tcp --dport $p -m state --state NEW -j ACCEPT
