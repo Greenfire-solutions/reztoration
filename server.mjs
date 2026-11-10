@@ -8,10 +8,15 @@ import { Library } from './lib/library.mjs';
 import { TreatyStore } from './lib/treaty-store.mjs';
 import { Today } from './lib/today.mjs';
 import { Places, STATES } from './lib/places.mjs';
+import { RateLimit, visitorIp } from './lib/ratelimit.mjs';
 
 const root = path.dirname(fileURLToPath(import.meta.url));
 const PORT = Number(process.env.PORT || 8600);
 const started = new Date().toISOString();
+// Public hosting (deploy/): REZ_API_PER_MIN caps API requests per visitor per minute (0 = no cap, the
+// default on this machine), and REZ_BEHIND_PROXY=1 trusts Caddy's X-Forwarded-For for the visitor's address.
+const limit = new RateLimit(Number(process.env.REZ_API_PER_MIN || 0));
+const behindProxy = !!process.env.REZ_BEHIND_PROXY;
 const lib = new Library(root);
 const treaties = new TreatyStore(root, lib);
 const today = new Today(root, lib);
@@ -51,6 +56,10 @@ function serveStatic(req, res, pathname) {
 const server = http.createServer((req, res) => {
   const url = new URL(req.url, 'http://x');
   const p = url.pathname;
+  if (p.startsWith('/api/') && !limit.allow(visitorIp(req, behindProxy))) {
+    res.writeHead(429, { 'content-type': 'application/json', 'retry-after': '60' });
+    return res.end(JSON.stringify({ error: 'too many requests; try again in a minute' }));
+  }
   try {
     // Identity without disclosure: no folder path or process number. A test or launcher that must know
     // the server is its own starts it with REZ_INSTANCE=<random> and looks for that token here.

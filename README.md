@@ -36,6 +36,10 @@ Or double-click **Start Reztoration.command**.
 Matching is strict on purpose: a hit counts only when the people's name sits beside a people word ("Crow Indians", "Chinook texts", "Tribe of the Fox") or is a library subject heading, so crows, Fox News and Chinook salmon stay out.
 - `public/` : the three.js page.
 
+## Hosting it
+
+`deploy/README.md` puts the map online for free on an Oracle Cloud Always Free machine: one setup script, HTTPS through Caddy, a per-visitor request limit, and never the Native Land outlines.
+
 ## Native Land data is not in this repository
 
 The territory outlines come from Native Land Digital (https://native-land.ca/). Their Data Sovereignty Treaty does not allow the data to be stored or redistributed without their written permission, so `data/raw/nativeland-territories.json` and the built `public/data/territories.json` are left out of git until they say yes. To run the map yourself, get the territories from the Native Land API under their terms, save them as `data/raw/nativeland-territories.json`, and run `npm run build`. See `data/research/nativeland-terms.md`.

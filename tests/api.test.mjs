@@ -10,6 +10,7 @@ import { fileURLToPath } from 'node:url';
 import { isSacred, itemBlocked, plantUseBlocked } from '../lib/protocols.mjs';
 import { checkBusiness } from '../lib/businesses.mjs';
 import { checkFinding } from '../lib/treaties.mjs';
+import { RateLimit, visitorIp } from '../lib/ratelimit.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const PORT = Number(process.env.TEST_PORT || 8602);
@@ -418,4 +419,22 @@ test('protocol 4: Native Land outlines are kept out of git', () => {
   const ig = fs.readFileSync(path.join(root, '.gitignore'), 'utf8');
   assert.match(ig, /data\/raw\/nativeland-territories\.json/);
   assert.match(ig, /public\/data\/territories\.json/);
+});
+
+// Public hosting: one visitor cannot swamp the API, and the visitor's address is read safely.
+test('the request limit stops a visitor past the cap and resets each minute', () => {
+  let t = 0;
+  const rl = new RateLimit(3, () => t);
+  assert.deepEqual([1, 2, 3, 4].map(() => rl.allow('a')), [true, true, true, false]);
+  assert.equal(rl.allow('b'), true, 'another visitor is not affected');
+  t = 60000;
+  assert.equal(rl.allow('a'), true, 'a new minute starts fresh');
+  assert.equal(new RateLimit(0).allow('a'), true, 'no cap when unset');
+});
+
+test('the visitor address trusts the proxy header only from the proxy itself', () => {
+  const req = (sock, xff) => ({ socket: { remoteAddress: sock }, headers: xff ? { 'x-forwarded-for': xff } : {} });
+  assert.equal(visitorIp(req('127.0.0.1', '6.6.6.6, 203.0.113.9'), true), '203.0.113.9', 'Caddy appends the real address last');
+  assert.equal(visitorIp(req('198.51.100.7', '1.2.3.4'), true), '198.51.100.7', 'a header from the open internet is ignored');
+  assert.equal(visitorIp(req('127.0.0.1', '1.2.3.4'), false), '127.0.0.1', 'not behind a proxy: the header is ignored');
 });
