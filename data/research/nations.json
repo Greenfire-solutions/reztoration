@@ -12264,18 +12264,6 @@
     "wikidata": "Q13310",
     "linkBasis": "wikidata",
     "resources": []
-   },
-   {
-    "name": "Plains Indian Sign Language",
-    "glottolog": "plai1235",
-    "iso639_3": "psd",
-    "status": "nearly extinct",
-    "statusScale": "Glottolog AES (Agglomerated Endangerment Status)",
-    "glottologUrl": "https://glottolog.org/resource/languoid/id/plai1235",
-    "elpUrl": "https://www.endangeredlanguages.com/lang/5293",
-    "wikidata": "Q2380124",
-    "linkBasis": "wikidata",
-    "resources": []
    }
   ],
   "official": {

@@ -13,7 +13,7 @@ Or double-click **Start Reztoration.command**.
 
 ## How it fits together
 
-- `data/raw/` : source geometry. Native Land Digital territories (565 kept inside the US) and US Census 2020 tribal lands (513: federal and state reservations, Oklahoma and Alaska Native areas).
+- `data/raw/` : source geometry. Native Land Digital territories (565 kept inside the US) and US Census 2020 tribal lands (513: federal and state reservations, Oklahoma and Alaska Native areas). `census-gazetteer-places.txt` and `census-gazetteer-zcta.txt` are the Census 2024 Gazetteer (public domain), used by "What land am I on?" to turn a town or zip code into a point on this machine.
 - `scripts/build-map.mjs` : projects them (Albers, Alaska and Hawaii insets) into `public/data/*.json`.
 - `data/research/` : what the research agents gather. `nations.json`, `nativeland-crosswalk.json`, `archive-items.json`, `archives-registry.json`, `plant-uses.json`, `plants.json`.
 - `scripts/harvest/` : the harvesters. Each pulls from one open source, politely (about one request a second, loc.gov one every 4), caches every response in `data/cache/` so a rerun is free, applies the sacred filter, and writes `data/research/harvest/<source>.json`:
