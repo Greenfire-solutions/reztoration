@@ -16,14 +16,24 @@ const scene = new THREE.Scene();
 scene.background = new THREE.Color('#0d0b0a');
 scene.fog = new THREE.Fog('#0d0b0a', 900, 2200);
 const camera = new THREE.PerspectiveCamera(40, innerWidth / innerHeight, 1, 5000);
-camera.position.set(0, 760, 560);
+camera.position.set(-30, 840, 690);
 const controls = new OrbitControls(camera, canvas);
-controls.target.set(0, 0, 30);
+controls.target.set(-30, 0, 85);
 controls.enableDamping = true;
 controls.maxPolarAngle = 1.3;
 controls.minDistance = 30;
 controls.maxDistance = 1800;
 controls.screenSpacePanning = false;
+// A tall phone sees less of the width: stand further back so both coasts fit, and push the fog with it.
+{
+  const s = Math.min(1.85, Math.max(1, 1.45 / (innerWidth / innerHeight)));
+  if (s > 1) {
+    camera.position.sub(controls.target).multiplyScalar(s).add(controls.target);
+    controls.maxDistance *= s;
+    scene.fog.near *= s; scene.fog.far *= s;
+    camera.far = 5000 * s; camera.updateProjectionMatrix();
+  }
+}
 
 scene.add(new THREE.HemisphereLight('#fff1dc', '#2a1d14', 1.4));
 const sun = new THREE.DirectionalLight('#ffd9a8', 1.6);
