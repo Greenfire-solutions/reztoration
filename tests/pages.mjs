@@ -18,7 +18,7 @@ const PHONE = ['--width', '390', '--height', '844'];
 // [name, hash, extra args]. Every page must render these nodes with no uncaught exception and no console error.
 const pages = [
   ['welcome on first visit', '', ['--expect', '#welcome:not([hidden])=1', '--expect', '.doors a=3', '--expect', '.doors button=1']],
-  ['welcome door to search', '', ['--click', '#welcome [data-door="find"]', '--expect', '#welcome[hidden]=1']],
+  ['welcome door to search', '', ['--ready', '#welcome:not([hidden])', '--run', `document.querySelector('#welcome [data-door="find"]').click()`, '--expect', '#welcome[hidden]=1', '--expect', '#q:focus=1']],
   ['broken treaties', '#broken', ['--expect', '.bt-card=20', '--expect', '.bt-state option=30', '--expect', '.bt-map=1']],
   ['broken treaties by state', '#broken/MN', ['--expect', '.bt-card=10', '--expect', '.bt-state option[value="MN"]:checked=1']],
   ['broken treaties on the map', '#broken/MN', ['--click', '.bt-map', '--wait', '2500', '--expect', '#panel:not([hidden]) .backline=1', '--expect', '#panel .trow=10']],
@@ -60,7 +60,13 @@ pages.push(
   ['the business state list has every state', '#businesses', ['--expect', '.bizstate option=45']],
   ['typed coordinates without a space', '#where/35.6%2C-106.0', ['--expect', '.whereout .links.big a=1']],
   ['Honolulu is found', '#where/Honolulu', ['--expect', '.whereout .links.big a=1']],
-  ['focusing search closes the welcome card', '', ['--ready', '#welcome:not([hidden])', '--run', "document.querySelector('#q').focus()", '--expect', '#welcome[hidden]=1']],
+  ['typing in search closes the welcome card', '', ['--ready', '#welcome:not([hidden])', '--run', "const q = document.querySelector('#q'); q.focus(); q.value = 'Ho'; q.dispatchEvent(new Event('input'))", '--expect', '#welcome[hidden]=1']],
+  // Keyboard and screen readers (11-10 accessibility pass).
+  ['the welcome card takes keyboard focus', '', ['--expect', '#welcome .doors > button:focus=1', '--expect', '#welcome[role="dialog"]=1']],
+  ['search is announced as a list of options', '#broken', ['--ready', '#q', '--run', "const q = document.querySelector('#q'); q.value = 'Hopi'; q.dispatchEvent(new Event('input')); await new Promise((r) => setTimeout(r, 1500));", '--expect', '#q[aria-expanded="true"]=1', '--expect', '#results li[role="option"]=3']],
+  ['views behind the Library are out of the tab order', '#library/art', ['--expect', '#top[inert]=1', '--expect', '#bottom[inert]=1']],
+  ['the panel heading takes focus when a page opens', '#treaty/cession-1891-02-13-iowa', ['--expect', '#panel h2:focus=1']],
+  ['toggles say whether they are on', '#broken/MN', ['--expect', '.mode button[aria-pressed="true"]=1']],
 );
 
 async function main() {

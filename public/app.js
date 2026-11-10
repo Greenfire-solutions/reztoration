@@ -5,6 +5,11 @@ import { mergeGeometries } from 'three/addons/utils/BufferGeometryUtils.js';
 const $ = (s) => document.querySelector(s);
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const safeUrl = (u) => (/^https?:\/\//i.test(String(u || '')) ? String(u) : null);
+// Pictures, films and sound load over https only (a published site cannot mix in http).
+const safeSrc = (u) => { const x = safeUrl(u); return x ? x.replace(/^http:/i, 'https:') : null; };
+// Colours come from the map build, but a colour is never trusted into a style attribute unchecked.
+const cssColor = (c) => (/^#[0-9a-f]{3,8}$/i.test(String(c || '')) ? c : '#888');
+const reduceMotion = matchMedia('(prefers-reduced-motion: reduce)');
 const getJSON = (u) => fetch(u).then((r) => (r.ok ? r.json() : Promise.reject(new Error(r.status))));
 
 // ---------- scene ----------
@@ -261,7 +266,7 @@ function flyTo(center, size) {
   const target = new THREE.Vector3(center[0], 0, center[1]);
   const d = THREE.MathUtils.clamp(size * 2.2, 60, 1400);
   const pos = target.clone().add(new THREE.Vector3(0, d * 0.82, d * 0.6));
-  flight = { t: 0, fromP: camera.position.clone(), toP: pos, fromT: controls.target.clone(), toT: target };
+  flight = { t: reduceMotion.matches ? 1 : 0, fromP: camera.position.clone(), toP: pos, fromT: controls.target.clone(), toT: target };
 }
 function boundsSize(polys) {
   let minX = Infinity, maxX = -Infinity, minZ = Infinity, maxZ = -Infinity;
@@ -291,9 +296,21 @@ const panel = $('#panel'), body = $('#panel-body');
 // Lists people browse from. Opening a single record from one of these shows "Back to ..." at the
 // top of the panel, and closing goes back to the list instead of dropping you on an empty map.
 const LIST_LABEL = { brokenmap: 'the treaties on the map', broken: 'Broken treaties', businesses: 'Native businesses', treaties: 'All treaties', library: 'the Library', where: 'What land am I on?' };
-let backTo = null, lastHash = '', freshNav = false;
+let backTo = null, lastHash = '', freshNav = false, returnFocus = null;
+// Move keyboard focus to the panel's heading once it has drawn, unless the person is typing somewhere.
+function focusPanel() {
+  if (panel.hidden || document.activeElement?.matches?.('input, select, textarea')) return;
+  const h = body.querySelector('h2');
+  if (!h) return;
+  h.setAttribute('tabindex', '-1');
+  h.id ||= 'panel-title';
+  panel.setAttribute('aria-labelledby', h.id);
+  h.focus({ preventScroll: true });
+}
 $('#close').onclick = () => {
-  if (state.selected?.kind === 'brokenmap') { location.hash = `broken${bt.state ? `/${bt.state}` : ''}`; return; }
+  // Decided from the address, which is set at once, not from a view that may still be loading.
+  const [k, sub] = location.hash.slice(1).split('/');
+  if (k === 'brokenmap') { const st = String(sub || '').toUpperCase(); location.hash = `broken${Object.hasOwn(STATE_NAMES, st) ? `/${st}` : ''}`; return; }
   if (backTo) location.hash = backTo.hash; else location.hash = '';
 };
 addEventListener('hashchange', routeFromHash);
@@ -308,11 +325,13 @@ function routeFromHash() {
   if (freshNav) { backTo = null; freshNav = false; } else if (LIST_LABEL[prevKind] && !LIST_LABEL[kind] && kind) {
     let label = LIST_LABEL[prevKind];
     const sub = decodeURIComponent(lastHash.slice(1).split('/')[1] || '');
-    if (prevKind === 'broken' && sub && STATE_NAMES[sub]) label += ` (${STATE_NAMES[sub]})`;
+    if (prevKind === 'broken' && Object.hasOwn(STATE_NAMES, sub.toUpperCase())) label += ` (${STATE_NAMES[sub.toUpperCase()]})`;
     backTo = { hash: lastHash, label };
   } else if (LIST_LABEL[kind] || !kind) backTo = null;
   lastHash = hash;
   panel.scrollTop = 0;
+  if (kind !== 'library' && kind !== 'broken') setOverlay(false);
+  const wasOpen = !panel.hidden;
   if (kind) hideWelcome();
   if (state.selected && state.selected.kind === 'territory' && state.selected.id !== decodeURIComponent(id || '')) {
     const t = state.tById.get(state.selected.id);
@@ -326,9 +345,16 @@ function routeFromHash() {
   if (kind === 'treaties') return openTreatyList();
   if (kind === 'businesses') return openBusinessList(undefined, decodeURIComponent(id || ''));
   if (kind === 'where') return openWhere(decodeURIComponent(id || ''));
-  if (!kind || !id) { panel.hidden = true; state.selected = null; groups.focus.clear(); return; }
+  if (!kind || !id) {
+    const had = !panel.hidden;
+    panel.hidden = true; state.selected = null; groups.focus.clear();
+    if (had && returnFocus?.isConnected && !returnFocus.closest('[hidden]')) returnFocus.focus({ preventScroll: true });
+    returnFocus = null;
+    return;
+  }
   const key = decodeURIComponent(id);
-  const done = (p) => Promise.resolve(p).then(backLine);
+  if (!wasOpen && document.activeElement && document.activeElement !== document.body && !panel.contains(document.activeElement)) returnFocus = document.activeElement;
+  const done = (p) => Promise.resolve(p).then(backLine).then(focusPanel);
   if (kind === 'territory') done(openTerritory(key));
   else if (kind === 'land') done(openLand(key));
   else if (kind === 'treaty') done(openTreaty(key));
@@ -357,7 +383,7 @@ function hideWelcome() {
 function maybeWelcome() {
   let seen = false;
   try { seen = localStorage.getItem('rez-welcomed') === '1'; } catch {}
-  if (!seen && !location.hash) $('#welcome').hidden = false;
+  if (!seen && !location.hash) { $('#welcome').hidden = false; $('#welcome .doors > *')?.focus(); }
 }
 $('#welcome .x').onclick = hideWelcome;
 $('#welcome .explore').onclick = hideWelcome;
@@ -417,19 +443,20 @@ function renderTerritory(d) {
     ['land', 'Land and treaties', null],
   ].filter(([, , n]) => n !== 0);
   storyGroup = STORY_GROUPS.find(([k]) => g[k].count)?.[0] || null;
-  const hero = safeUrl(d.profile?.image);
+  const hero = safeSrc(d.profile?.image);
   const names = [...new Set(d.nations.map((n) => n.name))];
   body.innerHTML = `
-    <div class="hero" ${hero ? `style="background-image:linear-gradient(180deg,rgba(13,11,10,.1),rgba(13,11,10,.95)),url('${esc(hero)}')"` : ''}>
+    <div class="hero">
       <h2>${esc(d.name)}</h2>
-      <p class="sub"><span class="swatch" style="background:${esc(d.color)}"></span>Homeland${names.length ? ` · ${names.slice(0, 3).map(esc).join(', ')}${names.length > 3 ? ` <button class="linkish" data-go="overview">and ${names.length - 3} more nations today</button>` : ''}` : ''}</p>
+      <p class="sub"><span class="swatch" style="background:${cssColor(d.color)}"></span>Homeland${names.length ? ` · ${names.slice(0, 3).map(esc).join(', ')}${names.length > 3 ? ` <button class="linkish" data-go="overview">and ${names.length - 3} more nations today</button>` : ''}` : ''}</p>
     </div>
     <div class="tabs main">${tabs.map(([k, label, n], i) => `<button data-tab="${k}" class="${i ? '' : 'on'}">${label}${n ? `<b>${n.toLocaleString()}</b>` : ''}</button>`).join('')}</div>
     <div id="tab"></div>
     <p class="note foot"><button class="linkish" data-src>Sources for this page</button> · Outline from Native Land Digital, approximate. ${link(d.url, 'See it on Native Land')}</p>`;
+  if (hero) body.querySelector('.hero').style.backgroundImage = `linear-gradient(180deg,rgba(13,11,10,.1),rgba(13,11,10,.95)),url(${JSON.stringify(hero)})`;
   body.querySelectorAll('.tabs.main button').forEach((b) => b.addEventListener('click', () => showTab(b.dataset.tab)));
-  body.querySelector('[data-src]').addEventListener('click', () => { showTab('sources'); body.querySelector('#tab').scrollIntoView({ behavior: 'smooth' }); });
-  body.querySelector('.hero .linkish')?.addEventListener('click', () => { showTab('overview'); body.querySelector('.card.own')?.scrollIntoView({ behavior: 'smooth' }); });
+  body.querySelector('[data-src]').addEventListener('click', () => { showTab('sources'); body.querySelector('#tab').scrollIntoView({ behavior: reduceMotion.matches ? 'auto' : 'smooth' }); });
+  body.querySelector('.hero .linkish')?.addEventListener('click', () => { showTab('overview'); body.querySelector('.card.own')?.scrollIntoView({ behavior: reduceMotion.matches ? 'auto' : 'smooth' }); });
   showTab('overview');
   if (pendingItem) { const it = pendingItem; pendingItem = null; openViewer([it], 0); }
 }
@@ -484,7 +511,7 @@ function inPolysXZ([x, z], polys) {
 const TABS = {
   overview(d) {
     let h = '';
-    if (d.featured.length) h += `<div class="strip">${d.featured.map((it, i) => `<button class="shot" data-view="${i}" title="${esc(it.title)}"><img loading="lazy" src="${esc(safeUrl(it.thumb) || safeUrl(it.image) || '')}" alt="${esc(it.title)}"></button>`).join('')}</div>`;
+    if (d.featured.length) h += `<div class="strip">${d.featured.map((it, i) => `<button class="shot" data-view="${i}" title="${esc(it.title)}"><img loading="lazy" src="${esc(safeSrc(it.thumb) || safeSrc(it.image) || '')}" alt="${esc(it.title)}"></button>`).join('')}</div>`;
     for (const n of d.nations) {
       const o = n.official || {};
       const own = [link(o.website, 'Official website'), link(o.culture, 'Culture department'), link(o.museum, 'Museum'), link(o.language, 'Language program'), link(o.thpo, 'Historic preservation office'), link(o.radio, 'Radio')].filter(Boolean);
@@ -529,14 +556,14 @@ async function renderGroup(tab, group) {
   const g = cur.groups[group];
   const visual = group === 'art' || group === 'photos' || group === 'films';
   tab.innerHTML = `<p class="note">${GROUP_NOTE[group]}</p>
-    <input class="filter" type="search" placeholder="Filter ${esc(g.label.toLowerCase())} by words in the title" autocomplete="off">
+    <input class="filter" type="search" placeholder="Filter ${esc(g.label.toLowerCase())} by words in the title" aria-label="Filter items by words in the title" autocomplete="off">
     <div class="${visual ? 'gallery' : 'items'}"></div><div class="more"></div>`;
   const box = tab.querySelector(visual ? '.gallery' : '.items'), more = tab.querySelector('.more'), filter = tab.querySelector('.filter');
   if (!g.count) { box.outerHTML = `<p class="empty">Nothing open-access found here yet for ${esc(cur.name)}.</p>`; filter.remove(); return; }
   const id = cur.id;
   let list = [], total = 0, q = '';
   const card = (it, i) => {
-    const th = safeUrl(it.thumb) || safeUrl(it.image);
+    const th = safeSrc(it.thumb) || safeSrc(it.image);
     const meta = [it.date, it.creator, it.journal, it.institution].filter(Boolean).map(esc).join(' · ');
     if (visual) return `<button class="g" data-view="${i}" title="${esc(it.title)}">${th ? `<img loading="lazy" src="${esc(th)}" alt="">` : `<div class="ph">${esc(it.kind)}</div>`}${it.media ? '<span class="play">▶</span>' : ''}<span class="cap">${esc(it.title)}</span></button>`;
     return `<button class="item" data-view="${i}">${th ? `<img loading="lazy" src="${esc(th)}" alt="">` : `<div class="ph">${esc(it.kind)}</div>`}<div>
@@ -566,7 +593,7 @@ async function renderPlants(tab) {
   const chips = [['', 'All', d.plantUseCount], ...Object.entries(d.useCounts).sort((a, b) => b[1] - a[1]).map(([k, n]) => [k, USE_LABEL[k] || k, n])];
   tab.innerHTML = `<p class="note warn">A historical cultural record from the published ethnographic literature, with its citation. It is not medical advice. Many plants here are toxic. Ceremonial uses are left out on purpose.</p>
     <div class="tabs uses">${chips.map(([k, l, n], i) => `<button data-use="${esc(k)}" class="${i ? '' : 'on'}">${esc(l)}<b>${n.toLocaleString()}</b></button>`).join('')}</div>
-    <input class="filter" type="search" placeholder="Find a plant or a use (yarrow, fever, basket)" autocomplete="off">
+    <input class="filter" type="search" placeholder="Find a plant or a use (yarrow, fever, basket)" aria-label="Find a plant or a use (yarrow, fever, basket)" autocomplete="off">
     <div class="plants"></div><div class="more"></div>`;
   const box = tab.querySelector('.plants'), more = tab.querySelector('.more'), filter = tab.querySelector('.filter');
   let use = '', q = '', shown = 0;
@@ -599,11 +626,11 @@ function bindViewer(scope, list) {
   scope.querySelectorAll('[data-view]').forEach((b) => b.addEventListener('click', () => openViewer(list, Number(b.dataset.view))));
 }
 function mediaFor(it) {
-  const m = safeUrl(it.media);
-  if (m && /^https:\/\/archive\.org\/embed\//.test(m)) return `<iframe src="${esc(m)}" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe>`;
-  if (m && /\.(mp4|webm|m3u8)(\?|$)/i.test(m)) return `<video src="${esc(m)}" controls preload="metadata" ${safeUrl(it.thumb) ? `poster="${esc(it.thumb)}"` : ''}></video>`;
-  if (m && /\.(mp3|ogg|wav|m4a)(\?|$)/i.test(m)) return `${safeUrl(it.thumb) ? `<img src="${esc(it.thumb)}" alt="">` : ''}<audio src="${esc(m)}" controls preload="none"></audio>`;
-  const img = safeUrl(it.image) || safeUrl(it.thumb);
+  const m = safeSrc(it.media);
+  if (m && /^https:\/\/archive\.org\/embed\//.test(m)) return `<iframe src="${esc(m)}" title="${esc(it.title)}" sandbox="allow-scripts allow-same-origin allow-presentation" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe>`;
+  if (m && /\.(mp4|webm|m3u8)(\?|$)/i.test(m)) return `<video src="${esc(m)}" controls preload="metadata" ${safeSrc(it.thumb) ? `poster="${esc(safeSrc(it.thumb))}"` : ''}></video>`;
+  if (m && /\.(mp3|ogg|wav|m4a)(\?|$)/i.test(m)) return `${safeSrc(it.thumb) ? `<img src="${esc(safeSrc(it.thumb))}" alt="">` : ''}<audio src="${esc(m)}" controls preload="none"></audio>`;
+  const img = safeSrc(it.image) || safeSrc(it.thumb);
   return img ? `<img src="${esc(img)}" alt="${esc(it.title)}">` : `<div class="ph big">${esc(it.kind)}</div>`;
 }
 function openViewer(list, i) {
@@ -656,9 +683,15 @@ async function openLand(id) {
 const libEl = $('#library');
 const LIB_TABS = [['art', 'Art'], ['films', 'Films'], ['photos', 'Photos'], ['recordings', 'Recordings'], ['writings', 'Writings'], ['plants', 'Medicine and plants']];
 let libGroup = 'art', libQ = '', libList = [], libTimer;
+function setOverlay(on, el) {
+  for (const id of ['top', 'bottom', 'panel']) $(`#${id}`).inert = on;
+  labelLayer.hidden = on;
+  if (on && el && !el.contains(document.activeElement)) el.querySelector('h2')?.setAttribute('tabindex', '-1'), el.querySelector('h2')?.focus({ preventScroll: true });
+}
 function openLibrary(group) {
   libGroup = LIB_TABS.some(([k]) => k === group) ? group : 'art';
   libEl.hidden = false;
+  setOverlay(true, libEl);
   panel.hidden = true;
   libEl.querySelector('.tabs.lib').innerHTML = LIB_TABS.map(([k, l]) => `<a href="#library/${k}" class="${k === libGroup ? 'on' : ''}">${l}</a>`).join('');
   libLoad(true);
@@ -679,7 +712,7 @@ async function libLoad(reset) {
     libList.push(...r.items);
     const visual = body2.classList.contains('gallery');
     body2.insertAdjacentHTML('beforeend', r.items.map((it, j) => {
-      const i = start + j, th = safeUrl(it.thumb) || safeUrl(it.image), where = it.where ? esc(it.where.name) : '';
+      const i = start + j, th = safeSrc(it.thumb) || safeSrc(it.image), where = it.where ? esc(it.where.name) : '';
       return visual
         ? `<button class="g" data-view="${i}" title="${esc(it.title)}">${th ? `<img loading="lazy" src="${esc(th)}" alt="">` : `<div class="ph">${esc(it.kind)}</div>`}${it.media ? '<span class="play">▶</span>' : ''}<span class="cap">${esc(it.title)}<br><i>${where}</i></span></button>`
         : `<button class="item" data-view="${i}">${th ? `<img loading="lazy" src="${esc(th)}" alt="">` : `<div class="ph">${esc(it.kind)}</div>`}<div><div class="t">${esc(it.title)}${it.media ? ' <span class="tag">plays here</span>' : ''}</div><div class="m">${[where, it.date, it.creator, it.journal].filter(Boolean).map((x) => (x === where ? x : esc(x))).join(' · ')}</div></div></button>`;
@@ -724,9 +757,13 @@ async function runSearch(v) {
   results.innerHTML = html;
   results.hidden = false;
   shownFor = v;
+  results.querySelectorAll('li[data-h]').forEach((li, i) => { li.id = `opt-${i}`; li.setAttribute('role', 'option'); });
+  results.querySelectorAll('li.grp, li.empty').forEach((li) => li.setAttribute('role', 'presentation'));
+  $('#results-count').textContent = `${lastResults.length} result${lastResults.length === 1 ? '' : 's'}`;
   return true;
 }
 q.addEventListener('input', () => {
+  hideWelcome();
   clearTimeout(searchTimer);
   const v = q.value.trim();
   if (v.length < 2) { searchSeq++; results.hidden = true; shownFor = ''; return; }
@@ -761,12 +798,22 @@ q.addEventListener('keydown', async (e) => {
     e.preventDefault();
     if (!rows.length) return;
     const next = e.key === 'ArrowDown' ? Math.min(rows.length - 1, at + 1) : Math.max(0, at - 1);
-    rows.forEach((x, i) => x.classList.toggle('on', i === next));
+    rows.forEach((x, i) => { x.classList.toggle('on', i === next); x.setAttribute('aria-selected', String(i === next)); });
+    q.setAttribute('aria-activedescendant', rows[next].id);
     rows[next].scrollIntoView({ block: 'nearest' });
   }
 });
-q.addEventListener('focus', () => { hideWelcome(); if (results.innerHTML && shownFor && shownFor === q.value.trim()) results.hidden = false; });
+q.addEventListener('focus', () => { if (results.innerHTML && shownFor && shownFor === q.value.trim()) results.hidden = false; });
 addEventListener('pointerdown', (e) => { if (!e.target.closest('.search')) results.hidden = true; });
+
+new MutationObserver(() => { q.setAttribute('aria-expanded', String(!results.hidden)); if (results.hidden) q.removeAttribute('aria-activedescendant'); }).observe(results, { attributes: true, attributeFilter: ['hidden'] });
+
+// Toggle buttons say whether they are on (tabs, chips, Then/Today), whatever drew them.
+const TOGGLES = '.tabs button, .chips button, .mode button';
+const syncPressed = (root) => { if (root.matches?.(TOGGLES)) root.setAttribute('aria-pressed', String(root.classList.contains('on'))); root.querySelectorAll?.(TOGGLES).forEach((b) => b.setAttribute('aria-pressed', String(b.classList.contains('on')))); };
+new MutationObserver((ms) => { for (const m of ms) { if (m.type === 'attributes') syncPressed(m.target); else m.addedNodes.forEach((n) => n.nodeType === 1 && syncPressed(n)); } })
+  .observe(document.body, { subtree: true, childList: true, attributes: true, attributeFilter: ['class'] });
+syncPressed(document.body);
 
 // ---------- layers + about ----------
 $('#l-territories').onchange = (e) => { groups.territories.visible = mode === 'then' && e.target.checked; };
@@ -788,7 +835,7 @@ renderer.setAnimationLoop(() => {
     if (flight.t >= 1) flight = null;
   }
   for (const g of groups.focus.children) {
-    g.userData.rise = Math.min(1, g.userData.rise + dt / 0.9);
+    g.userData.rise = reduceMotion.matches ? 1 : Math.min(1, g.userData.rise + dt / 0.9);
     g.scale.y = 0.01 + (1 - Math.pow(1 - g.userData.rise, 3)) * 0.99;
   }
   controls.update();
@@ -1014,8 +1061,9 @@ function loadBroken() {
 }
 async function openBroken(st = '') {
   st = String(st || '').toUpperCase();
-  bt.state = STATE_NAMES[st] ? st : '';
+  bt.state = Object.hasOwn(STATE_NAMES, st) ? st : '';
   brokenEl.hidden = false;
+  setOverlay(true, brokenEl);
   panel.hidden = true;
   state.selected = null;
   if (!brokenEl.dataset.ready) {
@@ -1044,7 +1092,7 @@ async function openBroken(st = '') {
 // Close the list and raise every listed treaty's land on the map at once.
 async function showBrokenOnMap(st) {
   if (!(await loadBroken())) return;
-  bt.state = STATE_NAMES[st] ? st : '';
+  bt.state = Object.hasOwn(STATE_NAMES, st) ? st : '';
   filterBroken();
   const ids = new Set(bt.list.map((c) => c.id));
   if (!tre.list.length) await loadTreaties().catch(() => {});
@@ -1109,7 +1157,7 @@ function openTreatyList() {
   let filter = '', words = '';
   body.innerHTML = `<h2 style="margin-top:18px">Treaties</h2><p class="sub">${s.treaties.length} treaties and acts that took land, from Royce's survey, and what the research has found so far.</p>
     <div class="chips status-chips">${Object.entries(s.statuses).map(([k, v]) => `<button data-s="${k}">${dot(k)}${esc(v.label)} <b>${v.count}</b></button>`).join('')}</div>
-    <input class="filter" type="search" placeholder="A nation, a year, a place" autocomplete="off">
+    <input class="filter" type="search" placeholder="A nation, a year, a place" aria-label="A nation, a year, a place" autocomplete="off">
     <div class="tlist"></div>`;
   const draw = () => {
     const w = words.toLowerCase().split(/\s+/).filter(Boolean);
@@ -1178,7 +1226,7 @@ async function openBusinessList(cat, st) {
   panel.hidden = false;
   if (mode !== 'today') setMode('today');
   if (cat !== undefined) bizCat = cat;
-  if (st !== undefined && st !== null) { st = String(st).toUpperCase(); bizState = STATE_NAMES[st] ? st : ''; }
+  if (st !== undefined && st !== null) { st = String(st).toUpperCase(); bizState = Object.hasOwn(STATE_NAMES, st) ? st : ''; }
   if (!bizStates) {
     try { bizStates = (await getJSON('/api/businesses?limit=1')).states || {}; } catch { bizStates = {}; }
   }
@@ -1186,7 +1234,7 @@ async function openBusinessList(cat, st) {
   if (fresh) {
     body.innerHTML = `<h2 style="margin-top:18px">Native businesses</h2><p class="sub">Owned by Native people and nations, each with the source that shows who owns it. <a href="#where">Find the ones near you</a></p>
       <div class="chips cat-chips"></div>
-      <div class="row2"><input class="filter" type="search" placeholder="A nation, a town, a craft, a food" autocomplete="off"><select class="bizstate" aria-label="State"><option value="">Every state</option>${stateOptions(bizStates, bizState)}</select></div>
+      <div class="row2"><input class="filter" type="search" placeholder="A nation, a town, a craft, a food" aria-label="A nation, a town, a craft, a food" autocomplete="off"><select class="bizstate" aria-label="State"><option value="">Every state</option>${stateOptions(bizStates, bizState)}</select></div>
       <div class="bizcount note"></div><div class="bizlist"></div><div class="more"></div>`;
     body.querySelector('.filter').value = bizQ;
     body.querySelector('.filter').addEventListener('input', (e) => { clearTimeout(bizTimer); bizTimer = setTimeout(() => { bizQ = e.target.value.trim(); bizLoad(true); }, 220); });
@@ -1220,7 +1268,7 @@ async function openWhere(arg) {
   panel.hidden = false;
   body.innerHTML = `<h2 style="margin-top:18px">What land am I on?</h2>
     <p class="sub">Type a town and state, a zip code, or use where you are. Everything is looked up on this map; nothing is sent anywhere.</p>
-    <form class="whereform"><input class="filter" name="q" type="search" placeholder="Austin, TX  ·  59101  ·  35.6, -106.0" autocomplete="off"><button class="go">Look up</button></form>
+    <form class="whereform"><input class="filter" name="q" type="search" placeholder="Austin, TX  ·  59101  ·  35.6, -106.0" aria-label="A town and state, a zip code, or coordinates" autocomplete="off"><button class="go">Look up</button></form>
     <button class="morebtn locate">Use my location</button>
     <div class="whereout"></div>`;
   const out = body.querySelector('.whereout');
@@ -1266,7 +1314,7 @@ async function openWhere(arg) {
   const others = out.dataset.others ? JSON.parse(out.dataset.others) : [];
   let h = `<h3>${esc(label)}</h3>`;
   if (others.length) h += `<p class="note">Not this one? ${others.map((o) => `<a href="#where/${encodeURIComponent(`${o.name}, ${o.state}`)}">${esc(o.name)}, ${esc(o.state)}</a>`).join(' · ')}</p>`;
-  h += d.homelands.length ? `<p>This is the homeland of</p><div class="links big">${d.homelands.map((t) => `<a href="#territory/${encodeURIComponent(t.id)}"><span class="swatch" style="background:${esc(t.color)}"></span>${esc(t.name)}</a>`).join('')}</div>
+  h += d.homelands.length ? `<p>This is the homeland of</p><div class="links big">${d.homelands.map((t) => `<a href="#territory/${encodeURIComponent(t.id)}"><span class="swatch" style="background:${cssColor(t.color)}"></span>${esc(t.name)}</a>`).join('')}</div>
       <p class="note">Homelands overlap: borders were shared, seasonal and negotiated. Outlines from Native Land Digital are approximate, a place to start a conversation, not settle one.</p>`
     : '<p class="empty">No homeland outline on this map covers this exact spot. That does not mean no one belonged here.</p>';
   if (d.onLand.length) h += `<h3>You are on tribal land today</h3>${d.onLand.map((l) => `<a class="trow" href="#land/${encodeURIComponent(l.id)}"><span>${esc(l.name)}</span><small>${esc(l.kind)}</small></a>`).join('')}`;

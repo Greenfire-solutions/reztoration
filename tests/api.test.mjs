@@ -215,6 +215,38 @@ test('most businesses that name a nation link to its page', async () => {
   assert.ok(linked / named.length >= 0.8, `only ${linked} of ${named.length} link to their nation`);
 });
 
+// ---------- the server holds up (11-10 security pass) ----------
+test('a search made of many short words cannot hold the server', async () => {
+  const many = Array(1000).fill('e').join(' ');
+  for (const p of [`/api/browse?group=writings&q=${q(many)}`, `/api/browse?group=plants&q=${q(many)}`, `/api/search?q=${q(many)}`, `/api/businesses?q=${q(many)}`]) {
+    const t = Date.now();
+    await json(p);
+    assert.ok(Date.now() - t < 3000, `${p.slice(0, 40)} took ${Date.now() - t} ms`);
+  }
+});
+
+test('a malformed address is a 400, never a 500', async () => {
+  for (const p of ['/%E0', '/api/treaty/%E0', '/api/nation/%', '/api/territory/%ZZ/items']) {
+    const r = await get(p);
+    assert.equal(r.status, 400, `${p} answered ${r.status}`);
+  }
+});
+
+test('where refuses coordinates that are not on Earth', async () => {
+  assert.equal((await get('/api/where?lon=1e308&lat=1e308')).status, 400);
+  assert.equal((await get('/api/where?lon=-200&lat=10')).status, 400);
+});
+
+test('the page carries a Content-Security-Policy that allows its importmap', async () => {
+  const html = (await get('/')).body;
+  const csp = html.match(/http-equiv="Content-Security-Policy" content="([^"]+)"/)?.[1];
+  assert.ok(csp, 'no CSP');
+  const map = html.match(/<script type="importmap">([\s\S]*?)<\/script>/)[1];
+  const { createHash } = await import('node:crypto');
+  assert.ok(csp.includes(`'sha256-${createHash('sha256').update(map).digest('base64')}'`), 'CSP hash does not match the importmap; recompute it');
+  assert.match(csp, /object-src 'none'/);
+});
+
 // ---------- treaties ----------
 test('every treaty findings file passes the checker', () => {
   const dir = path.join(root, 'data/research/treaty-findings');

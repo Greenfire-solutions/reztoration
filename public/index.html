@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="referrer" content="no-referrer">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-LISC2v1R94i6G5TO2ZfX7kL9O6LzktVbLzzZapzId28='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' https: data: blob:; media-src https:; frame-src https://archive.org; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
 <title>Reztoration</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
@@ -16,14 +17,15 @@
 <body>
 <canvas id="map"></canvas>
 
-<header class="top">
+<header class="top" id="top">
   <div class="brand">
     <h1>Reztoration</h1>
     <p>The land, by the nations who belong to it</p>
   </div>
   <div class="search">
-    <input id="q" type="search" placeholder="Search a nation, treaty, business or town" aria-label="Search everything" autocomplete="off">
-    <ul id="results" hidden></ul>
+    <input id="q" type="search" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="results" placeholder="Search a nation, treaty, business or town" aria-label="Search everything" autocomplete="off">
+    <ul id="results" hidden role="listbox" aria-label="Search results"></ul>
+    <span id="results-count" class="sr" aria-live="polite"></span>
   </div>
   <div class="mode" role="group" aria-label="Map era">
     <button data-mode="then" class="on" title="The homelands, and the treaties that took them">Then</button>
@@ -36,9 +38,9 @@
 
 <div id="tip" hidden></div>
 
-<section id="welcome" hidden aria-label="Start here">
+<section id="welcome" hidden role="dialog" aria-modal="true" aria-labelledby="welcome-title">
   <button class="x" aria-label="Close">×</button>
-  <h2>The land, by the nations who belong to it</h2>
+  <h2 id="welcome-title">The land, by the nations who belong to it</h2>
   <p>Every coloured shape is a homeland. Gold shapes are tribal lands held today. Click anything on the map, or start with one of these.</p>
   <div class="doors">
     <button data-door="find"><b>Find a nation</b><span>By the name you use: Diné, Lakota, Ojibwe, Haudenosaunee</span></button>
@@ -50,12 +52,12 @@
 </section>
 <div id="legend" hidden></div>
 
-<aside id="panel" hidden>
+<aside id="panel" hidden aria-label="Details">
   <button id="close" aria-label="Close">×</button>
   <div id="panel-body"></div>
 </aside>
 
-<footer class="bottom">
+<footer class="bottom" id="bottom">
   <button id="key-btn" aria-expanded="false" aria-controls="layers">Map key</button>
   <div class="layers" id="layers">
     <label class="then-only"><input type="checkbox" id="l-territories" checked> Traditional territories</label>
@@ -79,17 +81,17 @@
   <form method="dialog"><button>Close</button></form>
 </dialog>
 
-<section id="library" hidden aria-label="Library">
+<section id="library" hidden role="dialog" aria-modal="true" aria-label="Library">
   <header>
     <div><h2>Library</h2><p class="note">Everything gathered, from every nation, in one place. Follow any piece back to its homeland.</p></div>
     <a class="x" href="#" aria-label="Close library">×</a>
   </header>
   <div class="tabs lib"></div>
-  <input class="filter" type="search" placeholder="Search everything: a nation, a maker, a plant, a word" autocomplete="off">
+  <input class="filter" type="search" placeholder="Search everything: a nation, a maker, a plant, a word" aria-label="Search the library" autocomplete="off">
   <div class="libbody"></div><div class="more"></div>
 </section>
 
-<section id="broken" hidden aria-label="Broken treaties">
+<section id="broken" hidden role="dialog" aria-modal="true" aria-label="Broken treaties">
   <header>
     <div>
       <h2>Broken treaties</h2>

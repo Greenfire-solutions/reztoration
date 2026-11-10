@@ -23,6 +23,10 @@ const STATIC = [
   ['/', path.join(root, 'public/')],
 ];
 
+// A malformed %-sequence in a path is the client's mistake: 400, not a 500 with a stack trace.
+class BadRequest extends Error {}
+const dec = (x) => { try { return decodeURIComponent(x); } catch { throw new BadRequest('malformed address'); } };
+
 function send(res, code, body, type = 'application/json') {
   res.writeHead(code, { 'content-type': type, 'cache-control': 'no-store' });
   res.end(typeof body === 'string' || Buffer.isBuffer(body) ? body : JSON.stringify(body));
@@ -31,7 +35,7 @@ function send(res, code, body, type = 'application/json') {
 function serveStatic(req, res, pathname) {
   for (const [prefix, dir] of STATIC) {
     if (!pathname.startsWith(prefix)) continue;
-    let rel = decodeURIComponent(pathname.slice(prefix.length)) || 'index.html';
+    let rel = dec(pathname.slice(prefix.length)) || 'index.html';
     const file = path.normalize(path.join(dir, rel));
     if (!file.startsWith(dir)) return send(res, 403, { error: 'forbidden' });
     if (fs.existsSync(file) && fs.statSync(file).isFile()) {
@@ -66,7 +70,8 @@ const server = http.createServer((req, res) => {
     if (p === '/api/where') {
       const sp = url.searchParams;
       const lon = Number(sp.get('lon')), lat = Number(sp.get('lat'));
-      if (sp.has('lon') && Number.isFinite(lon) && Number.isFinite(lat)) {
+      if (sp.has('lon')) {
+        if (!(Number.isFinite(lon) && Number.isFinite(lat) && Math.abs(lon) <= 180 && Math.abs(lat) <= 90)) return send(res, 400, { error: 'lon must be -180 to 180 and lat -90 to 90' });
         const out = places.at([lon, lat]);
         return out ? send(res, 200, out) : send(res, 404, { error: 'outside the map' });
       }
@@ -81,38 +86,39 @@ const server = http.createServer((req, res) => {
     const one = (out, what) => (out ? send(res, 200, out) : send(res, 404, { error: `unknown ${what}` }));
     if (p === '/api/treaties') return send(res, 200, treaties.summary());
     if (p === '/api/broken') return send(res, 200, treaties.broken());
-    if (p.startsWith('/api/treaty/')) return one(treaties.treaty(decodeURIComponent(p.slice(12))), 'treaty');
-    if (p.startsWith('/api/cession/')) return one(treaties.cession(decodeURIComponent(p.slice(13))), 'cession');
+    if (p.startsWith('/api/treaty/')) return one(treaties.treaty(dec(p.slice(12))), 'treaty');
+    if (p.startsWith('/api/cession/')) return one(treaties.cession(dec(p.slice(13))), 'cession');
     if (p === '/api/today') return send(res, 200, today.map());
     if (p === '/api/businesses') {
       const sp = url.searchParams;
       return send(res, 200, today.list({ category: sp.get('category') || '', q: sp.get('q') || '', state: sp.get('state') || '', offset: Math.max(0, Number(sp.get('offset')) || 0), limit: Math.min(120, Number(sp.get('limit')) || 60) }));
     }
-    if (p.startsWith('/api/business/')) return one(today.business(decodeURIComponent(p.slice(14))), 'business');
-    if (p.startsWith('/api/nation/')) return one(today.nation(decodeURIComponent(p.slice(12)), treaties), 'nation');
+    if (p.startsWith('/api/business/')) return one(today.business(dec(p.slice(14))), 'business');
+    if (p.startsWith('/api/nation/')) return one(today.nation(dec(p.slice(12)), treaties), 'nation');
     const tr = p.match(/^\/api\/territory\/([^/]+)\/treaties$/);
-    if (tr) return one(treaties.forTerritory(decodeURIComponent(tr[1])), 'territory');
+    if (tr) return one(treaties.forTerritory(dec(tr[1])), 'territory');
     const sub = p.match(/^\/api\/territory\/([^/]+)\/(items|plants)$/);
     if (sub) {
-      const id = decodeURIComponent(sub[1]);
+      const id = dec(sub[1]);
       const sp = url.searchParams;
       const opts = { offset: Math.max(0, Number(sp.get('offset')) || 0), limit: Math.min(120, Number(sp.get('limit')) || 48), q: sp.get('q') || '' };
       const out = sub[2] === 'items' ? lib.items(id, sp.get('group') || '', opts) : lib.plants(id, { ...opts, use: sp.get('use') || '' });
       return out ? send(res, 200, out) : send(res, 404, { error: 'unknown territory' });
     }
     if (p.startsWith('/api/territory/')) {
-      const out = lib.territory(decodeURIComponent(p.slice('/api/territory/'.length)));
+      const out = lib.territory(dec(p.slice('/api/territory/'.length)));
       return out ? send(res, 200, out) : send(res, 404, { error: 'unknown territory' });
     }
     if (p.startsWith('/api/land/')) {
-      const out = lib.land(decodeURIComponent(p.slice('/api/land/'.length)));
+      const out = lib.land(dec(p.slice('/api/land/'.length)));
       return out ? send(res, 200, out) : send(res, 404, { error: 'unknown land' });
     }
     if (p.startsWith('/api/')) return send(res, 404, { error: 'unknown api' });
     serveStatic(req, res, p);
   } catch (e) {
+    if (e instanceof BadRequest) return send(res, 400, { error: e.message });
     console.error(e);
-    send(res, 500, { error: String(e.message || e) });
+    send(res, 500, { error: 'server error' });
   }
 });
 

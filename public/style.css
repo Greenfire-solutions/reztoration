@@ -2,7 +2,7 @@
   --bg: #0d0b0a;
   --ink: #f2e8d8;
   --muted: #b3a48e;
-  --dim: #7d705f;
+  --dim: #a09180;
   --line: rgba(242, 232, 216, 0.12);
   --glass: rgba(20, 16, 13, 0.82);
   --amber: #e2a24c;
@@ -310,4 +310,11 @@ body[data-mode="today"] .then-only { display: none; }
 @media (max-width: 720px) {
   #panel .cat-chips, #panel .story-chips, .bt-status { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; }
   #panel .cat-chips button, #panel .story-chips button { flex: none; }
+}
+
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+h2[tabindex="-1"]:focus { outline: none; }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition: none !important; animation: none !important; scroll-behavior: auto !important; }
+  .shot:hover img, .g:hover img { transform: none !important; }
 }
