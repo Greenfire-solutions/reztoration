@@ -6,7 +6,9 @@ const $ = (s) => document.querySelector(s);
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const safeUrl = (u) => (/^https?:\/\//i.test(String(u || '')) ? String(u) : null);
 // Pictures, films and sound load over https only (a published site cannot mix in http).
-const safeSrc = (u) => { const x = safeUrl(u); return x ? x.replace(/^http:/i, 'https:') : null; };
+// A Wikimedia Commons file PAGE is not a picture; its Special:FilePath address redirects to the image itself.
+const commonsFile = (u) => { const m = /^https:\/\/commons\.wikimedia\.org\/wiki\/File:([^?#]+)/i.exec(u); return m ? `https://commons.wikimedia.org/wiki/Special:FilePath/${m[1]}?width=1200` : u; };
+const safeSrc = (u) => { const x = safeUrl(u); return x ? commonsFile(x.replace(/^http:/i, 'https:')) : null; };
 // Colours come from the map build, but a colour is never trusted into a style attribute unchecked.
 const cssColor = (c) => (/^#[0-9a-f]{3,8}$/i.test(String(c || '')) ? c : '#888');
 const reduceMotion = matchMedia('(prefers-reduced-motion: reduce)');
@@ -314,6 +316,17 @@ $('#close').onclick = () => {
   if (backTo) location.hash = backTo.hash; else location.hash = '';
 };
 addEventListener('hashchange', routeFromHash);
+// A picture whose host refuses it (a 403, or a site that will not be embedded) becomes the
+// labelled placeholder rather than a broken-image icon. Error events do not bubble, so capture.
+document.addEventListener('error', (e) => {
+  const img = e.target;
+  if (!(img instanceof HTMLImageElement) || img.dataset.failed) return;
+  img.dataset.failed = '1';
+  const ph = document.createElement('div');
+  ph.className = img.closest('#viewer') ? 'ph big' : 'ph';
+  ph.textContent = 'picture unavailable';
+  img.replaceWith(ph);
+}, true);
 function backLine() {
   if (!backTo || !body) return;
   body.insertAdjacentHTML('afterbegin', `<a class="backline" href="${esc(backTo.hash)}">‹ Back to ${esc(backTo.label)}</a>`);

@@ -47,6 +47,9 @@ if (HOMELANDS) pages.push(
   ['where am I, coordinates', '#where/@-97.74,30.27', ['--expect', '.whereout .links.big a=3']],
   ['phone: homeland', '#territory/navajo', [...PHONE, '--expect', '.tabs.main button=4']],
 );
+pages.push(
+  ['a picture that will not load becomes a placeholder', '#library', ['--ready', '#panel', '--run', `{ const i = document.createElement('img'); i.src = 'https://127.0.0.1:9/none.png'; document.body.append(i); }`, '--expect', 'body > .ph=1', '--allow-console']],
+);
 
 // Regressions from the 11-10 fresh-eyes pass. Each one was a real defect.
 const type = (text, between = '') => `{ const q = document.querySelector('#q'); q.focus(); q.value = ${JSON.stringify(text)}; q.dispatchEvent(new Event('input')); ${between} q.dispatchEvent(new KeyboardEvent('keydown', { key: 'Enter' })); await new Promise((r) => setTimeout(r, 2500)); document.body.dataset.hash = location.hash; }`;
