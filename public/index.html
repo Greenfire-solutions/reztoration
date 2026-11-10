@@ -22,18 +22,32 @@
     <p>The land, by the nations who belong to it</p>
   </div>
   <div class="search">
-    <input id="q" type="search" placeholder="Find a nation, a people, a place" autocomplete="off">
+    <input id="q" type="search" placeholder="Search a nation, treaty, business or town" aria-label="Search everything" autocomplete="off">
     <ul id="results" hidden></ul>
   </div>
   <div class="mode" role="group" aria-label="Map era">
     <button data-mode="then" class="on" title="The homelands, and the treaties that took them">Then</button>
     <button data-mode="today" title="Nations today, and Native businesses to support">Today</button>
   </div>
+  <a class="libbtn" href="#where">Where am I?</a>
   <a class="libbtn" href="#library/art">Library</a>
   <a class="libbtn brokenbtn" href="#broken">Broken treaties</a>
 </header>
 
 <div id="tip" hidden></div>
+
+<section id="welcome" hidden aria-label="Start here">
+  <button class="x" aria-label="Close">×</button>
+  <h2>The land, by the nations who belong to it</h2>
+  <p>Every coloured shape is a homeland. Gold shapes are tribal lands held today. Click anything on the map, or start with one of these.</p>
+  <div class="doors">
+    <button data-door="find"><b>Find a nation</b><span>By the name you use: Diné, Lakota, Ojibwe, Haudenosaunee</span></button>
+    <a href="#where"><b>What land am I on?</b><span>A town, a zip code, or your location</span></a>
+    <a href="#broken"><b>Broken treaties</b><span>What was promised and what was done, by state</span></a>
+    <a href="#businesses"><b>Native businesses</b><span>Owned by Native people and nations, near you or anywhere</span></a>
+  </div>
+  <button class="explore">Explore the map</button>
+</section>
 <div id="legend" hidden></div>
 
 <aside id="panel" hidden>
@@ -42,7 +56,8 @@
 </aside>
 
 <footer class="bottom">
-  <div class="layers">
+  <button id="key-btn" aria-expanded="false" aria-controls="layers">Map key</button>
+  <div class="layers" id="layers">
     <label class="then-only"><input type="checkbox" id="l-territories" checked> Traditional territories</label>
     <label class="then-only"><input type="checkbox" id="l-treaties"> Treaties</label>
     <label class="then-only"><input type="checkbox" id="l-lands" checked> Tribal lands today</label>

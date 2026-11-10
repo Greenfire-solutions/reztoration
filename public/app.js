@@ -138,6 +138,7 @@ async function load() {
   setMode(saved === 'today' ? 'today' : 'then');
   loadTreaties().catch(() => {});
   routeFromHash();
+  maybeWelcome();
 }
 
 function showStats(s) {
@@ -276,29 +277,87 @@ function focusTerritory(t) {
 
 // ---------- panel ----------
 const panel = $('#panel'), body = $('#panel-body');
-$('#close').onclick = () => { location.hash = ''; };
+// Lists people browse from. Opening a single record from one of these shows "Back to ..." at the
+// top of the panel, and closing goes back to the list instead of dropping you on an empty map.
+const LIST_LABEL = { broken: 'Broken treaties', businesses: 'Native businesses', treaties: 'All treaties', library: 'the Library', where: 'this place' };
+let backTo = null, lastHash = '';
+$('#close').onclick = () => { if (backTo) location.hash = backTo.hash; else location.hash = ''; };
 addEventListener('hashchange', routeFromHash);
+function backLine() {
+  if (!backTo || !body) return;
+  body.insertAdjacentHTML('afterbegin', `<a class="backline" href="${esc(backTo.hash)}">‹ Back to ${esc(backTo.label)}</a>`);
+}
 function routeFromHash() {
-  const [kind, id] = location.hash.slice(1).split('/');
+  const hash = location.hash;
+  const [kind, id] = hash.slice(1).split('/');
+  const prevKind = lastHash.slice(1).split('/')[0];
+  if (LIST_LABEL[prevKind] && !LIST_LABEL[kind] && kind) {
+    let label = LIST_LABEL[prevKind];
+    const sub = decodeURIComponent(lastHash.slice(1).split('/')[1] || '');
+    if (prevKind === 'broken' && sub && STATE_NAMES[sub]) label += ` (${STATE_NAMES[sub]})`;
+    backTo = { hash: lastHash, label };
+  } else if (LIST_LABEL[kind] || !kind) backTo = null;
+  lastHash = hash;
+  panel.scrollTop = 0;
+  if (kind) hideWelcome();
   if (state.selected && state.selected.kind === 'territory' && state.selected.id !== decodeURIComponent(id || '')) {
     const t = state.tById.get(state.selected.id);
     if (t) t.mesh.material.opacity = 0.28;
   }
   if (kind === 'library') { brokenEl.hidden = true; openLibrary(id); return; }
   libEl.hidden = true;
-  if (kind === 'broken') { openBroken(); return; }
+  if (kind === 'broken') { openBroken(decodeURIComponent(id || '')); return; }
   brokenEl.hidden = true;
   if (kind === 'treaties') return openTreatyList();
-  if (kind === 'businesses') return openBusinessList();
+  if (kind === 'businesses') return openBusinessList(undefined, decodeURIComponent(id || ''));
+  if (kind === 'where') return openWhere(decodeURIComponent(id || ''));
   if (!kind || !id) { panel.hidden = true; state.selected = null; groups.focus.clear(); return; }
   const key = decodeURIComponent(id);
-  if (kind === 'territory') openTerritory(key);
-  else if (kind === 'land') openLand(key);
-  else if (kind === 'treaty') openTreaty(key);
-  else if (kind === 'cession') openCession(key);
-  else if (kind === 'nation') openNation(key);
-  else if (kind === 'business') openBusiness(key);
+  const done = (p) => Promise.resolve(p).then(backLine);
+  if (kind === 'territory') done(openTerritory(key));
+  else if (kind === 'land') done(openLand(key));
+  else if (kind === 'treaty') done(openTreaty(key));
+  else if (kind === 'cession') done(openCession(key));
+  else if (kind === 'nation') done(openNation(key));
+  else if (kind === 'business') done(openBusiness(key));
 }
+
+// Escape closes whatever is on top: the viewer handles itself, then search, then a panel or view.
+addEventListener('keydown', (e) => {
+  if (e.key === '/' && document.activeElement?.tagName !== 'INPUT' && document.activeElement?.tagName !== 'SELECT') { e.preventDefault(); $('#q').focus(); return; }
+  if (e.key !== 'Escape' || viewer.open) return;
+  if (!results.hidden) { results.hidden = true; return; }
+  if (document.activeElement?.tagName === 'INPUT') { document.activeElement.blur(); return; }
+  if (!$('#welcome').hidden) { hideWelcome(); return; }
+  if (location.hash) $('#close').click();
+});
+
+// ---------- welcome: four doors ----------
+function hideWelcome() {
+  const w = $('#welcome');
+  if (w.hidden) return;
+  w.hidden = true;
+  try { localStorage.setItem('rez-welcomed', '1'); } catch {}
+}
+function maybeWelcome() {
+  let seen = false;
+  try { seen = localStorage.getItem('rez-welcomed') === '1'; } catch {}
+  if (!seen && !location.hash) $('#welcome').hidden = false;
+}
+$('#welcome .x').onclick = hideWelcome;
+$('#welcome .explore').onclick = hideWelcome;
+$('#welcome').addEventListener('click', (e) => { if (e.target.closest('a')) hideWelcome(); });
+$('#welcome [data-door="find"]').onclick = () => { hideWelcome(); $('#q').focus(); };
+
+// ---------- map key on phones ----------
+$('#key-btn').onclick = () => {
+  const open = document.body.classList.toggle('key-open');
+  $('#key-btn').setAttribute('aria-expanded', String(open));
+};
+
+const STATE_NAMES = { AL: 'Alabama', AK: 'Alaska', AZ: 'Arizona', AR: 'Arkansas', CA: 'California', CO: 'Colorado', CT: 'Connecticut', DE: 'Delaware', DC: 'District of Columbia', FL: 'Florida', GA: 'Georgia', HI: 'Hawaii', ID: 'Idaho', IL: 'Illinois', IN: 'Indiana', IA: 'Iowa', KS: 'Kansas', KY: 'Kentucky', LA: 'Louisiana', ME: 'Maine', MD: 'Maryland', MA: 'Massachusetts', MI: 'Michigan', MN: 'Minnesota', MS: 'Mississippi', MO: 'Missouri', MT: 'Montana', NE: 'Nebraska', NV: 'Nevada', NH: 'New Hampshire', NJ: 'New Jersey', NM: 'New Mexico', NY: 'New York', NC: 'North Carolina', ND: 'North Dakota', OH: 'Ohio', OK: 'Oklahoma', OR: 'Oregon', PA: 'Pennsylvania', RI: 'Rhode Island', SC: 'South Carolina', SD: 'South Dakota', TN: 'Tennessee', TX: 'Texas', UT: 'Utah', VT: 'Vermont', VA: 'Virginia', WA: 'Washington', WV: 'West Virginia', WI: 'Wisconsin', WY: 'Wyoming', PR: 'Puerto Rico' };
+const stateOptions = (counts, sel) => Object.keys(counts).filter((s) => STATE_NAMES[s]).sort((a, b) => STATE_NAMES[a].localeCompare(STATE_NAMES[b]))
+  .map((s) => `<option value="${esc(s)}" ${s === sel ? 'selected' : ''}>${esc(STATE_NAMES[s])} (${counts[s]})</option>`).join('');
 
 async function openTerritory(id) {
   const t = state.tById.get(id);
@@ -329,31 +388,32 @@ const link = (u, label) => (safeUrl(u) ? `<a href="${esc(u)}" target="_blank" re
 let cur = null; // the open territory's data
 let pendingItem = null; // a search result to show once its territory opens
 
+const STORY_GROUPS = [['art', 'Art'], ['films', 'Films'], ['photos', 'Photos'], ['recordings', 'Recordings'], ['writings', 'Writings']];
+let storyGroup = null;
 function renderTerritory(d) {
   cur = d;
   const g = d.groups;
+  const stories = STORY_GROUPS.reduce((n, [k]) => n + g[k].count, 0);
+  // Five doors, not ten. Empty ones are left out; Sources sits at the foot of the page.
   const tabs = [
     ['overview', 'Overview', null],
-    ['art', 'Art', g.art.count],
-    ['films', 'Films', g.films.count],
-    ['photos', 'Photos', g.photos.count],
-    ['recordings', 'Recordings', g.recordings.count],
-    ['writings', 'Writings', g.writings.count],
+    ['stories', 'Stories and media', stories],
     ['plants', 'Medicine and plants', d.plantCount],
-    ['lands', 'Lands today', d.lands.length],
-    ['treaties', 'Treaties', null],
-    ['sources', 'Sources', null],
-  ];
-  const hero = safeUrl(d.profile?.image) || safeUrl(d.featured.find((i) => i.image)?.image) || safeUrl(d.featured[0]?.thumb);
+    ['land', 'Land and treaties', null],
+  ].filter(([, , n]) => n !== 0);
+  storyGroup = STORY_GROUPS.find(([k]) => g[k].count)?.[0] || null;
+  const hero = safeUrl(d.profile?.image);
   const names = [...new Set(d.nations.map((n) => n.name))];
   body.innerHTML = `
     <div class="hero" ${hero ? `style="background-image:linear-gradient(180deg,rgba(13,11,10,.1),rgba(13,11,10,.95)),url('${esc(hero)}')"` : ''}>
       <h2>${esc(d.name)}</h2>
-      <p class="sub"><span class="swatch" style="background:${esc(d.color)}"></span>Traditional territory${names.length ? ` · ${names.slice(0, 3).map(esc).join(', ')}${names.length > 3 ? ` <button class="linkish" data-go="overview">and ${names.length - 3} more nations today</button>` : ''}` : ''}</p>
+      <p class="sub"><span class="swatch" style="background:${esc(d.color)}"></span>Homeland${names.length ? ` · ${names.slice(0, 3).map(esc).join(', ')}${names.length > 3 ? ` <button class="linkish" data-go="overview">and ${names.length - 3} more nations today</button>` : ''}` : ''}</p>
     </div>
-    <div class="tabs main">${tabs.map(([k, label, n], i) => `<button data-tab="${k}" class="${i ? '' : 'on'}" ${n === 0 ? 'data-zero' : ''}>${label}${n ? `<b>${n.toLocaleString()}</b>` : ''}</button>`).join('')}</div>
-    <div id="tab"></div>`;
+    <div class="tabs main">${tabs.map(([k, label, n], i) => `<button data-tab="${k}" class="${i ? '' : 'on'}">${label}${n ? `<b>${n.toLocaleString()}</b>` : ''}</button>`).join('')}</div>
+    <div id="tab"></div>
+    <p class="note foot"><button class="linkish" data-src>Sources for this page</button> · Outline from Native Land Digital, approximate. ${link(d.url, 'See it on Native Land')}</p>`;
   body.querySelectorAll('.tabs.main button').forEach((b) => b.addEventListener('click', () => showTab(b.dataset.tab)));
+  body.querySelector('[data-src]').addEventListener('click', () => { showTab('sources'); body.querySelector('#tab').scrollIntoView({ behavior: 'smooth' }); });
   body.querySelector('.hero .linkish')?.addEventListener('click', () => { showTab('overview'); body.querySelector('.card.own')?.scrollIntoView({ behavior: 'smooth' }); });
   showTab('overview');
   if (pendingItem) { const it = pendingItem; pendingItem = null; openViewer([it], 0); }
@@ -362,13 +422,48 @@ function renderTerritory(d) {
 function showTab(k) {
   body.querySelectorAll('.tabs.main button').forEach((b) => b.classList.toggle('on', b.dataset.tab === k));
   const tab = $('#tab');
-  if (k in cur.groups) return renderGroup(tab, k);
+  if (k in cur.groups) { storyGroup = k; k = 'stories'; body.querySelectorAll('.tabs.main button').forEach((b) => b.classList.toggle('on', b.dataset.tab === 'stories')); }
+  if (k === 'stories') {
+    const chips = STORY_GROUPS.filter(([g]) => cur.groups[g].count);
+    tab.innerHTML = `<div class="chips story-chips">${chips.map(([g, l]) => `<button data-g="${g}" class="${g === storyGroup ? 'on' : ''}">${l} <b>${cur.groups[g].count.toLocaleString()}</b></button>`).join('')}</div><div id="group"></div>`;
+    tab.querySelectorAll('[data-g]').forEach((b) => b.addEventListener('click', () => { storyGroup = b.dataset.g; tab.querySelectorAll('[data-g]').forEach((x) => x.classList.toggle('on', x === b)); renderGroup($('#group'), storyGroup); }));
+    return renderGroup($('#group'), storyGroup);
+  }
   if (k === 'plants') return renderPlants(tab);
-  if (k === 'treaties') return renderTreatyTab(tab);
+  if (k === 'land') return renderLandTab(tab);
   tab.innerHTML = TABS[k](cur);
   tab.querySelectorAll('[data-land]').forEach((a) => a.addEventListener('click', (e) => { e.preventDefault(); location.hash = `land/${encodeURIComponent(a.dataset.land)}`; }));
   tab.querySelectorAll('[data-go]').forEach((a) => a.addEventListener('click', () => showTab(a.dataset.go)));
   bindViewer(tab, cur.featured);
+}
+
+// Lands today and treaties together: what is held now, and how the rest was taken.
+async function renderLandTab(tab) {
+  tab.innerHTML = `<h3>Tribal lands today</h3>${TABS.lands(cur)}<div id="treaty-part"></div>`;
+  tab.querySelectorAll('[data-land]').forEach((a) => a.addEventListener('click', (e) => { e.preventDefault(); location.hash = `land/${encodeURIComponent(a.dataset.land)}`; }));
+  const part = tab.querySelector('#treaty-part');
+  await renderTreatyTab(part);
+  part.insertAdjacentHTML('afterbegin', '<h3>Treaties</h3>');
+}
+
+// Homelands whose outlines overlap this one: a way onward from a page with little on it.
+function neighboursOf(id) {
+  const t = state.tById.get(id);
+  if (!t) return [];
+  const bb = (polys) => { let a = Infinity, b = -Infinity, c = Infinity, e = -Infinity; for (const p of polys) for (let i = 0; i < p[0].length; i += 2) { a = Math.min(a, p[0][i]); b = Math.max(b, p[0][i]); c = Math.min(c, p[0][i + 1]); e = Math.max(e, p[0][i + 1]); } return [a, b, c, e]; };
+  const mine = t.bb || (t.bb = bb(t.polys));
+  const out = [];
+  for (const o of state.territories) {
+    if (o.id === id) continue;
+    const ob = state.tById.get(o.id).bb || (state.tById.get(o.id).bb = bb(o.polys));
+    if (ob[0] > mine[1] || ob[1] < mine[0] || ob[2] > mine[3] || ob[3] < mine[2]) continue;
+    if (inPolysXZ(o.center, t.polys) || inPolysXZ(t.center, o.polys)) out.push(o);
+  }
+  return out.sort((a, b) => a.area - b.area).slice(0, 8);
+}
+function inPolysXZ([x, z], polys) {
+  const ring = (r) => { let ins = false; for (let i = 0, j = r.length - 2; i < r.length; j = i, i += 2) { const xi = r[i], zi = r[i + 1], xj = r[j], zj = r[j + 1]; if ((zi > z) !== (zj > z) && x < ((xj - xi) * (z - zi)) / (zj - zi) + xi) ins = !ins; } return ins; };
+  return polys.some(([o, ...h]) => ring(o) && !h.some(ring));
 }
 
 const TABS = {
@@ -379,7 +474,7 @@ const TABS = {
       const o = n.official || {};
       const own = [link(o.website, 'Official website'), link(o.culture, 'Culture department'), link(o.museum, 'Museum'), link(o.language, 'Language program'), link(o.thpo, 'Historic preservation office'), link(o.radio, 'Radio')].filter(Boolean);
       h += `<div class="card own">
-        <div class="nname">${esc(n.name)}${n.endonym ? ` <span class="k">(${esc(n.endonym)})</span>` : ''}</div>
+        <div class="nname"><a href="#nation/${encodeURIComponent(n.id)}">${esc(n.name)}</a>${n.endonym ? ` <span class="k">(${esc(n.endonym)})</span>` : ''}</div>
         ${n.recognition ? `<div class="k">${esc(n.recognition)} recognition${n.states?.length ? ` · ${esc(n.states.join(', '))}` : ''}</div>` : ''}
         ${own.length ? `<h3>In their own words</h3><div class="links">${own.join('')}</div>` : ''}
         ${n.languages?.length ? `<h3>Language</h3>${n.languages.map((l) => `<div>${esc(l.name)}${l.status ? ` <span class="tag">${esc(l.status)}</span>` : ''} ${link(l.elpUrl, 'Endangered Languages Project')} ${link(l.glottologUrl, 'Glottolog')} ${(l.resources || []).slice(0, 3).map((u, i) => link(u, `resource ${i + 1}`)).join(' ')}</div>`).join('')}` : ''}
@@ -387,16 +482,20 @@ const TABS = {
     }
     if (d.profile) h += `<h3>About</h3><p class="about">${esc(d.profile.extract)}</p><p class="note">From ${link(d.profile.url, `Wikipedia: ${d.profile.title}`)}, an outside source (CC BY-SA). Where the nation's own words exist, they come first.</p>`;
     else if (!d.nations.length) h += `<p class="empty">No outside introduction found yet for this people. The outline is here; their voice is still to come.</p>`;
-    const tiles = [['art', 'Art'], ['films', 'Films'], ['photos', 'Photos'], ['recordings', 'Recordings'], ['writings', 'Writings']]
-      .map(([k, l]) => `<button class="tile" data-go="${k}" ${d.groups[k].count ? '' : 'disabled'}><b>${d.groups[k].count.toLocaleString()}</b>${l}</button>`).join('')
-      + `<button class="tile" data-go="plants" ${d.plantCount ? '' : 'disabled'}><b>${d.plantCount.toLocaleString()}</b>Plants</button>`
-      + `<button class="tile" data-go="lands" ${d.lands.length ? '' : 'disabled'}><b>${d.lands.length}</b>Lands today</button>`;
-    h += `<h3>Explore</h3><div class="tiles">${tiles}</div>
-      <p class="note" style="margin-top:14px">Territory outline from Native Land Digital, approximate and meant to start a conversation, not settle one. ${link(d.url, 'See it on Native Land')}</p>`;
+    const parts = [];
+    const stories = STORY_GROUPS.reduce((n, [k]) => n + d.groups[k].count, 0);
+    if (stories) parts.push(`<button class="linkish" data-go="stories">${stories.toLocaleString()} stories, pictures and recordings</button>`);
+    if (d.plantCount) parts.push(`<button class="linkish" data-go="plants">${d.plantCount.toLocaleString()} plants</button>`);
+    if (d.lands.length) parts.push(`<button class="linkish" data-go="land">${d.lands.length} tribal land${d.lands.length === 1 ? '' : 's'} today</button>`);
+    parts.push('<button class="linkish" data-go="land">treaties</button>');
+    h += `<h3>Here</h3><p class="summary">${parts.join(' · ')}</p>`;
+    if (!stories && !d.plantCount) h += '<p class="empty">Nothing open-access has been gathered for this homeland yet. The nation\'s own voice and the archives are still to come.</p>';
+    const near = neighboursOf(d.id);
+    if (near.length) h += `<h3>Neighbouring homelands</h3><div class="links">${near.map((o) => `<a href="#territory/${encodeURIComponent(o.id)}">${esc(o.name)}</a>`).join('')}</div>`;
     return h;
   },
   lands(d) {
-    if (!d.lands.length) return '<p class="empty">No present-day tribal land recorded inside this territory.</p>';
+    if (!d.lands.length) return '<p class="empty">No present-day tribal land recorded inside this homeland.</p>';
     return d.lands.map((l) => `<div class="card"><a href="#" data-land="${esc(l.id)}">${esc(l.name)}</a><div class="k">${esc(l.kind)}</div></div>`).join('');
   },
   sources(d) {
@@ -576,35 +675,69 @@ async function libLoad(reset) {
 libEl.querySelector('.libbody').addEventListener('click', (e) => { const b = e.target.closest('[data-view]'); if (b) openViewer(libList, Number(b.dataset.view)); });
 libEl.querySelector('.filter').addEventListener('input', (e) => { clearTimeout(libTimer); libTimer = setTimeout(() => { libQ = e.target.value.trim(); libLoad(true); }, 220); });
 
-// ---------- search ----------
+// ---------- search: one box for everything, in groups ----------
 const q = $('#q'), results = $('#results');
-let searchTimer, lastResults = [];
+let searchTimer, lastResults = [], searchSeq = 0;
+const GROUP_TITLES = [['homelands', 'Homelands'], ['nations', 'Nations today'], ['towns', 'Places'], ['treaties', 'Treaties'], ['lands', 'Tribal lands today'], ['businesses', 'Native businesses'], ['items', 'In the library']];
+function resultRow(x, i) {
+  const by = x.foundBy ? `<small class="by">found by: ${esc(x.foundBy)}</small>` : '';
+  if (x.type === 'territory') return `<li data-i="${i}" data-h="territory/${encodeURIComponent(x.id)}">${esc(x.name)}${by}</li>`;
+  if (x.type === 'nation') return `<li data-i="${i}" data-h="nation/${encodeURIComponent(x.id)}">${esc(x.name)}<small>${esc((x.states || []).join(', '))}</small>${by}</li>`;
+  if (x.type === 'land') return `<li data-i="${i}" data-h="land/${encodeURIComponent(x.id)}">${esc(x.name)}<small>${esc(x.kind || '')}</small></li>`;
+  if (x.type === 'treaty') return `<li data-i="${i}" data-h="treaty/${encodeURIComponent(x.id)}">${dot(x.status)}${esc(x.name)}<small>${esc(String(x.date || '').slice(0, 4))}</small></li>`;
+  if (x.type === 'business') return `<li data-i="${i}" data-h="business/${encodeURIComponent(x.id)}"><i class="sdot" style="background:${CAT_COLOR[x.category]}"></i>${esc(x.name)}<small>${esc(x.city || '')}, ${esc(x.state || '')}</small></li>`;
+  if (x.type === 'town') return `<li data-i="${i}" data-h="where/${x.lonlat[0]},${x.lonlat[1]}">What land is ${esc(x.name)}${x.state ? `, ${esc(x.state)}` : ''} on?</li>`;
+  return `<li data-i="${i}" data-h="territory/${encodeURIComponent(x.id)}">${esc(x.name)}<small>${esc(x.kind)} · ${esc(x.where || '')}</small></li>`;
+}
 q.addEventListener('input', () => {
   clearTimeout(searchTimer);
   searchTimer = setTimeout(async () => {
     const v = q.value.trim();
     if (v.length < 2) { results.hidden = true; return; }
-    const r = await getJSON(`/api/search?q=${encodeURIComponent(v)}`);
-    lastResults = r;
-    results.innerHTML = r.length ? r.map((x) => x.type === 'item'
-      ? `<li data-h="territory/${encodeURIComponent(x.id)}" data-i="${r.indexOf(x)}">${esc(x.name)}<small>${esc(x.kind)} · ${esc(x.where || '')}</small></li>`
-      : `<li data-h="${x.type}/${encodeURIComponent(x.id)}">${esc(x.name)}<small>${x.type === 'land' ? esc(x.kind) : 'territory'}</small></li>`).join('') : '<li class="empty">Nothing by that name yet</li>';
+    const seq = ++searchSeq;
+    let r;
+    try { r = await getJSON(`/api/search?q=${encodeURIComponent(v)}`); } catch { return; }
+    if (seq !== searchSeq) return;
+    lastResults = [];
+    let html = '';
+    for (const [k, title] of GROUP_TITLES) {
+      const list = (r[k] || []).map((x) => (k === 'towns' ? { ...x, type: 'town' } : x));
+      if (!list.length) continue;
+      html += `<li class="grp">${title}</li>` + list.map((x) => { lastResults.push(x); return resultRow(x, lastResults.length - 1); }).join('');
+    }
+    if (!html) html = `<li class="empty">Nothing by that name yet.</li>`;
+    if (!r.towns?.length && /\d{5}|,|\s[A-Z]{2}$/.test(v)) html += `<li data-h="where/${encodeURIComponent(v)}" data-i="-1">Look up "${esc(v)}" as a place</li>`;
+    results.innerHTML = html;
     results.hidden = false;
-  }, 120);
+  }, 140);
 });
-results.addEventListener('click', (e) => {
-  const li = e.target.closest('li[data-h]');
+function chooseResult(li) {
   if (!li) return;
   const hit = lastResults[Number(li.dataset.i)];
   if (hit?.type === 'item') {
     if (location.hash === `#${li.dataset.h}` && cur) { openViewer([hit.item], 0); results.hidden = true; return; }
     pendingItem = hit.item;
   }
+  lastHash = '';
   location.hash = li.dataset.h;
   results.hidden = true;
   q.blur();
+}
+results.addEventListener('click', (e) => chooseResult(e.target.closest('li[data-h]')));
+q.addEventListener('keydown', (e) => {
+  const rows = [...results.querySelectorAll('li[data-h]')];
+  const at = rows.findIndex((x) => x.classList.contains('on'));
+  if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
+    e.preventDefault();
+    if (!rows.length) return;
+    const next = e.key === 'ArrowDown' ? Math.min(rows.length - 1, at + 1) : Math.max(0, at - 1);
+    rows.forEach((x, i) => x.classList.toggle('on', i === next));
+    rows[next].scrollIntoView({ block: 'nearest' });
+  }
+  if (e.key === 'Enter') chooseResult(rows[at] || rows[0]);
 });
-q.addEventListener('keydown', (e) => { if (e.key === 'Enter') results.querySelector('li[data-h]')?.click(); if (e.key === 'Escape') results.hidden = true; });
+q.addEventListener('focus', () => { if (results.innerHTML && q.value.trim().length >= 2) results.hidden = false; });
+addEventListener('pointerdown', (e) => { if (!e.target.closest('.search')) results.hidden = true; });
 
 // ---------- layers + about ----------
 $('#l-territories').onchange = (e) => { groups.territories.visible = mode === 'then' && e.target.checked; };
@@ -842,7 +975,8 @@ async function openCession(id) {
 const brokenEl = $('#broken');
 const bt = { data: null, status: '', state: '', q: '', sort: 'old', shown: 0, list: [] };
 const BT_PAGE = 30;
-async function openBroken() {
+async function openBroken(st = '') {
+  bt.state = STATE_NAMES[st] ? st : '';
   brokenEl.hidden = false;
   panel.hidden = true;
   state.selected = null;
@@ -853,22 +987,44 @@ async function openBroken() {
     brokenEl.querySelector('.bt-tally').innerHTML = `<b>${d.cards.length}</b> treaties with a documented wrong, out of <b>${d.researched}</b> researched so far (${d.total} in all).`;
     brokenEl.querySelector('.bt-status').innerHTML = Object.entries(d.statuses).map(([k, v]) => `<button data-s="${k}" title="${esc(v.note)}">${dot(k)}${esc(v.label)} <b>${v.count}</b></button>`).join('');
     const sel = brokenEl.querySelector('.bt-state');
-    sel.insertAdjacentHTML('beforeend', Object.keys(d.states).sort().map((s) => `<option value="${esc(s)}">${esc(s)} (${d.states[s]})</option>`).join(''));
+    sel.insertAdjacentHTML('beforeend', stateOptions(d.states, ''));
+    brokenEl.querySelector('.bt-controls').insertAdjacentHTML('beforeend', '<button class="bt-map">Show these on the map</button><button class="bt-print">Print</button>');
+    brokenEl.querySelector('.bt-map').addEventListener('click', showBrokenOnMap);
+    brokenEl.querySelector('.bt-print').addEventListener('click', () => { let n = 0; while (bt.shown < bt.list.length && n++ < 50) moreBroken(); print(); });
     brokenEl.querySelectorAll('[data-s]').forEach((b) => b.addEventListener('click', () => { bt.status = bt.status === b.dataset.s ? '' : b.dataset.s; brokenEl.querySelectorAll('[data-s]').forEach((x) => x.classList.toggle('on', x.dataset.s === bt.status)); drawBroken(); }));
-    sel.addEventListener('change', (e) => { bt.state = e.target.value; drawBroken(); });
+    sel.addEventListener('change', (e) => { location.hash = `broken${e.target.value ? `/${e.target.value}` : ''}`; });
     brokenEl.querySelector('.bt-sort').addEventListener('change', (e) => { bt.sort = e.target.value; drawBroken(); });
     let tmr;
     brokenEl.querySelector('.filter').addEventListener('input', (e) => { clearTimeout(tmr); tmr = setTimeout(() => { bt.q = e.target.value; drawBroken(); }, 150); });
     brokenEl.querySelector('.more').addEventListener('click', (e) => { if (e.target.closest('.morebtn')) moreBroken(); });
   }
+  brokenEl.querySelector('.bt-state').value = bt.state;
   drawBroken();
+}
+// Close the list and raise every listed treaty's land on the map at once.
+function showBrokenOnMap() {
+  const ids = new Set(bt.list.map((c) => c.id));
+  const cessions = tre.list.filter((t) => ids.has(t.id)).flatMap((t) => t.cessions);
+  if (!$('#l-treaties').checked) { $('#l-treaties').checked = true; $('#l-treaties').dispatchEvent(new Event('change')); }
+  if (mode !== 'then') setMode('then');
+  const back = location.hash;
+  history.pushState(null, '', '#');
+  brokenEl.hidden = true;
+  lastHash = '';
+  const b = highlightCessions(cessions, 'broken');
+  if (b) flyTo(b.mid, Math.max(b.size, 60));
+  panel.hidden = false;
+  state.selected = { kind: 'brokenmap' };
+  body.innerHTML = `<a class="backline" href="${esc(back)}">‹ Back to Broken treaties${bt.state ? ` (${esc(STATE_NAMES[bt.state])})` : ''}</a>
+    <h2 style="margin-top:12px">${bt.list.length} treaties on the map</h2><p class="sub">Their land is raised in red. Click any part of it for the treaty.</p>
+    ${bt.list.slice(0, 200).map((c) => treatyRow({ ...c, date: String(c.date || '').slice(0, 4) })).join('')}`;
 }
 function drawBroken() {
   const w = bt.q.toLowerCase().split(/\s+/).filter(Boolean);
   bt.list = bt.data.cards.filter((c) => (!bt.status || c.status === bt.status) && (!bt.state || c.states.includes(bt.state)) &&
     w.every((x) => `${c.name} ${c.date} ${c.nations.join(' ')} ${c.today.join(' ')} ${c.states.join(' ')}`.toLowerCase().includes(x)));
   if (bt.sort === 'new') bt.list.reverse();
-  brokenEl.querySelector('.bt-count').textContent = `${bt.list.length} shown`;
+  brokenEl.querySelector('.bt-count').textContent = `${bt.list.length} shown${bt.state ? ` in ${STATE_NAMES[bt.state]}` : ''}`;
   brokenEl.querySelector('.bt-cards').innerHTML = bt.list.length ? '' : '<p class="empty">Nothing matches yet. The research reaches more treaties every round.</p>';
   bt.shown = 0;
   moreBroken();
@@ -913,10 +1069,19 @@ function openTreatyList() {
     <div class="tlist"></div>`;
   const draw = () => {
     const w = words.toLowerCase().split(/\s+/).filter(Boolean);
-    const list = s.treaties.filter((t) => (!filter || t.status === filter) && w.every((x) => `${t.name} ${t.date}`.toLowerCase().includes(x)));
+    const list = s.treaties.filter((t) => (!filter || t.status === filter) && w.every((x) => `${t.name} ${t.date} ${(t.states || []).join(' ')} ${(t.tribes || []).join(' ')}`.toLowerCase().includes(x)));
     const order = ['broken', 'unratified', 'contested', 'no-breach-found', 'unresearched'];
     list.sort((a, b) => order.indexOf(a.status) - order.indexOf(b.status) || String(a.date).localeCompare(String(b.date)));
-    body.querySelector('.tlist').innerHTML = list.slice(0, 400).map(treatyRow).join('') || '<p class="empty">None yet.</p>';
+    let shown = 0;
+    const box = body.querySelector('.tlist');
+    const more = () => {
+      box.querySelector('.morebtn')?.remove();
+      box.insertAdjacentHTML('beforeend', list.slice(shown, shown + 100).map(treatyRow).join(''));
+      shown += 100;
+      if (shown < list.length) { box.insertAdjacentHTML('beforeend', `<button class="morebtn">Show more (${list.length - shown} left)</button>`); box.querySelector('.morebtn').onclick = more; }
+    };
+    box.innerHTML = list.length ? `<p class="note">${list.length} shown</p>` : '<p class="empty">None match.</p>';
+    more();
   };
   body.querySelectorAll('[data-s]').forEach((b) => b.addEventListener('click', () => { filter = filter === b.dataset.s ? '' : b.dataset.s; body.querySelectorAll('[data-s]').forEach((x) => x.classList.toggle('on', x.dataset.s === filter)); draw(); }));
   body.querySelector('.filter').addEventListener('input', (e) => { words = e.target.value; draw(); });
@@ -934,6 +1099,7 @@ async function openNation(id) {
   const own = [link(o.website, 'Official website'), link(o.culture, 'Culture department'), link(o.museum, 'Museum'), link(o.language, 'Language program'), link(o.thpo, 'Historic preservation office'), link(o.radio, 'Radio')].filter(Boolean);
   body.innerHTML = `<h2 style="margin-top:18px">${esc(n.name)}</h2>
     <p class="sub">${n.endonym ? `${esc(n.endonym)} · ` : ''}${esc(n.recognition)} recognition${n.states.length ? ` · ${esc(n.states.join(', '))}` : ''}</p>
+    <p class="summary">${[n.homelands.length ? `<a href="#territory/${encodeURIComponent(n.homelands[0].id)}">Homeland, stories and plants</a>` : '', `${n.businesses.length} business${n.businesses.length === 1 ? '' : 'es'}`, `${n.treaties.length} treat${n.treaties.length === 1 ? 'y' : 'ies'}`].filter(Boolean).join(' · ')}</p>
     ${own.length ? `<h3>In their own words</h3><div class="links">${own.join('')}</div>` : ''}
     ${n.languages.length ? `<h3>Language</h3><p>${n.languages.map(esc).join(', ')}</p>` : ''}
     <h3>Native businesses of this nation</h3>${n.businesses.length ? n.businesses.map((b) => `<a class="trow" href="#business/${encodeURIComponent(b.id)}"><i class="sdot" style="background:${CAT_COLOR[b.category]}"></i><span>${esc(b.name)}</span><small>${esc(b.categoryLabel)} · ${esc(b.city || '')}</small></a>`).join('') : '<p class="empty">None listed yet. The business research agent adds more over time.</p>'}
@@ -950,7 +1116,7 @@ async function openBusiness(id) {
   flyTo(b.xz, 40);
   body.innerHTML = `<h2 style="margin-top:18px">${esc(b.name)}</h2>
     <p class="sub"><i class="sdot" style="background:${CAT_COLOR[b.category]}"></i>${esc(b.categoryLabel)}${b.subcategory ? ` · ${esc(b.subcategory)}` : ''}</p>
-    ${b.nation ? `<p><b>${esc(b.nation)}</b></p>` : ''}
+    ${b.nation ? `<p><b>${b.nationId ? `<a href="#nation/${encodeURIComponent(b.nationId)}">${esc(b.nation)}</a>` : esc(b.nation)}</b></p>` : ''}
     ${b.description ? `<p>${esc(b.description)}</p>` : ''}
     <div class="links">${link(b.website, 'Website')}${link(b.shopOnline, 'Shop online')}</div>
     <h3>Where</h3><p>${b.address && !b.homeBased ? `${esc(b.address)}, ` : ''}${esc(b.city || '')}, ${esc(b.state)}</p>
@@ -959,26 +1125,108 @@ async function openBusiness(id) {
     <p class="note">Last checked ${esc(b.checkedAt)}. If this is wrong or closed, it will come off.</p>`;
 }
 
-let bizCat = '', bizQ = '', bizTimer;
-async function openBusinessList(cat) {
+let bizCat = '', bizQ = '', bizState = '', bizTimer, bizShown = 0, bizStates = null;
+async function openBusinessList(cat, st) {
   state.selected = { kind: 'businesses' };
   groups.focus.clear();
   panel.hidden = false;
   if (mode !== 'today') setMode('today');
   if (cat !== undefined) bizCat = cat;
-  const d = await getJSON(`/api/businesses?limit=120&category=${encodeURIComponent(bizCat)}&q=${encodeURIComponent(bizQ)}`);
-  const cats = tod.data?.categories || {};
+  if (st !== undefined && st !== null) bizState = STATE_NAMES[st] ? st : '';
+  if (!bizStates) {
+    try { const all = await getJSON('/api/businesses?limit=1000'); bizStates = {}; for (const x of all.businesses) bizStates[x.state] = (bizStates[x.state] || 0) + 1; } catch { bizStates = {}; }
+  }
   const fresh = !body.querySelector('.bizlist');
   if (fresh) {
-    body.innerHTML = `<h2 style="margin-top:18px">Support Native businesses</h2><p class="sub">Native-owned and tribal businesses and organisations, each with the source that shows who owns it.</p>
-      <div class="chips cat-chips"></div><input class="filter" type="search" placeholder="A nation, a town, a craft, a food" autocomplete="off"><div class="bizlist"></div>`;
+    body.innerHTML = `<h2 style="margin-top:18px">Native businesses</h2><p class="sub">Owned by Native people and nations, each with the source that shows who owns it. <a href="#where">Find the ones near you</a></p>
+      <div class="chips cat-chips"></div>
+      <div class="row2"><input class="filter" type="search" placeholder="A nation, a town, a craft, a food" autocomplete="off"><select class="bizstate" aria-label="State"><option value="">Every state</option>${stateOptions(bizStates, bizState)}</select></div>
+      <div class="bizcount note"></div><div class="bizlist"></div><div class="more"></div>`;
     body.querySelector('.filter').value = bizQ;
-    body.querySelector('.filter').addEventListener('input', (e) => { clearTimeout(bizTimer); bizTimer = setTimeout(() => { bizQ = e.target.value.trim(); openBusinessList(); }, 220); });
+    body.querySelector('.filter').addEventListener('input', (e) => { clearTimeout(bizTimer); bizTimer = setTimeout(() => { bizQ = e.target.value.trim(); bizLoad(true); }, 220); });
+    body.querySelector('.bizstate').addEventListener('change', (e) => { bizState = e.target.value; history.replaceState(null, '', `#businesses${bizState ? `/${bizState}` : ''}`); lastHash = location.hash; bizLoad(true); });
+    body.querySelector('.more').addEventListener('click', (e) => { if (e.target.closest('.morebtn')) bizLoad(false); });
   }
+  body.querySelector('.bizstate').value = bizState;
+  bizLoad(true);
+}
+async function bizLoad(reset) {
+  if (reset) bizShown = 0;
+  const want = `${bizCat}|${bizQ}|${bizState}`;
+  const d = await getJSON(`/api/businesses?limit=60&offset=${bizShown}&category=${encodeURIComponent(bizCat)}&q=${encodeURIComponent(bizQ)}&state=${encodeURIComponent(bizState)}`);
+  if (want !== `${bizCat}|${bizQ}|${bizState}` || !body.querySelector('.bizlist')) return;
+  const cats = tod.data?.categories || {};
   body.querySelector('.cat-chips').innerHTML = `<button data-c="" class="${bizCat ? '' : 'on'}">Everything</button>${Object.entries(cats).map(([k, v]) => `<button data-c="${k}" class="${bizCat === k ? 'on' : ''}"><i style="background:${CAT_COLOR[k]}"></i>${esc(v.label)} <b>${v.count}</b></button>`).join('')}`;
-  body.querySelectorAll('[data-c]').forEach((b) => b.addEventListener('click', () => openBusinessList(b.dataset.c)));
-  body.querySelector('.bizlist').innerHTML = d.businesses.map((b) => `<a class="trow" href="#business/${encodeURIComponent(b.id)}"><i class="sdot" style="background:${CAT_COLOR[b.category]}"></i><span>${esc(b.name)}${b.nation ? ` <small>${esc(b.nation)}</small>` : ''}</span><small>${esc(b.city || '')}, ${esc(b.state)}</small></a>`).join('')
-    || '<p class="empty">No listings yet for this. The business research agent is adding them.</p>';
+  body.querySelectorAll('[data-c]').forEach((b) => b.addEventListener('click', () => { bizCat = b.dataset.c; bizLoad(true); }));
+  const rows = d.businesses.map((b) => `<a class="trow" href="#business/${encodeURIComponent(b.id)}"><i class="sdot" style="background:${CAT_COLOR[b.category]}"></i><span>${esc(b.name)}${b.nation ? ` <small>${esc(b.nation)}</small>` : ''}</span><small>${esc(b.city || '')}, ${esc(b.state)}</small></a>`).join('');
+  const list = body.querySelector('.bizlist');
+  if (reset) list.innerHTML = rows || '<p class="empty">No listings match yet. The business research agent keeps adding them.</p>';
+  else list.insertAdjacentHTML('beforeend', rows);
+  bizShown += d.businesses.length;
+  body.querySelector('.bizcount').textContent = `${d.total.toLocaleString()} listing${d.total === 1 ? '' : 's'}${bizState ? ` in ${STATE_NAMES[bizState]}` : ''}`;
+  const left = d.total - bizShown;
+  body.querySelector('.more').innerHTML = left > 0 ? `<button class="morebtn">Show more (${left.toLocaleString()} left)</button>` : '';
+}
+
+// ---------- What land am I on? ----------
+async function openWhere(arg) {
+  state.selected = { kind: 'where' };
+  panel.hidden = false;
+  body.innerHTML = `<h2 style="margin-top:18px">What land am I on?</h2>
+    <p class="sub">Type a town and state, a zip code, or use where you are. Everything is looked up on this map; nothing is sent anywhere.</p>
+    <form class="whereform"><input class="filter" name="q" type="search" placeholder="Austin, TX  ·  59101  ·  35.6, -106.0" autocomplete="off"><button class="go">Look up</button></form>
+    <button class="morebtn locate">Use my location</button>
+    <div class="whereout"></div>`;
+  const out = body.querySelector('.whereout');
+  const form = body.querySelector('.whereform');
+  form.addEventListener('submit', (e) => { e.preventDefault(); const v = form.q.value.trim(); if (v) location.hash = `where/${encodeURIComponent(v)}`; });
+  body.querySelector('.locate').addEventListener('click', () => {
+    if (!navigator.geolocation) { out.innerHTML = '<p class="empty">This browser cannot share a location. Type a town instead.</p>'; return; }
+    out.innerHTML = '<p class="sub">Asking the browser where you are…</p>';
+    navigator.geolocation.getCurrentPosition(
+      (p) => { location.hash = `where/${p.coords.longitude.toFixed(3)},${p.coords.latitude.toFixed(3)}`; },
+      () => { out.innerHTML = '<p class="empty">The location was not shared. Type a town instead.</p>'; },
+      { timeout: 10000, maximumAge: 600000 });
+  });
+  if (!arg) { form.q.focus(); return; }
+  let lonlat = null, label = arg;
+  const ll = arg.match(/^(-?\d+(?:\.\d+)?),(-?\d+(?:\.\d+)?)$/);
+  if (ll) { lonlat = [Number(ll[1]), Number(ll[2])]; label = `This spot (${lonlat[1].toFixed(2)}, ${lonlat[0].toFixed(2)})`; }
+  else {
+    form.q.value = arg;
+    const r = await getJSON(`/api/where?q=${encodeURIComponent(arg)}`);
+    if (!r.matches.length) {
+      out.innerHTML = r.gazetteer ? `<p class="empty">No town or zip code called "${esc(arg)}" found. Try "Town, ST".</p>`
+        : '<p class="empty">Town and zip lookup is not installed on this copy yet. Use your location, or type coordinates like 30.27, -97.74.</p>';
+      return;
+    }
+    lonlat = r.matches[0].lonlat;
+    label = `${r.matches[0].name}${r.matches[0].state ? `, ${r.matches[0].state}` : ''}`;
+    if (r.matches.length > 1) out.dataset.others = JSON.stringify(r.matches.slice(1, 6));
+  }
+  out.innerHTML = '<p class="sub">Looking…</p>';
+  let d;
+  try { d = await getJSON(`/api/where?lon=${lonlat[0]}&lat=${lonlat[1]}`); } catch { out.innerHTML = '<p class="empty">That spot is outside this map.</p>'; return; }
+  if (state.selected?.kind !== 'where') return;
+  flyTo(d.xz, 160);
+  groups.focus.clear();
+  const pin = new THREE.Mesh(new THREE.CylinderGeometry(0.8, 0.8, 30, 12), new THREE.MeshBasicMaterial({ color: '#f2e8d8' }));
+  pin.position.set(d.xz[0], 15, d.xz[1]);
+  const pinG = new THREE.Group(); pinG.add(pin); pinG.userData.rise = 1; groups.focus.add(pinG);
+  const others = out.dataset.others ? JSON.parse(out.dataset.others) : [];
+  let h = `<h3>${esc(label)}</h3>`;
+  if (others.length) h += `<p class="note">Not this one? ${others.map((o) => `<a href="#where/${o.lonlat[0]},${o.lonlat[1]}">${esc(o.name)}, ${esc(o.state)}</a>`).join(' · ')}</p>`;
+  h += d.homelands.length ? `<p>This is the homeland of</p><div class="links big">${d.homelands.map((t) => `<a href="#territory/${encodeURIComponent(t.id)}"><span class="swatch" style="background:${esc(t.color)}"></span>${esc(t.name)}</a>`).join('')}</div>
+      <p class="note">Homelands overlap: borders were shared, seasonal and negotiated. Outlines from Native Land Digital are approximate, a place to start a conversation, not settle one.</p>`
+    : '<p class="empty">No homeland outline on this map covers this exact spot. That does not mean no one belonged here.</p>';
+  if (d.onLand.length) h += `<h3>You are on tribal land today</h3>${d.onLand.map((l) => `<a class="trow" href="#land/${encodeURIComponent(l.id)}"><span>${esc(l.name)}</span><small>${esc(l.kind)}</small></a>`).join('')}`;
+  if (d.treaties.length) h += `<h3>How this land was taken</h3>${d.treaties.map(treatyRow).join('')}`;
+  else h += '<h3>How this land was taken</h3><p class="empty">No land cession in Royce\'s survey covers this spot. Some land was taken with no treaty at all.</p>';
+  h += `<h3>Nations nearby today</h3>${d.nations.map((n) => `<a class="trow" href="#nation/${encodeURIComponent(n.id)}"><span>${esc(n.name)}</span><small>${n.km} km</small></a>`).join('')}`;
+  if (d.nearLands.length) h += `<details class="more-n"><summary>Nearest tribal lands</summary>${d.nearLands.map((l) => `<a class="trow" href="#land/${encodeURIComponent(l.id)}"><span>${esc(l.name)}</span><small>${l.km} km</small></a>`).join('')}</details>`;
+  h += `<h3>Native businesses near here</h3>${d.businesses.map((b) => `<a class="trow" href="#business/${encodeURIComponent(b.id)}"><i class="sdot" style="background:${CAT_COLOR[b.category]}"></i><span>${esc(b.name)}${b.nation ? ` <small>${esc(b.nation)}</small>` : ''}</span><small>${b.km} km · ${esc(b.city || '')}</small></a>`).join('') || '<p class="empty">None listed nearby yet.</p>'}`;
+  out.innerHTML = h;
+  delete out.dataset.others;
 }
 
 // Treaties tab on a homeland's page.

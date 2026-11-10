@@ -7,6 +7,7 @@ import { fileURLToPath } from 'node:url';
 import { Library } from './lib/library.mjs';
 import { TreatyStore } from './lib/treaty-store.mjs';
 import { Today } from './lib/today.mjs';
+import { Places, STATES } from './lib/places.mjs';
 
 const root = path.dirname(fileURLToPath(import.meta.url));
 const PORT = Number(process.env.PORT || 8600);
@@ -14,6 +15,7 @@ const started = new Date().toISOString();
 const lib = new Library(root);
 const treaties = new TreatyStore(root, lib);
 const today = new Today(root, lib);
+const places = new Places(root, lib, treaties, today);
 
 const TYPES = { '.html': 'text/html; charset=utf-8', '.js': 'text/javascript', '.mjs': 'text/javascript', '.css': 'text/css', '.json': 'application/json', '.svg': 'image/svg+xml', '.png': 'image/png', '.ico': 'image/x-icon' };
 const STATIC = [
@@ -46,7 +48,31 @@ const server = http.createServer((req, res) => {
   try {
     if (p === '/api/whoami') return send(res, 200, { app: 'reztoration', root, pid: process.pid, started });
     if (p === '/api/stats') return send(res, 200, lib.stats());
-    if (p === '/api/search') return send(res, 200, lib.search(url.searchParams.get('q') || ''));
+    if (p === '/api/search') {
+      // One box for everything: homelands, nations today, lands, treaties, businesses, towns, then library items.
+      const q = url.searchParams.get('q') || '';
+      const found = lib.searchPlaces(q);
+      return send(res, 200, {
+        q,
+        homelands: found.filter((x) => x.type === 'territory').slice(0, 8),
+        nations: found.filter((x) => x.type === 'nation').slice(0, 6),
+        lands: found.filter((x) => x.type === 'land').slice(0, 5),
+        treaties: treaties.search(q, 6),
+        businesses: today.search(q, 5),
+        towns: places.find(q).slice(0, 4),
+        items: lib.searchItems(q, 8),
+      });
+    }
+    if (p === '/api/where') {
+      const sp = url.searchParams;
+      const lon = Number(sp.get('lon')), lat = Number(sp.get('lat'));
+      if (sp.has('lon') && Number.isFinite(lon) && Number.isFinite(lat)) {
+        const out = places.at([lon, lat]);
+        return out ? send(res, 200, out) : send(res, 404, { error: 'outside the map' });
+      }
+      return send(res, 200, { matches: places.find(sp.get('q') || ''), gazetteer: places.hasGazetteer() });
+    }
+    if (p === '/api/states') return send(res, 200, STATES);
     if (p === '/api/browse') {
       const sp = url.searchParams;
       const opts = { offset: Math.max(0, Number(sp.get('offset')) || 0), limit: Math.min(120, Number(sp.get('limit')) || 48), q: sp.get('q') || '' };
