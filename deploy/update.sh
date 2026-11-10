@@ -7,4 +7,4 @@ sudo -u rez git -C "$APP_DIR" pull --ff-only -q
 if [[ -e "$APP_DIR/public/data/territories.json" ]]; then echo "Native Land outlines appeared in the app folder. Not restarting."; exit 1; fi
 sudo systemctl restart reztoration
 for i in $(seq 1 40); do curl -fsS http://127.0.0.1:8600/api/whoami 2>/dev/null | grep -q reztoration && break; sleep 0.5; done
-echo "Live at version $(git -C "$APP_DIR" log -1 --format='%h %s')"
+echo "Live at version $(sudo -u rez git -C "$APP_DIR" log -1 --format='%h %s')"
