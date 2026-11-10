@@ -4,6 +4,7 @@ import { test, before, after } from 'node:test';
 import assert from 'node:assert/strict';
 import { spawn } from 'node:child_process';
 import fs from 'node:fs';
+import { randomUUID } from 'node:crypto';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { isSacred, itemBlocked, plantUseBlocked } from '../lib/protocols.mjs';
@@ -26,24 +27,28 @@ const get = async (p) => {
 const json = async (p) => { const r = await get(p); assert.equal(r.status, 200, `${p} answered ${r.status}`); return r.body; };
 const q = (s) => encodeURIComponent(s);
 
+const INSTANCE = randomUUID();
 before(async () => {
   // Refuse to test against a stranger already on the port.
   try { const r = await fetch(`${BASE}/api/whoami`); if (r.ok) throw new Error(`port ${PORT} is already taken; set TEST_PORT`); } catch (e) { if (String(e.message).includes('taken')) throw e; }
-  srv = spawn(process.execPath, ['server.mjs'], { cwd: root, env: { ...process.env, PORT: String(PORT) }, stdio: ['ignore', 'pipe', 'pipe'] });
+  srv = spawn(process.execPath, ['server.mjs'], { cwd: root, env: { ...process.env, PORT: String(PORT), REZ_INSTANCE: INSTANCE }, stdio: ['ignore', 'pipe', 'pipe'] });
   let err = '';
   srv.stderr.on('data', (d) => { err += d; });
   for (let i = 0; i < 60; i++) {
     await new Promise((r) => setTimeout(r, 250));
-    try { const w = await (await fetch(`${BASE}/api/whoami`)).json(); if (w.app === 'reztoration' && w.pid === srv.pid) return; } catch {}
+    try { const w = await (await fetch(`${BASE}/api/whoami`)).json(); if (w.app === 'reztoration' && w.instance === INSTANCE) return; } catch {}
   }
   throw new Error(`server did not start: ${err}`);
 });
 after(() => srv?.kill());
 
-test('whoami names this app and this process', async () => {
+test('whoami names this app and this server, and nothing about the machine', async () => {
   const w = await json('/api/whoami');
   assert.equal(w.app, 'reztoration');
-  assert.equal(w.pid, srv.pid);
+  assert.equal(w.instance, INSTANCE);
+  assert.equal(w.root, undefined);
+  assert.equal(w.pid, undefined);
+  assert.ok(!JSON.stringify(w).includes(root), 'the project folder path is not disclosed');
 });
 
 test('unknown api paths are 404, never a page', async () => {

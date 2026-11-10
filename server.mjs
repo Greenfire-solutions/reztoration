@@ -52,7 +52,9 @@ const server = http.createServer((req, res) => {
   const url = new URL(req.url, 'http://x');
   const p = url.pathname;
   try {
-    if (p === '/api/whoami') return send(res, 200, { app: 'reztoration', root, pid: process.pid, started });
+    // Identity without disclosure: no folder path or process number. A test or launcher that must know
+    // the server is its own starts it with REZ_INSTANCE=<random> and looks for that token here.
+    if (p === '/api/whoami') return send(res, 200, { app: 'reztoration', started, ...(process.env.REZ_INSTANCE ? { instance: process.env.REZ_INSTANCE } : {}) });
     if (p === '/api/stats') return send(res, 200, lib.stats());
     if (p === '/api/search') {
       // One box for everything: homelands, nations today, lands, treaties, businesses, towns, then library items.

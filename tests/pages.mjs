@@ -3,6 +3,7 @@
 //   npm run test:pages        (TEST_PORT, default 8602; SHOTS=dir to keep screenshots)
 import { spawn, spawnSync } from 'node:child_process';
 import fs from 'node:fs';
+import { randomUUID } from 'node:crypto';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -96,9 +97,10 @@ function waitForApp(args) {
 async function startServer(port, env = {}) {
   const base = `http://127.0.0.1:${port}`;
   try { const r = await fetch(`${base}/api/whoami`); if (r.ok) { console.error(`Port ${port} is taken. Set TEST_PORT.`); process.exit(2); } } catch {}
-  const srv = spawn(process.execPath, ['server.mjs'], { cwd: root, env: { ...process.env, ...env, PORT: String(port) }, stdio: 'ignore' });
+  const instance = randomUUID();
+  const srv = spawn(process.execPath, ['server.mjs'], { cwd: root, env: { ...process.env, ...env, PORT: String(port), REZ_INSTANCE: instance }, stdio: 'ignore' });
   let up = false;
-  for (let i = 0; i < 80 && !up; i++) { await new Promise((r) => setTimeout(r, 250)); try { up = (await (await fetch(`${base}/api/whoami`)).json()).pid === srv.pid; } catch {} }
+  for (let i = 0; i < 80 && !up; i++) { await new Promise((r) => setTimeout(r, 250)); try { up = (await (await fetch(`${base}/api/whoami`)).json()).instance === instance; } catch {} }
   if (!up) { srv.kill(); console.error('server did not start'); process.exit(1); }
   return { srv, base };
 }
