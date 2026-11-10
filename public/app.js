@@ -151,6 +151,7 @@ function showStats(s) {
 
 // ---------- labels ----------
 const labelLayer = document.createElement('div');
+labelLayer.id = 'labels';
 labelLayer.style.cssText = 'position:fixed;inset:0;pointer-events:none;z-index:2;font:500 12px Inter,sans-serif;';
 document.body.appendChild(labelLayer);
 let labels = [];
@@ -241,7 +242,7 @@ canvas.addEventListener('pointerleave', () => { $('#tip').hidden = true; setHove
 canvas.addEventListener('pointerup', (e) => {
   if (!downAt || Math.hypot(e.clientX - downAt[0], e.clientY - downAt[1]) > 5) return;
   const h = pick(e);
-  if (h) location.hash = `${h.kind}/${encodeURIComponent(h.id)}`;
+  if (h) { freshNav = true; location.hash = `${h.kind}/${encodeURIComponent(h.id)}`; }
 });
 
 // ---------- camera flight ----------
@@ -279,9 +280,12 @@ function focusTerritory(t) {
 const panel = $('#panel'), body = $('#panel-body');
 // Lists people browse from. Opening a single record from one of these shows "Back to ..." at the
 // top of the panel, and closing goes back to the list instead of dropping you on an empty map.
-const LIST_LABEL = { broken: 'Broken treaties', businesses: 'Native businesses', treaties: 'All treaties', library: 'the Library', where: 'this place' };
-let backTo = null, lastHash = '';
-$('#close').onclick = () => { if (backTo) location.hash = backTo.hash; else location.hash = ''; };
+const LIST_LABEL = { brokenmap: 'the treaties on the map', broken: 'Broken treaties', businesses: 'Native businesses', treaties: 'All treaties', library: 'the Library', where: 'What land am I on?' };
+let backTo = null, lastHash = '', freshNav = false;
+$('#close').onclick = () => {
+  if (state.selected?.kind === 'brokenmap') { location.hash = `broken${bt.state ? `/${bt.state}` : ''}`; return; }
+  if (backTo) location.hash = backTo.hash; else location.hash = '';
+};
 addEventListener('hashchange', routeFromHash);
 function backLine() {
   if (!backTo || !body) return;
@@ -291,7 +295,7 @@ function routeFromHash() {
   const hash = location.hash;
   const [kind, id] = hash.slice(1).split('/');
   const prevKind = lastHash.slice(1).split('/')[0];
-  if (LIST_LABEL[prevKind] && !LIST_LABEL[kind] && kind) {
+  if (freshNav) { backTo = null; freshNav = false; } else if (LIST_LABEL[prevKind] && !LIST_LABEL[kind] && kind) {
     let label = LIST_LABEL[prevKind];
     const sub = decodeURIComponent(lastHash.slice(1).split('/')[1] || '');
     if (prevKind === 'broken' && sub && STATE_NAMES[sub]) label += ` (${STATE_NAMES[sub]})`;
@@ -307,6 +311,7 @@ function routeFromHash() {
   if (kind === 'library') { brokenEl.hidden = true; openLibrary(id); return; }
   libEl.hidden = true;
   if (kind === 'broken') { openBroken(decodeURIComponent(id || '')); return; }
+  if (kind === 'brokenmap') { brokenEl.hidden = true; showBrokenOnMap(decodeURIComponent(id || '')); return; }
   brokenEl.hidden = true;
   if (kind === 'treaties') return openTreatyList();
   if (kind === 'businesses') return openBusinessList(undefined, decodeURIComponent(id || ''));
@@ -627,7 +632,9 @@ async function openLand(id) {
   const b = boundsSize(l.polys);
   flyTo(b.mid, Math.max(b.size, 30));
   panel.hidden = false;
-  const d = await getJSON(`/api/land/${encodeURIComponent(id)}`);
+  let d;
+  try { d = await getJSON(`/api/land/${encodeURIComponent(id)}`); } catch { body.innerHTML = '<p class="empty">Could not load this land.</p>'; return; }
+  if (state.selected?.id !== id) return;
   body.innerHTML = `<h2>${esc(d.name)}</h2><p class="sub">${esc(d.kind)} · Census 2020</p>
     <h3>Within the homelands of</h3>
     ${d.territories.length ? d.territories.map((t) => `<div class="card"><a href="#territory/${encodeURIComponent(t.id)}">${esc(t.name)}</a></div>`).join('') : '<p class="empty">No traditional territory outline covers this spot on the map.</p>'}
@@ -681,35 +688,39 @@ let searchTimer, lastResults = [], searchSeq = 0;
 const GROUP_TITLES = [['homelands', 'Homelands'], ['nations', 'Nations today'], ['towns', 'Places'], ['treaties', 'Treaties'], ['lands', 'Tribal lands today'], ['businesses', 'Native businesses'], ['items', 'In the library']];
 function resultRow(x, i) {
   const by = x.foundBy ? `<small class="by">found by: ${esc(x.foundBy)}</small>` : '';
-  if (x.type === 'territory') return `<li data-i="${i}" data-h="territory/${encodeURIComponent(x.id)}">${esc(x.name)}${by}</li>`;
+  if (x.type === 'territory') return `<li data-i="${i}" data-h="territory/${encodeURIComponent(x.id)}">${esc(x.name)}${by || (x.via ? `<small class="by">homeland of the ${esc(x.via)}</small>` : '')}</li>`;
   if (x.type === 'nation') return `<li data-i="${i}" data-h="nation/${encodeURIComponent(x.id)}">${esc(x.name)}<small>${esc((x.states || []).join(', '))}</small>${by}</li>`;
   if (x.type === 'land') return `<li data-i="${i}" data-h="land/${encodeURIComponent(x.id)}">${esc(x.name)}<small>${esc(x.kind || '')}</small></li>`;
   if (x.type === 'treaty') return `<li data-i="${i}" data-h="treaty/${encodeURIComponent(x.id)}">${dot(x.status)}${esc(x.name)}<small>${esc(String(x.date || '').slice(0, 4))}</small></li>`;
   if (x.type === 'business') return `<li data-i="${i}" data-h="business/${encodeURIComponent(x.id)}"><i class="sdot" style="background:${CAT_COLOR[x.category]}"></i>${esc(x.name)}<small>${esc(x.city || '')}, ${esc(x.state || '')}</small></li>`;
-  if (x.type === 'town') return `<li data-i="${i}" data-h="where/${x.lonlat[0]},${x.lonlat[1]}">What land is ${esc(x.name)}${x.state ? `, ${esc(x.state)}` : ''} on?</li>`;
+  if (x.type === 'town') return `<li data-i="${i}" data-h="where/${encodeURIComponent(`${x.name}${x.state ? `, ${x.state}` : ''}`)}">What land is ${esc(x.name)}${x.state ? `, ${esc(x.state)}` : ''} on?</li>`;
   return `<li data-i="${i}" data-h="territory/${encodeURIComponent(x.id)}">${esc(x.name)}<small>${esc(x.kind)} · ${esc(x.where || '')}</small></li>`;
+}
+let shownFor = '';
+async function runSearch(v) {
+  const seq = ++searchSeq;
+  let r;
+  try { r = await getJSON(`/api/search?q=${encodeURIComponent(v)}`); } catch { return false; }
+  if (seq !== searchSeq) return false;
+  lastResults = [];
+  let html = '';
+  for (const [k, title] of GROUP_TITLES) {
+    const list = (r[k] || []).map((x) => (k === 'towns' ? { ...x, type: 'town' } : x));
+    if (!list.length) continue;
+    html += `<li class="grp">${title}</li>` + list.map((x) => { lastResults.push(x); return resultRow(x, lastResults.length - 1); }).join('');
+  }
+  if (!html) html = '<li class="empty">Nothing by that name yet.</li>';
+  if (!r.towns?.length && /\d{5}|,|\s[A-Z]{2}$/.test(v)) html += `<li data-h="where/${encodeURIComponent(v)}" data-i="-1">Look up "${esc(v)}" as a place</li>`;
+  results.innerHTML = html;
+  results.hidden = false;
+  shownFor = v;
+  return true;
 }
 q.addEventListener('input', () => {
   clearTimeout(searchTimer);
-  searchTimer = setTimeout(async () => {
-    const v = q.value.trim();
-    if (v.length < 2) { results.hidden = true; return; }
-    const seq = ++searchSeq;
-    let r;
-    try { r = await getJSON(`/api/search?q=${encodeURIComponent(v)}`); } catch { return; }
-    if (seq !== searchSeq) return;
-    lastResults = [];
-    let html = '';
-    for (const [k, title] of GROUP_TITLES) {
-      const list = (r[k] || []).map((x) => (k === 'towns' ? { ...x, type: 'town' } : x));
-      if (!list.length) continue;
-      html += `<li class="grp">${title}</li>` + list.map((x) => { lastResults.push(x); return resultRow(x, lastResults.length - 1); }).join('');
-    }
-    if (!html) html = `<li class="empty">Nothing by that name yet.</li>`;
-    if (!r.towns?.length && /\d{5}|,|\s[A-Z]{2}$/.test(v)) html += `<li data-h="where/${encodeURIComponent(v)}" data-i="-1">Look up "${esc(v)}" as a place</li>`;
-    results.innerHTML = html;
-    results.hidden = false;
-  }, 140);
+  const v = q.value.trim();
+  if (v.length < 2) { searchSeq++; results.hidden = true; shownFor = ''; return; }
+  searchTimer = setTimeout(() => runSearch(v), 140);
 });
 function chooseResult(li) {
   if (!li) return;
@@ -718,13 +729,22 @@ function chooseResult(li) {
     if (location.hash === `#${li.dataset.h}` && cur) { openViewer([hit.item], 0); results.hidden = true; return; }
     pendingItem = hit.item;
   }
-  lastHash = '';
+  freshNav = true;
   location.hash = li.dataset.h;
   results.hidden = true;
   q.blur();
 }
 results.addEventListener('click', (e) => chooseResult(e.target.closest('li[data-h]')));
-q.addEventListener('keydown', (e) => {
+q.addEventListener('keydown', async (e) => {
+  const v = q.value.trim();
+  if (e.key === 'Enter') {
+    if (v.length < 2) return;
+    if (shownFor !== v || results.hidden) { clearTimeout(searchTimer); if (!(await runSearch(v))) return; }
+    const rows = [...results.querySelectorAll('li[data-h]')];
+    chooseResult(rows.find((x) => x.classList.contains('on')) || rows[0]);
+    return;
+  }
+  if (results.hidden || shownFor !== v) return;
   const rows = [...results.querySelectorAll('li[data-h]')];
   const at = rows.findIndex((x) => x.classList.contains('on'));
   if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
@@ -734,9 +754,8 @@ q.addEventListener('keydown', (e) => {
     rows.forEach((x, i) => x.classList.toggle('on', i === next));
     rows[next].scrollIntoView({ block: 'nearest' });
   }
-  if (e.key === 'Enter') chooseResult(rows[at] || rows[0]);
 });
-q.addEventListener('focus', () => { if (results.innerHTML && q.value.trim().length >= 2) results.hidden = false; });
+q.addEventListener('focus', () => { hideWelcome(); if (results.innerHTML && shownFor && shownFor === q.value.trim()) results.hidden = false; });
 addEventListener('pointerdown', (e) => { if (!e.target.closest('.search')) results.hidden = true; });
 
 // ---------- layers + about ----------
@@ -962,7 +981,9 @@ async function openTreaty(id) {
 async function openCession(id) {
   state.selected = { kind: 'cession', id };
   panel.hidden = false;
-  const d = await getJSON(`/api/cession/${encodeURIComponent(id)}`);
+  let d;
+  try { d = await getJSON(`/api/cession/${encodeURIComponent(id)}`); } catch { body.innerHTML = '<p class="empty">Could not load this area.</p>'; return; }
+  if (state.selected?.id !== id) return;
   const b = highlightCessions([id], d.status);
   if (b) flyTo(b.mid, Math.max(b.size, 40));
   body.innerHTML = `<h2 style="margin-top:18px">Royce cession ${esc(id)}</h2><p class="sub">Land ceded to the United States</p>
@@ -975,22 +996,30 @@ async function openCession(id) {
 const brokenEl = $('#broken');
 const bt = { data: null, status: '', state: '', q: '', sort: 'old', shown: 0, list: [] };
 const BT_PAGE = 30;
+let btLoading = null;
+function loadBroken() {
+  if (bt.data) return Promise.resolve(true);
+  btLoading ||= getJSON('/api/broken').then((d) => { bt.data = d; return true; }).catch(() => { btLoading = null; return false; });
+  return btLoading;
+}
 async function openBroken(st = '') {
+  st = String(st || '').toUpperCase();
   bt.state = STATE_NAMES[st] ? st : '';
   brokenEl.hidden = false;
   panel.hidden = true;
   state.selected = null;
-  if (!bt.data) {
+  if (!brokenEl.dataset.ready) {
+    brokenEl.dataset.ready = '1';
     brokenEl.querySelector('.bt-cards').innerHTML = '<p class="sub">Gathering the treaties…</p>';
-    try { bt.data = await getJSON('/api/broken'); } catch { brokenEl.querySelector('.bt-cards').innerHTML = '<p class="empty">Could not load the treaties.</p>'; return; }
+    if (!(await loadBroken())) { brokenEl.dataset.ready = ''; brokenEl.querySelector('.bt-cards').innerHTML = '<p class="empty">Could not load the treaties.</p>'; return; }
     const d = bt.data;
-    brokenEl.querySelector('.bt-tally').innerHTML = `<b>${d.cards.length}</b> treaties with a documented wrong, out of <b>${d.researched}</b> researched so far (${d.total} in all).`;
+    brokenEl.querySelector('.bt-tally').innerHTML = `<b>${d.cards.length}</b> treaties with a documented wrong, out of <b>${d.researched}</b> researched (${d.total} in all).`;
     brokenEl.querySelector('.bt-status').innerHTML = Object.entries(d.statuses).map(([k, v]) => `<button data-s="${k}" title="${esc(v.note)}">${dot(k)}${esc(v.label)} <b>${v.count}</b></button>`).join('');
     const sel = brokenEl.querySelector('.bt-state');
     sel.insertAdjacentHTML('beforeend', stateOptions(d.states, ''));
     brokenEl.querySelector('.bt-controls').insertAdjacentHTML('beforeend', '<button class="bt-map">Show these on the map</button><button class="bt-print">Print</button>');
-    brokenEl.querySelector('.bt-map').addEventListener('click', showBrokenOnMap);
-    brokenEl.querySelector('.bt-print').addEventListener('click', () => { let n = 0; while (bt.shown < bt.list.length && n++ < 50) moreBroken(); print(); });
+    brokenEl.querySelector('.bt-map').addEventListener('click', () => { location.hash = `brokenmap/${bt.state || 'all'}`; });
+    brokenEl.querySelector('.bt-print').addEventListener('click', () => { while (bt.shown < bt.list.length) moreBroken(); print(); });
     brokenEl.querySelectorAll('[data-s]').forEach((b) => b.addEventListener('click', () => { bt.status = bt.status === b.dataset.s ? '' : b.dataset.s; brokenEl.querySelectorAll('[data-s]').forEach((x) => x.classList.toggle('on', x.dataset.s === bt.status)); drawBroken(); }));
     sel.addEventListener('change', (e) => { location.hash = `broken${e.target.value ? `/${e.target.value}` : ''}`; });
     brokenEl.querySelector('.bt-sort').addEventListener('change', (e) => { bt.sort = e.target.value; drawBroken(); });
@@ -998,32 +1027,37 @@ async function openBroken(st = '') {
     brokenEl.querySelector('.filter').addEventListener('input', (e) => { clearTimeout(tmr); tmr = setTimeout(() => { bt.q = e.target.value; drawBroken(); }, 150); });
     brokenEl.querySelector('.more').addEventListener('click', (e) => { if (e.target.closest('.morebtn')) moreBroken(); });
   }
+  if (!bt.data) return;
   brokenEl.querySelector('.bt-state').value = bt.state;
   drawBroken();
 }
 // Close the list and raise every listed treaty's land on the map at once.
-function showBrokenOnMap() {
+async function showBrokenOnMap(st) {
+  if (!(await loadBroken())) return;
+  bt.state = STATE_NAMES[st] ? st : '';
+  filterBroken();
   const ids = new Set(bt.list.map((c) => c.id));
+  if (!tre.list.length) await loadTreaties().catch(() => {});
   const cessions = tre.list.filter((t) => ids.has(t.id)).flatMap((t) => t.cessions);
   if (!$('#l-treaties').checked) { $('#l-treaties').checked = true; $('#l-treaties').dispatchEvent(new Event('change')); }
   if (mode !== 'then') setMode('then');
-  const back = location.hash;
-  history.pushState(null, '', '#');
-  brokenEl.hidden = true;
-  lastHash = '';
+  state.selected = { kind: 'brokenmap' };
   const b = highlightCessions(cessions, 'broken');
   if (b) flyTo(b.mid, Math.max(b.size, 60));
   panel.hidden = false;
-  state.selected = { kind: 'brokenmap' };
-  body.innerHTML = `<a class="backline" href="${esc(back)}">‹ Back to Broken treaties${bt.state ? ` (${esc(STATE_NAMES[bt.state])})` : ''}</a>
-    <h2 style="margin-top:12px">${bt.list.length} treaties on the map</h2><p class="sub">Their land is raised in red. Click any part of it for the treaty.</p>
-    ${bt.list.slice(0, 200).map((c) => treatyRow({ ...c, date: String(c.date || '').slice(0, 4) })).join('')}`;
+  const where = bt.state ? ` (${esc(STATE_NAMES[bt.state])})` : '';
+  body.innerHTML = `<a class="backline" href="#broken${bt.state ? `/${bt.state}` : ''}">‹ Back to Broken treaties${where}</a>
+    <h2 style="margin-top:12px">${bt.list.length} treaties on the map${where}</h2><p class="sub">Their land is raised in red. Click any part of it, or a treaty below.</p>
+    ${bt.list.map((c) => treatyRow({ ...c, date: String(c.date || '').slice(0, 4) })).join('')}`;
 }
-function drawBroken() {
+function filterBroken() {
   const w = bt.q.toLowerCase().split(/\s+/).filter(Boolean);
   bt.list = bt.data.cards.filter((c) => (!bt.status || c.status === bt.status) && (!bt.state || c.states.includes(bt.state)) &&
     w.every((x) => `${c.name} ${c.date} ${c.nations.join(' ')} ${c.today.join(' ')} ${c.states.join(' ')}`.toLowerCase().includes(x)));
   if (bt.sort === 'new') bt.list.reverse();
+}
+function drawBroken() {
+  filterBroken();
   brokenEl.querySelector('.bt-count').textContent = `${bt.list.length} shown${bt.state ? ` in ${STATE_NAMES[bt.state]}` : ''}`;
   brokenEl.querySelector('.bt-cards').innerHTML = bt.list.length ? '' : '<p class="empty">Nothing matches yet. The research reaches more treaties every round.</p>';
   bt.shown = 0;
@@ -1093,7 +1127,8 @@ async function openNation(id) {
   groups.focus.clear();
   panel.hidden = false;
   let n;
-  try { n = await getJSON(`/api/nation/${encodeURIComponent(id)}`); } catch { body.innerHTML = '<p class="empty">Could not load this nation.</p>'; return; }
+  try { n = await getJSON(`/api/nation/${encodeURIComponent(id)}`); } catch { if (state.selected?.id === id) body.innerHTML = '<p class="empty">Could not load this nation.</p>'; return; }
+  if (state.selected?.kind !== 'nation' || state.selected.id !== id) return;
   if (n.xz) flyTo(n.xz, 60);
   const o = n.official || {};
   const own = [link(o.website, 'Official website'), link(o.culture, 'Culture department'), link(o.museum, 'Museum'), link(o.language, 'Language program'), link(o.thpo, 'Historic preservation office'), link(o.radio, 'Radio')].filter(Boolean);
@@ -1112,11 +1147,12 @@ async function openBusiness(id) {
   groups.focus.clear();
   panel.hidden = false;
   let b;
-  try { b = await getJSON(`/api/business/${encodeURIComponent(id)}`); } catch { body.innerHTML = '<p class="empty">This listing is not on the map.</p>'; return; }
+  try { b = await getJSON(`/api/business/${encodeURIComponent(id)}`); } catch { if (state.selected?.id === id) body.innerHTML = '<p class="empty">This listing is not on the map.</p>'; return; }
+  if (state.selected?.kind !== 'business' || state.selected.id !== id) return;
   flyTo(b.xz, 40);
   body.innerHTML = `<h2 style="margin-top:18px">${esc(b.name)}</h2>
     <p class="sub"><i class="sdot" style="background:${CAT_COLOR[b.category]}"></i>${esc(b.categoryLabel)}${b.subcategory ? ` · ${esc(b.subcategory)}` : ''}</p>
-    ${b.nation ? `<p><b>${b.nationId ? `<a href="#nation/${encodeURIComponent(b.nationId)}">${esc(b.nation)}</a>` : esc(b.nation)}</b></p>` : ''}
+    ${b.nation ? `<p><b>${b.nationId ? `<a href="#nation/${encodeURIComponent(b.nationId)}">${esc(b.nation)}</a>` : esc(b.nation)}</b>${b.homeland ? ` · <a href="#territory/${encodeURIComponent(b.homeland.id)}">Homeland: ${esc(b.homeland.name)}</a>` : ''}</p>` : ''}
     ${b.description ? `<p>${esc(b.description)}</p>` : ''}
     <div class="links">${link(b.website, 'Website')}${link(b.shopOnline, 'Shop online')}</div>
     <h3>Where</h3><p>${b.address && !b.homeBased ? `${esc(b.address)}, ` : ''}${esc(b.city || '')}, ${esc(b.state)}</p>
@@ -1132,9 +1168,9 @@ async function openBusinessList(cat, st) {
   panel.hidden = false;
   if (mode !== 'today') setMode('today');
   if (cat !== undefined) bizCat = cat;
-  if (st !== undefined && st !== null) bizState = STATE_NAMES[st] ? st : '';
+  if (st !== undefined && st !== null) { st = String(st).toUpperCase(); bizState = STATE_NAMES[st] ? st : ''; }
   if (!bizStates) {
-    try { const all = await getJSON('/api/businesses?limit=1000'); bizStates = {}; for (const x of all.businesses) bizStates[x.state] = (bizStates[x.state] || 0) + 1; } catch { bizStates = {}; }
+    try { bizStates = (await getJSON('/api/businesses?limit=1')).states || {}; } catch { bizStates = {}; }
   }
   const fresh = !body.querySelector('.bizlist');
   if (fresh) {
@@ -1184,30 +1220,34 @@ async function openWhere(arg) {
     if (!navigator.geolocation) { out.innerHTML = '<p class="empty">This browser cannot share a location. Type a town instead.</p>'; return; }
     out.innerHTML = '<p class="sub">Asking the browser where you are…</p>';
     navigator.geolocation.getCurrentPosition(
-      (p) => { location.hash = `where/${p.coords.longitude.toFixed(3)},${p.coords.latitude.toFixed(3)}`; },
+      (p) => { location.hash = `where/@${p.coords.longitude.toFixed(3)},${p.coords.latitude.toFixed(3)}`; },
       () => { out.innerHTML = '<p class="empty">The location was not shared. Type a town instead.</p>'; },
       { timeout: 10000, maximumAge: 600000 });
   });
   if (!arg) { form.q.focus(); return; }
   let lonlat = null, label = arg;
-  const ll = arg.match(/^(-?\d+(?:\.\d+)?),(-?\d+(?:\.\d+)?)$/);
+  // "@lon,lat" comes from this page (your location, a map pin); anything typed goes to the server,
+  // which reads "lat, lon" the way people write it.
+  const ll = arg.match(/^@(-?\d+(?:\.\d+)?),(-?\d+(?:\.\d+)?)$/);
+  const token = (openWhere.token = (openWhere.token || 0) + 1);
   if (ll) { lonlat = [Number(ll[1]), Number(ll[2])]; label = `This spot (${lonlat[1].toFixed(2)}, ${lonlat[0].toFixed(2)})`; }
   else {
     form.q.value = arg;
     const r = await getJSON(`/api/where?q=${encodeURIComponent(arg)}`);
+    if (token !== openWhere.token) return;
     if (!r.matches.length) {
       out.innerHTML = r.gazetteer ? `<p class="empty">No town or zip code called "${esc(arg)}" found. Try "Town, ST".</p>`
         : '<p class="empty">Town and zip lookup is not installed on this copy yet. Use your location, or type coordinates like 30.27, -97.74.</p>';
       return;
     }
     lonlat = r.matches[0].lonlat;
-    label = `${r.matches[0].name}${r.matches[0].state ? `, ${r.matches[0].state}` : ''}`;
+    label = r.matches[0].kind === 'point' ? `This spot (${lonlat[1]}, ${lonlat[0]})` : `${r.matches[0].name}${r.matches[0].state ? `, ${r.matches[0].state}` : ''}`;
     if (r.matches.length > 1) out.dataset.others = JSON.stringify(r.matches.slice(1, 6));
   }
   out.innerHTML = '<p class="sub">Looking…</p>';
   let d;
   try { d = await getJSON(`/api/where?lon=${lonlat[0]}&lat=${lonlat[1]}`); } catch { out.innerHTML = '<p class="empty">That spot is outside this map.</p>'; return; }
-  if (state.selected?.kind !== 'where') return;
+  if (state.selected?.kind !== 'where' || token !== openWhere.token) return;
   flyTo(d.xz, 160);
   groups.focus.clear();
   const pin = new THREE.Mesh(new THREE.CylinderGeometry(0.8, 0.8, 30, 12), new THREE.MeshBasicMaterial({ color: '#f2e8d8' }));
@@ -1215,16 +1255,16 @@ async function openWhere(arg) {
   const pinG = new THREE.Group(); pinG.add(pin); pinG.userData.rise = 1; groups.focus.add(pinG);
   const others = out.dataset.others ? JSON.parse(out.dataset.others) : [];
   let h = `<h3>${esc(label)}</h3>`;
-  if (others.length) h += `<p class="note">Not this one? ${others.map((o) => `<a href="#where/${o.lonlat[0]},${o.lonlat[1]}">${esc(o.name)}, ${esc(o.state)}</a>`).join(' · ')}</p>`;
+  if (others.length) h += `<p class="note">Not this one? ${others.map((o) => `<a href="#where/${encodeURIComponent(`${o.name}, ${o.state}`)}">${esc(o.name)}, ${esc(o.state)}</a>`).join(' · ')}</p>`;
   h += d.homelands.length ? `<p>This is the homeland of</p><div class="links big">${d.homelands.map((t) => `<a href="#territory/${encodeURIComponent(t.id)}"><span class="swatch" style="background:${esc(t.color)}"></span>${esc(t.name)}</a>`).join('')}</div>
       <p class="note">Homelands overlap: borders were shared, seasonal and negotiated. Outlines from Native Land Digital are approximate, a place to start a conversation, not settle one.</p>`
     : '<p class="empty">No homeland outline on this map covers this exact spot. That does not mean no one belonged here.</p>';
   if (d.onLand.length) h += `<h3>You are on tribal land today</h3>${d.onLand.map((l) => `<a class="trow" href="#land/${encodeURIComponent(l.id)}"><span>${esc(l.name)}</span><small>${esc(l.kind)}</small></a>`).join('')}`;
   if (d.treaties.length) h += `<h3>How this land was taken</h3>${d.treaties.map(treatyRow).join('')}`;
   else h += '<h3>How this land was taken</h3><p class="empty">No land cession in Royce\'s survey covers this spot. Some land was taken with no treaty at all.</p>';
-  h += `<h3>Nations nearby today</h3>${d.nations.map((n) => `<a class="trow" href="#nation/${encodeURIComponent(n.id)}"><span>${esc(n.name)}</span><small>${n.km} km</small></a>`).join('')}`;
+  h += `<h3>Nations nearby today</h3>${d.nations.length ? '' : '<p class="empty">No nation\'s seat of government within 500 km.</p>'}${d.nations.map((n) => `<a class="trow" href="#nation/${encodeURIComponent(n.id)}"><span>${esc(n.name)}</span><small>${n.km} km</small></a>`).join('')}`;
   if (d.nearLands.length) h += `<details class="more-n"><summary>Nearest tribal lands</summary>${d.nearLands.map((l) => `<a class="trow" href="#land/${encodeURIComponent(l.id)}"><span>${esc(l.name)}</span><small>${l.km} km</small></a>`).join('')}</details>`;
-  h += `<h3>Native businesses near here</h3>${d.businesses.map((b) => `<a class="trow" href="#business/${encodeURIComponent(b.id)}"><i class="sdot" style="background:${CAT_COLOR[b.category]}"></i><span>${esc(b.name)}${b.nation ? ` <small>${esc(b.nation)}</small>` : ''}</span><small>${b.km} km · ${esc(b.city || '')}</small></a>`).join('') || '<p class="empty">None listed nearby yet.</p>'}`;
+  h += `<h3>Native businesses near here</h3>${d.businesses.map((b) => `<a class="trow" href="#business/${encodeURIComponent(b.id)}"><i class="sdot" style="background:${CAT_COLOR[b.category]}"></i><span>${esc(b.name)}${b.nation ? ` <small>${esc(b.nation)}</small>` : ''}</span><small>${b.km} km · ${esc(b.city || '')}</small></a>`).join('') || '<p class="empty">None listed within 800 km yet.</p>'}`;
   out.innerHTML = h;
   delete out.dataset.others;
 }

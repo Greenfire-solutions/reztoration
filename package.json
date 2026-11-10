@@ -4,10 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node --test tests/api.test.mjs",
     "start": "node server.mjs",
     "build": "node scripts/build-map.mjs",
-    "harvest": "for s in ia loc art mia journals smithsonian openalex plants profiles; do node scripts/harvest/$s.mjs > logs/harvest-$s.log 2>&1 & done; wait"
+    "harvest": "for s in ia loc art mia journals smithsonian openalex plants profiles; do node scripts/harvest/$s.mjs > logs/harvest-$s.log 2>&1 & done; wait",
+    "test:pages": "node tests/pages.mjs",
+    "check": "node scripts/research/check-findings.mjs && npm test && npm run test:pages"
   },
   "keywords": [],
   "author": "",

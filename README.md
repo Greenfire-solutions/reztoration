@@ -8,6 +8,9 @@ Read PROTOCOLS.md first.
 
     npm start            # http://localhost:8600  (8602 for tests)
     npm run build        # rebuild map geometry from data/raw
+    npm test             # API suite: search, What land am I on?, treaties, businesses, the protocols (own server on 8602)
+    npm run test:pages   # every screen in headless Chrome, counted in the live DOM (SHOTS=dir keeps screenshots)
+    npm run check        # treaty checker + both suites; run before calling anything done
 
 Or double-click **Start Reztoration.command**.
 

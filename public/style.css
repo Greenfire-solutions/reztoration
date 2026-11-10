@@ -297,3 +297,17 @@ body[data-mode="today"] .then-only { display: none; }
   .top .libbtn { flex: 1 1 auto; text-align: center; }
 }
 .top { z-index: 3; }
+
+/* fixes from the 11-10 fresh-eyes pass */
+@media print {
+  #labels, #legend, #key-btn, .backline, #close, .whereform, .locate, .tabs.main, .story-chips, .more, .morebtn { display: none !important; }
+  .bt-tally b, .bt-card h3, .bt-card dd { color: #000 !important; }
+  #panel:not([hidden]) { display: block !important; position: static; width: auto; height: auto; overflow: visible; background: #fff; color: #000; border: 0; backdrop-filter: none; }
+  #panel h2, #panel h3, #panel p, #panel .sub, #panel .k { color: #000 !important; }
+  .hero { padding-top: 0 !important; background: none !important; }
+  .card, .trow { border-color: #bbb; color: #000; }
+}
+@media (max-width: 720px) {
+  #panel .cat-chips, #panel .story-chips, .bt-status { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; }
+  #panel .cat-chips button, #panel .story-chips button { flex: none; }
+}

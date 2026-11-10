@@ -120,4 +120,8 @@ server.on('error', (e) => {
   if (e.code === 'EADDRINUSE') { console.error(`Port ${PORT} is taken by something else. Not starting.`); process.exit(3); }
   throw e;
 });
-server.listen(PORT, '127.0.0.1', () => console.log(`Reztoration on http://localhost:${PORT}`));
+server.listen(PORT, '127.0.0.1', () => {
+  console.log(`Reztoration on http://localhost:${PORT}`);
+  // Build the slow indexes now, so the first person to open a nation or search is not the one who waits.
+  setTimeout(() => { try { const t = Date.now(); today.map(); treaties.summary(); treaties.forNationNames([], null); lib.search('warm'); console.log(`warm in ${Date.now() - t} ms`); } catch (e) { console.error('warm-up failed', e); } }, 50);
+});
